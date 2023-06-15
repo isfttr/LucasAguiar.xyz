@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://isfttr.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Lucas Page"
+theme = "ananke"
