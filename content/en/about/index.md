@@ -1,6 +1,9 @@
 ---
 title: "About Me"
 date: 2023-06-14T13:26:21-03:00
+menu:
+  main:
+    weight: 1
 #draft: true
 ---
 

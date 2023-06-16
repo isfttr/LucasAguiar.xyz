@@ -1,4 +1,12 @@
-baseURL = "https://isfttr.github.io"
+#baseURL = "https://isfttr.github.io"
+baseURL = "https://lucasaguiar.xyz"
 languageCode = "en-us"
-title = "Lucas Page"
+title = "Lucas F. Aguiar"
 theme = "ananke"
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
