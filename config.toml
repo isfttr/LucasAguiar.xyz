@@ -39,3 +39,5 @@ Paginate = 10 # this is set low for demonstrating with dummy content. Set to a h
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://linkedin.com/in/lucas-fernandes-aguiar"
+#github = "github"
+#githuburl = "https://github.com/isfttr"
