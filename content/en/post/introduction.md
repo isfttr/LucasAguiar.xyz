@@ -1,10 +1,23 @@
 ---
 date: 2023-06-16T22:46:19-03:00
-#draft: true
-description: "A long introduction to my personal page"
+description: A long introduction to my personal page
 featured_image: ""
-tags: [intellectual-property,cloud,linux,zorin,ubuntu,databases]
-title: "Introduction"
+tags:
+  - intellectual-property
+  - cloud
+  - linux
+  - zorin
+  - ubuntu
+  - databases
+title: Introduction
+categories:
+  - article
+  - story
+keywords:
+  - story
+  - technology
+  - data
+slug: introduction
 ---
 
 The last months have been very exciting to me. The most exciting and difficult part by far is having my newborn son, whom is almost 3 months old. The other exciting part is that I finally understood that if I really like technology I should really invest in it. 
