@@ -1,7 +1,7 @@
 ---
 date: 2023-06-16T22:46:19-03:00
-draft: true
-description: "The long introduction to my personal page"
+#draft: true
+description: "A long introduction to my personal page"
 featured_image: ""
 tags: [intellectual-property,cloud,linux,zorin,ubuntu,databases]
 title: "Introduction"
