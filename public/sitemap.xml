@@ -3,31 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lucasaguiar.xyz/en/posts/</loc>
+    <loc>https://lucasaguiar.xyz/posts/</loc>
+    <lastmod>2023-06-16T21:06:09-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lucasaguiar.xyz/categories/</loc>
+    <loc>https://lucasaguiar.xyz/posts/second/</loc>
+    <lastmod>2023-06-16T21:06:09-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lucasaguiar.xyz/pt-br/posts/</loc>
+    <loc>https://lucasaguiar.xyz/posts/post/</loc>
+    <lastmod>2023-06-16T21:02:09-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lucasaguiar.xyz/en/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lucasaguiar.xyz/pt-br/</loc>
+    <loc>https://lucasaguiar.xyz/about/</loc>
+    <lastmod>2023-06-14T13:26:21-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lucasaguiar.xyz/</loc>
+    <lastmod>2023-06-14T13:26:21-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lucasaguiar.xyz/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lucasaguiar.xyz/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

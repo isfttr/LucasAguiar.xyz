@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lucas F. Aguiar</title>
+    <title>Hi, I&#39;m Lucas on Lucas F. Aguiar</title>
     <link>https://lucasaguiar.xyz/</link>
-    <description>Recent content on Lucas F. Aguiar</description>
+    <description>Recent content in Hi, I&#39;m Lucas on Lucas F. Aguiar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jun 2023 13:26:21 -0300</lastBuildDate>
     
 	<atom:link href="https://lucasaguiar.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second</title>
+      <link>https://lucasaguiar.xyz/posts/second/</link>
+      <pubDate>Fri, 16 Jun 2023 21:06:09 -0300</pubDate>
+      
+      <guid>https://lucasaguiar.xyz/posts/second/</guid>
+      <description>Just the second posting</description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>https://lucasaguiar.xyz/posts/post/</link>
+      <pubDate>Fri, 16 Jun 2023 21:02:09 -0300</pubDate>
+      
+      <guid>https://lucasaguiar.xyz/posts/post/</guid>
+      <description>Just testing the first post.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://lucasaguiar.xyz/about/</link>
+      <pubDate>Wed, 14 Jun 2023 13:26:21 -0300</pubDate>
+      
+      <guid>https://lucasaguiar.xyz/about/</guid>
+      <description>Hi, my name is Lucas Fernandes Aguiar, born in Brazil and I&amp;rsquo;m a chemist, specialized in intellectual property, currently working at Universidade de Brasília (UnB) as a patent prosecutor and researcher.
+Education Certifications Interests </description>
+    </item>
     
   </channel>
 </rss>
