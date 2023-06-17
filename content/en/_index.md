@@ -7,4 +7,4 @@ cascade:
   featured_image: '/images/red-and-blue.jpg'
 ---
 
-Welcome to my blog with some of my work in progress.
+Here is some content for my readers.
