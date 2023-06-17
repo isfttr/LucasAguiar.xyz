@@ -28,6 +28,9 @@ Worked as the head of the financial management at the Transportation subsidiary 
 
 This is was a valuable experience for me because I could work with a large team at this subsidiary and also with a large number of suppliers everyday with negotiations involved. Communication and problem solving skills were needed everyday, even so because the company was making a turnaround in its operations, so on top of the day-to-day activities, a lot of work on new processes had to be done to succeed. Although it was just a year of work, the situation when I left was far better, with no payments pending to suppliers.
 
+# Skills
+
+
 # Projects
 
 ## Azure CDN Project
