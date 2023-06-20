@@ -7,4 +7,4 @@ menu:
 #draft: true
 ---
 
-lucas.fernandes.df@gmail.com
+[lucas.fernandes.df@gmail.com](lucas.fernandes.df@gmail.com)
