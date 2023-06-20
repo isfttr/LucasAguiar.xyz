@@ -5,6 +5,7 @@ menu:
   main:
     weight: 1
 #draft: true
+featured_image: 'images/jigar-panchal-iS1ZApbHv9g-unsplash.jpg'
 ---
 
 [lucas.fernandes.df@gmail.com](lucas.fernandes.df@gmail.com)
