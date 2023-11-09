@@ -54,20 +54,5 @@
       "title": "en",
       "path": "[[workspace]]/content/en"
     }
-  ],
-  "frontMatter.taxonomy.tags": [
-    "cloud",
-    "databases",
-    "intellectual-property",
-    "linux",
-    "nixos",
-    "qemu",
-    "ubuntu",
-    "virtual-machine",
-    "zorin"
-  ],
-  "frontMatter.taxonomy.categories": [
-    "article",
-    "story"
   ]
 }
