@@ -14,7 +14,7 @@ Read about my skills and experience in [About Me](about/) page.
 
 ## Articles
 
-I have some [articles](post/) on the topics of intellectual property and innovation
+I have some [articles](post/) on the topics of intellectual property and innovation.
 
 ## Projects
 
