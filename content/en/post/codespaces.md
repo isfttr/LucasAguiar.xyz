@@ -10,5 +10,3 @@ title: "Codespaces"
 # What is GitHub Codespaces
 
 # How I use it
-
-
