@@ -27,4 +27,4 @@ Overall, the device is really interesting but the functionality of the hardware 
 
 To wrap this up, I did a little digging into what was the number of iPods sold for the first 3 years. It was launched at the end of 2001 and sold 115.000 devices. In 2002 and 2003, the number of devices sold went to 600.000 and more than 2.000.000. So, the number of devices ready to be sold by hu.ma.ne seems to be well in accordance to a new product. But, there are caveats to the comparison, the main one the the subscription part. We will have to see if people are really into buying a completely new device and pay subscription to make it useful.
 
-![A hu.ma.ne AI Pin attached to the clothing and helping with information about the fruit.](images/humane-ai-pin.jpeg)
+![A hu.ma.ne AI Pin attached to the clothing and helping with information about the fruit.](/content/en/post/images/humane-ai-pin.jpeg)

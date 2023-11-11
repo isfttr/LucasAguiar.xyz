@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e9bd53dab0cf0cf",
+        "id": "7a593c7e6d849839",
         "type": "tabs",
         "children": [
           {
-            "id": "4c4bc392f104dc96",
+            "id": "1aadc558515403ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6568b3e99f1d751f",
@@ -150,16 +149,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c4bc392f104dc96",
+  "active": "1aadc558515403ca",
   "lastOpenFiles": [
     "content/en/post/images/humane-ai-pin.jpeg",
+    "SCR-20231111-ljfe-2.jpeg",
+    "content/en/post/ai-pin.md",
+    "Users/lucasaguiar/Blog/content/en/post/images/humane-ai-pin.jpeg.md",
+    "Users/lucasaguiar/Blog/content/en/post/images",
+    "Users/lucasaguiar/Blog/content/en/post",
+    "Users/lucasaguiar/Blog/content/en",
+    "Users/lucasaguiar/Blog/content",
+    "Users/lucasaguiar/Blog",
+    "Users/lucasaguiar",
+    "Users",
     "content/en/post/images/SCR-20231111-ljfe-2.jpeg",
     "content/en/post/images",
     "content/en/post/untitled folder",
-    "SCR-20231111-ljfe-2.jpeg",
     "static/images/SCR-20231111-ljfe-2.jpeg",
     "content/en/post/codespaces.md",
-    "content/en/post/ai-pin.md",
     "archetypes/default.md",
     "archetypes/defaultX.md",
     "content/en/post/thoughts-ai-pin.md",
