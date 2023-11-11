@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archetypes/post.md",
+                "file": "content/en/post/ai-pin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archetypes/post.md",
+                "file": "content/en/post/ai-pin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archetypes/post.md",
+                "file": "content/en/post/ai-pin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archetypes/post.md"
+                "file": "content/en/post/ai-pin.md"
               }
             }
           }
@@ -149,10 +149,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1aadc558515403ca",
+  "active": "94fc1c2b4a5d5011",
   "lastOpenFiles": [
-    "archetypes/default.md",
     "archetypes/post.md",
+    "archetypes/default.md",
     "content/en/post/ai-pin.md",
     "content/en/post/images/humane-ai-pin.jpeg",
     "SCR-20231111-ljfe-2.jpeg",
