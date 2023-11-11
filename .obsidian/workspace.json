@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/template-post.md",
+                "file": "content/en/post/update_on_life_november-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6568b3e99f1d751f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/template-post.md",
+                "file": "content/en/post/update_on_life_november-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/template-post.md",
+                "file": "content/en/post/update_on_life_november-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/template-post.md"
+                "file": "content/en/post/update_on_life_november-2023.md"
               }
             }
           }
@@ -144,13 +145,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "94fc1c2b4a5d5011",
+  "active": "b7039f82966bd27e",
   "lastOpenFiles": [
+    "content/en/post/introduction.md",
+    "content/en/post/update_on_life_november-2023.md",
+    "templates/template-post.md",
     "templates",
-    "content/en/post/codespaces.md",
-    "templates/template-post.md"
+    "content/en/post/codespaces.md"
   ]
 }
