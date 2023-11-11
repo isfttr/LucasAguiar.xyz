@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7a593c7e6d849839",
+        "id": "48d1ba83d240001c",
         "type": "tabs",
         "children": [
           {
-            "id": "1aadc558515403ca",
+            "id": "89ffc0500ada1b2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/en/post/ai-pin.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/post/ai-pin.md",
+                "file": "static/images/humane-ai-pin.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/post/ai-pin.md",
+                "file": "static/images/humane-ai-pin.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/post/ai-pin.md"
+                "file": "static/images/humane-ai-pin.jpeg"
               }
             }
           }
@@ -151,10 +147,11 @@
   },
   "active": "94fc1c2b4a5d5011",
   "lastOpenFiles": [
+    "content/en/post/images/humane-ai-pin.jpeg",
+    "static/images/humane-ai-pin.jpeg",
+    "content/en/post/ai-pin.md",
     "archetypes/post.md",
     "archetypes/default.md",
-    "content/en/post/ai-pin.md",
-    "content/en/post/images/humane-ai-pin.jpeg",
     "SCR-20231111-ljfe-2.jpeg",
     "Users/lucasaguiar/Blog/content/en/post/images/humane-ai-pin.jpeg.md",
     "Users/lucasaguiar/Blog/content/en/post/images",
