@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/post/update_on_life_november-2023.md",
+                "file": "archetypes/default.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/post/update_on_life_november-2023.md",
+                "file": "archetypes/default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/post/update_on_life_november-2023.md",
+                "file": "archetypes/default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/post/update_on_life_november-2023.md"
+                "file": "archetypes/default.md"
               }
             }
           }
@@ -151,10 +151,10 @@
   },
   "active": "b7039f82966bd27e",
   "lastOpenFiles": [
-    "content/en/contact.md",
-    "content/en/post/update_on_life_november-2023.md",
-    "content/en/post/introduction.md",
     "templates/template-post.md",
+    "content/en/post/update_on_life_november-2023.md",
+    "content/en/contact.md",
+    "content/en/post/introduction.md",
     "templates",
     "content/en/post/codespaces.md"
   ]

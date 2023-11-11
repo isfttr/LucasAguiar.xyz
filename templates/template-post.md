@@ -1,9 +1,9 @@
 ---
-date: 2023-06-17T00:27:40-03:00
+date: 
 draft: true
 description: ""
 featured_image: ""
-tags: []
-title: "Codespaces"
+tags: 
+title: Codespaces
 ---
 
