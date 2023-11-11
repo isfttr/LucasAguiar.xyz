@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/post/ai-pin.md",
+                "file": "archetypes/post.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/post/ai-pin.md",
+                "file": "archetypes/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/post/ai-pin.md",
+                "file": "archetypes/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/post/ai-pin.md"
+                "file": "archetypes/post.md"
               }
             }
           }
@@ -151,9 +151,11 @@
   },
   "active": "1aadc558515403ca",
   "lastOpenFiles": [
+    "archetypes/default.md",
+    "archetypes/post.md",
+    "content/en/post/ai-pin.md",
     "content/en/post/images/humane-ai-pin.jpeg",
     "SCR-20231111-ljfe-2.jpeg",
-    "content/en/post/ai-pin.md",
     "Users/lucasaguiar/Blog/content/en/post/images/humane-ai-pin.jpeg.md",
     "Users/lucasaguiar/Blog/content/en/post/images",
     "Users/lucasaguiar/Blog/content/en/post",
@@ -167,7 +169,6 @@
     "content/en/post/untitled folder",
     "static/images/SCR-20231111-ljfe-2.jpeg",
     "content/en/post/codespaces.md",
-    "archetypes/default.md",
     "archetypes/defaultX.md",
     "content/en/post/thoughts-ai-pin.md",
     "templates/template-post.md",
