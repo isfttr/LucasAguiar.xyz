@@ -8,14 +8,14 @@ cascade:
   featured_image: '/images/jigar-panchal-ME1_AXA5lAM-unsplash.jpg'
 ---
 
-# Skills
+## Skills
 
 Read about my skills and experience in [About Me](about/) page.
 
-# Articles
+## Articles
 
 I have some [articles](post/) on the topics of intellectual property and innovation
 
-# Projects
+## Projects
 
 And some [projects](project/) I've done to gain experience in the areas of web, data and cloud computing.
