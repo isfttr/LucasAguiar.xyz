@@ -2,7 +2,7 @@
 date: 2023-11-10
 draft: false
 description: The startup hu.ma.ne launched its first product, the AI Pin. This device is really different and it is another landmark on the beginning of the AI era. A device exclusively made to be the AI assistant for the everyday folk. Will it succeed?
-featured_image: images/humane-ai-pin.jpeg
+featured_image: humane-ai-pin.jpeg
 tags:
   - AI
   - humane
@@ -27,4 +27,4 @@ Overall, the device is really interesting but the functionality of the hardware 
 
 To wrap this up, I did a little digging into what was the number of iPods sold for the first 3 years. It was launched at the end of 2001 and sold 115.000 devices. In 2002 and 2003, the number of devices sold went to 600.000 and more than 2.000.000. So, the number of devices ready to be sold by hu.ma.ne seems to be well in accordance to a new product. But, there are caveats to the comparison, the main one the the subscription part. We will have to see if people are really into buying a completely new device and pay subscription to make it useful.
 
-![A hu.ma.ne AI Pin attached to the clothing and helping with information about the fruit. (Photo by hu.ma.ne)](images/humane-ai-pin.jpeg)
+![Photo by hu.ma.ne.](/humane-ai-pin.jpeg)

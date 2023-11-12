@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "48d1ba83d240001c",
+        "id": "6ef6ef6c18377cb0",
         "type": "tabs",
         "children": [
           {
-            "id": "89ffc0500ada1b2b",
+            "id": "b22c2b5ee39859e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/post/ai-pin.md",
+                "file": "content/en/post/10-years-of macbook-pro-9,2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/post/ai-pin.md",
+                "file": "content/en/post/10-years-of macbook-pro-9,2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/post/ai-pin.md",
+                "file": "content/en/post/10-years-of macbook-pro-9,2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/post/ai-pin.md"
+                "file": "content/en/post/10-years-of macbook-pro-9,2.md"
               }
             }
           }
@@ -149,35 +149,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "89ffc0500ada1b2b",
+  "active": "94fc1c2b4a5d5011",
   "lastOpenFiles": [
+    "content/en/post/ai-pin.md",
+    "humane-ai-pin.jpeg",
+    "images/humane-ai-pin.jpeg.md",
+    "images",
+    "themes/ananke/archetypes/default.md",
     "content/en/post/10-years-of macbook-pro-9,2.md",
+    "content/en/post/test.md",
+    "themes/ananke/theme.toml",
+    "themes/ananke/static/images/gohugo-default-sample-hero-image.jpg",
+    "themes/ananke/static/images",
+    "themes/ananke/static",
+    "themes/ananke/stackbit.yaml",
+    "themes/ananke/resources/_gen/assets/css/ananke/css/main.css_83735de7ca999e9c17f3419b41b93fdb.json",
+    "themes/ananke/resources/_gen/assets/css/ananke/css/main.css_83735de7ca999e9c17f3419b41b93fdb.content",
+    "themes/ananke/resources/_gen/assets/css/ananke/css",
+    "themes/ananke/resources/_gen/assets/css/ananke",
+    "themes/ananke/resources/_gen/assets/css",
+    "themes/ananke/layouts/partials/svg/tiktok.svg",
+    "themes/ananke/layouts/partials/svg/new-window.svg",
+    "themes/ananke/images/tn.png",
+    "themes/ananke/images/screenshot.png",
+    "themes/ananke/exampleSite/content/fr/post/chapter-1.md",
+    "themes/ananke/exampleSite/content/fr/post/_index.md",
+    "themes/ananke/exampleSite/content/en/post/chapter-6.md",
+    "themes/ananke/exampleSite/content/en/post/chapter-5.md",
+    "themes/ananke/exampleSite/content/en/post/chapter-4.md",
+    "themes/ananke/exampleSite/content/en/post/chapter-3.md",
+    "themes/ananke/exampleSite/content/en/post/chapter-2.md",
+    "themes/ananke/exampleSite/content/en/post/chapter-1.md",
+    "themes/ananke/exampleSite/content/en/post/_index.md",
+    "themes/ananke/exampleSite/content/en/about/index.md",
+    "themes/ananke/exampleSite/static/images/notebook.jpg",
+    "themes/ananke/exampleSite/static/images/esmeralda.jpg",
+    "themes/ananke/exampleSite/static/images/Victor_Hugo-Hunchback.jpg",
+    "themes/ananke/exampleSite/static/images/Pope-Edouard-de-Beaumont-1844.jpg",
+    "themes/ananke/exampleSite/content/fr/contact.md",
+    "themes/ananke/exampleSite/content/fr/_index.md",
+    "themes/ananke/exampleSite/content/en/contact.md",
+    "themes/ananke/exampleSite/content/en/_index.md",
+    "themes/ananke/README.md",
+    "themes/ananke/LICENSE.md",
+    "themes/ananke/CHANGELOG.md",
     "archetypes/temp.md",
     "archetypes/post.md",
-    "static/images/humane-ai-pin.jpeg",
-    "content/en/post/images/humane-ai-pin.jpeg",
-    "content/en/post/ai-pin.md",
-    "archetypes/default.md",
-    "SCR-20231111-ljfe-2.jpeg",
-    "Users/lucasaguiar/Blog/content/en/post/images/humane-ai-pin.jpeg.md",
-    "Users/lucasaguiar/Blog/content/en/post/images",
-    "Users/lucasaguiar/Blog/content/en/post",
-    "Users/lucasaguiar/Blog/content/en",
-    "Users/lucasaguiar/Blog/content",
-    "Users/lucasaguiar/Blog",
-    "Users/lucasaguiar",
-    "Users",
-    "content/en/post/images/SCR-20231111-ljfe-2.jpeg",
-    "content/en/post/images",
-    "content/en/post/untitled folder",
-    "static/images/SCR-20231111-ljfe-2.jpeg",
-    "content/en/post/codespaces.md",
-    "archetypes/defaultX.md",
-    "content/en/post/thoughts-ai-pin.md",
-    "templates/template-post.md",
-    "content/en/post/update_on_life_november-2023.md",
-    "content/en/contact.md",
-    "content/en/post/introduction.md",
-    "templates"
+    "archetypes/default.md"
   ]
 }
