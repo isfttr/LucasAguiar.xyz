@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ef6ef6c18377cb0",
+        "id": "7de0d00b5002edb4",
         "type": "tabs",
         "children": [
           {
-            "id": "b22c2b5ee39859e1",
+            "id": "fac7171d8609eb71",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,14 +149,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94fc1c2b4a5d5011",
+  "active": "fac7171d8609eb71",
   "lastOpenFiles": [
+    "macbook-2012.png",
+    "macbook-pro9,2.jpg.md",
+    "content/en/post/10-years-of macbook-pro-9,2.md",
+    "static/humane-ai-pin.jpeg",
+    "images/macbook-2012.png",
     "content/en/post/ai-pin.md",
+    "static/macbook-2012.png",
+    "static/macbook-pro9,2.jpg",
+    "static/macbook-2012.png.sb-f7b67368-QF29NU",
     "humane-ai-pin.jpeg",
+    "static/SCR-20231112-mbll.png",
+    "static/20231112_131916.jpg",
     "images/humane-ai-pin.jpeg.md",
     "images",
     "themes/ananke/archetypes/default.md",
-    "content/en/post/10-years-of macbook-pro-9,2.md",
     "content/en/post/test.md",
     "themes/ananke/theme.toml",
     "themes/ananke/static/images/gohugo-default-sample-hero-image.jpg",
@@ -167,11 +176,7 @@
     "themes/ananke/resources/_gen/assets/css/ananke/css/main.css_83735de7ca999e9c17f3419b41b93fdb.content",
     "themes/ananke/resources/_gen/assets/css/ananke/css",
     "themes/ananke/resources/_gen/assets/css/ananke",
-    "themes/ananke/resources/_gen/assets/css",
     "themes/ananke/layouts/partials/svg/tiktok.svg",
-    "themes/ananke/layouts/partials/svg/new-window.svg",
-    "themes/ananke/images/tn.png",
-    "themes/ananke/images/screenshot.png",
     "themes/ananke/exampleSite/content/fr/post/chapter-1.md",
     "themes/ananke/exampleSite/content/fr/post/_index.md",
     "themes/ananke/exampleSite/content/en/post/chapter-6.md",
@@ -182,10 +187,6 @@
     "themes/ananke/exampleSite/content/en/post/chapter-1.md",
     "themes/ananke/exampleSite/content/en/post/_index.md",
     "themes/ananke/exampleSite/content/en/about/index.md",
-    "themes/ananke/exampleSite/static/images/notebook.jpg",
-    "themes/ananke/exampleSite/static/images/esmeralda.jpg",
-    "themes/ananke/exampleSite/static/images/Victor_Hugo-Hunchback.jpg",
-    "themes/ananke/exampleSite/static/images/Pope-Edouard-de-Beaumont-1844.jpg",
     "themes/ananke/exampleSite/content/fr/contact.md",
     "themes/ananke/exampleSite/content/fr/_index.md",
     "themes/ananke/exampleSite/content/en/contact.md",
@@ -194,7 +195,6 @@
     "themes/ananke/LICENSE.md",
     "themes/ananke/CHANGELOG.md",
     "archetypes/temp.md",
-    "archetypes/post.md",
-    "archetypes/default.md"
+    "archetypes/post.md"
   ]
 }
