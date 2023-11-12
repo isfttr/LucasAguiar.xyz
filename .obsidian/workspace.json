@@ -11,8 +11,12 @@
             "id": "89ffc0500ada1b2b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/en/post/ai-pin.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "static/images/humane-ai-pin.jpeg",
+                "file": "content/en/post/ai-pin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static/images/humane-ai-pin.jpeg",
+                "file": "content/en/post/ai-pin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "static/images/humane-ai-pin.jpeg"
+                "file": "content/en/post/ai-pin.md"
               }
             }
           }
@@ -145,12 +149,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94fc1c2b4a5d5011",
+  "active": "89ffc0500ada1b2b",
   "lastOpenFiles": [
-    "content/en/post/images/humane-ai-pin.jpeg",
-    "static/images/humane-ai-pin.jpeg",
-    "content/en/post/ai-pin.md",
+    "content/en/post/10-years-of macbook-pro-9,2.md",
+    "archetypes/temp.md",
     "archetypes/post.md",
+    "static/images/humane-ai-pin.jpeg",
+    "content/en/post/images/humane-ai-pin.jpeg",
+    "content/en/post/ai-pin.md",
     "archetypes/default.md",
     "SCR-20231111-ljfe-2.jpeg",
     "Users/lucasaguiar/Blog/content/en/post/images/humane-ai-pin.jpeg.md",
