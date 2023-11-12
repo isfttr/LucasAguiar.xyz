@@ -1,10 +1,12 @@
 ---
-title: "NixOS - Virtual Machine using QEMU"
+title: NixOS - Virtual Machine using QEMU
 date: 2023-07-03T14:15:29-03:00
-description: "Correcting the `No internet available` error on NixOS Installation"
-featured_image: "images/nixos-vm-network.png"
-tags: [nixos, qemu, virtual-machine]
-#draft: true
+description: Correcting the `No internet available` error on NixOS Installation
+featured_image: images/jigar-panchal-OU7Adpd4z2Y-unsplash.jpg
+tags:
+  - nixos
+  - qemu
+  - virtual-machine
 ---
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/post/10-years-of macbook-pro-9,2.md",
+                "file": "content/en/project/nixos-vm1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/post/10-years-of macbook-pro-9,2.md",
+                "file": "content/en/project/nixos-vm1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/post/10-years-of macbook-pro-9,2.md",
+                "file": "content/en/project/nixos-vm1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/post/10-years-of macbook-pro-9,2.md"
+                "file": "content/en/project/nixos-vm1.md"
               }
             }
           }
@@ -151,8 +151,12 @@
   },
   "active": "22c4c47caf65d3e1",
   "lastOpenFiles": [
-    "macbook-pro9,2.jpg.md",
+    "content/en/post/_index.md",
+    "content/en/project/_index.md",
+    "content/en/about/index.md",
+    "content/en/project/nixos-vm1.md",
     "content/en/post/10-years-of macbook-pro-9,2.md",
+    "macbook-pro9,2.jpg.md",
     "static/macbook-pro9,2.jpeg",
     "macbook-2012.png",
     "static/humane-ai-pin.jpeg",
@@ -192,9 +196,6 @@
     "themes/ananke/exampleSite/content/en/contact.md",
     "themes/ananke/exampleSite/content/en/_index.md",
     "themes/ananke/README.md",
-    "themes/ananke/LICENSE.md",
-    "themes/ananke/CHANGELOG.md",
-    "archetypes/temp.md",
-    "archetypes/post.md"
+    "themes/ananke/LICENSE.md"
   ]
 }
