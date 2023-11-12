@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7de0d00b5002edb4",
+        "id": "34e8eddd5989624e",
         "type": "tabs",
         "children": [
           {
-            "id": "fac7171d8609eb71",
+            "id": "22c4c47caf65d3e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,11 +149,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fac7171d8609eb71",
+  "active": "22c4c47caf65d3e1",
   "lastOpenFiles": [
-    "macbook-2012.png",
     "macbook-pro9,2.jpg.md",
     "content/en/post/10-years-of macbook-pro-9,2.md",
+    "static/macbook-pro9,2.jpeg",
+    "macbook-2012.png",
     "static/humane-ai-pin.jpeg",
     "images/macbook-2012.png",
     "content/en/post/ai-pin.md",
@@ -176,7 +177,6 @@
     "themes/ananke/resources/_gen/assets/css/ananke/css/main.css_83735de7ca999e9c17f3419b41b93fdb.content",
     "themes/ananke/resources/_gen/assets/css/ananke/css",
     "themes/ananke/resources/_gen/assets/css/ananke",
-    "themes/ananke/layouts/partials/svg/tiktok.svg",
     "themes/ananke/exampleSite/content/fr/post/chapter-1.md",
     "themes/ananke/exampleSite/content/fr/post/_index.md",
     "themes/ananke/exampleSite/content/en/post/chapter-6.md",
