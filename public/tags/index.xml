@@ -6,6 +6,161 @@
     <description>Recent content in Tags on Lucas F. Aguiar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple</title>
+      <link>http://localhost:1313/tags/apple/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/apple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arch</title>
+      <link>http://localhost:1313/tags/arch/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/arch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Macbook-Pro</title>
+      <link>http://localhost:1313/tags/macbook-pro/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/macbook-pro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MacOS</title>
+      <link>http://localhost:1313/tags/macos/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/macos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notebook</title>
+      <link>http://localhost:1313/tags/notebook/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/notebook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenCore</title>
+      <link>http://localhost:1313/tags/opencore/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/opencore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>http://localhost:1313/tags/ubuntu/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Upgrade</title>
+      <link>http://localhost:1313/tags/upgrade/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/upgrade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zorin</title>
+      <link>http://localhost:1313/tags/zorin/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/zorin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gadget</title>
+      <link>http://localhost:1313/tags/gadget/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gadget/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Humane</title>
+      <link>http://localhost:1313/tags/humane/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/humane/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thoughts</title>
+      <link>http://localhost:1313/tags/thoughts/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parenthood</title>
+      <link>http://localhost:1313/tags/parenthood/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/parenthood/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nixos</title>
+      <link>http://localhost:1313/tags/nixos/</link>
+      <pubDate>Mon, 03 Jul 2023 14:15:29 -0300</pubDate>
+      <guid>http://localhost:1313/tags/nixos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qemu</title>
+      <link>http://localhost:1313/tags/qemu/</link>
+      <pubDate>Mon, 03 Jul 2023 14:15:29 -0300</pubDate>
+      <guid>http://localhost:1313/tags/qemu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtual-Machine</title>
+      <link>http://localhost:1313/tags/virtual-machine/</link>
+      <pubDate>Mon, 03 Jul 2023 14:15:29 -0300</pubDate>
+      <guid>http://localhost:1313/tags/virtual-machine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud</title>
+      <link>http://localhost:1313/tags/cloud/</link>
+      <pubDate>Fri, 16 Jun 2023 22:46:19 -0300</pubDate>
+      <guid>http://localhost:1313/tags/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Databases</title>
+      <link>http://localhost:1313/tags/databases/</link>
+      <pubDate>Fri, 16 Jun 2023 22:46:19 -0300</pubDate>
+      <guid>http://localhost:1313/tags/databases/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intellectual-Property</title>
+      <link>http://localhost:1313/tags/intellectual-property/</link>
+      <pubDate>Fri, 16 Jun 2023 22:46:19 -0300</pubDate>
+      <guid>http://localhost:1313/tags/intellectual-property/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

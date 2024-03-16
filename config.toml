@@ -14,7 +14,7 @@ Paginate = 10 # this is set low for demonstrating with dummy content. Set to a h
   [languages.en]
     title = "Lucas F. Aguiar"
     weight = 1
-    contentDir = "content/en"
+    contentDir = "Blog/en"
     # languageDirection = 'rtl' for Right-To-Left languages
 #  [languages.fr]
 #    title = "Ananke Fr"
