@@ -1,6 +1,6 @@
 ---
 date: 2024-03-16
-draft: true
+draft: false
 title: Creating my AI assistant locally
 description: For the first time I tried to break with ChatGPT and Copilot to see what I could come up with. This is a quick text about how to get PrivateGPT working in you computer.
 featured_image: 
