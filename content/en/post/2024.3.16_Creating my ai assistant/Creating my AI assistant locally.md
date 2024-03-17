@@ -3,7 +3,7 @@ date: 2024-03-16
 draft: false
 title: Creating my AI assistant locally
 description: For the first time I tried to break with ChatGPT and Copilot to see what I could come up with. 
-featured_image: /images/privateGPT.png
+featured_image: /images/PrivateGPT.png
 tags:
   - AI
   - RAG
