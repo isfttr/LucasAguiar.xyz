@@ -76,17 +76,16 @@ The interface should be available to be viewed by opening the following address 
 
 I used a article from a research in biodegradable plastics for Bagheri et al. The ingesting can be seen in the image as the first line. After it is ingested i can query the file for information.
 
-![Ingesting files 20240316213238.png]
-![Ingesting a single file](~/Blog/static/images/Ingesting files 20240316213238.png)
+![Ingesting a single file](/static/images/Ingesting%20files%2020240316213238.png)
 
 I made a question about biodegradable plastics.
 
-![Querying Bagheri 20240316213653.png]
+![Querying the Bagheri article](/static/images/Querying%20Bagheri%2020240316213653.png)
 
 Then I made a question about something that is not mentioned in the article to see what would be the answer.
 Surprisingly to me it did not allucinate. It plainly answered that the subject is not discussed in the paper. You can add a large amount of documents. I already tried with markdown files and PDFs, but there a number of file extensions that are supported. Also, the ingested files are kept in place until you delete them. And this deletion is just from the ingested files. It does not mean deleting the original file.
 
-![Query about kraft paper 20240316214244.png]
+![Querying about foreign subject to the Bagheri article](/static/images/Query%20about%20kraft%20paper%2020240316214244.png)
 
 # Conclusion
 
