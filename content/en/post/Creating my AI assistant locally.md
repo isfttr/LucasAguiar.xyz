@@ -82,6 +82,7 @@ I made a question about biodegradable plastics.
 
 ![Querying the Bagheri article](/static/images/Querying%20Bagheri%2020240316213653.png)
 ![Querying the Bagheri article](/public/images/Querying%20Bagheri%2020240316213653.png)
+![Querying the Bagheri article](/static/Querying%20Bagheri%2020240316213653.png)
 
 Then I made a question about something that is not mentioned in the article to see what would be the answer.
 Surprisingly to me it did not allucinate. It plainly answered that the subject is not discussed in the paper. You can add a large amount of documents. I already tried with markdown files and PDFs, but there a number of file extensions that are supported. Also, the ingested files are kept in place until you delete them. And this deletion is just from the ingested files. It does not mean deleting the original file.
