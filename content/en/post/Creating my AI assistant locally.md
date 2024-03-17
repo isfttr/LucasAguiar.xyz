@@ -77,7 +77,7 @@ The interface should be available to be viewed by opening the following address 
 I used a article from a research in biodegradable plastics for Bagheri et al. The ingesting can be seen in the image as the first line. After it is ingested i can query the file for information.
 
 ![Ingesting files 20240316213238.png]
-![Ingesting a single file](<../../../static/images/Ingesting files 20240316213238.png>)
+![Ingesting a single file](/static/images/Ingesting files 20240316213238.png)
 
 I made a question about biodegradable plastics.
 
