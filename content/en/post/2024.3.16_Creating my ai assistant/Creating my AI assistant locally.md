@@ -3,7 +3,7 @@ date: 2024-03-16
 draft: false
 title: Creating my AI assistant locally
 description: For the first time I tried to break with ChatGPT and Copilot to see what I could come up with. 
-featured_image: 
+featured_image: /images/privateGPT.png
 tags:
   - AI
   - RAG
@@ -86,7 +86,6 @@ Then I made a question about something that is not mentioned in the article to s
 Surprisingly to me it did not allucinate. It plainly answered that the subject is not discussed in the paper. You can add a large amount of documents. I already tried with markdown files and PDFs, but there a number of file extensions that are supported. Also, the ingested files are kept in place until you delete them. And this deletion is just from the ingested files. It does not mean deleting the original file.
 
 ![Querying about foreign subject to the Bagheri article](/images/Query%20about%20kraft%20paper%2020240316214244.png)
-
 # Conclusion
 
 This is private model and open source, which is somewhat simple to get set up. I tried other ones, using AnythingLLM and it didn't work. This is the easiest project to set up and there is a lot more that can be done with it. For me the integration with my Obsidian notes is the next thing that I am aiming for.
