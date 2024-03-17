@@ -56,13 +56,13 @@ PGPT_PROFILES=ollama make run
 The interface should be available to be viewed by opening the following address on the browser [127.0.0.1:8001](http://127.0.0.1:8001/).
 # Ingesting files and queries
 I used a article from a research in biodegradable plastics for Bagheri et al. The ingesting can be seen in the image as the first line. After it is ingested i can query the file for information.
-![[/static/images/Ingesting files 20240316213238.png]]
+![[Ingesting files 20240316213238.png]]
 I made a question about biodegradable plastics.
 
-![[/static/images/Querying Bagheri 20240316213653.png]]
+![[Querying Bagheri 20240316213653.png]]
 Then I made a question about something that is not mentioned in the article to see what would be the answer.
 Surprisingly to me it did not allucinate. It plainly answered that the subject is not discussed in the paper. You can add a large amount of documents. I already tried with markdown files and PDFs, but there a number of file extensions that are supported. Also, the ingested files are kept in place until you delete them. And this deletion is just from the ingested files. It does not mean deleting the original file.
-![[/static/images/Query about kraft paper 20240316214244.png]]
+![[Query about kraft paper 20240316214244.png]]
 # Conclusion
 This is private model and open source, which is somewhat simple to get set up. I tried other ones, using AnythingLLM and it didn't work. This is the easiest project to set up and there is a lot more that can be done with it. For me the integration with my Obsidian notes is the next thing that I am aiming for. 
 

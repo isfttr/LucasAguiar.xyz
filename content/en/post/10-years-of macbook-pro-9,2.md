@@ -72,3 +72,5 @@ Apple says that it is their devices are great and all but the questions that sti
 ![My 10-year old MacBook Pro.](/macbook-pro9,2.jpeg)
 
 This is the good 'ol MacBook Pro. If you upgrade it, you can have a good upgradeable/fixable computer for many years. The screen isn't great, but for most of my day-to-day use it will not be a problem.
+
+You can reach out to contact me about this or other topics at my email lucas.fernandes.df@gmail.com.
