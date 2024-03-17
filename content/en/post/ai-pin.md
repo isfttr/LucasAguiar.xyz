@@ -31,5 +31,4 @@ To wrap this up, I did a little digging into what was the number of iPods sold f
 
 ![Photo by hu.ma.ne.][humane-ai-pin.jpeg]
 
-
 You can reach out to contact me about this or other topics at my email lucas.fernandes.df@gmail.com.
