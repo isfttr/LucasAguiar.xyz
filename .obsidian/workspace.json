@@ -144,11 +144,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "3eb827fac0c27e3b",
   "lastOpenFiles": [
+    "public/images/Query about kraft paper 20240316214244.png",
+    "static/images/Query about kraft paper 20240316214244.png",
+    "public/images/Querying Bagheri 20240316213653.png",
+    "static/images/Querying Bagheri 20240316213653.png",
+    "public/images/Ingesting files 20240316213238.png",
+    "static/images/Ingesting files 20240316213238.png",
+    "images/Ingesting files 20240316213238.png",
     "content/en/project/nixos-vm1.md",
     "content/en/post/_index.md",
     "content/en/project/_index.md",
@@ -160,18 +169,12 @@
     "static/humane-ai-pin.jpeg",
     "images/macbook-2012.png",
     "content/en/post/ai-pin.md",
-    "static/macbook-2012.png",
-    "static/macbook-pro9,2.jpg",
     "static/macbook-2012.png.sb-f7b67368-QF29NU",
-    "humane-ai-pin.jpeg",
-    "static/SCR-20231112-mbll.png",
-    "static/20231112_131916.jpg",
     "images/humane-ai-pin.jpeg.md",
     "images",
     "themes/ananke/archetypes/default.md",
     "content/en/post/test.md",
     "themes/ananke/theme.toml",
-    "themes/ananke/static/images/gohugo-default-sample-hero-image.jpg",
     "themes/ananke/static/images",
     "themes/ananke/static",
     "themes/ananke/stackbit.yaml",
@@ -193,7 +196,6 @@
     "themes/ananke/exampleSite/content/fr/_index.md",
     "themes/ananke/exampleSite/content/en/contact.md",
     "themes/ananke/exampleSite/content/en/_index.md",
-    "themes/ananke/README.md",
-    "themes/ananke/LICENSE.md"
+    "themes/ananke/README.md"
   ]
 }
