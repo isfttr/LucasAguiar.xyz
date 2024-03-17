@@ -36,8 +36,14 @@ Paginate = 10 # this is set low for demonstrating with dummy content. Set to a h
   background_color_class = "bg-dark-blue"
   recent_posts_number = 3
 
+[module]
+  [[module.imports]]
+    path = 'github.com/hugomods/images'
+    disable = false
+
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://linkedin.com/in/lucas-fernandes-aguiar"
 #github = "github"
 #githuburl = "https://github.com/isfttr"
+
