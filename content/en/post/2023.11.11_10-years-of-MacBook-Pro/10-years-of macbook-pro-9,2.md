@@ -3,7 +3,7 @@ date: 2023-11-11
 draft: false
 title: 10 years using the MacBook Pro 9,2
 description: 10 years with a laptop is quite a journey and unimaginable 10 years ago, and here we are.
-featured_image: macbook-2012.png
+featured_image: /images/macbook-2012.png
 tags:
   - apple
   - macbook-pro
@@ -69,7 +69,7 @@ There are quality of life features in the laptop that is increasingly harder to 
 
 Apple says that it is their devices are great and all but the questions that still hangs is that, what problem are they solving for the past 10 years? The computer has a faster CPU, is thinner, the screen is great, but the experience for the end user is not that better. The keyboard is not better, there's not upgradeability, and there is no possibility of self-repair. Old MacBooks and iMacs are definitely the way to go for most of the folks. It is cool to see new computers being faster but what it has to happen is for them to get better for the end user. For most of us, all that speed amounts to a waste of money. I don't game and my mainly CPU intensive activity is watch videos. I don't want to pay a thousand dollars for a fast CPU, it is kind of insane.
 
-![My 10-year old MacBook Pro.](/macbook-pro9,2.jpeg)
+![My 10-year old MacBook Pro.](/images/macbook-pro9,2.jpeg)
 
 This is the good 'ol MacBook Pro. If you upgrade it, you can have a good upgradeable/fixable computer for many years. The screen isn't great, but for most of my day-to-day use it will not be a problem.
 
