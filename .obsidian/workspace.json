@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/templates/New post.md",
+                "file": "content/en/post/2024.3.16_Creating my ai assistant/Creating my AI assistant locally.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6568b3e99f1d751f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/templates/New post.md",
+                "file": "content/en/post/2024.3.16_Creating my ai assistant/Creating my AI assistant locally.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/templates/New post.md",
+                "file": "content/en/post/2024.3.16_Creating my ai assistant/Creating my AI assistant locally.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/templates/New post.md"
+                "file": "content/en/post/2024.3.16_Creating my ai assistant/Creating my AI assistant locally.md"
               }
             }
           }
@@ -151,6 +152,7 @@
   },
   "active": "3eb827fac0c27e3b",
   "lastOpenFiles": [
+    "content/en/templates/New post.md",
     "content/en/post/2024.03.06_Goodby-MBP92/2024-03-06-Goodbye MBP 9,2.md",
     "content/en/post/2024.03.06_Goodby-MBP92",
     "content/en/post/2023.11.11_10-years-of-MacBook-Pro/2024.03.06_Goodby-MBP92/2024-03-06-Goodbye MBP 9,2.md",
@@ -161,7 +163,6 @@
     "images/Query.md",
     "images",
     "content/en/post/2023.11.10_Ai-pin/ai-pin.md",
-    "content/en/templates/New post.md",
     "content/en/post/2023.11.10_Ai-pin/images/humane-ai-pin.jpeg",
     "content/en/post/2023.11.10_Ai-pin/images",
     "content/en/post/2023.11.10_Ai-pin",

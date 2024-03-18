@@ -34,8 +34,8 @@ The main problem that I had was with Poetry and Python versions to run the proje
 $ brew install pyenv
 
 # Any modern version python should do. I don't think Python 2 is required any more.
-$ pyenv install 3.10.3
-$ pyenv global 3.10.3
+$ pyenv install 3.11.8
+$ pyenv global 3.11.8
 
 # Add pyenv to your PATH so that you can reference python (not python3)
 $ echo "export PATH=\"\${HOME}/.pyenv/shims:\${PATH}\"" >> ~/.zshrc
@@ -88,6 +88,6 @@ Surprisingly to me it did not allucinate. It plainly answered that the subject i
 ![Querying about foreign subject to the Bagheri article](/images/Query%20about%20kraft%20paper%2020240316214244.png)
 # Conclusion
 
-This is private model and open source, which is somewhat simple to get set up. I tried other ones, using AnythingLLM and it didn't work. This is the easiest project to set up and there is a lot more that can be done with it. For me the integration with my Obsidian notes is the next thing that I am aiming for.
+This is a simple setup of a private and open source LLM. I tried other ones, using AnythingLLM and it didn't work, or it needed workarounds that I don't have the time for. This was the easiest project to set up and there is a lot more that can be done with it. For me, the integration with my Obsidian notes is the next thing that I am aiming to explore.
 
 You can reach out to contact me about this or other topics at my email lucas.fernandes.df@gmail.com.
