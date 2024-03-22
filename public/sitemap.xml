@@ -3,56 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/creating-my-ai-assistant-locally/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/post/2024.03.22/privategpt-script/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/m2/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/macbook-air/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/mistral/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/ollama/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/privategpt/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/rag/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/post/2024.3.16_creating-my-ai-assistant/creating-my-ai-assistant-locally/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -102,12 +107,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2024-03-06-goodbye-mbp-92/</loc>
+    <loc>http://localhost:1313/post/2024.03.06_goodby-mbp92/2024-03-06-goodbye-mbp-92/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/10-years-of-macbook-pro-92/</loc>
+    <loc>http://localhost:1313/post/2023.11.11_10-years-of-macbook-pro/10-years-of-macbook-pro-92/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -152,7 +157,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/ai-pin/</loc>
+    <loc>http://localhost:1313/post/2023.11.10_ai-pin/ai-pin/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -162,7 +167,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/update_on_life_november-2023/</loc>
+    <loc>http://localhost:1313/post/2023.11.09_update-on-life/update_on_life_november-2023/</loc>
     <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
