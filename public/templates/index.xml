@@ -7,12 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/templates/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/templates/new-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/templates/new-post/</guid>
-      <description>Brief summary paragraph&#xA;Introduction Arguments Conclusion You can reach out to contact me about this or other topics at my email lucas.fernandes.df@gmail.com.</description>
-    </item>
   </channel>
 </rss>

@@ -15,19 +15,5 @@
       <guid>http://localhost:1313/project/nixos-vm1/</guid>
       <description>This is a quick guide for those that are having trouble installing NixOS and getting the No Internet Available error.&#xA;Since I&amp;rsquo;m using the GUI program Virtual Manager, I went into the VM&amp;rsquo;s configuration.&#xA;Select the VM and the Open button on the top bar. You could do this while the VM is running but the changes will only take effect the next time the VM boots up, so it is better to have the VM shutdown.</description>
     </item>
-    <item>
-      <title>Get Rpi</title>
-      <link>http://localhost:1313/project/get-rpi/</link>
-      <pubDate>Sat, 17 Jun 2023 00:28:39 -0300</pubDate>
-      <guid>http://localhost:1313/project/get-rpi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Azure Cdn Project</title>
-      <link>http://localhost:1313/project/azure-cdn-project/</link>
-      <pubDate>Sat, 17 Jun 2023 00:28:02 -0300</pubDate>
-      <guid>http://localhost:1313/project/azure-cdn-project/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
