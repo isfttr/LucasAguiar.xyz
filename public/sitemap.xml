@@ -2,7 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/post/2024.03.22/privategpt-script/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -12,8 +22,38 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/m2/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/macbook-air/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/mistral/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/ollama/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/privategpt/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/rag/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -22,47 +62,57 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/m2/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/apple/</loc>
+    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/macbook-air/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/mistral/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/macbook/</loc>
+    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/ollama/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/post/macbook-truenas/</loc>
+    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/privategpt/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/macos/</loc>
+    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/rag/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/truenas/</loc>
+    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/keyboard/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/macbook-pro/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/opencore/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/post/2024.03.06_goodby-mbp92/2024-03-06-goodbye-mbp-92/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/post/2023.11.11_10-years-of-macbook-pro/10-years-of-macbook-pro-92/</loc>
-    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/apple/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -72,27 +122,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
-    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/macbook-pro/</loc>
-    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/macos/</loc>
-    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/tags/notebook/</loc>
-    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/opencore/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -172,6 +202,21 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/project/get-rpi/</loc>
+    <lastmod>2023-06-17T00:28:39-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/project/azure-cdn-project/</loc>
+    <lastmod>2023-06-17T00:28:02-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/post/codespaces/</loc>
+    <lastmod>2023-06-17T00:27:40-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/categories/article/</loc>
     <lastmod>2023-06-16T22:46:19-03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -209,6 +254,10 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2023-06-14T13:26:21-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/templates/new-post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
