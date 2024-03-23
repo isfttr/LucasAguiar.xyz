@@ -57,12 +57,5 @@
       <guid>http://localhost:1313/about/</guid>
       <description>Hi, my name is Lucas Fernandes Aguiar, born in Brazil and I&amp;rsquo;m a chemist, specialized in intellectual property, currently working at Universidade de Brasília (UnB) as a patent prosecutor and as a PhD student at the Ceramic Materials and Nanotechnology Laboratory (LMCNano/FT/UnB).&#xA;With a strong foundation in chemistry, I hold a Bachelor&amp;rsquo;s degree from Universidade Federal de Goiás (UFG), where I conducted research on solar cells and photoluminescent chemical compounds. In 2019, I completed my Master&amp;rsquo;s degree in Chemistry at UFG with a focus on perovskite solar cells and intellectual property.</description>
     </item>
-    <item>
-      <title>Contact me</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Wed, 14 Jun 2023 13:26:21 -0300</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>Feel free to reach me out on by e-mail on lucas.fernandes.df@gmail.com&#xA;You can also visit my Threads account.</description>
-    </item>
   </channel>
 </rss>

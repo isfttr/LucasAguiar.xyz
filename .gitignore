@@ -1,5 +1,15 @@
-.obsidian
-Blog/.obsidian
+# OS
+.DS_Store
+Thumbs.db
+
+#Obsidian
+.obsidian/
+
+
+#IDE
 .vscode/
 Blog.code-workspace
 workspace.json
+
+#Hugo
+.hugo_build.lock
