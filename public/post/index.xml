@@ -10,58 +10,79 @@
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating my AI assistant locally - part 2</title>
-      <link>http://localhost:1313/post/2024.03.22/privategpt-script/</link>
+      <link>http://localhost:1313/post/draft/2024.03.22/creating-ai-assistan-part-2---privategpt-script/</link>
       <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024.03.22/privategpt-script/</guid>
+      <guid>http://localhost:1313/post/draft/2024.03.22/creating-ai-assistan-part-2---privategpt-script/</guid>
       <description>This is the part 2 of the first post about the a local AI assistant.&#xA;The main problem that I faced running the configuration was that I needed to run at least three commands on the terminal to get everything running. This is far from perfect, I wanted it to work just like a normal application.&#xA;First, I forked the imartinez/privateGPT repository into my own. You can visit it at isfttr/privateGPT.</description>
     </item>
     <item>
       <title>Creating my AI assistant locally</title>
-      <link>http://localhost:1313/post/2024.3.16_creating-my-ai-assistant/creating-my-ai-assistant-locally/</link>
+      <link>http://localhost:1313/post/creating-my-ai-assistant-locally/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024.3.16_creating-my-ai-assistant/creating-my-ai-assistant-locally/</guid>
+      <guid>http://localhost:1313/post/creating-my-ai-assistant-locally/</guid>
       <description>It surprised me how easy it was to build a local solution with Ollama.&#xA;Introduction This itch to have a private solution for AI came to me after I saw that OpenAI changed their settings on the playground section and does not allow for free users to test the models. With that I went to check Gemini but it was the same thing. Both of them are costing $20/month and for me it isn&amp;rsquo;t worth it at the moment.</description>
     </item>
     <item>
       <title>MacBook A1181 with only 2GB and TrueNAS</title>
-      <link>http://localhost:1313/post/macbook-truenas/</link>
+      <link>http://localhost:1313/post/draft/2024.03.10/macbook-truenas/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/macbook-truenas/</guid>
+      <guid>http://localhost:1313/post/draft/2024.03.10/macbook-truenas/</guid>
       <description>Decided to have a Time Machine server at home, but the simplest solution didn&amp;rsquo;t work so I took an old MacBook (A1181) out of retirement to use it as a TrueNAS server.&#xA;Introduction I tried to create a new server to only run a small instance of TrueNAS locally but it didn&amp;rsquo;t work. The computer is just too old for the job, with only 2GB of RAM it can&amp;rsquo;t sustain the service.</description>
     </item>
     <item>
       <title>Time to say goodbye to my 10 year old MacBook Pro</title>
-      <link>http://localhost:1313/post/2024.03.06_goodby-mbp92/2024-03-06-goodbye-mbp-92/</link>
+      <link>http://localhost:1313/post/draft/2024.03.06/goodbye-mbp-92/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024.03.06_goodby-mbp92/2024-03-06-goodbye-mbp-92/</guid>
+      <guid>http://localhost:1313/post/draft/2024.03.06/goodbye-mbp-92/</guid>
       <description>After 10 years of use, it is time to let go of this reliable machine and embrace a somewhat unknown future of the Apple Silicon. Last Sunday I bought a brand new MacBook Air M2 because it was really cheap, being offered for less than half of the price on Apple Store. Over the years I had many reasons to postpone this purchase and part of these reasons have been the fact that this MacBook has beee so reliable.</description>
     </item>
     <item>
       <title>10 years using the MacBook Pro 9,2</title>
-      <link>http://localhost:1313/post/2023.11.11_10-years-of-macbook-pro/10-years-of-macbook-pro-92/</link>
+      <link>http://localhost:1313/post/10-years-of-macbook-pro-92/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023.11.11_10-years-of-macbook-pro/10-years-of-macbook-pro-92/</guid>
+      <guid>http://localhost:1313/post/10-years-of-macbook-pro-92/</guid>
       <description>The MacBook Pro 9,2 is a model of the MacBook Pro that was released in June 2012. It has a 13.3-inch display, a 2.5 GHz or 2.9 GHz dual-core Intel Core i5 or i7 processor, 4 GB or 8 GB of RAM, and a 500 GB or 750 GB hard drive.&#xA;My MacBook was bought around 2013 or 2014, don&amp;rsquo;t remember exactly. It was bought new, with 4GB of RAM and 500 GB hard drive.</description>
     </item>
     <item>
       <title>Thoughts on the hu.ma.ne AI Pin</title>
-      <link>http://localhost:1313/post/2023.11.10_ai-pin/ai-pin/</link>
+      <link>http://localhost:1313/post/ai-pin/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023.11.10_ai-pin/ai-pin/</guid>
+      <guid>http://localhost:1313/post/ai-pin/</guid>
       <description>I watched the presentation by hu.ma.ne founder earlier in the week at TED in May, and I thought the device, the Ai Pin, was really different from what we have, read smartphones. What is the use of something without a screen? Then I remembered that people used to have Pagers, but even then, Pagers had a screen with the number to call back. But I digress.&#xA;What really made me think was watching their launch video yesterday.</description>
     </item>
     <item>
       <title>Life update - November 2023</title>
-      <link>http://localhost:1313/post/2023.11.09_update-on-life/update_on_life_november-2023/</link>
+      <link>http://localhost:1313/post/update_on_life_november-2023/</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023.11.09_update-on-life/update_on_life_november-2023/</guid>
+      <guid>http://localhost:1313/post/update_on_life_november-2023/</guid>
       <description>Life as a father My kid is already 7 months old. The time goes too fast. He already dragging himself on the floor and not crying so much anymore. Each day is a new day and now it is getting clearer that life goes on, like I don&amp;rsquo;t have to give up my hobbies and interests because he demands attention.&#xA;It is a totally different experience. I remember the day my wife said the test came out positive.</description>
     </item>
     <item>
+      <title>NixOS - Virtual Machine using QEMU</title>
+      <link>http://localhost:1313/post/nixos-vm1/</link>
+      <pubDate>Mon, 03 Jul 2023 14:15:29 -0300</pubDate>
+      <guid>http://localhost:1313/post/nixos-vm1/</guid>
+      <description>This is a quick guide for those that are having trouble installing NixOS and getting the No Internet Available error.&#xA;Since I&amp;rsquo;m using the GUI program Virtual Manager, I went into the VM&amp;rsquo;s configuration.&#xA;Select the VM and the Open button on the top bar. You could do this while the VM is running but the changes will only take effect the next time the VM boots up, so it is better to have the VM shutdown.</description>
+    </item>
+    <item>
+      <title>Get Rpi</title>
+      <link>http://localhost:1313/post/draft/2023.06.17b/get-rpi/</link>
+      <pubDate>Sat, 17 Jun 2023 00:28:39 -0300</pubDate>
+      <guid>http://localhost:1313/post/draft/2023.06.17b/get-rpi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure Cdn Project</title>
+      <link>http://localhost:1313/post/draft/2023.06.17a/azure-cdn-project/</link>
+      <pubDate>Sat, 17 Jun 2023 00:28:02 -0300</pubDate>
+      <guid>http://localhost:1313/post/draft/2023.06.17a/azure-cdn-project/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Codespaces</title>
-      <link>http://localhost:1313/post/codespaces/</link>
+      <link>http://localhost:1313/post/draft/2023.06.17/codespaces/</link>
       <pubDate>Sat, 17 Jun 2023 00:27:40 -0300</pubDate>
-      <guid>http://localhost:1313/post/codespaces/</guid>
+      <guid>http://localhost:1313/post/draft/2023.06.17/codespaces/</guid>
       <description>What is GitHub Codespaces How I use it </description>
     </item>
     <item>

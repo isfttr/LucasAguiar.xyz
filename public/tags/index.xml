@@ -225,5 +225,12 @@
       <guid>http://localhost:1313/tags/intellectual-property/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:1313/tags/personal/</link>
+      <pubDate>Wed, 14 Jun 2023 13:26:21 -0300</pubDate>
+      <guid>http://localhost:1313/tags/personal/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

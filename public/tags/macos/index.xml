@@ -10,23 +10,23 @@
     <atom:link href="http://localhost:1313/tags/macos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MacBook A1181 with only 2GB and TrueNAS</title>
-      <link>http://localhost:1313/post/macbook-truenas/</link>
+      <link>http://localhost:1313/post/draft/2024.03.10/macbook-truenas/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/macbook-truenas/</guid>
+      <guid>http://localhost:1313/post/draft/2024.03.10/macbook-truenas/</guid>
       <description>Decided to have a Time Machine server at home, but the simplest solution didn&amp;rsquo;t work so I took an old MacBook (A1181) out of retirement to use it as a TrueNAS server.&#xA;Introduction I tried to create a new server to only run a small instance of TrueNAS locally but it didn&amp;rsquo;t work. The computer is just too old for the job, with only 2GB of RAM it can&amp;rsquo;t sustain the service.</description>
     </item>
     <item>
       <title>Time to say goodbye to my 10 year old MacBook Pro</title>
-      <link>http://localhost:1313/post/2024.03.06_goodby-mbp92/2024-03-06-goodbye-mbp-92/</link>
+      <link>http://localhost:1313/post/draft/2024.03.06/goodbye-mbp-92/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024.03.06_goodby-mbp92/2024-03-06-goodbye-mbp-92/</guid>
+      <guid>http://localhost:1313/post/draft/2024.03.06/goodbye-mbp-92/</guid>
       <description>After 10 years of use, it is time to let go of this reliable machine and embrace a somewhat unknown future of the Apple Silicon. Last Sunday I bought a brand new MacBook Air M2 because it was really cheap, being offered for less than half of the price on Apple Store. Over the years I had many reasons to postpone this purchase and part of these reasons have been the fact that this MacBook has beee so reliable.</description>
     </item>
     <item>
       <title>10 years using the MacBook Pro 9,2</title>
-      <link>http://localhost:1313/post/2023.11.11_10-years-of-macbook-pro/10-years-of-macbook-pro-92/</link>
+      <link>http://localhost:1313/post/10-years-of-macbook-pro-92/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023.11.11_10-years-of-macbook-pro/10-years-of-macbook-pro-92/</guid>
+      <guid>http://localhost:1313/post/10-years-of-macbook-pro-92/</guid>
       <description>The MacBook Pro 9,2 is a model of the MacBook Pro that was released in June 2012. It has a 13.3-inch display, a 2.5 GHz or 2.9 GHz dual-core Intel Core i5 or i7 processor, 4 GB or 8 GB of RAM, and a 500 GB or 750 GB hard drive.&#xA;My MacBook was bought around 2013 or 2014, don&amp;rsquo;t remember exactly. It was bought new, with 4GB of RAM and 500 GB hard drive.</description>
     </item>
   </channel>
