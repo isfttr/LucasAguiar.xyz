@@ -6,15 +6,8 @@
     <description>Recent content in AI on Lucas F. Aguiar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Creating my AI assistant locally - part 2</title>
-      <link>http://localhost:1313/post/draft/2024.03.22/creating-ai-assistan-part-2---privategpt-script/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/draft/2024.03.22/creating-ai-assistan-part-2---privategpt-script/</guid>
-      <description>This is the part 2 of the first post about the a local AI assistant.&#xA;The main problem that I faced running the configuration was that I needed to run at least three commands on the terminal to get everything running. This is far from perfect, I wanted it to work just like a normal application.&#xA;First, I forked the imartinez/privateGPT repository into my own. You can visit it at isfttr/privateGPT.</description>
-    </item>
     <item>
       <title>Creating my AI assistant locally</title>
       <link>http://localhost:1313/post/creating-my-ai-assistant-locally/</link>
