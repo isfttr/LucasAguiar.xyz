@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts on the hu.ma.ne AI Pin</title>
-      <link>http://localhost:1313/post/ai-pin/</link>
+      <link>http://localhost:1313/posts/ai-pin/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/ai-pin/</guid>
+      <guid>http://localhost:1313/posts/ai-pin/</guid>
       <description>I watched the presentation by hu.ma.ne founder earlier in the week at TED in May, and I thought the device, the Ai Pin, was really different from what we have, read smartphones. What is the use of something without a screen? Then I remembered that people used to have Pagers, but even then, Pagers had a screen with the number to call back. But I digress.&#xA;What really made me think was watching their launch video yesterday.</description>
     </item>
   </channel>

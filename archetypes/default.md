@@ -4,7 +4,15 @@ draft: true
 title: "'{{ replace .File.ContentBaseName `-` ` ` | title }}'"
 description: 
 featured_image: 
+categories:
+  - article
+  - tutorial
+  - video
 tags:
+    - linux
+    - macos
+    - technology
+    - personal
 ---
 Brief summary paragraph
 # Introduction

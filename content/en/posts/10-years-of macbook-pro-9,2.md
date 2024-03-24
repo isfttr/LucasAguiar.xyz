@@ -3,7 +3,7 @@ date: 2023-11-11
 draft: false
 title: 10 years using the MacBook Pro 9,2
 description: 10 years with a laptop is quite a journey and unimaginable 10 years ago, and here we are.
-featured_image: /post/images/macbook-2012.png
+featured_image: /images/macbook-2012.png
 tags:
   - apple
   - macbook-pro

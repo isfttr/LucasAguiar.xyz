@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/m2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating my AI assistant locally</title>
-      <link>http://localhost:1313/post/creating-my-ai-assistant-locally/</link>
+      <link>http://localhost:1313/posts/creating-my-ai-assistant-locally/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/creating-my-ai-assistant-locally/</guid>
+      <guid>http://localhost:1313/posts/creating-my-ai-assistant-locally/</guid>
       <description>It surprised me how easy it was to build a local solution with Ollama.&#xA;Introduction This itch to have a private solution for AI came to me after I saw that OpenAI changed their settings on the playground section and does not allow for free users to test the models. With that I went to check Gemini but it was the same thing. Both of them are costing $20/month and for me it isn&amp;rsquo;t worth it at the moment.</description>
     </item>
   </channel>

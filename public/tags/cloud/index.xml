@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to my new space on the internet</title>
-      <link>http://localhost:1313/post/introduction/</link>
+      <link>http://localhost:1313/posts/introduction/</link>
       <pubDate>Fri, 16 Jun 2023 22:46:19 -0300</pubDate>
-      <guid>http://localhost:1313/post/introduction/</guid>
+      <guid>http://localhost:1313/posts/introduction/</guid>
       <description>The last months have been very exciting to me. The most exciting and difficult part by far is having my newborn son, whom is almost 3 months old. The other exciting part is that I finally understood that if I really like technology I should really invest in it.&#xA;Investing more in my formation in technology right now could come as odd for most people because I already have a Masters in chemistry and a specialization in intellectual property and also happen to work in the field that I have specialized in.</description>
     </item>
   </channel>
