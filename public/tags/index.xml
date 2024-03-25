@@ -32,106 +32,57 @@
     <item>
       <title>AI</title>
       <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>M2</title>
       <link>http://localhost:1313/tags/m2/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/m2/</guid>
       <description></description>
     </item>
     <item>
       <title>MacBook-Air</title>
       <link>http://localhost:1313/tags/macbook-air/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/macbook-air/</guid>
       <description></description>
     </item>
     <item>
       <title>Mistral</title>
       <link>http://localhost:1313/tags/mistral/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/mistral/</guid>
       <description></description>
     </item>
     <item>
       <title>Ollama</title>
       <link>http://localhost:1313/tags/ollama/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ollama/</guid>
       <description></description>
     </item>
     <item>
       <title>PrivateGPT</title>
       <link>http://localhost:1313/tags/privategpt/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/privategpt/</guid>
       <description></description>
     </item>
     <item>
       <title>RAG</title>
       <link>http://localhost:1313/tags/rag/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/rag/</guid>
       <description></description>
     </item>
     <item>
       <title>Apple</title>
       <link>http://localhost:1313/tags/apple/</link>
-      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/apple/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>http://localhost:1313/tags/linux/</link>
-      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/linux/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Macbook</title>
-      <link>http://localhost:1313/tags/macbook/</link>
-      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/macbook/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MacOS</title>
-      <link>http://localhost:1313/tags/macos/</link>
-      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/macos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>TrueNAS</title>
-      <link>http://localhost:1313/tags/truenas/</link>
-      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/truenas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Keyboard</title>
-      <link>http://localhost:1313/tags/keyboard/</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyboard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Macbook-Pro</title>
-      <link>http://localhost:1313/tags/macbook-pro/</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/macbook-pro/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>OpenCore</title>
-      <link>http://localhost:1313/tags/opencore/</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/opencore/</guid>
       <description></description>
     </item>
     <item>
@@ -142,10 +93,38 @@
       <description></description>
     </item>
     <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Macbook-Pro</title>
+      <link>http://localhost:1313/tags/macbook-pro/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/macbook-pro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MacOS</title>
+      <link>http://localhost:1313/tags/macos/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/macos/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Notebook</title>
       <link>http://localhost:1313/tags/notebook/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/notebook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenCore</title>
+      <link>http://localhost:1313/tags/opencore/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/opencore/</guid>
       <description></description>
     </item>
     <item>
