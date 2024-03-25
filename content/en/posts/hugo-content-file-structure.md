@@ -1,6 +1,6 @@
 ---
 date: 2024-03-24T13:58:55-03:00
-draft: true
+draft: false
 title: Hugo Content File Structure
 description: 
 url: "/hugo-content-file-structure"
