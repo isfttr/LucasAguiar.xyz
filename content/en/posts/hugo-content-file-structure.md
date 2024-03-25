@@ -6,7 +6,7 @@ description:
 url: "/hugo-content-file-structure"
 featured_image: "/images/hugo-file-manager.png"
 categories:
-  - article
+  - articles
 tags:
   - documentation
   - hugo
