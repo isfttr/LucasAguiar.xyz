@@ -38,7 +38,6 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [taxonomies]
-author = ""
 category = "categories"
 tag = "tags"
 
