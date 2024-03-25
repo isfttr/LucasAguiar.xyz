@@ -1,8 +1,11 @@
 ---
-title: "About Me"
-date: 2023-06-14T13:26:21-03:00
+title: "About"
+url: "/about"
 #draft: true
-tags: ['personal']
+categories:
+    - information
+tags: 
+    - about
 ---
 
 Hi, my name is Lucas Fernandes Aguiar, born in Brazil and I'm a chemist, 

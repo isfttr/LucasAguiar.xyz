@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Intellectual-Property on Lucas F. Aguiar</title>
+    <title>Intellectual-Property on Home</title>
     <link>http://localhost:1313/tags/intellectual-property/</link>
-    <description>Recent content in Intellectual-Property on Lucas F. Aguiar</description>
+    <description>Recent content in Intellectual-Property on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 16 Jun 2023 22:46:19 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/intellectual-property/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to my new space on the internet</title>
-      <link>http://localhost:1313/posts/introduction/</link>
+      <link>http://localhost:1313/blog-introduction/</link>
       <pubDate>Fri, 16 Jun 2023 22:46:19 -0300</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
+      <guid>http://localhost:1313/blog-introduction/</guid>
       <description>The last months have been very exciting to me. The most exciting and difficult part by far is having my newborn son, whom is almost 3 months old. The other exciting part is that I finally understood that if I really like technology I should really invest in it.&#xA;Investing more in my formation in technology right now could come as odd for most people because I already have a Masters in chemistry and a specialization in intellectual property and also happen to work in the field that I have specialized in.</description>
     </item>
   </channel>

@@ -1,6 +1,7 @@
 ---
 date: 2023-06-16T22:46:19-03:00
 description: A long introduction to my personal page
+url: "/blog-introduction/"
 featured_image: ""
 tags:
   - intellectual-property

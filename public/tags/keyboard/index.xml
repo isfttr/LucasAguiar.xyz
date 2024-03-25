@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keyboard on Lucas F. Aguiar</title>
+    <title>Keyboard on Home</title>
     <link>http://localhost:1313/tags/keyboard/</link>
-    <description>Recent content in Keyboard on Lucas F. Aguiar</description>
+    <description>Recent content in Keyboard on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Time to say goodbye to my 10 year old MacBook Pro</title>
-      <link>http://localhost:1313/post/draft/2024.03.06/goodbye-mbp-92/</link>
+      <link>http://localhost:1313/good-bye-macbook-pro/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/draft/2024.03.06/goodbye-mbp-92/</guid>
+      <guid>http://localhost:1313/good-bye-macbook-pro/</guid>
       <description>After 10 years of use, it is time to let go of this reliable machine and embrace a somewhat unknown future of the Apple Silicon. Last Sunday I bought a brand new MacBook Air M2 because it was really cheap, being offered for less than half of the price on Apple Store. Over the years I had many reasons to postpone this purchase and part of these reasons have been the fact that this MacBook has beee so reliable.</description>
     </item>
   </channel>

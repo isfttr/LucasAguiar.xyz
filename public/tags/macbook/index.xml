@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Macbook on Lucas F. Aguiar</title>
+    <title>Macbook on Home</title>
     <link>http://localhost:1313/tags/macbook/</link>
-    <description>Recent content in Macbook on Lucas F. Aguiar</description>
+    <description>Recent content in Macbook on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MacBook A1181 with only 2GB and TrueNAS</title>
-      <link>http://localhost:1313/post/draft/2024.03.10/macbook-truenas/</link>
+      <link>http://localhost:1313/macbook-truenas/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/draft/2024.03.10/macbook-truenas/</guid>
+      <guid>http://localhost:1313/macbook-truenas/</guid>
       <description>Decided to have a Time Machine server at home, but the simplest solution didn&amp;rsquo;t work so I took an old MacBook (A1181) out of retirement to use it as a TrueNAS server.&#xA;Introduction I tried to create a new server to only run a small instance of TrueNAS locally but it didn&amp;rsquo;t work. The computer is just too old for the job, with only 2GB of RAM it can&amp;rsquo;t sustain the service.</description>
     </item>
   </channel>

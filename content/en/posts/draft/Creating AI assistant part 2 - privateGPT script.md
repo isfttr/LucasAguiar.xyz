@@ -3,7 +3,8 @@ date: 2024-03-22
 draft: true
 title: Creating my AI assistant locally - part 2
 description: Using a script to automate the process of running my local AI model
-featured_image: https://th.bing.com/th/id/OIP.W6grzhiKRB1oTI7C569B7wAAAA?rs=1&pid=ImgDetMain
+url: "/creating-local-ai-part2/"
+featured_image: "/images/ollama-privategpt-2.png"
 tags:
   - AI
   - RAG
@@ -14,7 +15,7 @@ tags:
   - MacBook-Air
 ---
 
-This is the part 2 of the first post about the a local AI assistant.
+This is the part 2 of the first post about the a local AI assistant. See more at [Part 1](<../../Creating my AI assistant locally.md>).
 
 The main problem that I faced running the configuration was that I needed to run at least three commands on the terminal to get everything running. This is far from perfect, I wanted it to work just like a normal application. 
 
@@ -41,5 +42,7 @@ cd $HOME/privateGPT
 ```
 
 Well, as I said this is mainly a change for my self so I didn't had to overcomplicate it.
+
+### Contacts
 
 You can reach out to contact me about this or other topics at my email lucas.fernandes.df@gmail.com.

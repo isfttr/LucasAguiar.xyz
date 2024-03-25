@@ -2,7 +2,7 @@ baseURL = "https://lucasaguiar.xyz"
 languageCode = "en-us"
 title = "Lucas F. Aguiar"
 themesDir = "themes"
-theme = "ananke"
+theme = "gohugo-theme-ananke"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Lucas F. Aguiar"
+    title = "Home"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
@@ -29,8 +29,8 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = ""
-  favicon = ""
+  author = "Lucas F. Aguiar"
+  favicon = "/favicons/favicon-32x32.png"
   site_logo = ""
   description = ""
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
@@ -38,7 +38,10 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-#name = "linkedin"
-#url = "https://linkedin.com/in/lucas-fernandes-aguiar"
-github = "github"
-githuburl = "https://github.com/isfttr"
+#linkedin = "linkedin"
+#linkedinurl = "https://linkedin.com/in/lucas-fernandes-aguiar"
+#github = "github"
+#githuburl = "https://github.com/isfttr"
+name = "github"
+url = "https://github.com/isfttr"
+

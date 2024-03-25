@@ -2,6 +2,7 @@
 date: 2024-03-06
 draft: true
 title: Time to say goodbye to my 10 year old MacBook Pro
+url: "/good-bye-macbook-pro"
 description: 
 featured_image: 
 tags:

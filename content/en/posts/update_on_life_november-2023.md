@@ -2,6 +2,7 @@
 date: 2023-11-09
 draft: false
 description: Life as a father is a lot different than what I anticipated. It is hard to recommend as no one will have the same experience as you, but my experience until this moment has been really worth it. Hard but fulfilling in a way that nothing else can compare.
+url: "/life-update-november-2023/"
 featured_image: ""
 tags:
   - parenthood

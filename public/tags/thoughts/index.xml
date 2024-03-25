@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thoughts on Lucas F. Aguiar</title>
+    <title>Thoughts on Home</title>
     <link>http://localhost:1313/tags/thoughts/</link>
-    <description>Recent content in Thoughts on Lucas F. Aguiar</description>
+    <description>Recent content in Thoughts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts on the hu.ma.ne AI Pin</title>
-      <link>http://localhost:1313/posts/ai-pin/</link>
+      <link>http://localhost:1313/humane-ai-pin-announcement/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ai-pin/</guid>
+      <guid>http://localhost:1313/humane-ai-pin-announcement/</guid>
       <description>I watched the presentation by hu.ma.ne founder earlier in the week at TED in May, and I thought the device, the Ai Pin, was really different from what we have, read smartphones. What is the use of something without a screen? Then I remembered that people used to have Pagers, but even then, Pagers had a screen with the number to call back. But I digress.&#xA;What really made me think was watching their launch video yesterday.</description>
     </item>
   </channel>

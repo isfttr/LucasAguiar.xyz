@@ -3,6 +3,7 @@ title: NixOS - Virtual Machine using QEMU
 date: 2023-07-03T14:15:29-03:00
 draft: false
 description: Correcting the `No internet available` error on NixOS Installation
+url: "/NixOS-fix-virtual-machine/"
 featured_image: images/jigar-panchal-OU7Adpd4z2Y-unsplash.jpg
 tags:
   - nixos

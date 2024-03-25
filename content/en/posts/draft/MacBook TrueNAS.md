@@ -3,6 +3,7 @@ date: 2024-03-10
 draft: true
 title: MacBook A1181 with only 2GB and TrueNAS
 description: 
+url: "/macbook-truenas/"
 featured_image: 
 tags: 
   - apple

@@ -2,6 +2,7 @@
 date: 2023-11-10
 draft: false
 description: The startup hu.ma.ne launched its first product, the AI Pin. This device is really different and it is another landmark on the beginning of the AI era. A device exclusively made to be the AI assistant for the everyday folk. Will it succeed?
+url: "/humane-ai-pin-announcement/"
 featured_image: /images/humane-ai-pin.jpeg
 tags:
   - AI

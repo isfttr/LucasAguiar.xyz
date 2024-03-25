@@ -1,7 +1,11 @@
 ---
 title: "Contact me"
-date: 2023-06-14T13:26:21-03:00
+url: "/contact"
 #draft: true
+categories:
+    - information
+tags: 
+    - contact
 ---
 
 Feel free to reach me out by e-mail on [lucas.fernandes.df@gmail.com](lucas.fernandes.df@gmail.com)
@@ -11,3 +15,5 @@ Feel free to reach me out by e-mail on [lucas.fernandes.df@gmail.com](lucas.fern
 - [LinkedIn](https://www.linkedin.com/in/lucas-fernandes-aguiar/)
 - [GitHub](https://github.com/isfttr)
 - [Threads](https://www.threads.net/@lucas.chem)
+
+{{< form-contact >}}
