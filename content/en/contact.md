@@ -1,7 +1,7 @@
 ---
 title: "Contact me"
 url: "/contact"
-#draft: true
+draft: false
 categories:
     - information
 tags: 
