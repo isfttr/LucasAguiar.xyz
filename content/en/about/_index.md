@@ -2,10 +2,6 @@
 title: "About"
 url: "/about"
 draft: false
-categories:
-    - information
-tags: 
-    - about
 ---
 
 Hi, my name is Lucas Fernandes Aguiar, born in Brazil and I'm a chemist, 

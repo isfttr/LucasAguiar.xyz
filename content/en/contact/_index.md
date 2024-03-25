@@ -2,10 +2,6 @@
 title: "Contact me"
 url: "/contact"
 draft: false
-categories:
-    - information
-tags: 
-    - contact
 ---
 
 Feel free to reach me out by e-mail on [lucas.fernandes.df@gmail.com](lucas.fernandes.df@gmail.com)
