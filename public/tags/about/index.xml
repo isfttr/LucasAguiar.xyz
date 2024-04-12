@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Home</title>
-    <link>http://localhost:1313/tags/about/</link>
-    <description>Recent content in About on Home</description>
+    <title>about on Home</title>
+    <link>https://lucasaguiar.xyz/tags/about/</link>
+    <description>Recent content in about on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://lucasaguiar.xyz/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://lucasaguiar.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>Hi, my name is Lucas Fernandes Aguiar, born in Brazil and I&amp;rsquo;m a chemist, specialized in intellectual property, currently working at Universidade de Brasília (UnB) as a patent prosecutor and as a PhD student at the Ceramic Materials and Nanotechnology Laboratory (LMCNano/FT/UnB).&#xA;With a strong foundation in chemistry, I hold a Bachelor&amp;rsquo;s degree from Universidade Federal de Goiás (UFG), where I conducted research on solar cells and photoluminescent chemical compounds. In 2019, I completed my Master&amp;rsquo;s degree in Chemistry at UFG with a focus on perovskite solar cells and intellectual property.</description>
+      
+      <guid>https://lucasaguiar.xyz/about/</guid>
+      <description>Hi, my name is Lucas Fernandes Aguiar, born in Brazil and I&amp;rsquo;m a chemist, specialized in intellectual property, currently working at Universidade de Brasília (UnB) as a patent prosecutor and as a PhD student at the Ceramic Materials and Nanotechnology Laboratory (LMCNano/FT/UnB).
+With a strong foundation in chemistry, I hold a Bachelor&amp;rsquo;s degree from Universidade Federal de Goiás (UFG), where I conducted research on solar cells and photoluminescent chemical compounds. In 2019, I completed my Master&amp;rsquo;s degree in Chemistry at UFG with a focus on perovskite solar cells and intellectual property.</description>
     </item>
+    
   </channel>
 </rss>

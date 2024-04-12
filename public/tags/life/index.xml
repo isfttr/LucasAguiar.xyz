@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life on Home</title>
-    <link>http://localhost:1313/tags/life/</link>
-    <description>Recent content in Life on Home</description>
+    <title>life on Home</title>
+    <link>https://lucasaguiar.xyz/tags/life/</link>
+    <description>Recent content in life on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lucasaguiar.xyz/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Life update - November 2023</title>
-      <link>http://localhost:1313/life-update-november-2023/</link>
+      <link>https://lucasaguiar.xyz/life-update-november-2023/</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/life-update-november-2023/</guid>
-      <description>Life as a father My kid is already 7 months old. The time goes too fast. He already dragging himself on the floor and not crying so much anymore. Each day is a new day and now it is getting clearer that life goes on, like I don&amp;rsquo;t have to give up my hobbies and interests because he demands attention.&#xA;It is a totally different experience. I remember the day my wife said the test came out positive.</description>
+      
+      <guid>https://lucasaguiar.xyz/life-update-november-2023/</guid>
+      <description>Life as a father My kid is already 7 months old. The time goes too fast. He already dragging himself on the floor and not crying so much anymore. Each day is a new day and now it is getting clearer that life goes on, like I don&amp;rsquo;t have to give up my hobbies and interests because he demands attention.
+It is a totally different experience. I remember the day my wife said the test came out positive.</description>
     </item>
+    
   </channel>
 </rss>

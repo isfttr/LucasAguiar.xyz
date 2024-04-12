@@ -2,288 +2,243 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/ananke/</loc>
+    <loc>https://lucasaguiar.xyz/tags/ananke/</loc>
     <lastmod>2024-03-24T13:58:55-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/article/</loc>
+    <loc>https://lucasaguiar.xyz/categories/article/</loc>
     <lastmod>2024-03-24T13:58:55-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lucasaguiar.xyz/categories/</loc>
     <lastmod>2024-03-24T13:58:55-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/documentation/</loc>
+    <loc>https://lucasaguiar.xyz/tags/documentation/</loc>
     <lastmod>2024-03-24T13:58:55-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://lucasaguiar.xyz/tags/hugo/</loc>
     <lastmod>2024-03-24T13:58:55-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hugo-content-file-structure/</loc>
+    <loc>https://lucasaguiar.xyz/hugo-content-file-structure/</loc>
     <lastmod>2024-03-24T13:58:55-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://lucasaguiar.xyz/</loc>
     <lastmod>2024-03-24T13:58:55-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://lucasaguiar.xyz/tags/</loc>
     <lastmod>2024-03-24T13:58:55-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/creating-local-ai-part2/</loc>
-    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/m2/</loc>
-    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/macbook-air/</loc>
-    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/mistral/</loc>
-    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/ollama/</loc>
-    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/privategpt/</loc>
-    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/rag/</loc>
-    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/creating-local-ai/</loc>
+    <loc>https://lucasaguiar.xyz/tags/ai/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/apple/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <loc>https://lucasaguiar.xyz/creating-local-ai/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <loc>https://lucasaguiar.xyz/tags/m2/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/macbook/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <loc>https://lucasaguiar.xyz/tags/macbook-air/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/macbook-truenas/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <loc>https://lucasaguiar.xyz/tags/mistral/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/macos/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <loc>https://lucasaguiar.xyz/tags/ollama/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/truenas/</loc>
-    <lastmod>2024-03-10T00:00:00+00:00</lastmod>
+    <loc>https://lucasaguiar.xyz/tags/privategpt/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/keyboard/</loc>
-    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+    <loc>https://lucasaguiar.xyz/tags/rag/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/macbook-pro/</loc>
-    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/opencore/</loc>
-    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/good-bye-macbook-pro/</loc>
-    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/macbook-pro-10years/</loc>
+    <loc>https://lucasaguiar.xyz/macbook-pro-10years/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/arch/</loc>
+    <loc>https://lucasaguiar.xyz/tags/apple/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/notebook/</loc>
+    <loc>https://lucasaguiar.xyz/tags/arch/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/ubuntu/</loc>
+    <loc>https://lucasaguiar.xyz/tags/linux/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/upgrade/</loc>
+    <loc>https://lucasaguiar.xyz/tags/macbook-pro/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/zorin/</loc>
+    <loc>https://lucasaguiar.xyz/tags/macos/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/gadget/</loc>
+    <loc>https://lucasaguiar.xyz/tags/notebook/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lucasaguiar.xyz/tags/opencore/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lucasaguiar.xyz/tags/ubuntu/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lucasaguiar.xyz/tags/upgrade/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lucasaguiar.xyz/tags/zorin/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lucasaguiar.xyz/tags/gadget/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/humane/</loc>
+    <loc>https://lucasaguiar.xyz/tags/humane/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/thoughts/</loc>
+    <loc>https://lucasaguiar.xyz/tags/thoughts/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/humane-ai-pin-announcement/</loc>
+    <loc>https://lucasaguiar.xyz/humane-ai-pin-announcement/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/life/</loc>
+    <loc>https://lucasaguiar.xyz/tags/life/</loc>
     <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/life-update-november-2023/</loc>
+    <loc>https://lucasaguiar.xyz/life-update-november-2023/</loc>
     <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/parenthood/</loc>
+    <loc>https://lucasaguiar.xyz/tags/parenthood/</loc>
     <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/nixos/</loc>
+    <loc>https://lucasaguiar.xyz/tags/nixos/</loc>
     <lastmod>2023-07-03T14:15:29-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/NixOS-fix-virtual-machine/</loc>
+    <loc>https://lucasaguiar.xyz/NixOS-fix-virtual-machine/</loc>
     <lastmod>2023-07-03T14:15:29-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/qemu/</loc>
+    <loc>https://lucasaguiar.xyz/tags/qemu/</loc>
     <lastmod>2023-07-03T14:15:29-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/virtual-machine/</loc>
+    <loc>https://lucasaguiar.xyz/tags/virtual-machine/</loc>
     <lastmod>2023-07-03T14:15:29-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/draft/get-rpi/</loc>
-    <lastmod>2023-06-17T00:28:39-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/draft/azure-cdn-project/</loc>
-    <lastmod>2023-06-17T00:28:02-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/draft/codespaces/</loc>
-    <lastmod>2023-06-17T00:27:40-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/cloud/</loc>
+    <loc>https://lucasaguiar.xyz/tags/cloud/</loc>
     <lastmod>2023-06-16T22:46:19-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/databases/</loc>
+    <loc>https://lucasaguiar.xyz/tags/databases/</loc>
     <lastmod>2023-06-16T22:46:19-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/intellectual-property/</loc>
+    <loc>https://lucasaguiar.xyz/tags/intellectual-property/</loc>
     <lastmod>2023-06-16T22:46:19-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog-introduction/</loc>
+    <loc>https://lucasaguiar.xyz/blog-introduction/</loc>
     <lastmod>2023-06-16T22:46:19-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/story/</loc>
+    <loc>https://lucasaguiar.xyz/categories/story/</loc>
     <lastmod>2023-06-16T22:46:19-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://lucasaguiar.xyz/posts/</loc>
     <lastmod>2023-06-14T13:26:21-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/about/</loc>
+    <loc>https://lucasaguiar.xyz/tags/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://lucasaguiar.xyz/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/contact/</loc>
+    <loc>https://lucasaguiar.xyz/tags/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://lucasaguiar.xyz/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/information/</loc>
+    <loc>https://lucasaguiar.xyz/categories/information/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
