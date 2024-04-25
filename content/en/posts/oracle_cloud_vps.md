@@ -1,6 +1,6 @@
 ---
 date: 2024-04-24T22:33:19-03:00
-draft: true
+draft: false
 title: Using Oracle Cloud Free tier
 description: 
 url: "/oracle_cloud_free_tier"
