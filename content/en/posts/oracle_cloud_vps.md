@@ -63,7 +63,7 @@ This is an overview of this problem and how I solved it. That are many little st
 - [Fabricio Veronez: Nginx reverse proxy and how it works (PT-BR)](https://www.youtube.com/watch?v=bFZurhL14LA)
 - [Sauber Lab: How to get SSL certificates with NPM (PT-BR)](https://www.youtube.com/watch?v=SELkrrexIkQ&t=4s)
 - [Dev.to: Install Docker and Docker Compose on Oracle Linux 8](https://dev.to/kylejschwartz/install-docker-compose-on-oracle-linux-8-1kb0)
-- [Nginx Proxy Manager: default configurations with Docker Compsoe](https://nginxproxymanager.com/setup/#using-mysql-mariadb-database)
+- [Nginx Proxy Manager: default configurations with Docker Compose](https://nginxproxymanager.com/setup/#using-mysql-mariadb-database)
 - [Tailscale SSH into containers](https://tailscale.com/learn/ssh-into-docker-container)
 - [Tailscale on Oracle Linux 8](https://tailscale.com/kb/1117/install-oracle-linux-8)
 - [Tailscale subnet routers](https://tailscale.com/kb/1019/subnets)
