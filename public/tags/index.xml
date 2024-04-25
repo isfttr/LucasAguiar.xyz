@@ -2,179 +2,150 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Home</title>
-    <link>https://lucasaguiar.xyz/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Mar 2024 13:58:55 -0300</lastBuildDate><atom:link href="https://lucasaguiar.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Apr 2024 22:33:19 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ananke</title>
-      <link>https://lucasaguiar.xyz/tags/ananke/</link>
-      <pubDate>Sun, 24 Mar 2024 13:58:55 -0300</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/ananke/</guid>
+      <title>Cloud</title>
+      <link>http://localhost:1313/tags/cloud/</link>
+      <pubDate>Wed, 24 Apr 2024 22:33:19 -0300</pubDate>
+      <guid>http://localhost:1313/tags/cloud/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>documentation</title>
-      <link>https://lucasaguiar.xyz/tags/documentation/</link>
-      <pubDate>Sun, 24 Mar 2024 13:58:55 -0300</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/documentation/</guid>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Wed, 24 Apr 2024 22:33:19 -0300</pubDate>
+      <guid>http://localhost:1313/tags/docker/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hugo</title>
-      <link>https://lucasaguiar.xyz/tags/hugo/</link>
-      <pubDate>Sun, 24 Mar 2024 13:58:55 -0300</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/hugo/</guid>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Wed, 24 Apr 2024 22:33:19 -0300</pubDate>
+      <guid>http://localhost:1313/tags/linux/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Nginx</title>
+      <link>http://localhost:1313/tags/nginx/</link>
+      <pubDate>Wed, 24 Apr 2024 22:33:19 -0300</pubDate>
+      <guid>http://localhost:1313/tags/nginx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oracle</title>
+      <link>http://localhost:1313/tags/oracle/</link>
+      <pubDate>Wed, 24 Apr 2024 22:33:19 -0300</pubDate>
+      <guid>http://localhost:1313/tags/oracle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tailscale</title>
+      <link>http://localhost:1313/tags/tailscale/</link>
+      <pubDate>Wed, 24 Apr 2024 22:33:19 -0300</pubDate>
+      <guid>http://localhost:1313/tags/tailscale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vps</title>
+      <link>http://localhost:1313/tags/vps/</link>
+      <pubDate>Wed, 24 Apr 2024 22:33:19 -0300</pubDate>
+      <guid>http://localhost:1313/tags/vps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1313/tags/web/</link>
+      <pubDate>Wed, 24 Apr 2024 22:33:19 -0300</pubDate>
+      <guid>http://localhost:1313/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ananke</title>
+      <link>http://localhost:1313/tags/ananke/</link>
+      <pubDate>Sun, 24 Mar 2024 13:58:55 -0300</pubDate>
+      <guid>http://localhost:1313/tags/ananke/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>http://localhost:1313/tags/documentation/</link>
+      <pubDate>Sun, 24 Mar 2024 13:58:55 -0300</pubDate>
+      <guid>http://localhost:1313/tags/documentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
+      <pubDate>Sun, 24 Mar 2024 13:58:55 -0300</pubDate>
+      <guid>http://localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
-<<<<<<< HEAD
       <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ai/</guid>
-=======
-      <link>https://lucasaguiar.xyz/tags/ai/</link>
-      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/ai/</guid>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
       <description></description>
     </item>
-    
     <item>
       <title>M2</title>
-<<<<<<< HEAD
       <link>http://localhost:1313/tags/m2/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/m2/</guid>
-=======
-      <link>https://lucasaguiar.xyz/tags/m2/</link>
-      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/m2/</guid>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
       <description></description>
     </item>
-    
     <item>
       <title>MacBook-Air</title>
-<<<<<<< HEAD
       <link>http://localhost:1313/tags/macbook-air/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/macbook-air/</guid>
-=======
-      <link>https://lucasaguiar.xyz/tags/macbook-air/</link>
-      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/macbook-air/</guid>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
       <description></description>
     </item>
-    
     <item>
-<<<<<<< HEAD
       <title>Mistral</title>
       <link>http://localhost:1313/tags/mistral/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/mistral/</guid>
-=======
-      <title>mistral</title>
-      <link>https://lucasaguiar.xyz/tags/mistral/</link>
-      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/mistral/</guid>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
       <description></description>
     </item>
-    
     <item>
-<<<<<<< HEAD
       <title>Ollama</title>
       <link>http://localhost:1313/tags/ollama/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ollama/</guid>
-=======
-      <title>ollama</title>
-      <link>https://lucasaguiar.xyz/tags/ollama/</link>
-      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/ollama/</guid>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
       <description></description>
     </item>
-    
     <item>
-<<<<<<< HEAD
       <title>PrivateGPT</title>
       <link>http://localhost:1313/tags/privategpt/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/privategpt/</guid>
-=======
-      <title>privateGPT</title>
-      <link>https://lucasaguiar.xyz/tags/privategpt/</link>
-      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/privategpt/</guid>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
       <description></description>
     </item>
-    
     <item>
       <title>RAG</title>
-<<<<<<< HEAD
       <link>http://localhost:1313/tags/rag/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/rag/</guid>
-=======
-      <link>https://lucasaguiar.xyz/tags/rag/</link>
-      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/rag/</guid>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
       <description></description>
     </item>
-    
     <item>
-<<<<<<< HEAD
       <title>Apple</title>
       <link>http://localhost:1313/tags/apple/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/apple/</guid>
       <description></description>
     </item>
-=======
-      <title>apple</title>
-      <link>https://lucasaguiar.xyz/tags/apple/</link>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/apple/</guid>
-      <description></description>
-    </item>
-    
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <item>
       <title>Arch</title>
-      <link>https://lucasaguiar.xyz/tags/arch/</link>
+      <link>http://localhost:1313/tags/arch/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/arch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-<<<<<<< HEAD
-      <title>Linux</title>
-      <link>http://localhost:1313/tags/linux/</link>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/linux/</guid>
+      <guid>http://localhost:1313/tags/arch/</guid>
       <description></description>
     </item>
     <item>
@@ -194,18 +165,11 @@
     <item>
       <title>Notebook</title>
       <link>http://localhost:1313/tags/notebook/</link>
-=======
-      <title>linux</title>
-      <link>https://lucasaguiar.xyz/tags/linux/</link>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/linux/</guid>
+      <guid>http://localhost:1313/tags/notebook/</guid>
       <description></description>
     </item>
-    
     <item>
-<<<<<<< HEAD
       <title>OpenCore</title>
       <link>http://localhost:1313/tags/opencore/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
@@ -215,186 +179,93 @@
     <item>
       <title>Ubuntu</title>
       <link>http://localhost:1313/tags/ubuntu/</link>
-=======
-      <title>macbook-pro</title>
-      <link>https://lucasaguiar.xyz/tags/macbook-pro/</link>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/macbook-pro/</guid>
+      <guid>http://localhost:1313/tags/ubuntu/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>MacOS</title>
-      <link>https://lucasaguiar.xyz/tags/macos/</link>
+      <title>Upgrade</title>
+      <link>http://localhost:1313/tags/upgrade/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/macos/</guid>
+      <guid>http://localhost:1313/tags/upgrade/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>notebook</title>
-      <link>https://lucasaguiar.xyz/tags/notebook/</link>
+      <title>Zorin</title>
+      <link>http://localhost:1313/tags/zorin/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/notebook/</guid>
+      <guid>http://localhost:1313/tags/zorin/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>OpenCore</title>
-      <link>https://lucasaguiar.xyz/tags/opencore/</link>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/opencore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ubuntu</title>
-      <link>https://lucasaguiar.xyz/tags/ubuntu/</link>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/ubuntu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>upgrade</title>
-      <link>https://lucasaguiar.xyz/tags/upgrade/</link>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/upgrade/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>zorin</title>
-      <link>https://lucasaguiar.xyz/tags/zorin/</link>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/zorin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gadget</title>
-      <link>https://lucasaguiar.xyz/tags/gadget/</link>
+      <title>Gadget</title>
+      <link>http://localhost:1313/tags/gadget/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/gadget/</guid>
+      <guid>http://localhost:1313/tags/gadget/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>humane</title>
-      <link>https://lucasaguiar.xyz/tags/humane/</link>
+      <title>Humane</title>
+      <link>http://localhost:1313/tags/humane/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/humane/</guid>
+      <guid>http://localhost:1313/tags/humane/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>thoughts</title>
-      <link>https://lucasaguiar.xyz/tags/thoughts/</link>
+      <title>Thoughts</title>
+      <link>http://localhost:1313/tags/thoughts/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/thoughts/</guid>
+      <guid>http://localhost:1313/tags/thoughts/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>life</title>
-      <link>https://lucasaguiar.xyz/tags/life/</link>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/life/</guid>
+      <guid>http://localhost:1313/tags/life/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>parenthood</title>
-      <link>https://lucasaguiar.xyz/tags/parenthood/</link>
+      <title>Parenthood</title>
+      <link>http://localhost:1313/tags/parenthood/</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/parenthood/</guid>
+      <guid>http://localhost:1313/tags/parenthood/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nixos</title>
-      <link>https://lucasaguiar.xyz/tags/nixos/</link>
+      <title>Nixos</title>
+      <link>http://localhost:1313/tags/nixos/</link>
       <pubDate>Mon, 03 Jul 2023 14:15:29 -0300</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/nixos/</guid>
+      <guid>http://localhost:1313/tags/nixos/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>qemu</title>
-      <link>https://lucasaguiar.xyz/tags/qemu/</link>
+      <title>Qemu</title>
+      <link>http://localhost:1313/tags/qemu/</link>
       <pubDate>Mon, 03 Jul 2023 14:15:29 -0300</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/qemu/</guid>
+      <guid>http://localhost:1313/tags/qemu/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>virtual-machine</title>
-      <link>https://lucasaguiar.xyz/tags/virtual-machine/</link>
+      <title>Virtual-Machine</title>
+      <link>http://localhost:1313/tags/virtual-machine/</link>
       <pubDate>Mon, 03 Jul 2023 14:15:29 -0300</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/virtual-machine/</guid>
+      <guid>http://localhost:1313/tags/virtual-machine/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cloud</title>
-      <link>https://lucasaguiar.xyz/tags/cloud/</link>
+      <title>Databases</title>
+      <link>http://localhost:1313/tags/databases/</link>
       <pubDate>Fri, 16 Jun 2023 22:46:19 -0300</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/cloud/</guid>
+      <guid>http://localhost:1313/tags/databases/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>databases</title>
-      <link>https://lucasaguiar.xyz/tags/databases/</link>
+      <title>Intellectual-Property</title>
+      <link>http://localhost:1313/tags/intellectual-property/</link>
       <pubDate>Fri, 16 Jun 2023 22:46:19 -0300</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/databases/</guid>
+      <guid>http://localhost:1313/tags/intellectual-property/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>intellectual-property</title>
-      <link>https://lucasaguiar.xyz/tags/intellectual-property/</link>
-      <pubDate>Fri, 16 Jun 2023 22:46:19 -0300</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/intellectual-property/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://lucasaguiar.xyz/tags/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>contact</title>
-      <link>https://lucasaguiar.xyz/tags/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/tags/contact/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

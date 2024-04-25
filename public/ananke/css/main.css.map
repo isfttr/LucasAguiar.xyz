@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/workspaces/LucasAguiar.xyz",
+	"sourceRoot": "/Users/lucasaguiar/Blog.worktrees/master",
 	"sources": [
 		"ananke/css/main.css"
 	],

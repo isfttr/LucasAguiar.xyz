@@ -2,153 +2,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lucasaguiar.xyz/tags/ananke/</loc>
+    <loc>http://localhost:1313/categories/article/</loc>
+    <lastmod>2024-04-24T22:33:19-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-04-24T22:33:19-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-04-24T22:33:19-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2024-04-24T22:33:19-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-04-24T22:33:19-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/nginx/</loc>
+    <lastmod>2024-04-24T22:33:19-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/oracle/</loc>
+    <lastmod>2024-04-24T22:33:19-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-04-24T22:33:19-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/tutorial/</loc>
+    <lastmod>2024-04-24T22:33:19-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/oracle_cloud_free_tier/</loc>
+    <lastmod>2024-04-24T22:33:19-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/vps/</loc>
+    <lastmod>2024-04-24T22:33:19-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/web/</loc>
+    <lastmod>2024-04-24T22:33:19-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/ananke/</loc>
     <lastmod>2024-03-24T13:58:55-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/categories/articles/</loc>
     <lastmod>2024-03-24T13:58:55-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/categories/article/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
+    <loc>http://localhost:1313/tags/documentation/</loc>
     <lastmod>2024-03-24T13:58:55-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/categories/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2024-03-24T13:58:55-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/documentation/</loc>
+    <loc>http://localhost:1313/hugo-content-file-structure/</loc>
     <lastmod>2024-03-24T13:58:55-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/hugo/</loc>
-    <lastmod>2024-03-24T13:58:55-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lucasaguiar.xyz/hugo-content-file-structure/</loc>
-    <lastmod>2024-03-24T13:58:55-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lucasaguiar.xyz/</loc>
-    <lastmod>2024-03-24T13:58:55-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lucasaguiar.xyz/tags/</loc>
-    <lastmod>2024-03-24T13:58:55-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/creating-local-ai/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/tags/ai/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/tags/m2/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/creating-local-ai/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/tags/macbook-air/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/tags/m2/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/tags/mistral/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/tags/macbook-air/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/tags/ollama/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/tags/mistral/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/tags/privategpt/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/tags/ollama/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/tags/rag/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/tags/privategpt/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/macbook-pro-10years/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/tags/rag/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lucasaguiar.xyz/macbook-pro-10years/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/tags/apple/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/arch/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/tags/apple/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
-    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -164,177 +153,115 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/notebook/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/tags/arch/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/tags/opencore/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/ubuntu/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/tags/linux/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/macbook-pro/</loc>
+    <loc>http://localhost:1313/tags/upgrade/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/macos/</loc>
+    <loc>http://localhost:1313/tags/zorin/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/notebook/</loc>
-    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lucasaguiar.xyz/tags/opencore/</loc>
-    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lucasaguiar.xyz/tags/ubuntu/</loc>
-    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lucasaguiar.xyz/tags/upgrade/</loc>
-    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lucasaguiar.xyz/tags/zorin/</loc>
-    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lucasaguiar.xyz/tags/gadget/</loc>
+    <loc>http://localhost:1313/tags/gadget/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/humane/</loc>
+    <loc>http://localhost:1313/tags/humane/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/thoughts/</loc>
+    <loc>http://localhost:1313/tags/thoughts/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/humane-ai-pin-announcement/</loc>
+    <loc>http://localhost:1313/humane-ai-pin-announcement/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/life/</loc>
+    <loc>http://localhost:1313/tags/life/</loc>
     <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/life-update-november-2023/</loc>
+    <loc>http://localhost:1313/life-update-november-2023/</loc>
     <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/parenthood/</loc>
+    <loc>http://localhost:1313/tags/parenthood/</loc>
     <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/nixos/</loc>
+    <loc>http://localhost:1313/tags/nixos/</loc>
     <lastmod>2023-07-03T14:15:29-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/NixOS-fix-virtual-machine/</loc>
+    <loc>http://localhost:1313/NixOS-fix-virtual-machine/</loc>
     <lastmod>2023-07-03T14:15:29-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/qemu/</loc>
+    <loc>http://localhost:1313/tags/qemu/</loc>
     <lastmod>2023-07-03T14:15:29-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/virtual-machine/</loc>
+    <loc>http://localhost:1313/tags/virtual-machine/</loc>
     <lastmod>2023-07-03T14:15:29-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/categories/article/</loc>
-    <lastmod>2023-06-16T22:46:19-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/cloud/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/tags/cloud/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <lastmod>2023-06-16T22:46:19-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/databases/</loc>
+    <loc>http://localhost:1313/tags/databases/</loc>
     <lastmod>2023-06-16T22:46:19-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/intellectual-property/</loc>
+    <loc>http://localhost:1313/tags/intellectual-property/</loc>
     <lastmod>2023-06-16T22:46:19-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/blog-introduction/</loc>
+    <loc>http://localhost:1313/blog-introduction/</loc>
     <lastmod>2023-06-16T22:46:19-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/categories/story/</loc>
+    <loc>http://localhost:1313/categories/story/</loc>
     <lastmod>2023-06-16T22:46:19-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/tags/about/</loc>
-=======
-    <loc>https://lucasaguiar.xyz/posts/</loc>
-    <lastmod>2023-06-14T13:26:21-03:00</lastmod>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lucasaguiar.xyz/tags/about/</loc>
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lucasaguiar.xyz/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lucasaguiar.xyz/tags/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lucasaguiar.xyz/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lucasaguiar.xyz/categories/information/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

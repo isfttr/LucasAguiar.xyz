@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
     <title>Creating my AI assistant locally | Home</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="For the first time I tried to break with ChatGPT and Copilot to see what I could come up with.">
-    <meta name="generator" content="Hugo 0.112.5">
+    <meta name="generator" content="Hugo 0.124.1">
     
     
     
@@ -32,21 +32,20 @@
     
 
     
-      <link rel="canonical" href="https://lucasaguiar.xyz/creating-local-ai/">
+      <link rel="canonical" href="http://localhost:1313/creating-local-ai/">
     
 
     <meta property="og:title" content="Creating my AI assistant locally" />
 <meta property="og:description" content="For the first time I tried to break with ChatGPT and Copilot to see what I could come up with." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://lucasaguiar.xyz/creating-local-ai/" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="http://localhost:1313/creating-local-ai/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2024-03-16T00:00:00+00:00" />
 <meta property="article:modified_time" content="2024-03-16T00:00:00+00:00" />
 <meta itemprop="name" content="Creating my AI assistant locally">
 <meta itemprop="description" content="For the first time I tried to break with ChatGPT and Copilot to see what I could come up with."><meta itemprop="datePublished" content="2024-03-16T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2024-03-16T00:00:00+00:00" />
 <meta itemprop="wordCount" content="811">
-<meta itemprop="keywords" content="AI,RAG,ollama,mistral,privateGPT,M2,MacBook-Air," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Creating my AI assistant locally"/>
+<meta itemprop="keywords" content="AI,RAG,ollama,mistral,privateGPT,M2,MacBook-Air," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Creating my AI assistant locally"/>
 <meta name="twitter:description" content="For the first time I tried to break with ChatGPT and Copilot to see what I could come up with."/>
 
 	
@@ -76,8 +75,20 @@
         <ul class="pl0 mr3">
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/posts/" title="">
+            <a class="hover-white no-underline white-90" href="/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/posts/" title="Blog page">
               Blog
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="Contact me page">
+              Contact me
             </a>
           </li>
           
@@ -137,7 +148,7 @@
       <h1 class="f1 athelas mt3 mb1">Creating my AI assistant locally</h1>
       
       <p class="tracked">
-         <strong>Lucas F. Aguiar</strong>
+        By <strong>Lucas F. Aguiar</strong>
       </p>
       
       
@@ -190,12 +201,12 @@ Than, in another terminal window, run the following commands from the directory 
 </span></span></code></pre></div><p>The interface should be available to be viewed by opening the following address on the browser <a href="http://127.0.0.1:8001/">127.0.0.1:8001</a>.</p>
 <h1 id="ingesting-files-and-queries">Ingesting files and queries</h1>
 <p>I used a article from a research in biodegradable plastics for Bagheri et al. The ingesting can be seen in the image as the first line. After it is ingested i can query the file for information.</p>
-<p><img src="/images/Ingesting%20files%2020240316213238.png" alt="Ingesting a single file"></p>
+<p><img alt="Ingesting a single file" src="/images/Ingesting%20files%2020240316213238.png"></p>
 <p>I made a question about biodegradable plastics.</p>
-<p><img src="/images/Querying%20Bagheri%2020240316213653.png" alt="Querying the Bagheri article"></p>
+<p><img alt="Querying the Bagheri article" src="/images/Querying%20Bagheri%2020240316213653.png"></p>
 <p>Then I made a question about something that is not mentioned in the article to see what would be the answer.
 Surprisingly to me it did not allucinate. It plainly answered that the subject is not discussed in the paper. You can add a large amount of documents. I already tried with markdown files and PDFs, but there a number of file extensions that are supported. Also, the ingested files are kept in place until you delete them. And this deletion is just from the ingested files. It does not mean deleting the original file.</p>
-<p><img src="/images/Query%20about%20kraft%20paper%2020240316214244.png" alt="Querying about foreign subject to the Bagheri article"></p>
+<p><img alt="Querying about foreign subject to the Bagheri article" src="/images/Query%20about%20kraft%20paper%2020240316214244.png"></p>
 <h1 id="conclusion">Conclusion</h1>
 <p>This is a simple setup of a private and open source LLM. I tried other ones, using AnythingLLM and it didn&rsquo;t work, or it needed workarounds that I don&rsquo;t have the time for. This was the easiest project to set up and there is a lot more that can be done with it. For me, the integration with my Obsidian notes is the next thing that I am aiming to explore.</p>
 <hr>
@@ -260,15 +271,15 @@ Surprisingly to me it did not allucinate. It plainly answered that the subject i
    </li>
   
    <li class="list di">
-     <a href="/tags/ollama/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">ollama</a>
+     <a href="/tags/ollama/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Ollama</a>
    </li>
   
    <li class="list di">
-     <a href="/tags/mistral/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">mistral</a>
+     <a href="/tags/mistral/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Mistral</a>
    </li>
   
    <li class="list di">
-     <a href="/tags/privategpt/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">privateGPT</a>
+     <a href="/tags/privategpt/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">PrivateGPT</a>
    </li>
   
    <li class="list di">
@@ -292,7 +303,7 @@ Surprisingly to me it did not allucinate. It plainly answered that the subject i
 
 
   <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
-    <p class="f5 b mb3"></p>
+    <p class="f5 b mb3">Related</p>
     <ul class="pa0 list">
 	   
 	     <li  class="mb2">
@@ -309,7 +320,7 @@ Surprisingly to me it did not allucinate. It plainly answered that the subject i
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://lucasaguiar.xyz/" >
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
     &copy; Lucas F. Aguiar 2023 - 2024. All rights reserved.
   </a>
     <div>

@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>linux on Home</title>
-    <link>https://lucasaguiar.xyz/tags/linux/</link>
-    <description>Recent content in linux on Home</description>
+    <title>Linux on Home</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Recent content in Linux on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-<<<<<<< HEAD
-    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 22:33:19 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lucasaguiar.xyz/tags/linux/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
+    <item>
+      <title>Using Oracle Cloud Free tier</title>
+      <link>http://localhost:1313/oracle_cloud_free_tier/</link>
+      <pubDate>Wed, 24 Apr 2024 22:33:19 -0300</pubDate>
+      <guid>http://localhost:1313/oracle_cloud_free_tier/</guid>
+      <description>Brief summary paragraph&#xA;The problem This week I have been searching for solutions to use domains with my applications running in containers in my MacBook Pro server. Yes, I have converted my MacBook Pro into a server, at least for now. The first solution was to use a PiHole as a local DNS and it works fine, but the problem is that I have to specify ports to get into the applications and it gets annonying.</description>
+    </item>
     <item>
       <title>10 years using the MacBook Pro 9,2</title>
-      <link>https://lucasaguiar.xyz/macbook-pro-10years/</link>
+      <link>http://localhost:1313/macbook-pro-10years/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/macbook-pro-10years/</guid>
-      <description>The MacBook Pro 9,2 is a model of the MacBook Pro that was released in June 2012. It has a 13.3-inch display, a 2.5 GHz or 2.9 GHz dual-core Intel Core i5 or i7 processor, 4 GB or 8 GB of RAM, and a 500 GB or 750 GB hard drive.
-My MacBook was bought around 2013 or 2014, don&amp;rsquo;t remember exactly. It was bought new, with 4GB of RAM and 500 GB hard drive.</description>
+      <guid>http://localhost:1313/macbook-pro-10years/</guid>
+      <description>The MacBook Pro 9,2 is a model of the MacBook Pro that was released in June 2012. It has a 13.3-inch display, a 2.5 GHz or 2.9 GHz dual-core Intel Core i5 or i7 processor, 4 GB or 8 GB of RAM, and a 500 GB or 750 GB hard drive.&#xA;My MacBook was bought around 2013 or 2014, don&amp;rsquo;t remember exactly. It was bought new, with 4GB of RAM and 500 GB hard drive.</description>
     </item>
-    
     <item>
       <title>Introduction to my new space on the internet</title>
-      <link>https://lucasaguiar.xyz/blog-introduction/</link>
+      <link>http://localhost:1313/blog-introduction/</link>
       <pubDate>Fri, 16 Jun 2023 22:46:19 -0300</pubDate>
-      
-      <guid>https://lucasaguiar.xyz/blog-introduction/</guid>
-      <description>The last months have been very exciting to me. The most exciting and difficult part by far is having my newborn son, whom is almost 3 months old. The other exciting part is that I finally understood that if I really like technology I should really invest in it.
-Investing more in my formation in technology right now could come as odd for most people because I already have a Masters in chemistry and a specialization in intellectual property and also happen to work in the field that I have specialized in.</description>
+      <guid>http://localhost:1313/blog-introduction/</guid>
+      <description>The last months have been very exciting to me. The most exciting and difficult part by far is having my newborn son, whom is almost 3 months old. The other exciting part is that I finally understood that if I really like technology I should really invest in it.&#xA;Investing more in my formation in technology right now could come as odd for most people because I already have a Masters in chemistry and a specialization in intellectual property and also happen to work in the field that I have specialized in.</description>
     </item>
-    
   </channel>
 </rss>
