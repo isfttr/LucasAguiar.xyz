@@ -1,17 +1,14 @@
 {{ $.Scratch.Add "labelClasses" "f6 b db mb1 mt3 sans-serif mid-gray" }}
 {{ $.Scratch.Add "inputClasses" "w-100 f5 pv3 ph3 bg-light-gray bn" }}
 
-<form
-  action="https://formspree.io/f/xgeglgop"
-  method="POST"
->
+<form action="https://formspree.io/f/xgeglgop" method="POST">
   <label>
     Your email:
     <input type="email" name="email">
   </label>
   <label>
     Your message:
-    <textarea name="message"></textarea>
+    <textarea rows="10" cols="50" name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
@@ -27,9 +24,11 @@
     padding: 2rem 0;
     margin: 0;
   }
+
   form label {
     display: contents;
   }
+
   form input[type="email"],
   form textarea,
   form button {
@@ -39,9 +38,11 @@
     background: none;
     padding: 0.4rem 0.5rem;
   }
+
   form textarea {
     resize: vertical;
   }
+
   form button {
     justify-self: start;
   }
