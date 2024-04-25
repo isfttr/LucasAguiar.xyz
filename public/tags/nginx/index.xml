@@ -13,7 +13,7 @@
       <link>http://localhost:1313/oracle_cloud_free_tier/</link>
       <pubDate>Wed, 24 Apr 2024 22:33:19 -0300</pubDate>
       <guid>http://localhost:1313/oracle_cloud_free_tier/</guid>
-      <description>Brief summary paragraph&#xA;The problem This week I have been searching for solutions to use domains with my applications running in containers in my MacBook Pro server. Yes, I have converted my MacBook Pro into a server, at least for now. The first solution was to use a PiHole as a local DNS and it works fine, but the problem is that I have to specify ports to get into the applications and it gets annonying.</description>
+      <description>The problem This week I have been searching for solutions to use domains with my applications running in containers in my MacBook Pro server. Yes, I have converted my MacBook Pro into a server, at least for now. The first solution was to use a Pi-Hole as a local DNS and it works fine, but the problem is that I have to specify ports to get into the applications and it gets annonying.</description>
     </item>
   </channel>
 </rss>
