@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
     <title>NixOS - Virtual Machine using QEMU | Home</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="Correcting the `No internet available` error on NixOS Installation">
-    <meta name="generator" content="Hugo 0.124.1">
+    <meta name="generator" content="Hugo 0.112.5">
     
     
     
@@ -32,20 +32,21 @@
     
 
     
-      <link rel="canonical" href="http://localhost:1313/NixOS-fix-virtual-machine/">
+      <link rel="canonical" href="https://lucasaguiar.xyz/NixOS-fix-virtual-machine/">
     
 
     <meta property="og:title" content="NixOS - Virtual Machine using QEMU" />
 <meta property="og:description" content="Correcting the `No internet available` error on NixOS Installation" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/NixOS-fix-virtual-machine/" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="https://lucasaguiar.xyz/NixOS-fix-virtual-machine/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2023-07-03T14:15:29-03:00" />
 <meta property="article:modified_time" content="2023-07-03T14:15:29-03:00" />
 <meta itemprop="name" content="NixOS - Virtual Machine using QEMU">
 <meta itemprop="description" content="Correcting the `No internet available` error on NixOS Installation"><meta itemprop="datePublished" content="2023-07-03T14:15:29-03:00" />
 <meta itemprop="dateModified" content="2023-07-03T14:15:29-03:00" />
 <meta itemprop="wordCount" content="193">
-<meta itemprop="keywords" content="nixos,qemu,virtual-machine," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="NixOS - Virtual Machine using QEMU"/>
+<meta itemprop="keywords" content="nixos,qemu,virtual-machine," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="NixOS - Virtual Machine using QEMU"/>
 <meta name="twitter:description" content="Correcting the `No internet available` error on NixOS Installation"/>
 
 	
@@ -75,20 +76,8 @@
         <ul class="pl0 mr3">
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/about/" title="About page">
-              About
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/posts/" title="Blog page">
+            <a class="hover-white no-underline white-90" href="/posts/" title="">
               Blog
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/contact/" title="Contact me page">
-              Contact me
             </a>
           </li>
           
@@ -148,7 +137,7 @@
       <h1 class="f1 athelas mt3 mb1">NixOS - Virtual Machine using QEMU</h1>
       
       <p class="tracked">
-        By <strong>Lucas F. Aguiar</strong>
+         <strong>Lucas F. Aguiar</strong>
       </p>
       
       
@@ -163,20 +152,20 @@
 <p>Since I&rsquo;m using the GUI program Virtual Manager, I went into the VM&rsquo;s configuration.</p>
 <p>Select the VM and the <code>Open</code> button on the top bar. You could do this while the VM is running but the changes will only take effect the next time the VM boots up, so it is better to have the VM shutdown.</p>
 <p>Since the VM is down, the screen will show that the VM is not running, and on top bar there will be a <code>i</code> blue button. Click on it and go to <code>NIC ...</code>. This stands for network interface component and this is virtual NIC. Change the Network source to &lsquo;default&rsquo;. If the network source is set to <code>docker0</code> as it was my case, the new host is not inside the docker network, so there is not a gateway to connect to. In this case, the right network is the <code>virbr0</code> which is specific for virtual machines.</p>
-<p><img alt="Screenshot (PT-BR)." src="/images/nixos-vm-network.png"></p>
+<p><img src="/images/nixos-vm-network.png" alt="Screenshot (PT-BR)."></p>
 <p>The device model could be set to <code>virtio</code> or other models, from what I tested there was not changes.</p>
 <ul class="pa0">
   
    <li class="list di">
-     <a href="/tags/nixos/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Nixos</a>
+     <a href="/tags/nixos/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">nixos</a>
    </li>
   
    <li class="list di">
-     <a href="/tags/qemu/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Qemu</a>
+     <a href="/tags/qemu/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">qemu</a>
    </li>
   
    <li class="list di">
-     <a href="/tags/virtual-machine/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Virtual-Machine</a>
+     <a href="/tags/virtual-machine/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">virtual-machine</a>
    </li>
   
 </ul>
@@ -198,7 +187,7 @@
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://lucasaguiar.xyz/" >
     &copy; Lucas F. Aguiar 2023 - 2024. All rights reserved.
   </a>
     <div>

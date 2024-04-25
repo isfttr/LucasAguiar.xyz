@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Apple on Home</title>
-    <link>http://localhost:1313/tags/apple/</link>
-    <description>Recent content in Apple on Home</description>
+    <title>apple on Home</title>
+    <link>https://lucasaguiar.xyz/tags/apple/</link>
+    <description>Recent content in apple on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lucasaguiar.xyz/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <item>
       <title>10 years using the MacBook Pro 9,2</title>
-      <link>http://localhost:1313/macbook-pro-10years/</link>
+      <link>https://lucasaguiar.xyz/macbook-pro-10years/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/macbook-pro-10years/</guid>
-      <description>The MacBook Pro 9,2 is a model of the MacBook Pro that was released in June 2012. It has a 13.3-inch display, a 2.5 GHz or 2.9 GHz dual-core Intel Core i5 or i7 processor, 4 GB or 8 GB of RAM, and a 500 GB or 750 GB hard drive.&#xA;My MacBook was bought around 2013 or 2014, don&amp;rsquo;t remember exactly. It was bought new, with 4GB of RAM and 500 GB hard drive.</description>
+      
+      <guid>https://lucasaguiar.xyz/macbook-pro-10years/</guid>
+      <description>The MacBook Pro 9,2 is a model of the MacBook Pro that was released in June 2012. It has a 13.3-inch display, a 2.5 GHz or 2.9 GHz dual-core Intel Core i5 or i7 processor, 4 GB or 8 GB of RAM, and a 500 GB or 750 GB hard drive.
+My MacBook was bought around 2013 or 2014, don&amp;rsquo;t remember exactly. It was bought new, with 4GB of RAM and 500 GB hard drive.</description>
     </item>
+    
   </channel>
 </rss>

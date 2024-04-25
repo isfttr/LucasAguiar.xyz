@@ -2,60 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lucas F. Aguiar on Home</title>
-    <link>http://localhost:1313/</link>
+    <link>https://lucasaguiar.xyz/</link>
     <description>Recent content in Lucas F. Aguiar on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Mar 2024 13:58:55 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Mar 2024 13:58:55 -0300</lastBuildDate><atom:link href="https://lucasaguiar.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Content File Structure</title>
-      <link>http://localhost:1313/hugo-content-file-structure/</link>
+      <link>https://lucasaguiar.xyz/hugo-content-file-structure/</link>
       <pubDate>Sun, 24 Mar 2024 13:58:55 -0300</pubDate>
+<<<<<<< HEAD
       <guid>http://localhost:1313/hugo-content-file-structure/</guid>
       <description>I have been using the ananke theme since the inception of this blog. But recently I started to have all sorts of problems because of my lack of understading of how the contents folder is linked to the layouts folder and to the themes/ananke folder.&#xA;/contents So in the ananke theme you have the choice to have more than one language for your website. In my case I only need to use the english folder, which is in contents/en/ folder.</description>
     </item>
+=======
+      
+      <guid>https://lucasaguiar.xyz/hugo-content-file-structure/</guid>
+      <description>I have been using the ananke theme since the inception of this blog. But recently I started to have all sorts of problems because of my lack of understading of how the contents folder is linked to the layouts folder and to the themes/ananke folder.
+/contents So in the ananke theme you have the choice to have more than one language for your website. In my case I only need to use the english folder, which is in contents/en/ folder.</description>
+    </item>
+    
+>>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <item>
       <title>Creating my AI assistant locally</title>
-      <link>http://localhost:1313/creating-local-ai/</link>
+      <link>https://lucasaguiar.xyz/creating-local-ai/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
       <guid>http://localhost:1313/creating-local-ai/</guid>
       <description>It surprised me how easy it was to build a local solution with Ollama.&#xA;Introduction This itch to have a private solution for AI came to me after I saw that OpenAI changed their settings on the playground section and does not allow for free users to test the models. With that I went to check Gemini but it was the same thing. Both of them are costing $20/month and for me it isn&amp;rsquo;t worth it at the moment.</description>
     </item>
+=======
+      
+      <guid>https://lucasaguiar.xyz/creating-local-ai/</guid>
+      <description>It surprised me how easy it was to build a local solution with Ollama.
+Introduction This itch to have a private solution for AI came to me after I saw that OpenAI changed their settings on the playground section and does not allow for free users to test the models. With that I went to check Gemini but it was the same thing. Both of them are costing $20/month and for me it isn&amp;rsquo;t worth it at the moment.</description>
+    </item>
+    
+>>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <item>
       <title>10 years using the MacBook Pro 9,2</title>
-      <link>http://localhost:1313/macbook-pro-10years/</link>
+      <link>https://lucasaguiar.xyz/macbook-pro-10years/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/macbook-pro-10years/</guid>
-      <description>The MacBook Pro 9,2 is a model of the MacBook Pro that was released in June 2012. It has a 13.3-inch display, a 2.5 GHz or 2.9 GHz dual-core Intel Core i5 or i7 processor, 4 GB or 8 GB of RAM, and a 500 GB or 750 GB hard drive.&#xA;My MacBook was bought around 2013 or 2014, don&amp;rsquo;t remember exactly. It was bought new, with 4GB of RAM and 500 GB hard drive.</description>
+      
+      <guid>https://lucasaguiar.xyz/macbook-pro-10years/</guid>
+      <description>The MacBook Pro 9,2 is a model of the MacBook Pro that was released in June 2012. It has a 13.3-inch display, a 2.5 GHz or 2.9 GHz dual-core Intel Core i5 or i7 processor, 4 GB or 8 GB of RAM, and a 500 GB or 750 GB hard drive.
+My MacBook was bought around 2013 or 2014, don&amp;rsquo;t remember exactly. It was bought new, with 4GB of RAM and 500 GB hard drive.</description>
     </item>
+    
     <item>
       <title>Thoughts on the hu.ma.ne AI Pin</title>
-      <link>http://localhost:1313/humane-ai-pin-announcement/</link>
+      <link>https://lucasaguiar.xyz/humane-ai-pin-announcement/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/humane-ai-pin-announcement/</guid>
-      <description>I watched the presentation by hu.ma.ne founder earlier in the week at TED in May, and I thought the device, the Ai Pin, was really different from what we have, read smartphones. What is the use of something without a screen? Then I remembered that people used to have Pagers, but even then, Pagers had a screen with the number to call back. But I digress.&#xA;What really made me think was watching their launch video yesterday.</description>
+      
+      <guid>https://lucasaguiar.xyz/humane-ai-pin-announcement/</guid>
+      <description>I watched the presentation by hu.ma.ne founder earlier in the week at TED in May, and I thought the device, the Ai Pin, was really different from what we have, read smartphones. What is the use of something without a screen? Then I remembered that people used to have Pagers, but even then, Pagers had a screen with the number to call back. But I digress.
+What really made me think was watching their launch video yesterday.</description>
     </item>
+    
     <item>
       <title>Life update - November 2023</title>
-      <link>http://localhost:1313/life-update-november-2023/</link>
+      <link>https://lucasaguiar.xyz/life-update-november-2023/</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/life-update-november-2023/</guid>
-      <description>Life as a father My kid is already 7 months old. The time goes too fast. He already dragging himself on the floor and not crying so much anymore. Each day is a new day and now it is getting clearer that life goes on, like I don&amp;rsquo;t have to give up my hobbies and interests because he demands attention.&#xA;It is a totally different experience. I remember the day my wife said the test came out positive.</description>
+      
+      <guid>https://lucasaguiar.xyz/life-update-november-2023/</guid>
+      <description>Life as a father My kid is already 7 months old. The time goes too fast. He already dragging himself on the floor and not crying so much anymore. Each day is a new day and now it is getting clearer that life goes on, like I don&amp;rsquo;t have to give up my hobbies and interests because he demands attention.
+It is a totally different experience. I remember the day my wife said the test came out positive.</description>
     </item>
+    
     <item>
       <title>NixOS - Virtual Machine using QEMU</title>
-      <link>http://localhost:1313/NixOS-fix-virtual-machine/</link>
+      <link>https://lucasaguiar.xyz/NixOS-fix-virtual-machine/</link>
       <pubDate>Mon, 03 Jul 2023 14:15:29 -0300</pubDate>
+<<<<<<< HEAD
       <guid>http://localhost:1313/NixOS-fix-virtual-machine/</guid>
       <description>This is a quick guide for those that are having trouble installing NixOS and getting the No Internet Available error.&#xA;Since I&amp;rsquo;m using the GUI program Virtual Manager, I went into the VM&amp;rsquo;s configuration.&#xA;Select the VM and the Open button on the top bar. You could do this while the VM is running but the changes will only take effect the next time the VM boots up, so it is better to have the VM shutdown.</description>
     </item>
+=======
+      
+      <guid>https://lucasaguiar.xyz/NixOS-fix-virtual-machine/</guid>
+      <description>This is a quick guide for those that are having trouble installing NixOS and getting the No Internet Available error.
+Since I&amp;rsquo;m using the GUI program Virtual Manager, I went into the VM&amp;rsquo;s configuration.
+Select the VM and the Open button on the top bar. You could do this while the VM is running but the changes will only take effect the next time the VM boots up, so it is better to have the VM shutdown.</description>
+    </item>
+    
+>>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
     <item>
       <title>Introduction to my new space on the internet</title>
-      <link>http://localhost:1313/blog-introduction/</link>
+      <link>https://lucasaguiar.xyz/blog-introduction/</link>
       <pubDate>Fri, 16 Jun 2023 22:46:19 -0300</pubDate>
-      <guid>http://localhost:1313/blog-introduction/</guid>
-      <description>The last months have been very exciting to me. The most exciting and difficult part by far is having my newborn son, whom is almost 3 months old. The other exciting part is that I finally understood that if I really like technology I should really invest in it.&#xA;Investing more in my formation in technology right now could come as odd for most people because I already have a Masters in chemistry and a specialization in intellectual property and also happen to work in the field that I have specialized in.</description>
+      
+      <guid>https://lucasaguiar.xyz/blog-introduction/</guid>
+      <description>The last months have been very exciting to me. The most exciting and difficult part by far is having my newborn son, whom is almost 3 months old. The other exciting part is that I finally understood that if I really like technology I should really invest in it.
+Investing more in my formation in technology right now could come as odd for most people because I already have a Masters in chemistry and a specialization in intellectual property and also happen to work in the field that I have specialized in.</description>
     </item>
+<<<<<<< HEAD
+=======
+    
+    <item>
+      <title>About</title>
+      <link>https://lucasaguiar.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasaguiar.xyz/about/</guid>
+      <description>Hi, my name is Lucas Fernandes Aguiar, born in Brazil and I&amp;rsquo;m a chemist, specialized in intellectual property, currently working at Universidade de Brasília (UnB) as a patent prosecutor and as a PhD student at the Ceramic Materials and Nanotechnology Laboratory (LMCNano/FT/UnB).
+With a strong foundation in chemistry, I hold a Bachelor&amp;rsquo;s degree from Universidade Federal de Goiás (UFG), where I conducted research on solar cells and photoluminescent chemical compounds. In 2019, I completed my Master&amp;rsquo;s degree in Chemistry at UFG with a focus on perovskite solar cells and intellectual property.</description>
+    </item>
+    
+    <item>
+      <title>Contact me</title>
+      <link>https://lucasaguiar.xyz/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasaguiar.xyz/contact/</guid>
+      <description>Feel free to reach me out by e-mail on lucas.fernandes.df@gmail.com
+Social Media LinkedIn GitHub Threads Your email: Your message: Send </description>
+    </item>
+    
+>>>>>>> codespace-super-duper-garbanzo-4g46q4gpwr42wjp
   </channel>
 </rss>
