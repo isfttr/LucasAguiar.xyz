@@ -41,13 +41,13 @@ jobs:
       - name: Install Dart Sass Embedded
         run: sudo snap install dart-sass-embedded
       - name: Checkout
-        uses: actions/checkout@v4 # Updated to v4
+        uses: actions/checkout@v4
         with:
           submodules: recursive
           fetch-depth: 0
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4 # Updated to v4
+        uses: actions/configure-pages@v4
       - name: Install Node.js dependencies
         if: "contains(github.event_name, 'push')"
         run: |
@@ -64,8 +64,14 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
+      - name: Verify public directory exists
+        run: |
+          if [ ! -d "public" ]; then
+            echo "Error: public directory not found!"
+            exit 1
+          fi
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3 # Updated to v3
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -79,4 +85,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3 # Updated to v3
+        uses: actions/deploy-pages@v3
