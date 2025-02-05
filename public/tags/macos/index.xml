@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MacOS on Home</title>
+    <title>Macos on Home</title>
     <link>http://localhost:1313/tags/macos/</link>
-    <description>Recent content in MacOS on Home</description>
+    <description>Recent content in Macos on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
@@ -14,6 +14,13 @@
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/macbook-pro-10years/</guid>
       <description>The MacBook Pro 9,2 is a model of the MacBook Pro that was released in June 2012. It has a 13.3-inch display, a 2.5 GHz or 2.9 GHz dual-core Intel Core i5 or i7 processor, 4 GB or 8 GB of RAM, and a 500 GB or 750 GB hard drive.&#xA;My MacBook was bought around 2013 or 2014, don&amp;rsquo;t remember exactly. It was bought new, with 4GB of RAM and 500 GB hard drive.</description>
+    </item>
+    <item>
+      <title>&#39;{{ replace .File.ContentBaseName `-` ` ` | title }}&#39;</title>
+      <link>http://localhost:1313/posts/draft/obsidian-&#43;-copilot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/draft/obsidian-&#43;-copilot/</guid>
+      <description>I needed a easy and cheap way to integrate my vault with artificial intelligence. One of the ways would be to pay for subscriptions, which would be a high cost for me, since I am would not use the service that often. Another way would be to pay for a Cloud GPU service to run big queries, that would be unfeasible to run locally. Eventually I discovered OpenRouter, which seems to be the easiest to solution because I can access multiple models at a single place and also have a API that I can connect to other services.</description>
     </item>
   </channel>
 </rss>

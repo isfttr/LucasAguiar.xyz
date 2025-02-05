@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Apr 2024 23:52:23 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 11:00:59 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian &#43; Copilot</title>
+      <link>http://localhost:1313/posts/10_obsidian-copilot/</link>
+      <pubDate>Tue, 04 Feb 2025 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/posts/10_obsidian-copilot/</guid>
+      <description>I needed an easy and cheap option to integrate my vault with artificial intelligence. The easiest option could be to pay for subscriptions, which would be a high cost for me, since I am would not use the service that often to justify. Another option would be to pay for a Cloud GPU service to run big queries that would be unfeasible to run locally. This option seemed too cumbersome for my case.</description>
+    </item>
     <item>
       <title>RPIpy v1 - Release</title>
       <link>http://localhost:1313/rpipy_v1_release/</link>
@@ -70,6 +77,13 @@
       <pubDate>Fri, 16 Jun 2023 22:46:19 -0300</pubDate>
       <guid>http://localhost:1313/blog-introduction/</guid>
       <description>The last months have been very exciting to me. The most exciting and difficult part by far is having my newborn son, whom is almost 3 months old. The other exciting part is that I finally understood that if I really like technology I should really invest in it.&#xA;Investing more in my formation in technology right now could come as odd for most people because I already have a Masters in chemistry and a specialization in intellectual property and also happen to work in the field that I have specialized in.</description>
+    </item>
+    <item>
+      <title>&#39;{{ replace .File.ContentBaseName `-` ` ` | title }}&#39;</title>
+      <link>http://localhost:1313/posts/draft/obsidian-&#43;-copilot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/draft/obsidian-&#43;-copilot/</guid>
+      <description>I needed a easy and cheap way to integrate my vault with artificial intelligence. One of the ways would be to pay for subscriptions, which would be a high cost for me, since I am would not use the service that often. Another way would be to pay for a Cloud GPU service to run big queries, that would be unfeasible to run locally. Eventually I discovered OpenRouter, which seems to be the easiest to solution because I can access multiple models at a single place and also have a API that I can connect to other services.</description>
     </item>
   </channel>
 </rss>

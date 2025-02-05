@@ -29,5 +29,12 @@
       <guid>http://localhost:1313/blog-introduction/</guid>
       <description>The last months have been very exciting to me. The most exciting and difficult part by far is having my newborn son, whom is almost 3 months old. The other exciting part is that I finally understood that if I really like technology I should really invest in it.&#xA;Investing more in my formation in technology right now could come as odd for most people because I already have a Masters in chemistry and a specialization in intellectual property and also happen to work in the field that I have specialized in.</description>
     </item>
+    <item>
+      <title>&#39;{{ replace .File.ContentBaseName `-` ` ` | title }}&#39;</title>
+      <link>http://localhost:1313/posts/draft/obsidian-&#43;-copilot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/draft/obsidian-&#43;-copilot/</guid>
+      <description>I needed a easy and cheap way to integrate my vault with artificial intelligence. One of the ways would be to pay for subscriptions, which would be a high cost for me, since I am would not use the service that often. Another way would be to pay for a Cloud GPU service to run big queries, that would be unfeasible to run locally. Eventually I discovered OpenRouter, which seems to be the easiest to solution because I can access multiple models at a single place and also have a API that I can connect to other services.</description>
+    </item>
   </channel>
 </rss>
