@@ -11,8 +11,14 @@
             "id": "56eed8aff59ece21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/en/posts/draft/Obsidian + Copilot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian + Copilot"
             }
           }
         ]
@@ -34,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -82,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/en/posts/draft/Obsidian + Copilot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +103,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Obsidian + Copilot"
             }
           },
           {
@@ -98,9 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/en/posts/draft/Obsidian + Copilot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Obsidian + Copilot"
             }
           },
           {
@@ -110,8 +129,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -119,7 +142,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/en/posts/draft/Obsidian + Copilot.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Obsidian + Copilot"
             }
           }
         ]
@@ -144,6 +174,23 @@
   },
   "active": "56eed8aff59ece21",
   "lastOpenFiles": [
+    "themes/ananke/package-lock.json",
+    "themes/ananke/netlify.toml",
+    "themes/ananke/i18n/id.toml",
+    "themes/ananke/gohugo-theme-ananke.code-workspace",
+    "themes/ananke/config/_default/hugo.toml",
+    "themes/ananke/config/_default",
+    "themes/ananke/config",
+    "Pasted image 20250204213748.png",
+    "Pasted image 20250204213447.png",
+    "Pasted image 20250204213406.png",
+    "Pasted image 20250204211956.png",
+    "Pasted image 20250204211555.png",
+    "Pasted image 20250204211446.png",
+    "Pasted image 20250204211334.png",
+    "Pasted image 20250204211022.png",
+    "archetypes/default.md",
+    "content/en/posts/draft/Obsidian + Copilot.md",
     "content/en/post/2024.3.16_Creating my ai assistant/Creating my AI assistant locally.md",
     "content/en/templates/New post.md",
     "content/en/post/2024.03.06_Goodby-MBP92/2024-03-06-Goodbye MBP 9,2.md",
@@ -155,25 +202,11 @@
     "images/Query.md",
     "images",
     "content/en/post/2023.11.10_Ai-pin/ai-pin.md",
-    "content/en/post/2023.11.10_Ai-pin/images/humane-ai-pin.jpeg",
     "content/en/post/2023.11.10_Ai-pin/images",
-    "content/en/post/2023.11.10_Ai-pin",
     "content/en/post/2023.11.09_Update-on-life/update_on_life_november-2023.md",
-    "content/en/post/2023.11.09_Update-on-life",
     "content/en/post/2023./update_on_life_november-2023.md",
-    "content/en/post/2023.",
-    "content/en/post/2023.11.11_10-years-of-MacBook-Pro/images/macbook-pro9,2.jpeg",
-    "content/en/post/2023.11.11_10-years-of-MacBook-Pro/images/macbook-2012.png",
-    "content/en/post/2023.11.11_10-years-of-MacBook-Pro/images",
     "content/en/post/2023.11.11_10-years-of-MacBook-Pro/10-years-of macbook-pro-9,2.md",
-    "content/en/post/2023.11.11_10-years-of-MacBook-Pro",
-    "content/en/post/2023_10-years-of-MacBook-Pro/images/macbook-2012.png",
-    "content/en/post/2023_10-years-of-MacBook-Pro/images/macbook-pro9,2.jpeg",
-    "content/en/post/2023_10-years-of-MacBook-Pro/images",
     "content/en/post/2023_10-years-of-MacBook-Pro/10-years-of macbook-pro-9,2.md",
-    "content/en/post/2024.3.16_Creating my ai assistant/images/Ingesting files 20240316213238.png",
-    "content/en/post/2024.3.16_Creating my ai assistant/images/Querying Bagheri 20240316213653.png",
-    "content/en/post/2024.3.16_Creating my ai assistant/images/Query about kraft paper 20240316214244.png",
     "content/en/post/Creating my AI assistant locally.md",
     "content/en/project/nixos-vm1.md",
     "content/en/post/_index.md",
@@ -186,8 +219,6 @@
     "themes/ananke/archetypes/default.md",
     "content/en/post/test.md",
     "themes/ananke/exampleSite/content/fr/post/chapter-1.md",
-    "themes/ananke/exampleSite/content/fr/post/_index.md",
-    "themes/ananke/exampleSite/content/en/post/chapter-6.md",
-    "themes/ananke/exampleSite/content/en/post/chapter-5.md"
+    "themes/ananke/exampleSite/content/fr/post/_index.md"
   ]
 }
