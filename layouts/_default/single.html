@@ -54,6 +54,7 @@
     {{- .Content -}}
     {{- partial "buy-me-coffee.html" . -}}
     {{- partial "tags.html" . -}}
+    {{% form-contact %}}
     <div class="mt6 instapaper_ignoref">
       {{ if .Site.Config.Services.Disqus.Shortname }}
       {{ template "_internal/disqus.html" . }}
