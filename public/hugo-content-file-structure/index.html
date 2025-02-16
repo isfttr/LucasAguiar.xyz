@@ -62,8 +62,8 @@
   <body class="ma0 avenir bg-near-white">
 
     
-   
-  <header>
+
+<header>
   <div class="bg-black">
     <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
@@ -150,14 +150,14 @@
 
     <main class="pb7" role="main">
       
-  
-  <article class="flex-l flex-wrap justify-between mw8 center ph3">
-    <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b helvetica tracked ttu">
-          
-        Blog
-      </aside>
+
+<article class="flex-l flex-wrap justify-between mw8 center ph3">
+  <header class="mt4 w-100">
+    <aside class="instapaper_ignoref b helvetica tracked ttu">
       
+      Blog
+    </aside>
+    
 
 
 
@@ -183,21 +183,21 @@
   </div>
 
 
-      <h1 class="f1 athelas mt3 mb1">Hugo Content File Structure</h1>
-      
-      <p class="tracked">
-         <strong>Lucas Fernandes Aguiar</strong>
-      </p>
-      
-      
-      
-      <time class="f6 mv4 dib tracked" datetime="2024-03-24T13:58:55-03:00">March 24, 2024</time>
-      
+    <h1 class="f1 athelas mt3 mb1">Hugo Content File Structure</h1>
+    
+    <p class="tracked">
+       <strong>Lucas Fernandes Aguiar</strong>
+    </p>
+    
+    
+    
+    <time class="f6 mv4 dib tracked" datetime="2024-03-24T13:58:55-03:00" >March 24, 2024</time>
+    
 
-      
-      
-    </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>I have been using the <code>ananke</code> theme since the inception of this blog. But recently I started to have all sorts of problems because of my lack of understading of how the <code>contents</code> folder is linked to the <code>layouts</code> folder and to the <code>themes/ananke</code> folder.</p>
+    
+    
+  </header>
+  <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>I have been using the <code>ananke</code> theme since the inception of this blog. But recently I started to have all sorts of problems because of my lack of understading of how the <code>contents</code> folder is linked to the <code>layouts</code> folder and to the <code>themes/ananke</code> folder.</p>
 <h2 id="contents"><code>/contents</code></h2>
 <p>So in the <code>ananke</code> theme you have the choice to have more than one language for your website. In my case I only need to use the english folder, which is in <code>contents/en/</code> folder. Inside the contents folder, every section needs to have a <code>_index.md</code> file indicating that it is the main page. Every section can be represented by a folder with content inside and <code>_index.md</code> file as the head of the section. In my case, my posts are at <code>contents/en/posts/</code>. So, the  <code>contents/en/</code> has a <code>_index.md</code> folder as well as the <code>contents/en/posts/</code> folder.</p>
 <p>This is important because alongside the <code>_index.md</code> you can have other pages, that will be displayed differently according to where in the contents folder they are. So a <code>content/en/page.md</code> is on the same level as <code>content/en/posts/_index.md</code>. In the <code>ananke</code> theme this can be seen visually by the header pages.</p>
@@ -275,7 +275,11 @@
     justify-self: start;
   }
 </style>
-<ul class="pa0">
+<div class="tc mt4 mb4">
+    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button"
+        data-slug="lucasaguiar" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee"
+        data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff"></script>
+</div><ul class="pa0">
   
    <li class="list di">
      <a href="/tags/documentation/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Documentation</a>
@@ -293,17 +297,17 @@
 <div class="mt6 instapaper_ignoref">
       
       
-      </div>
     </div>
+  </div>
 
-    <aside class="w-30-l mt6-l">
+  <aside class="w-30-l mt6-l">
 
 
 
 
 </aside>
 
-  </article>
+</article>
 
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
