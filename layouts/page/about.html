@@ -1,0 +1,36 @@
+{{ define "header" }}
+{{ partial "page-header.html" . }}
+{{ partial "about-styles.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<article class="flex justify-between mw9 center ph3-l">
+    <!-- Left Sidebar -->
+    <div class="w-20-l w-100 order-1 pr4-l">
+        <div class="profile-card sticky top-2 bg-white pa3 br2 shadow-4">
+            <img src="/images/Lucas Perfil 2022.jpg" alt="Lucas Aguiar" class="br-100 w4 h4 dib mb3">
+            <div class="social-links">
+                <a href="https://github.com/lucasaguiar" class="link black hover-blue dib mr2"
+                    target="_blank">GitHub</a>
+                <a href="https://linkedin.com/in/lucasaguiar" class="link black hover-blue dib mr2"
+                    target="_blank">LinkedIn</a>
+                <a href="https://buymeacoffee.com/lucasaguiar" class="link black hover-blue dib" target="_blank">Buy Me
+                    a Coffee</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="w-60-l w-100 order-2 ph4-l nested-copy-line-height lh-copy">
+        {{ .Content }}
+    </div>
+
+    <!-- Right Sidebar (TOC) -->
+    <div class="w-20-l w-100 order-3 pl4-l">
+        <div class="toc-container sticky top-2 bg-white pa3 br2 shadow-4">
+            <h3 class="f5 fw6 mb3">Contents</h3>
+            {{ .TableOfContents }}
+        </div>
+    </div>
+</article>
+{{ end }}

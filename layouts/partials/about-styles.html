@@ -1,0 +1,46 @@
+<style>
+    .profile-card {
+        transition: transform 0.3s ease;
+    }
+
+    .profile-card:hover {
+        transform: translateY(-5px);
+    }
+
+    .social-links a {
+        transition: all 0.3s ease;
+        padding: 0.5rem;
+        border-radius: 4px;
+    }
+
+    .social-links a:hover {
+        background-color: #f0f4f8;
+        transform: translateX(3px);
+    }
+
+    .toc-container {
+        max-height: 80vh;
+        overflow-y: auto;
+    }
+
+    @media screen and (max-width: 60em) {
+
+        .profile-card,
+        .toc-container {
+            position: static;
+            margin-bottom: 2rem;
+        }
+
+        .flex {
+            flex-direction: column;
+        }
+
+        .order-1,
+        .order-2,
+        .order-3 {
+            order: 0;
+            width: 100%;
+            padding: 0;
+        }
+    }
+</style>
