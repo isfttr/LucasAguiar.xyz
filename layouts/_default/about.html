@@ -27,10 +27,8 @@
                 <img src="/images/Lucas Perfil 2022.jpg" alt="Lucas Aguiar" class="w-100">
             </div>
             <div class="social-links flex flex-column">
-                <a href="https://github.com/lucasaguiar" class="link black hover-blue dib mv2"
-                    target="_blank">GitHub</a>
-                <a href="https://linkedin.com/in/lucasaguiar" class="link black hover-blue dib mv2"
-                    target="_blank">LinkedIn</a>
+                {{ partial "github.html" . }}
+                {{ partial "linkedin.html" . }}
                 {{ partial "buy-me-coffee.html" . }}
 
             </div>
