@@ -1,46 +1,103 @@
 <style>
-    .profile-card {
-        transition: transform 0.3s ease;
+    /* TOC Styles */
+    .toc-card {
+        font-size: 0.9rem;
     }
 
-    .profile-card:hover {
-        transform: translateY(-5px);
+    .toc-card #TableOfContents ul {
+        list-style-type: none;
+        padding-left: 0;
+        margin-top: 0;
+    }
+
+    .toc-card #TableOfContents ul ul {
+        padding-left: 1rem;
+    }
+
+    .toc-card #TableOfContents a {
+        color: #357edd;
+        text-decoration: none;
+        transition: color 0.15s ease-in;
+        display: block;
+        padding: 0.25rem 0;
+    }
+
+    .toc-card #TableOfContents a:hover {
+        color: #00449e;
+    }
+
+    /* Profile Styles */
+    .circle-mask {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        overflow: hidden;
+        margin: 0 auto;
+    }
+
+    .circle-mask img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 
     .social-links a {
-        transition: all 0.3s ease;
-        padding: 0.5rem;
-        border-radius: 4px;
+        transition: color 0.15s ease-in;
+        padding: 0.5rem 0;
+        text-align: center;
     }
 
     .social-links a:hover {
-        background-color: #f0f4f8;
-        transform: translateX(3px);
+        color: #357edd !important;
     }
 
-    .toc-container {
-        max-height: 80vh;
-        overflow-y: auto;
+    /* Sticky positioning */
+    .sticky {
+        position: sticky;
+        top: 2rem;
     }
 
+    /* Content styles */
+    .nested-copy-line-height {
+        text-align: left;
+    }
+
+    .nested-copy-line-height h2 {
+        margin-top: 2rem;
+        padding-bottom: 0.5rem;
+        border-bottom: 1px solid #eee;
+    }
+
+    /* Responsive adjustments */
     @media screen and (max-width: 60em) {
+        .sticky {
+            position: relative;
+            top: 0;
+        }
 
-        .profile-card,
-        .toc-container {
-            position: static;
+        .circle-mask {
+            width: 150px;
+            height: 150px;
+        }
+
+        .toc-card {
             margin-bottom: 2rem;
         }
 
-        .flex {
-            flex-direction: column;
+        .profile-card {
+            margin-top: 2rem;
         }
 
-        .order-1,
-        .order-2,
+        .order-1 {
+            order: 1;
+        }
+
+        .order-2 {
+            order: 2;
+        }
+
         .order-3 {
-            order: 0;
-            width: 100%;
-            padding: 0;
+            order: 3;
         }
     }
 </style>

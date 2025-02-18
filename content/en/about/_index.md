@@ -1,8 +1,12 @@
 ---
 title: "About"
 url: "/about"
+type: "page"
 draft: false
+toc: true
+layout: "about"
 ---
+
 
 Hi, my name is Lucas Fernandes Aguiar, born in Brazil and I'm a chemist,
 specialized in intellectual property, currently working at Universidade

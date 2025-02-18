@@ -60,3 +60,8 @@ label = "LinkedIn"
 name = "threads"
 url = "https://www.threads.net/@lucas.chem"
 label = "Threads"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6

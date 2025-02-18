@@ -1,21 +1,26 @@
+{{ define "header" }}
+{{ partial "page-header.html" . }}
+{{ partial "about-styles.html" . }}
+{{ end }}
+
 {{ define "main" }}
 <article class="flex-l mw9 center ph3-l" style="position: relative; z-index: 2;">
-    <!-- TOC Section - Left Column -->
-    <aside class="w-20-l w-100 pr3-l order-1 toc-card">
-        <div class="bg-white pa3 br2 shadow-4 sticky top-2">
-            <h3 class="mt0 mb3">Contents</h3>
+    <!-- TOC Section -->
+    <aside class="w-20-l w-100 pr3-l order-1">
+        <div class="toc-card bg-white pa3 br2 shadow-4 sticky top-2">
+            <h3 class="f4 mt0 mb3">Contents</h3>
             {{ .TableOfContents }}
         </div>
     </aside>
 
-    <!-- Main Content - Center Column -->
-    <div class="w-55-l w-100 ph3-l order-2 nested-copy-line-height lh-copy">
-        <div class="mw7 center">
+    <!-- Main Content -->
+    <div class="w-55-l w-100 ph3-l order-2 nested-copy-line-height">
+        <div class="mw7">
             {{ .Content }}
         </div>
     </div>
 
-    <!-- Profile Section - Right Column -->
+    <!-- Profile Section -->
     <aside class="w-25-l w-100 pl3-l order-3">
         <div class="profile-card sticky top-2 bg-white pa3 br2 shadow-4">
             <div class="circle-mask mb3">
