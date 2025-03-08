@@ -1,6 +1,6 @@
 ---
 date: 2025-03-08T00:47:39-03:00
-draft: true
+draft: false
 title: Script for Updating Open WebUI in a Proxmox LXC
 description: 
 url: ""
