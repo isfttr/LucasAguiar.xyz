@@ -21,9 +21,9 @@ A really simple script for those that, for some odd reason, decided to run the O
 
 I really like the interface in Proxmox and i prefer it than dealing with Portainer for some services that are more accessed. This is the case for [Open WebUI](https://docs.openwebui.com/), which I use daily.
 
-The problem I faced was to understand how the service works under the hood. In Proxmox we can use the [Proxmox VE Community Scripts](https://community-scripts.github.io/ProxmoxVE/scripts?id=openwebui) which are really handy, but they don't have much documentation on how the scripts work. Because of this, the user has to go to the service documentation and learn how it works. In the case of Open WebUI, the documentation was directed at the use cases using Docker.
+The problem I faced was the update process of the service, which I knew little about. So I need to understand how the service works under the hood. In Proxmox we can use the [Proxmox VE Community Scripts](https://community-scripts.github.io/ProxmoxVE/scripts?id=openwebui) which are really handy, but they don't have much documentation on how the scripts work. Because of this, the user has to go to the service documentation and learn how it works. For Open WebUI, the documentation is directed to the installetions using Docker.
 
-So, I really had to start looking around for answers. First I really thought about migrating the LXC to a Docker container and use Watchtower to update the container regularly, but then I had the idea of going to the public repository and reading the script directly. First I read the wrong script with the same name and got really confused, then I found the correct spirit and it become clear what were the steps to update the container.
+At first, I really thought about migrating the LXC to a Docker container and use Watchtower to update the container regularly, but then I had the idea of going to the public repository and reading the script directly. First I read the wrong script with the same name and got really confused, then I found the correct spirit and it become clear what were the steps to update the container.
 
 To automate this process, I took a snippet of the installation script for the LXC and modified it so I could run the update from the Proxmox host.
 
