@@ -48,7 +48,9 @@
 <meta itemprop="description" content="Personal blog."><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Article"/>
 <meta name="twitter:description" content="Personal blog."/>
 
-	
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+<script type="text/javascript" src="/js/social-buttons.js"></script>
+<script type="text/javascript" src="/js/repo-version.js"></script>
   <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
@@ -166,6 +168,26 @@
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Blog</span>
     <h1 class="f3 near-black">
+      <a href="/posts/script-update-open_webui-lxc/" class="link black dim">
+        Script Update Open_webui Lxc
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      A really simple script for those that for some odd reason decided to run the Open WebUI server from inside a LXC.
+Introduction I really like the interface in Proxmox and i prefer it than dealing with Portainer for some services that are more accessed. This is the case for Open WebUI, which I use daily.
+The problem I faced was to understand how the service works under the hood. In Proxmox we can use the Proxmox VE Community Scripts which are really handy, but they don&rsquo;t have much documentation on how the scripts work.
+    </div>
+    <a href="/posts/script-update-open_webui-lxc/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="relative w-100  mb4 bg-white">
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Blog</span>
+    <h1 class="f3 near-black">
       <a href="/rpipy_v1_release/" class="link black dim">
         RPIpy v1 - Release
       </a>
@@ -241,11 +263,16 @@ Investing more in my formation in technology right now could come as odd for mos
 
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
+  <div class="flex justify-between items-center">
     <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/">
       &copy; Lucas Fernandes Aguiar 2023 - 2025. All rights reserved.
     </a>
-    <div>
+    <div class="flex items-center">
+      <span class="f6 dib white-70">
+    Version: <span id="repo-version">...</span>
+    <span class="f7 o-70"></span>
+</span>
+      <div class="ml3">
 <div class="ananke-socials">
   
     
@@ -287,6 +314,7 @@ Investing more in my formation in technology right now could come as odd for mos
   
 </div>
 </div>
+    </div>
   </div>
 </footer>
   </body>

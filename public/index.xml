@@ -6,8 +6,15 @@
     <description>Recent content in Lucas Fernandes Aguiar on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Feb 2025 11:00:59 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 00:47:39 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Script for Updating Open WebUI in a Proxmox LXC</title>
+      <link>http://localhost:1313/posts/script-update-open_webui-lxc/</link>
+      <pubDate>Sat, 08 Mar 2025 00:47:39 -0300</pubDate>
+      <guid>http://localhost:1313/posts/script-update-open_webui-lxc/</guid>
+      <description>A really simple script for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.&#xA;The problem I really like the interface in Proxmox and i prefer it than dealing with Portainer for some services that are more accessed. This is the case for Open WebUI, which I use daily.&#xA;The problem I faced was to understand how the service works under the hood.</description>
+    </item>
     <item>
       <title>Obsidian &#43; Copilot</title>
       <link>http://localhost:1313/posts/10_obsidian-copilot/</link>

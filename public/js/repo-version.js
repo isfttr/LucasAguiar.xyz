@@ -16,7 +16,7 @@
             }
 
             // Fetch new version from GitHub API
-            const response = await fetch('https://api.github.com/repos/isfttr/LucasAguiar.xyz/tags');
+            const response = await fetch('https://api.github.com/repos/lucasaguiar/LucasAguiar.xyz/tags');
             const tags = await response.json();
 
             if (tags && tags.length > 0) {
