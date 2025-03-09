@@ -11,5 +11,8 @@ Thumbs.db
 Blog.code-workspace
 workspace.json
 
+#node
+node_modules/*
+
 #Hugo
 .hugo_build.lock

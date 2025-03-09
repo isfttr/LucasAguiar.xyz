@@ -1,0 +1,38 @@
+{
+  "name": "lucasaguiar.xyz",
+  "version": "0.1.4",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isfttr/lucasaguiar.xyz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isfttr/lucasaguiar.xyz/issues"
+  },
+  "homepage": "https://github.com/isfttr/lucasaguiar.xyz#readme",
+  "dependencies": {
+    "@commitlint/cli": "^19.7.1",
+    "@commitlint/config-conventional": "^19.7.1",
+    "@release-it/conventional-changelog": "^10.0.0",
+    "lint": "^1.1.2",
+    "test": "^3.3.0"
+  },
+  "release-it": {
+    "$schema": "https://unpkg.com/release-it/schema/release-it.json",
+    "github": {
+      "release": true,
+      "tokenRef": "GITHUB_TOKEN"
+    }
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "release-it": "^18.1.2"
+  }
+}
