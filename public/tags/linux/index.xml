@@ -9,11 +9,11 @@
     <lastBuildDate>Sat, 08 Mar 2025 00:47:39 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Script Update Open_webui Lxc</title>
+      <title>Script for Updating Open WebUI in a Proxmox LXC</title>
       <link>http://localhost:1313/posts/script-update-open_webui-lxc/</link>
       <pubDate>Sat, 08 Mar 2025 00:47:39 -0300</pubDate>
       <guid>http://localhost:1313/posts/script-update-open_webui-lxc/</guid>
-      <description>A really simple script for those that for some odd reason decided to run the Open WebUI server from inside a LXC.&#xA;Introduction I really like the interface in Proxmox and i prefer it than dealing with Portainer for some services that are more accessed. This is the case for Open WebUI, which I use daily.&#xA;The problem I faced was to understand how the service works under the hood. In Proxmox we can use the Proxmox VE Community Scripts which are really handy, but they don&amp;rsquo;t have much documentation on how the scripts work.</description>
+      <description>A really simple script for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.&#xA;The problem I really like the interface in Proxmox and i prefer it than dealing with Portainer for some services that are more accessed. This is the case for Open WebUI, which I use daily.&#xA;The problem I faced was the update process of the service, which I knew little about.</description>
     </item>
     <item>
       <title>Using Oracle Cloud Free tier</title>

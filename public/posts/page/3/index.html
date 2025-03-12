@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Home</title>
+    <title>Blog | Home</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="Personal blog.">
     <meta name="generator" content="Hugo 0.124.1">
@@ -31,21 +31,21 @@
 
     
     
-      <link href="/tags/docker/index.xml" rel="alternate" type="application/rss+xml" title="Home" />
-      <link href="/tags/docker/index.xml" rel="feed" type="application/rss+xml" title="Home" />
+      <link href="/posts/index.xml" rel="alternate" type="application/rss+xml" title="Home" />
+      <link href="/posts/index.xml" rel="feed" type="application/rss+xml" title="Home" />
       
     
 
     
-      <link rel="canonical" href="http://localhost:1313/tags/docker/">
+      <link rel="canonical" href="http://localhost:1313/posts/">
     
 
-    <meta property="og:title" content="Docker" />
+    <meta property="og:title" content="Blog" />
 <meta property="og:description" content="Personal blog." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:1313/tags/docker/" />
-<meta itemprop="name" content="Docker">
-<meta itemprop="description" content="Personal blog."><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Docker"/>
+<meta property="og:url" content="http://localhost:1313/posts/" />
+<meta itemprop="name" content="Blog">
+<meta itemprop="description" content="Personal blog."><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Blog"/>
 <meta name="twitter:description" content="Personal blog."/>
 
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
@@ -145,7 +145,7 @@
 
       <div class="tc-l pv4 pv6-l ph3 ph4-ns">
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
-          Docker
+          Blog
         </h1>
         
       </div>
@@ -155,54 +155,52 @@
 
     <main class="pb7" role="main">
       
-  <article class="cf pa3 pa4-m pa4-l">
-    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links mid-gray">
-      <p></p>
-    </div>
-  </article>
-  <div class="mw8 center">
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"></section>
     <section class="flex-ns flex-wrap justify-around mt5">
       
-        <div class="relative w-100  mb4 bg-white">
+        <div class="relative w-100 w-30-l mb4 bg-white">
           <div class="relative w-100 mb4 bg-white nested-copy-line-height">
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Blog</span>
     <h1 class="f3 near-black">
-      <a href="/posts/script-update-open_webui-lxc/" class="link black dim">
-        Script for Updating Open WebUI in a Proxmox LXC
+      <a href="/posts/draft/obsidian-&#43;-copilot/" class="link black dim">
+        &#39;{{ replace .File.ContentBaseName `-` ` ` | title }}&#39;
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      A really simple script for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.
-The problem I really like the interface in Proxmox and i prefer it than dealing with Portainer for some services that are more accessed. This is the case for Open WebUI, which I use daily.
-The problem I faced was the update process of the service, which I knew little about.
+      I needed a easy and cheap way to integrate my vault with artificial intelligence. One of the ways would be to pay for subscriptions, which would be a high cost for me, since I am would not use the service that often. Another way would be to pay for a Cloud GPU service to run big queries, that would be unfeasible to run locally. Eventually I discovered OpenRouter, which seems to be the easiest to solution because I can access multiple models at a single place and also have a API that I can connect to other services.
     </div>
-    <a href="/posts/script-update-open_webui-lxc/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="relative w-100  mb4 bg-white">
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Blog</span>
-    <h1 class="f3 near-black">
-      <a href="/oracle_cloud_free_tier/" class="link black dim">
-        Using Oracle Cloud Free tier
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      The problem This week I have been searching for solutions to use domains with my applications running in containers in my MacBook Pro server. Yes, I have converted my MacBook Pro into a server, at least for now. The first solution was to use a Pi-Hole as a local DNS and it works fine, but the problem is that I have to specify ports to get into the applications and it gets annonying.
-    </div>
-    <a href="/oracle_cloud_free_tier/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+    <a href="/posts/draft/obsidian-&#43;-copilot/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
   </div>
 </div>
 
         </div>
       
     </section>
-  </div>
+    <ul class="pagination pagination-default">
+      <li class="page-item">
+        <a href="/posts/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/2/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/" aria-label="Page 1" class="page-link" role="button">1</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 3" class="page-link" role="button">3</a>
+      </li>
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="Next" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="Last" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul></article>
 
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">

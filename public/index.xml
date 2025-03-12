@@ -6,14 +6,21 @@
     <description>Recent content in Lucas Fernandes Aguiar on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Mar 2025 00:47:39 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 22:32:27 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to fix the Missing Custom Models bug</title>
+      <link>http://localhost:1313/posts/fix-custom-models-open-webui/</link>
+      <pubDate>Tue, 11 Mar 2025 22:32:27 -0300</pubDate>
+      <guid>http://localhost:1313/posts/fix-custom-models-open-webui/</guid>
+      <description>This is a quick fix to a problem I experienced with Open WebUI, which was that custom models were not showing in the models list. There was nothing in the documentation or in the issues pointing to a solution. I decided to open a new issue 4 days ago and today the user @dcolley gave the missing information and it worked.&#xA;For some reason, custom models are not working when you use Direct Connections.</description>
+    </item>
     <item>
       <title>Script for Updating Open WebUI in a Proxmox LXC</title>
       <link>http://localhost:1313/posts/script-update-open_webui-lxc/</link>
       <pubDate>Sat, 08 Mar 2025 00:47:39 -0300</pubDate>
       <guid>http://localhost:1313/posts/script-update-open_webui-lxc/</guid>
-      <description>A really simple script for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.&#xA;The problem I really like the interface in Proxmox and i prefer it than dealing with Portainer for some services that are more accessed. This is the case for Open WebUI, which I use daily.&#xA;The problem I faced was to understand how the service works under the hood.</description>
+      <description>A really simple script for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.&#xA;The problem I really like the interface in Proxmox and i prefer it than dealing with Portainer for some services that are more accessed. This is the case for Open WebUI, which I use daily.&#xA;The problem I faced was the update process of the service, which I knew little about.</description>
     </item>
     <item>
       <title>Obsidian &#43; Copilot</title>

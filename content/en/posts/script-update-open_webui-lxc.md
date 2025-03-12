@@ -13,6 +13,7 @@ tags:
   - LXC
   - script
   - Docker
+  - open-webui
 ---
 
 A really simple script for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.

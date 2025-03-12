@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/article/</loc>
-    <lastmod>2025-03-08T00:47:39-03:00</lastmod>
+    <lastmod>2025-03-11T22:32:27-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-08T00:47:39-03:00</lastmod>
+    <lastmod>2025-03-11T22:32:27-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-03-08T00:47:39-03:00</lastmod>
+    <lastmod>2025-03-11T22:32:27-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/fix/</loc>
+    <lastmod>2025-03-11T22:32:27-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/fix-custom-models-open-webui/</loc>
+    <lastmod>2025-03-11T22:32:27-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-11T22:32:27-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/open-webui/</loc>
+    <lastmod>2025-03-11T22:32:27-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-11T22:32:27-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -23,11 +48,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/linux/</loc>
-    <lastmod>2025-03-08T00:47:39-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-08T00:47:39-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -48,11 +68,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/script-update-open_webui-lxc/</loc>
-    <lastmod>2025-03-08T00:47:39-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-03-08T00:47:39-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

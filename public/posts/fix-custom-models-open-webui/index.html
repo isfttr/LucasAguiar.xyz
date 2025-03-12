@@ -4,11 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Script for Updating Open WebUI in a Proxmox LXC | Home</title>
+    <title>How to fix the Missing Custom Models bug | Home</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="A really simple script for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.
-The problem I really like the interface in Proxmox and i prefer it than dealing with Portainer for some services that are more accessed. This is the case for Open WebUI, which I use daily.
-The problem I faced was the update process of the service, which I knew little about.">
+    <meta name="description" content="This is a quick fix to a problem I experienced with Open WebUI, which was that custom models were not showing in the models list. There was nothing in the documentation or in the issues pointing to a solution. I decided to open a new issue 4 days ago and today the user @dcolley gave the missing information and it worked.
+For some reason, custom models are not working when you use Direct Connections.">
     <meta name="generator" content="Hugo 0.124.1">
     
     
@@ -34,27 +33,24 @@ The problem I faced was the update process of the service, which I knew little a
     
 
     
-      <link rel="canonical" href="http://localhost:1313/posts/script-update-open_webui-lxc/">
+      <link rel="canonical" href="http://localhost:1313/posts/fix-custom-models-open-webui/">
     
 
-    <meta property="og:title" content="Script for Updating Open WebUI in a Proxmox LXC" />
-<meta property="og:description" content="A really simple script for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.
-The problem I really like the interface in Proxmox and i prefer it than dealing with Portainer for some services that are more accessed. This is the case for Open WebUI, which I use daily.
-The problem I faced was the update process of the service, which I knew little about." />
+    <meta property="og:title" content="How to fix the Missing Custom Models bug" />
+<meta property="og:description" content="This is a quick fix to a problem I experienced with Open WebUI, which was that custom models were not showing in the models list. There was nothing in the documentation or in the issues pointing to a solution. I decided to open a new issue 4 days ago and today the user @dcolley gave the missing information and it worked.
+For some reason, custom models are not working when you use Direct Connections." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/posts/script-update-open_webui-lxc/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2025-03-08T00:47:39-03:00" />
-<meta property="article:modified_time" content="2025-03-08T00:47:39-03:00" />
-<meta itemprop="name" content="Script for Updating Open WebUI in a Proxmox LXC">
-<meta itemprop="description" content="A really simple script for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.
-The problem I really like the interface in Proxmox and i prefer it than dealing with Portainer for some services that are more accessed. This is the case for Open WebUI, which I use daily.
-The problem I faced was the update process of the service, which I knew little about."><meta itemprop="datePublished" content="2025-03-08T00:47:39-03:00" />
-<meta itemprop="dateModified" content="2025-03-08T00:47:39-03:00" />
-<meta itemprop="wordCount" content="531">
-<meta itemprop="keywords" content="Linux,Proxmox,LXC,script,Docker,open-webui," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Script for Updating Open WebUI in a Proxmox LXC"/>
-<meta name="twitter:description" content="A really simple script for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.
-The problem I really like the interface in Proxmox and i prefer it than dealing with Portainer for some services that are more accessed. This is the case for Open WebUI, which I use daily.
-The problem I faced was the update process of the service, which I knew little about."/>
+<meta property="og:url" content="http://localhost:1313/posts/fix-custom-models-open-webui/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2025-03-11T22:32:27-03:00" />
+<meta property="article:modified_time" content="2025-03-11T22:32:27-03:00" />
+<meta itemprop="name" content="How to fix the Missing Custom Models bug">
+<meta itemprop="description" content="This is a quick fix to a problem I experienced with Open WebUI, which was that custom models were not showing in the models list. There was nothing in the documentation or in the issues pointing to a solution. I decided to open a new issue 4 days ago and today the user @dcolley gave the missing information and it worked.
+For some reason, custom models are not working when you use Direct Connections."><meta itemprop="datePublished" content="2025-03-11T22:32:27-03:00" />
+<meta itemprop="dateModified" content="2025-03-11T22:32:27-03:00" />
+<meta itemprop="wordCount" content="178">
+<meta itemprop="keywords" content="open-webui,fix," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="How to fix the Missing Custom Models bug"/>
+<meta name="twitter:description" content="This is a quick fix to a problem I experienced with Open WebUI, which was that custom models were not showing in the models list. There was nothing in the documentation or in the issues pointing to a solution. I decided to open a new issue 4 days ago and today the user @dcolley gave the missing information and it worked.
+For some reason, custom models are not working when you use Direct Connections."/>
 
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 <script type="text/javascript" src="/js/social-buttons.js"></script>
@@ -177,7 +173,7 @@ The problem I faced was the update process of the service, which I knew little a
   <div id="sharing" class="mt3 ananke-socials">
     
       
-      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/posts/script-update-open_webui-lxc/&amp;title=Script%20for%20Updating%20Open%20WebUI%20in%20a%20Proxmox%20LXC" class="ananke-social-link linkedin no-underline" aria-label="share on LinkedIn">
+      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/posts/fix-custom-models-open-webui/&amp;title=How%20to%20fix%20the%20Missing%20Custom%20Models%20bug" class="ananke-social-link linkedin no-underline" aria-label="share on LinkedIn">
         
         <span class="icon"> <svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
@@ -189,7 +185,7 @@ The problem I faced was the update process of the service, which I knew little a
   </div>
 
 
-    <h1 class="f1 athelas mt3 mb1">Script for Updating Open WebUI in a Proxmox LXC</h1>
+    <h1 class="f1 athelas mt3 mb1">How to fix the Missing Custom Models bug</h1>
     
     <p class="tracked">
        <strong>Lucas Fernandes Aguiar</strong>
@@ -197,73 +193,20 @@ The problem I faced was the update process of the service, which I knew little a
     
     
     
-    <time class="f6 mv4 dib tracked" datetime="2025-03-08T00:47:39-03:00" >March 8, 2025</time>
+    <time class="f6 mv4 dib tracked" datetime="2025-03-11T22:32:27-03:00" >March 11, 2025</time>
     
 
     
     
   </header>
-  <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>A really simple script for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.</p>
-<h2 id="the-problem">The problem</h2>
-<p>I really like the interface in Proxmox and i prefer it than dealing with Portainer for some services that are more accessed. This is the case for <a href="https://docs.openwebui.com/">Open WebUI</a>, which I use daily.</p>
-<p>The problem I faced was the update process of the service, which I knew little about. So I need to understand how the service works under the hood. In Proxmox we can use the <a href="https://community-scripts.github.io/ProxmoxVE/scripts?id=openwebui">Proxmox VE Community Scripts</a> which are really handy, but they don&rsquo;t have much documentation on how the scripts work. Because of this, the user has to go to the service documentation and learn how it works. For Open WebUI, the documentation is directed to the installetions using Docker.</p>
-<p>At first, I really thought about migrating the LXC to a Docker container and use Watchtower to update the container regularly, but then I had the idea of going to the public repository and reading the script directly. First I read the wrong script with the same name and got really confused, then I found the correct spirit and it become clear what were the steps to update the container.</p>
-<p>To automate this process, I took a snippet of the installation script for the LXC and modified it so I could run the update from the Proxmox host.</p>
-<h2 id="the-update-script">The update script</h2>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">#!/usr/bin/env bash</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Script to update Open WebUI in a Proxmox LXC container</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Check if the container ID is provided</span>
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> -z <span style="color:#e6db74">&#34;</span>$1<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
-</span></span><span style="display:flex;"><span>  echo <span style="color:#e6db74">&#34;Usage: </span>$0<span style="color:#e6db74"> &lt;CTID&gt;&#34;</span>
-</span></span><span style="display:flex;"><span>  echo <span style="color:#e6db74">&#34;Please provide the container ID (CTID) as an argument.&#34;</span>
-</span></span><span style="display:flex;"><span>  exit <span style="color:#ae81ff">1</span>
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>CTID<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span>$1<span style="color:#e6db74">&#34;</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Function to update Open WebUI</span>
-</span></span><span style="display:flex;"><span>update_openwebui<span style="color:#f92672">()</span> <span style="color:#f92672">{</span>
-</span></span><span style="display:flex;"><span>  echo <span style="color:#e6db74">&#34;Updating Open WebUI in container </span>$CTID<span style="color:#e6db74">...&#34;</span>
-</span></span><span style="display:flex;"><span>  pct exec <span style="color:#e6db74">&#34;</span>$CTID<span style="color:#e6db74">&#34;</span> -- bash <span style="color:#e6db74">&lt;&lt;EOF
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  if [[ ! -d /opt/open-webui ]]; then
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    echo &#34;Error: Open WebUI is not installed in this container.&#34;
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    exit 1
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  fi
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  echo &#34;Pulling latest code...&#34;
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  cd /opt/open-webui
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  git pull --no-rebase || { echo &#34;Error: Failed to pull latest code.&#34;; exit 1; }
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  echo &#34;Updating Node.js dependencies...&#34;
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  npm install || { echo &#34;Error: Failed to install Node.js dependencies.&#34;; exit 1; }
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  export NODE_OPTIONS=&#34;--max-old-space-size=3584&#34;
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  echo &#34;Building the application...&#34;
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  npm run build || { echo &#34;Error: Failed to build the application.&#34;; exit 1; }
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  echo &#34;Updating Python dependencies...&#34;
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  cd ./backend
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  pip install -r requirements.txt -U || { echo &#34;Error: Failed to install Python dependencies.&#34;; exit 1; }
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  echo &#34;Restarting the Open WebUI service...&#34;
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  systemctl restart open-webui.service || { echo &#34;Error: Failed to restart the service.&#34;; exit 1; }
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  echo &#34;Open WebUI updated successfully!&#34;
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">EOF</span>
-</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Run the update function</span>
-</span></span><span style="display:flex;"><span>update_openwebui
-</span></span></code></pre></div><p>To run the script:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># Make it executable</span>
-</span></span><span style="display:flex;"><span>chmod +x update-openwebui.sh
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Run the script with the container ID as an argument</span>
-</span></span><span style="display:flex;"><span>./update-openwebui.sh &lt;CTID&gt;
-</span></span></code></pre></div><p>You can also create a cronjob to run the container with the following command:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>crontab -e
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Create a cronjob to run every day at 3 in the morning</span>
-</span></span><span style="display:flex;"><span><span style="color:#ae81ff">0</span> <span style="color:#ae81ff">3</span> * * * /path/to/your/update-openwebui.sh &lt;CTID&gt;
-</span></span></code></pre></div><h2 id="conclusion">Conclusion</h2>
+  <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>This is a quick fix to a problem I experienced with Open WebUI, which was that custom models were not showing in the models list. There was nothing in the documentation or in the issues pointing to a solution. I decided to open a new issue 4 days ago and today the user <a href="https://github.com/open-webui/open-webui/discussions/11404">@dcolley</a> gave the missing information and it worked.</p>
+<p>For some reason, custom models are not working when you use Direct Connections. In my case, I use OpenRouter to use LLMs, so I thought the way to setup the API was from the Direct Connections menu. It turns out that you can setup the OpenRouter API from the Connections page, specifically in the OpenAI API section. And this is the solution, <strong>replicate your configuration for the API inside the OpenAI section</strong>.</p>
+<h2 id="the-solution">The solution</h2>
+<p><img alt="OpenAI API configuration in Open WebUI" src="https://lucasaguiarxyzstorage.blob.core.windows.net/images/connections-page.png"></p>
+<p>Custom models are now working as expected.</p>
+<p><img alt="Custom models page in Open WebUI" src="https://lucasaguiarxyzstorage.blob.core.windows.net/images/custom-models-page.png"></p>
+<p>And the model list should show your custom models.</p>
+<p><img alt="Models list in Open WebUI" src="https://lucasaguiarxyzstorage.blob.core.windows.net/images/model-list.png"></p>
 <hr>
 <p>You can reach out to contact me about this and other topics at my email <strong><a href="mailto:lucas.fernandes.df@gmail.com">lucas.fernandes.df@gmail.com</a></strong> or by filling the form below.</p>
 
@@ -322,27 +265,11 @@ The problem I faced was the update process of the service, which I knew little a
 </div><ul class="pa0">
   
    <li class="list di">
-     <a href="/tags/linux/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Linux</a>
-   </li>
-  
-   <li class="list di">
-     <a href="/tags/proxmox/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Proxmox</a>
-   </li>
-  
-   <li class="list di">
-     <a href="/tags/lxc/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">LXC</a>
-   </li>
-  
-   <li class="list di">
-     <a href="/tags/script/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Script</a>
-   </li>
-  
-   <li class="list di">
-     <a href="/tags/docker/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Docker</a>
-   </li>
-  
-   <li class="list di">
      <a href="/tags/open-webui/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Open-Webui</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/fix/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Fix</a>
    </li>
   
 </ul>
@@ -369,6 +296,17 @@ The problem I faced was the update process of the service, which I knew little a
 
 
 
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3"></p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/posts/script-update-open_webui-lxc/">Script for Updating Open WebUI in a Proxmox LXC</a>
+        </li>
+	    
+    </ul>
+</div>
 
 </aside>
 
