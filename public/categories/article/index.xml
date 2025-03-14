@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 11 Mar 2025 22:32:27 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/article/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fix Custom Models Open Webui</title>
+      <title>How to fix the Missing Custom Models bug</title>
       <link>http://localhost:1313/posts/fix-custom-models-open-webui/</link>
       <pubDate>Tue, 11 Mar 2025 22:32:27 -0300</pubDate>
       <guid>http://localhost:1313/posts/fix-custom-models-open-webui/</guid>
-      <description>This is a quick fix to a problem I experienced with Open WebUI, which was that custom models were not showing in the models list. There was nothing in the documentation or in the issues pointing to a solution. I decided to open a new issue 4 days ago and today a user gave the missing information and it worked.&#xA;For some reason, custom models are not working when you use Direct Connections.</description>
+      <description>This is a quick fix to a problem I experienced with Open WebUI, which was that custom models were not showing in the models list. There was nothing in the documentation or in the issues pointing to a solution. I decided to open a new issue 4 days ago and today the user @dcolley gave the missing information and it worked.&#xA;For some reason, custom models are not working when you use Direct Connections.</description>
     </item>
     <item>
       <title>Script for Updating Open WebUI in a Proxmox LXC</title>

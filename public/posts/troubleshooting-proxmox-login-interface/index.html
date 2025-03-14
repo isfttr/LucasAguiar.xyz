@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>&#39;{{ replace .File.ContentBaseName `-` ` ` | title }}&#39; | Home</title>
+    <title>How to Fix Proxmox Web Interface Login Issues - Complete Guide | Home</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="I needed a easy and cheap way to integrate my vault with artificial intelligence. One of the ways would be to pay for subscriptions, which would be a high cost for me, since I am would not use the service that often. Another way would be to pay for a Cloud GPU service to run big queries, that would be unfeasible to run locally. Eventually I discovered OpenRouter, which seems to be the easiest to solution because I can access multiple models at a single place and also have a API that I can connect to other services.">
+    <meta name="description" content="This article details a troubleshooting process for a Proxmox cluster authentication failure that prevented users from logging into the web interface. The root cause was identified as a missing /etc/pve/access.cfg file, crucial for user authentication, likely due to corosync communication issues. The problem was resolved by restarting the pve-cluster service, forcing quorum, manually creating a minimal access.cfg file, and restarting the pveproxy service. Preventative measures include regular cluster health checks, automated configuration file backups, ensuring proper shutdown procedures, maintaining network stability, monitoring storage health, applying Proxmox updates, and careful permissions management.">
     <meta name="generator" content="Hugo 0.124.1">
     
     
@@ -32,21 +32,21 @@
     
 
     
-      <link rel="canonical" href="http://localhost:1313/posts/draft/obsidian-&#43;-copilot/">
+      <link rel="canonical" href="http://localhost:1313/posts/troubleshooting-proxmox-login-interface/">
     
 
-    <meta property="og:title" content="&#39;{{ replace .File.ContentBaseName `-` ` ` | title }}&#39;" />
-<meta property="og:description" content="I needed a easy and cheap way to integrate my vault with artificial intelligence. One of the ways would be to pay for subscriptions, which would be a high cost for me, since I am would not use the service that often. Another way would be to pay for a Cloud GPU service to run big queries, that would be unfeasible to run locally. Eventually I discovered OpenRouter, which seems to be the easiest to solution because I can access multiple models at a single place and also have a API that I can connect to other services." />
+    <meta property="og:title" content="How to Fix Proxmox Web Interface Login Issues - Complete Guide" />
+<meta property="og:description" content="This article details a troubleshooting process for a Proxmox cluster authentication failure that prevented users from logging into the web interface. The root cause was identified as a missing /etc/pve/access.cfg file, crucial for user authentication, likely due to corosync communication issues. The problem was resolved by restarting the pve-cluster service, forcing quorum, manually creating a minimal access.cfg file, and restarting the pveproxy service. Preventative measures include regular cluster health checks, automated configuration file backups, ensuring proper shutdown procedures, maintaining network stability, monitoring storage health, applying Proxmox updates, and careful permissions management." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/posts/draft/obsidian-&#43;-copilot/" /><meta property="article:section" content="posts" />
-
-
-<meta itemprop="name" content="&#39;{{ replace .File.ContentBaseName `-` ` ` | title }}&#39;">
-<meta itemprop="description" content="I needed a easy and cheap way to integrate my vault with artificial intelligence. One of the ways would be to pay for subscriptions, which would be a high cost for me, since I am would not use the service that often. Another way would be to pay for a Cloud GPU service to run big queries, that would be unfeasible to run locally. Eventually I discovered OpenRouter, which seems to be the easiest to solution because I can access multiple models at a single place and also have a API that I can connect to other services.">
-
-<meta itemprop="wordCount" content="570">
-<meta itemprop="keywords" content="linux,macos,technology,personal," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="&#39;{{ replace .File.ContentBaseName `-` ` ` | title }}&#39;"/>
-<meta name="twitter:description" content="I needed a easy and cheap way to integrate my vault with artificial intelligence. One of the ways would be to pay for subscriptions, which would be a high cost for me, since I am would not use the service that often. Another way would be to pay for a Cloud GPU service to run big queries, that would be unfeasible to run locally. Eventually I discovered OpenRouter, which seems to be the easiest to solution because I can access multiple models at a single place and also have a API that I can connect to other services."/>
+<meta property="og:url" content="http://localhost:1313/posts/troubleshooting-proxmox-login-interface/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2025-03-13T23:29:45-03:00" />
+<meta property="article:modified_time" content="2025-03-13T23:29:45-03:00" />
+<meta itemprop="name" content="How to Fix Proxmox Web Interface Login Issues - Complete Guide">
+<meta itemprop="description" content="This article details a troubleshooting process for a Proxmox cluster authentication failure that prevented users from logging into the web interface. The root cause was identified as a missing /etc/pve/access.cfg file, crucial for user authentication, likely due to corosync communication issues. The problem was resolved by restarting the pve-cluster service, forcing quorum, manually creating a minimal access.cfg file, and restarting the pveproxy service. Preventative measures include regular cluster health checks, automated configuration file backups, ensuring proper shutdown procedures, maintaining network stability, monitoring storage health, applying Proxmox updates, and careful permissions management."><meta itemprop="datePublished" content="2025-03-13T23:29:45-03:00" />
+<meta itemprop="dateModified" content="2025-03-13T23:29:45-03:00" />
+<meta itemprop="wordCount" content="895">
+<meta itemprop="keywords" content="linux,proxmox,troubleshooting,tutorial," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="How to Fix Proxmox Web Interface Login Issues - Complete Guide"/>
+<meta name="twitter:description" content="This article details a troubleshooting process for a Proxmox cluster authentication failure that prevented users from logging into the web interface. The root cause was identified as a missing /etc/pve/access.cfg file, crucial for user authentication, likely due to corosync communication issues. The problem was resolved by restarting the pve-cluster service, forcing quorum, manually creating a minimal access.cfg file, and restarting the pveproxy service. Preventative measures include regular cluster health checks, automated configuration file backups, ensuring proper shutdown procedures, maintaining network stability, monitoring storage health, applying Proxmox updates, and careful permissions management."/>
 
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 <script type="text/javascript" src="/js/social-buttons.js"></script>
@@ -169,7 +169,7 @@
   <div id="sharing" class="mt3 ananke-socials">
     
       
-      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/posts/draft/obsidian-&#43;-copilot/&amp;title=%27%7b%7b%20replace%20.File.ContentBaseName%20%60-%60%20%60%20%60%20%7c%20title%20%7d%7d%27" class="ananke-social-link linkedin no-underline" aria-label="share on LinkedIn">
+      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/posts/troubleshooting-proxmox-login-interface/&amp;title=How%20to%20Fix%20Proxmox%20Web%20Interface%20Login%20Issues%20-%20Complete%20Guide" class="ananke-social-link linkedin no-underline" aria-label="share on LinkedIn">
         
         <span class="icon"> <svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
@@ -181,7 +181,7 @@
   </div>
 
 
-    <h1 class="f1 athelas mt3 mb1">&#39;{{ replace .File.ContentBaseName `-` ` ` | title }}&#39;</h1>
+    <h1 class="f1 athelas mt3 mb1">How to Fix Proxmox Web Interface Login Issues - Complete Guide</h1>
     
     <p class="tracked">
        <strong>Lucas Fernandes Aguiar</strong>
@@ -189,53 +189,203 @@
     
     
     
+    <time class="f6 mv4 dib tracked" datetime="2025-03-13T23:29:45-03:00" >March 13, 2025</time>
+    
 
     
     
   </header>
-  <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>I needed a easy and cheap way to integrate my vault with artificial intelligence. One of the ways would be to pay for subscriptions, which would be a high cost for me, since I am would not use the service that often. Another way would be to pay for a Cloud GPU service to run big queries, that would be unfeasible to run locally. Eventually I discovered OpenRouter, which seems to be the easiest to solution because I can access multiple models at a single place and also have a API that I can connect to other services.</p>
-<p>This solution aims at creating a kind of NotebookLM for my notes inside my Obsidian Vault. The first plugin that caught my attention was Obsidian Copilot, which had a subscription service, but also gave the option to use third-party APIs. The second plugin is called Smart Connections, which is similar. Both can be used at the same time.</p>
-<p>All the[[#Links]] for the references are at the end.</p>
-<h1 id="setup">Setup</h1>
-<p>This is a simple step by step setup using Obsidian, Copilot plugin, OpenRouter, and Ollama.</p>
-<p>First, create an account on OpenRouter and add some credit to the account. In my case I added 10 dollars, but I think you could add less. After this, go to your photo (top right corner) and click Keys. Create a new key, this key will be used to access the API from the plugins inside Obsidian.</p>
-<p>In Obsidian, first add Copilot. Access the settings for the Copilot plugin and click on &ldquo;Set Key&rdquo;. A pop-up like the one below will appear.</p>
-<p>![[Pasted image 20250204211022.png]]
-Paste the API key that you just copied and click &ldquo;Verify&rdquo;. Once verified, go to the Model tab. There, you can add the models that are available in OpenRouter.
-![[Pasted image 20250204211334.png]]
-Before adding a model, first check inside OpenRouter the models that are available.
-![[Pasted image 20250204211446.png]]</p>
-<p>Once the models are added, you can set what the default chat model will be in the Basic tab.
-![[Pasted image 20250204211555.png]]</p>
-<h2 id="creating-a-model-for-your-vault">Creating a model for your vault</h2>
-<p>This can be done using Ollama and the <code>nomic-embbed-text</code> model (embedding model). For this, you have to have Ollama locally installed and the embedding model downloaded.</p>
-<pre tabindex="0"><code>ollama serve
-ollama pull nomic-embed-text
-</code></pre><p>With Ollama running in the background, go to your vault and use the command to index the vault.
-![[Pasted image 20250204211956.png]]</p>
-<p>Now you are set.</p>
-<h2 id="costs">Costs</h2>
-<p>I have been using this setup for a week. Since then I didn&rsquo;t have much use for it, like I already expected, and below are the costs for using the models.  As you can see is cheap to run queries every now and then.</p>
-<p>This a screenshot from a note inside my vault. On the right pane you have related notes by similarity.</p>
-<p>![[Pasted image 20250204213406.png]]
-When you scroll down, you can see suggested prompts.</p>
-<p>![[Pasted image 20250204213447.png]]</p>
-<p>Here lies the difference between Copilot and Smart Connections. Smart connections is able to search on the entire vault, not just the selected note.</p>
-<p>![[Pasted image 20250204213748.png]]</p>
-<p>With Smart Connections you&rsquo;ll similar easy of use as seen on Copilot.</p>
-<h1 id="conclusion">Conclusion</h1>
-<p>Overall I think this is a pretty nice setup. It is easy to troubleshoot if necessary and is affordable.</p>
-<h2 id="links">Links</h2>
+  <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>This article details a troubleshooting process for a Proxmox cluster authentication failure that prevented users from logging into the web interface. The root cause was identified as a missing <code>/etc/pve/access.cfg</code> file, crucial for user authentication, likely due to <code>corosync</code> communication issues. The problem was resolved by restarting the <code>pve-cluster</code> service, forcing quorum, manually creating a minimal <code>access.cfg</code> file, and restarting the <code>pveproxy</code> service. Preventative measures include regular cluster health checks, automated configuration file backups, ensuring proper shutdown procedures, maintaining network stability, monitoring storage health, applying Proxmox updates, and careful permissions management.</p>
+<h2 id="initial-investigation">Initial Investigation</h2>
+<ol>
+<li><strong>Service Status:</strong> Checked the status of <code>pve-cluster</code> and <code>pveproxy</code> services, which were running.</li>
+<li><strong>Logs:</strong> Examined logs for errors related to RRD database updates.</li>
+<li><strong>Authentication Configuration:</strong> Verified <code>/etc/pve/user.cfg</code>.</li>
+<li><strong>Missing Configuration File:</strong> Discovered that <code>/etc/pve/access.cfg</code> was missing.</li>
+<li><strong>Firewall Interference:</strong> Suspected Tailscale firewall rules might be interfering. Attempted to adjust iptables.</li>
+</ol>
+<p>Here are the commands used during the investigation:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># 1. Check service status</span>
+</span></span><span style="display:flex;"><span>systemctl status pve-cluster
+</span></span><span style="display:flex;"><span>systemctl status pveproxy
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># 2. Check logs for errors</span>
+</span></span><span style="display:flex;"><span>journalctl -u pveproxy -n <span style="color:#ae81ff">100</span>
+</span></span><span style="display:flex;"><span>journalctl -u pve-cluster -n <span style="color:#ae81ff">100</span>
+</span></span><span style="display:flex;"><span>tail -n <span style="color:#ae81ff">100</span> /var/log/pveproxy/access.log
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># 3. Verify authentication configuration</span>
+</span></span><span style="display:flex;"><span>cat /etc/pve/user.cfg
+</span></span><span style="display:flex;"><span>ls -la /etc/pve/user.cfg
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># 4. Check for missing access.cfg</span>
+</span></span><span style="display:flex;"><span>ls -la /etc/pve/access.cfg
+</span></span><span style="display:flex;"><span>file /etc/pve/access.cfg
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># 5. Check firewall rules and Tailscale status</span>
+</span></span><span style="display:flex;"><span>iptables -L -n -v
+</span></span><span style="display:flex;"><span>tailscale status
+</span></span><span style="display:flex;"><span>systemctl status tailscaled
+</span></span></code></pre></div><h2 id="root-cause-analysis">Root Cause Analysis</h2>
+<p>The primary cause of the login issue was the absence of the <code>/etc/pve/access.cfg</code> file. This file is crucial for user authentication in Proxmox. Its absence indicated a potential problem with the Proxmox cluster configuration, possibly related to the <code>corosync</code> service.</p>
+<p>Further investigation revealed issues with <code>corosync</code> connectivity and permissions related to <code>pve-ha-lrm</code>. Although <code>corosync</code> was running, errors indicated communication problems within the cluster. The <code>/etc/pve/access.cfg</code> file wasn&rsquo;t being automatically generated or populated, leading to authentication failures.</p>
+<p>The filesystem check on <code>/etc/pve</code> showed it was a FUSE filesystem, making underlying storage issues less likely, focusing the investigation on the cluster configuration itself.</p>
+<h2 id="solution">Solution</h2>
+<p>The following steps were taken to resolve the issue:</p>
+<ol>
+<li><strong>Restarted <code>pve-cluster</code> service:</strong> Stopped and started the <code>pve-cluster</code> service to attempt to re-establish cluster connectivity.</li>
+<li><strong>Forced Quorum:</strong> This step potentially helped to re-establish cluster leadership.</li>
+<li><strong>Created <code>access.cfg</code> file:</strong> Manually created the <code>/etc/pve/access.cfg</code> file with minimal content.</li>
+<li><strong>Restarted <code>pveproxy</code> service:</strong> Restarted the <code>pveproxy</code> service to force it to recognize the newly created <code>access.cfg</code> file.</li>
+</ol>
+<p>Here are the commands used to implement the solution:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># 1. Restart pve-cluster service</span>
+</span></span><span style="display:flex;"><span>systemctl stop pve-cluster
+</span></span><span style="display:flex;"><span>systemctl start pve-cluster
+</span></span><span style="display:flex;"><span>systemctl status pve-cluster
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># 2. Force quorum in a single-node setup</span>
+</span></span><span style="display:flex;"><span>pvecm expected <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># 3. Create minimal access.cfg file</span>
+</span></span><span style="display:flex;"><span>cat &gt; /etc/pve/access.cfg <span style="color:#e6db74">&lt;&lt; &#39;EOF&#39;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">acl:1
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">path /
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">role Administrator
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">user root@pam
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">EOF</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>chmod <span style="color:#ae81ff">0640</span> /etc/pve/access.cfg
+</span></span><span style="display:flex;"><span>chown root:www-data /etc/pve/access.cfg
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># 4. Restart pveproxy service</span>
+</span></span><span style="display:flex;"><span>systemctl restart pveproxy
+</span></span><span style="display:flex;"><span>systemctl status pveproxy
+</span></span></code></pre></div><p>After these steps, users were able to log in to the Proxmox web interface successfully.</p>
+<h2 id="additional-notes">Additional Notes</h2>
 <ul>
-<li><a href="https://obsidian.md/">Obsidian - Sharpen your thinking</a></li>
-<li><a href="https://github.com/logancyang/obsidian-copilot">GitHub - logancyang/obsidian-copilot: THE Copilot in Obsidian</a></li>
-<li><a href="https://smartconnections.app/">Smart Connections</a></li>
-<li><a href="https://openrouter.ai/">OpenRouter</a></li>
-<li><a href="https://ollama.com/">Ollama</a></li>
-<li><a href="https://ollama.com/library/nomic-embed-text">nomic-embed-text</a></li>
-<li></li>
+<li>If the login still fails after these steps, further investigation into user permissions and the contents of <code>access.cfg</code> may be required. The <code>pveum</code> command-line tools can be used to manage users and permissions.</li>
 </ul>
-<p>You can reach out to contact me about this or other topics at my email <a href="mailto:lucas.fernandes.df@gmail.com">lucas.fernandes.df@gmail.com</a>.</p>
+<h2 id="prevention-measures">Prevention measures</h2>
+<p>Preventing the &ldquo;Proxmox Authentication Failure due to Missing Cluster Configuration File&rdquo; error involves ensuring the stability and proper functioning of the Proxmox cluster and its configuration files. Here are several strategies:</p>
+<ol>
+<li><strong>Regular Cluster Health Checks:</strong></li>
+</ol>
+<ul>
+<li>
+<p>Implement automated monitoring of the Proxmox cluster&rsquo;s health. This should include checks for:</p>
+</li>
+<li>
+<p>Corosync quorum status: Ensure the cluster maintains a quorum to prevent configuration inconsistencies.</p>
+</li>
+<li>
+<p>Service status: Monitor the status of critical services like <code>pve-cluster</code>, <code>pveproxy</code>, <code>corosync</code>, <code>pve-ha-lrm</code>, and <code>pve-ha-crm</code>.</p>
+</li>
+<li>
+<p>Log analysis: Regularly scan logs for errors or warnings related to cluster communication, authentication, and storage.</p>
+</li>
+</ul>
+<ol start="2">
+<li><strong>Configuration File Backups:</strong></li>
+</ol>
+<ul>
+<li>Automate regular backups of the <code>/etc/pve</code> directory. This allows for quick restoration of configuration files in case of accidental deletion or corruption.</li>
+</ul>
+<ol start="3">
+<li><strong>Proper Shutdown Procedures:</strong></li>
+</ol>
+<ul>
+<li>Ensure that all Proxmox nodes are shut down gracefully. Avoid abrupt shutdowns or power outages, as these can lead to data corruption or configuration inconsistencies.</li>
+</ul>
+<ol start="4">
+<li><strong>Network Stability:</strong></li>
+</ol>
+<ul>
+<li>Maintain a stable and reliable network connection between the Proxmox nodes. Network disruptions can lead to cluster instability and configuration issues.</li>
+</ul>
+<ol start="5">
+<li><strong>Storage Health Monitoring:</strong></li>
+</ol>
+<ul>
+<li>Monitor the health of the underlying storage used by the Proxmox cluster. Storage failures can lead to data loss and configuration corruption.</li>
+</ul>
+<ol start="6">
+<li><strong>Proxmox Updates and Patches:</strong></li>
+</ol>
+<ul>
+<li>Keep the Proxmox installation up to date with the latest updates and security patches. These updates often include bug fixes and improvements that can enhance cluster stability.</li>
+</ul>
+<ol start="7">
+<li><strong>Permissions Management:</strong></li>
+</ol>
+<ul>
+<li>Review and manage file permissions within the <code>/etc/pve</code> directory. Ensure that the correct users and groups have the necessary permissions to access and modify configuration files.</li>
+<li>Avoid making manual changes to files in <code>/etc/pve</code> unless absolutely necessary, and always back up the original file before making any changes.</li>
+</ul>
+<ol start="8">
+<li><strong>Cluster Awareness during Maintenance:</strong></li>
+</ol>
+<ul>
+<li>When performing maintenance on any node in the cluster, ensure that the other nodes are aware of the maintenance and can maintain quorum. Consider using Proxmox&rsquo;s built-in maintenance mode.</li>
+</ul>
+<ol start="9">
+<li><strong>Implement redundancy</strong></li>
+</ol>
+<ul>
+<li>Consider having multiple nodes. If <code>/etc/pve/access.cfg</code> is missing on one node, it can be copied over from another.</li>
+</ul>
+<p>By implementing these preventative measures, you can significantly reduce the risk of encountering the &ldquo;Proxmox Authentication Failure due to Missing Cluster Configuration File&rdquo; error and ensure the stability and reliability of your Proxmox cluster.</p>
+<hr>
+<p>You can reach out to contact me about this and other topics at my email <strong><a href="mailto:lucas.fernandes.df@gmail.com">lucas.fernandes.df@gmail.com</a></strong> or by filling the form below.</p>
+
+
+
+<form action="https://formspree.io/f/xgeglgop" method="POST">
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea rows="10" cols="50" name="message"></textarea>
+  </label>
+  
+  <button type="submit">Send</button>
+</form>
+
+<style>
+   
+  form {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    grid-gap: 1rem;
+    text-align: left;
+    padding: 2rem 0;
+    margin: 0;
+  }
+
+  form label {
+    display: contents;
+  }
+
+  form input[type="email"],
+  form textarea,
+  form button {
+    font-family: inherit;
+    font-size: inherit;
+    border: 1px solid currentColor;
+    background: none;
+    padding: 0.4rem 0.5rem;
+  }
+
+  form textarea {
+    resize: vertical;
+  }
+
+  form button {
+    justify-self: start;
+  }
+</style>
 <div class="tc mt4 mb4">
     <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button"
         data-slug="lucasaguiar" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee"
@@ -247,15 +397,15 @@ When you scroll down, you can see suggested prompts.</p>
    </li>
   
    <li class="list di">
-     <a href="/tags/macos/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Macos</a>
+     <a href="/tags/proxmox/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Proxmox</a>
    </li>
   
    <li class="list di">
-     <a href="/tags/technology/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Technology</a>
+     <a href="/tags/troubleshooting/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Troubleshooting</a>
    </li>
   
    <li class="list di">
-     <a href="/tags/personal/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Personal</a>
+     <a href="/tags/tutorial/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Tutorial</a>
    </li>
   
 </ul>
@@ -288,14 +438,6 @@ When you scroll down, you can see suggested prompts.</p>
     <ul class="pa0 list">
 	   
 	     <li  class="mb2">
-          <a href="/posts/troubleshooting-proxmox-login-interface/">How to Fix Proxmox Web Interface Login Issues - Complete Guide</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="/posts/10_obsidian-copilot/">Obsidian &#43; Copilot</a>
-        </li>
-	    
-	     <li  class="mb2">
           <a href="/oracle_cloud_free_tier/">Using Oracle Cloud Free tier</a>
         </li>
 	    
@@ -305,6 +447,10 @@ When you scroll down, you can see suggested prompts.</p>
 	    
 	     <li  class="mb2">
           <a href="/blog-introduction/">Introduction to my new space on the internet</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/draft/obsidian-&#43;-copilot/">&#39;{{ replace .File.ContentBaseName `-` ` ` | title }}&#39;</a>
         </li>
 	    
     </ul>

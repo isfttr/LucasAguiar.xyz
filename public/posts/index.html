@@ -164,12 +164,30 @@
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Blog</span>
     <h1 class="f3 near-black">
-      <a href="/posts/fix-custom-models-open-webui/" class="link black dim">
-        Fix Custom Models Open Webui
+      <a href="/posts/troubleshooting-proxmox-login-interface/" class="link black dim">
+        How to Fix Proxmox Web Interface Login Issues - Complete Guide
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      This is a quick fix to a problem I experienced with Open WebUI, which was that custom models were not showing in the models list. There was nothing in the documentation or in the issues pointing to a solution. I decided to open a new issue 4 days ago and today a user gave the missing information and it worked.
+      Abstract: This document details a troubleshooting process for a Proxmox cluster authentication failure that prevented users from logging into the web interface. The root cause was identified as a missing /etc/pve/access.cfg file, crucial for user authentication, likely due to corosync communication issues. The problem was resolved by restarting the pve-cluster service, forcing quorum, manually creating a minimal access.cfg file, and restarting the pveproxy service. Preventative measures include regular cluster health checks, automated configuration file backups, ensuring proper shutdown procedures, maintaining network stability, monitoring storage health, applying Proxmox updates, and careful permissions management.
+    </div>
+    <a href="/posts/troubleshooting-proxmox-login-interface/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="relative w-100 w-30-l mb4 bg-white">
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Blog</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/fix-custom-models-open-webui/" class="link black dim">
+        How to fix the Missing Custom Models bug
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      This is a quick fix to a problem I experienced with Open WebUI, which was that custom models were not showing in the models list. There was nothing in the documentation or in the issues pointing to a solution. I decided to open a new issue 4 days ago and today the user @dcolley gave the missing information and it worked.
 For some reason, custom models are not working when you use Direct Connections.
     </div>
     <a href="/posts/fix-custom-models-open-webui/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
@@ -249,25 +267,6 @@ Your email: Your message: Send
       The problem This week I have been searching for solutions to use domains with my applications running in containers in my MacBook Pro server. Yes, I have converted my MacBook Pro into a server, at least for now. The first solution was to use a Pi-Hole as a local DNS and it works fine, but the problem is that I have to specify ports to get into the applications and it gets annonying.
     </div>
     <a href="/oracle_cloud_free_tier/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="relative w-100 w-30-l mb4 bg-white">
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Blog</span>
-    <h1 class="f3 near-black">
-      <a href="/hugo-content-file-structure/" class="link black dim">
-        Hugo Content File Structure
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      I have been using the ananke theme since the inception of this blog. But recently I started to have all sorts of problems because of my lack of understading of how the contents folder is linked to the layouts folder and to the themes/ananke folder.
-/contents So in the ananke theme you have the choice to have more than one language for your website. In my case I only need to use the english folder, which is in contents/en/ folder.
-    </div>
-    <a href="/hugo-content-file-structure/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
   </div>
 </div>
 
