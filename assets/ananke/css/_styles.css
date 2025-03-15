@@ -15,6 +15,29 @@
 
 }
 
-.nested-links a{
+.nested-links a {
   overflow-wrap: break-word;
+}
+
+.nested-copy-line-height {
+  font-family: sans-serif;
+  line-height: 1.6;
+}
+
+#TableOfContents ul {
+  list-style: none;
+  padding: 0;
+}
+
+#TableOfContents li {
+  padding: 0.5em 0;
+}
+
+#TableOfContents a {
+  font-family: sans-serif;
+}
+
+.circle-mask {
+  width: 150px;
+  height: 150px;
 }

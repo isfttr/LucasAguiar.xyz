@@ -42,7 +42,7 @@ Research in the area of Direct-Air Capture, gas separation membranes in partners
 
 *During 2023 and 2024*
 
-In addition to my patent writing role, I proudly led two essential classes within Universidade Federal de Goiás' (UFG) Intellectual Property specialization. The first class focused on the intricacies of research grants and the existing legislation that fosters innovation in Brazil. I elucidated how these initiatives interconnect with heightened intellectual property awareness and the subsequent patent application process, both in the context of Brazilian industrial property legislation as well as the Patent Cooperation Treaty (PCT) system. By sharing my in-depth knowledge, I empowered students to navigate the complexities of securing grants and protecting their inventions through effective patent strategies.
+In addition to my patent writing role, I proudly led two essential classes within Universidade Federal de Goiás (UFG) Intellectual Property specialization. The first class focused on the intricacies of research grants and the existing legislation that fosters innovation in Brazil. I elucidated how these initiatives interconnect with heightened intellectual property awareness and the subsequent patent application process, both in the context of Brazilian industrial property legislation as well as the Patent Cooperation Treaty (PCT) system. By sharing my in-depth knowledge, I empowered students to navigate the complexities of securing grants and protecting their inventions through effective patent strategies.
 
 ### Patent prosecutor and researcher at Universidade de Brasília (UnB)
 
