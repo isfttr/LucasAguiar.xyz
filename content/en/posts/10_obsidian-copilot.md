@@ -3,7 +3,7 @@ date: 2025-02-04T11:00:59-04:00
 draft: false
 title: Obsidian + Copilot
 description: Using OpenRouter to power AI in Obsidian.
-featured_image: /images/thumb-obsidian-copilot.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-obsidian-copilot.png
 categories:
   - tutorial
 tags:
