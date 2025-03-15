@@ -15,18 +15,18 @@ With a strong foundation in chemistry and a passion for innovation, I help resea
 
 ## Expertise
 
-*   **Patent Prosecution:** Drafting and prosecuting patent applications in chemistry, materials science, and related fields.
-*   **Intellectual Property Consulting:** Providing expert advice on IP strategy, patentability assessments, and technology commercialization.
-*   **Perovskite Solar Cells:** Extensive knowledge and research experience in perovskite solar cell technology.
-*   **Pharmaceuticals:** freedom-to-operate (FTO) analysis, technological landscape monitoring
-*   **Direct-Air Capture:** Researching gas separation membranes for direct-air capture in partnership with companies like Petronas and Repsol.
+* **Patent Prosecution:** Drafting and prosecuting patent applications in chemistry, materials science, and related fields.
+* **Intellectual Property Consulting:** Providing expert advice on IP strategy, patentability assessments, and technology commercialization.
+* **Perovskite Solar Cells:** Extensive knowledge and research experience in perovskite solar cell technology.
+* **Pharmaceuticals:** freedom-to-operate (FTO) analysis, technological landscape monitoring
+* **Direct-Air Capture:** Researching gas separation membranes for direct-air capture in partnership with companies like Petronas and Repsol.
 
 ## Skills
 
-*   **Intellectual Property:** Patent drafting and prosecution, IP strategy, technology commercialization, patentability assessments, IP consulting.
-*   **Scientific Research:** Chemistry, materials science, biochemistry, biotechnology, perovskite solar cells, direct-air capture, gas separation membranes.
-*   **Technical Skills:** Data analysis, visualization and monitoring (Excel, Python, R, SQL, pandas, streamlit, flask, fastapi), artificial intelligence (TensorFlow, PyTorch, scikit-learn), experimental design, Linux (Ubuntu, Debian), Microsoft Power Platform (Power BI, Power Automate, Power Apps, Power Query), Cloud services (Azure, AWS, GCP, virtualization, networking, storage, containerization, automation).
-*   **People Skills:** Communication, negotiation, problem-solving, leadership, teamwork, teaching, public speaking.
+* **Intellectual Property:** Patent drafting and prosecution, IP strategy, technology commercialization, patentability assessments, IP consulting.
+* **Scientific Research:** Chemistry, materials science, biochemistry, biotechnology, perovskite solar cells, direct-air capture, gas separation membranes.
+* **Technical Skills:** Data analysis, visualization and monitoring (Excel, Python, R, SQL, pandas, streamlit, flask, fastapi), artificial intelligence (TensorFlow, PyTorch, scikit-learn), experimental design, Linux (Ubuntu, Debian), Microsoft Power Platform (Power BI, Power Automate, Power Apps, Power Query), Cloud services (Azure, AWS, GCP, virtualization, networking, storage, containerization, automation).
+* **People Skills:** Communication, negotiation, problem-solving, leadership, teamwork, teaching, public speaking.
 
 ## Experience
 
@@ -74,15 +74,15 @@ Head of financial management at the Transportation subsidiary of Perboni SA, Cen
 
 ## Certifications
 
-*   Microsoft Certified: Azure Fundamentals (AZ-900) in June 2023
+* Microsoft Certified: Azure Fundamentals (AZ-900) in June 2023
 
 ## Education
 
-*   Specialization Degree in Industrial Property in 2019 at UFG
-*   Master of Science in Chemistry in 2019 at UFG
-*   Bachelor Degree in Chemistry in 2017 at UFG
+* Specialization Degree in Industrial Property in 2019 at UFG
+* Master of Science in Chemistry in 2019 at UFG
+* Bachelor Degree in Chemistry in 2017 at UFG
 
 ## Interests
 
-*   Chemistry, materials science, biochemistry and biotechnology, engineering
-*   Data, artificial intelligence, simulations, networks, homelabbing, Linux
+* Chemistry, materials science, biochemistry and biotechnology, engineering
+* Data, artificial intelligence, simulations, networks, homelabbing, Linux
