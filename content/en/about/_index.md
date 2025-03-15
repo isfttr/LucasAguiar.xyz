@@ -1,5 +1,5 @@
 ---
-title: "About Lucas Fernandes Aguiar - Intellectual Property Expert"
+title: "About"
 url: "/about"
 type: "page"
 draft: false
