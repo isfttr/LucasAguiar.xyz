@@ -1,7 +1,7 @@
 ---
 date: 2025-03-13T23:29:45-03:00
 draft: false
-title: Fix Proxmox Web Interface Login Errors: A Step-by-Step Guide
+title: Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide
 description: 
 url: ""
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-proxmox-login-error.png
