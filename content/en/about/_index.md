@@ -11,14 +11,22 @@ layout: "about"
 
 Hi, I'm Lucas Fernandes Aguiar, a Brazilian chemist specializing in intellectual property. I currently work at Universidade de Brasília (UnB) as a patent prosecutor and pursue my PhD at the Ceramic Materials and Nanotechnology Laboratory (LMCNano/FT/UnB).
 
-pmWith a strong foundation in chemistry and a passion for innovation, I help researchers and organizations protect their inventions and navigate the complex world of intellectual property.
+With a strong foundation in chemistry and a passion for innovation, I help researchers and organizations protect their inventions and navigate the complex world of intellectual property.
 
 ## Expertise
 
 *   **Patent Prosecution:** Drafting and prosecuting patent applications in chemistry, materials science, and related fields.
 *   **Intellectual Property Consulting:** Providing expert advice on IP strategy, patentability assessments, and technology commercialization.
 *   **Perovskite Solar Cells:** Extensive knowledge and research experience in perovskite solar cell technology.
+*   **Pharmaceuticals:** freedom-to-operate (FTO) analysis, technological landscape monitoring
 *   **Direct-Air Capture:** Researching gas separation membranes for direct-air capture in partnership with companies like Petronas and Repsol.
+
+## Skills
+
+*   **Intellectual Property:** Patent drafting and prosecution, IP strategy, technology commercialization, patentability assessments, IP consulting.
+*   **Scientific Research:** Chemistry, materials science, biochemistry, biotechnology, perovskite solar cells, direct-air capture, gas separation membranes.
+*   **Technical Skills:** Data analysis, visualization and monitoring (Excel, Python, R, SQL, pandas, streamlit, flask, fastapi), artificial intelligence (TensorFlow, PyTorch, scikit-learn), experimental design, Linux (Ubuntu, Debian), Microsoft Power Platform (Power BI, Power Automate, Power Apps, Power Query), Cloud services (Azure, AWS, GCP, virtualization, networking, storage, containerization, automation).
+*   **People Skills:** Communication, negotiation, problem-solving, leadership, teamwork, teaching, public speaking.
 
 ## Experience
 
