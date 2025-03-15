@@ -36,7 +36,7 @@ The loyalty thing? It's broken. People aren't tied to one piece of software for 
 * Data portability is the new user loyalty. If people can't take their stuff with them, they won't stick around.
 * Outcomes are king -- users want results, not a pretty interface that holds their data hostage.
 
-So, if you're building something cool with AI, don't even think about trying to lock people in. 
+So, if you're building something cool with AI, don't even think about trying to lock people in.
 
 ---
 You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
