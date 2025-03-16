@@ -48,10 +48,8 @@
     <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
     {{ end }}
   </header>
-  <div class="flex-l mt2 mw8 center">
-    <article class="cf pv5 ph3 ph4-ns mw7">
-      <header>
-      </header>
+  <div class="flex-l mw8 center">
+    <article class="cf ph3 ph4-ns mw7">
       <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param " text_color" | default "mid-gray" }}"
         style="text-align: left;">
         {{ .Content }}
