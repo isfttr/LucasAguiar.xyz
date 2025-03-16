@@ -7,9 +7,9 @@ toc: true
 layout: "about"
 ---
 
-# Lucas Fernandes Aguiar: Patent Prosecutor, IP Consultant, and Researcher {.athelas}
+# Patent Prosecutor, IP Consultant, and Researcher {.athelas}
 
-Hi, I'm Lucas Fernandes Aguiar, a Brazilian chemist specializing in intellectual property. I currently work at Universidade de Brasília (UnB) as a patent prosecutor and pursue my PhD at the Ceramic Materials and Nanotechnology Laboratory (LMCNano/FT/UnB).
+Hi, I'm Lucas Fernandes Aguiar, a Brazilian chemist specialized in intellectual property. I currently work at Ministério da Saúde (MS) as a technical consultant at the General Coordination for the Promotion and Regulation of the Health Industrial Complex (CGPR/DECEIIS/SECTICS/MS) and pursue my PhD in Chemistry at the Ceramic Materials and Nanotechnology Laboratory (LMCNano/FT/UnB).
 
 With a strong foundation in chemistry and a passion for innovation, I help researchers and organizations protect their inventions and navigate the complex world of intellectual property.
 
