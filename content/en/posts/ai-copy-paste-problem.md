@@ -40,5 +40,3 @@ So, if you're building something cool with AI, don't even think about trying to 
 
 ---
 You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
-
-{{< form-contact >}}
