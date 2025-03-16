@@ -60,13 +60,18 @@
     document.addEventListener('DOMContentLoaded', function () {
         const githubContainer = document.getElementById('github-button');
         const linkedinContainer = document.getElementById('linkedin-button');
+        const threadsContainer = document.getElementById('threads-button');
 
         if (githubContainer) {
-            createSocialButton('github-button', 'GitHub', 'https://github.com/lucasaguiar', '#24292e', '#FFFFFF');
+            createSocialButton('github-button', 'GitHub', 'https://github.com/isfttr', '#24292e', '#FFFFFF');
         }
 
         if (linkedinContainer) {
-            createSocialButton('linkedin-button', 'LinkedIn', 'https://linkedin.com/in/lucasaguiar', '#0077b5', '#FFFFFF');
+            createSocialButton('linkedin-button', 'LinkedIn', 'https://linkedin.com/in/lucas-fernandes-aguiar', '#0077b5', '#FFFFFF');
+        }
+
+        if (threadsContainer) {
+            createSocialButton('threads-button', 'Threads', 'https://www.threads.net/@lucas.chem', '#000000', '#FFFFFF');
         }
     });
 }();

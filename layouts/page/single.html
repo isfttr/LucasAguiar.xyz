@@ -1,7 +1,18 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 
 <div class="flex-l mt2 mw8 center">
-
   {{- partial "menu-contextual.html" . -}}
-
 </div>
+
+<article class="flex-l flex-wrap justify-between mw8 center ph3">
+  <div class="flex-l mw8 center">
+    <article class="cf ph3 ph4-ns mw7">
+      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param " text_color" | default "mid-gray" }}"
+        style="text-align: left;">
+        {{ .Content }}
+        {{/* Contact form */}}
+        {{- partial "form-contact.html" . -}}
+      </div>
+    </article>
+  </div>
+</article>
