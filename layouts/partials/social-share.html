@@ -1,79 +1,51 @@
 <div class="social-share">
   <div class="d-flex flex-row align-items-center">
-    <button id="copy-link" style="border: none; background: none; padding: 0;">
-      <embed src="/assets/ananke/socials/link.svg" alt="Copy Link" class="social-icon">
-    </button>
-    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button m-1">
-      <embed src="/assets/ananke/socials/twitter.svg" alt="Twitter" class="social-icon">
-    </a>
-    <a href="https://www.facebook.com/sharer/sharer.php?u=soci" target="_blank" rel="noopener noreferrer" class="m-1">
-      <embed src="/assets/ananke/socials/facebook.svg" alt="Facebook" class="social-icon">
-    </a>
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&summary={{ .Description }}&source={{ .Site.Title }}"
-      target="_blank" rel="noopener noreferrer" class="m-1">
-      <embed src="/assets/ananke/socials/linkedin.svg" alt="LinkedIn" class="social-icon">
-    </a>
-    <a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/" class="m-1">
-      <embed src="/assets/ananke/socials/pinterest.svg" alt="Pinterest" class="social-icon">
-    </a>
-    <a href="mailto:?subject={{ .Title }}&amp;body={{ .Permalink }}%0A%0A{{ .Description }}"
-      class="share-button email m-1">
-      <embed src="/assets/ananke/socials/email.svg" alt="Email" class="social-icon">
-    </a>
-    <a href="https://api.whatsapp.com/send?text={{ .Permalink }}" class="share-button whatsapp m-1">
-      <embed src="/assets/ananke/socials/whatsapp.svg" alt="WhatsApp" class="social-icon">
-    </a>
+    <ul class="share-buttons" data-source="simplesharingbuttons.com">
+      <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flucasaguiar.xyz&quote=" target="_blank"
+          title="Share on Facebook"
+          onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i
+            class="fab fa-facebook-square fa-2x" aria-hidden="true"></i><span class="sr-only">Share on
+            Facebook</span></a></li>
+      <li><a
+          href="https://twitter.com/intent/tweet?source=http%3A%2F%2Flucasaguiar.xyz&text=:%20http%3A%2F%2Flucasaguiar.xyz"
+          target="_blank" title="Tweet"
+          onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)); return false;"><i
+            class="fab fa-twitter-square fa-2x" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
+      <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Flucasaguiar.xyz&title=" target="_blank"
+          title="Submit to Reddit"
+          onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i
+            class="fab fa-reddit-square fa-2x" aria-hidden="true"></i><span class="sr-only">Submit to Reddit</span></a>
+      </li>
+      <li><a
+          href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flucasaguiar.xyz&title=&summary=&source=http%3A%2F%2Flucasaguiar.xyz"
+          target="_blank" title="Share on LinkedIn"
+          onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i
+            class="fab fa-linkedin fa-2x" aria-hidden="true"></i><span class="sr-only">Share on LinkedIn</span></a></li>
+      <li><a href="mailto:?subject=&body=:%20http%3A%2F%2Flucasaguiar.xyz" target="_blank" title="Send email"
+          onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i
+            class="fas fa-envelope-square fa-2x" aria-hidden="true"></i><span class="sr-only">Send email</span></a></li>
+    </ul>
   </div>
 </div>
 <style>
-  .social-share {
-    margin-top: 20px;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
+  ul.share-buttons {
+    list-style: none;
+    padding: 0;
   }
 
-  .social-share .d-flex {
-    display: flex;
-    flex-wrap: nowrap;
-    align-items: center;
+  ul.share-buttons li {
+    display: inline;
   }
 
-  .social-share a,
-  .social-share button {
-    margin-right: 10px;
-    padding: 5px;
-    text-decoration: none;
-    display: inline-block;
-    background: none;
-    border: none;
-  }
-
-  .social-icon {
-    width: 24px;
-    height: 24px;
-  }
-
-  .twitter-share-button {
-    vertical-align: bottom !important;
-  }
-
-  .social-icon {
-    fill: currentColor !important;
-    /* Use the current text color */
-    width: 24px;
-    height: 24px;
-  }
-
-  .social-share a,
-  .social-share button {
-    color: #007bff !important;
-    /* Set the color to blue */
-  }
-
-  .social-share embed {
-    color: #007bff !important;
-    fill: #007bff !important;
+  ul.share-buttons .sr-only {
+    position: absolute;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0;
+    border: 0;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
   }
 </style>
 <!-- social sharing scripts -->
