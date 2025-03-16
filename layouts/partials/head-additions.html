@@ -4,3 +4,20 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
     integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="/assets/ananke/css/_social-icons.css">
+
+{{ with .Title }}
+<meta property="og:title" content="{{ . }}">
+<meta name="twitter:title" content="{{ . }}">
+{{ end }}
+
+{{ with .Description }}
+<meta property="og:description" content="{{ . }}">
+<meta name="twitter:description" content="{{ . }}">
+{{ end }}
+
+<meta property="og:url" content="{{ .Permalink }}">
+<meta name="twitter:url" content="{{ .Permalink }}">
+
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary">

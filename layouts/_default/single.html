@@ -14,7 +14,7 @@
       */}}
       {{ .CurrentSection.Title }}
     </aside>
-    {{ partial "social-share.html" . }}
+
     <h1 class="f1 athelas mt3 mb1">
       {{- .Title -}}
     </h1>
@@ -48,10 +48,20 @@
     <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
     {{ end }}
   </header>
+  <div class="flex-l mt2 mw8 center">
+    <article class="cf pv5 ph3 ph4-ns mw7">
+      <header>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param " text_color" | default "mid-gray" }}"
+        style="text-align: left;">
+        {{ .Content }}
+        {{ partial "social-share.html" . }}
+      </div>
+    </article>
+  </div>
   <div class="nested-copy-line-height lh-copy {{ $.Param " post_content_classes" | default "serif" }} f4 nested-links {{
     $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl" ) "pl4-l" "pr4-l"
     }} w-two-thirds-l">
-    {{- .Content -}}
     {{- partial "buy-me-coffee.html" . -}}
     {{- partial "tags.html" . -}}
     <div class="mt6 instapaper_ignoref">
@@ -63,10 +73,10 @@
       {{ end }}
     </div>
   </div>
+  <div class="flex-l mt2 mw8 center">
 
-  <aside class="w-30-l mt6-l">
     {{- partial "menu-contextual.html" . -}}
-  </aside>
 
+  </div>
 </article>
 {{ end }}

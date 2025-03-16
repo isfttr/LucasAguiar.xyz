@@ -1,24 +1,102 @@
-{{ $title := .Title }}
-{{ $url := printf "%s" .Permalink | absLangURL }}
-
-{{ $facebook_href := printf "https://www.facebook.com/sharer.php?u=%s" $url }}
-{{ $twitter_href := printf "https://twitter.com/intent/tweet?url=%s&text=%s" $url $title }}
-{{ with site.Social.twitter }}
-  {{ $twitter_href = printf "%s&via=%s" $twitter_href . }}
-{{ end }}
-{{ $linkedin_href := printf "https://www.linkedin.com/shareArticle?mini=true&url=%s&title=%s" $url $title }}
-{{ $hrefs := dict "facebook" $facebook_href "twitter" $twitter_href "linkedin" $linkedin_href }}
-
-{{ $services := where (partialCached "func/socials/Get" "socials/Get") "share" true }}
-{{ if not ($.Param "disable_share") }}
-  <div id="sharing" class="mt3 ananke-socials">
-    {{ range $service :=  $services }}
-      {{ $href := index $hrefs .name }}
-      <a href="{{ $href }}" class="ananke-social-link {{ .name }} no-underline" aria-label="share on {{ .label }}">
-        {{ with .icon }}
-        <span class="icon"> {{ . }}</span>
-        {{ end }}
-      </a>
-    {{ end }}
+<div class="social-share">
+  <div class="d-flex flex-row align-items-center">
+    <button id="copy-link" style="border: none; background: none; padding: 0;">
+      <embed src="/assets/ananke/socials/link.svg" alt="Copy Link" class="social-icon">
+    </button>
+    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button m-1">
+      <embed src="/assets/ananke/socials/twitter.svg" alt="Twitter" class="social-icon">
+    </a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=soci" target="_blank" rel="noopener noreferrer" class="m-1">
+      <embed src="/assets/ananke/socials/facebook.svg" alt="Facebook" class="social-icon">
+    </a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&summary={{ .Description }}&source={{ .Site.Title }}"
+      target="_blank" rel="noopener noreferrer" class="m-1">
+      <embed src="/assets/ananke/socials/linkedin.svg" alt="LinkedIn" class="social-icon">
+    </a>
+    <a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/" class="m-1">
+      <embed src="/assets/ananke/socials/pinterest.svg" alt="Pinterest" class="social-icon">
+    </a>
+    <a href="mailto:?subject={{ .Title }}&amp;body={{ .Permalink }}%0A%0A{{ .Description }}"
+      class="share-button email m-1">
+      <embed src="/assets/ananke/socials/email.svg" alt="Email" class="social-icon">
+    </a>
+    <a href="https://api.whatsapp.com/send?text={{ .Permalink }}" class="share-button whatsapp m-1">
+      <embed src="/assets/ananke/socials/whatsapp.svg" alt="WhatsApp" class="social-icon">
+    </a>
   </div>
-{{ end }}
+</div>
+<style>
+  .social-share {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+
+  .social-share .d-flex {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+  }
+
+  .social-share a,
+  .social-share button {
+    margin-right: 10px;
+    padding: 5px;
+    text-decoration: none;
+    display: inline-block;
+    background: none;
+    border: none;
+  }
+
+  .social-icon {
+    width: 24px;
+    height: 24px;
+  }
+
+  .twitter-share-button {
+    vertical-align: bottom !important;
+  }
+
+  .social-icon {
+    fill: currentColor !important;
+    /* Use the current text color */
+    width: 24px;
+    height: 24px;
+  }
+
+  .social-share a,
+  .social-share button {
+    color: #007bff !important;
+    /* Set the color to blue */
+  }
+
+  .social-share embed {
+    color: #007bff !important;
+    fill: #007bff !important;
+  }
+</style>
+<!-- social sharing scripts -->
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.0";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+<script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<script>
+  document.getElementById('copy-link').addEventListener('click', function () {
+    navigator.clipboard.writeText(window.location.href)
+      .then(function () {
+        console.log('Link copied to clipboard!');
+      })
+      .catch(function (err) {
+        console.error('Could not copy link: ', err);
+      });
+  });
+</script>
