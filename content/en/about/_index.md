@@ -7,7 +7,7 @@ toc: true
 layout: "about"
 ---
 
-# Lucas Fernandes Aguiar: Patent Prosecutor, IP Consultant, and Researcher
+# Lucas Fernandes Aguiar: Patent Prosecutor, IP Consultant, and Researcher {.athelas}
 
 Hi, I'm Lucas Fernandes Aguiar, a Brazilian chemist specializing in intellectual property. I currently work at Universidade de Brasília (UnB) as a patent prosecutor and pursue my PhD at the Ceramic Materials and Nanotechnology Laboratory (LMCNano/FT/UnB).
 
@@ -72,15 +72,17 @@ Crafted patent documents for inventions in chemistry, pharmaceutics, and materia
 
 Head of financial management at the Transportation subsidiary of Perboni SA, Central-Log DF.
 
-## Certifications
-
-* Microsoft Certified: Azure Fundamentals (AZ-900) in June 2023
-
 ## Education
 
+* Ph.D. Student in Chemistry at Universidade de Brasília (2024-...)
 * Specialization Degree in Industrial Property in 2019 at UFG
 * Master of Science in Chemistry in 2019 at UFG
 * Bachelor Degree in Chemistry in 2017 at UFG
+
+## Certifications
+
+* DL-101 - WIPO in 2022
+* Microsoft Certified: Azure Fundamentals (AZ-900) in June 2023
 
 ## Interests
 

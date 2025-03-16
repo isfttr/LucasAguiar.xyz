@@ -73,5 +73,9 @@
         if (threadsContainer) {
             createSocialButton('threads-button', 'Threads', 'https://www.threads.net/@lucas.chem', '#000000', '#FFFFFF');
         }
+        const lattesContainer = document.getElementById('lattes-button');
+        if (lattesContainer) {
+            createSocialButton('lattes-button', 'Lattes CV', 'http://lattes.cnpq.br/5606074364581805', '#4CAF50', '#FFFFFF');
+        }
     });
 }();

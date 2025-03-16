@@ -4,7 +4,7 @@ url: "/contact"
 draft: false
 ---
 
-Feel free to reach me out by e-mail on [lucas.fernandes.df@gmail.com](lucas.fernandes.df@gmail.com)
+I can be reached via email at [lucas.fernandes.df@gmail.com](lucas.fernandes.df@gmail.com) or through the options listed below.
 
 {{< social_media >}}
 {{< contact_form >}}

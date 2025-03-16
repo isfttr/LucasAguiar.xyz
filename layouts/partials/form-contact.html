@@ -3,13 +3,13 @@
 
 <form action="https://formspree.io/f/xgeglgop" method="POST">
   <label>
-    Your email:
-    <input type="email" name="email">
+    <input type="email" name="email" placeholder="Your e-mail address">
   </label>
+  <hr>
   <label>
-    Your message:
-    <textarea rows="10" cols="50" name="message"></textarea>
+    <textarea rows="10" cols="50" name="message" placeholder="Type your message here..."></textarea>
   </label>
+
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
@@ -17,10 +17,11 @@
 <style>
   /* Some nice boilerplate CSS to tidy up your form */
   form {
-    display: grid;
-    grid-template-columns: max-content 1fr;
-    grid-gap: 1rem;
-    text-align: left;
+    display: block;
+    /* grid-template-columns: max-content 1fr; */
+    grid-gap: 10rem;
+    /* Keep grid-gap for spacing */
+    text-align: center;
     padding: 2rem 0;
     margin: 0;
   }
@@ -30,13 +31,17 @@
   }
 
   form input[type="email"],
-  form textarea,
+  form textarea {
+    width: 100%;
+  }
+
   form button {
     font-family: inherit;
     font-size: inherit;
     border: 1px solid currentColor;
     background: none;
-    padding: 0.4rem 0.5rem;
+    padding: 0.5rem 0.5rem;
+    border-radius: 10px;
   }
 
   form textarea {
@@ -44,6 +49,7 @@
   }
 
   form button {
-    justify-self: start;
+    justify-self: center;
+    border-radius: 10px;
   }
 </style>
