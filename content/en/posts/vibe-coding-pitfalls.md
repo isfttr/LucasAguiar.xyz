@@ -62,4 +62,4 @@ For me, this seems to be the best balance for now, but I am leaning to eventuall
 ---
 You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
 
-{{< form-contact >}}
+{{< contact_form >}}
