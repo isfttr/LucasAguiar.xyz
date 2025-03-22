@@ -6,10 +6,12 @@ theme = "gohugo-theme-ananke"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 6                  # this is set low for demonstrating with dummy content. Set to a higher number
+SectionPagesMenu = "main"                # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 6  
 
 [languages]
 [languages.en]
