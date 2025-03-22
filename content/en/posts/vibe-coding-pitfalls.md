@@ -1,7 +1,7 @@
 ---
 date: 2025-03-20T13:01:03-03:00
 draft: true
-title: The Siren Song of Vibe Coding - Why I'm Breaking Up With the "Flow"
+title: Why I'm Breaking Up With the Vibe Coding
 description: 
 url: ""
 featured_image: 
