@@ -15,13 +15,15 @@ Process the main css stylesheet and return as resource
 
 {{/* We prepare a slice of resources to be concatenated as one */}}
 {{ $assets_to_concat := slice }}
-{{/* We add locale css files to the slice in the proper order */}}
+
+{{/* Add standard CSS files */}}
 {{ range slice "_tachyons.css" "_code.css" "_hugo-internal-templates.css" "_social-icons.css" "_styles.css" }}
 {{ with partialCached "func/style/GetResource" . . }}
 {{ $assets_to_concat = $assets_to_concat | append . }}
 {{ end }}
 {{ end }}
 
+{{/* Add social icons CSS (assuming this is already compiled) */}}
 {{ with partialCached "func/socials/Get" "socials/Get" }}
 {{ $socials_rules := slice }}
 {{ range $service := . }}
@@ -38,38 +40,29 @@ color: %s
 {{ $socials_css := $socials_rules | resources.FromString "ananke/css/generated_socials.css" }}
 {{ $assets_to_concat = $assets_to_concat | append $socials_css }}
 {{ end }}
-
 {{ end }}
 
-{{/* We look for any custom css files registered by the user under `site.params.custom_css and if found in the theme's
-css asset directory we (unless condition below) add to aforementioned slice */}}
+{{/* Add custom CSS files (assuming these are already compiled or are plain CSS) */}}
 {{ with site.Params.custom_css }}
 {{ range . }}
 {{ with partialCached "func/style/GetResource" . . }}
-{{ if eq .MediaType.SubType "x-scss" "x-sass" "scss" "sass" }}
-{{ if hugo.IsExtended }}
-{{ $assets_to_concat = $assets_to_concat | append (. | resources.ExecuteAsTemplate "" . | css.Sass) }}
-{{ else }}{{ partial "func/warn" (printf "Processing of stylesheet %s of type %s has been skipped. You need Hugo Extended to process such files." .Name .MediaType.SubType) }}
-{{ end }}
-{{ else }}
 {{ $assets_to_concat = $assets_to_concat | append . }}
-{{ end }}
 {{ end }}
 {{ end }}
 {{ end }}
 
 {{ with $assets_to_concat }}
-{{/* We proceed to concatenate the $assets_to_concat */}}
+{{/* Concatenate the assets */}}
 {{ $style := . | resources.Concat "ananke/css/main.css" }}
 
-{{/* We then use toCSS to add sourceMap and minify */}}
-{{ $options := dict "enableSourceMap" true "precision" 6 }}
-{{ $style = $style | css.Sass $options | minify }}
-{{/* We fingerprint in production for cache busting purposes */}}
+{{/* Minify the CSS (optional, but recommended) */}}
+{{ $style = $style | minify }}
+
+{{/* Fingerprint for cache busting (optional, but recommended for production) */}}
 {{ if eq (getenv "HUGO_ENV") "production" }}
 {{ $style = $style | fingerprint }}
 {{ end }}
-{{/* We're ready to set returning variable with resulting resource */}}
+
 {{ $main_style = $style }}
 {{ end }}
 
