@@ -4,7 +4,7 @@ draft: true
 title: Why I'm Breaking Up With the Vibe Coding
 description: 
 url: ""
-featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-vibe-coding.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-vibe-coding-v2.png
 categories:
   - article
 tags:
