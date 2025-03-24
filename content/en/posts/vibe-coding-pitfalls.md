@@ -1,7 +1,7 @@
 ---
 date: 2025-03-20T13:01:03-03:00
 draft: false
-title: Why I'm Breaking Up With the Vibe Coding
+title: Why I'm Breaking Up With Vibe Coding
 description: 
 url: ""
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-vibe-coding-v2.png
