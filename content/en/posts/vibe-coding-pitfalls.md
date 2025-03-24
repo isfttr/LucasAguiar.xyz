@@ -1,6 +1,6 @@
 ---
 date: 2025-03-20T13:01:03-03:00
-draft: true
+draft: false
 title: Why I'm Breaking Up With the Vibe Coding
 description: 
 url: ""
