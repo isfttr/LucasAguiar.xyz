@@ -4,7 +4,7 @@ draft: false
 title: "INPI's Ambitious Automation Roadmap"
 description: "This initiative aims to streamline the patent process, enhance user experience, and improve the efficiency of patent examiners."
 url: ""
-featured_image: 
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-inpi-roadmap.png
 categories:
   - article
   - video
