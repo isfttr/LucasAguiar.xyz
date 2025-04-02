@@ -2,7 +2,7 @@
 date: 2025-03-20T13:01:03-03:00
 draft: false
 title: Why I'm Breaking Up With Vibe Coding
-description: 
+description:
 url: ""
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-vibe-coding-v2.png
 categories:
@@ -35,7 +35,7 @@ The greatest problems that I see in vibe coding are:
 - It can be a huge time sink: in the beginning you seem to getting places, but since you have no structure, you are being led by what is appearing in the screen, and you become consumed by the next error or working feature that appears on the screen.
 - It is expensive: this is a consequence of the first problem. As context windows grow, the requests get more expensive, and rapidly you can see numbers like 500k tokens sent, and a fraction of that received.
 
-In the end, it doesn't seem to be a huge timesaver for many tasks, if you begin a project with no structure, that is. The time you "save" in the beginning, you'll have to use it later to rewrite the code to do what you intended in the first place. 
+In the end, it doesn't seem to be a huge timesaver for many tasks, if you begin a project with no structure, that is. The time you "save" in the beginning, you'll have to use it later to rewrite the code to do what you intended in the first place.
 
 ## Flip side: an enthusiast's view
 
@@ -61,5 +61,3 @@ For me, this seems to be the best balance for now, but I am leaning to eventuall
 
 ---
 You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
-
-{{< contact_form >}}

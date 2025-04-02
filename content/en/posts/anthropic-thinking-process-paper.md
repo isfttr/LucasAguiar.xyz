@@ -152,5 +152,3 @@ _What do you think about these discoveries? Does the fact that AI systems seem t
 ---
 
 You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
-
-{{< contact_form >}}
