@@ -4,14 +4,15 @@ title = "Lucas F. Aguiar"
 themesDir = "themes"
 theme = "gohugo-theme-ananke"
 resourceDir = "../resources"
+buildFuture = true
 
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"                # this is set low for demonstrating with dummy content. Set to a higher number
+SectionPagesMenu = "main"     # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [pagination]
-  pagerSize = 6  
+pagerSize = 6
 
 [languages]
 [languages.en]
@@ -64,9 +65,9 @@ url = "https://www.threads.net/@lucas.chem"
 label = "Threads"
 
 [markup]
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 6
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 6
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
