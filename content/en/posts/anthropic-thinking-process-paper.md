@@ -3,7 +3,7 @@ date: 2025-04-02T14:30:00-03:00
 draft: false
 title: "Inside AI Brains: How Anthropic Decoded Claude's Thinking Process"
 description: "A breakdown of how researchers are peering inside Claude's 'mind' and discovering surprising parallels with biological systems in Anthropic's groundbreaking new paper."
-url: ""
+url:
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-code-llm-circuit-tracing.png
 categories:
   - article
