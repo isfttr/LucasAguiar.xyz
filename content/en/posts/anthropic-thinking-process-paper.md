@@ -16,8 +16,6 @@ tags:
   - anthropic
 ---
 
-## Peeking Inside an AI's "Brain": Anthropic's Latest Research Simplified
-
 Anthropic recently published a [fascinating paper](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#structure) with an unusual title: "**On the Biology of a Large Language Model**." But what does biology have to do with AI? As it turns out, quite a lot. The researchers are essentially performing a digital dissection of Claude's "brain" to understand how it thinks—and finding surprising parallels to biological systems along the way.
 
 In this post, I'll break down this complex research into digestible parts, explaining how scientists are starting to understand what's happening inside these AI systems when they answer our questions or write poetry.
