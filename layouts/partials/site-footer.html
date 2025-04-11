@@ -4,6 +4,9 @@
       &copy; Lucas Fernandes Aguiar 2023 - {{ now.Format "2006"}}. All rights reserved.
     </a>
     <div class="flex items-center">
+      {{ partial "privacy-policy.html" . }}
+    </div>
+    <div class="flex items-center">
       {{ partial "repo-version.html" . }}
       <div class="ml3">{{ partial "social-follow.html" . }}</div>
     </div>
