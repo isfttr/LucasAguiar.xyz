@@ -1,5 +1,5 @@
 ---
-date: 2025-04-02T13:36:59-03:00
+date: 2025-04-10T13:36:59-03:00
 draft: false
 title: "One Week with GitButler: Streamlining My Git Workflow"
 description: "My experience using GitButler as a replacement for traditional Git workflow tools, including what works well and a few limitations."
@@ -24,6 +24,25 @@ My interest was further piqued after watching presentations by Scott Chacon, one
 For those unfamiliar, GitButler is a desktop application designed to modernize Git workflows. It introduces the concept of "virtual branches" that let you work on multiple features simultaneously without the overhead of Git's traditional branch management. It also provides a visual interface for common Git operations and aims to streamline collaboration through automated commit messages and PR generation.
 
 Interestingly, some of GitButler's ideas appear to be influenced by alternative version control systems like Jujutsu, which was built by Google engineers. I recently watched a [Bits and Booze podcast episode about Jujutsu](https://www.youtube.com/watch?v=dwyMlLYIrPk) that showcased a different workflow from traditional Git. For example, in Jujutsu, you can start a new "commit" and everything done between that point and the next start is automatically committed—a concept that seems to have inspired some of GitButler's approach to managing changes. I highly recommend watching the episode if you're interested in the evolution of version control systems.
+
+## What Using GitButler looks like
+
+Once you first install GitButler, you'll have to setup your first local repository. You'll have a couple of options for doing so:
+
+1. Create a new repository from scratch.
+2. Clone an existing repository from a remote location.
+
+Also, GitButler offers a great GitHub integration, mainly for creating pull requests, and AI features for creating commit messages and pull requests. Those features have beenparticularly useful for me.
+
+![Screenshot of GitButler Repository Setup](https://lucasaguiarxyzstorage.blob.core.windows.net/images/screenshot-gitbutler-repo-setup.png)
+
+Once you choose your local repository, you'll be greeted with a clean interface that displays your current repository and its branches. The left sidebar provides a list of your virtual branches, which you can create, delete, and switch between. The right sidebar displays the status of your repository, including any uncommitted changes.  Also, you can also move the changed files to a new branch or another existing branch. Every change you make you'll be put on the default lane, and if you have more than one branch (lane) applied, you can set active lanes to receive automatically those changes. This feature had me a bit confused in the beginning, but after a while, it became second nature.
+
+![Screenshot of GitButler Workspace](https://lucasaguiarxyzstorage.blob.core.windows.net/images/screenshot-gitbutler-workspace.png)
+
+The commit messages can be AI generated after you select the files or changed snippets of code that you want to commit. GitButler will analyze the changes and suggest a commit message based on the changes made, and is really useful when something goes wrong. I tend to use it and append some other information that could be useful for the future.
+
+![Screenshot of GitButler Commit message](https://lucasaguiarxyzstorage.blob.core.windows.net/images/screenshot-gitbutler-commit.png)
 
 ## My Experience So Far
 
@@ -51,7 +70,7 @@ Despite the overall positive experience, I've encountered a few limitations:
 
 ## Looking Forward
 
-I'm particularly interested in seeing how the Ollama integration develops once the issues are fixed. Having locally-generated, contextual commit messages and PR descriptions without sending code to external services would be a significant advantage.
+I'm particularly interested in seeing how the Ollama integration develops once the [issues](https://github.com/gitbutlerapp/gitbutler/issues/5862#issuecomment-2756082477) are fixed. Having locally-generated, contextual commit messages and PR descriptions without sending code to external services would be a significant advantage.
 
 It's worth noting that with Scott Chacon's extensive background in Git (as demonstrated in his [technical presentations](https://www.youtube.com/watch?v=Md44rcw13k4&t=1032s)), there's good reason to be optimistic about GitButler's future development. The app already shows a deep understanding of what makes Git powerful while addressing many of its pain points.
 
