@@ -1,7 +1,7 @@
 ---
 date: 2025-04-10T13:36:59-03:00
 draft: false
-title: "One Week with GitButler: Streamlining My Git Workflow"
+title: "Two Weeks with GitButler: Streamlining My Git Workflow"
 description: "My experience using GitButler as a replacement for traditional Git workflow tools, including what works well and a few limitations."
 url: ""
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-gitbutler.png
@@ -9,13 +9,14 @@ categories:
   - article
 tags:
   - git
+  - workflow
   - gitbutler
   - developer-tools
   - productivity
   - version-control
 ---
 
-I've been using [GitButler](https://docs.gitbutler.com/) for about a week now, and it's already transformed how I interact with Git. As someone who regularly juggles multiple feature branches and context switches between tasks, I was looking for a tool that could simplify my Git workflow. GitButler caught my attention with its promise of virtual branches and simplified collaboration features.
+I've been using [GitButler](https://docs.gitbutler.com/) for about two weeks now, and it's already transformed how I interact with Git. As someone who regularly juggles multiple feature branches and context switches between tasks, I was looking for a tool that could simplify my Git workflow. GitButler caught my attention with its promise of virtual branches and simplified collaboration features.
 
 My interest was further piqued after watching presentations by Scott Chacon, one of GitButler's creators and also a co-founder of GitHub. His deep knowledge of Git is evident in talks like [this one](https://www.youtube.com/watch?v=Md44rcw13k4&t=1032s), and it shows in how GitButler has managed to create an almost frictionless Git experience.
 
@@ -46,7 +47,7 @@ The commit messages can be AI generated after you select the files or changed sn
 
 ## My Experience So Far
 
-After a week of consistent usage, GitButler has completely replaced my use of Git in the command line and within my code editor. The visual branch management has been particularly useful, allowing me to quickly switch between different tasks without the mental overhead of stashing or committing work-in-progress changes.
+After two weeks of consistent usage, GitButler has completely replaced my use of Git in the command line and within my code editor. The visual branch management has been particularly useful, allowing me to quickly switch between different tasks without the mental overhead of stashing or committing work-in-progress changes.
 
 ### What's Working Well
 
@@ -80,7 +81,7 @@ Even with the current limitations, GitButler has already proven valuable enough 
 
 ## Conclusion
 
-After a week of usage, I can confidently say that GitButler has improved my Git workflow. The virtual branches concept elegantly solves many of the pain points associated with context-switching between tasks, and the visual interface makes complex Git operations more approachable.
+After two weeks of usage, I can confidently say that GitButler has improved my Git workflow. The virtual branches concept elegantly solves many of the pain points associated with context-switching between tasks, and the visual interface makes complex Git operations more approachable.
 
 While there are still some features that need refinement (particularly the Ollama integration for automatic commit messages and pull requests), the application has been stable and reliable for my day-to-day usage. I haven't encountered any negative experiences that would make me consider reverting to my previous workflow.
 
