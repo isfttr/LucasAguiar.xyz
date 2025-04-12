@@ -6,9 +6,6 @@ url: "/privacy-policy"
 draft: false
 omit_header_text: true
 type: page
-menu:
-  footer:
-    weight: 1
 ---
 
 **Last updated April 11, 2025**
