@@ -1,10 +1,10 @@
 ---
-date: 2025-04-12T00:11:32-03:00
-draft: true
+date: 2025-04-13T00:11:32-03:00
+draft: false
 title: "From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors"
 description: "A personal review of my experiences with Cursor, Windsurf, and other modern code editors, including their AI capabilities, extension support, and overall user experience."
 url: ""
-featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-code-editors-journey.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-cursor-windsurf.png
 categories:
   - article
 tags:
@@ -14,7 +14,7 @@ tags:
   - cursor
   - windsurf
   - zed
-  - AI
+  - artificial-intelligence
 ---
 
 Over the past few months, I've been on a journey to find the perfect code editor that balances excellent developer experience with the productivity boost of AI assistance. This exploration came after I had already spent almost two years using VS Code, which I adopted after ditching Emacs and Neovim in search of a more modern editing experience. My latest search led me through several modern editors, primarily those in the VSCodium family, with some interesting detours along the way. Here's my experience and what I've learned.
@@ -33,7 +33,7 @@ This family of editors shares a common ancestry but diverges in their approach t
 
 ## My Journey Begins: Cursor
 
-My exploration started with [Cursor](https://cursor.sh/), which initially impressed me with its sleek integration of AI capabilities. After VS Code, it felt like a natural evolution—familiar enough to be comfortable but with added AI superpowers.
+My exploration started with [Cursor](https://www.cursor.com/), which initially impressed me with its sleek integration of AI capabilities. After VS Code, it felt like a natural evolution—familiar enough to be comfortable but with added AI superpowers.
 
 During my free trial period with Cursor, I discovered several advantages:
 
@@ -45,7 +45,7 @@ Cursor's approach to AI felt less intrusive compared to alternatives like Cline 
 
 ## The Windsurf Experiment
 
-After my trial with Cursor ended, I decided to try [Windsurf](https://www.windsurf.io/), another VS Code-based editor promising AI-enhanced development. Unfortunately, this experience was considerably less satisfying:
+After my trial with Cursor ended, I decided to try [Windsurf](https://windsurf.com/editor), another VS Code-based editor promising AI-enhanced development. Unfortunately, this experience was considerably less satisfying:
 
 - **Unpolished Experience**: Windsurf lacked the refinement that made Cursor enjoyable to use.
 - **Clunky AI Integration**: The AI features felt bolted on rather than seamlessly integrated.
@@ -57,7 +57,7 @@ The stark contrast between Cursor and Windsurf highlighted how important thought
 
 Both Cursor and Windsurf (and the broader VSCodium ecosystem) face a significant challenge: extension support. This issue became even more pronounced after Microsoft's recent crackdown on unofficial VS Code variants.
 
-As [Theo Browne discussed in a recent video](https://www.youtube.com/watch?v=a7RxbwZz3OQ), Microsoft has begun restricting access to the official VS Code marketplace for third-party clients. This means users of VSCodium-based editors must rely on alternative extension sources like Open VSX, which severely limits their options.
+As [Theo (T3.gg) discussed in a recent video](https://www.youtube.com/watch?v=vEQ07-p8ZDE), Microsoft has begun restricting access to the official VS Code marketplace for third-party clients. This means users of VSCodium-based editors must rely on alternative extension sources like Open VSX, which severely limits their options.
 
 The Open VSX Registry, while attempting to provide an open-source alternative to Microsoft's marketplace, falls significantly short in several ways:
 
@@ -92,6 +92,7 @@ Zed feels like the start of something new rather than an iteration on existing t
 An unexpected discovery in my journey was realizing that editor-integrated AI isn't the only approach. I've found excellent results using [Claude Desktop](https://www.anthropic.com/claude) with its MCP (Machine Control Protocol) capabilities as a companion to my coding sessions.
 
 This approach:
+
 - Keeps my editor clean and focused on editing
 - Provides powerful AI assistance when needed
 - Allows for more detailed prompting and context setting
@@ -104,6 +105,7 @@ While not as seamlessly integrated as built-in solutions, there's something to b
 Another component I've added to my development stack is [GitButler](https://gitbutler.com/), which I use in conjunction with Zed. Rather than relying solely on the built-in git tooling, GitButler provides a more visual and intuitive approach to branch management and code changes.
 
 The combination of Zed for editing and GitButler for version control gives me the best of both worlds:
+
 - Clean, focused editing experience
 - Powerful visual git workflow
 - Freedom from being locked into a single tool's approach to git
@@ -115,14 +117,13 @@ For now, I'm continuing with Zed as my primary editor, supplemented by Claude De
 That said, I'm not going to lie—sometimes using GitButler feels a little cumbersome because I have to change windows just to commit. Even with the many advantages of having a separate dedicated git interface, it sometimes feels like my workflow is more complicated than it needs to be. This is the trade-off of using specialized tools instead of an all-in-one solution.
 
 What I've learned from this journey:
+
 1. The right editor is highly personal and depends on your specific workflow
 2. AI assistance can be transformative, but implementation matters greatly
-3. Extension ecosystem health is crucial for long-term viability
+3. Extension ecosystem health is crucial for long-term viability, I mean, they really do solve a lot of problems for a lot of people - Open VSX is far from being useful for me
 4. Sometimes the best solution is a combination of specialized tools rather than a single do-everything editor—but this comes with its own friction points
 
 I suspect this journey isn't over, as the landscape of development tools continues to evolve rapidly, especially with AI integration becoming increasingly sophisticated. But for now, I've found a setup that works well for my needs while remaining open to new possibilities.
 
 ---
 You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
-
-{{< contact_form >}}
