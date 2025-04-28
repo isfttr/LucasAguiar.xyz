@@ -687,4 +687,4 @@ The best approach depends on your specific needs:
 By implementing these interactive features, you can create Flask applications that not only function well but also provide a satisfying user experience that keeps users engaged and informed.
 
 ---
-You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
+You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

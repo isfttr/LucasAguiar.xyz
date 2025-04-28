@@ -2,7 +2,7 @@
 date: 2025-03-08T00:47:39-03:00
 draft: false
 title: Script for Updating Open WebUI in a Proxmox LXC
-description: 
+description:
 url: ""
 featured_image: /images/open-webui-script-thumb.png
 categories:
@@ -100,4 +100,4 @@ crontab -e
 ## Conclusion
 
 ---
-You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
+You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

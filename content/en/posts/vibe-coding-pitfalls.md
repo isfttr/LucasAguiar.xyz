@@ -60,4 +60,4 @@ I'm not saying vibe coding is always bad. There's definitely value in letting yo
 For me, this seems to be the best balance for now, but I am leaning to eventually pay for a chat app, like Perplexity (which has a good free tier and costs 20 dollars per month), since I am paying around 30 dollars/month for the last 2 months in API usage. In the future, maybe it will make sense to have a model running locally, but I think the costs for API usage will be lower as more efficient models are launched.
 
 ---
-You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
+You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

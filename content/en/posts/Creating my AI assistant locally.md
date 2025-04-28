@@ -2,7 +2,7 @@
 date: 2024-03-16
 draft: false
 title: Creating my AI assistant locally
-description: For the first time I tried to break with ChatGPT and Copilot to see what I could come up with. 
+description: For the first time I tried to break with ChatGPT and Copilot to see what I could come up with.
 url: "/creating-local-ai/"
 featured_image: "/images/ollama-privategpt.png"
 tags:
@@ -93,5 +93,4 @@ Surprisingly to me it did not allucinate. It plainly answered that the subject i
 This is a simple setup of a private and open source LLM. I tried other ones, using AnythingLLM and it didn't work, or it needed workarounds that I don't have the time for. This was the easiest project to set up and there is a lot more that can be done with it. For me, the integration with my Obsidian notes is the next thing that I am aiming to explore.
 
 ---
-You can reach out to contact me about this and other topics at my email <lucas.fernandes.df@gmail.com> or by filling the form below.
-
+You can reach out to contact me about this and other topics at my email <contact@lucasaguiar.xyz> or by filling the form below.

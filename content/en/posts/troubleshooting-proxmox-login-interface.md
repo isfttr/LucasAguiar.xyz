@@ -2,7 +2,7 @@
 date: 2025-03-13T23:29:45-03:00
 draft: false
 title: Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide
-description: 
+description:
 url: ""
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-proxmox-login-error.png
 categories:
@@ -106,48 +106,47 @@ After these steps, users were able to log in to the Proxmox web interface succes
 Preventing the "Proxmox Authentication Failure due to Missing Cluster Configuration File" error involves ensuring the stability and proper functioning of the Proxmox cluster and its configuration files. Here are several strategies:
 
 1. **Regular Cluster Health Checks:**
-  
+
   - Implement automated monitoring of the Proxmox cluster's health. This should include checks for:
-  
-  - Corosync quorum status: Ensure the cluster maintains a quorum to prevent configuration inconsistencies.  
-  - Service status: Monitor the status of critical services like `pve-cluster`, `pveproxy`, `corosync`, `pve-ha-lrm`, and `pve-ha-crm`.  
+
+  - Corosync quorum status: Ensure the cluster maintains a quorum to prevent configuration inconsistencies.
+  - Service status: Monitor the status of critical services like `pve-cluster`, `pveproxy`, `corosync`, `pve-ha-lrm`, and `pve-ha-crm`.
   - Log analysis: Regularly scan logs for errors or warnings related to cluster communication, authentication, and storage.
 
 2. **Configuration File Backups:**
-  
+
   - Automate regular backups of the `/etc/pve` directory. This allows for quick restoration of configuration files in case of accidental deletion or corruption.
 
 3. **Proper Shutdown Procedures:**
-  
+
   - Ensure that all Proxmox nodes are shut down gracefully. Avoid abrupt shutdowns or power outages, as these can lead to data corruption or configuration inconsistencies.
 
 4. **Network Stability:**
-  
+
   - Maintain a stable and reliable network connection between the Proxmox nodes. Network disruptions can lead to cluster instability and configuration issues.
 
 5. **Storage Health Monitoring:**
-  
+
   - Monitor the health of the underlying storage used by the Proxmox cluster. Storage failures can lead to data loss and configuration corruption.
 
 6. **Proxmox Updates and Patches:**
-  
+
   - Keep the Proxmox installation up to date with the latest updates and security patches. These updates often include bug fixes and improvements that can enhance cluster stability.
 
 7. **Permissions Management:**
-  
-  - Review and manage file permissions within the `/etc/pve` directory. Ensure that the correct users and groups have the necessary permissions to access and modify configuration files.  
+
+  - Review and manage file permissions within the `/etc/pve` directory. Ensure that the correct users and groups have the necessary permissions to access and modify configuration files.
   - Avoid making manual changes to files in `/etc/pve` unless absolutely necessary, and always back up the original file before making any changes.
 
 8. **Cluster Awareness during Maintenance:**
-  
+
   - When performing maintenance on any node in the cluster, ensure that the other nodes are aware of the maintenance and can maintain quorum. Consider using Proxmox's built-in maintenance mode.
 
 9. **Implement redundancy**
-  
+
   - Consider having multiple nodes. If `/etc/pve/access.cfg` is missing on one node, it can be copied over from another.
 
 By implementing these preventative measures, you can significantly reduce the risk of encountering the "Proxmox Authentication Failure due to Missing Cluster Configuration File" error and ensure the stability and reliability of your Proxmox cluster.
 
 ---
-You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
-
+You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

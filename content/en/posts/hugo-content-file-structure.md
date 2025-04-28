@@ -2,7 +2,7 @@
 date: 2024-03-24T13:58:55-03:00
 draft: false
 title: Hugo Content File Structure
-description: 
+description:
 url: "/hugo-content-file-structure"
 featured_image: "/images/hugo-file-manager.png"
 categories:
@@ -17,7 +17,7 @@ I have been using the `ananke` theme since the inception of this blog. But recen
 
 ## `/contents`
 
-So in the `ananke` theme you have the choice to have more than one language for your website. In my case I only need to use the english folder, which is in `contents/en/` folder. Inside the contents folder, every section needs to have a `_index.md` file indicating that it is the main page. Every section can be represented by a folder with content inside and `_index.md` file as the head of the section. In my case, my posts are at `contents/en/posts/`. So, the  `contents/en/` has a `_index.md` folder as well as the `contents/en/posts/` folder. 
+So in the `ananke` theme you have the choice to have more than one language for your website. In my case I only need to use the english folder, which is in `contents/en/` folder. Inside the contents folder, every section needs to have a `_index.md` file indicating that it is the main page. Every section can be represented by a folder with content inside and `_index.md` file as the head of the section. In my case, my posts are at `contents/en/posts/`. So, the  `contents/en/` has a `_index.md` folder as well as the `contents/en/posts/` folder.
 
 This is important because alongside the `_index.md` you can have other pages, that will be displayed differently according to where in the contents folder they are. So a `content/en/page.md` is on the same level as `content/en/posts/_index.md`. In the `ananke` theme this can be seen visually by the header pages.
 
@@ -33,7 +33,7 @@ Each section and page has a default `html` layout file which is is used when `hu
 
 ## The `html` layout files
 
-The defaults are stored in the `layouts/_defaults` folder. 
+The defaults are stored in the `layouts/_defaults` folder.
 
 - `baseof.html`: it is the base of html of the website. It contains all modules that are linked to other parts of the page, such as header and footer.
 - `list.html`: it is a page type which list a number of different archives in the same directory. Example would be the `contents/en/posts/_index.md` page.
@@ -53,4 +53,4 @@ My references for this is all over the place, but here they are:
 3. [GitHub repositories for "ananke"](https://github.com/search?q=ananke&type=repositories)
 
 ---
-You can reach out to contact me about this and other topics at my email lucas.fernandes.df@gmail.com or by filling the form below.
+You can reach out to contact me about this and other topics at my email contact@lucasaguiar.xyz or by filling the form below.

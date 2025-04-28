@@ -532,4 +532,4 @@ For most users, the major cloud providers offer the best combination of features
 As with most cloud services, the right choice depends on your specific needs, technical capabilities, and budget constraints. Start with a clear understanding of your requirements, test with a small dataset, and scale as needed.
 
 ---
-You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
+You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

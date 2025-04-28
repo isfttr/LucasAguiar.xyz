@@ -126,4 +126,4 @@ What I've learned from this journey:
 I suspect this journey isn't over, as the landscape of development tools continues to evolve rapidly, especially with AI integration becoming increasingly sophisticated. But for now, I've found a setup that works well for my needs while remaining open to new possibilities.
 
 ---
-You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
+You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

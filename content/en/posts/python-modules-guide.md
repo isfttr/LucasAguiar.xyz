@@ -442,4 +442,4 @@ Starting with a well-structured approach to modules will save you countless hour
 The next time you find yourself writing a Python script that's growing too large or has clearly distinct functionality, take a moment to consider how you might split it into modules. Your future self will thank you!
 
 ---
-You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
+You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

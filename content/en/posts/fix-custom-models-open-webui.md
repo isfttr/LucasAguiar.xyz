@@ -2,7 +2,7 @@
 date: 2025-03-11T22:32:27-03:00
 draft: false
 title: How to fix the Missing Custom Models bug
-description: 
+description:
 url: ""
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-custom-model-fix.png
 categories:
@@ -29,4 +29,4 @@ And the model list should show your custom models.
 ![Models list in Open WebUI](https://lucasaguiarxyzstorage.blob.core.windows.net/images/model-list.png)
 
 ---
-You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
+You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

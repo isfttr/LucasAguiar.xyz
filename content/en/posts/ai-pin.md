@@ -14,7 +14,7 @@ title: Thoughts on the hu.ma.ne AI Pin
 
 I watched the presentation by hu.ma.ne founder earlier in the week at TED in May, and I thought the device, the Ai Pin, was really different from what we have, read smartphones. What is the use of something without a screen? Then I remembered that people used to have Pagers, but even then, Pagers had a screen with the number to call back. But I digress.
 
-What really made me think was watching their launch video yesterday. We already know by now that not all the information used was accurate. There were less nuts that what the AI said and the eclipse in 2024 will be better viewed thrown North America, rather than Australia. But apart from the AI hallucinations that everybody has already experienced using any AI assistant, the point of the device for me has been made. 
+What really made me think was watching their launch video yesterday. We already know by now that not all the information used was accurate. There were less nuts that what the AI said and the eclipse in 2024 will be better viewed thrown North America, rather than Australia. But apart from the AI hallucinations that everybody has already experienced using any AI assistant, the point of the device for me has been made.
 
 ## Impressions
 
@@ -32,4 +32,4 @@ To wrap this up, I did a little digging into what was the number of iPods sold f
 
 ![Photo by hu.ma.ne.](/post/images/humane-ai-pin.jpeg)
 
-You can reach out to contact me about this or other topics at my email lucas.fernandes.df@gmail.com.
+You can reach out to contact me about this or other topics at my email contact@lucasaguiar.xyz.

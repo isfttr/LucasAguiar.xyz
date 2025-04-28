@@ -2,7 +2,7 @@
 date: 2024-04-24T22:33:19-03:00
 draft: false
 title: Using Oracle Cloud Free tier
-description: 
+description:
 url: "/oracle_cloud_free_tier"
 featured_image: "/images/oracle_cloud_vps_thumb.png"
 categories:
@@ -74,4 +74,4 @@ This is an overview of this problem and how I solved it. That are many little st
 I hope this article was useful to some of you who are trying to expose some internal application to external traffic but can't do it because of some ISP configurations.
 
 ---
-You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
+You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

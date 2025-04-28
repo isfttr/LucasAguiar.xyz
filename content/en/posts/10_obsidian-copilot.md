@@ -96,4 +96,4 @@ Overall I think this is a pretty nice setup. It is easy to troubleshoot if neces
 - [nomic-embed-text](https://ollama.com/library/nomic-embed-text)
 - [Local AI Assistant](3_local-ai-assistant)
 
-You can reach out to contact me about this or other topics at my email <lucas.fernandes.df@gmail.com>.
+You can reach out to contact me about this or other topics at my email <contact@lucasaguiar.xyz>.

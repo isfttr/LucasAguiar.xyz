@@ -17,7 +17,7 @@ tags:
 
 This is the part 2 of the first post about the a local AI assistant. See more at [Part 1](<../../Creating my AI assistant locally.md>).
 
-The main problem that I faced running the configuration was that I needed to run at least three commands on the terminal to get everything running. This is far from perfect, I wanted it to work just like a normal application. 
+The main problem that I faced running the configuration was that I needed to run at least three commands on the terminal to get everything running. This is far from perfect, I wanted it to work just like a normal application.
 
 First, I forked the [imartinez/privateGPT](https://github.com/imartinez/privateGPT) repository into my own. You can visit it at [isfttr/privateGPT](https://github.com/isfttr/privateGPT).
 
@@ -45,4 +45,4 @@ Well, as I said this is mainly a change for my self so I didn't had to overcompl
 
 ### Contacts
 
-You can reach out to contact me about this or other topics at my email lucas.fernandes.df@gmail.com.
+You can reach out to contact me about this or other topics at my email contact@lucasaguiar.xyz.

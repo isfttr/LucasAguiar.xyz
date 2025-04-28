@@ -29,7 +29,7 @@ This non-traditional path meant that when I hit technical roadblocks in my codin
 
 ## The Procrastination Trap
 
-My story probably sounds familiar to many developers. I'd start each project with genuine enthusiasm and ambition, convinced that this time would be different. Two weeks later, I'd be staring at the same code I'd written during those first few productive days, feeling stuck and uninspired. 
+My story probably sounds familiar to many developers. I'd start each project with genuine enthusiasm and ambition, convinced that this time would be different. Two weeks later, I'd be staring at the same code I'd written during those first few productive days, feeling stuck and uninspired.
 
 The pattern was predictable:
 
@@ -172,4 +172,4 @@ Has anyone else found AI tools helpful for overcoming procrastination? I'd love 
 
 ---
 
-You can reach out to contact me about this and other topics at my email <lucas.fernandes.df@gmail.com>
+You can reach out to contact me about this and other topics at my email <contact@lucasaguiar.xyz>

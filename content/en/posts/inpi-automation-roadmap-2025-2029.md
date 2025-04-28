@@ -63,6 +63,6 @@ The INPI's automation project represents a significant step forward in modernizi
 
 You can also what in full the presentation and discussions on the matter by [watching the video](https://www.youtube.com/watch?v=OAXyPg1TsiQ).
 
-You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
+You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.
 
 {{< contact_form >}}

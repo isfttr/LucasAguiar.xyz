@@ -18,7 +18,7 @@ This Privacy Notice for Lucas Fernandes Aguiar ("**we**," "**us**," or "**our**"
 
 *   Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at lucas.fernandes.df@gmail.com.
+**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at contact@lucasaguiar.xyz.
 
 ## SUMMARY OF KEY POINTS
 
@@ -252,7 +252,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
 **Cookies and similar technologies:** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. You may also [opt out of interest-based advertising by advertisers](http://www.aboutads.info/choices/) on our Services. For further information, please see our Cookie Notice: [http://www.lucasaguiar.xyz/cookies](http://www.lucasaguiar.xyz/cookies).
 
-If you have questions or comments about your privacy rights, you may email us at lucas.fernandes.df@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at contact@lucasaguiar.xyz.
 ## 11. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice.
@@ -365,7 +365,7 @@ If you submit the request through an authorized agent, we may need to collect ad
 
 ### Appeals
 
-**Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at lucas.fernandes.df@gmail.com. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.**
+**Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at contact@lucasaguiar.xyz. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.**
 
 ### California "Shine The Light" Law
 
@@ -378,7 +378,7 @@ We may update this Privacy Notice from time to time. The updated version will be
 
 ## 14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at lucas.fernandes.df@gmail.com or contact us by post at:
+If you have questions or comments about this notice, you may email us at contact@lucasaguiar.xyz or contact us by post at:
 
 Lucas Fernandes Aguiar
 

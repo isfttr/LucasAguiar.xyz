@@ -2,7 +2,7 @@
 date: 2025-03-15T00:55:28-03:00
 draft: false
 title: "The AI Copy-Paste Problem: Killing Software Lock-In & Why Data Portability is Key"
-description: AI is changing the game for software companies. The emerging "AI Copy-Paste Problem" highlights the declining effectiveness of software lock-in. Users now prioritize data portability, enabled by accessible AI tools, allowing them to easily move between platforms. This article examines how businesses can adapt by embracing data interoperability to build genuine customer loyalty in the age of AI. 
+description: AI is changing the game for software companies. The emerging "AI Copy-Paste Problem" highlights the declining effectiveness of software lock-in. Users now prioritize data portability, enabled by accessible AI tools, allowing them to easily move between platforms. This article examines how businesses can adapt by embracing data interoperability to build genuine customer loyalty in the age of AI.
 url: ""
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-ai-copy-paste.png
 categories:
@@ -39,4 +39,4 @@ The loyalty thing? It's broken. People aren't tied to one piece of software for 
 So, if you're building something cool with AI, don't even think about trying to lock people in.
 
 ---
-You can reach out to contact me about this and other topics at my email **<lucas.fernandes.df@gmail.com>** or by filling the form below.
+You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.
