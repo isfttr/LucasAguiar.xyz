@@ -4,7 +4,6 @@ description: "How we handle your data."
 omit_header_text: true
 url: "/privacy-policy"
 draft: false
-omit_header_text: true
 type: page
 ---
 
