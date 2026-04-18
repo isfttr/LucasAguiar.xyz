@@ -1,9 +1,4 @@
 {{ define "main" }}
-{{ $isContact := eq .RelPermalink "/contact/" }}
-{{ $isPrivacy := or (eq .RelPermalink "/privacy/") (eq .RelPermalink "/privacy-policy/") }}
-
-{{/* ── Contact page ── */}}
-{{ if $isContact }}
 <section class="page-head">
   <div class="container">
     <div class="page-head-grid">
@@ -61,51 +56,4 @@
     </div>
   </div>
 </section>
-
-{{/* ── Privacy page ── */}}
-{{ else if $isPrivacy }}
-<section class="page-head">
-  <div class="container">
-    <div class="page-head-grid">
-      <div>
-        <div class="page-head-eyebrow">Legal</div>
-        <h1>Privacy.</h1>
-      </div>
-      <p>How I handle data on this site. Short version first — full version below.</p>
-    </div>
-  </div>
-</section>
-
-<section class="privacy-wrap">
-  <div class="container">
-    <div class="privacy-grid">
-      <aside class="privacy-toc">
-        <h4>Sections</h4>
-        {{ .TableOfContents }}
-      </aside>
-      <div class="privacy-content">
-        {{ .Content }}
-      </div>
-    </div>
-  </div>
-</section>
-
-{{/* ── Generic page fallback ── */}}
-{{ else }}
-<section class="page-head">
-  <div class="container">
-    <div class="page-head-grid">
-      <div>
-        <h1>{{ .Title }}</h1>
-      </div>
-      {{ with .Description }}<p>{{ . }}</p>{{ end }}
-    </div>
-  </div>
-</section>
-
-<div class="generic-page">
-  {{ .Content }}
-</div>
-{{ end }}
-
 {{ end }}

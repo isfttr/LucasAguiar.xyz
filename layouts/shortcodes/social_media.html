@@ -1,6 +1,9 @@
-<div class="social-links flex flex-column">
+<div class="about-card" style="max-width:480px;margin:var(--space-5) 0">
+  <h4>Find me</h4>
+  <div class="links">
     {{ partial "github.html" . }}
     {{ partial "linkedin.html" . }}
-    {{ partial "buy-me-coffee.html" . }}
     {{ partial "threads.html" . }}
+  </div>
+  {{ partial "buy-me-coffee.html" . }}
 </div>

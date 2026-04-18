@@ -1,35 +1,35 @@
-{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
-{{ if $featured_image }}
-  {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-  <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
-    <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-60" }}">
-      {{ partial "site-navigation.html" .}}
-      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
-          {{ .Title | default .Site.Title }}
-        </h1>
-        {{ with .Params.description }}
-          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
-            {{ . }}
-          </h2>
-        {{ end }}
+{{ $currentPage := . }}
+<nav class="nav-shell">
+  <div class="container">
+    <div class="nav-inner">
+      <a href="{{ .Site.Home.RelPermalink }}" class="nav-brand">
+        <span class="monogram">L</span>
+        <span>Lucas Aguiar</span>
+      </a>
+
+      <div class="nav-right">
+        <div class="nav-links">
+          <a href="/posts/"{{ if eq .Section "posts" }} class="active"{{ end }}>Blog</a>
+          <a href="/about/"{{ if eq .RelPermalink "/about/" }} class="active"{{ end }}>About</a>
+          <a href="/contact/"{{ if eq .RelPermalink "/contact/" }} class="active"{{ end }}>Contact</a>
+        </div>
+        <div class="nav-ctrls">
+          <button class="theme-toggle" id="theme-toggle-btn" aria-label="Toggle dark mode" title="Toggle dark mode">
+            {{/* Icon injected by theme-toggle.js */}}
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          </button>
+          <button class="nav-menu-btn" id="nav-menu-btn" aria-label="Open menu">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h18M3 6h18M3 18h18"/></svg>
+          </button>
+        </div>
       </div>
     </div>
-  </header>
-{{ else }}
-  <header>
-    <div class="pb3-m pb6-l {{ .Site.Params.background_color_class | default "bg-black" }}">
-      {{ partial "site-navigation.html" . }}
-      <div class="tc-l pv3 ph3 ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
-          {{ .Title | default .Site.Title }}
-        </h1>
-        {{ with .Params.description }}
-          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-            {{ . }}
-          </h2>
-        {{ end }}
-      </div>
+
+    {{/* Mobile nav */}}
+    <div class="nav-mobile" id="nav-mobile">
+      <a href="/posts/"{{ if eq .Section "posts" }} style="color:var(--fg)"{{ end }}>Blog</a>
+      <a href="/about/"{{ if eq .RelPermalink "/about/" }} style="color:var(--fg)"{{ end }}>About</a>
+      <a href="/contact/"{{ if eq .RelPermalink "/contact/" }} style="color:var(--fg)"{{ end }}>Contact</a>
     </div>
-  </header>
-{{ end }}
+  </div>
+</nav>

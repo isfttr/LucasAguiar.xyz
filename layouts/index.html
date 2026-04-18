@@ -1,59 +1,147 @@
 {{ define "main" }}
-<article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param " text_color" | default "mid-gray"
-  }}">
-  {{ .Content }}
-</article>
-{{ partial "buy-me-coffee.html" . }}
-{{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of
-pages. */}}
-{{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
-{{/* Create a variable with that section to use in multiple places. */}}
-{{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-{{/* Check to see if the section is defined for ranging through it */}}
-{{ $section_count := len $section }}
-{{ if ge $section_count 1 }}
-{{/* Derive the section name */}}
-{{ $section_name := index (.Site.Params.mainSections) 0 }}
+{{ $mainSections := .Site.Params.mainSections | default (slice "posts") }}
+{{ $posts := where .Site.RegularPages "Section" "in" $mainSections }}
+{{ $featured := index $posts 0 }}
+{{ $recent := after 1 (first 4 $posts) }}
 
-<div class="pa3 pa4-ns w-100 w-70-ns center">
-  {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
-  {{ with .Site.GetPage "section" $section_name }}
-  <h1 class="flex-none">
-    {{ $.Param "recent_copy" | default (i18n "recentTitle" .) }}
-  </h1>
-  {{ end }}
-
-  {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
-
-  <section class="w-100 mw8">
-    {{/* Range through the first $n_posts items of the section */}}
-    {{ range (first $n_posts $section) }}
-    <div class="relative w-100 mb4">
-      {{ .Render "summary-with-image" }}
+{{/* ── Hero ── */}}
+<section class="ed-hero">
+  <div class="container">
+    <div class="ed-hero-grid">
+      <div>
+        <div class="ed-hero-eyebrow fade-up">Essays · Notes · Research</div>
+        <h1 class="fade-up delay-1">
+          A journal on <em>chemistry</em>,<br>
+          intellectual property,<br>
+          and the craft of <em>building</em>.
+        </h1>
+        <div class="ed-hero-meta fade-up delay-2">
+          <div>Written by<strong>Lucas F. Aguiar</strong></div>
+          <div>Based in<strong>Brasília, Brazil</strong></div>
+          <div>Essays<strong>{{ len $posts }}</strong></div>
+        </div>
+      </div>
+      <div class="ed-hero-aside fade-up delay-2">
+        <span class="quote-mark">"</span>
+        The best way I know to understand something is to try to explain it — to students, to clients, to myself, six months later.
+      </div>
     </div>
-    {{ end }}
-  </section>
+  </div>
+</section>
 
-  {{ if ge $section_count (add $n_posts 1) }}
-  <section class="w-100">
-    <h1 class="f3">{{ i18n "more" }}</h1>
-    {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first"
-    on the outside */}}
-    {{ range (first 4 (after $n_posts $section)) }}
-    <h2 class="f5 fw4 mb4 dib {{ cond (eq $.Site.Language.LanguageDirection " rtl") "ml3" "mr3" }}">
-      <a href="{{ .RelPermalink }}" class="link black dim">
-        {{ .Title }}
+{{/* ── Featured post ── */}}
+{{ with $featured }}
+<section class="ed-featured">
+  <div class="container">
+    <div class="ed-featured-label">
+      <span class="mono-label">The Lead Essay</span>
+      <hr>
+      <span class="mono-label">№ 001</span>
+    </div>
+    <div class="ed-featured-grid">
+      <a href="{{ .RelPermalink }}" class="ed-featured-img">
+        {{ with .Params.featured_image }}
+          <img src="{{ . }}" alt="{{ $.Title }}">
+        {{ else }}
+          <div class="img-placeholder">Featured illustration</div>
+        {{ end }}
       </a>
-    </h2>
-    {{ end }}
-
-    {{/* As above, Use $section_name to get the section title, and URL. Use "with" to only show it if it exists */}}
-    {{ with .Site.GetPage "section" $section_name }}
-    <a href="{{ .RelPermalink }}" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">{{ i18n "allTitle" . }}</a>
-    {{ end }}
-  </section>
-  {{ end }}
-
-</div>
+      <div>
+        {{ with .Params.categories }}<div class="ed-featured-cat">{{ index . 0 }}</div>{{ end }}
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p>{{ .Summary | truncate 200 }}</p>
+        <div class="ed-byline">
+          <span>{{ .Site.Params.author | default "Lucas Aguiar" }}</span>
+          <span class="dot"></span>
+          <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+          {{ if .ReadingTime }}<span class="dot"></span><span>{{ .ReadingTime }} min read</span>{{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 {{ end }}
+
+{{/* ── Recent posts grid ── */}}
+{{ if $recent }}
+<section class="ed-grid">
+  <div class="container">
+    <div class="ed-grid-head">
+      <h2>Recent writing</h2>
+      <a href="/posts/" class="btn-link">All essays</a>
+    </div>
+    <div class="ed-grid-posts">
+      {{ range $i, $p := $recent }}
+      <article class="ed-post reveal" onclick="window.location='{{ $p.RelPermalink }}'">
+        <div class="ed-post-num">№ {{ printf "%03d" (add $i 2) }}</div>
+        {{ with $p.Params.categories }}<div class="ed-post-cat">{{ index . 0 }}</div>{{ end }}
+        <h3><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h3>
+        <p>{{ $p.Summary | truncate 120 }}</p>
+        <div class="ed-post-meta">{{ $p.Date.Format "Jan 2, 2006" }}{{ if $p.ReadingTime }} · {{ $p.ReadingTime }} min{{ end }}</div>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{/* ── Pull quote ── */}}
+<section class="ed-pull reveal">
+  <div class="container">
+    <blockquote>
+      "Patents are the technical literature of the future. To draft one well is to <em>commit a possibility</em> to record."
+    </blockquote>
+    <cite>From the about page</cite>
+  </div>
+</section>
+
+{{/* ── What I work on ── */}}
+<section class="ed-work reveal">
+  <div class="container">
+    <div class="ed-work-head">
+      <h2>What I work on</h2>
+      <span class="mono-label">Four practice areas</span>
+    </div>
+    <div class="ed-work-grid">
+      <div class="ed-work-item">
+        <span class="num">01</span>
+        <h3>Patent Prosecution</h3>
+        <p>Drafting and prosecuting applications in chemistry and materials science.</p>
+      </div>
+      <div class="ed-work-item">
+        <span class="num">02</span>
+        <h3>IP Consulting</h3>
+        <p>Strategy, patentability assessments, and commercialization pathways.</p>
+      </div>
+      <div class="ed-work-item">
+        <span class="num">03</span>
+        <h3>Perovskite Research</h3>
+        <p>PhD work on perovskite-based photovoltaics and stability at UnB.</p>
+      </div>
+      <div class="ed-work-item">
+        <span class="num">04</span>
+        <h3>Writing &amp; Teaching</h3>
+        <p>Essays, guest lectures, and mentoring early-career researchers.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{/* ── Newsletter / contact CTA ── */}}
+<section class="ed-newsletter reveal">
+  <div class="container">
+    <div class="ed-newsletter-inner">
+      <div>
+        <h2>Get in touch.</h2>
+        <p>Whether it's a patent question, a speaking invitation, or just a note — I read everything and respond to most within a few days.</p>
+      </div>
+      <div>
+        <a href="/contact/" class="btn btn-primary">Start a conversation →</a>
+        <div class="ed-form-note" style="margin-top:16px">Patent drafting · IP strategy · Collaboration</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ partial "buy-me-coffee.html" . }}
 {{ end }}

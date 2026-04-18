@@ -1,55 +1,27 @@
-{{ $.Scratch.Add "labelClasses" "f6 b db mb1 mt3 sans-serif mid-gray" }}
-{{ $.Scratch.Add "inputClasses" "w-100 f5 pv3 ph3 bg-light-gray bn" }}
-
 <form action="https://formspree.io/f/xgeglgop" method="POST">
-  <label>
-    <input type="email" name="email" placeholder="Your e-mail address">
-  </label>
-  <hr>
-  <label>
-    <textarea rows="10" cols="50" name="message" placeholder="Type your message here..."></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <div class="form-row">
+    <label for="fc-name">Your name</label>
+    <input type="text" id="fc-name" name="name" required placeholder="Lucas Silva">
+  </div>
+  <div class="form-row">
+    <label for="fc-email">Your email</label>
+    <input type="email" id="fc-email" name="email" required placeholder="you@domain.com">
+  </div>
+  <div class="form-row">
+    <label for="fc-subject">About</label>
+    <select id="fc-subject" name="subject">
+      <option>IP consulting</option>
+      <option>Patent drafting</option>
+      <option>Research collaboration</option>
+      <option>Speaking / teaching</option>
+      <option>Just saying hi</option>
+    </select>
+  </div>
+  <div class="form-row">
+    <label for="fc-message">Your message</label>
+    <textarea id="fc-message" name="message" required placeholder="Keep it short if you can — I read everything."></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center;margin-top:8px">
+    Send message →
+  </button>
 </form>
-
-<style>
-  /* Some nice boilerplate CSS to tidy up your form */
-  form {
-    display: block;
-    /* grid-template-columns: max-content 1fr; */
-    grid-gap: 10rem;
-    /* Keep grid-gap for spacing */
-    text-align: center;
-    padding: 2rem 0;
-    margin: 0;
-  }
-
-  form label {
-    display: contents;
-  }
-
-  form input[type="email"],
-  form textarea {
-    width: 100%;
-  }
-
-  form button {
-    font-family: inherit;
-    font-size: inherit;
-    border: 1px solid currentColor;
-    background: none;
-    padding: 0.5rem 0.5rem;
-    border-radius: 10px;
-  }
-
-  form textarea {
-    resize: vertical;
-  }
-
-  form button {
-    justify-self: center;
-    border-radius: 10px;
-  }
-</style>

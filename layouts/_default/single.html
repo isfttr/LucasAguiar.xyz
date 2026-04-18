@@ -1,77 +1,73 @@
-{{ define "header" }}
-{{/* We can override any block in the baseof file be defining it in the template */}}
-{{ partial "page-header.html" . }}
-{{ end }}
-
 {{ define "main" }}
 {{ $section := .Site.GetPage "section" .Section }}
-<article class="flex-l flex-wrap justify-between mw8 center ph3">
-  <header class="mt4 w-100">
-    <aside class="instapaper_ignoref b helvetica tracked ttu">
-      {{/*
-      CurrentSection allows us to use the section title instead of inferring from the folder.
-      https://gohugo.io/variables/page/#section-variables-and-methods
-      */}}
-      {{ .CurrentSection.Title }}
-    </aside>
 
-    <h1 class="f1 athelas mt3 mb1">
-      {{- .Title -}}
-    </h1>
-    {{ with .Params.author | default .Site.Params.author }}
-    <p class="tracked">
-      {{ $.Render "by" }} <strong>
-        {{- if reflect.IsSlice . -}}
-        {{ delimit . ", " | markdownify }}
-        {{- else -}}
-        {{ . | markdownify }}
-        {{- end -}}
-      </strong>
-    </p>
-    {{ end }}
-    {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
-    {{ if not .Date.IsZero }}
-    <time class="f6 mv4 dib tracked" {{ printf `datetime="%s" ` (.Date.Format "2006-01-02T15:04:05Z07:00" ) |
-      safeHTMLAttr }}>
-      {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
-    </time>
-    {{end}}
+<div class="post-wrap">
 
-    {{/*
-    Show "reading time" and "word count" but only if one of the following are true:
-    1) A global config `params` value is set `show_reading_time = true`
-    2) A section front matter value is set `show_reading_time = true`
-    3) A page front matter value is set `show_reading_time = true`
-    */}}
-    {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
-    <span class="f6 mv4 dib tracked"> - {{ i18n "readingTime" .ReadingTime }} </span>
-    <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
-    {{ end }}
-  </header>
-  <div class="flex-l mw8 center">
-    <article class="cf ph3 ph4-ns mw7">
-      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param " text_color" | default "mid-gray" }}"
-        style="text-align: left;">
-        {{ .Content }}
-        <hr>
-        {{/* Related posts */}}
-        {{- partial "related-posts.html" . -}}
-        {{/* Tags */}}
-        {{- partial "tags.html" . -}}
-        {{/* Buy me a coffee */}}
-        {{- partial "buy-me-coffee.html" . -}}
-        {{/* Social share */}}
-        {{- partial "social-share.html" . -}}
-        {{/* Contact form */}}
-        {{- partial "form-contact.html" . -}}
+  {{/* Back link */}}
+  <div class="container">
+    <a href="{{ with $section }}{{ .RelPermalink }}{{ else }}/posts/{{ end }}" class="post-back">
+      ← All essays
+    </a>
+  </div>
 
+  {{/* Post header */}}
+  <div class="post-header container">
+    {{ with .Params.categories }}<div class="cat">{{ index . 0 }}</div>{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="lead">{{ . }}</p>{{ else }}{{ with .Summary }}<p class="lead">{{ . | truncate 200 }}</p>{{ end }}{{ end }}
+  </div>
+
+  {{/* Meta bar */}}
+  <div class="container">
+    <div class="post-meta">
+      <div class="author">
+        <div class="avatar"></div>
+        {{ .Site.Params.author | default "Lucas Aguiar" }}
       </div>
-    </article>
+      {{ if not .Date.IsZero }}<span>{{ .Date.Format "January 2, 2006" }}</span>{{ end }}
+      {{ if .ReadingTime }}<span>{{ .ReadingTime }} MIN READ</span>{{ end }}
+    </div>
   </div>
 
-  <div class="flex-l mt2 mw8 center">
-
-
+  {{/* Cover image */}}
+  {{ with .Params.featured_image }}
+  <div class="container">
+    <div class="post-cover">
+      <img src="{{ . }}" alt="{{ $.Title }}">
+    </div>
   </div>
-</article>
+  {{ end }}
+
+  {{/* Body */}}
+  <article class="post-body container">
+    {{ .Content }}
+  </article>
+
+  {{/* Tags */}}
+  {{ with .Params.tags }}
+  <div class="post-tags container">
+    {{ range . }}<span class="post-tag">#{{ . }}</span>{{ end }}
+  </div>
+  {{ end }}
+
+  {{/* Extras: related posts, buy me a coffee, contact form */}}
+  <div class="post-extras">
+    {{- partial "related-posts.html" . -}}
+    {{- partial "buy-me-coffee.html" . -}}
+    {{- partial "form-contact.html" . -}}
+  </div>
+
+  {{/* Prev / Next */}}
+  <div class="container">
+    <div class="post-footer">
+      {{ with .PrevInSection }}
+        <a href="{{ .RelPermalink }}">← {{ .Title | truncate 45 }}</a>
+      {{ else }}<span></span>{{ end }}
+      {{ with .NextInSection }}
+        <a href="{{ .RelPermalink }}">{{ .Title | truncate 45 }} →</a>
+      {{ else }}<span></span>{{ end }}
+    </div>
+  </div>
+
+</div>
 {{ end }}
