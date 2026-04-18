@@ -1,40 +1,68 @@
 {{ define "main" }}
-<article class="flex-l mw9 center ph3-l" style="position: relative; z-index: 2;">
-    <!-- TOC Section - Left Column -->
-    <aside class="w-20-l w-100 pr3-l order-1 toc-card">
-        <div class="bg-white pa3 br2 shadow-4 sticky top-2">
-            <h3 class="mt0 mb3">Contents</h3>
-            {{ .TableOfContents }}
-        </div>
-    </aside>
-
-    <!-- Main Content - Center Column -->
-    <div class="w-55-l w-100 ph3-l order-2 nested-copy-line-height lh-copy">
-        <div class="mw7 center">
-            {{ .Content }}
-        </div>
+{{/* ── Page header ── */}}
+<section class="page-head">
+  <div class="container">
+    <div class="page-head-grid">
+      <div>
+        <div class="page-head-eyebrow">About</div>
+        <h1>Patent prosecutor,<br>IP consultant,<br>researcher.</h1>
+      </div>
+      <p>I'm a Brazilian chemist specialized in intellectual property. I work at the Ministry of Health as a technical consultant and pursue a PhD at UnB on perovskite photovoltaics.</p>
     </div>
+  </div>
+</section>
 
-    <!-- Profile Section - Right Column -->
-    <aside class="w-25-l w-100 pl3-l order-3">
-        <div class="profile-card sticky top-2 bg-white pa3 br2 shadow-4">
-            <div class="circle-mask mb3">
-                <img src="https://lucasaguiarxyzstorage.blob.core.windows.net/images/lucas-perfil-2022.jpg"
-                    alt="Lucas Aguiar" class="w-100">
-            </div>
-            <div class="social-links flex flex-column">
-                <a href="https://github.com/isfttr" class="link black hover-blue dib mv2" target="_blank"><i
-                        class="fab fa-github mr2"></i>GitHub</a>
-                <a href="https://linkedin.com/in/lucas-fernandes-aguiar" class="link black hover-blue dib mv2"
-                    target="_blank"><i class="fab fa-linkedin mr2"></i>LinkedIn</a>
-                <a href="https://buymeacoffee.com/lucasaguiar" class="link black hover-blue dib mv2" target="_blank"><i
-                        class="fa-solid fa-coffee mr2"></i>Buy
-                    Me a Coffee</a>
-            </div>
-            <p class="mt3">Hi, my name is Lucas Fernandes Aguiar, brazilian chemist, specialized in
-                intellectual property, currently working at Ministério da Saúde (MS) and as
-                a PhD student at the Ceramic Materials and Nanotechnology Laboratory (LMCNano/FT/UnB).</p>
+{{/* ── 3-column layout ── */}}
+<section class="about-wrap">
+  <div class="container">
+    <div class="about-grid">
+
+      {{/* Left: TOC */}}
+      <aside class="about-toc">
+        <h4>Contents</h4>
+        {{ .TableOfContents }}
+      </aside>
+
+      {{/* Center: content from markdown — kept as-is per user request */}}
+      <div class="about-content">
+        {{ .Content }}
+      </div>
+
+      {{/* Right: profile sidebar */}}
+      <aside class="about-side">
+        <div class="about-portrait">
+          <img src="https://lucasaguiarxyzstorage.blob.core.windows.net/images/lucas-perfil-2022.jpg" alt="Lucas Aguiar">
         </div>
-    </aside>
-</article>
+
+        <div class="about-card">
+          <h4>Find me</h4>
+          <div class="links">
+            {{ range .Site.Params.ananke_socials }}
+            <a href="{{ .url }}" target="_blank" rel="noopener">
+              <span class="glyph">{{ upper (substr .name 0 2) }}</span>{{ .label }}
+            </a>
+            {{ end }}
+            <a href="/contact/">
+              <span class="glyph">@</span>contact@lucasaguiar.xyz
+            </a>
+            <a href="https://buymeacoffee.com/lucasaguiar" target="_blank" rel="noopener">
+              <span class="glyph">☕</span>Buy Me a Coffee
+            </a>
+          </div>
+        </div>
+
+        <div class="about-card">
+          <h4>Consulting</h4>
+          <p style="font-size:14px;color:var(--fg-muted);line-height:1.55;margin-bottom:12px">Available for patent drafting, IP strategy, and FTO analyses.</p>
+          <a href="/contact/" class="btn btn-primary" style="width:100%;justify-content:center;display:inline-flex">Get in touch →</a>
+        </div>
+
+        <div class="about-bmc">
+          {{ partial "buy-me-coffee.html" . }}
+        </div>
+      </aside>
+
+    </div>
+  </div>
+</section>
 {{ end }}

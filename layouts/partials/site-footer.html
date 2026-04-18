@@ -1,14 +1,67 @@
-<footer class="{{ .Site.Params.background_color_class | default " bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between items-center">
-    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}">
-      &copy; Lucas Fernandes Aguiar 2023 - {{ now.Format "2006"}}. All rights reserved.
-    </a>
-    <div class="flex items-center">
-      {{ partial "privacy-policy.html" . }}
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <div class="footer-brand-name">Lucas Aguiar</div>
+        <p class="footer-brand-desc">Patent prosecutor and researcher. Writing about intellectual property, chemistry, and how I use AI to work smarter.</p>
+        <div class="footer-socials">
+          {{ range .Site.Params.ananke_socials }}
+            {{ if eq .name "github" }}
+              <a href="{{ .url }}" target="_blank" rel="noopener" aria-label="GitHub">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
+              </a>
+            {{ end }}
+            {{ if eq .name "linkedin" }}
+              <a href="{{ .url }}" target="_blank" rel="noopener" aria-label="LinkedIn">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+              </a>
+            {{ end }}
+            {{ if eq .name "threads" }}
+              <a href="{{ .url }}" target="_blank" rel="noopener" aria-label="Threads">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M19 7.5c-1.333-3-3.667-4.5-7-4.5C7.5 3 4 6.5 4 12s3.5 9 8 9c3 0 5.5-1 7-4"/><path d="M15 11c-.667-2-2-3-4-3s-3.5 1.5-3.5 4 1.5 4 3.5 4c1.5 0 2.5-.5 3-1.5"/></svg>
+              </a>
+            {{ end }}
+          {{ end }}
+          <a href="/contact/" aria-label="Email">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 5L2 7"/></svg>
+          </a>
+          {{ if .OutputFormats.Get "RSS" }}
+          <a href="{{ (.OutputFormats.Get "RSS").RelPermalink }}" aria-label="RSS feed">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/></svg>
+          </a>
+          {{ end }}
+        </div>
+      </div>
+
+      <div class="footer-col">
+        <h4>Site</h4>
+        <a href="{{ .Site.Home.RelPermalink }}">Home</a>
+        <a href="/posts/">Blog</a>
+        <a href="/about/">About</a>
+        <a href="/contact/">Contact</a>
+      </div>
+
+      <div class="footer-col">
+        <h4>Practice</h4>
+        <a href="/about/">Patent Prosecution</a>
+        <a href="/about/">IP Consulting</a>
+        <a href="/about/">Research</a>
+        <a href="/about/">PhD Work</a>
+      </div>
+
+      <div class="footer-col">
+        <h4>Elsewhere</h4>
+        {{ range .Site.Params.ananke_socials }}
+          <a href="{{ .url }}" target="_blank" rel="noopener">{{ .label }}</a>
+        {{ end }}
+        <a href="http://lattes.cnpq.br" target="_blank" rel="noopener">Lattes CV</a>
+        {{ partial "privacy-policy.html" . }}
+      </div>
     </div>
-    <div class="flex items-center">
-      {{ partial "repo-version.html" . }}
-      <div class="ml3">{{ partial "social-follow.html" . }}</div>
+
+    <div class="footer-bottom">
+      <span>&copy; {{ now.Format "2006" }} Lucas Fernandes Aguiar. All rights reserved.</span>
+      <span>Brasília, Brazil</span>
     </div>
   </div>
 </footer>

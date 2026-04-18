@@ -1,9 +1,2 @@
-{{ with partialCached "func/style/GetMainCSS" "style/GetMainCSS" }}
-<link rel="stylesheet" href="{{ .RelPermalink }}" >
-{{ end }}
-
-{{ range site.Params.custom_css }}
-  {{ with partialCached "func/style/GetResource" . . }}{{ else }}
-    <link rel="stylesheet" href="{{ relURL (.) }}">
-  {{ end }}
-{{ end }}
+{{ $css := resources.Get "css/main.css" | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">

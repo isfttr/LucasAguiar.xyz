@@ -1,15 +1,71 @@
 {{ define "main" }}
-  <article class="pa3 pa4-ns nested-copy-line-height">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
-      {{- .Content -}}
-    </section>
-    <section class="flex-ns flex-wrap justify-around mt5">
-      {{ range .Paginator.Pages }}
-        <div class="relative w-100 w-30-l mb4 bg-white">
-          {{ .Render "summary" }}
+{{ $allPosts := .Pages }}
+
+{{/* ── Page header ── */}}
+<section class="page-head">
+  <div class="container">
+    <div class="page-head-grid">
+      <div>
+        <div class="page-head-eyebrow">Writing</div>
+        <h1>{{ .Title | default "The blog." }}</h1>
+      </div>
+      <p>{{ with .Description }}{{ . }}{{ else }}Essays and notes on chemistry, patents, AI tooling, and the craft of deep work. Not on a schedule — just when something is worth writing down.{{ end }}</p>
+    </div>
+  </div>
+</section>
+
+{{/* ── Blog list ── */}}
+<section class="blog-wrap">
+  <div class="container">
+
+    {{/* Toolbar */}}
+    <div class="blog-toolbar">
+      <div class="count">
+        <span class="blog-count">{{ len $allPosts }}</span> essays
+        <strong id="active-tag-label"></strong>
+      </div>
+      <div class="blog-tags">
+        <button class="blog-tag-btn active" data-filter="all">all</button>
+        {{ $tags := slice }}
+        {{ range $allPosts }}
+          {{ range .Params.tags }}
+            {{ $tags = $tags | append . }}
+          {{ end }}
+        {{ end }}
+        {{ range ($tags | uniq) }}
+        <button class="blog-tag-btn" data-filter="{{ . | lower }}">{{ . | lower }}</button>
+        {{ end }}
+      </div>
+    </div>
+
+    {{/* Entry list */}}
+    <div class="blog-list">
+      {{ range $allPosts }}
+      <article class="blog-entry"
+        data-tag="{{ with .Params.tags }}{{ index . 0 | lower }}{{ end }}"
+        onclick="window.location='{{ .RelPermalink }}'">
+        <div class="blog-entry-date">
+          {{ .Date.Format "Jan 02" }}
+          <span class="year">{{ .Date.Format "2006" }}</span>
         </div>
+        <div>
+          {{ with .Params.categories }}<div class="blog-entry-cat">{{ index . 0 }}</div>{{ end }}
+          <h2 class="blog-entry-title">{{ .Title }}</h2>
+          <p class="blog-entry-excerpt">{{ .Summary | truncate 160 }}</p>
+        </div>
+        <div class="blog-entry-meta">
+          {{ if .ReadingTime }}{{ .ReadingTime }} MIN{{ end }}
+          {{ with .Params.tags }}<br>#{{ index . 0 | lower }}{{ end }}
+        </div>
+      </article>
       {{ end }}
-    </section>
-    {{- template "_internal/pagination.html" . -}}
-  </article>
+    </div>
+
+
+</div>
+</section>
+
+{{/* Tag filter JS */}}
+{{ $js := resources.Get "js/tag-filter.js" | fingerprint }}
+<script src="{{ $js.RelPermalink }}" defer></script>
 {{ end }}

@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section class="page-head">
+  <div class="container">
+    <div class="page-head-grid">
+      <div>
+        <div class="page-head-eyebrow">Legal</div>
+        <h1>Privacy.</h1>
+      </div>
+      <p>How I handle data on this site. Short, honest version first — full version below.</p>
+    </div>
+  </div>
+</section>
+
+<section class="privacy-wrap">
+  <div class="container">
+    <div class="privacy-grid">
+      <aside class="privacy-toc">
+        <h4>Sections</h4>
+        {{ .TableOfContents }}
+      </aside>
+      <div class="privacy-content">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
