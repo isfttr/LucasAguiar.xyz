@@ -7,84 +7,83 @@ toc: true
 layout: "about"
 ---
 
-# Patent Prosecutor, IP Consultant, and Researcher {.athelas}
+# Chemist (MSc.) {.athelas}
 
-Hi, I'm Lucas Fernandes Aguiar, a Brazilian chemist specialized in intellectual property. I currently work at Ministério da Saúde (MS) as a technical consultant at the General Coordination for the Promotion and Regulation of the Health Industrial Complex (CGPR/DECEIIS/SECTICS/MS) and pursue my PhD in Chemistry at the Ceramic Materials and Nanotechnology Laboratory (LMCNano/FT/UnB).
-
-With a strong foundation in chemistry and a passion for innovation, I help researchers and organizations protect their inventions and navigate the complex world of intellectual property.
+I'm Lucas Fernandes Aguiar, a Brazilian chemist specialized in intellectual property. I work as a IP consultant at the Ministry of Health - regulation and promotion of the brazilian health industrial complex and pursue my PhD in Chemistry at Universidade de Brasília (UnB).
 
 ## Expertise
 
 * **Patent Prosecution:** Drafting and prosecuting patent applications in chemistry, materials science, and related fields.
-* **Intellectual Property Consulting:** Providing expert advice on IP strategy, patentability assessments, and technology commercialization.
-* **Perovskite Solar Cells:** Extensive knowledge and research experience in perovskite solar cell technology.
-* **Pharmaceuticals:** freedom-to-operate (FTO) analysis, technological landscape monitoring
-* **Direct-Air Capture:** Researching gas separation membranes for direct-air capture in partnership with companies like Petronas and Repsol.
+* **IP Consulting:** IP strategy, patentability assessments, and technology commercialization.
+* **Pharmaceuticals:** Freedom-to-operate (FTO) analysis and technological landscape monitoring.
+* **Direct-Air Capture:** Gas separation membranes research in partnership with Petronas and Repsol.
+* **Perovskite Solar Cells:** Research and development in perovskite-based photovoltaics.
 
 ## Skills
 
-* **Intellectual Property:** Patent drafting and prosecution, IP strategy, technology commercialization, patentability assessments, IP consulting.
-* **Scientific Research:** Chemistry, materials science, biochemistry, biotechnology, perovskite solar cells, direct-air capture, gas separation membranes.
-* **Technical Skills:** Data analysis, visualization and monitoring (Excel, Python, R, SQL, pandas, streamlit, flask, fastapi), artificial intelligence (TensorFlow, PyTorch, scikit-learn), experimental design, Linux (Ubuntu, Debian), Microsoft Power Platform (Power BI, Power Automate, Power Apps, Power Query), Cloud services (Azure, AWS, GCP, virtualization, networking, storage, containerization, automation).
-* **People Skills:** Communication, negotiation, problem-solving, leadership, teamwork, teaching, public speaking.
+* **Intellectual Property:** Patent drafting and prosecution, IP strategy, patentability assessments, FTO analysis.
+* **Scientific Research:** Chemistry, materials science, biochemistry, biotechnology.
+* **Technical:** Python, R, SQL, pandas, Flask, FastAPI, Streamlit, TensorFlow, PyTorch, scikit-learn, Power BI, Power Automate, Azure, AWS, GCP, Linux (Ubuntu/Debian).
+* **Soft Skills:** Communication, negotiation, leadership, public speaking, teaching.
 
 ## Experience
 
-I hold a Bachelor's degree in Chemistry from Universidade Federal de Goiás (UFG), where I researched solar cells and photoluminescent chemical compounds. In 2019, I earned my Master's degree in Chemistry at UFG, focusing on perovskite solar cells and intellectual property. I also contributed to the first Specialization program in Intellectual Property at UFG, led by Professor Tatiana Martins.
-
-Before joining UnB, I worked remotely at Lummiê Propriedade Industrial, gaining valuable experience in patent writing and prosecution. I honed my skills in evaluating documents, drafting technical reports, and providing expert support for judicial litigation in chemistry and materials science.
-
-### Work Experience
-
-#### CGPR/DECEIIS/SECTICS - Coordenação-Geral para Promoção e Regulação do Complexo Industrial
+### CGPR/DECIS/SCTIE/MS
 
 *Since February 2025*
 
-Consultant in intellectual property, analyzing requests related to Local Innovation Development Programs (PDIL) and Programs for Productive Development (PDP) linked to the Health Industrial Complex.
+IP consultant at the department responsible for the promotion and regulation the health industrial complex in Brazil. Engaged in topics such as FTO analysis for the PDP and PDIL programs, legislative analysis, patent ligigation support, among others.
 
-#### CGPP/DGAPS/SAPS - Coordenação-Geral para Provimento de Pessoal
+### CGPP/DGAPS/SAPS
 
-*During January 2025*
+*January 2025*
 
-Worked with the monitoring and information quality center of CGPP/DGAPS/SAPS, responsible for providing the Mais Médicos Program. Experience with data acquisition, processing and provision tools through automation and dashboards, mainly through the use of the Microsoft Power platform.
+Data acquisition, processing, and automation for the Mais Médicos Program using the Microsoft Power Platform.
 
-#### PhD Student at LMCNano/FT/UnB under Professor Alysson Martins
+### PhD Student — LMCNano/FT/UnB
 
 *Since March 2024*
 
-Research in the area of Direct-Air Capture, gas separation membranes in partnership with companies like Petronas and Repsol.
+Research in Direct-Air Capture and gas separation membranes in partnership with Petronas and Repsol, under Professor Alysson Martins.
 
-#### Visiting Professor at Universidade Federal de Goiás for the IP Specialization
+### Visiting Professor — Universidade Federal de Goiás
 
-*During 2023 and 2024*
+*2023 – 2024*
 
-Led classes on research grants, innovation legislation, and intellectual property awareness, including the Patent Cooperation Treaty (PCT) system.
+Taught research grants, innovation legislation, and PCT system for the IP Specialization program.
 
-#### Patent prosecutor and researcher at Universidade de Brasília (UnB)
+### Patent Prosecutor and Researcher — Universidade de Brasília (UnB)
 
-*June 2022 - December 2024*
+*June 2022 – December 2024*
 
-Crafted patent documents for inventions in chemistry, pharmaceutics, and materials science. Communicated scientific concepts to the Brazilian Patent Office (INPI).
+Drafted patent documents in chemistry, pharmaceutics, and materials science; liaised with the Brazilian Patent Office (INPI).
 
-#### Financial Analyst (Senior) at Perboni SA
+### Financial Analyst (Senior) — Perboni SA
 
-*August 2021- June 2022*
+*August 2021 – June 2022*
 
-Head of financial management at the Transportation subsidiary of Perboni SA, Central-Log DF.
+Head of financial management for the Transportation subsidiary Central-Log DF.
+
+### Patent Writer — Lummiê Propriedade Industrial
+
+*Remote*
+
+Patent writing and prosecution; evaluated documents, drafted technical reports, and supported judicial litigation in chemistry and materials science.
 
 ## Education
 
-* Ph.D. Student in Chemistry at Universidade de Brasília (2024-...)
-* Specialization Degree in Industrial Property in 2019 at UFG
-* Master of Science in Chemistry in 2019 at UFG
-* Bachelor Degree in Chemistry in 2017 at UFG
+* Ph.D. Student in Chemistry — Universidade de Brasília (2024–present)
+* Specialization in Industrial Property — Universidade Federal de Goiás (2019)
+* Master of Science in Chemistry — Universidade Federal de Goiás (2019) — *Focus: perovskite solar cells and intellectual property*
+* Bachelor of Science in Chemistry — Universidade Federal de Goiás (2017) — *Focus: solar cells and photoluminescent compounds*
 
 ## Certifications
 
-* DL-101 - WIPO in 2022
-* Microsoft Certified: Azure Fundamentals (AZ-900) in June 2023
+* Patent Law and Global Public Health (PatentX) — Harvard Law School (2026)
+* Microsoft Certified: Azure Fundamentals (AZ-900) — June 2023
+* DL-101 — WIPO (2022)
 
 ## Interests
 
-* Chemistry, materials science, biochemistry and biotechnology, engineering
-* Data, artificial intelligence, simulations, networks, homelabbing, Linux
+* Chemistry, materials science, biochemistry, biotechnology
+* Data science, artificial intelligence, simulations, networking, homelabbing, Linux

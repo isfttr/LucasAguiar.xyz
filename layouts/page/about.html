@@ -1,68 +1,96 @@
-{{ define "main" }}
-{{/* ── Page header ── */}}
+{{ define "main" }} {{/* ── Page header ── */}}
 <section class="page-head">
-  <div class="container">
-    <div class="page-head-grid">
-      <div>
-        <div class="page-head-eyebrow">About</div>
-        <h1>Patent prosecutor,<br>IP consultant,<br>researcher.</h1>
-      </div>
-      <p>I'm a Brazilian chemist specialized in intellectual property. I work at the Ministry of Health as a technical consultant and pursue a PhD at UnB on perovskite photovoltaics.</p>
+    <div class="container">
+        <div class="page-head-grid">
+            <div>
+                <div class="page-head-eyebrow">About</div>
+                <h1>Patent prosecutor,<br />IP consultant,<br />researcher.</h1>
+            </div>
+            <p>
+                Brazilian chemist specialized in intellectual property. IP
+                consultant at the Brazilian Ministry of Health and PhD student
+                at UnB.
+            </p>
+        </div>
     </div>
-  </div>
 </section>
 
 {{/* ── 3-column layout ── */}}
 <section class="about-wrap">
-  <div class="container">
-    <div class="about-grid">
+    <div class="container">
+        <div class="about-grid">
+            {{/* Left: TOC */}}
+            <aside class="about-toc">
+                <h4>Contents</h4>
+                {{ .TableOfContents }}
+            </aside>
 
-      {{/* Left: TOC */}}
-      <aside class="about-toc">
-        <h4>Contents</h4>
-        {{ .TableOfContents }}
-      </aside>
+            {{/* Center: content from markdown — kept as-is per user request
+            */}}
+            <div class="about-content">{{ .Content }}</div>
 
-      {{/* Center: content from markdown — kept as-is per user request */}}
-      <div class="about-content">
-        {{ .Content }}
-      </div>
+            {{/* Right: profile sidebar */}}
+            <aside class="about-side">
+                <div class="about-portrait">
+                    <img
+                        src="https://lucasaguiarxyzstorage.blob.core.windows.net/images/lucas-perfil-2022.jpg"
+                        alt="Lucas Aguiar"
+                    />
+                </div>
 
-      {{/* Right: profile sidebar */}}
-      <aside class="about-side">
-        <div class="about-portrait">
-          <img src="https://lucasaguiarxyzstorage.blob.core.windows.net/images/lucas-perfil-2022.jpg" alt="Lucas Aguiar">
+                <div class="about-card">
+                    <h4>Find me</h4>
+                    <div class="links">
+                        {{ range .Site.Params.ananke_socials }}
+                        <a href="{{ .url }}" target="_blank" rel="noopener">
+                            <span class="glyph"
+                                >{{ upper (substr .name 0 2) }}</span
+                            >{{ .label }}
+                        </a>
+                        {{ end }}
+                        <a href="/contact/">
+                            <span class="glyph">@</span>contact@lucasaguiar.xyz
+                        </a>
+                        <a
+                            href="https://buymeacoffee.com/lucasaguiar"
+                            target="_blank"
+                            rel="noopener"
+                        >
+                            <span class="glyph">☕</span>Buy Me a Coffee
+                        </a>
+                    </div>
+                </div>
+
+                <div class="about-card">
+                    <h4>Consulting</h4>
+                    <p
+                        style="
+                            font-size: 14px;
+                            color: var(--fg-muted);
+                            line-height: 1.55;
+                            margin-bottom: 12px;
+                        "
+                    >
+                        Available for patent drafting, IP strategy, and FTO
+                        analyses.
+                    </p>
+                    <a
+                        href="/contact/"
+                        class="btn btn-primary"
+                        style="
+                            width: 100%;
+                            justify-content: center;
+                            display: inline-flex;
+                        "
+                        >Get in touch →</a
+                    >
+                </div>
+
+                <div class="about-bmc">
+                    {{ partial "buy-me-coffee.html" . }}
+                </div>
+            </aside>
         </div>
-
-        <div class="about-card">
-          <h4>Find me</h4>
-          <div class="links">
-            {{ range .Site.Params.ananke_socials }}
-            <a href="{{ .url }}" target="_blank" rel="noopener">
-              <span class="glyph">{{ upper (substr .name 0 2) }}</span>{{ .label }}
-            </a>
-            {{ end }}
-            <a href="/contact/">
-              <span class="glyph">@</span>contact@lucasaguiar.xyz
-            </a>
-            <a href="https://buymeacoffee.com/lucasaguiar" target="_blank" rel="noopener">
-              <span class="glyph">☕</span>Buy Me a Coffee
-            </a>
-          </div>
-        </div>
-
-        <div class="about-card">
-          <h4>Consulting</h4>
-          <p style="font-size:14px;color:var(--fg-muted);line-height:1.55;margin-bottom:12px">Available for patent drafting, IP strategy, and FTO analyses.</p>
-          <a href="/contact/" class="btn btn-primary" style="width:100%;justify-content:center;display:inline-flex">Get in touch →</a>
-        </div>
-
-        <div class="about-bmc">
-          {{ partial "buy-me-coffee.html" . }}
-        </div>
-      </aside>
-
     </div>
-  </div>
 </section>
 {{ end }}

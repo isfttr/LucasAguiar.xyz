@@ -1,147 +1,176 @@
-{{ define "main" }}
-{{ $mainSections := .Site.Params.mainSections | default (slice "posts") }}
-{{ $posts := where .Site.RegularPages "Section" "in" $mainSections }}
-{{ $featured := index $posts 0 }}
-{{ $recent := after 1 (first 4 $posts) }}
-
-{{/* ── Hero ── */}}
+{{ define "main" }} {{ $mainSections := .Site.Params.mainSections | default
+(slice "posts") }} {{ $posts := where .Site.RegularPages "Section" "in"
+$mainSections }} {{ $featured := index $posts 0 }} {{ $recent := after 1 (first
+4 $posts) }} {{/* ── Hero ── */}}
 <section class="ed-hero">
-  <div class="container">
-    <div class="ed-hero-grid">
-      <div>
-        <div class="ed-hero-eyebrow fade-up">Essays · Notes · Research</div>
-        <h1 class="fade-up delay-1">
-          A journal on <em>chemistry</em>,<br>
-          intellectual property,<br>
-          and the craft of <em>building</em>.
-        </h1>
-        <div class="ed-hero-meta fade-up delay-2">
-          <div>Written by<strong>Lucas F. Aguiar</strong></div>
-          <div>Based in<strong>Brasília, Brazil</strong></div>
-          <div>Essays<strong>{{ len $posts }}</strong></div>
+    <div class="container">
+        <div class="ed-hero-grid">
+            <div>
+                <div class="ed-hero-eyebrow fade-up">
+                    Analysis · Strategy · Research
+                </div>
+                <h1 class="fade-up delay-1">
+                    A journal on <em>chemistry</em>,<br />
+                    intellectual property,<br />
+                    and the craft of <em>building</em>.
+                </h1>
+                <div class="ed-hero-meta fade-up delay-2">
+                    <div>Written by<strong>Lucas F. Aguiar</strong></div>
+                    <div>Based in<strong>Brasília, Brazil</strong></div>
+                    <div>Essays<strong>{{ len $posts }}</strong></div>
+                </div>
+            </div>
+            <div class="ed-hero-aside fade-up delay-2">
+                <span class="quote-mark">"</span>
+                The best way I know to understand something is to try to explain
+                it — to students, to clients, to myself, six months later.
+            </div>
         </div>
-      </div>
-      <div class="ed-hero-aside fade-up delay-2">
-        <span class="quote-mark">"</span>
-        The best way I know to understand something is to try to explain it — to students, to clients, to myself, six months later.
-      </div>
     </div>
-  </div>
 </section>
 
-{{/* ── Featured post ── */}}
-{{ with $featured }}
+{{/* ── Featured post ── */}} {{ with $featured }}
 <section class="ed-featured">
-  <div class="container">
-    <div class="ed-featured-label">
-      <span class="mono-label">The Lead Essay</span>
-      <hr>
-      <span class="mono-label">№ 001</span>
-    </div>
-    <div class="ed-featured-grid">
-      <a href="{{ .RelPermalink }}" class="ed-featured-img">
-        {{ with .Params.featured_image }}
-          <img src="{{ . }}" alt="{{ $.Title }}">
-        {{ else }}
-          <div class="img-placeholder">Featured illustration</div>
-        {{ end }}
-      </a>
-      <div>
-        {{ with .Params.categories }}<div class="ed-featured-cat">{{ index . 0 }}</div>{{ end }}
-        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        <p>{{ .Summary | truncate 200 }}</p>
-        <div class="ed-byline">
-          <span>{{ .Site.Params.author | default "Lucas Aguiar" }}</span>
-          <span class="dot"></span>
-          <span>{{ .Date.Format "Jan 2, 2006" }}</span>
-          {{ if .ReadingTime }}<span class="dot"></span><span>{{ .ReadingTime }} min read</span>{{ end }}
+    <div class="container">
+        <div class="ed-featured-label">
+            <span class="mono-label">The Lead Essay</span>
+            <hr />
+            <span class="mono-label">№ 001</span>
         </div>
-      </div>
+        <div class="ed-featured-grid">
+            <a href="{{ .RelPermalink }}" class="ed-featured-img">
+                {{ with .Params.featured_image }}
+                <img src="{{ . }}" alt="{{ $.Title }}" />
+                {{ else }}
+                <div class="img-placeholder">Featured illustration</div>
+                {{ end }}
+            </a>
+            <div>
+                {{ with .Params.categories }}
+                <div class="ed-featured-cat">{{ index . 0 }}</div>
+                {{ end }}
+                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                <p>{{ .Summary | truncate 200 }}</p>
+                <div class="ed-byline">
+                    <span
+                        >{{ .Site.Params.author | default "Lucas Aguiar"
+                        }}</span
+                    >
+                    <span class="dot"></span>
+                    <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+                    {{ if .ReadingTime }}<span class="dot"></span
+                    ><span>{{ .ReadingTime }} min read</span>{{ end }}
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
 </section>
-{{ end }}
-
-{{/* ── Recent posts grid ── */}}
-{{ if $recent }}
+{{ end }} {{/* ── Recent posts grid ── */}} {{ if $recent }}
 <section class="ed-grid">
-  <div class="container">
-    <div class="ed-grid-head">
-      <h2>Recent writing</h2>
-      <a href="/posts/" class="btn-link">All essays</a>
+    <div class="container">
+        <div class="ed-grid-head">
+            <h2>Recent writing</h2>
+            <a href="/posts/" class="btn-link">All essays</a>
+        </div>
+        <div class="ed-grid-posts">
+            {{ range $i, $p := $recent }}
+            <article
+                class="ed-post reveal"
+                onclick="window.location='{{ $p.RelPermalink }}'"
+            >
+                <div class="ed-post-num">№ {{ printf "%03d" (add $i 2) }}</div>
+                {{ with $p.Params.categories }}
+                <div class="ed-post-cat">{{ index . 0 }}</div>
+                {{ end }}
+                <h3><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h3>
+                <p>{{ $p.Summary | truncate 120 }}</p>
+                <div class="ed-post-meta">
+                    {{ $p.Date.Format "Jan 2, 2006" }}{{ if $p.ReadingTime }} ·
+                    {{ $p.ReadingTime }} min{{ end }}
+                </div>
+            </article>
+            {{ end }}
+        </div>
     </div>
-    <div class="ed-grid-posts">
-      {{ range $i, $p := $recent }}
-      <article class="ed-post reveal" onclick="window.location='{{ $p.RelPermalink }}'">
-        <div class="ed-post-num">№ {{ printf "%03d" (add $i 2) }}</div>
-        {{ with $p.Params.categories }}<div class="ed-post-cat">{{ index . 0 }}</div>{{ end }}
-        <h3><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h3>
-        <p>{{ $p.Summary | truncate 120 }}</p>
-        <div class="ed-post-meta">{{ $p.Date.Format "Jan 2, 2006" }}{{ if $p.ReadingTime }} · {{ $p.ReadingTime }} min{{ end }}</div>
-      </article>
-      {{ end }}
-    </div>
-  </div>
 </section>
-{{ end }}
-
-{{/* ── Pull quote ── */}}
+{{ end }} {{/* ── Pull quote ── */}}
 <section class="ed-pull reveal">
-  <div class="container">
-    <blockquote>
-      "Patents are the technical literature of the future. To draft one well is to <em>commit a possibility</em> to record."
-    </blockquote>
-    <cite>From the about page</cite>
-  </div>
+    <div class="container">
+        <blockquote>
+            "Patents are the technical literature of the future. To draft one
+            well is to <em>commit a possibility</em> to record."
+        </blockquote>
+        <cite>From the about page</cite>
+    </div>
 </section>
 
 {{/* ── What I work on ── */}}
 <section class="ed-work reveal">
-  <div class="container">
-    <div class="ed-work-head">
-      <h2>What I work on</h2>
-      <span class="mono-label">Four practice areas</span>
+    <div class="container">
+        <div class="ed-work-head">
+            <h2>What I work on</h2>
+            <span class="mono-label">Four practice areas</span>
+        </div>
+        <div class="ed-work-grid">
+            <div class="ed-work-item">
+                <span class="num">01</span>
+                <h3>Patent Prosecution</h3>
+                <p>
+                    Drafting and prosecuting applications in chemistry,
+                    materials science and pharmaceuticals.
+                </p>
+            </div>
+            <div class="ed-work-item">
+                <span class="num">02</span>
+                <h3>IP Consulting</h3>
+                <p>
+                    Strategy, patentability assessments, and commercialization
+                    pathways.
+                </p>
+            </div>
+            <div class="ed-work-item">
+                <span class="num">03</span>
+                <h3>Research and Development</h3>
+                <p>
+                    PhD work in topics around carbon capture, such as
+                    freeze-casting, dense membranes, and commercial systems at
+                    LMCNano/UnB.
+                </p>
+            </div>
+            <div class="ed-work-item">
+                <span class="num">04</span>
+                <h3>Writing &amp; Teaching</h3>
+                <p>
+                    Essays and guest lectures on innovation and IP education and
+                    strategies.
+                </p>
+            </div>
+        </div>
     </div>
-    <div class="ed-work-grid">
-      <div class="ed-work-item">
-        <span class="num">01</span>
-        <h3>Patent Prosecution</h3>
-        <p>Drafting and prosecuting applications in chemistry and materials science.</p>
-      </div>
-      <div class="ed-work-item">
-        <span class="num">02</span>
-        <h3>IP Consulting</h3>
-        <p>Strategy, patentability assessments, and commercialization pathways.</p>
-      </div>
-      <div class="ed-work-item">
-        <span class="num">03</span>
-        <h3>Perovskite Research</h3>
-        <p>PhD work on perovskite-based photovoltaics and stability at UnB.</p>
-      </div>
-      <div class="ed-work-item">
-        <span class="num">04</span>
-        <h3>Writing &amp; Teaching</h3>
-        <p>Essays, guest lectures, and mentoring early-career researchers.</p>
-      </div>
-    </div>
-  </div>
 </section>
 
 {{/* ── Newsletter / contact CTA ── */}}
 <section class="ed-newsletter reveal">
-  <div class="container">
-    <div class="ed-newsletter-inner">
-      <div>
-        <h2>Get in touch.</h2>
-        <p>Whether it's a patent question, a speaking invitation, or just a note — I read everything and respond to most within a few days.</p>
-      </div>
-      <div>
-        <a href="/contact/" class="btn btn-primary">Start a conversation →</a>
-        <div class="ed-form-note" style="margin-top:16px">Patent drafting · IP strategy · Collaboration</div>
-      </div>
+    <div class="container">
+        <div class="ed-newsletter-inner">
+            <div>
+                <h2>Get in touch.</h2>
+                <p>
+                    Whether it's a patent question, a speaking invitation, or
+                    just a note — I read everything and respond to most within a
+                    few days.
+                </p>
+            </div>
+            <div>
+                <a href="/contact/" class="btn btn-primary"
+                    >Start a conversation →</a
+                >
+                <div class="ed-form-note" style="margin-top: 16px">
+                    Patent drafting · IP strategy · Collaboration
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
 </section>
 
-{{ partial "buy-me-coffee.html" . }}
-{{ end }}
+{{ partial "buy-me-coffee.html" . }} {{ end }}
