@@ -1,0 +1,10 @@
+- id: blog
+  translation: Blog
+- id: about
+  translation: Sobre
+- id: contact
+  translation: Contato
+- id: read_more
+  translation: Leia mais
+- id: translations
+  translation: Traduções

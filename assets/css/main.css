@@ -194,6 +194,25 @@ a { color: inherit; text-decoration: none; }
 }
 .theme-toggle:hover { border-color: var(--fg); color: var(--fg); }
 
+.lang-toggle {
+  height: 32px;
+  padding: 0 8px;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: var(--fg-muted);
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.15s;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+.lang-toggle:hover { border-color: var(--fg); color: var(--fg); }
+
 /* Mobile nav */
 .nav-menu-btn {
   display: none;

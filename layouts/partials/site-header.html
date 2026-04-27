@@ -9,11 +9,23 @@
 
       <div class="nav-right">
         <div class="nav-links">
-          <a href="/posts/"{{ if eq .Section "posts" }} class="active"{{ end }}>Blog</a>
-          <a href="/about/"{{ if eq .RelPermalink "/about/" }} class="active"{{ end }}>About</a>
-          <a href="/contact/"{{ if eq .RelPermalink "/contact/" }} class="active"{{ end }}>Contact</a>
+          <a href="{{ relLangURL "posts/" }}"{{ if eq .Section "posts" }} class="active"{{ end }}>Blog</a>
+          <a href="{{ relLangURL "about/" }}"{{ if strings.HasSuffix .RelPermalink "about/" }} class="active"{{ end }}>{{ i18n "about" }}</a>
+          <a href="{{ relLangURL "contact/" }}"{{ if strings.HasSuffix .RelPermalink "contact/" }} class="active"{{ end }}>{{ i18n "contact" }}</a>
         </div>
         <div class="nav-ctrls">
+          {{/* Language switcher */}}
+          {{ if .IsTranslated }}
+            {{ range .Translations }}
+            <a href="{{ .RelPermalink }}" class="lang-toggle" title="{{ .Language.LanguageName }}">{{ upper .Lang }}</a>
+            {{ end }}
+          {{ else }}
+            {{ if eq .Site.Language.Lang "en" }}
+            <a href="/pt/" class="lang-toggle" title="Português">PT</a>
+            {{ else }}
+            <a href="/" class="lang-toggle" title="English">EN</a>
+            {{ end }}
+          {{ end }}
           <button class="theme-toggle" id="theme-toggle-btn" aria-label="Toggle dark mode" title="Toggle dark mode">
             {{/* Icon injected by theme-toggle.js */}}
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
@@ -27,9 +39,9 @@
 
     {{/* Mobile nav */}}
     <div class="nav-mobile" id="nav-mobile">
-      <a href="/posts/"{{ if eq .Section "posts" }} style="color:var(--fg)"{{ end }}>Blog</a>
-      <a href="/about/"{{ if eq .RelPermalink "/about/" }} style="color:var(--fg)"{{ end }}>About</a>
-      <a href="/contact/"{{ if eq .RelPermalink "/contact/" }} style="color:var(--fg)"{{ end }}>Contact</a>
+      <a href="{{ relLangURL "posts/" }}"{{ if eq .Section "posts" }} style="color:var(--fg)"{{ end }}>Blog</a>
+      <a href="{{ relLangURL "about/" }}"{{ if strings.HasSuffix .RelPermalink "about/" }} style="color:var(--fg)"{{ end }}>{{ i18n "about" }}</a>
+      <a href="{{ relLangURL "contact/" }}"{{ if strings.HasSuffix .RelPermalink "contact/" }} style="color:var(--fg)"{{ end }}>{{ i18n "contact" }}</a>
     </div>
   </div>
 </nav>

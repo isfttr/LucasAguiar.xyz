@@ -17,13 +17,16 @@ pagerSize = 6
 [languages]
 [languages.en]
 title = "Home"
+languageName = "English"
 weight = 1
 contentDir = "content/en"
-# languageDirection = 'rtl' for Right-To-Left languages
-#  [languages.fr]
-#    title = "Ananke Fr"
-#    weight = 2
-#    contentDir = "content/fr"
+
+[languages.pt]
+title = "Home"
+languageName = "Português"
+languageCode = "pt-BR"
+weight = 2
+contentDir = "content/pt"
 
 [sitemap]
 changefreq = "monthly"
