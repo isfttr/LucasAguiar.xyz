@@ -39,6 +39,6 @@
   },
   "devDependencies": {
     "husky": "^9.1.7",
-    "release-it": "^18.1.2"
+    "release-it": "^20.0.1"
   }
 }
