@@ -4,7 +4,9 @@
   "description": "",
   "main": "",
   "scripts": {
-    "release": "release-it"
+    "release": "release-it",
+    "translate": "node scripts/translate.js",
+    "fix-links": "node scripts/fix-links.js"
   },
   "repository": {
     "type": "git",
@@ -21,7 +23,10 @@
     "@commitlint/cli": "^19.7.1",
     "@commitlint/config-conventional": "^19.7.1",
     "@fortawesome/fontawesome-free": "^6.7.2",
+    "@google/generative-ai": "^0.24.1",
     "@release-it/conventional-changelog": "^10.0.0",
+    "dotenv": "^17.4.2",
+    "gray-matter": "^4.0.3",
     "lint": "^1.1.2",
     "test": "^3.3.0"
   },

@@ -5,6 +5,7 @@ themesDir = "themes"
 theme = "gohugo-theme-ananke"
 resourceDir = "../resources"
 buildFuture = true
+refLinksErrorLevel = "WARNING"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"     # this is set low for demonstrating with dummy content. Set to a higher number
