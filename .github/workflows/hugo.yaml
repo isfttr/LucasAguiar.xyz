@@ -51,6 +51,11 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '25'
+          cache: 'npm'
       - name: Install Node.js dependencies
         if: "contains(github.event_name, 'push')"
         run: |
