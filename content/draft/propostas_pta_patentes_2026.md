@@ -21,7 +21,7 @@ A patente expirou em **20 de março de 2026**. Mas o debate não terminou — el
 
 ## O que era o Patent Term Adjustment e por que chegou aos tribunais
 
-Após a [ADI 5.529/DF](/posts/adi-5529-patentes-farmaceuticas/), que derrubou a extensão automática de prazos pela vigência mínima do art. 40 da LPI, titulares de patentes farmacêuticas passaram a recorrer ao Judiciário com uma tese diferente: não pediam extensão automática, mas compensação **casuística e proporcional** pelo tempo que o INPI levou para examinar cada pedido específico.
+Após a [ADI 5.529/DF]({{< ref "posts/adi-5529-patentes-farmaceuticas.md" >}}), que derrubou a extensão automática de prazos pela vigência mínima do art. 40 da LPI, titulares de patentes farmacêuticas passaram a recorrer ao Judiciário com uma tese diferente: não pediam extensão automática, mas compensação **casuística e proporcional** pelo tempo que o INPI levou para examinar cada pedido específico.
 
 O argumento tinha três pilares: (1) a ADI teria derrubado apenas a extensão genérica, não a casuística; (2) o art. 4º da LINDB permite analogia em caso de lacuna legal; (3) o art. 62.2 do TRIPS exige que procedimentos administrativos não "consumam" o prazo de proteção. A [Interfarma](https://www.interfarma.org.br/interfarma-apresenta-dados-sobre-tempos-de-concessao-de-patentes-no-brasil/) sustenta que o tempo médio entre requerimento de exame e primeira decisão para biofármacos chegou a **55,2 meses** entre 2010 e 2024.
 
@@ -49,9 +49,9 @@ O [custo estimado](https://abifina.org.br/outras-noticias/as-patentes-farmoquimi
 
 ## O que fica em aberto
 
-A questão de fundo é simples de enunciar, mas difícil de resolver: se o INPI leva anos para examinar patentes farmacêuticas — e o [gargalo específico desse setor](/posts/backlog-inpi-patentes-farmaceuticas/) nunca foi atacado com a mesma energia que o backlog geral —, quem paga o custo desse atraso?
+A questão de fundo é simples de enunciar, mas difícil de resolver: se o INPI leva anos para examinar patentes farmacêuticas — e o [gargalo específico desse setor]({{< ref "posts/backlog-inpi-patentes-farmaceuticas.md" >}}) nunca foi atacado com a mesma energia que o backlog geral —, quem paga o custo desse atraso?
 
-A resposta que vier do Congresso vai definir as condições de retorno sobre investimentos em inovação farmacêutica no Brasil por décadas. E vai fazê-lo num contexto em que a [Nova Indústria Brasil](/posts/nova-industria-brasil-saude-patentes/) aposta R$ 57 bilhões justamente na construção de capacidade inovadora nacional — o que coloca os dois lados do debate no mesmo ecossistema de política pública.
+A resposta que vier do Congresso vai definir as condições de retorno sobre investimentos em inovação farmacêutica no Brasil por décadas. E vai fazê-lo num contexto em que a [Nova Indústria Brasil]({{< ref "posts/nova-industria-brasil-saude-patentes.md" >}}) aposta R$ 57 bilhões justamente na construção de capacidade inovadora nacional — o que coloca os dois lados do debate no mesmo ecossistema de política pública.
 
 ---
 

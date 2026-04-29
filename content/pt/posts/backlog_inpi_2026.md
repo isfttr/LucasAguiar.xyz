@@ -51,7 +51,7 @@ Em 2025, os dados do [Boletim de PI do IDS](https://ids.org.br/noticia/inpi-divu
 
 ![Comparativo de número de patentes depositadas e concedidas nos anos de 2024 e 2025, respectivamente.](https://lucasaguiarxyzstorage.blob.core.windows.net/images/comparativo_patentes_inpi_2024_2025.png)
 
-A [automação que o INPI planeja para o roadmap 2025-2029](/posts/inpi-automation-roadmap-2025-2029/) — incluindo uso de IA como assistente de exame com meta de decisão em até dois anos — pode ser o passo estrutural que faltou ao plano original.
+A [automação que o INPI planeja para o roadmap 2025-2029]({{< ref "posts/inpi-automation-roadmap-2025-2029.md" >}}) — incluindo uso de IA como assistente de exame com meta de decisão em até dois anos — pode ser o passo estrutural que faltou ao plano original.
 
 Enquanto isso, o debate sobre como compensar os atrasos históricos no prazo efetivo das patentes farmacêuticas ganhou um novo capítulo no Congresso por meio da discussão do Patent Term Adjustment (PTA), que visa ajustar o prazo de vigência das patentes farmacêuticas em função do tempo de espera para obtenção da concessão do pedido pelo INPI.
 
