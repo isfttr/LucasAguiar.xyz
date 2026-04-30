@@ -2,10 +2,9 @@
 date: 2024-03-16T00:00:00.000Z
 draft: false
 title: Criando meu assistente de IA localmente
-description: >-
-  Pela primeira vez, tentei romper com o ChatGPT e o Copilot para ver o que eu
-  conseguia produzir.
-url: /creating-local-ai/
+description: Pela primeira vez, tentei romper com o ChatGPT e o Copilot para ver o que eu
+  conseguia produzir."
+url: 
 featured_image: /images/ollama-privategpt.png
 tags:
   - AI
