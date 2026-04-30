@@ -131,18 +131,30 @@ async function syncDirectories() {
     else fileMap.get(rel).pt = f;
   });
 
+  let translatedCount = 0;
+  const MAX_TRANSLATIONS = 5;
+
   for (const [relPath, files] of fileMap.entries()) {
     if (!relPath.endsWith('.md')) continue;
+
+    if (translatedCount >= MAX_TRANSLATIONS) {
+      console.log(`Reached maximum translations limit (${MAX_TRANSLATIONS}) for this run.`);
+      break;
+    }
 
     const enPath = files.en;
     const ptPath = files.pt;
 
+    let didTranslate = false;
+
     if (enPath && !ptPath) {
       // Missing in PT
       await translateFile(enPath, path.join(PT_DIR, relPath), 'Portuguese');
+      didTranslate = true;
     } else if (ptPath && !enPath) {
       // Missing in EN
       await translateFile(ptPath, path.join(EN_DIR, relPath), 'English');
+      didTranslate = true;
     } else if (enPath && ptPath) {
       // Both exist, check for updates
       const enRaw = fs.readFileSync(enPath, 'utf8');
@@ -158,14 +170,20 @@ async function syncDirectories() {
       if (ptParsed.data.translation_source_hash && ptParsed.data.translation_source_hash !== enHash) {
          console.log(`Update detected in EN: ${relPath}`);
          await translateFile(enPath, ptPath, 'Portuguese');
+         didTranslate = true;
       } 
       // If EN was translated from PT, and PT has changed
       else if (enParsed.data.translation_source_hash && enParsed.data.translation_source_hash !== ptHash) {
          console.log(`Update detected in PT: ${relPath}`);
          await translateFile(ptPath, enPath, 'English');
+         didTranslate = true;
       }
       // If neither has a hash (old files), we might just skip or we could compare mtimes as a fallback.
       // For safety, we skip them until they are manually updated or run.
+    }
+
+    if (didTranslate) {
+      translatedCount++;
     }
   }
 }
