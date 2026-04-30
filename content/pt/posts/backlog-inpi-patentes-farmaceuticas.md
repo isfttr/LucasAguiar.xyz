@@ -53,7 +53,7 @@ Em 2025, os dados do [Boletim de PI do IDS](https://ids.org.br/noticia/inpi-divu
 
 A [automação que o INPI planeja para o roadmap 2025-2029]({{< ref "posts/inpi-automation-roadmap-2025-2029.md" >}}) — incluindo uso de IA como assistente de exame com meta de decisão em até dois anos — pode ser o passo estrutural que faltou ao plano original.
 
-Enquanto isso, o debate sobre como compensar os atrasos históricos no prazo efetivo das patentes farmacêuticas ganhou um novo capítulo no Congresso por meio da discussão do Patent Term Adjustment (PTA), que visa ajustar o prazo de vigência das patentes farmacêuticas em função do tempo de espera para obtenção da concessão do pedido pelo INPI.
+Enquanto isso, o debate sobre como compensar os atrasos históricos no prazo efetivo das patentes farmacêuticas ganhou um novo capítulo no Congresso por meio da [discussão do Patent Term Adjustment (PTA)]({{< ref "posts/propostas_pta_patentes_2026.md" >}}), que visa ajustar o prazo de vigência das patentes farmacêuticas em função do tempo de espera para obtenção da concessão do pedido pelo INPI.
 
 ---
 
