@@ -12,6 +12,8 @@ on:
 jobs:
   translate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     # Prevents concurrent runs from overwriting each other's commits
     concurrency:
