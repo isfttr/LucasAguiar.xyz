@@ -1,4 +1,22 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+
+{{ if and .IsHome (eq .Language.Lang "en") }}
+<script>
+  (function() {
+    var prefLang = localStorage.getItem('pref_lang');
+    if (prefLang === 'pt') {
+      window.location.replace('/pt/');
+      return;
+    }
+    if (!prefLang) {
+      var userLang = navigator.language || navigator.userLanguage;
+      if (userLang && userLang.toLowerCase().startsWith('pt')) {
+        window.location.replace('/pt/');
+      }
+    }
+  })();
+</script>
+{{ end }}
 <script type="text/javascript" src="/js/social-buttons.js"></script>
 <script type="text/javascript" src="/js/repo-version.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
