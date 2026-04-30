@@ -467,7 +467,7 @@ a { color: inherit; text-decoration: none; }
   align-items: center;
 }
 .ed-featured-img {
-  aspect-ratio: 4/3;
+  aspect-ratio: 16/9;
   background: var(--bg-sunken);
   position: relative;
   overflow: hidden;
@@ -975,7 +975,7 @@ a { color: inherit; text-decoration: none; }
 .post-cover {
   max-width: 1000px;
   margin: 0 auto var(--space-7);
-  aspect-ratio: 16/7;
+  aspect-ratio: 16/9;
   background: var(--bg-sunken);
   overflow: hidden;
 }
