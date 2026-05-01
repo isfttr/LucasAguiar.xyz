@@ -41,8 +41,7 @@ jobs:
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
-      - name: Install Dart Sass Embedded
-        run: sudo snap install dart-sass-embedded
+
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -56,6 +55,8 @@ jobs:
         with:
           node-version: '25'
           cache: 'npm'
+      - name: Install Dart Sass
+        run: npm install -g sass
       - name: Install Node.js dependencies
         if: "contains(github.event_name, 'push')"
         run: |
