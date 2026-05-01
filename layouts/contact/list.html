@@ -40,7 +40,7 @@
           </a>
           {{ end }}
           {{ end }}
-          <a href="https://buymeacoffee.com/lucasaguiar" target="_blank" rel="noopener" class="contact-channel">
+          <a href="https://buymeacoffee.com/lucasaguiar" target="_blank" rel="noopener" class="contact-channel" onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'buy_me_a_coffee', location: 'contact_page' })">
             <div class="ch-label">Support</div>
             <div class="ch-value">Buy me a coffee</div>
             <div class="ch-arr">→</div>

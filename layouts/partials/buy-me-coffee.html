@@ -1,4 +1,4 @@
-<div class="bmc-wrap">
+<div class="bmc-wrap" onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'buy_me_a_coffee', location: 'buy_me_coffee_partial' })">
   <div class="bmc-label">If this was useful</div>
   <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js"
     data-name="bmc-button"
