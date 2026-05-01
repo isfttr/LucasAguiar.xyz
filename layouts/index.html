@@ -162,7 +162,7 @@ $mainSections }} {{ $featured := index $posts 0 }} {{ $recent := after 1 (first
                 </p>
             </div>
             <div>
-                <a href="/contact/" class="btn btn-primary"
+                <a href="/contact/" class="btn btn-primary" onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { location: 'home_page' })"
                     >Start a conversation →</a
                 >
                 <div class="ed-form-note" style="margin-top: 16px">

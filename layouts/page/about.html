@@ -82,6 +82,7 @@
                             justify-content: center;
                             display: inline-flex;
                         "
+                        onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { location: 'about_page' })"
                         >Get in touch →</a
                     >
                 </div>

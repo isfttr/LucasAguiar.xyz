@@ -5,7 +5,23 @@
     api_host: '{{ .Site.Params.posthogHost }}',
     defaults: '2026-01-30',
     person_profiles: 'always',
-  })
+  });
+
+  // Track article read on 80% scroll
+  document.addEventListener("DOMContentLoaded", function() {
+    let articleReadFired = false;
+    window.addEventListener("scroll", function() {
+      if (articleReadFired) return;
+      const scrollPosition = window.scrollY + window.innerHeight;
+      const documentHeight = document.documentElement.scrollHeight;
+      if (scrollPosition / documentHeight >= 0.8) {
+        if (typeof posthog !== 'undefined') {
+          posthog.capture('article_read', { page_path: window.location.pathname });
+        }
+        articleReadFired = true;
+      }
+    });
+  });
   {{- else }}
   console.warn("PostHog analytics disabled: missing site parameters 'posthogKey' and/or 'posthogHost'.");
   {{- end }}
