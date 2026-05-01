@@ -1,5 +1,15 @@
+require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
+const { PostHog } = require('posthog-node');
+
+const posthog = new PostHog(process.env.POSTHOG_API_KEY, {
+  host: process.env.POSTHOG_HOST,
+  flushAt: 1,
+  flushInterval: 0,
+  enableExceptionAutocapture: true,
+});
+const POSTHOG_DISTINCT_ID = 'fix-links-script';
 
 const contentDirs = [
   path.join(__dirname, '../content/en'),
@@ -53,8 +63,14 @@ function processFile(filePath) {
   if (modified) {
     fs.writeFileSync(filePath, newContent, 'utf8');
     console.log(`Updated links in: ${filePath}`);
+    posthog.capture({
+      distinctId: POSTHOG_DISTINCT_ID,
+      event: 'links_fixed',
+      properties: { file_path: filePath },
+    });
   }
 }
 
 contentDirs.forEach(processDirectory);
 console.log("Finished fixing links.");
+posthog.shutdown();

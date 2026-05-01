@@ -4,6 +4,15 @@ const path = require('path');
 const crypto = require('crypto');
 const matter = require('gray-matter');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
+const { PostHog } = require('posthog-node');
+
+const posthog = new PostHog(process.env.POSTHOG_API_KEY, {
+  host: process.env.POSTHOG_HOST,
+  flushAt: 1,
+  flushInterval: 0,
+  enableExceptionAutocapture: true,
+});
+const POSTHOG_DISTINCT_ID = 'translate-script';
 
 if (!process.env.GEMINI_API_KEY) {
   console.error("Error: GEMINI_API_KEY is not set in .env");
@@ -57,14 +66,25 @@ ${text}`;
           delayMs = (parseFloat(match[1]) + 5) * 1000; // add 5s buffer
         }
         console.warn(`Rate limit hit (429). Waiting ${delayMs/1000}s before retry ${i + 1}/${retries}...`);
+        posthog.capture({
+          distinctId: POSTHOG_DISTINCT_ID,
+          event: 'translation_rate_limit_hit',
+          properties: { retry_count: i + 1, wait_ms: delayMs },
+        });
         await sleep(delayMs);
       } else {
         console.error(`Translation failed: ${e.message}`);
+        posthog.captureException(e, POSTHOG_DISTINCT_ID);
         return null;
       }
     }
   }
   console.error('Max retries reached for translation.');
+  posthog.capture({
+    distinctId: POSTHOG_DISTINCT_ID,
+    event: 'translation_failed',
+    properties: { retries },
+  });
   return null;
 }
 
@@ -111,6 +131,15 @@ async function translateFile(sourcePath, targetPath, targetLang) {
 
   fs.writeFileSync(targetPath, newRawContent, 'utf8');
   console.log(`Successfully created: ${targetPath}`);
+  posthog.capture({
+    distinctId: POSTHOG_DISTINCT_ID,
+    event: 'translation_file_translated',
+    properties: {
+      source_path: sourcePath,
+      target_path: targetPath,
+      target_lang: targetLang,
+    },
+  });
 }
 
 async function syncDirectories() {
@@ -203,4 +232,12 @@ function getAllFiles(dirPath, arrayOfFiles) {
   return arrayOfFiles;
 }
 
-syncDirectories().then(() => console.log("Translation sync complete.")).catch(console.error);
+syncDirectories().then(async () => {
+  console.log("Translation sync complete.");
+  posthog.capture({ distinctId: POSTHOG_DISTINCT_ID, event: 'translation_sync_completed' });
+  await posthog.shutdown();
+}).catch(async (err) => {
+  posthog.captureException(err, POSTHOG_DISTINCT_ID);
+  await posthog.shutdown();
+  console.error(err);
+});
