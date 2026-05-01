@@ -40,6 +40,8 @@ author = "Lucas Fernandes Aguiar"
 favicon = "/favicons/favicon-32x32.png"
 site_logo = ""
 description = "Personal blog."
+posthogKey = "phc_wHjzqxyHoX54oDKawvLPhatQ9mPrbddx24kUeVQWbPK7"
+posthogHost = "https://us.i.posthog.com"
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-black"
 recent_posts_number = 3
