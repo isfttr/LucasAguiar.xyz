@@ -26,8 +26,7 @@
     "@google/generative-ai": "^0.24.1",
     "@release-it/conventional-changelog": "^11.0.0",
     "dotenv": "^17.4.2",
-    "gray-matter": "^4.0.3",
-    "posthog-js": "^1.372.5"
+    "gray-matter": "^4.0.3"
   },
   "release-it": {
     "$schema": "https://unpkg.com/release-it/schema/release-it.json",
