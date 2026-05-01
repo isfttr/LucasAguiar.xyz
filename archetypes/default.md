@@ -10,14 +10,12 @@ categories:
   - tutorial
   - video
 tags:
-  - linux
-  - macos
-  - technology
-  - personal
-  - tutorial
+  - 
 ---
 
 
 
 ---
-You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.
+You can reach out to contact me about this and other topics by filling the form below.
+
+Você pode entrar em contato comigo sobre este e outros tópicos preenchendo o formulário abaixo.
