@@ -96,7 +96,7 @@
       company's success.
       {{ end }}
     </h2>
-    <a href="{{ relLangURL " contact/" }}" class="btn btn-primary"
+    <a href="{{ relLangURL "contact/" }}" class="btn btn-primary"
       onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'consulting_contact', location: 'consulting_page' })">
       {{ if eq .Site.Language.Lang "pt" }}Vamos conversar sobre sua ideia{{ else }}Let's talk about your idea{{ end }} →
     </a>
