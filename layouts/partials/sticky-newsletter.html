@@ -1,0 +1,72 @@
+{{/* Sticky bottom-left newsletter CTA — appears after 25% scroll, dismissable */}}
+<div class="sticky-cta" id="sticky-cta" aria-live="polite">
+  <button class="sticky-cta-close" id="sticky-cta-close" aria-label="Dismiss">✕</button>
+  <div class="sticky-cta-eyebrow">
+    <span class="live"></span>
+    {{ if eq .Site.Language.Lang "pt" }}Newsletter · Grátis{{ else }}Newsletter · Free{{ end }}
+  </div>
+  <div class="sticky-cta-title">
+    {{ if eq .Site.Language.Lang "pt" }}
+      Diagnóstico de PI grátis quando você responder.
+    {{ else }}
+      Free IP read when you reply.
+    {{ end }}
+  </div>
+  <div class="sticky-cta-desc">
+    {{ if eq .Site.Language.Lang "pt" }}
+      Uma carta mensal de um redator de patentes e consultor em PI do Ministério da Saúde.
+    {{ else }}
+      A monthly letter from a patent prosecutor and IP consultant at Brazil's Ministry of Health.
+    {{ end }}
+  </div>
+  <div class="sticky-cta-form">
+    <input type="email" id="sticky-cta-email" placeholder="{{ if eq .Site.Language.Lang "pt" }}seu@email.com{{ else }}your@email.com{{ end }}" required>
+    <button type="button" id="sticky-cta-submit">
+      {{ if eq .Site.Language.Lang "pt" }}Entrar{{ else }}Join{{ end }}
+    </button>
+  </div>
+  <div class="sticky-cta-success" id="sticky-cta-success">
+    {{ if eq .Site.Language.Lang "pt" }}✓ INSCRITO · verifique sua caixa de entrada{{ else }}✓ SUBSCRIBED · check your inbox{{ end }}
+  </div>
+  <div class="sticky-cta-micro">
+    {{ if eq .Site.Language.Lang "pt" }}Mensal · sem spam · 1 clique para sair{{ else }}Monthly · no spam · 1-click unsubscribe{{ end }}
+  </div>
+</div>
+
+<script>
+(function () {
+  var KEY = 'sticky_cta_closed';
+  var cta = document.getElementById('sticky-cta');
+  if (!cta) return;
+  if (sessionStorage.getItem(KEY)) return;
+
+  var shown = false;
+  function show() {
+    if (shown) return;
+    shown = true;
+    cta.classList.add('visible');
+    if (typeof posthog !== 'undefined') posthog.capture('sticky_cta_shown');
+  }
+
+  function onScroll() {
+    var pct = window.scrollY / (document.documentElement.scrollHeight - window.innerHeight);
+    if (pct >= 0.25) show();
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+
+  document.getElementById('sticky-cta-close').addEventListener('click', function () {
+    cta.classList.remove('visible');
+    sessionStorage.setItem(KEY, '1');
+    if (typeof posthog !== 'undefined') posthog.capture('sticky_cta_dismissed');
+  });
+
+  document.getElementById('sticky-cta-submit').addEventListener('click', function () {
+    var email = document.getElementById('sticky-cta-email').value;
+    if (!email || !email.includes('@')) return;
+    if (typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'newsletter_subscribe', location: 'sticky_cta', email: email });
+    document.querySelector('.sticky-cta-form').style.display = 'none';
+    document.getElementById('sticky-cta-success').classList.add('show');
+    sessionStorage.setItem(KEY, '1');
+  });
+})();
+</script>

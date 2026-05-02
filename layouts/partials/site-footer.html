@@ -35,18 +35,19 @@
 
       <div class="footer-col">
         <h4>Site</h4>
-        <a href="{{ .Site.Home.RelPermalink }}">Home</a>
-        <a href="/posts/">Blog</a>
-        <a href="/about/">About</a>
-        <a href="/contact/">Contact</a>
+        <a href="{{ .Site.Home.RelPermalink }}">{{ if eq .Site.Language.Lang "pt" }}Início{{ else }}Home{{ end }}</a>
+        <a href="{{ relLangURL "posts/" }}">Blog</a>
+        <a href="{{ relLangURL "about/" }}">{{ i18n "about" }}</a>
+        <a href="{{ relLangURL "consulting/" }}">{{ i18n "consulting" }}</a>
+        <a href="{{ relLangURL "contact/" }}">{{ i18n "contact" }}</a>
       </div>
 
       <div class="footer-col">
-        <h4>Practice</h4>
-        <a href="/about/">Patent Prosecution</a>
-        <a href="/about/">IP Consulting</a>
-        <a href="/about/">Research</a>
-        <a href="/about/">PhD Work</a>
+        <h4>{{ if eq .Site.Language.Lang "pt" }}Prática{{ else }}Practice{{ end }}</h4>
+        <a href="{{ relLangURL "consulting/" }}">{{ if eq .Site.Language.Lang "pt" }}Redação de Patentes{{ else }}Patent Prosecution{{ end }}</a>
+        <a href="{{ relLangURL "consulting/" }}">{{ if eq .Site.Language.Lang "pt" }}Consultoria em PI{{ else }}IP Consulting{{ end }}</a>
+        <a href="{{ relLangURL "about/" }}">{{ if eq .Site.Language.Lang "pt" }}Pesquisa{{ else }}Research{{ end }}</a>
+        <a href="{{ relLangURL "about/" }}">{{ if eq .Site.Language.Lang "pt" }}Doutorado{{ else }}PhD Work{{ end }}</a>
       </div>
 
       <div class="footer-col">

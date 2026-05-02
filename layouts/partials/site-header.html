@@ -11,6 +11,7 @@
         <div class="nav-links">
           <a href="{{ relLangURL "posts/" }}"{{ if eq .Section "posts" }} class="active"{{ end }}>Blog</a>
           <a href="{{ relLangURL "about/" }}"{{ if strings.HasSuffix .RelPermalink "about/" }} class="active"{{ end }}>{{ i18n "about" }}</a>
+          <a href="{{ relLangURL "consulting/" }}"{{ if strings.HasSuffix .RelPermalink "consulting/" }} class="active"{{ end }}>{{ i18n "consulting" }}</a>
           <a href="{{ relLangURL "contact/" }}"{{ if strings.HasSuffix .RelPermalink "contact/" }} class="active"{{ end }} onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { location: 'header_nav' })">{{ i18n "contact" }}</a>
         </div>
         <div class="nav-ctrls">
@@ -33,6 +34,10 @@
           <button class="nav-menu-btn" id="nav-menu-btn" aria-label="Open menu">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h18M3 6h18M3 18h18"/></svg>
           </button>
+          <a href="#newsletter-band" class="nav-cta" onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'newsletter_subscribe', location: 'nav_pill' }); var nb=document.getElementById('newsletter-band'); if(nb){event.preventDefault();nb.scrollIntoView({behavior:'smooth'});}">
+            <span class="glyph"></span>
+            {{ i18n "subscribe" }}
+          </a>
         </div>
       </div>
     </div>
@@ -41,6 +46,7 @@
     <div class="nav-mobile" id="nav-mobile">
       <a href="{{ relLangURL "posts/" }}"{{ if eq .Section "posts" }} style="color:var(--fg)"{{ end }}>Blog</a>
       <a href="{{ relLangURL "about/" }}"{{ if strings.HasSuffix .RelPermalink "about/" }} style="color:var(--fg)"{{ end }}>{{ i18n "about" }}</a>
+      <a href="{{ relLangURL "consulting/" }}"{{ if strings.HasSuffix .RelPermalink "consulting/" }} style="color:var(--fg)"{{ end }}>{{ i18n "consulting" }}</a>
       <a href="{{ relLangURL "contact/" }}"{{ if strings.HasSuffix .RelPermalink "contact/" }} style="color:var(--fg)"{{ end }} onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { location: 'mobile_nav' })">{{ i18n "contact" }}</a>
     </div>
   </div>

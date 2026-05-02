@@ -1,0 +1,91 @@
+{{ define "main" }}
+
+{{/* Page header */}}
+<section class="page-head">
+  <div class="container">
+    <div class="page-head-grid">
+      <div>
+        <div class="page-head-eyebrow fade-up">
+          {{ if eq .Site.Language.Lang "pt" }}Consultoria · lançamento 2026{{ else }}Consulting · launching 2026{{ end }}
+        </div>
+        <h1 class="fade-up delay-1">
+          {{ if eq .Site.Language.Lang "pt" }}
+          Consultoria em PI<br>para cientistas.
+          {{ else }}
+          IP advisory<br>for scientists.
+          {{ end }}
+        </h1>
+      </div>
+      <p class="fade-up delay-2">
+        {{ if eq .Site.Language.Lang "pt" }}
+        Uma consultoria boutique para pesquisadores, startups e núcleos de transferência de tecnologia em química e áreas adjacentes.
+        {{ else }}
+        A boutique consultancy for researchers, startups, and technology-transfer offices working in chemistry and adjacent fields.
+        {{ end }}
+      </p>
+    </div>
+  </div>
+</section>
+
+{{/* Services grid */}}
+<section class="mo-expertise">
+  <div class="container">
+    <div class="mo-expertise-grid">
+      <div class="mo-area reveal">
+        <div class="num">→ {{ if eq .Site.Language.Lang "pt" }}SERVIÇO 01{{ else }}SERVICE 01{{ end }}</div>
+        <h3>{{ if eq .Site.Language.Lang "pt" }}Redação de patentes{{ else }}Patent drafting{{ end }}</h3>
+        <p>
+          {{ if eq .Site.Language.Lang "pt" }}
+          Redação ponta-a-ponta de pedidos de patente em química e ciência dos materiais, com ênfase em estratégia de reivindicações e suficiência descritiva.
+          {{ else }}
+          End-to-end drafting of patent applications in chemistry and materials science, with an emphasis on claim strategy and enablement.
+          {{ end }}
+        </p>
+      </div>
+      <div class="mo-area reveal">
+        <div class="num">→ {{ if eq .Site.Language.Lang "pt" }}SERVIÇO 02{{ else }}SERVICE 02{{ end }}</div>
+        <h3>{{ if eq .Site.Language.Lang "pt" }}Estratégia de PI{{ else }}IP strategy{{ end }}</h3>
+        <p>
+          {{ if eq .Site.Language.Lang "pt" }}
+          Análises de patenteabilidade, liberdade de operação, mapeamento tecnológico e revisão de portfólios de PI.
+          {{ else }}
+          Patentability assessments, freedom-to-operate analyses, technology landscaping, and portfolio reviews.
+          {{ end }}
+        </p>
+      </div>
+      <div class="mo-area reveal">
+        <div class="num">→ {{ if eq .Site.Language.Lang "pt" }}SERVIÇO 03{{ else }}SERVICE 03{{ end }}</div>
+        <h3>{{ if eq .Site.Language.Lang "pt" }}Treinamentos{{ else }}Training &amp; workshops{{ end }}</h3>
+        <p>
+          {{ if eq .Site.Language.Lang "pt" }}
+          Workshops para grupos de pesquisa sobre alfabetização em patentes, divulgação de invenções e trajetórias de comercialização.
+          {{ else }}
+          Custom workshops for research groups on patent literacy, invention disclosure, and commercialization pathways.
+          {{ end }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{/* CTA band */}}
+<section class="mo-cta">
+  <div class="container" style="position:relative;z-index:1">
+    <div class="mo-cta-eyebrow">
+      {{ if eq .Site.Language.Lang "pt" }}Consulte disponibilidade{{ else }}Inquire about engagement{{ end }}
+    </div>
+    <h2>
+      {{ if eq .Site.Language.Lang "pt" }}
+      Abrindo algumas vagas para novos clientes.
+      {{ else }}
+      Taking on a few new clients.
+      {{ end }}
+    </h2>
+    <a href="{{ relLangURL "contact/" }}" class="btn btn-primary"
+       onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'consulting_contact', location: 'consulting_page' })">
+      {{ if eq .Site.Language.Lang "pt" }}Iniciar uma conversa{{ else }}Start a conversation{{ end }} →
+    </a>
+  </div>
+</section>
+
+{{ end }}
