@@ -1,3 +1,32 @@
+{{ if eq .Site.Language.Lang "pt" }}
+<form action="https://formspree.io/f/xgeglgop" method="POST" id="contact-form">
+  <div class="form-row">
+    <label for="fc-name">Seu nome</label>
+    <input type="text" id="fc-name" name="name" required placeholder="Lucas Silva">
+  </div>
+  <div class="form-row">
+    <label for="fc-email">Seu e-mail</label>
+    <input type="email" id="fc-email" name="email" required placeholder="voce@dominio.com">
+  </div>
+  <div class="form-row">
+    <label for="fc-subject">Assunto</label>
+    <select id="fc-subject" name="subject">
+      <option>Consultoria em PI</option>
+      <option>Redação de patentes</option>
+      <option>Colaboração em pesquisa</option>
+      <option>Palestras / aulas</option>
+      <option>Só para dizer oi</option>
+    </select>
+  </div>
+  <div class="form-row">
+    <label for="fc-message">Sua mensagem</label>
+    <textarea id="fc-message" name="message" required placeholder="Seja breve se puder — eu leio tudo."></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center;margin-top:8px">
+    Enviar mensagem →
+  </button>
+</form>
+{{ else }}
 <form action="https://formspree.io/f/xgeglgop" method="POST" id="contact-form">
   <div class="form-row">
     <label for="fc-name">Your name</label>
@@ -19,16 +48,19 @@
   </div>
   <div class="form-row">
     <label for="fc-message">Your message</label>
-    <textarea id="fc-message" name="message" required placeholder="Keep it short if you can — I read everything."></textarea>
+    <textarea id="fc-message" name="message" required
+      placeholder="Keep it short if you can — I read everything."></textarea>
   </div>
   <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center;margin-top:8px">
     Send message →
   </button>
 </form>
+{{ end }}
+
 <script>
   var contactForm = document.getElementById('contact-form');
   if (contactForm) {
-    contactForm.addEventListener('submit', function() {
+    contactForm.addEventListener('submit', function () {
       var email = document.getElementById('fc-email').value;
       if (typeof posthog !== 'undefined') {
         posthog.identify(email);

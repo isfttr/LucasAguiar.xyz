@@ -28,24 +28,29 @@
                     {{ end }}
                 </h1>
                 <div class="ed-hero-meta fade-up delay-2">
-                    <div>{{ if eq .Site.Language.Lang "pt" }}Por{{ else }}Written by{{ end }}<strong>Lucas F. Aguiar</strong></div>
-                    <div>{{ if eq .Site.Language.Lang "pt" }}Em{{ else }}Based in{{ end }}<strong>{{ if eq .Site.Language.Lang "pt" }}Brasília, Brasil{{ else }}Brasília, Brazil{{ end }}</strong></div>
-                    <div>{{ if eq .Site.Language.Lang "pt" }}Ensaios{{ else }}Essays{{ end }}<strong>{{ len $posts }}</strong></div>
+                    <div>{{ if eq .Site.Language.Lang "pt" }}Por{{ else }}Written by{{ end }}<strong>Lucas F.
+                            Aguiar</strong></div>
+                    <div>{{ if eq .Site.Language.Lang "pt" }}Em{{ else }}Based in{{ end }}<strong>{{ if eq
+                            .Site.Language.Lang "pt" }}Brasília, Brasil{{ else }}Brasília, Brazil{{ end }}</strong>
+                    </div>
+                    <div>{{ if eq .Site.Language.Lang "pt" }}Ensaios{{ else }}Essays{{ end }}<strong>{{ len $posts
+                            }}</strong></div>
                 </div>
                 {{/* Hero subscribe pill */}}
                 <a href="#newsletter-band" class="ed-hero-pill fade-up delay-3"
-                   onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'newsletter_subscribe', location: 'hero_pill' })">
+                    onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'newsletter_subscribe', location: 'hero_pill' })">
                     <span class="badge">{{ i18n "subscribe" }}</span>
-                    {{ if eq .Site.Language.Lang "pt" }}Diagnóstico de PI grátis na resposta{{ else }}Free IP read on reply{{ end }}
+                    {{ if eq .Site.Language.Lang "pt" }}Diagnóstico de PI grátis na resposta{{ else }}Free IP read on
+                    reply{{ end }}
                     <span class="arr">→</span>
                 </a>
             </div>
             <div class="ed-hero-aside fade-up delay-2">
                 <span class="quote-mark">"</span>
                 {{ if eq .Site.Language.Lang "pt" }}
-                A melhor maneira que conheço de entender algo é tentar explicá-lo — a alunos, a clientes, a mim mesmo, seis meses depois.
+                Como aprender qualquer assunto: a arte de explicar para ensinar a si mesmo e aos outros.
                 {{ else }}
-                The best way I know to understand something is to try to explain it — to students, to clients, to myself, six months later.
+                How to learn anything: the art of explaining to teach yourself and others.
                 {{ end }}
             </div>
         </div>
@@ -57,7 +62,8 @@
 <section class="ed-featured">
     <div class="container">
         <div class="ed-featured-label">
-            <span class="mono-label">{{ if eq $.Site.Language.Lang "pt" }}Ensaio Principal{{ else }}The Lead Essay{{ end }}</span>
+            <span class="mono-label">{{ if eq $.Site.Language.Lang "pt" }}Ensaio Principal{{ else }}The Lead Essay{{ end
+                }}</span>
             <hr />
             <span class="mono-label">№ 001</span>
         </div>
@@ -66,7 +72,8 @@
                 {{ with .Params.featured_image }}
                 <img src="{{ . }}" alt="{{ $.Title }}" />
                 {{ else }}
-                <div class="img-placeholder">{{ if eq $.Site.Language.Lang "pt" }}Ilustração principal{{ else }}Featured illustration{{ end }}</div>
+                <div class="img-placeholder">{{ if eq $.Site.Language.Lang "pt" }}Ilustração principal{{ else }}Featured
+                    illustration{{ end }}</div>
                 {{ end }}
             </a>
             <div>
@@ -79,7 +86,8 @@
                     <span>{{ .Site.Params.author | default "Lucas Aguiar" }}</span>
                     <span class="dot"></span>
                     <span>{{ .Date.Format "Jan 2, 2006" }}</span>
-                    {{ if .ReadingTime }}<span class="dot"></span><span>{{ .ReadingTime }} min {{ if eq $.Site.Language.Lang "pt" }}de leitura{{ else }}read{{ end }}</span>{{ end }}
+                    {{ if .ReadingTime }}<span class="dot"></span><span>{{ .ReadingTime }} min {{ if eq
+                        $.Site.Language.Lang "pt" }}de leitura{{ else }}read{{ end }}</span>{{ end }}
                 </div>
             </div>
         </div>
@@ -93,14 +101,12 @@
     <div class="container">
         <div class="ed-grid-head">
             <h2>{{ if eq .Site.Language.Lang "pt" }}Textos recentes{{ else }}Recent writing{{ end }}</h2>
-            <a href="{{ relLangURL "posts/" }}" class="btn-link">{{ if eq .Site.Language.Lang "pt" }}Todos os ensaios{{ else }}All essays{{ end }}</a>
+            <a href="{{ relLangURL " posts/" }}" class="btn-link">{{ if eq .Site.Language.Lang "pt" }}Todos os ensaios{{
+                else }}All essays{{ end }}</a>
         </div>
         <div class="ed-grid-posts">
             {{ range $i, $p := $recent }}
-            <article
-                class="ed-post reveal"
-                onclick="window.location='{{ $p.RelPermalink }}'"
-            >
+            <article class="ed-post reveal" onclick="window.location='{{ $p.RelPermalink }}'">
                 <div class="ed-post-num">№ {{ printf "%03d" (add $i 2) }}</div>
                 {{ with $p.Params.categories }}
                 <div class="ed-post-cat">{{ index . 0 }}</div>
@@ -122,31 +128,41 @@
     <div class="container">
         <blockquote>
             {{ if eq .Site.Language.Lang "pt" }}
-            "Patentes são a literatura técnica do futuro. Redigir uma bem é <em>comprometer uma possibilidade</em> ao registro."
+            "As patentes são a literatura técnica do futuro. Uma <em>redação estratégica</em> não apenas documenta uma
+            ideia, mas garante o registro e a proteção jurídica da sua inovação no mercado."
+
             {{ else }}
-            "Patents are the technical literature of the future. To draft one well is to <em>commit a possibility</em> to record."
+            "Patents are the technical literature of the future. To draft one well is to <em>commit a possibility</em>
+            to record."
             {{ end }}
         </blockquote>
         <cite>{{ if eq .Site.Language.Lang "pt" }}Da página sobre{{ else }}From the about page{{ end }}</cite>
     </div>
 </section>
 
-{{/* ── What I work on ── */}}
 <section class="ed-work reveal">
     <div class="container">
         <div class="ed-work-head">
-            <h2>{{ if eq .Site.Language.Lang "pt" }}Minhas áreas{{ else }}What I work on{{ end }}</h2>
-            <span class="mono-label">{{ if eq .Site.Language.Lang "pt" }}Quatro áreas de atuação{{ else }}Four practice areas{{ end }}</span>
+            <!-- SEO: Título com palavras-chave fortes de atração -->
+            <h2>{{ if eq .Site.Language.Lang "pt" }}Propriedade Intelectual para Startups e Deep Techs{{ else
+                }}Intellectual Property for Startups & Deep Tech{{ end }}</h2>
+            <span class="mono-label">{{ if eq .Site.Language.Lang "pt" }}Consultoria Especializada & P&D{{ else }}Expert
+                Consulting & R&D{{ end }}</span>
         </div>
         <div class="ed-work-grid">
             <div class="ed-work-item">
                 <span class="num">01</span>
-                <h3>{{ if eq .Site.Language.Lang "pt" }}Redação de Patentes{{ else }}Patent Prosecution{{ end }}</h3>
+                <!-- SEO: Especificar o que é protegido -->
+                <h3>{{ if eq .Site.Language.Lang "pt" }}Patentes, Marcas e Software{{ else }}Patents, Trademarks &
+                    Software{{ end }}</h3>
                 <p>
                     {{ if eq .Site.Language.Lang "pt" }}
-                    Redação e acompanhamento de pedidos em química, ciência dos materiais e farmacêutica.
+                    Redação e tramitação no INPI para tecnologias complexas em <strong>química, biotecnologia,
+                        healthtech</strong> e <strong>ciência dos materiais</strong>. Proteção de programas de
+                    computador e marcas.
                     {{ else }}
-                    Drafting and prosecuting applications in chemistry, materials science and pharmaceuticals.
+                    Drafting and prosecution for complex technologies in <strong>chemistry, biotech,
+                        healthtech</strong>, and <strong>materials science</strong>. Trademark and software protection.
                     {{ end }}
                 </p>
             </div>
@@ -155,31 +171,39 @@
                 <h3>{{ if eq .Site.Language.Lang "pt" }}Consultoria em PI{{ else }}IP Consulting{{ end }}</h3>
                 <p>
                     {{ if eq .Site.Language.Lang "pt" }}
-                    Estratégia, análises de patenteabilidade e trajetórias de comercialização.
+                    Estratégia sob medida para <strong>agrotechs</strong> e ecossistemas de inovação. Elaboração de
+                    relatórios de liberdade de exploração (FTO), análises de patenteabilidade e inteligência
+                    competitiva.
                     {{ else }}
-                    Strategy, patentability assessments, and commercialization pathways.
+                    Tailored strategy for <strong>agrotech</strong> and innovation ecosystems. Freedom-to-operate (FTO)
+                    reports, patentability assessments, and competitive intelligence.
                     {{ end }}
                 </p>
             </div>
             <div class="ed-work-item">
                 <span class="num">03</span>
-                <h3>{{ if eq .Site.Language.Lang "pt" }}Pesquisa e Desenvolvimento{{ else }}Research and Development{{ end }}</h3>
+                <h3>{{ if eq .Site.Language.Lang "pt" }}Pesquisa e Desenvolvimento{{ else }}Research and Development{{
+                    end }}</h3>
                 <p>
                     {{ if eq .Site.Language.Lang "pt" }}
-                    Doutorado em fotovoltaicos de perovskita, membranas de separação de gases e captura de carbono no LMCNano/UnB.
+                    Visão prática para escalar inovações. Doutorado em nanomateriais, membranas de separação de gases e
+                    captura de CO2 no LMCNano/UnB.
                     {{ else }}
-                    PhD work on perovskite solar cells, gas separation membranes, and carbon capture at LMCNano/UnB.
+                    Practical vision for scaling innovations. PhD work on nanomaterials, gas separation membranes, and
+                    carbon capture at LMCNano/UnB.
                     {{ end }}
                 </p>
             </div>
             <div class="ed-work-item">
                 <span class="num">04</span>
-                <h3>{{ if eq .Site.Language.Lang "pt" }}Escrita &amp; Ensino{{ else }}Writing &amp; Teaching{{ end }}</h3>
+                <h3>{{ if eq .Site.Language.Lang "pt" }}Estratégia & Ensino{{ else }}Strategy & Teaching{{ end }}</h3>
                 <p>
                     {{ if eq .Site.Language.Lang "pt" }}
-                    Ensaios e palestras sobre inovação, PI e como a IA transforma o trabalho técnico.
+                    Palestras e consultoria sobre inovação, gestão de ativos intangíveis e como a Inteligência
+                    Artificial acelera o desenvolvimento de novos negócios.
                     {{ else }}
-                    Essays and guest lectures on innovation, IP education, and how AI transforms technical work.
+                    Lectures and consulting on innovation, intangible asset management, and how AI accelerates new
+                    business development.
                     {{ end }}
                 </p>
             </div>
@@ -187,32 +211,44 @@
     </div>
 </section>
 
-{{/* ── Newsletter band (primary CTA) ── */}}
-<section class="ed-newsletter reveal" id="newsletter-band">
+{{/* ── Newsletter band (primary CTA) - SEO Optimized ── */}}
+<section class="ed-newsletter reveal" id="newsletter-band" aria-labelledby="newsletter-heading">
     <div class="container">
         <div class="ed-newsletter-inner">
             <div>
                 <div class="ed-hero-eyebrow" style="margin-bottom:16px">
-                    {{ if eq .Site.Language.Lang "pt" }}A Newsletter · Grátis{{ else }}The Newsletter · Free{{ end }}
+                    {{ if eq .Site.Language.Lang "pt" }}Newsletter de Propriedade Intelectual · Grátis{{ else
+                    }}Intellectual Property Newsletter · Free{{ end }}
                 </div>
-                <h2>
+                <h2 id="newsletter-heading">
                     {{ if eq .Site.Language.Lang "pt" }}
-                    Uma carta, uma vez por mês <em style="color:var(--accent);font-style:italic">+ uma análise de PI grátis</em> sobre o que você responder.
+                    Consultoria em PI para Startups e Deeptechs <em style="color:var(--accent);font-style:italic">+ uma
+                        análise de viabilidade grátis</em> do seu projeto.
                     {{ else }}
-                    A letter, once a month <em style="color:var(--accent);font-style:italic">+ a free IP read</em> on what you reply with.
+                    IP Consulting for Startups & Deeptechs <em style="color:var(--accent);font-style:italic">+ a free
+                        feasibility analysis</em> of your project.
                     {{ end }}
                 </h2>
                 <p>
                     {{ if eq .Site.Language.Lang "pt" }}
-                    Inscreva-se e responda ao email de boas-vindas com o que você está desenvolvendo. Devolvo uma análise curta e honesta — ângulo de patenteabilidade, anterioridade, por onde começar. De um redator de patentes e consultor em PI do Ministério da Saúde.
+                    Inscreva-se e responda ao e-mail de boas-vindas. Receba uma análise estratégica sobre
+                    <strong>patentes, marcas e software</strong> para sua startup. Foco em inovações de
+                    <strong>biotecnologia, healthtech e agrotech</strong>, com a expertise de um consultor em
+                    Propriedade Intelectual (UnB e Min. da Saúde).
                     {{ else }}
-                    Subscribe and reply to the welcome email with what you're working on. I'll send back a short, honest take — patentability angle, prior art notes, where to start. From a working patent prosecutor and IP consultant for Brazil's Ministry of Health.
+                    Subscribe and reply to the welcome email. Get a strategic analysis on <strong>patents, trademarks,
+                        and software</strong> for your startup. Tailored for <strong>biotech, healthtech, and
+                        agrotech</strong> innovations by an experienced IP consultant (UnB and Brazil's Ministry of
+                    Health).
                     {{ end }}
                 </p>
             </div>
             <div>
                 <div class="ed-form-row">
-                    <input type="email" id="home-newsletter-email" placeholder="{{ if eq .Site.Language.Lang "pt" }}seu@email.com{{ else }}your@email.com{{ end }}" required>
+                    <input type="email" id="home-newsletter-email" name="email"
+                        aria-label="{{ if eq .Site.Language.Lang " pt" }}Digite seu e-mail para se inscrever{{ else
+                        }}Enter your email to subscribe{{ end }}" placeholder="{{ if eq .Site.Language.Lang " pt"
+                        }}seu@email.com{{ else }}your@email.com{{ end }}" required>
                     <button type="button" onclick="
                       var email = document.getElementById('home-newsletter-email').value;
                       if (!email || !email.includes('@')) return;
@@ -223,13 +259,17 @@
                         {{ i18n "subscribe" }} →
                     </button>
                 </div>
-                <div class="ed-newsletter-success">
-                    {{ if eq .Site.Language.Lang "pt" }}✓ INSCRITO · verifique sua caixa de entrada{{ else }}✓ SUBSCRIBED · check your inbox{{ end }}
+                <div class="ed-newsletter-success" role="status" aria-live="polite">
+                    {{ if eq .Site.Language.Lang "pt" }}✓ INSCRITO · verifique sua caixa de entrada{{ else }}✓
+                    SUBSCRIBED · check your inbox{{ end }}
                 </div>
                 <div class="ed-newsletter-deliverables">
-                    <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}Análise grátis na resposta{{ else }}Free IP read on reply{{ end }}</span>
-                    <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}Mensal · sem spam{{ else }}Monthly · no spam{{ end }}</span>
-                    <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}1 clique para sair{{ else }}1-click unsubscribe{{ end }}</span>
+                    <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}Análise de PI grátis na
+                        resposta{{ else }}Free IP read on reply{{ end }}</span>
+                    <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}Mensal · sem spam{{ else
+                        }}Monthly · no spam{{ end }}</span>
+                    <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}1 clique para sair{{ else
+                        }}1-click unsubscribe{{ end }}</span>
                 </div>
             </div>
         </div>

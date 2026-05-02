@@ -6,21 +6,26 @@
     <div class="page-head-grid">
       <div>
         <div class="page-head-eyebrow fade-up">
-          {{ if eq .Site.Language.Lang "pt" }}Consultoria · lançamento 2026{{ else }}Consulting · launching 2026{{ end }}
+          {{ if eq .Site.Language.Lang "pt" }}Consultoria em Propriedade Intelectual · Lançamento 2026{{ else
+          }}Intellectual Property Consulting · Launching 2026{{ end }}
         </div>
         <h1 class="fade-up delay-1">
           {{ if eq .Site.Language.Lang "pt" }}
-          Consultoria em PI<br>para cientistas.
+          Estratégia de PI para<br>Startups e Deeptechs.
           {{ else }}
-          IP advisory<br>for scientists.
+          IP Strategy for<br>Startups & Deeptechs.
           {{ end }}
         </h1>
       </div>
       <p class="fade-up delay-2">
         {{ if eq .Site.Language.Lang "pt" }}
-        Uma consultoria boutique para pesquisadores, startups e núcleos de transferência de tecnologia em química e áreas adjacentes.
+        Uma consultoria boutique especializada em patentes, marcas e programas de computador para pesquisadores,
+        startups e núcleos de inovação (NITs). Focada em transformar ciência em ativos de valor nas áreas de
+        <strong>química, biotecnologia, agrotech e healthtech</strong>.
         {{ else }}
-        A boutique consultancy for researchers, startups, and technology-transfer offices working in chemistry and adjacent fields.
+        A boutique consultancy specializing in patents, trademarks, and software IP for researchers, startups, and
+        technology-transfer offices (TTOs). We turn science into valuable assets across <strong>chemistry,
+          biotechnology, agrotech, and healthtech</strong>.
         {{ end }}
       </p>
     </div>
@@ -33,34 +38,41 @@
     <div class="mo-expertise-grid">
       <div class="mo-area reveal">
         <div class="num">→ {{ if eq .Site.Language.Lang "pt" }}SERVIÇO 01{{ else }}SERVICE 01{{ end }}</div>
-        <h3>{{ if eq .Site.Language.Lang "pt" }}Redação de patentes{{ else }}Patent drafting{{ end }}</h3>
+        <h3>{{ if eq .Site.Language.Lang "pt" }}Patentes e Software{{ else }}Patents & Software IP{{ end }}</h3>
         <p>
           {{ if eq .Site.Language.Lang "pt" }}
-          Redação ponta-a-ponta de pedidos de patente em química e ciência dos materiais, com ênfase em estratégia de reivindicações e suficiência descritiva.
+          Redação ponta-a-ponta de pedidos de patente em química e biociências, além do registro de programas de
+          computador. Ênfase na proteção de inovação deeptech e estratégia de reivindicações.
           {{ else }}
-          End-to-end drafting of patent applications in chemistry and materials science, with an emphasis on claim strategy and enablement.
+          End-to-end drafting of patent applications in chemistry and biosciences, plus software registration. Emphasis
+          on protecting deeptech innovation, claim strategy, and enablement.
           {{ end }}
         </p>
       </div>
       <div class="mo-area reveal">
         <div class="num">→ {{ if eq .Site.Language.Lang "pt" }}SERVIÇO 02{{ else }}SERVICE 02{{ end }}</div>
-        <h3>{{ if eq .Site.Language.Lang "pt" }}Estratégia de PI{{ else }}IP strategy{{ end }}</h3>
+        <h3>{{ if eq .Site.Language.Lang "pt" }}Estratégia de PI e Marcas{{ else }}IP Strategy & Trademarks{{ end }}
+        </h3>
         <p>
           {{ if eq .Site.Language.Lang "pt" }}
-          Análises de patenteabilidade, liberdade de operação, mapeamento tecnológico e revisão de portfólios de PI.
+          Análises de patenteabilidade, liberdade de operação (FTO), mapeamento tecnológico, registro de marcas para o
+          ecossistema tech e revisão de portfólios completos.
           {{ else }}
-          Patentability assessments, freedom-to-operate analyses, technology landscaping, and portfolio reviews.
+          Patentability assessments, freedom-to-operate (FTO) analyses, technology landscaping, trademark registration
+          for the tech ecosystem, and portfolio reviews.
           {{ end }}
         </p>
       </div>
       <div class="mo-area reveal">
         <div class="num">→ {{ if eq .Site.Language.Lang "pt" }}SERVIÇO 03{{ else }}SERVICE 03{{ end }}</div>
-        <h3>{{ if eq .Site.Language.Lang "pt" }}Treinamentos{{ else }}Training &amp; workshops{{ end }}</h3>
+        <h3>{{ if eq .Site.Language.Lang "pt" }}Treinamentos em Inovação{{ else }}Innovation Training{{ end }}</h3>
         <p>
           {{ if eq .Site.Language.Lang "pt" }}
-          Workshops para grupos de pesquisa sobre alfabetização em patentes, divulgação de invenções e trajetórias de comercialização.
+          Workshops personalizados para spin-offs e grupos de pesquisa sobre alfabetização em patentes, divulgação de
+          invenções e trajetórias de comercialização de tecnologias.
           {{ else }}
-          Custom workshops for research groups on patent literacy, invention disclosure, and commercialization pathways.
+          Custom workshops for spin-offs and research groups on patent literacy, invention disclosure, and technology
+          commercialization pathways.
           {{ end }}
         </p>
       </div>
@@ -72,18 +84,21 @@
 <section class="mo-cta">
   <div class="container" style="position:relative;z-index:1">
     <div class="mo-cta-eyebrow">
-      {{ if eq .Site.Language.Lang "pt" }}Consulte disponibilidade{{ else }}Inquire about engagement{{ end }}
+      {{ if eq .Site.Language.Lang "pt" }}Garanta o futuro do seu negócio{{ else }}Secure your business's future{{ end
+      }}
     </div>
-    <h2>
+    <h2 style="max-width: 800px; margin: 0 auto; margin-bottom: 30px;">
       {{ if eq .Site.Language.Lang "pt" }}
-      Abrindo algumas vagas para novos clientes.
+      Toda grande inovação exige proteção. Ter uma estratégia sólida não é opcional, é uma etapa obrigatória para o
+      sucesso da sua empresa.
       {{ else }}
-      Taking on a few new clients.
+      Every great innovation requires protection. A solid strategy isn't optional—it's a mandatory step for your
+      company's success.
       {{ end }}
     </h2>
-    <a href="{{ relLangURL "contact/" }}" class="btn btn-primary"
-       onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'consulting_contact', location: 'consulting_page' })">
-      {{ if eq .Site.Language.Lang "pt" }}Iniciar uma conversa{{ else }}Start a conversation{{ end }} →
+    <a href="{{ relLangURL " contact/" }}" class="btn btn-primary"
+      onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'consulting_contact', location: 'consulting_page' })">
+      {{ if eq .Site.Language.Lang "pt" }}Vamos conversar sobre sua ideia{{ else }}Let's talk about your idea{{ end }} →
     </a>
   </div>
 </section>

@@ -3,10 +3,30 @@
   <div class="container">
     <div class="page-head-grid">
       <div>
-        <div class="page-head-eyebrow">Contact</div>
-        <h1>Let's talk.</h1>
+        <div class="page-head-eyebrow">
+          {{ if eq .Site.Language.Lang "pt" }}
+          Contato
+          {{ else }}
+          Contact
+          {{ end }}
+        </div>
+        <h1>
+          {{ if eq .Site.Language.Lang "pt" }}
+          Vamos conversar.
+          {{ else }}
+          Let's talk.
+          {{ end }}
+        </h1>
       </div>
-      <p>Whether it's a patent draft, an IP question, a speaking invitation, or just a hello — I read everything and answer most of it within a few days.</p>
+      <p>
+        {{ if eq .Site.Language.Lang "pt" }}
+        Liderando uma startup ou deeptech? Seja para criar sua primeira estratégia de patentes, tirar dúvidas sobre
+        propriedade intelectual ou apenas dar um oi — eu leio tudo e respondo rapidamente.
+        {{ else }}
+        Leading a startup or deeptech? Whether it's to build your first patent strategy, ask intellectual property
+        questions, or just say hello — I read everything and answer right away.
+        {{ end }}
+      </p>
     </div>
   </div>
 </section>
@@ -16,11 +36,27 @@
     <div class="contact-grid">
 
       <div class="contact-intro">
-        <h2>Pick a channel.</h2>
-        <p>Email works best for anything substantive. Social DMs are for quick questions.</p>
+        <h2>
+          {{ if eq .Site.Language.Lang "pt" }}
+          Escolha um canal.
+          {{ else }}
+          Pick a channel.
+          {{ end }}
+        </h2>
+        <p>
+          {{ if eq .Site.Language.Lang "pt" }}
+          O e-mail é o ideal para discussão inicial da sua estratégia e assuntos complexos. As redes sociais são ótimas
+          para dúvidas
+          rápidas.
+          {{ else }}
+          Email works best for initial strategy and complex matters. Social DMs are great for quick questions.
+          {{ end }}
+        </p>
         <div class="contact-channels">
           <a href="mailto:contact@lucasaguiar.xyz" class="contact-channel">
-            <div class="ch-label">Primary</div>
+            <div class="ch-label">
+              {{ if eq .Site.Language.Lang "pt" }}Principal{{ else }}Primary{{ end }}
+            </div>
             <div class="ch-value">contact@lucasaguiar.xyz</div>
             <div class="ch-arr">→</div>
           </a>
@@ -40,16 +76,27 @@
           </a>
           {{ end }}
           {{ end }}
-          <a href="https://buymeacoffee.com/lucasaguiar" target="_blank" rel="noopener" class="contact-channel" onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'buy_me_a_coffee', location: 'contact_page' })">
-            <div class="ch-label">Support</div>
-            <div class="ch-value">Buy me a coffee</div>
+          <a href="https://buymeacoffee.com/lucasaguiar" target="_blank" rel="noopener" class="contact-channel"
+            onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'buy_me_a_coffee', location: 'contact_page' })">
+            <div class="ch-label">
+              {{ if eq .Site.Language.Lang "pt" }}Apoie{{ else }}Support{{ end }}
+            </div>
+            <div class="ch-value">
+              {{ if eq .Site.Language.Lang "pt" }}Me pague um café{{ else }}Buy me a coffee{{ end }}
+            </div>
             <div class="ch-arr">→</div>
           </a>
         </div>
       </div>
 
       <div class="contact-form-box">
-        <h3>Or send a message</h3>
+        <h3>
+          {{ if eq .Site.Language.Lang "pt" }}
+          Ou envie uma mensagem
+          {{ else }}
+          Or send a message
+          {{ end }}
+        </h3>
         {{ partial "form-contact.html" . }}
       </div>
 

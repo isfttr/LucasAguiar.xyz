@@ -1,14 +1,11 @@
-<div class="bmc-wrap" onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'buy_me_a_coffee', location: 'buy_me_coffee_partial' })">
-  <div class="bmc-label">If this was useful</div>
-  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js"
-    data-name="bmc-button"
-    data-slug="lucasaguiar"
-    data-color="#FFDD00"
-    data-emoji=""
-    data-font="Cookie"
-    data-text="Buy me a coffee"
-    data-outline-color="#000000"
-    data-font-color="#000000"
-    data-coffee-color="#ffffff">
-  </script>
+<div class="bmc-wrap"
+  onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'buy_me_a_coffee', location: 'buy_me_coffee_partial' })">
+  <div class="bmc-label">
+    {{ if eq .Site.Language.Lang "pt" }}Se isso foi útil{{ else }}If this was useful{{ end }}
+  </div>
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button"
+    data-slug="lucasaguiar" data-color="#FFDD00" data-emoji="" data-font="Cookie"
+    data-text="{{ if eq .Site.Language.Lang " pt" }}Pague-me um café{{ else }}Buy me a coffee{{ end }}"
+    data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff">
+    </script>
 </div>

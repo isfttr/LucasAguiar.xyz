@@ -18,9 +18,13 @@
       </div>
       <p class="fade-up delay-2">
         {{ if eq .Site.Language.Lang "pt" }}
-        Inscreva-se e responda ao email de boas-vindas com o que você está desenvolvendo. Devolvo uma análise curta e honesta — ângulo de patenteabilidade, anterioridade, por onde começar. De um redator de patentes e consultor em PI do Ministério da Saúde.
+        Inscreva-se e responda ao email de boas-vindas com o que você está desenvolvendo. Devolvo uma análise curta e
+        honesta — ângulo de patenteabilidade, anterioridade, por onde começar. De um redator de patentes e consultor em
+        PI do Ministério da Saúde.
         {{ else }}
-        Subscribe and reply to the welcome email with what you're working on. I'll send back a short, honest take — patentability angle, prior art notes, where to start. From a working patent prosecutor and IP consultant for Brazil's Ministry of Health.
+        Subscribe and reply to the welcome email with what you're working on. I'll send back a short, honest take —
+        patentability angle, prior art notes, where to start. From a working patent prosecutor and IP consultant for
+        Brazil's Ministry of Health.
         {{ end }}
       </p>
     </div>
@@ -37,9 +41,11 @@
         </div>
         <h2>
           {{ if eq .Site.Language.Lang "pt" }}
-          Uma carta, uma vez por mês <em style="color:var(--accent);font-style:italic">+ uma análise de PI grátis</em> sobre o que você responder.
+          Uma carta, uma vez por mês <em style="color:var(--accent);font-style:italic">+ uma análise de PI grátis</em>
+          sobre o que você responder.
           {{ else }}
-          A letter, once a month <em style="color:var(--accent);font-style:italic">+ a free IP read</em> on what you reply with.
+          A letter, once a month <em style="color:var(--accent);font-style:italic">+ a free IP read</em> on what you
+          reply with.
           {{ end }}
         </h2>
         <p>
@@ -52,7 +58,8 @@
       </div>
       <div>
         <div class="ed-form-row">
-          <input type="email" id="newsletter-page-email" placeholder="{{ if eq .Site.Language.Lang "pt" }}seu@email.com{{ else }}your@email.com{{ end }}" required>
+          <input type="email" id="newsletter-page-email" placeholder="{{ if eq .Site.Language.Lang " pt"
+            }}seu@email.com{{ else }}your@email.com{{ end }}" required>
           <button type="button" onclick="
             var email = document.getElementById('newsletter-page-email').value;
             if (!email || !email.includes('@')) return;
@@ -64,12 +71,16 @@
           </button>
         </div>
         <div class="ed-newsletter-success">
-          {{ if eq .Site.Language.Lang "pt" }}✓ INSCRITO · verifique sua caixa de entrada{{ else }}✓ SUBSCRIBED · check your inbox{{ end }}
+          {{ if eq .Site.Language.Lang "pt" }}✓ INSCRITO · verifique sua caixa de entrada{{ else }}✓ SUBSCRIBED · check
+          your inbox{{ end }}
         </div>
         <div class="ed-newsletter-deliverables">
-          <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}Análise grátis na resposta{{ else }}Free IP read on reply{{ end }}</span>
-          <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}Mensal · sem spam{{ else }}Monthly · no spam{{ end }}</span>
-          <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}1 clique para sair{{ else }}1-click unsubscribe{{ end }}</span>
+          <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}Análise grátis na resposta{{ else }}Free
+            IP read on reply{{ end }}</span>
+          <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}Mensal · sem spam{{ else }}Monthly · no
+            spam{{ end }}</span>
+          <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}1 clique para sair{{ else }}1-click
+            unsubscribe{{ end }}</span>
         </div>
       </div>
     </div>
