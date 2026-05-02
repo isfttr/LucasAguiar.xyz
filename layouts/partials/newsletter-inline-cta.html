@@ -1,0 +1,36 @@
+{{/* Inline mid-post newsletter break */}}
+<div class="post-inline-cta">
+  <div class="label">{{ i18n "subscribe" }} · {{ if eq .Site.Language.Lang "pt" }}Grátis{{ else }}Free{{ end }}</div>
+  <h4>
+    {{ if eq .Site.Language.Lang "pt" }}
+      Uma carta mensal <em style="color:var(--accent)">+ uma análise de PI grátis</em> para você.
+    {{ else }}
+      A monthly letter <em style="color:var(--accent)">+ a free IP read</em> just for you.
+    {{ end }}
+  </h4>
+  <p>
+    {{ if eq .Site.Language.Lang "pt" }}
+      Inscreva-se e responda ao email de boas-vindas com o que você está desenvolvendo. Devolvo uma análise curta e honesta sobre patenteabilidade ou anterioridade.
+    {{ else }}
+      Subscribe and reply to the welcome email with what you're working on. I'll send back a short, honest take on patentability or prior art.
+    {{ end }}
+  </p>
+  <div class="ic-form">
+    <input type="email" id="inline-cta-email" placeholder="{{ if eq .Site.Language.Lang "pt" }}seu@email.com{{ else }}your@email.com{{ end }}" required>
+    <button type="button" onclick="
+      var email = document.getElementById('inline-cta-email').value;
+      if (!email || !email.includes('@')) return;
+      if (typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'newsletter_subscribe', location: 'post_inline', email: email });
+      this.closest('.post-inline-cta').querySelector('.ic-form').style.display='none';
+      this.closest('.post-inline-cta').querySelector('.post-inline-success').classList.add('show');
+    ">
+      {{ if eq .Site.Language.Lang "pt" }}Inscrever-se{{ else }}Subscribe{{ end }} →
+    </button>
+  </div>
+  <div class="post-inline-success">
+    {{ if eq .Site.Language.Lang "pt" }}✓ Inscrito · verifique sua caixa de entrada{{ else }}✓ Subscribed · check your inbox{{ end }}
+  </div>
+  <div class="micro">
+    {{ if eq .Site.Language.Lang "pt" }}Mensal · sem spam · 1 clique para sair{{ else }}Monthly · no spam · 1-click unsubscribe{{ end }}
+  </div>
+</div>

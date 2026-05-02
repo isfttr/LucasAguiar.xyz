@@ -1,39 +1,63 @@
-{{ define "main" }} {{ $mainSections := .Site.Params.mainSections | default
-(slice "posts") }} {{ $posts := where .Site.RegularPages "Section" "in"
-$mainSections }} {{ $featured := index $posts 0 }} {{ $recent := after 1 (first
-4 $posts) }} {{/* ── Hero ── */}}
+{{ define "main" }}
+{{ $mainSections := .Site.Params.mainSections | default (slice "posts") }}
+{{ $posts := where .Site.RegularPages "Section" "in" $mainSections }}
+{{ $featured := index $posts 0 }}
+{{ $recent := after 1 (first 4 $posts) }}
+
+{{/* ── Hero ── */}}
 <section class="ed-hero">
     <div class="container">
         <div class="ed-hero-grid">
             <div>
                 <div class="ed-hero-eyebrow fade-up">
+                    {{ if eq .Site.Language.Lang "pt" }}
+                    Ensaios · Notas · Pesquisa
+                    {{ else }}
                     Analysis · Strategy · Research
+                    {{ end }}
                 </div>
                 <h1 class="fade-up delay-1">
+                    {{ if eq .Site.Language.Lang "pt" }}
+                    Um diário sobre <em>química</em>,<br />
+                    propriedade intelectual,<br />
+                    e a arte de <em>construir</em>.
+                    {{ else }}
                     A journal on <em>chemistry</em>,<br />
                     intellectual property,<br />
                     and the craft of <em>building</em>.
+                    {{ end }}
                 </h1>
                 <div class="ed-hero-meta fade-up delay-2">
-                    <div>Written by<strong>Lucas F. Aguiar</strong></div>
-                    <div>Based in<strong>Brasília, Brazil</strong></div>
-                    <div>Essays<strong>{{ len $posts }}</strong></div>
+                    <div>{{ if eq .Site.Language.Lang "pt" }}Por{{ else }}Written by{{ end }}<strong>Lucas F. Aguiar</strong></div>
+                    <div>{{ if eq .Site.Language.Lang "pt" }}Em{{ else }}Based in{{ end }}<strong>{{ if eq .Site.Language.Lang "pt" }}Brasília, Brasil{{ else }}Brasília, Brazil{{ end }}</strong></div>
+                    <div>{{ if eq .Site.Language.Lang "pt" }}Ensaios{{ else }}Essays{{ end }}<strong>{{ len $posts }}</strong></div>
                 </div>
+                {{/* Hero subscribe pill */}}
+                <a href="#newsletter-band" class="ed-hero-pill fade-up delay-3"
+                   onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'newsletter_subscribe', location: 'hero_pill' })">
+                    <span class="badge">{{ i18n "subscribe" }}</span>
+                    {{ if eq .Site.Language.Lang "pt" }}Diagnóstico de PI grátis na resposta{{ else }}Free IP read on reply{{ end }}
+                    <span class="arr">→</span>
+                </a>
             </div>
             <div class="ed-hero-aside fade-up delay-2">
                 <span class="quote-mark">"</span>
-                The best way I know to understand something is to try to explain
-                it — to students, to clients, to myself, six months later.
+                {{ if eq .Site.Language.Lang "pt" }}
+                A melhor maneira que conheço de entender algo é tentar explicá-lo — a alunos, a clientes, a mim mesmo, seis meses depois.
+                {{ else }}
+                The best way I know to understand something is to try to explain it — to students, to clients, to myself, six months later.
+                {{ end }}
             </div>
         </div>
     </div>
 </section>
 
-{{/* ── Featured post ── */}} {{ with $featured }}
+{{/* ── Featured post ── */}}
+{{ with $featured }}
 <section class="ed-featured">
     <div class="container">
         <div class="ed-featured-label">
-            <span class="mono-label">The Lead Essay</span>
+            <span class="mono-label">{{ if eq $.Site.Language.Lang "pt" }}Ensaio Principal{{ else }}The Lead Essay{{ end }}</span>
             <hr />
             <span class="mono-label">№ 001</span>
         </div>
@@ -42,7 +66,7 @@ $mainSections }} {{ $featured := index $posts 0 }} {{ $recent := after 1 (first
                 {{ with .Params.featured_image }}
                 <img src="{{ . }}" alt="{{ $.Title }}" />
                 {{ else }}
-                <div class="img-placeholder">Featured illustration</div>
+                <div class="img-placeholder">{{ if eq $.Site.Language.Lang "pt" }}Ilustração principal{{ else }}Featured illustration{{ end }}</div>
                 {{ end }}
             </a>
             <div>
@@ -52,25 +76,24 @@ $mainSections }} {{ $featured := index $posts 0 }} {{ $recent := after 1 (first
                 <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
                 <p>{{ .Summary | truncate 200 }}</p>
                 <div class="ed-byline">
-                    <span
-                        >{{ .Site.Params.author | default "Lucas Aguiar"
-                        }}</span
-                    >
+                    <span>{{ .Site.Params.author | default "Lucas Aguiar" }}</span>
                     <span class="dot"></span>
                     <span>{{ .Date.Format "Jan 2, 2006" }}</span>
-                    {{ if .ReadingTime }}<span class="dot"></span
-                    ><span>{{ .ReadingTime }} min read</span>{{ end }}
+                    {{ if .ReadingTime }}<span class="dot"></span><span>{{ .ReadingTime }} min {{ if eq $.Site.Language.Lang "pt" }}de leitura{{ else }}read{{ end }}</span>{{ end }}
                 </div>
             </div>
         </div>
     </div>
 </section>
-{{ end }} {{/* ── Recent posts grid ── */}} {{ if $recent }}
+{{ end }}
+
+{{/* ── Recent posts grid ── */}}
+{{ if $recent }}
 <section class="ed-grid">
     <div class="container">
         <div class="ed-grid-head">
-            <h2>Recent writing</h2>
-            <a href="/posts/" class="btn-link">All essays</a>
+            <h2>{{ if eq .Site.Language.Lang "pt" }}Textos recentes{{ else }}Recent writing{{ end }}</h2>
+            <a href="{{ relLangURL "posts/" }}" class="btn-link">{{ if eq .Site.Language.Lang "pt" }}Todos os ensaios{{ else }}All essays{{ end }}</a>
         </div>
         <div class="ed-grid-posts">
             {{ range $i, $p := $recent }}
@@ -85,22 +108,26 @@ $mainSections }} {{ $featured := index $posts 0 }} {{ $recent := after 1 (first
                 <h3><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h3>
                 <p>{{ $p.Summary | truncate 120 }}</p>
                 <div class="ed-post-meta">
-                    {{ $p.Date.Format "Jan 2, 2006" }}{{ if $p.ReadingTime }} ·
-                    {{ $p.ReadingTime }} min{{ end }}
+                    {{ $p.Date.Format "Jan 2, 2006" }}{{ if $p.ReadingTime }} · {{ $p.ReadingTime }} min{{ end }}
                 </div>
             </article>
             {{ end }}
         </div>
     </div>
 </section>
-{{ end }} {{/* ── Pull quote ── */}}
+{{ end }}
+
+{{/* ── Pull quote ── */}}
 <section class="ed-pull reveal">
     <div class="container">
         <blockquote>
-            "Patents are the technical literature of the future. To draft one
-            well is to <em>commit a possibility</em> to record."
+            {{ if eq .Site.Language.Lang "pt" }}
+            "Patentes são a literatura técnica do futuro. Redigir uma bem é <em>comprometer uma possibilidade</em> ao registro."
+            {{ else }}
+            "Patents are the technical literature of the future. To draft one well is to <em>commit a possibility</em> to record."
+            {{ end }}
         </blockquote>
-        <cite>From the about page</cite>
+        <cite>{{ if eq .Site.Language.Lang "pt" }}Da página sobre{{ else }}From the about page{{ end }}</cite>
     </div>
 </section>
 
@@ -108,69 +135,106 @@ $mainSections }} {{ $featured := index $posts 0 }} {{ $recent := after 1 (first
 <section class="ed-work reveal">
     <div class="container">
         <div class="ed-work-head">
-            <h2>What I work on</h2>
-            <span class="mono-label">Four practice areas</span>
+            <h2>{{ if eq .Site.Language.Lang "pt" }}Minhas áreas{{ else }}What I work on{{ end }}</h2>
+            <span class="mono-label">{{ if eq .Site.Language.Lang "pt" }}Quatro áreas de atuação{{ else }}Four practice areas{{ end }}</span>
         </div>
         <div class="ed-work-grid">
             <div class="ed-work-item">
                 <span class="num">01</span>
-                <h3>Patent Prosecution</h3>
+                <h3>{{ if eq .Site.Language.Lang "pt" }}Redação de Patentes{{ else }}Patent Prosecution{{ end }}</h3>
                 <p>
-                    Drafting and prosecuting applications in chemistry,
-                    materials science and pharmaceuticals.
+                    {{ if eq .Site.Language.Lang "pt" }}
+                    Redação e acompanhamento de pedidos em química, ciência dos materiais e farmacêutica.
+                    {{ else }}
+                    Drafting and prosecuting applications in chemistry, materials science and pharmaceuticals.
+                    {{ end }}
                 </p>
             </div>
             <div class="ed-work-item">
                 <span class="num">02</span>
-                <h3>IP Consulting</h3>
+                <h3>{{ if eq .Site.Language.Lang "pt" }}Consultoria em PI{{ else }}IP Consulting{{ end }}</h3>
                 <p>
-                    Strategy, patentability assessments, and commercialization
-                    pathways.
+                    {{ if eq .Site.Language.Lang "pt" }}
+                    Estratégia, análises de patenteabilidade e trajetórias de comercialização.
+                    {{ else }}
+                    Strategy, patentability assessments, and commercialization pathways.
+                    {{ end }}
                 </p>
             </div>
             <div class="ed-work-item">
                 <span class="num">03</span>
-                <h3>Research and Development</h3>
+                <h3>{{ if eq .Site.Language.Lang "pt" }}Pesquisa e Desenvolvimento{{ else }}Research and Development{{ end }}</h3>
                 <p>
-                    PhD work in topics around carbon capture, such as
-                    freeze-casting, dense membranes, and commercial systems at
-                    LMCNano/UnB.
+                    {{ if eq .Site.Language.Lang "pt" }}
+                    Doutorado em fotovoltaicos de perovskita, membranas de separação de gases e captura de carbono no LMCNano/UnB.
+                    {{ else }}
+                    PhD work on perovskite solar cells, gas separation membranes, and carbon capture at LMCNano/UnB.
+                    {{ end }}
                 </p>
             </div>
             <div class="ed-work-item">
                 <span class="num">04</span>
-                <h3>Writing &amp; Teaching</h3>
+                <h3>{{ if eq .Site.Language.Lang "pt" }}Escrita &amp; Ensino{{ else }}Writing &amp; Teaching{{ end }}</h3>
                 <p>
-                    Essays and guest lectures on innovation and IP education and
-                    strategies.
+                    {{ if eq .Site.Language.Lang "pt" }}
+                    Ensaios e palestras sobre inovação, PI e como a IA transforma o trabalho técnico.
+                    {{ else }}
+                    Essays and guest lectures on innovation, IP education, and how AI transforms technical work.
+                    {{ end }}
                 </p>
             </div>
         </div>
     </div>
 </section>
 
-{{/* ── Newsletter / contact CTA ── */}}
-<section class="ed-newsletter reveal">
+{{/* ── Newsletter band (primary CTA) ── */}}
+<section class="ed-newsletter reveal" id="newsletter-band">
     <div class="container">
         <div class="ed-newsletter-inner">
             <div>
-                <h2>Get in touch.</h2>
+                <div class="ed-hero-eyebrow" style="margin-bottom:16px">
+                    {{ if eq .Site.Language.Lang "pt" }}A Newsletter · Grátis{{ else }}The Newsletter · Free{{ end }}
+                </div>
+                <h2>
+                    {{ if eq .Site.Language.Lang "pt" }}
+                    Uma carta, uma vez por mês <em style="color:var(--accent);font-style:italic">+ uma análise de PI grátis</em> sobre o que você responder.
+                    {{ else }}
+                    A letter, once a month <em style="color:var(--accent);font-style:italic">+ a free IP read</em> on what you reply with.
+                    {{ end }}
+                </h2>
                 <p>
-                    Whether it's a patent question, a speaking invitation, or
-                    just a note — I read everything and respond to most within a
-                    few days.
+                    {{ if eq .Site.Language.Lang "pt" }}
+                    Inscreva-se e responda ao email de boas-vindas com o que você está desenvolvendo. Devolvo uma análise curta e honesta — ângulo de patenteabilidade, anterioridade, por onde começar. De um redator de patentes e consultor em PI do Ministério da Saúde.
+                    {{ else }}
+                    Subscribe and reply to the welcome email with what you're working on. I'll send back a short, honest take — patentability angle, prior art notes, where to start. From a working patent prosecutor and IP consultant for Brazil's Ministry of Health.
+                    {{ end }}
                 </p>
             </div>
             <div>
-                <a href="/contact/" class="btn btn-primary" onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { location: 'home_page' })"
-                    >Start a conversation →</a
-                >
-                <div class="ed-form-note" style="margin-top: 16px">
-                    Patent drafting · IP strategy · Collaboration
+                <div class="ed-form-row">
+                    <input type="email" id="home-newsletter-email" placeholder="{{ if eq .Site.Language.Lang "pt" }}seu@email.com{{ else }}your@email.com{{ end }}" required>
+                    <button type="button" onclick="
+                      var email = document.getElementById('home-newsletter-email').value;
+                      if (!email || !email.includes('@')) return;
+                      if (typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'newsletter_subscribe', location: 'home_newsletter', email: email });
+                      this.closest('.ed-newsletter').querySelector('.ed-newsletter-success').classList.add('show');
+                      this.closest('.ed-form-row').style.display='none';
+                    ">
+                        {{ i18n "subscribe" }} →
+                    </button>
+                </div>
+                <div class="ed-newsletter-success">
+                    {{ if eq .Site.Language.Lang "pt" }}✓ INSCRITO · verifique sua caixa de entrada{{ else }}✓ SUBSCRIBED · check your inbox{{ end }}
+                </div>
+                <div class="ed-newsletter-deliverables">
+                    <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}Análise grátis na resposta{{ else }}Free IP read on reply{{ end }}</span>
+                    <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}Mensal · sem spam{{ else }}Monthly · no spam{{ end }}</span>
+                    <span class="ed-newsletter-deliv">{{ if eq .Site.Language.Lang "pt" }}1 clique para sair{{ else }}1-click unsubscribe{{ end }}</span>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-{{ partial "buy-me-coffee.html" . }} {{ end }}
+{{ partial "buy-me-coffee.html" . }}
+{{ end }}

@@ -1,12 +1,15 @@
 {{ define "main" }}
 {{ $section := .Site.GetPage "section" .Section }}
 
+{{/* Reading progress bar */}}
+<div class="read-progress" id="read-progress"></div>
+
 <div class="post-wrap">
 
   {{/* Back link */}}
   <div class="container">
-    <a href="{{ with $section }}{{ .RelPermalink }}{{ else }}/posts/{{ end }}" class="post-back">
-      ← All essays
+    <a href="{{ with $section }}{{ .RelPermalink }}{{ else }}{{ relLangURL "posts/" }}{{ end }}" class="post-back">
+      ← {{ if eq .Site.Language.Lang "pt" }}Todos os ensaios{{ else }}All essays{{ end }}
     </a>
   </div>
 
@@ -43,6 +46,9 @@
     {{ .Content }}
   </article>
 
+  {{/* Inline newsletter CTA — appears after post content */}}
+  {{ partial "newsletter-inline-cta.html" . }}
+
   {{/* Tags */}}
   {{ with .Params.tags }}
   <div class="post-tags container">
@@ -50,11 +56,13 @@
   </div>
   {{ end }}
 
-  {{/* Extras: related posts, buy me a coffee, contact form */}}
+  {{/* End-of-post author + newsletter offer */}}
+  {{ partial "newsletter-end-cta.html" . }}
+
+  {{/* Related posts + buy me a coffee */}}
   <div class="post-extras">
     {{- partial "related-posts.html" . -}}
     {{- partial "buy-me-coffee.html" . -}}
-    {{- partial "form-contact.html" . -}}
   </div>
 
   {{/* Prev / Next */}}
@@ -70,4 +78,22 @@
   </div>
 
 </div>
+
+{{/* Sticky floating newsletter CTA */}}
+{{ partial "sticky-newsletter.html" . }}
+
+{{/* Reading progress bar script */}}
+<script>
+(function () {
+  var bar = document.getElementById('read-progress');
+  if (!bar) return;
+  function update() {
+    var total = document.documentElement.scrollHeight - window.innerHeight;
+    if (total <= 0) return;
+    bar.style.width = Math.min(100, (window.scrollY / total) * 100) + '%';
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  update();
+})();
+</script>
 {{ end }}

@@ -1,0 +1,73 @@
+{{/* End-of-post author + newsletter offer block */}}
+<div class="post-end-cta">
+  <div class="post-end-cta-grid">
+    <div>
+      <div class="post-end-avatar">
+        <img src="https://lucasaguiarxyzstorage.blob.core.windows.net/images/lucas-perfil-2022.jpg" alt="Lucas Aguiar">
+      </div>
+    </div>
+    <div>
+      <div class="post-end-eyebrow">
+        {{ if eq .Site.Language.Lang "pt" }}Sobre o autor{{ else }}About the author{{ end }}
+      </div>
+      <h3>
+        {{ if eq .Site.Language.Lang "pt" }}
+          Receba uma <em>análise de PI grátis</em> sobre o que você está desenvolvendo.
+        {{ else }}
+          Get a <em>free IP read</em> on what you're building.
+        {{ end }}
+      </h3>
+      <p class="post-end-bio">
+        {{ if eq .Site.Language.Lang "pt" }}
+          Sou Lucas Aguiar — químico, redator de patentes e consultor técnico em PI do Ministério da Saúde. Inscreva-se na newsletter e responda ao email de boas-vindas com o que você está desenvolvendo: devolvo uma análise curta e honesta sobre patenteabilidade, anterioridade ou por onde começar.
+        {{ else }}
+          I'm Lucas Aguiar — chemist, patent prosecutor, and technical IP consultant for Brazil's Ministry of Health. Subscribe to the newsletter and reply to the welcome email with what you're building: I'll send back a short, honest take — patentability angle, prior art notes, where to start.
+        {{ end }}
+      </p>
+      <div class="post-end-creds">
+        {{ if eq .Site.Language.Lang "pt" }}
+          <span class="post-end-cred">Doutorando, UnB</span>
+          <span class="post-end-cred">Consultor em PI · Ministério da Saúde</span>
+          <span class="post-end-cred">Redator de patentes · 8+ anos</span>
+          <span class="post-end-cred">Química · Materiais · Farmacêutica</span>
+        {{ else }}
+          <span class="post-end-cred">PhD Candidate, UnB</span>
+          <span class="post-end-cred">IP Consultant · Ministry of Health</span>
+          <span class="post-end-cred">Patent Prosecutor · 8+ years</span>
+          <span class="post-end-cred">Chemistry · Materials · Pharma</span>
+        {{ end }}
+      </div>
+      <div class="post-end-offer">
+        <input type="email" id="end-cta-email" placeholder="{{ if eq .Site.Language.Lang "pt" }}seu@email.com{{ else }}your@email.com{{ end }}" required>
+        <button type="button" onclick="
+          var email = document.getElementById('end-cta-email').value;
+          if (!email || !email.includes('@')) return;
+          if (typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'newsletter_subscribe', location: 'post_end', email: email });
+          this.closest('.post-end-offer').style.display='none';
+          this.closest('.post-end-cta').querySelector('.post-end-end-success').classList.add('show');
+        ">
+          {{ if eq .Site.Language.Lang "pt" }}Inscrever-se{{ else }}Subscribe{{ end }} →
+        </button>
+      </div>
+      <div class="post-end-end-success">
+        <strong>{{ if eq .Site.Language.Lang "pt" }}✓ INSCRITO{{ else }}✓ SUBSCRIBED{{ end }}</strong>
+        {{ if eq .Site.Language.Lang "pt" }}
+          Obrigado! Verifique seu email e responda com o que você está desenvolvendo — respondo em alguns dias.
+        {{ else }}
+          Thank you! Check your inbox and reply with what you're building — I'll respond within a few days.
+        {{ end }}
+      </div>
+      <div class="post-end-micro">
+        {{ if eq .Site.Language.Lang "pt" }}
+          <span>Mensal · sem spam</span>
+          <span>Análise grátis na resposta</span>
+          <span>1 clique para sair</span>
+        {{ else }}
+          <span>Monthly · no spam</span>
+          <span>Free IP read on reply</span>
+          <span>1-click unsubscribe</span>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
