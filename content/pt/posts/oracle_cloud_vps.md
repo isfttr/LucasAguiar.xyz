@@ -72,5 +72,9 @@ Esta é uma visão geral deste problema e como eu o resolvi. Há muitos pequenos
 
 Espero que este artigo tenha sido útil para alguns de vocês que estão tentando expor alguma aplicação interna ao tráfego externo, mas não conseguem devido a algumas configurações da provedora de internet.
 
+Leia também:
+
+- [Newsletter Beehiiv com Cloudflare Workers e GitHub Pages]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.
