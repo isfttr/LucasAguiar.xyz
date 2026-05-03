@@ -23,4 +23,10 @@ When we came to the third month, things started getting increasingly easier. We 
 
 As things become easier I decided in June to dab into the IT, studied for a month or so and got the AZ900 certification which was really cool as I was exploring new options. Since then I took a break and am proceeding with caution. As part of my curiosity during this time I created this blog, which sat almost unused since it came online.
 
-This journey is making me prioritize some things over others and making me not overthinking as it creates too much anxiety. 
+This journey is making me prioritize some things over others and making me not overthinking as it creates too much anxiety.
+
+Read also:
+
+- [10 Years Using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
+- [Introduction to My New Space on the Internet]({{< relref "posts/introduction/" >}})
+- [Thoughts on the Hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})

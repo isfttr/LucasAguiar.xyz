@@ -170,6 +170,12 @@ Com a configuração certa, consegui transformar a minha relação com projetos 
 
 Mais alguém achou as ferramentas de IA úteis para superar a procrastinação? Adoraria saber as vossas experiências!
 
+Leia também:
+
+- [De Cursor ao Windsurf e Zed: Minha Jornada pelos Editores de Código com IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [Por Que Estou Largando o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Obsidian + Copilot]({{< relref "posts/10-obsidian-copilot/" >}})
+
 ---
 
 Pode contactar-me sobre este e outros tópicos no meu email <contact@lucasaguiar.xyz>

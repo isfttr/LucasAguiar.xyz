@@ -32,4 +32,10 @@ To wrap this up, I did a little digging into what was the number of iPods sold f
 
 ![Photo by hu.ma.ne.](/post/images/humane-ai-pin.jpeg)
 
+Read also:
+
+- [Creating My AI Assistant Locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [The AI Copy-Paste Problem]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [Life Update - November 2023]({{< relref "posts/update_on_life_november-2023/" >}})
+
 You can reach out to contact me about this or other topics at my email contact@lucasaguiar.xyz.

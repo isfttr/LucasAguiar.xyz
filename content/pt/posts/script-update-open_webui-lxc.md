@@ -99,5 +99,11 @@ crontab -e
 
 ## Conclusão
 
+Leia também:
+
+- [Corrigindo Erros de Login na Interface Web do Proxmox]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Como Corrigir o Bug de Modelos Personalizados Ausentes]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [Criando meu Assistente de IA Localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu email **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

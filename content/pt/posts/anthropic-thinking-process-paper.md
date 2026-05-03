@@ -153,6 +153,12 @@ A descoberta de que esses sistemas desenvolvem circuitos de raciocínio estrutur
 
 _O que você pensa sobre essas descobertas? O fato de que os sistemas de IA parecem desenvolver "regiões cerebrais" especializadas te surpreende? Adoraria ouvir seus pensamentos nos comentários abaixo._
 
+Leia também:
+
+- [O Problema do Copiar e Colar com IA]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [Por Que Estou Largando o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Criando meu Assistente de IA Localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+
 ---
 
 Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

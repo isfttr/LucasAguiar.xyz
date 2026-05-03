@@ -36,4 +36,10 @@ Para finalizar, pesquisei um pouco sobre o número de iPods vendidos nos primeir
 
 ![Foto por hu.ma.ne.](/post/images/humane-ai-pin.jpeg)
 
+Leia também:
+
+- [Criando meu Assistente de IA Localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [O Problema do Copiar e Colar com IA]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [Atualização de Vida - Novembro 2023]({{< relref "posts/update_on_life_november-2023/" >}})
+
 Você pode entrar em contato comigo sobre este ou outros tópicos pelo meu e-mail contact@lucasaguiar.xyz.

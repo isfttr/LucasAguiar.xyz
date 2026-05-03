@@ -64,6 +64,12 @@ O projeto de automação do INPI representa um passo significativo para a modern
 
 Você também pode assistir na íntegra a apresentação e as discussões sobre o assunto [assistindo ao vídeo](https://www.youtube.com/watch?v=OAXyPg1TsiQ).
 
+Leia também:
+
+- [O Backlog do INPI acabou — mas não para as patentes farmacêuticas]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [Patent Term Adjustment: a indústria farmacêutica perdeu no STJ, mas o debate chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
+
 Você pode entrar em contato comigo sobre este e outros tópicos em meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.
 
 {{< contact_form >}}

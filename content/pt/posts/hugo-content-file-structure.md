@@ -52,5 +52,11 @@ Minhas referências para isso estão por toda parte, mas aqui estão elas:
 2. [Modelos de página única - hugo](https://gohugo.io/templates/single-page-templates/)
 3. [Repositórios GitHub para "ananke"](https://github.com/search?q=ananke&type=repositories)
 
+Leia também:
+
+- [Guia Completo: Como Integrar o Beehiiv com Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+- [Usando a Camada Gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
+
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail contact@lucasaguiar.xyz ou preenchendo o formulário abaixo.

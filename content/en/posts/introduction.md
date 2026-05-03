@@ -66,3 +66,9 @@ So, this is where I am at. This last sunday, June 6th, 2023, was the day that I 
 In conclusion, this is part of the move. Finally I decided to do something that I should have done a long time ago, a personal page. I decided to buy my first domain (not literally because I had bought another for the car dealership that I worked) and host it in a GitHub page.
 
 My plans for this blog is to showcase my work, being in intellectual property or in technology, and also share my interests and hopefully contribute in any meaningful way to my readers experience. I also have many other interests, mainly in socioeconomics and history.
+
+Read also:
+
+- [10 Years Using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
+- [Life Update - November 2023]({{< relref "posts/update_on_life_november-2023/" >}})
+- [Thoughts on the Hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})

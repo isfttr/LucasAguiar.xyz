@@ -148,5 +148,11 @@ Preventing the "Proxmox Authentication Failure due to Missing Cluster Configurat
 
 By implementing these preventative measures, you can significantly reduce the risk of encountering the "Proxmox Authentication Failure due to Missing Cluster Configuration File" error and ensure the stability and reliability of your Proxmox cluster.
 
+Read also:
+
+- [Using Oracle Cloud Free Tier]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+- [Script for Updating Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
+
 ---
 You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

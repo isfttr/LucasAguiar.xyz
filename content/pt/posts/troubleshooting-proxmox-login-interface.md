@@ -148,8 +148,9 @@ Implementando essas medidas preventivas, você pode reduzir significativamente o
 
 Leia também:
 
-- [Oracle Cloud VPS]({{< relref "posts/oracle-cloud-vps/" >}})
+- [Oracle Cloud VPS]({{< relref "posts/oracle_cloud_vps/" >}})
 - [Newsletter Beehiiv com Cloudflare Workers e GitHub Pages]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+- [Script para Atualizar o Open WebUI em um LXC do Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
 
 ---
 Você pode me contatar sobre este e outros tópicos pelo e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

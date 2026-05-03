@@ -65,6 +65,12 @@ De quem é o interesse de que o sistema patentário brasileiro, em especial ao s
 
 A resposta que vier do Congresso vai definir as condições de retorno sobre investimentos em inovação farmacêutica no Brasil por décadas. E vai fazê-lo num contexto em que a [Nova Indústria Brasil]({{< ref "posts/nova-industria-brasil-saude-patentes.md" >}}) aposta R$ 57 bilhões justamente na construção de capacidade inovadora nacional — o que coloca os dois lados do debate no mesmo ecossistema de política pública.
 
+Leia também:
+
+- [O Backlog do INPI acabou — mas não para as patentes farmacêuticas]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [Roadmap de Automação do INPI 2025-2029]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
+
 ---
 
 Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>

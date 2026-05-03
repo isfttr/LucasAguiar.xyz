@@ -128,5 +128,11 @@ O que aprendi nesta jornada:
 
 Suspeito que esta jornada não terminou, pois o panorama das ferramentas de desenvolvimento continua a evoluir rapidamente, especialmente com a integração de IA tornando-se cada vez mais sofisticada. Mas, por enquanto, encontrei uma configuração que funciona bem para minhas necessidades, permanecendo aberto a novas possibilidades.
 
+Leia também:
+
+- [Por Que Estou Largando o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Duas Semanas com GitButler: Simplificando Meu Fluxo Git]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [Da Procrastinação ao Progresso: Como a IA Me Ajudou]({{< relref "posts/ai-beats-procrastination/" >}})
+
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.
