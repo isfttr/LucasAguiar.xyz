@@ -78,3 +78,8 @@ endLevel = 6
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
+[markup.highlight]
+noClasses = false
+style = "dracula"
+lineNos = false
+codeFences = true
