@@ -26,6 +26,6 @@ The device model could be set to `virtio` or other models, from what I tested th
 
 Read also:
 
-- [Using Oracle Cloud Free Tier]({{< relref "posts/oracle_cloud_vps/" >}})
-- [Fix Proxmox Web Interface Login Errors]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 - [Script for Updating Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})

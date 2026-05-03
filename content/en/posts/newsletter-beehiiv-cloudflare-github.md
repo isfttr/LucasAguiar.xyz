@@ -244,8 +244,8 @@ I hope this guide has clarified the architecture for creating a robust and invis
 
 Read also:
 
-- [Oracle Cloud VPS]({{< relref "posts/oracle_cloud_vps/" >}})
-- [Troubleshooting Proxmox Login Interface]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 - [Hugo Content File Structure]({{< relref "posts/hugo-content-file-structure/" >}})
 
 ---

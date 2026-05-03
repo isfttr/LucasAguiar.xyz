@@ -1,0 +1,728 @@
+{
+  "last_updated": "2026-05-03T22:37:36.088Z",
+  "posts": {
+    "10-obsidian-copilot": {
+      "slug": "10-obsidian-copilot",
+      "title_en": "Obsidian + Copilot",
+      "title_pt": "Obsidian + Copilot",
+      "tags": [
+        "technology",
+        "artificial-intelligence",
+        "obsidian",
+        "RAG"
+      ],
+      "categories": [
+        "tutorial"
+      ],
+      "description_en": "Using OpenRouter to power AI in Obsidian.",
+      "content_hash_en": "f9c7ba345c8b425a9b6e064caffd03ed7b553f2422d63f3793feff97a18e04e3",
+      "backlinks": [
+        "creating-my-ai-assistant-locally",
+        "anthropic-thinking-process-paper",
+        "ai-beats-procrastination"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "10-years-of-macbook-pro": {
+      "slug": "10-years-of-macbook-pro",
+      "title_en": "10 years using the MacBook Pro 9,2",
+      "title_pt": "10 anos usando o MacBook Pro 9,2",
+      "tags": [
+        "apple",
+        "macbook-pro",
+        "notebook",
+        "MacOS",
+        "linux",
+        "zorin",
+        "Arch",
+        "ubuntu",
+        "upgrade",
+        "OpenCore"
+      ],
+      "categories": [],
+      "description_en": "10 years with a laptop is quite a journey and unimaginable 10 years ago, and here we are.",
+      "content_hash_en": "8be8c58890b76f116e077db2a6649aa4eba2d51fe2f3b4d7f8d14f3986a92dcd",
+      "backlinks": [
+        "nixos-vm1",
+        "introduction",
+        "update_on_life_november-2023"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "_index": {
+      "slug": "_index",
+      "title_en": "Blog",
+      "title_pt": "Blog",
+      "tags": [],
+      "categories": [],
+      "description_en": "",
+      "content_hash_en": "a4cc594fabc2f90d8501a74da0830cd65c555507bca9fd46d2b79b4d5499a665",
+      "backlinks": [
+        "introduction",
+        "inpi-automation-roadmap-2025-2029",
+        "ai-copy-paste-problem"
+      ],
+      "backlink_source": "file",
+      "last_processed": "2026-05-03T22:34:47.179Z"
+    },
+    "ai-beats-procrastination": {
+      "slug": "ai-beats-procrastination",
+      "title_en": "From Procrastination to Progress: How AI has helped me",
+      "title_pt": "Da Procrastinação ao Progresso: Como a IA me tem ajudado",
+      "tags": [
+        "cursor",
+        "vs code",
+        "code-editors",
+        "cursor",
+        "windsurf",
+        "zed",
+        "artificial-intelligence",
+        "procrastination"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "",
+      "content_hash_en": "9a92f34bf874603b2f246d83be96f04bb583a9fd961adf971e644e3c2856bf62",
+      "backlinks": [
+        "experience-with-cursor-and-windsurf",
+        "vibe-coding-pitfalls",
+        "10-obsidian-copilot"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "ai-copy-paste-problem": {
+      "slug": "ai-copy-paste-problem",
+      "title_en": "The AI Copy-Paste Problem: Killing Software Lock-In & Why Data Portability is Key",
+      "title_pt": "O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software e Por que a Portabilidade de Dados é Fundamental",
+      "tags": [
+        "technology",
+        "artificial-intelligence",
+        "software development"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "AI is changing the game for software companies. The emerging \"AI Copy-Paste Problem\" highlights the declining effectiveness of software lock-in. Users now prioritize data portability, enabled by accessible AI tools, allowing them to easily move between platforms. This article examines how businesses can adapt by embracing data interoperability to build genuine customer loyalty in the age of AI.",
+      "content_hash_en": "0f0c1dc2bf2a684b4ecd127e426c8595ad128dc73f1eaf1a232fc597a0a31583",
+      "backlinks": [
+        "anthropic-thinking-process-paper",
+        "vibe-coding-pitfalls",
+        "ai-beats-procrastination"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "ai-pin": {
+      "slug": "ai-pin",
+      "title_en": "Thoughts on the hu.ma.ne AI Pin",
+      "title_pt": "Pensamentos sobre o hu.ma.ne AI Pin",
+      "tags": [
+        "AI",
+        "thoughts",
+        "humane",
+        "gadget"
+      ],
+      "categories": [],
+      "description_en": "The startup hu.ma.ne launched its first product, the AI Pin. This device is really different and it is another landmark on the beginning of the AI era. A device exclusively made to be the AI assistant for the everyday folk. Will it succeed?",
+      "content_hash_en": "2dd9d30c2ad71e73feea9976643f490ffaced11818dd486d8217e13d0fb02b7d",
+      "backlinks": [
+        "creating-my-ai-assistant-locally",
+        "ai-copy-paste-problem",
+        "update_on_life_november-2023"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "ai-powered-protein-sequencing": {
+      "slug": "ai-powered-protein-sequencing",
+      "title_en": "What Are Proteins and Why is AI-Powered Protein Sequencing a Game Changer?",
+      "title_pt": "O Que São Proteínas e Por Que o Sequenciamento de Proteínas Impulsionado por IA é um Divisor de Águas?",
+      "tags": [
+        "artificial-intelligence",
+        "biotechnology",
+        "protein-sequencing",
+        "science",
+        "medicine",
+        "research"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Learn how artificial intelligence is revolutionizing our understanding of proteins - the workhorses of life - and transforming medicine, agriculture, and environmental science along the way.",
+      "content_hash_en": "5061ae86c01b10df6b429cf953df8b09ea98dec0fe57127f8e1e8c29d28ca616",
+      "backlinks": [
+        "ia-desenvolvimento-software-complexidade-codigo",
+        "backlog-inpi-patentes-farmaceuticas",
+        "anthropic-thinking-process-paper"
+      ],
+      "backlink_source": "file",
+      "last_processed": "2026-05-03T22:35:12.015Z"
+    },
+    "anthropic-thinking-process-paper": {
+      "slug": "anthropic-thinking-process-paper",
+      "title_en": "Inside AI Brains: How Anthropic Decoded Claude's Thinking Process",
+      "title_pt": "Dentro dos Cérebros de IA: Como a Anthropic Decodificou o Processo de Pensamento de Claude",
+      "tags": [
+        "artificial-intelligence",
+        "llm",
+        "interpretability",
+        "research",
+        "claude",
+        "anthropic"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "A breakdown of how researchers are peering inside Claude's 'mind' and discovering surprising parallels with biological systems in Anthropic's groundbreaking new paper.",
+      "content_hash_en": "0b27cc22b5b7f0f935c3ddcb8b29a0cc8d4e907c7b859a4f511c6e092ffed2c8",
+      "backlinks": [
+        "ai-copy-paste-problem",
+        "vibe-coding-pitfalls",
+        "creating-my-ai-assistant-locally"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "backlog-inpi-patentes-farmaceuticas": {
+      "slug": "backlog-inpi-patentes-farmaceuticas",
+      "title_en": "The INPI backlog is over — but not for pharmaceutical patents",
+      "title_pt": "O backlog do INPI acabou — mas não para patentes de medicamentos",
+      "tags": [
+        "inpi",
+        "patentes",
+        "propriedade-intelectual",
+        "medicamentos",
+        "regulação",
+        "biotecnologia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "The Backlog Combat Plan reduced overall stock by 80%, but pharmaceutical orders were left out. Understand what changed with Ordinance 110/2025 and what is still pending.",
+      "content_hash_en": "395b15577cf4547ffcb633121e197831ba1401f96723d627e7502f6901c5c23e",
+      "backlinks": [
+        "inpi-automation-roadmap-2025-2029",
+        "propostas_pta_patentes_2026",
+        "introduction"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "creating-my-ai-assistant-locally": {
+      "slug": "creating-my-ai-assistant-locally",
+      "title_en": "Creating my AI assistant locally",
+      "title_pt": "Criando meu assistente de IA localmente",
+      "tags": [
+        "AI",
+        "RAG",
+        "ollama",
+        "mistral",
+        "privateGPT",
+        "M2",
+        "MacBook-Air"
+      ],
+      "categories": [],
+      "description_en": "For the first time I tried to break with ChatGPT and Copilot to see what I could come up with.",
+      "content_hash_en": "9bb2ae35ab737fd05a15febf3a71004b39819e30116a7974eca2c9139ae8a776",
+      "backlinks": [
+        "10-obsidian-copilot",
+        "script-update-open_webui-lxc",
+        "fix-custom-models-open-webui"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "experience-with-cursor-and-windsurf": {
+      "slug": "experience-with-cursor-and-windsurf",
+      "title_en": "From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors",
+      "title_pt": "De Cursor a Windsurf a Zed: Minha Jornada Através de Editores de Código Aprimorados por IA",
+      "tags": [
+        "development",
+        "tools",
+        "code-editors",
+        "cursor",
+        "windsurf",
+        "zed",
+        "artificial-intelligence"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "A personal review of my experiences with Cursor, Windsurf, and other modern code editors, including their AI capabilities, extension support, and overall user experience.",
+      "content_hash_en": "f13b79296061539debc4ecedfefaa6d2c34d968a09f4491bdb063e681aea7643",
+      "backlinks": [
+        "vibe-coding-pitfalls",
+        "one-week-review-gitbutler",
+        "ai-beats-procrastination"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "fix-custom-models-open-webui": {
+      "slug": "fix-custom-models-open-webui",
+      "title_en": "How to fix the Missing Custom Models bug",
+      "title_pt": "Como corrigir o bug de Modelos Personalizados Ausentes",
+      "tags": [
+        "open-webui",
+        "fix"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "",
+      "content_hash_en": "f35965c3160f9d4aed213dcad6269ca77cc432adbe04b9a648f2599a9ee0bca8",
+      "backlinks": [
+        "script-update-open_webui-lxc",
+        "creating-my-ai-assistant-locally",
+        "troubleshooting-proxmox-login-interface"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "flask-progress-bars-and-beyond": {
+      "slug": "flask-progress-bars-and-beyond",
+      "title_en": "Building Interactive Flask Web Apps: Progress Bars and Beyond",
+      "title_pt": "Desenvolvendo Aplicações Web Flask Interativas: Barras de Progresso e Além",
+      "tags": [
+        "python",
+        "flask",
+        "web development",
+        "javascript",
+        "ajax",
+        "socketio"
+      ],
+      "categories": [
+        "tutorial"
+      ],
+      "description_en": "A practical guide to implementing progress bars, real-time updates, and other interactive features in your Flask web applications.",
+      "content_hash_en": "2ee245d7492cee513ea5e72ec37ec08af4438f58a03ae17d0621b61e045ca893",
+      "backlinks": [
+        "python-modules-guide",
+        "oracle_cloud_vps",
+        "how-to-setup-github-secrets"
+      ],
+      "backlink_source": "file",
+      "last_processed": "2026-05-03T22:35:29.123Z"
+    },
+    "how-to-setup-github-secrets": {
+      "slug": "how-to-setup-github-secrets",
+      "title_en": "How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications",
+      "title_pt": "Como Configurar e Usar Segredos do GitHub com Contêineres e Aplicações Voltadas para a Internet",
+      "tags": [
+        "github",
+        "security",
+        "containers",
+        "docker",
+        "devops",
+        "ci-cd",
+        "secrets-management"
+      ],
+      "categories": [
+        "tutorial"
+      ],
+      "description_en": "Learn how to securely manage sensitive information in your GitHub projects using Secrets and integrate them with containerized applications and services exposed to the internet.",
+      "content_hash_en": "39cdd177d1c2f2d4b062e5f68f90ef0f51e8fe140e1430b308676080453d8c63",
+      "backlinks": [
+        "oracle_cloud_vps",
+        "script-update-open_webui-lxc",
+        "one-week-review-gitbutler"
+      ],
+      "backlink_source": "file",
+      "last_processed": "2026-05-03T22:35:53.034Z"
+    },
+    "hugo-content-file-structure": {
+      "slug": "hugo-content-file-structure",
+      "title_en": "Hugo Content File Structure",
+      "title_pt": "Estrutura de Arquivos de Conteúdo do Hugo",
+      "tags": [
+        "documentation",
+        "hugo",
+        "ananke"
+      ],
+      "categories": [
+        "articles"
+      ],
+      "description_en": "",
+      "content_hash_en": "cec107eb4d602ae570556afc9d27e30b216b1609d6b8bb75807490526d51b703",
+      "backlinks": [
+        "newsletter-beehiiv-cloudflare-github",
+        "oracle_cloud_vps",
+        "introduction"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "ia-desenvolvimento-software-complexidade-codigo": {
+      "slug": "ia-desenvolvimento-software-complexidade-codigo",
+      "title_en": "From Developers to Scientists: How AI Is Transforming the Complexity of Code",
+      "title_pt": "De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código",
+      "tags": [
+        "inteligência artificial",
+        "tecnologia",
+        "linkedin",
+        "amazon",
+        "aws",
+        "doenças",
+        "amiloidose"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "The increasing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
+      "content_hash_en": "04fc5ea3ec54abf70d300e0d4e22dc079c89b7a42d91040f91e542e1b520caa9",
+      "backlinks": [
+        "ai-copy-paste-problem",
+        "experience-with-cursor-and-windsurf",
+        "vibe-coding-pitfalls"
+      ],
+      "backlink_source": "file",
+      "last_processed": "2026-05-03T22:36:16.514Z"
+    },
+    "inpi-automation-roadmap-2025-2029": {
+      "slug": "inpi-automation-roadmap-2025-2029",
+      "title_en": "INPI's Ambitious Automation Roadmap",
+      "title_pt": "Roteiro Ambicioso de Automação do INPI",
+      "tags": [
+        "intelectual property",
+        "technology",
+        "inpi",
+        "patents",
+        "automation",
+        "artificial intelligence",
+        "copilot"
+      ],
+      "categories": [
+        "article",
+        "video"
+      ],
+      "description_en": "This initiative aims to streamline the patent process, enhance user experience, and improve the efficiency of patent examiners.",
+      "content_hash_en": "4d2abba4ce2ba19db77dbafcf62e149737e5c7c1fc423a365618e01531e638df",
+      "backlinks": [
+        "backlog-inpi-patentes-farmaceuticas",
+        "propostas_pta_patentes_2026",
+        "introduction"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "introduction": {
+      "slug": "introduction",
+      "title_en": "Introduction to my new space on the internet",
+      "title_pt": "Introdução ao meu novo espaço na internet",
+      "tags": [
+        "intellectual-property",
+        "cloud",
+        "linux",
+        "zorin",
+        "ubuntu",
+        "databases"
+      ],
+      "categories": [
+        "article",
+        "story"
+      ],
+      "description_en": "A long introduction to my personal page",
+      "content_hash_en": "768fb97f3e6bd81b3bb1a0f87b6e8edebc0a66a66427d733a4945a78fc9f1aa5",
+      "backlinks": [
+        "10-years-of-macbook-pro",
+        "update_on_life_november-2023",
+        "ai-pin"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "newsletter-beehiiv-cloudflare-github": {
+      "slug": "newsletter-beehiiv-cloudflare-github",
+      "title_en": "Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers",
+      "title_pt": "Guia Completo: Como Integrar o Beehiiv ao Hugo via Cloudflare Workers",
+      "tags": [
+        "beehiiv",
+        "cloudflare",
+        "github",
+        "hugo",
+        "posthog"
+      ],
+      "categories": [
+        "article",
+        "tutorial"
+      ],
+      "description_en": "Learn to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.",
+      "content_hash_en": "10184ee803aa6ff31c6443da9cc7b4f89952eb686214bf4f2254f82f01ab1427",
+      "backlinks": [
+        "oracle_cloud_vps",
+        "troubleshooting-proxmox-login-interface",
+        "hugo-content-file-structure"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "nixos-vm1": {
+      "slug": "nixos-vm1",
+      "title_en": "NixOS - Virtual Machine using QEMU",
+      "title_pt": "NixOS - Máquina Virtual usando QEMU",
+      "tags": [
+        "nixos",
+        "qemu",
+        "virtual-machine"
+      ],
+      "categories": [],
+      "description_en": "Correcting the `No internet available` error on NixOS Installation",
+      "content_hash_en": "d587457855e0bef2f774b3ca49ae28fc8c04df3391fedce0972ac7d5f4701171",
+      "backlinks": [
+        "oracle_cloud_vps",
+        "troubleshooting-proxmox-login-interface",
+        "script-update-open_webui-lxc"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "one-week-review-gitbutler": {
+      "slug": "one-week-review-gitbutler",
+      "title_en": "Two Weeks with GitButler: Streamlining My Git Workflow",
+      "title_pt": "Duas Semanas com GitButler: Otimizando Meu Fluxo de Trabalho Git",
+      "tags": [
+        "git",
+        "workflow",
+        "gitbutler",
+        "developer-tools",
+        "productivity",
+        "version-control"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "My experience using GitButler as a replacement for traditional Git workflow tools, including what works well and a few limitations.",
+      "content_hash_en": "a9a04e1c49efe2c1b05840e4319adc86eae28496249ab5d985c090febf34837b",
+      "backlinks": [
+        "experience-with-cursor-and-windsurf",
+        "vibe-coding-pitfalls",
+        "ai-beats-procrastination"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "open-science-collaboration": {
+      "slug": "open-science-collaboration",
+      "title_en": "How to Collaborate Effectively in Open Science Projects: Best Practices for Researchers",
+      "title_pt": "Como Colaborar Eficazmente em Projetos de Ciência Aberta: Melhores Práticas para Pesquisadores",
+      "tags": [
+        "open-science",
+        "collaboration",
+        "research",
+        "data-management",
+        "scientific-communication"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "A comprehensive guide to successful collaboration in open science initiatives, covering essential practices from communication strategies to data management and credit attribution.",
+      "content_hash_en": "b8177738c70b5d6f308172d08699ba04ed67ebc517a2fbd975f196858afb8d72",
+      "backlinks": [
+        "propostas_pta_patentes_2026",
+        "backlog-inpi-patentes-farmaceuticas",
+        "anthropic-thinking-process-paper"
+      ],
+      "backlink_source": "file",
+      "last_processed": "2026-05-03T22:36:35.740Z"
+    },
+    "oracle_cloud_vps": {
+      "slug": "oracle_cloud_vps",
+      "title_en": "Using Oracle Cloud Free tier",
+      "title_pt": "Usando a Camada Gratuita do Oracle Cloud",
+      "tags": [
+        "linux",
+        "oracle",
+        "cloud",
+        "web",
+        "vps",
+        "nginx",
+        "tailscale",
+        "docker"
+      ],
+      "categories": [
+        "article",
+        "tutorial"
+      ],
+      "description_en": "",
+      "content_hash_en": "1c58c1cf082f1970868b8ace3aae0cbfb98d2c600c1fd6a4660421dee597cfd3",
+      "backlinks": [
+        "newsletter-beehiiv-cloudflare-github",
+        "nixos-vm1",
+        "troubleshooting-proxmox-login-interface"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "propostas_pta_patentes_2026": {
+      "slug": "propostas_pta_patentes_2026",
+      "title_en": "Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress",
+      "title_pt": "Patent Term Adjustment: Big Pharma perdeu na Justiça, mas o debate chegou ao Congresso",
+      "tags": [
+        "patentes",
+        "STJ",
+        "STF",
+        "INPI",
+        "medicamentos",
+        "inovação",
+        "regulação",
+        "propriedade intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "After the STJ denied a term extension for semaglutide, the discussion on compensation for INPI's delay in pharmaceutical patents migrated to the Legislature. What is at stake in Bill No. 5.810/2025.",
+      "content_hash_en": "b3ab7de01fb08f5d87979eb9d2a867d5fe9c1a2058599b05482003ffe7452944",
+      "backlinks": [
+        "backlog-inpi-patentes-farmaceuticas",
+        "inpi-automation-roadmap-2025-2029",
+        "introduction"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "python-modules-guide": {
+      "slug": "python-modules-guide",
+      "title_en": "Python Modules: A Beginner's Guide to Organizing Your Code",
+      "title_pt": "Módulos Python: Um Guia para Iniciantes para Organizar Seu Código",
+      "tags": [
+        "python",
+        "programming",
+        "modules",
+        "code-organization",
+        "best-practices"
+      ],
+      "categories": [
+        "tutorial"
+      ],
+      "description_en": "Learn how to effectively use Python modules to organize your code, import functionality, and build more maintainable projects. This guide covers everything from basic imports to creating your own modules and packages.",
+      "content_hash_en": "d5ca7e3031ccbd66f4b46c7f40fe857b572c41fdedacfac55033c79dbac10ca4",
+      "backlinks": [
+        "flask-progress-bars-and-beyond",
+        "one-week-review-gitbutler",
+        "experience-with-cursor-and-windsurf"
+      ],
+      "backlink_source": "file",
+      "last_processed": "2026-05-03T22:36:52.940Z"
+    },
+    "script-update-open_webui-lxc": {
+      "slug": "script-update-open_webui-lxc",
+      "title_en": "Script for Updating Open WebUI in a Proxmox LXC",
+      "title_pt": "Script para Atualizar Open WebUI em um LXC Proxmox",
+      "tags": [
+        "Linux",
+        "Proxmox",
+        "LXC",
+        "script",
+        "Docker",
+        "open-webui"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "",
+      "content_hash_en": "2f5a4e5a3fdd3ba3475dcf88cd788614842b46466d5f88409dc4b361fb92dc1f",
+      "backlinks": [
+        "troubleshooting-proxmox-login-interface",
+        "fix-custom-models-open-webui",
+        "creating-my-ai-assistant-locally"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "setup-blob-storage-amazon-s3": {
+      "slug": "setup-blob-storage-amazon-s3",
+      "title_en": "Understanding Blob Storage: Azure, AWS S3, and Alternatives",
+      "title_pt": "Compreendendo o Armazenamento de Blob: Azure, AWS S3, e Alternativas",
+      "tags": [
+        "cloud",
+        "storage",
+        "azure",
+        "aws",
+        "object-storage",
+        "blob-storage"
+      ],
+      "categories": [
+        "article",
+        "tutorial"
+      ],
+      "description_en": "A comprehensive guide to blob storage solutions, including Azure Blob Storage and Amazon S3, their history, use cases, costs, and alternatives for efficient cloud-based object storage.",
+      "content_hash_en": "f9d168620871cd12368499f2e5d27ba0c519ff891901f2a376e1a9e43a04236f",
+      "backlinks": [
+        "oracle_cloud_vps",
+        "introduction",
+        "how-to-setup-github-secrets"
+      ],
+      "backlink_source": "file",
+      "last_processed": "2026-05-03T22:37:07.490Z"
+    },
+    "troubleshooting-proxmox-login-interface": {
+      "slug": "troubleshooting-proxmox-login-interface",
+      "title_en": "Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide",
+      "title_pt": "Corrigindo Erros de Login na Interface Web do Proxmox: Guia Passo a Passo",
+      "tags": [
+        "linux",
+        "proxmox",
+        "troubleshooting",
+        "tutorial"
+      ],
+      "categories": [
+        "tutorial"
+      ],
+      "description_en": "",
+      "content_hash_en": "c92b22566bb36f7c9b456d022d4a1f09132e18de1e57c8650d111c1ea0efc83f",
+      "backlinks": [
+        "oracle_cloud_vps",
+        "newsletter-beehiiv-cloudflare-github",
+        "script-update-open_webui-lxc"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "update_on_life_november-2023": {
+      "slug": "update_on_life_november-2023",
+      "title_en": "Life update - November 2023",
+      "title_pt": "Atualização de Vida — Novembro de 2023",
+      "tags": [
+        "parenthood",
+        "life"
+      ],
+      "categories": [],
+      "description_en": "Life as a father is a lot different than what I anticipated. It is hard to recommend as no one will have the same experience as you, but my experience until this moment has been really worth it. Hard but fulfilling in a way that nothing else can compare.",
+      "content_hash_en": "d8c07d2087666e2102ff4929fec728a4dd81f2dcfecf848b8a889b384a1fc9db",
+      "backlinks": [
+        "10-years-of-macbook-pro",
+        "introduction",
+        "ai-pin"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "vibe-coding-pitfalls": {
+      "slug": "vibe-coding-pitfalls",
+      "title_en": "Why I'm Breaking Up With Vibe Coding",
+      "title_pt": "Por Que Estou Terminando Com o Vibe Coding",
+      "tags": [
+        "artificial-intelligence",
+        "cursor",
+        "vibe coding",
+        "claude"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "",
+      "content_hash_en": "b8041fb03dda4bbd2d11a95d7d519f7ed340f9038120a165b6543bd848f73af9",
+      "backlinks": [
+        "experience-with-cursor-and-windsurf",
+        "ai-beats-procrastination",
+        "anthropic-thinking-process-paper"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    }
+  }
+}

@@ -97,9 +97,9 @@ Se você trabalha frequentemente em múltiplas funcionalidades em paralelo ou se
 
 Leia também:
 
-- [De Cursor ao Windsurf e Zed: Minha Jornada pelos Editores de Código com IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [Por Que Estou Largando o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [Da Procrastinação ao Progresso: Como a IA Me Ajudou]({{< relref "posts/ai-beats-procrastination/" >}})
+- [De Cursor a Windsurf a Zed: Minha Jornada Através de Editores de Código Aprimorados por IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Da Procrastinação ao Progresso: Como a IA me tem ajudado]({{< relref "posts/ai-beats-procrastination/" >}})
 
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

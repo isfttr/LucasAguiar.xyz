@@ -96,7 +96,7 @@ Read also:
 
 - [Obsidian + Copilot]({{< relref "posts/10-obsidian-copilot/" >}})
 - [Script for Updating Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [How to Fix the Missing Custom Models Bug]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [How to fix the Missing Custom Models bug]({{< relref "posts/fix-custom-models-open-webui/" >}})
 
 ---
 You can reach out to contact me about this and other topics at my email <contact@lucasaguiar.xyz> or by filling the form below.

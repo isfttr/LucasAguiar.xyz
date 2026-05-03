@@ -92,8 +92,8 @@ Esta é uma configuração simples de um LLM privado e de código aberto. Tentei
 Leia também:
 
 - [Obsidian + Copilot]({{< relref "posts/10-obsidian-copilot/" >}})
-- [Script para Atualizar o Open WebUI em um LXC do Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [Como Corrigir o Bug de Modelos Personalizados Ausentes]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [Script para Atualizar Open WebUI em um LXC Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Como corrigir o bug de Modelos Personalizados Ausentes]({{< relref "posts/fix-custom-models-open-webui/" >}})
 
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos em meu e-mail <contact@lucasaguiar.xyz> ou preenchendo o formulário abaixo.

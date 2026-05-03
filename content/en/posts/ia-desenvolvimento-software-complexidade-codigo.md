@@ -53,6 +53,13 @@ Artificial intelligence has been a topic of interest for me, and I have already 
 - [Using Obsidian with an AI]({{< ref "posts/10-obsidian-copilot.md">}})
 - [Protein Sequencing Using AI]({{< ref "posts/ai-powered-protein-sequencing.md">}})
 
+
+Read also:
+
+- [The AI Copy-Paste Problem: Killing Software Lock-In & Why Data Portability is Key]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+
 ---
 
 More references on the topic:

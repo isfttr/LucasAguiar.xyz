@@ -251,5 +251,12 @@ Como vimos em campos desde o desenvolvimento de IA até a ciência climática, a
 
 As tecnologias e práticas que possibilitam o trabalho remoto e equipes distribuídas removeram muitas barreiras tradicionais à colaboração. Agora, o fator limitante muitas vezes não é a capacidade técnica, mas sim nossa capacidade de construir e manter relacionamentos colaborativos eficazes. Ao dominar essa habilidade científica essencial, os pesquisadores podem desbloquear novas possibilidades para descoberta e inovação.
 
+
+Leia também:
+
+- [Patent Term Adjustment: Big Pharma perdeu na Justiça, mas o debate chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [Dentro dos Cérebros de IA: Como a Anthropic Decodificou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

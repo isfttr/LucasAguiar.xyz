@@ -31,8 +31,8 @@ And the model list should show your custom models.
 Read also:
 
 - [Script for Updating Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [Creating My AI Assistant Locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [Fix Proxmox Web Interface Login Errors]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
 ---
 You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

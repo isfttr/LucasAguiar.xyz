@@ -687,5 +687,12 @@ A melhor abordagem depende das suas necessidades específicas:
 
 Ao implementar essas funcionalidades interativas, pode criar aplicações Flask que não apenas funcionam bem, mas também proporcionam uma experiência de utilizador satisfatória que mantém os utilizadores envolvidos e informados.
 
+
+Leia também:
+
+- [Módulos Python: Um Guia para Iniciantes para Organizar Seu Código]({{< relref "posts/python-modules-guide/" >}})
+- [Usando a Camada Gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Como Configurar e Usar Segredos do GitHub com Contêineres e Aplicações Voltadas para a Internet]({{< relref "posts/how-to-setup-github-secrets/" >}})
+
 ---
 Pode contactar-me sobre este e outros tópicos através do meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

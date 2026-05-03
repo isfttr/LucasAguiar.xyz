@@ -49,9 +49,9 @@ Então, se você está construindo algo legal com IA, nem pense em tentar prende
 
 Leia também:
 
-- [Por Dentro da IA: Como a Anthropic Decodificou o Processo de Pensamento do Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [Por Que Estou Largando o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [Da Procrastinação ao Progresso: Como a IA Me Ajudou]({{< relref "posts/ai-beats-procrastination/" >}})
+- [Dentro dos Cérebros de IA: Como a Anthropic Decodificou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Da Procrastinação ao Progresso: Como a IA me tem ajudado]({{< relref "posts/ai-beats-procrastination/" >}})
 
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

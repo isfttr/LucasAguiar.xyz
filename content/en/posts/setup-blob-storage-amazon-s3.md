@@ -531,5 +531,12 @@ For most users, the major cloud providers offer the best combination of features
 
 As with most cloud services, the right choice depends on your specific needs, technical capabilities, and budget constraints. Start with a clear understanding of your requirements, test with a small dataset, and scale as needed.
 
+
+Read also:
+
+- [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
+- [How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications]({{< relref "posts/how-to-setup-github-secrets/" >}})
+
 ---
 You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

@@ -395,5 +395,12 @@ AI-powered protein sequencing represents one of the most significant scientific 
 
 The technology is still in its early stages, and its full potential remains to be realized. As it continues to develop, we can expect breakthroughs that were once thought impossible, potentially ushering in a new era of scientific discovery and technological innovation centered around our deepened understanding of proteins - the building blocks of life itself.
 
+
+Read also:
+
+- [From Developers to Scientists: How AI Is Transforming the Complexity of Code]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
+- [The INPI backlog is over — but not for pharmaceutical patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+
 ---
 You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

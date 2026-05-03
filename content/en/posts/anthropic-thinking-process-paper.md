@@ -149,9 +149,9 @@ _What do you think about these discoveries? Does the fact that AI systems seem t
 
 Read also:
 
-- [The AI Copy-Paste Problem]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [The AI Copy-Paste Problem: Killing Software Lock-In & Why Data Portability is Key]({{< relref "posts/ai-copy-paste-problem/" >}})
 - [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [Creating My AI Assistant Locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 
 ---
 

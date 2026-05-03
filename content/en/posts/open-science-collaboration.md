@@ -245,5 +245,12 @@ As we've seen in fields from AI development to climate science, the most signifi
 
 The technologies and practices that enable remote work and distributed teams have removed many traditional barriers to collaboration. Now, the limiting factor is often not technical capability but our ability to build and maintain effective collaborative relationships. By mastering this essential scientific skill, researchers can unlock new possibilities for discovery and innovation.
 
+
+Read also:
+
+- [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [The INPI backlog is over — but not for pharmaceutical patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+
 ---
 You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

@@ -99,8 +99,8 @@ No geral, acho que esta é uma configuração muito boa. É fácil de solucionar
 
 Leia também:
 
-- [Criando meu Assistente de IA Localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [Por Dentro da IA: Como a Anthropic Decodificou o Processo de Pensamento do Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [Da Procrastinação ao Progresso: Como a IA Me Ajudou]({{< relref "posts/ai-beats-procrastination/" >}})
+- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Dentro dos Cérebros de IA: Como a Anthropic Decodificou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Da Procrastinação ao Progresso: Como a IA me tem ajudado]({{< relref "posts/ai-beats-procrastination/" >}})
 
 Você pode entrar em contato comigo sobre este ou outros tópicos pelo meu e-mail <contact@lucasaguiar.xyz>.
