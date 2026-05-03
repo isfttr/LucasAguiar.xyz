@@ -170,6 +170,12 @@ With the right setup, I've managed to transform my relationship with unfinished 
 
 Has anyone else found AI tools helpful for overcoming procrastination? I'd love to hear about your experiences!
 
+Read also:
+
+- [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Obsidian + Copilot]({{< relref "posts/10-obsidian-copilot/" >}})
+
 ---
 
 You can reach out to contact me about this and other topics at my email <contact@lucasaguiar.xyz>

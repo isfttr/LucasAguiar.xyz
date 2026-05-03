@@ -125,5 +125,11 @@ What I've learned from this journey:
 
 I suspect this journey isn't over, as the landscape of development tools continues to evolve rapidly, especially with AI integration becoming increasingly sophisticated. But for now, I've found a setup that works well for my needs while remaining open to new possibilities.
 
+Read also:
+
+- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Two Weeks with GitButler: Streamlining My Git Workflow]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [From Procrastination to Progress: How AI Has Helped Me]({{< relref "posts/ai-beats-procrastination/" >}})
+
 ---
 You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

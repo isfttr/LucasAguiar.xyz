@@ -61,5 +61,11 @@ Não estou dizendo que vibe coding é sempre ruim. Há definitivamente valor em 
 
 Para mim, este parece ser o melhor equilíbrio por agora, mas estou inclinado a eventualmente pagar por um aplicativo de chat, como o Perplexity (que tem um bom nível gratuito e custa 20 dólares por mês), já que estou pagando cerca de 30 dólares/mês nos últimos 2 meses em uso de API. No futuro, talvez faça sentido ter um modelo rodando localmente, mas acho que os custos de uso de API serão menores à medida que modelos mais eficientes forem lançados.
 
+Leia também:
+
+- [De Cursor ao Windsurf e Zed: Minha Jornada pelos Editores de Código com IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [Da Procrastinação ao Progresso: Como a IA Me Ajudou]({{< relref "posts/ai-beats-procrastination/" >}})
+- [Por Dentro da IA: Como a Anthropic Decodificou o Processo de Pensamento do Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+
 ---
 Você pode me contatar sobre este e outros tópicos pelo e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

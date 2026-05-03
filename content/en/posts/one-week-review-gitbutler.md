@@ -92,6 +92,11 @@ If you frequently work on multiple features in parallel or find yourself frustra
 - [Jujutsu - A Git-compatible VCS](https://www.youtube.com/watch?v=LV0JzI8IcCY) - Martin von Zweigbergk's presentation at GitMerge 2024 explaining the design principles and features of Jujutsu.
 - [GitButler Product Demo](https://www.youtube.com/watch?v=agfyTN3HpRM) - An overview and demonstration of GitButler's core features and workflow improvements.
 
+Read also:
+
+- [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [From Procrastination to Progress: How AI Has Helped Me]({{< relref "posts/ai-beats-procrastination/" >}})
 
 ---
 You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

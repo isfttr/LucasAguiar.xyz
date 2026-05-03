@@ -66,3 +66,9 @@ Então, é aqui que estou. Neste último domingo, 6 de junho de 2023, foi o dia 
 Em conclusão, esta é parte da mudança. Finalmente, decidi fazer algo que deveria ter feito há muito tempo, uma página pessoal. Decidi comprar meu primeiro domínio (não literalmente, porque eu já havia comprado outro para a concessionária de carros onde trabalhei) e hospedá-lo em uma página do GitHub.
 
 Meus planos para este blog são mostrar meu trabalho, seja em propriedade intelectual ou em tecnologia, e também compartilhar meus interesses e, espero, contribuir de forma significativa para a experiência dos meus leitores. Também tenho muitos outros interesses, principalmente em socioeconomia e história.
+
+Leia também:
+
+- [10 Anos Usando o MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
+- [Atualização de Vida - Novembro 2023]({{< relref "posts/update_on_life_november-2023/" >}})
+- [Pensamentos sobre o hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})

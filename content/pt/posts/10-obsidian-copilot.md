@@ -97,4 +97,10 @@ No geral, acho que esta é uma configuração muito boa. É fácil de solucionar
 - [nomic-embed-text](https://ollama.com/library/nomic-embed-text)
 - [Assistente de IA Local](3_local-ai-assistant)
 
+Leia também:
+
+- [Criando meu Assistente de IA Localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Por Dentro da IA: Como a Anthropic Decodificou o Processo de Pensamento do Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Da Procrastinação ao Progresso: Como a IA Me Ajudou]({{< relref "posts/ai-beats-procrastination/" >}})
+
 Você pode entrar em contato comigo sobre este ou outros tópicos pelo meu e-mail <contact@lucasaguiar.xyz>.

@@ -92,5 +92,11 @@ Surprisingly to me it did not allucinate. It plainly answered that the subject i
 
 This is a simple setup of a private and open source LLM. I tried other ones, using AnythingLLM and it didn't work, or it needed workarounds that I don't have the time for. This was the easiest project to set up and there is a lot more that can be done with it. For me, the integration with my Obsidian notes is the next thing that I am aiming to explore.
 
+Read also:
+
+- [Obsidian + Copilot]({{< relref "posts/10-obsidian-copilot/" >}})
+- [Script for Updating Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [How to Fix the Missing Custom Models Bug]({{< relref "posts/fix-custom-models-open-webui/" >}})
+
 ---
 You can reach out to contact me about this and other topics at my email <contact@lucasaguiar.xyz> or by filling the form below.

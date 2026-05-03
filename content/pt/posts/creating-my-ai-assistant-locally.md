@@ -89,5 +89,11 @@ Então fiz uma pergunta sobre algo que não é mencionado no artigo para ver qua
 
 Esta é uma configuração simples de um LLM privado e de código aberto. Tentei outros, usando AnythingLLM e não funcionou, ou precisava de soluções alternativas para as quais não tenho tempo. Este foi o projeto mais fácil de configurar e há muito mais que pode ser feito com ele. Para mim, a integração com minhas notas do Obsidian é a próxima coisa que pretendo explorar.
 
+Leia também:
+
+- [Obsidian + Copilot]({{< relref "posts/10-obsidian-copilot/" >}})
+- [Script para Atualizar o Open WebUI em um LXC do Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Como Corrigir o Bug de Modelos Personalizados Ausentes]({{< relref "posts/fix-custom-models-open-webui/" >}})
+
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos em meu e-mail <contact@lucasaguiar.xyz> ou preenchendo o formulário abaixo.

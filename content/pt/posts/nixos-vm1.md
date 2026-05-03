@@ -22,3 +22,9 @@ Como a VM está desligada, a tela mostrará que a VM não está em execução, e
 ![Screenshot (PT-BR).](/images/nixos-vm-network.png)
 
 O modelo do dispositivo pode ser definido como `virtio` ou outros modelos, pelo que testei não houve alterações.
+
+Leia também:
+
+- [Using Oracle Cloud Free Tier]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Corrigindo Erros de Login na Interface Web do Proxmox]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Script para Atualizar o Open WebUI em um LXC do Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})

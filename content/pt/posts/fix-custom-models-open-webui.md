@@ -28,5 +28,11 @@ E a lista de modelos deve mostrar os seus modelos personalizados.
 
 ![Lista de modelos no Open WebUI](https://lucasaguiarxyzstorage.blob.core.windows.net/images/model-list.png)
 
+Leia também:
+
+- [Script para Atualizar o Open WebUI em um LXC do Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Criando meu Assistente de IA Localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Corrigindo Erros de Login na Interface Web do Proxmox]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+
 ---
 Pode contactar-me sobre este e outros tópicos no meu email **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

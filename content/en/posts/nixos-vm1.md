@@ -23,3 +23,9 @@ Since the VM is down, the screen will show that the VM is not running, and on to
 ![Screenshot (PT-BR).](/images/nixos-vm-network.png)
 
 The device model could be set to `virtio` or other models, from what I tested there was not changes.
+
+Read also:
+
+- [Using Oracle Cloud Free Tier]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Fix Proxmox Web Interface Login Errors]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Script for Updating Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})

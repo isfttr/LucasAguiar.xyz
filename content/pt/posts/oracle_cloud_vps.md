@@ -75,6 +75,8 @@ Espero que este artigo tenha sido útil para alguns de vocês que estão tentand
 Leia também:
 
 - [Newsletter Beehiiv com Cloudflare Workers e GitHub Pages]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+- [NixOS - Máquina Virtual usando QEMU]({{< relref "posts/nixos-vm1/" >}})
+- [Corrigindo Erros de Login na Interface Web do Proxmox]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

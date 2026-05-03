@@ -147,6 +147,12 @@ As this field of "AI biology" continues to develop, we may find ourselves with n
 
 _What do you think about these discoveries? Does the fact that AI systems seem to develop specialized "brain regions" surprise you? I'd love to hear your thoughts in the comments below._
 
+Read also:
+
+- [The AI Copy-Paste Problem]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Creating My AI Assistant Locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+
 ---
 
 You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

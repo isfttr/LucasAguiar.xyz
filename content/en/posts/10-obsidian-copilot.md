@@ -96,4 +96,10 @@ Overall I think this is a pretty nice setup. It is easy to troubleshoot if neces
 - [nomic-embed-text](https://ollama.com/library/nomic-embed-text)
 - [Local AI Assistant](3_local-ai-assistant)
 
+Read also:
+
+- [Creating My AI Assistant Locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [From Procrastination to Progress: How AI Has Helped Me]({{< relref "posts/ai-beats-procrastination/" >}})
+
 You can reach out to contact me about this or other topics at my email <contact@lucasaguiar.xyz>.

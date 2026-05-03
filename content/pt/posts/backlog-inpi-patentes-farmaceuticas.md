@@ -55,6 +55,12 @@ A [automação que o INPI planeja para o roadmap 2025-2029]({{< ref "posts/inpi-
 
 Enquanto isso, o debate sobre como compensar os atrasos históricos no prazo efetivo das patentes farmacêuticas ganhou um novo capítulo no Congresso por meio da [discussão do Patent Term Adjustment (PTA)]({{< ref "posts/propostas_pta_patentes_2026.md" >}}), que visa ajustar o prazo de vigência das patentes farmacêuticas em função do tempo de espera para obtenção da concessão do pedido pelo INPI.
 
+Leia também:
+
+- [Roadmap de Automação do INPI 2025-2029]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Patent Term Adjustment: a indústria farmacêutica perdeu no STJ]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
+
 ---
 
 Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>

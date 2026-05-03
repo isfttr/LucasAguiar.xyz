@@ -24,3 +24,9 @@ Quando chegamos ao terceiro mês, as coisas começaram a ficar progressivamente 
 À medida que as coisas foram ficando mais fáceis, decidi em junho me aventurar na TI, estudei por cerca de um mês e obtive a certificação AZ-900, o que foi muito legal enquanto explorava novas opções. Desde então, fiz uma pausa e estou prosseguindo com cautela. Como parte da minha curiosidade durante esse período, criei este blog, que ficou quase sem uso desde que entrou no ar.
 
 Essa jornada está me fazendo priorizar algumas coisas em detrimento de outras e me fazendo não pensar demais, pois cria muita ansiedade.
+
+Leia também:
+
+- [10 Anos Usando o MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
+- [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
+- [Pensamentos sobre o hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})
