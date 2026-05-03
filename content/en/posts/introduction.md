@@ -69,6 +69,6 @@ My plans for this blog is to showcase my work, being in intellectual property or
 
 Read also:
 
-- [10 Years Using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
-- [Life Update - November 2023]({{< relref "posts/update_on_life_november-2023/" >}})
-- [Thoughts on the Hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})
+- [10 years using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
+- [Life update - November 2023]({{< relref "posts/update_on_life_november-2023/" >}})
+- [Thoughts on the hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})

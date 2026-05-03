@@ -548,5 +548,12 @@ GitHub Secrets fornecem uma solução robusta para gerenciar informações sens�
 
 Lembre-se, a segurança é um processo contínuo. Audite regularmente o uso de seus segredos, gire credenciais e mantenha-se informado sobre as melhores práticas em gerenciamento de segredos.
 
+
+Leia também:
+
+- [Usando a Camada Gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Script para Atualizar Open WebUI em um LXC Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Duas Semanas com GitButler: Otimizando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
+
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

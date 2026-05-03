@@ -535,5 +535,12 @@ Para a maioria dos usuários, os principais provedores de nuvem oferecem a melho
 
 Como acontece com a maioria dos serviços de nuvem, a escolha certa depende das suas necessidades específicas, capacidades técnicas e restrições orçamentais. Comece com uma compreensão clara dos seus requisitos, teste com um pequeno conjunto de dados e escale conforme necessário.
 
+
+Leia também:
+
+- [Usando a Camada Gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
+- [Como Configurar e Usar Segredos do GitHub com Contêineres e Aplicações Voltadas para a Internet]({{< relref "posts/how-to-setup-github-secrets/" >}})
+
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu email **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

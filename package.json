@@ -6,7 +6,8 @@
   "scripts": {
     "release": "release-it",
     "translate": "node scripts/translate.js",
-    "fix-links": "node scripts/fix-links.js"
+    "fix-links": "node scripts/fix-links.js",
+    "suggest-backlinks": "node scripts/suggest-backlinks.js"
   },
   "repository": {
     "type": "git",

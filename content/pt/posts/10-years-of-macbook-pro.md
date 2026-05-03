@@ -80,6 +80,6 @@ Leia também:
 
 - [NixOS - Máquina Virtual usando QEMU]({{< relref "posts/nixos-vm1/" >}})
 - [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
-- [Atualização de Vida - Novembro 2023]({{< relref "posts/update_on_life_november-2023/" >}})
+- [Atualização de Vida — Novembro de 2023]({{< relref "posts/update_on_life_november-2023/" >}})
 
 Você pode entrar em contato comigo sobre este ou outros tópicos no meu e-mail contact@lucasaguiar.xyz.

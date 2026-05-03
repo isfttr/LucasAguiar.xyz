@@ -172,8 +172,8 @@ Mais alguém achou as ferramentas de IA úteis para superar a procrastinação? 
 
 Leia também:
 
-- [De Cursor ao Windsurf e Zed: Minha Jornada pelos Editores de Código com IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [Por Que Estou Largando o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [De Cursor a Windsurf a Zed: Minha Jornada Através de Editores de Código Aprimorados por IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 - [Obsidian + Copilot]({{< relref "posts/10-obsidian-copilot/" >}})
 
 ---

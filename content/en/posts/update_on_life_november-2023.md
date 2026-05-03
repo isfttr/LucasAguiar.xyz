@@ -27,6 +27,6 @@ This journey is making me prioritize some things over others and making me not o
 
 Read also:
 
-- [10 Years Using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
-- [Introduction to My New Space on the Internet]({{< relref "posts/introduction/" >}})
-- [Thoughts on the Hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})
+- [10 years using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
+- [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
+- [Thoughts on the hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})

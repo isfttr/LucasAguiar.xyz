@@ -77,7 +77,7 @@ This is the good 'ol MacBook Pro. If you upgrade it, you can have a good upgrade
 Read also:
 
 - [NixOS - Virtual Machine using QEMU]({{< relref "posts/nixos-vm1/" >}})
-- [Introduction to My New Space on the Internet]({{< relref "posts/introduction/" >}})
-- [Life Update - November 2023]({{< relref "posts/update_on_life_november-2023/" >}})
+- [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
+- [Life update - November 2023]({{< relref "posts/update_on_life_november-2023/" >}})
 
 You can reach out to contact me about this or other topics at my email contact@lucasaguiar.xyz.

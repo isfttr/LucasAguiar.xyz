@@ -27,6 +27,6 @@ Essa jornada está me fazendo priorizar algumas coisas em detrimento de outras e
 
 Leia também:
 
-- [10 Anos Usando o MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
+- [10 anos usando o MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
 - [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
 - [Pensamentos sobre o hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})

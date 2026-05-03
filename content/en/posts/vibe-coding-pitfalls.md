@@ -62,7 +62,7 @@ For me, this seems to be the best balance for now, but I am leaning to eventuall
 Read also:
 
 - [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [From Procrastination to Progress: How AI Has Helped Me]({{< relref "posts/ai-beats-procrastination/" >}})
+- [From Procrastination to Progress: How AI has helped me]({{< relref "posts/ai-beats-procrastination/" >}})
 - [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
 
 ---

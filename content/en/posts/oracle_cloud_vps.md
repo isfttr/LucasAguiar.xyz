@@ -77,7 +77,7 @@ Read also:
 
 - [Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
 - [NixOS - Virtual Machine using QEMU]({{< relref "posts/nixos-vm1/" >}})
-- [Fix Proxmox Web Interface Login Errors]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
 ---
 You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

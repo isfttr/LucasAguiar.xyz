@@ -73,9 +73,9 @@ The answer that comes from Congress will define the conditions for return on inv
 
 Read also:
 
-- [The INPI Backlog is Over — But Not for Pharmaceutical Patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [INPI's Ambitious Automation Roadmap 2025-2029]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
-- [Introduction to My New Space on the Internet]({{< relref "posts/introduction/" >}})
+- [The INPI backlog is over — but not for pharmaceutical patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
 
 ---
 

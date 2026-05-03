@@ -65,9 +65,9 @@ You can also what in full the presentation and discussions on the matter by [wat
 
 Read also:
 
-- [The INPI Backlog is Over — But Not for Pharmaceutical Patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [Patent Term Adjustment: Big Pharma Lost in Court, But the Debate Reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
-- [Introduction to My New Space on the Internet]({{< relref "posts/introduction/" >}})
+- [The INPI backlog is over — but not for pharmaceutical patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
 
 You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.
 

@@ -98,8 +98,8 @@ Overall I think this is a pretty nice setup. It is easy to troubleshoot if neces
 
 Read also:
 
-- [Creating My AI Assistant Locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 - [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [From Procrastination to Progress: How AI Has Helped Me]({{< relref "posts/ai-beats-procrastination/" >}})
+- [From Procrastination to Progress: How AI has helped me]({{< relref "posts/ai-beats-procrastination/" >}})
 
 You can reach out to contact me about this or other topics at my email <contact@lucasaguiar.xyz>.

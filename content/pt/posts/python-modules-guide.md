@@ -446,5 +446,12 @@ Começar com uma abordagem bem estruturada aos módulos irá poupar-lhe inúmera
 
 Da próxima vez que se encontrar a escrever um script Python que está a ficar muito grande ou que tem funcionalidades claramente distintas, reserve um momento para considerar como poderá dividi-lo em módulos. O seu futuro eu agradecerá!
 
+
+Leia também:
+
+- [Desenvolvendo Aplicações Web Flask Interativas: Barras de Progresso e Além]({{< relref "posts/flask-progress-bars-and-beyond/" >}})
+- [Duas Semanas com GitButler: Otimizando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [De Cursor a Windsurf a Zed: Minha Jornada Através de Editores de Código Aprimorados por IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+
 ---
 Pode contactar-me sobre este e outros tópicos no meu email **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

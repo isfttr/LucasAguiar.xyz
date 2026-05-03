@@ -69,6 +69,6 @@ Meus planos para este blog são mostrar meu trabalho, seja em propriedade intele
 
 Leia também:
 
-- [10 Anos Usando o MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
-- [Atualização de Vida - Novembro 2023]({{< relref "posts/update_on_life_november-2023/" >}})
+- [10 anos usando o MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
+- [Atualização de Vida — Novembro de 2023]({{< relref "posts/update_on_life_november-2023/" >}})
 - [Pensamentos sobre o hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})

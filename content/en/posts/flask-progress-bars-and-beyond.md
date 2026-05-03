@@ -686,5 +686,12 @@ The best approach depends on your specific needs:
 
 By implementing these interactive features, you can create Flask applications that not only function well but also provide a satisfying user experience that keeps users engaged and informed.
 
+
+Read also:
+
+- [Python Modules: A Beginner's Guide to Organizing Your Code]({{< relref "posts/python-modules-guide/" >}})
+- [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
+- [How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications]({{< relref "posts/how-to-setup-github-secrets/" >}})
+
 ---
 You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

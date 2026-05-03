@@ -542,5 +542,12 @@ GitHub Secrets provide a robust solution for managing sensitive information in y
 
 Remember, security is an ongoing process. Regularly audit your secrets usage, rotate credentials, and stay informed about best practices in secret management.
 
+
+Read also:
+
+- [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Script for Updating Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Two Weeks with GitButler: Streamlining My Git Workflow]({{< relref "posts/one-week-review-gitbutler/" >}})
+
 ---
 You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

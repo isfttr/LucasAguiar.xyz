@@ -66,8 +66,8 @@ Você também pode assistir na íntegra a apresentação e as discussões sobre 
 
 Leia também:
 
-- [O Backlog do INPI acabou — mas não para as patentes farmacêuticas]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [Patent Term Adjustment: a indústria farmacêutica perdeu no STJ, mas o debate chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [Patent Term Adjustment: Big Pharma perdeu na Justiça, mas o debate chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})
 - [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
 
 Você pode entrar em contato comigo sobre este e outros tópicos em meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

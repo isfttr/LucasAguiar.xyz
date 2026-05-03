@@ -401,5 +401,12 @@ O sequenciamento de proteínas impulsionado por IA representa um dos avanços ci
 
 A tecnologia ainda está nos seus estágios iniciais, e o seu potencial máximo ainda está por ser realizado. À medida que continua a desenvolver-se, podemos esperar avanços que antes eram considerados impossíveis, potencialmente inaugurando uma nova era de descoberta científica e inovação tecnológica centrada na nossa compreensão aprofundada das proteínas – os blocos construtores da própria vida.
 
+
+Leia também:
+
+- [De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
+- [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [Dentro dos Cérebros de IA: Como a Anthropic Decodificou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+
 ---
 Pode contactar-me sobre este e outros tópicos através do meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.
