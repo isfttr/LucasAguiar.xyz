@@ -146,5 +146,10 @@ Prevenir o erro de "Falha de Autenticação do Proxmox por Ausência de Arquivo 
 
 Implementando essas medidas preventivas, você pode reduzir significativamente o risco de encontrar o erro de "Falha de Autenticação do Proxmox por Ausência de Arquivo de Configuração do Cluster" e garantir a estabilidade e confiabilidade do seu cluster Proxmox.
 
+Leia também:
+
+- [Oracle Cloud VPS]({{< relref "posts/oracle-cloud-vps/" >}})
+- [Newsletter Beehiiv com Cloudflare Workers e GitHub Pages]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+
 ---
 Você pode me contatar sobre este e outros tópicos pelo e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.
