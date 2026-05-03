@@ -250,12 +250,37 @@
                         }}Enter your email to subscribe{{ end }}" placeholder="{{ if eq .Site.Language.Lang " pt"
                         }}seu@email.com{{ else }}your@email.com{{ end }}" required>
                     <button type="button" onclick="
-                      var email = document.getElementById('home-newsletter-email').value;
-                      if (!email || !email.includes('@')) return;
-                      if (typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'newsletter_subscribe', location: 'home_newsletter', email: email });
-                      this.closest('.ed-newsletter').querySelector('.ed-newsletter-success').classList.add('show');
-                      this.closest('.ed-form-row').style.display='none';
-                    ">
+  var email = document.getElementById('home-newsletter-email').value;
+  if (!email || !email.includes('@')) return;
+
+  var btn = this;
+  btn.disabled = true;
+
+  // PostHog tracking (mantém o que você já tem)
+  if (typeof posthog !== 'undefined') posthog.capture('cta_clicked', {
+    cta_name: 'newsletter_subscribe',
+    location: 'home_newsletter',
+    email: email
+  });
+
+  fetch('https://beehiiv-blog.lucas-fernandes-df.workers.dev/subscribe', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({ email: email })
+})
+.then(function(res) {
+  if (!res.ok) throw new Error('Erro ' + res.status); // <-- adicionar isso
+  return res.json();
+})
+.then(function() {
+  btn.closest('.ed-newsletter').querySelector('.ed-newsletter-success').classList.add('show');
+  btn.closest('.ed-form-row').style.display = 'none';
+})
+.catch(function() {
+  btn.disabled = false;
+  alert('Erro ao inscrever. Tente novamente.');
+});
+">
                         {{ i18n "subscribe" }} →
                     </button>
                 </div>
