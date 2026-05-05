@@ -1,11 +1,13 @@
 ---
 date: 2025-04-11T14:33:12.000Z
-draft: false
-title: 'Desenvolvendo Aplicações Web Flask Interativas: Barras de Progresso e Além'
-description: "Um guia prático para implementar barras de progresso, atualizações em tempo
-  real e outras funcionalidades interativas em suas aplicações web Flask."
+draft: true
+title: 'Construindo Aplicativos Web Flask Interativos: Barras de Progresso e Além'
+description: >-
+  Um guia prático para implementar barras de progresso, atualizações em tempo
+  real e outras funcionalidades interativas em suas aplicações web Flask.
 url: ''
-featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-flask-progress-bars.png
+featured_image: >-
+  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-flask-progress-bars.png
 categories:
   - tutorial
 tags:
@@ -15,24 +17,24 @@ tags:
   - javascript
   - ajax
   - socketio
-translation_source_hash: fc76b3d93a52f8bc30b3e3ed66ff7f43756f9ece420b0e0ccdd8f2ea2dec8b08
+translation_source_hash: 2ee245d7492cee513ea5e72ec37ec08af4438f58a03ae17d0621b61e045ca893
 ---
-Flask é um framework web Python leve e flexível, perfeito para tudo, desde APIs simples a aplicações web complexas. Embora seja minimalista por design, o Flask pode ser estendido para criar experiências web modernas e altamente interativas. Uma das funcionalidades mais solicitadas em aplicações web é a capacidade de mostrar o progresso de tarefas de longa duração - sejam elas uploads de arquivos, processamento de dados ou cálculos complexos.
+Flask é um framework web Python leve e flexível, perfeito para tudo, desde APIs simples a aplicações web complexas. Embora seja minimalista por design, o Flask pode ser estendido para criar experiências web altamente interativas e modernas. Uma das funcionalidades mais solicitadas em aplicações web é a capacidade de mostrar o progresso para tarefas de longa duração - sejam uploads de arquivos, processamento de dados ou cálculos complexos.
 
-Neste artigo, abordarei várias abordagens para implementar barras de progresso e outras funcionalidades interativas no Flask, desde soluções simples até implementações em tempo real mais avançadas.
+Neste artigo, explorarei várias abordagens para implementar barras de progresso e outras funcionalidades interativas no Flask, desde soluções simples até implementações em tempo real mais avançadas.
 
 ## O Desafio da Barra de Progresso
 
-Quando um utilizador inicia uma operação demorada na sua aplicação web, fornecer feedback visual é crucial para uma boa experiência do utilizador. Sem ele, os utilizadores podem pensar que a aplicação congelou, levando à frustração e a um potencial abandono.
+Quando um usuário inicia uma operação demorada em seu aplicativo web, fornecer feedback visual é crucial para uma boa experiência do usuário. Sem ele, os usuários podem pensar que o aplicativo travou, levando à frustração e ao potencial abandono.
 
 Aqui está o que abordaremos:
 
 1. Indicadores de progresso simples com polling AJAX
 2. Barras de progresso em tempo real com Flask-SocketIO
 3. Filas de tarefas com Celery para processamento em segundo plano
-4. Melhorar a UX com elementos interativos adicionais
+4. Melhorando a UX com elementos interativos adicionais
 
-Vamos começar com uma configuração básica do Flask e depois aprimorá-la progressivamente.
+Vamos começar com uma configuração básica do Flask e depois a aprimorar progressivamente.
 
 ## Configuração Básica: Uma Aplicação Flask
 
@@ -46,7 +48,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install flask
 ```
 
-Agora, vamos criar uma aplicação Flask mínima:
+Agora, vamos criar um aplicativo Flask mínimo:
 
 ```python
 # app.py
@@ -102,7 +104,7 @@ Crie um template HTML básico:
 
 ## Abordagem 1: Polling AJAX para Atualizações de Progresso
 
-Esta é a abordagem mais simples e funciona bem para a maioria dos casos de uso. Vamos adicionar funcionalidades para iniciar uma tarefa de longa duração e fazer polling para atualizações de progresso.
+Esta é a abordagem mais simples e funciona bem para a maioria dos casos de uso. Vamos adicionar funcionalidade para iniciar uma tarefa de longa duração e fazer polling para atualizações de progresso.
 
 Primeiro, adicione estas rotas a `app.py`:
 
@@ -140,7 +142,7 @@ def long_running_task(task_id):
             task_progress[task_id]['status'] = 'completed'
 ```
 
-Agora, vamos adicionar o JavaScript para fazer polling de atualizações:
+Agora, vamos adicionar o JavaScript para fazer polling para atualizações:
 
 ```javascript
 $(document).ready(function() {
@@ -190,9 +192,9 @@ $(document).ready(function() {
 ```
 
 Esta implementação funciona da seguinte forma:
-1. Inicia uma tarefa num thread em segundo plano quando solicitado
-2. Verifica periodicamente o progresso através de requisições AJAX
-3. Atualiza a barra de progresso com base na resposta
+1. Iniciando uma tarefa em um thread em segundo plano quando solicitado
+2. Verificando periodicamente o progresso através de requisições AJAX
+3. Atualizando a barra de progresso com base na resposta
 
 Embora simples, esta abordagem tem limitações - aumenta a carga do servidor com polling frequente e não fornece atualizações verdadeiramente em tempo real.
 
@@ -323,12 +325,12 @@ Crie um novo template para a versão SocketIO:
 
 Com WebSockets, obtemos:
 - Atualizações verdadeiramente em tempo real sem polling
-- Carga reduzida no servidor em comparação com requisições AJAX constantes
-- Uma experiência de utilizador mais responsiva
+- Carga reduzida do servidor em comparação com requisições AJAX constantes
+- Uma experiência de usuário mais responsiva
 
 ## Abordagem 3: Tarefas em Segundo Plano com Celery e Rastreamento de Progresso
 
-Para aplicações de produção com tarefas de longa duração, Celery é uma opção melhor. Ele fornece uma fila de tarefas robusta que pode lidar com cargas de trabalho distribuídas. Vamos configurá-lo com Redis como o message broker:
+Para aplicações em produção com tarefas de longa duração, Celery é uma opção melhor. Ele fornece uma fila de tarefas robusta que pode lidar com cargas de trabalho distribuídas. Vamos configurá-lo com Redis como o message broker:
 
 ```bash
 pip install flask celery redis
@@ -502,14 +504,14 @@ E o template HTML:
 ```
 
 A abordagem Celery tem várias vantagens:
-- Descarrega o processamento pesado do seu servidor web
+- Descarrega processamento pesado do seu servidor web
 - Escalável para muitas tarefas concorrentes
 - Tolerante a falhas - as tarefas podem ser tentadas novamente se falharem
-- Pode ser distribuído por vários servidores worker
+- Pode ser distribuído por vários servidores de worker
 
-## Melhorando a Experiência do Utilizador
+## Melhorando a Experiência do Usuário
 
-Além das barras de progresso, vamos ver algumas outras funcionalidades interativas que podem melhorar a sua aplicação Flask:
+Além das barras de progresso, vamos ver algumas outras funcionalidades interativas que podem melhorar sua aplicação Flask:
 
 ### 1. Indicadores de Carregamento Animados
 
@@ -563,7 +565,7 @@ function showToast(title, message) {
 
 ### 3. Barras de Progresso de Upload
 
-Para uploads de arquivos, pode rastrear o progresso usando o objeto `XMLHttpRequest`:
+Para uploads de arquivos, você pode rastrear o progresso usando o objeto `XMLHttpRequest`:
 
 ```javascript
 $('#upload-form').submit(function(event) {
@@ -595,7 +597,7 @@ $('#upload-form').submit(function(event) {
 
 ### 4. Progresso com Múltiplos Passos
 
-Para processos de várias etapas, considere usar um indicador de etapa:
+Para processos com múltiplos passos, considere usar um indicador de passo:
 
 ```html
 <div class="progress-tracker">
@@ -610,7 +612,7 @@ Para processos de várias etapas, considere usar um indicador de etapa:
 </div>
 ```
 
-Adicione algum CSS para deixá-lo bonito:
+Adicione um pouco de CSS para deixá-lo bonito:
 
 ```css
 .steps {
@@ -633,7 +635,7 @@ Adicione algum CSS para deixá-lo bonito:
 }
 ```
 
-JavaScript para atualizar as etapas:
+JavaScript para atualizar os passos:
 
 ```javascript
 function moveToStep(stepNumber) {
@@ -654,45 +656,44 @@ function moveToStep(stepNumber) {
 }
 ```
 
-## Melhores Práticas para Elementos Interativos Flask
+## Melhores Práticas para Elementos Interativos do Flask
 
 Ao implementar essas funcionalidades, tenha em mente estas melhores práticas:
 
-1. **Forneça alternativas** para navegadores com JavaScript desativado
+1. **Forneça fallbacks** para navegadores com JavaScript desativado
 2. **Evite bloquear o thread principal** - use threads em segundo plano ou Celery para operações longas
-3. **Considere as expectativas de tempo do utilizador** - para operações com menos de 1 segundo, um simples spinner pode ser suficiente
-4. **Lide com erros de forma elegante** - sempre forneça feedback quando algo corre mal
-5. **Otimize para dispositivos móveis** - garanta que os seus indicadores de progresso sejam visíveis em ecrãs menores
-6. **Teste com conexões lentas** - use a limitação do navegador para simular redes lentas
+3. **Considere as expectativas de tempo do usuário** - para operações com menos de 1 segundo, um simples spinner pode ser suficiente
+4. **Lide com erros graciosamente** - sempre forneça feedback quando algo der errado
+5. **Otimize para celular** - garanta que seus indicadores de progresso estejam visíveis em telas menores
+6. **Teste com conexões lentas** - use o throttling do navegador para simular redes lentas
 
-## Indo Mais Longe: Extensões Flask
+<h2>Aprofundando: Extensões Flask</h2>
 
-Várias extensões Flask podem ajudar a melhorar a interatividade da sua aplicação:
+Várias extensões Flask podem ajudar a aprimorar a interatividade da sua aplicação:
 
 - **Flask-WTF** para manipulação de formulários com proteção CSRF
 - **Flask-Uploads** para uploads de arquivos
 - **Flask-Caching** para melhorar o desempenho
 - **Flask-RESTful** para construir APIs
-- **Flask-Login** para autenticação de utilizadores
+- **Flask-Login** para autenticação de usuário
 
 ## Conclusão
 
-Barras de progresso e elementos interativos melhoram significativamente a experiência do utilizador em aplicações web. Com a flexibilidade do Flask, tem várias abordagens disponíveis - desde o polling AJAX simples até WebSockets e tarefas em segundo plano com Celery.
+Barras de progresso e elementos interativos melhoram significativamente a experiência do usuário em aplicações web. Com a flexibilidade do Flask, você tem múltiplas abordagens disponíveis - desde o simples polling AJAX até WebSockets e tarefas em segundo plano com Celery.
 
 A melhor abordagem depende das suas necessidades específicas:
 
 - Para aplicações simples com tarefas mais leves, o polling AJAX funciona bem
 - Para atualizações em tempo real mais responsivas, o Flask-SocketIO é excelente
-- Para processamento em segundo plano de alta demanda, o Celery oferece a solução mais robusta
+- Para processamento em segundo plano pesado, o Celery oferece a solução mais robusta
 
-Ao implementar essas funcionalidades interativas, pode criar aplicações Flask que não apenas funcionam bem, mas também proporcionam uma experiência de utilizador satisfatória que mantém os utilizadores envolvidos e informados.
-
+Ao implementar essas funcionalidades interativas, você pode criar aplicações Flask que não apenas funcionam bem, mas também proporcionam uma experiência de usuário satisfatória que mantém os usuários engajados e informados.
 
 Leia também:
 
-- [Módulos Python: Um Guia para Iniciantes para Organizar Seu Código]({{< relref "posts/python-modules-guide/" >}})
-- [Usando a Camada Gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
-- [Como Configurar e Usar Segredos do GitHub com Contêineres e Aplicações Voltadas para a Internet]({{< relref "posts/how-to-setup-github-secrets/" >}})
+- [Python Modules: A Beginner's Guide to Organizing Your Code]({{< relref "posts/python-modules-guide/" >}})
+- [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
+- [How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications]({{< relref "posts/how-to-setup-github-secrets/" >}})
 
 ---
-Pode contactar-me sobre este e outros tópicos através do meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.
+Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.
