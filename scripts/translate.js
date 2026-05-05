@@ -42,6 +42,7 @@ STRICT RULES:
 3. DO NOT translate code blocks.
 4. CRITICAL: DO NOT translate any Hugo shortcodes, especially {{< ref "..." >}}. Keep them exactly as they are.
 5. Provide ONLY the translated text, without any markdown formatting wrappers like \`\`\`markdown around the whole output, and without any conversational filler.
+6. CRITICAL: Preserve ALL Markdown heading levels exactly as they appear. A "## Heading" must remain "## " followed by the translated text. Never change heading depth (e.g., ## must not become # or ###).
 
 Content to translate:
 ${text}`;
@@ -190,12 +191,20 @@ async function syncDirectories() {
 
       if (enPath && !ptPath) {
         // Missing in PT
-        await translateFile(enPath, path.join(PT_DIR, relPath), 'Portuguese');
-        didTranslate = true;
+        if (!isRecentPost(enPath)) {
+          console.log(`Skipped (too old): ${relPath}`);
+        } else {
+          await translateFile(enPath, path.join(PT_DIR, relPath), 'Portuguese');
+          didTranslate = true;
+        }
       } else if (ptPath && !enPath) {
         // Missing in EN
-        await translateFile(ptPath, path.join(EN_DIR, relPath), 'English');
-        didTranslate = true;
+        if (!isRecentPost(ptPath)) {
+          console.log(`Skipped (too old): ${relPath}`);
+        } else {
+          await translateFile(ptPath, path.join(EN_DIR, relPath), 'English');
+          didTranslate = true;
+        }
       } else if (enPath && ptPath) {
         // Both exist, check for updates
         const enRaw = fs.readFileSync(enPath, 'utf8');
@@ -209,15 +218,23 @@ async function syncDirectories() {
 
         // If PT was translated from EN, and EN has changed
         if (ptParsed.data.translation_source_hash && ptParsed.data.translation_source_hash !== enHash) {
-           console.log(`Update detected in EN: ${relPath}`);
-           await translateFile(enPath, ptPath, 'Portuguese');
-           didTranslate = true;
+          if (!isRecentPost(enPath)) {
+            console.log(`Skipped (too old): ${relPath}`);
+          } else {
+            console.log(`Update detected in EN: ${relPath}`);
+            await translateFile(enPath, ptPath, 'Portuguese');
+            didTranslate = true;
+          }
         }
         // If EN was translated from PT, and PT has changed
         else if (enParsed.data.translation_source_hash && enParsed.data.translation_source_hash !== ptHash) {
-           console.log(`Update detected in PT: ${relPath}`);
-           await translateFile(ptPath, enPath, 'English');
-           didTranslate = true;
+          if (!isRecentPost(ptPath)) {
+            console.log(`Skipped (too old): ${relPath}`);
+          } else {
+            console.log(`Update detected in PT: ${relPath}`);
+            await translateFile(ptPath, enPath, 'English');
+            didTranslate = true;
+          }
         }
         // If neither has a hash (old files), we might just skip or we could compare mtimes as a fallback.
         // For safety, we skip them until they are manually updated or run.
@@ -228,6 +245,16 @@ async function syncDirectories() {
       }
     }
   }
+}
+
+function isRecentPost(filePath, maxAgeDays = 2) {
+  const raw = fs.readFileSync(filePath, 'utf8');
+  const { data } = matter(raw);
+  if (!data.date) return false;
+  const postDate = new Date(data.date);
+  const now = new Date();
+  const diffDays = (now - postDate) / (1000 * 60 * 60 * 24);
+  return diffDays <= maxAgeDays;
 }
 
 function getAllFiles(dirPath, arrayOfFiles) {
