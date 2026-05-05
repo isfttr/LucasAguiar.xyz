@@ -31,9 +31,9 @@ E a lista de modelos deve mostrar os seus modelos personalizados.
 
 Leia também:
 
-- [Script para Atualizar o Open WebUI num LXC Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [Criando o meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [Corrigir Erros de Login da Interface Web do Proxmox; um Guia Passo a Passo]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Script para Atualizar Open WebUI em um LXC Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Corrigindo Erros de Login na Interface Web do Proxmox: Guia Passo a Passo]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
 ---
 Pode contactar-me sobre este e outros tópicos através do meu email **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

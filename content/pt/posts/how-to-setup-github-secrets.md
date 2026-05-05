@@ -551,9 +551,9 @@ Lembre-se, a segurança é um processo contínuo. Audite regularmente o uso de s
 
 Leia também:
 
-- [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
-- [Script for Updating Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [Two Weeks with GitButler: Streamlining My Git Workflow]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [Usando a Camada Gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Script para Atualizar Open WebUI em um LXC Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Duas Semanas com GitButler: Otimizando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
 
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

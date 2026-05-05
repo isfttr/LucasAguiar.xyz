@@ -449,9 +449,9 @@ Da próxima vez que se encontrar a escrever um script Python que está a ficar m
 
 Leia também:
 
-- [Desenvolvendo Aplicações Web Flask Interativas: Barras de Progresso e Além]({{< relref "posts/flask-progress-bars-and-beyond/" >}})
+- [Construindo Aplicativos Web Flask Interativos: Barras de Progresso e Além]({{< relref "posts/flask-progress-bars-and-beyond/" >}})
 - [Duas Semanas com GitButler: Otimizando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
-- [De Cursor a Windsurf a Zed: Minha Jornada Através de Editores de Código Aprimorados por IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [Do Cursor ao Windsurf ao Zed: Minha Jornada Através de Editores de Código Aprimorados por IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
 
 ---
 Pode contactar-me sobre este e outros tópicos no meu email **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

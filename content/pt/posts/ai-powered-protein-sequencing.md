@@ -403,9 +403,9 @@ A tecnologia ainda está em seus estágios iniciais, e seu potencial total ainda
 
 Leia também:
 
-- [From Developers to Scientists: How AI Is Transforming the Complexity of Code]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
-- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
+- [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
 
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos em meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

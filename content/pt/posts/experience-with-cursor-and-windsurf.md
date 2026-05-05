@@ -133,9 +133,9 @@ Suspeito que esta jornada não terminou, pois o cenário das ferramentas de dese
 
 Leia também:
 
-- [Por Que Estou Terminando com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 - [Duas Semanas com GitButler: Otimizando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
-- [Da Procrastinação ao Progresso: Como a IA me ajudou]({{< relref "posts/ai-beats-procrastination/" >}})
+- [Da Procrastinação ao Progresso: Como a IA me tem ajudado]({{< relref "posts/ai-beats-procrastination/" >}})
 
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.
