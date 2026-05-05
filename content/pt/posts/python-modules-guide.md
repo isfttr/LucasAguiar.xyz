@@ -450,7 +450,7 @@ Da próxima vez que se encontrar a escrever um script Python que está a ficar m
 Leia também:
 
 - [Construindo Aplicativos Web Flask Interativos: Barras de Progresso e Além]({{< relref "posts/flask-progress-bars-and-beyond/" >}})
-- [Duas Semanas com GitButler: Otimizando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [Duas Semanas com GitButler: Simplificando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [Do Cursor ao Windsurf ao Zed: Minha Jornada Através de Editores de Código Aprimorados por IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
 
 ---

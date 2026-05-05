@@ -241,7 +241,7 @@ Espero que este guia tenha esclarecido a arquitetura para criar uma integração
 
 Leia também:
 
-- [Usando a Camada Gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Usando o nível gratuito da Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
 - [Corrigindo Erros de Login na Interface Web do Proxmox: Guia Passo a Passo]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 - [Estrutura de Arquivos de Conteúdo do Hugo]({{< relref "posts/hugo-content-file-structure/" >}})
 

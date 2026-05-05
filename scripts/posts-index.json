@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T02:07:19.158Z",
+  "last_updated": "2026-05-05T02:08:03.004Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -153,7 +153,7 @@
         "article"
       ],
       "description_en": "Learn how artificial intelligence is revolutionizing our understanding of proteins - the workhorses of life - and transforming medicine, agriculture, and environmental science along the way.",
-      "content_hash_en": "dd9afe242fd1d3e7020f2f14072e348052771c1c02ce72bd36005c5a65420f8b",
+      "content_hash_en": "bde279d90b493435bc29ef2d3adfe66c49ab039a986f486cad3e6bc5fe2cf5b8",
       "backlinks": [
         "ia-desenvolvimento-software-complexidade-codigo",
         "backlog-inpi-patentes-farmaceuticas",
@@ -347,7 +347,7 @@
         "articles"
       ],
       "description_en": "",
-      "content_hash_en": "cec107eb4d602ae570556afc9d27e30b216b1609d6b8bb75807490526d51b703",
+      "content_hash_en": "14afb46e4f5a21db4c24a7e536aaa4f0b28a45088bf41d277bd5c2e78a939c4d",
       "backlinks": [
         "newsletter-beehiiv-cloudflare-github",
         "oracle_cloud_vps",
@@ -373,7 +373,7 @@
         "article"
       ],
       "description_en": "The growing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
-      "content_hash_en": "b79b7505caf74180481e5b95fdbe17d9edae50e680c9e6e80287d7b18c496f66",
+      "content_hash_en": "88cbcbe9da4ad96918283d26666bf00b4dfbc7b75ef08fed1e21a7f4926136ba",
       "backlinks": [
         "ai-copy-paste-problem",
         "experience-with-cursor-and-windsurf",
@@ -451,7 +451,7 @@
         "tutorial"
       ],
       "description_en": "Learn to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.",
-      "content_hash_en": "68017ce55e19422a810f36aa9353363d6822b915bc1bc59cbe4b9e3609059f83",
+      "content_hash_en": "16b1052163ef7d779902f15b97dcd5acf7e16a9f3568cbe740d9280a9aa65a8a",
       "backlinks": [
         "oracle_cloud_vps",
         "troubleshooting-proxmox-login-interface",
@@ -483,7 +483,7 @@
     "one-week-review-gitbutler": {
       "slug": "one-week-review-gitbutler",
       "title_en": "Two Weeks with GitButler: Streamlining My Git Workflow",
-      "title_pt": "Duas Semanas com GitButler: Otimizando Meu Fluxo de Trabalho Git",
+      "title_pt": "Duas Semanas com GitButler: Simplificando Meu Fluxo de Trabalho Git",
       "tags": [
         "git",
         "workflow",
@@ -532,7 +532,7 @@
     "oracle_cloud_vps": {
       "slug": "oracle_cloud_vps",
       "title_en": "Using Oracle Cloud Free tier",
-      "title_pt": "Usando a Camada Gratuita do Oracle Cloud",
+      "title_pt": "Usando o nível gratuito da Oracle Cloud",
       "tags": [
         "linux",
         "oracle",
@@ -548,7 +548,7 @@
         "tutorial"
       ],
       "description_en": "",
-      "content_hash_en": "1c58c1cf082f1970868b8ace3aae0cbfb98d2c600c1fd6a4660421dee597cfd3",
+      "content_hash_en": "f6003c2b2cd0c0870b13cdfb01a9a6f4765893b65f469dbbc238eae1e436ff71",
       "backlinks": [
         "newsletter-beehiiv-cloudflare-github",
         "nixos-vm1",
@@ -574,8 +574,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "After the STJ denied a term extension for semaglutide, the discussion on compensation for INPI's delay in pharmaceutical patents migrated to the Legislature. What is at stake in Bill No. 5.810/2025.",
-      "content_hash_en": "62f248b0d6dc4fd6950162bfbb08a462eafad0d3c66d6546522dcd4d9276abd1",
+      "description_en": "After the STJ denied an extension of time for semaglutide, the discussion about compensation for INPI's delay in pharmaceutical patents moved to the Legislature. What is at stake in Bill No. 5,810/2025.",
+      "content_hash_en": "b2a8ee2830564301c7077629828d9289c11b70abbd9bdd0a36be8742420ab1a2",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "inpi-automation-roadmap-2025-2029",
@@ -673,7 +673,7 @@
         "tutorial"
       ],
       "description_en": "",
-      "content_hash_en": "c92b22566bb36f7c9b456d022d4a1f09132e18de1e57c8650d111c1ea0efc83f",
+      "content_hash_en": "1a3d8d6b3921b0d727067846241aa32a90002f4a5c43b8c0fa96f8ddcb612182",
       "backlinks": [
         "oracle_cloud_vps",
         "newsletter-beehiiv-cloudflare-github",

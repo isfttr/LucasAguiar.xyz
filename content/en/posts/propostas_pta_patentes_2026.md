@@ -77,6 +77,13 @@ Also read:
 - [INPI Automation Roadmap 2025-2029]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 - [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
 
+
+Read also:
+
+- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
+
 ---
 
 You can get in touch to discuss this and other topics via email <contact@lucasaguiar.xyz>
