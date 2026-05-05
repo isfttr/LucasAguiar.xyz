@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T01:37:53.145Z",
+  "last_updated": "2026-05-05T02:07:19.158Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -358,7 +358,7 @@
     },
     "ia-desenvolvimento-software-complexidade-codigo": {
       "slug": "ia-desenvolvimento-software-complexidade-codigo",
-      "title_en": "From Developers to Scientists: How AI Is Transforming the Complexity of Code",
+      "title_en": "From Developers to Scientists: How AI Is Transforming Code Complexity",
       "title_pt": "De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código",
       "tags": [
         "inteligência artificial",
@@ -372,8 +372,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "The increasing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
-      "content_hash_en": "04fc5ea3ec54abf70d300e0d4e22dc079c89b7a42d91040f91e542e1b520caa9",
+      "description_en": "The growing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
+      "content_hash_en": "b79b7505caf74180481e5b95fdbe17d9edae50e680c9e6e80287d7b18c496f66",
       "backlinks": [
         "ai-copy-paste-problem",
         "experience-with-cursor-and-windsurf",
@@ -385,7 +385,7 @@
     "inpi-automation-roadmap-2025-2029": {
       "slug": "inpi-automation-roadmap-2025-2029",
       "title_en": "INPI's Ambitious Automation Roadmap",
-      "title_pt": "Roteiro Ambicioso de Automação do INPI",
+      "title_pt": "Roteiro ambicioso de automação do INPI",
       "tags": [
         "intelectual property",
         "technology",
@@ -437,7 +437,7 @@
     },
     "newsletter-beehiiv-cloudflare-github": {
       "slug": "newsletter-beehiiv-cloudflare-github",
-      "title_en": "Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers",
+      "title_en": "Complete Guide: How to Integrate Beehiiv to Hugo via Cloudflare Workers",
       "title_pt": "Guia Completo: Como Integrar o Beehiiv ao Hugo via Cloudflare Workers",
       "tags": [
         "beehiiv",
@@ -451,7 +451,7 @@
         "tutorial"
       ],
       "description_en": "Learn to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.",
-      "content_hash_en": "10184ee803aa6ff31c6443da9cc7b4f89952eb686214bf4f2254f82f01ab1427",
+      "content_hash_en": "68017ce55e19422a810f36aa9353363d6822b915bc1bc59cbe4b9e3609059f83",
       "backlinks": [
         "oracle_cloud_vps",
         "troubleshooting-proxmox-login-interface",

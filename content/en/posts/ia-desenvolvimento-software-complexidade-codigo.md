@@ -55,9 +55,9 @@ Artificial intelligence has been a topic of interest for me, and I have already 
 
 Read also:
 
-- [The AI Copy-Paste Problem: Killing Software Lock-in & Why Data Portability Is Crucial]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [The AI Copy-Paste Problem: Killing Software Lock-In & Why Data Portability is Key]({{< relref "posts/ai-copy-paste-problem/" >}})
 - [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [Why I'm Breaking Up with Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 
 ---
 
