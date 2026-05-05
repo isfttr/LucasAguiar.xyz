@@ -1155,12 +1155,29 @@ a { color: inherit; text-decoration: none; }
   border-top: 1px solid var(--border);
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   font-family: var(--font-mono);
-  font-size: 12px;
+}
+.post-footer a {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  text-decoration: none;
+  max-width: 45%;
+}
+.post-nav-next { text-align: right; }
+.post-nav-label {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
   color: var(--fg-faint);
 }
-.post-footer a:hover { color: var(--accent); }
+.post-nav-title {
+  font-size: 13px;
+  color: var(--fg-muted);
+  line-height: 1.4;
+}
+.post-footer a:hover .post-nav-title { color: var(--accent); }
 .post-extras {
   max-width: 680px;
   margin: var(--space-8) auto 0;

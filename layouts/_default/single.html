@@ -56,12 +56,8 @@
   </div>
   {{ end }}
 
-  {{/* End-of-post author + newsletter offer */}}
-  {{ partial "newsletter-end-cta.html" . }}
-
   {{/* Related posts + buy me a coffee */}}
   <div class="post-extras">
-    {{- partial "related-posts.html" . -}}
     {{- partial "buy-me-coffee.html" . -}}
   </div>
 
@@ -69,10 +65,16 @@
   <div class="container">
     <div class="post-footer">
       {{ with .PrevInSection }}
-        <a href="{{ .RelPermalink }}">← {{ .Title | truncate 45 }}</a>
+        <a href="{{ .RelPermalink }}" class="post-nav-prev">
+          <span class="post-nav-label">{{ if eq $.Site.Language.Lang "pt" }}← Post anterior{{ else }}← Previous post{{ end }}</span>
+          <span class="post-nav-title">{{ .Title | truncate 45 }}</span>
+        </a>
       {{ else }}<span></span>{{ end }}
       {{ with .NextInSection }}
-        <a href="{{ .RelPermalink }}">{{ .Title | truncate 45 }} →</a>
+        <a href="{{ .RelPermalink }}" class="post-nav-next">
+          <span class="post-nav-label">{{ if eq $.Site.Language.Lang "pt" }}Próximo post →{{ else }}Next post →{{ end }}</span>
+          <span class="post-nav-title">{{ .Title | truncate 45 }}</span>
+        </a>
       {{ else }}<span></span>{{ end }}
     </div>
   </div>
