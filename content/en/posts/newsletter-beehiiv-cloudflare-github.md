@@ -27,13 +27,13 @@ In this tutorial, I will share my technical use case, which will serve as a guid
 
 My architectural decision was to keep my domain and hosting on GitHub Pages, but using my site's existing design and HTML code for the subscription button (Call-to-Action). It is precisely this visual customization of the form that requires the use of the Beehiiv API and Cloudflare Workers.
 
-Setting Up a Custom Domain in Beehiiv and Cloudflare
+## Setting Up a Custom Domain in Beehiiv and Cloudflare
 
 Let's get straight to practice, assuming you already have a Beehiiv account, your own domain, and your website hosted (in my case, via GitHub Pages).
 
 Firstly, it is crucial to pay attention to DNS management. When adding your custom domain for the newsletter, Beehiiv will suggest including some records in Cloudflare. However, you will need to change specifically the CNAME "www" record to point to your address `username.github.io` and not to Beehiiv. If this step is ignored, accessing your root domain will redirect visitors to the newsletter subscription page, not your blog.
 
-Cloudflare DNS records configuration for Beehiiv custom domain
+## Cloudflare DNS records configuration for Beehiiv custom domain
 
 Additionally, you will need to add a specific subdomain for the newsletter. For this project, I created a CNAME named `newsletter` pointing to `cname.beehiiv.com`.
 
@@ -41,11 +41,11 @@ Back in the Beehiiv dashboard, navigate to Settings → Publication Details → 
 
 SSL Tip: A common issue when accepting new records in Cloudflare is the temporary revocation of the SSL certificate by the hosting provider. If this occurs on GitHub Pages, change the proxy status in Cloudflare (the orange cloud) to "DNS Only" until GitHub re-verifies and issues a new certificate. After validation, you can reactivate the Cloudflare proxy.
 
-Beehiiv domains dashboard configuring redirects
+## Beehiiv domains dashboard configuring redirects
 
 On the Domains → Redirect Web Domains screen within Beehiiv, check the "No redirect" option. This ensures that the platform does not interfere with your main domain's traffic.
 
-Creating a Custom HTML Form in Hugo
+## Creating a Custom HTML Form in Hugo
 
 To avoid using the embed code standard of Beehiiv and maintain the blog's visual consistency, I created a custom HTML code block. Below is the structure of my Call-to-Action (CTA), which already includes internationalization (Portuguese and English texts via Hugo) and event tracking with PostHog.
 
@@ -141,7 +141,7 @@ To avoid using the embed code standard of Beehiiv and maintain the blog's visual
 </section>
 ````
 
-Subscription Integration with Cloudflare Workers
+## Subscription Integration with Cloudflare Workers
 
 As I opted for a 100% native form instead of an iframe, I needed to create a communication bridge (Serverless) between my blog's frontend and the Beehiiv API. For this, I configured a Cloudflare Worker. It "listens" for the click event on the "Subscribe" button, collects the entered email, and sends it via POST to Beehiiv, registering the new subscriber.
 
