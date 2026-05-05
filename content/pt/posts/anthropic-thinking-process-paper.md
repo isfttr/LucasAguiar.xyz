@@ -155,7 +155,7 @@ _O que você pensa sobre essas descobertas? O fato de que os sistemas de IA pare
 
 Leia também:
 
-- [O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software e Por que a Portabilidade de Dados é Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software & Por Que a Portabilidade de Dados é Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})
 - [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 - [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 

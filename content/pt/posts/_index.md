@@ -7,4 +7,4 @@ Leia também:
 
 - [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
 - [Roteiro Ambicioso de Automação do INPI]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
-- [O Problema do Copiar-Colar com IA: Acabando com a Dependência de Software e Por Que a Portabilidade de Dados é Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software & Por Que a Portabilidade de Dados é Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})
