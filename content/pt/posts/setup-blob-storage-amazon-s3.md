@@ -540,7 +540,7 @@ Leia também:
 
 - [Usando a Camada Gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
 - [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
-- [Como Configurar e Usar Segredos do GitHub com Contêineres e Aplicações Voltadas para a Internet]({{< relref "posts/how-to-setup-github-secrets/" >}})
+- [Como Configurar e Usar GitHub Secrets com Contêineres e Aplicações Voltadas para a Internet]({{< relref "posts/how-to-setup-github-secrets/" >}})
 
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu email **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

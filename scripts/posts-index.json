@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T01:23:14.190Z",
+  "last_updated": "2026-05-05T01:37:53.145Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -140,7 +140,7 @@
     "ai-powered-protein-sequencing": {
       "slug": "ai-powered-protein-sequencing",
       "title_en": "What Are Proteins and Why is AI-Powered Protein Sequencing a Game Changer?",
-      "title_pt": "O Que São Proteínas e Por Que o Sequenciamento de Proteínas Impulsionado por IA é um Divisor de Águas?",
+      "title_pt": "O Que São Proteínas e Por Que o Sequenciamento de Proteínas Alimentado por IA é um Divisor de Águas?",
       "tags": [
         "artificial-intelligence",
         "biotechnology",
@@ -153,7 +153,7 @@
         "article"
       ],
       "description_en": "Learn how artificial intelligence is revolutionizing our understanding of proteins - the workhorses of life - and transforming medicine, agriculture, and environmental science along the way.",
-      "content_hash_en": "5061ae86c01b10df6b429cf953df8b09ea98dec0fe57127f8e1e8c29d28ca616",
+      "content_hash_en": "dd9afe242fd1d3e7020f2f14072e348052771c1c02ce72bd36005c5a65420f8b",
       "backlinks": [
         "ia-desenvolvimento-software-complexidade-codigo",
         "backlog-inpi-patentes-farmaceuticas",
@@ -203,7 +203,7 @@
         "article"
       ],
       "description_en": "The Backlog Combat Plan reduced the overall stock by 80%, but pharmaceutical orders were left out. Understand what changed with Ordinance 110/2025 and what is still pending.",
-      "content_hash_en": "9732f8a5fa8ee1fd1c7988284eef6b706ba621bc32589414f9b9ecf5c1a33254",
+      "content_hash_en": "03418325ecf00b8962b9cd8662b6c40349f5073d20e8c388cbc7982260f67b10",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "propostas_pta_patentes_2026",
@@ -239,7 +239,7 @@
     "experience-with-cursor-and-windsurf": {
       "slug": "experience-with-cursor-and-windsurf",
       "title_en": "From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors",
-      "title_pt": "De Cursor a Windsurf a Zed: Minha Jornada Através de Editores de Código Aprimorados por IA",
+      "title_pt": "Do Cursor ao Windsurf ao Zed: Minha Jornada Através de Editores de Código Aprimorados por IA",
       "tags": [
         "development",
         "tools",
@@ -286,7 +286,7 @@
     "flask-progress-bars-and-beyond": {
       "slug": "flask-progress-bars-and-beyond",
       "title_en": "Building Interactive Flask Web Apps: Progress Bars and Beyond",
-      "title_pt": "Desenvolvendo Aplicações Web Flask Interativas: Barras de Progresso e Além",
+      "title_pt": "Construindo Aplicativos Web Flask Interativos: Barras de Progresso e Além",
       "tags": [
         "python",
         "flask",
@@ -311,7 +311,7 @@
     "how-to-setup-github-secrets": {
       "slug": "how-to-setup-github-secrets",
       "title_en": "How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications",
-      "title_pt": "Como Configurar e Usar Segredos do GitHub com Contêineres e Aplicações Voltadas para a Internet",
+      "title_pt": "Como Configurar e Usar GitHub Secrets com Contêineres e Aplicações Voltadas para a Internet",
       "tags": [
         "github",
         "security",
@@ -400,7 +400,7 @@
         "video"
       ],
       "description_en": "This initiative aims to streamline the patent process, enhance user experience, and improve the efficiency of patent examiners.",
-      "content_hash_en": "4d2abba4ce2ba19db77dbafcf62e149737e5c7c1fc423a365618e01531e638df",
+      "content_hash_en": "6f3f42a13092f0533c2482df8deae34d7422ca1a68b38fadc7b768af3cf1d53e",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "propostas_pta_patentes_2026",
@@ -520,7 +520,7 @@
         "article"
       ],
       "description_en": "A comprehensive guide to successful collaboration in open science initiatives, covering essential practices from communication strategies to data management and credit attribution.",
-      "content_hash_en": "b8177738c70b5d6f308172d08699ba04ed67ebc517a2fbd975f196858afb8d72",
+      "content_hash_en": "67efd4acd51a4656ddc86fb5bd7abd227d0346e6e63db057a518730543d22438",
       "backlinks": [
         "propostas_pta_patentes_2026",
         "backlog-inpi-patentes-farmaceuticas",
@@ -575,7 +575,7 @@
         "article"
       ],
       "description_en": "After the STJ denied a term extension for semaglutide, the discussion on compensation for INPI's delay in pharmaceutical patents migrated to the Legislature. What is at stake in Bill No. 5.810/2025.",
-      "content_hash_en": "b3ab7de01fb08f5d87979eb9d2a867d5fe9c1a2058599b05482003ffe7452944",
+      "content_hash_en": "62f248b0d6dc4fd6950162bfbb08a462eafad0d3c66d6546522dcd4d9276abd1",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "inpi-automation-roadmap-2025-2029",

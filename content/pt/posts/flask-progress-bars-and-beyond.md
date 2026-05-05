@@ -691,9 +691,9 @@ Ao implementar essas funcionalidades interativas, você pode criar aplicações 
 
 Leia também:
 
-- [Python Modules: A Beginner's Guide to Organizing Your Code]({{< relref "posts/python-modules-guide/" >}})
-- [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
-- [How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications]({{< relref "posts/how-to-setup-github-secrets/" >}})
+- [Módulos Python: Um Guia para Iniciantes para Organizar Seu Código]({{< relref "posts/python-modules-guide/" >}})
+- [Usando a Camada Gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Como Configurar e Usar GitHub Secrets com Contêineres e Aplicações Voltadas para a Internet]({{< relref "posts/how-to-setup-github-secrets/" >}})
 
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.
