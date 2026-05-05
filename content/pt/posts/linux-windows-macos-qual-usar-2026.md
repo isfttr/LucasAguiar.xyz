@@ -1,6 +1,6 @@
 ---
 date: 2026-05-04T21:06:23-03:00
-draft: true
+draft: false
 title: "Linux, Windows ou macOS: Qual Sistema Operacional Usar em 2026?" 
 description: "Perspectiva honesta de quem usou os três sistemas por anos — por que escolhi o macOS, quando o Linux realmente vale a pena, e o que ainda incomoda no Windows." 
 url: "" 
