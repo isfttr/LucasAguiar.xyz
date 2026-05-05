@@ -54,7 +54,7 @@ My references for this is all over the place, but here they are:
 
 Read also:
 
-- [Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+- [Complete Guide: How to Integrate Beehiiv to Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
 - [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
 - [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
 

@@ -398,7 +398,7 @@ The technology is still in its early stages, and its full potential remains to b
 
 Read also:
 
-- [From Developers to Scientists: How AI Is Transforming the Complexity of Code]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
+- [From Developers to Scientists: How AI Is Transforming Code Complexity]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
 - [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
 - [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
 
