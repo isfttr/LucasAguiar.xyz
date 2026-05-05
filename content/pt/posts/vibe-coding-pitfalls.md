@@ -65,7 +65,7 @@ Leia também:
 
 - [De Cursor a Windsurf a Zed: Minha Jornada Através de Editores de Código Aprimorados por IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
 - [Da Procrastinação ao Progresso: Como a IA me tem ajudado]({{< relref "posts/ai-beats-procrastination/" >}})
-- [Dentro dos Cérebros de IA: Como a Anthropic Decodificou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
 
 ---
 Você pode me contatar sobre este e outros tópicos pelo e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

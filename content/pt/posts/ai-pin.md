@@ -38,8 +38,8 @@ Para concluir, investiguei um pouco sobre o número de iPods vendidos nos primei
 
 Leia também:
 
-- [Criando o meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [O Problema de Copiar e Colar da IA: Eliminando o Bloqueio de Software e Por Que a Portabilidade de Dados é Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})
-- [Atualização de vida - Novembro de 2023]({{< relref "posts/update_on_life_november-2023/" >}})
+- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software & Por Que a Portabilidade de Dados é Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [Atualização de Vida — Novembro de 2023]({{< relref "posts/update_on_life_november-2023/" >}})
 
 Pode entrar em contacto comigo sobre este ou outros tópicos através do meu email contact@lucasaguiar.xyz.

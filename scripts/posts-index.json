@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T01:07:55.619Z",
+  "last_updated": "2026-05-05T01:19:13.600Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -165,7 +165,7 @@
     "anthropic-thinking-process-paper": {
       "slug": "anthropic-thinking-process-paper",
       "title_en": "Inside AI Brains: How Anthropic Decoded Claude's Thinking Process",
-      "title_pt": "Dentro dos Cérebros de IA: Como a Anthropic Decodificou o Processo de Pensamento de Claude",
+      "title_pt": "Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude",
       "tags": [
         "artificial-intelligence",
         "llm",
@@ -189,7 +189,7 @@
     },
     "backlog-inpi-patentes-farmaceuticas": {
       "slug": "backlog-inpi-patentes-farmaceuticas",
-      "title_en": "The INPI backlog is over — but not for pharmaceutical patents",
+      "title_en": "The INPI backlog is over — but not for drug patents",
       "title_pt": "O backlog do INPI acabou — mas não para patentes de medicamentos",
       "tags": [
         "inpi",
@@ -202,8 +202,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "The Backlog Combat Plan reduced overall stock by 80%, but pharmaceutical orders were left out. Understand what changed with Ordinance 110/2025 and what is still pending.",
-      "content_hash_en": "395b15577cf4547ffcb633121e197831ba1401f96723d627e7502f6901c5c23e",
+      "description_en": "The Backlog Combat Plan reduced the overall stock by 80%, but pharmaceutical orders were left out. Understand what changed with Ordinance 110/2025 and what is still pending.",
+      "content_hash_en": "9732f8a5fa8ee1fd1c7988284eef6b706ba621bc32589414f9b9ecf5c1a33254",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "propostas_pta_patentes_2026",

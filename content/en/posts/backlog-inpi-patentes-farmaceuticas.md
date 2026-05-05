@@ -61,8 +61,8 @@ Meanwhile, the debate on how to compensate for historical delays in the effectiv
 
 Read also:
 
-- [INPI Automation Roadmap 2025-2029]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
-- [Patent Term Adjustment: the pharmaceutical industry lost in the STJ]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
 - [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
 
 You can get in touch to discuss this and other topics at <contact@lucasaguiar.xyz>

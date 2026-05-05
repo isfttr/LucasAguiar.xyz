@@ -65,7 +65,7 @@ You can also what in full the presentation and discussions on the matter by [wat
 
 Read also:
 
-- [The INPI backlog is over — but not for pharmaceutical patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
 - [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
 - [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
 
