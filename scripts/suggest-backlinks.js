@@ -169,7 +169,7 @@ function saveIndex(index) {
 
 // PHASE 1+2: Scan EN posts and build/update index
 function scanPosts(index) {
-  const files = fs.readdirSync(EN_DIR).filter((f) => f.endsWith('.md'));
+  const files = fs.readdirSync(EN_DIR).filter((f) => f.endsWith('.md') && f !== '_index.md');
 
   for (const file of files) {
     const slug = file.replace(/\.md$/, '');
