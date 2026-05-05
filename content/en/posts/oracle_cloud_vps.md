@@ -75,7 +75,7 @@ I hope this article was useful to some of you who are trying to expose some inte
 
 Read also:
 
-- [Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+- [Complete Guide: How to Integrate Beehiiv to Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
 - [NixOS - Virtual Machine using QEMU]({{< relref "posts/nixos-vm1/" >}})
 - [Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
