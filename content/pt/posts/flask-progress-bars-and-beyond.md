@@ -692,7 +692,7 @@ Ao implementar essas funcionalidades interativas, você pode criar aplicações 
 Leia também:
 
 - [Módulos Python: Um Guia para Iniciantes para Organizar Seu Código]({{< relref "posts/python-modules-guide/" >}})
-- [Usando o nível gratuito da Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Usando a camada gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
 - [Como Configurar e Usar GitHub Secrets com Contêineres e Aplicações Voltadas para a Internet]({{< relref "posts/how-to-setup-github-secrets/" >}})
 
 ---

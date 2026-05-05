@@ -73,6 +73,7 @@ Espero que esse texto tenha te ajudado se você está entre essas opções. Busq
 ---
 
 Leia também:
-- [10 anos de MacBook Pro]({{< relref "/posts/10-years-of-macbook-pro" >}})
-- [Oracle Cloud VPS 100% gratuito]({{< relref "/posts/oracle_cloud_vps" >}})
-- [NixOS na VM usando QEMU]({{< relref "/posts/nixos-vm1" >}})
+
+- [10 anos usando o MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
+- [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
+- [Usando a camada gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})

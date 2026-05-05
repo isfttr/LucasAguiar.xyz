@@ -78,6 +78,7 @@ I hope this text has helped you if you're considering these options. I aimed to 
 ---
 
 Read also:
-- [10 years of MacBook Pro]({{< relref "/posts/10-years-of-macbook-pro" >}})
-- [100% Free Oracle Cloud VPS]({{< relref "/posts/oracle_cloud_vps" >}})
-- [NixOS in a VM using QEMU]({{< relref "/posts/nixos-vm1" >}})
+
+- [10 years using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
+- [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
+- [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})

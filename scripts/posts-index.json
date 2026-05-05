@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T02:08:03.004Z",
+  "last_updated": "2026-05-05T22:00:14.733Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -140,7 +140,7 @@
     "ai-powered-protein-sequencing": {
       "slug": "ai-powered-protein-sequencing",
       "title_en": "What Are Proteins and Why is AI-Powered Protein Sequencing a Game Changer?",
-      "title_pt": "O Que São Proteínas e Por Que o Sequenciamento de Proteínas Alimentado por IA é um Divisor de Águas?",
+      "title_pt": "O Que São Proteínas e Por Que o Sequenciamento de Proteínas por IA é um Divisor de Águas?",
       "tags": [
         "artificial-intelligence",
         "biotechnology",
@@ -337,7 +337,7 @@
     "hugo-content-file-structure": {
       "slug": "hugo-content-file-structure",
       "title_en": "Hugo Content File Structure",
-      "title_pt": "Estrutura de Arquivos de Conteúdo do Hugo",
+      "title_pt": "Estrutura de Ficheiros de Conteúdo Hugo",
       "tags": [
         "documentation",
         "hugo",
@@ -437,7 +437,7 @@
     },
     "newsletter-beehiiv-cloudflare-github": {
       "slug": "newsletter-beehiiv-cloudflare-github",
-      "title_en": "Complete Guide: How to Integrate Beehiiv to Hugo via Cloudflare Workers",
+      "title_en": "Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers",
       "title_pt": "Guia Completo: Como Integrar o Beehiiv ao Hugo via Cloudflare Workers",
       "tags": [
         "beehiiv",
@@ -450,8 +450,8 @@
         "article",
         "tutorial"
       ],
-      "description_en": "Learn to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.",
-      "content_hash_en": "16b1052163ef7d779902f15b97dcd5acf7e16a9f3568cbe740d9280a9aa65a8a",
+      "description_en": "Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.",
+      "content_hash_en": "4ae9f611ae1a7eeecd7d35c656fcadb702953f4e67ee0c734b03fdd9eec1627b",
       "backlinks": [
         "oracle_cloud_vps",
         "troubleshooting-proxmox-login-interface",
@@ -532,7 +532,7 @@
     "oracle_cloud_vps": {
       "slug": "oracle_cloud_vps",
       "title_en": "Using Oracle Cloud Free tier",
-      "title_pt": "Usando o nível gratuito da Oracle Cloud",
+      "title_pt": "Usando a camada gratuita do Oracle Cloud",
       "tags": [
         "linux",
         "oracle",
@@ -575,7 +575,7 @@
         "article"
       ],
       "description_en": "After the STJ denied an extension of time for semaglutide, the discussion about compensation for INPI's delay in pharmaceutical patents moved to the Legislature. What is at stake in Bill No. 5,810/2025.",
-      "content_hash_en": "b2a8ee2830564301c7077629828d9289c11b70abbd9bdd0a36be8742420ab1a2",
+      "content_hash_en": "0ab9ec7143f6fa59b70a81efd307a28503cd040d66d2fce9f9f4d142db6344fd",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "inpi-automation-roadmap-2025-2029",
@@ -723,6 +723,32 @@
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "linux-windows-macos-qual-usar-2026": {
+      "slug": "linux-windows-macos-qual-usar-2026",
+      "title_en": "Linux, Windows or macOS: Which Operating System to Use in 2026?",
+      "title_pt": "Linux, Windows ou macOS: Qual Sistema Operacional Usar em 2026?",
+      "tags": [
+        "linux",
+        "macos",
+        "windows",
+        "sistema-operacional",
+        "open-source",
+        "hardware",
+        "software"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Honest perspective from someone who used all three systems for years — why I chose macOS, when Linux is truly worth it, and what still bothers me about Windows.",
+      "content_hash_en": "081b9f9b190e6742ee806a2654065f498fbc432380526845e66e3e39037b108a",
+      "backlinks": [
+        "10-years-of-macbook-pro",
+        "introduction",
+        "oracle_cloud_vps"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-05-05T22:00:14.732Z"
     }
   }
 }

@@ -151,7 +151,7 @@ By implementing these preventative measures, you can significantly reduce the ri
 Read also:
 
 - [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
-- [Complete Guide: How to Integrate Beehiiv to Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+- [Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
 - [Script for Updating Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
 
 ---
