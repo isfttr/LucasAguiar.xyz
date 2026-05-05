@@ -1,11 +1,10 @@
 ---
 date: 2026-05-01T13:05:07.000Z
 draft: true
-title: 'From Developers to Scientists: How AI Is Transforming the Complexity of Code'
+title: 'From Developers to Scientists: How AI Is Transforming Code Complexity'
 description: >-
-  The increasing use of Artificial Intelligence in software development is
-  creating systems so complex that, in the future, programmers will act as
-  scientists.
+  The growing use of Artificial Intelligence in software development is creating
+  systems so complex that, in the future, programmers will act as scientists.
 url: ''
 featured_image: null
 categories:
@@ -18,58 +17,58 @@ tags:
   - aws
   - doenças
   - amiloidose
-translation_source_hash: 2ec191ddbcd33d865e3c0e1a9b858d49ab040ced8b1e65266acbb4949fd25b41
+translation_source_hash: ef5a3602296b35d7c64154b98579c45ec39ebd8e62298d2797bc5838edba46b5
 ---
 If you follow technology and development news, you've already noticed that Artificial Intelligence (AI) dominates the discussions. Far beyond the launch of new tools and workflows, there is a critical debate about the practical impacts of the mass adoption of these technologies in software engineering.
 
 Observing this scenario, a fascinating — and challenging — trend began to emerge.
 
-## The Impact of AI and the Avalanche of Code
+## The impact of AI and the avalanche of code
 
-Over the past year, Amazon faced some outages in its services, affecting both e-commerce and AWS infrastructure. The company is one of the biggest proponents of using Artificial Intelligence tools by its developers. All indications are that these blackouts were a direct consequence of the increasing use of AI in code generation, to the point of requiring a limitation on direct incorporation into production. Today, a senior engineer needs to rigorously evaluate the material before its implementation.
+Over the past year, Amazon faced several outages in its services, affecting both e-commerce and AWS infrastructure. The company is one of the biggest promoters of using Artificial Intelligence tools by its developers. All indications are that these blackouts were a direct consequence of the increasing use of AI in code generation, to the point of requiring a limitation on its direct incorporation into production. Today, a senior engineer needs to rigorously evaluate the material before its implementation.
 
-However, this solution raises a scalability problem. If we analyze the massive amount of lines of code produced by junior and mid-level engineers with the help of AI, the review of this material by the senior will inevitably also need to be assisted by... Artificial Intelligence. Businesses already exist that offer solutions specifically for reviewing AI-generated code, creating a continuous cycle of machine dependency.
+However, this solution raises a scalability problem. If we analyze the massive amount of code lines produced by junior and mid-level engineers with the help of AI, the review of this material by the senior will inevitably also need to be assisted by... Artificial Intelligence. Businesses already exist that offer solutions specifically aimed at reviewing AI-generated code, creating a continuous cycle of machine dependence.
 
-## Biology as a Metaphor for Software Engineering
+## Biology as a metaphor for software engineering
 
-To understand where we are headed, we can look to an apparently distant field: biological and health sciences.
+To understand where we are heading, we can look at an seemingly distant field: biological and health sciences.
 
-Humans and animals possess extremely complex characteristics. Doctors, researchers, and the pharmaceutical industry are fundamental because they deal daily with supercomplex biological systems, which are still only partially understood by science today.
+Humans and animals possess extremely complex characteristics. Doctors, researchers, and the pharmaceutical industry are fundamental because they deal daily with super-complex biological systems, which are still only partially understood by science today.
 
-Consider, for example, amyloidoses. This class of diseases occurs due to protein misfolding, leading to nefarious consequences in the body. The mechanism behind these diseases is difficult to treat, requiring advanced strategies, such as gene editing. Throughout our history, we have been discovering the gigantic complexity of biological systems and have worked intensely to, through understanding, build tools that cure diseases and improve our quality of life.
+Consider, for example, amyloidoses. This class of diseases occurs due to the misfolding of proteins, leading to harmful consequences in the organism. The mechanism behind these diseases is difficult to treat, requiring advanced strategies such as gene editing. Throughout our history, we have been discovering the gigantic complexity of biological systems and have worked intensely to, through understanding, build tools that cure diseases and improve our quality of life.
 
-## The Future: The Developer as a "Doctor" of Complex Systems?
+## The future: The developer as a "doctor" of complex systems?
 
 What does biology have to do with information technology? Everything.
 
 The progressive use of AI by developers raises an inevitable question: will we, in the future, have a scenario where programmers will act more like scientists and doctors? Professionals who will need to investigate, diagnose, and seek solutions to "cure" problems and anomalies created by the extreme complexity of AIs?
 
-Technological systems more intricate than current ones tend to become practically incomprehensible to humans in the future. It is exactly the same barrier we faced with biological systems long ago. Software engineering will no longer be just about writing code, but will increasingly be about understanding and intervening in a complex ecosystem generated by machines.
+Technological systems more intricate than current ones tend to become practically incomprehensible to humans in the future. This is exactly the same barrier we faced with biological systems some time ago. Software engineering will no longer be just about writing code, but will increasingly be about understanding and intervening in a complex ecosystem generated by machines.
 
 ---
 
 Artificial intelligence has been a topic of interest for me, and I have already commented on the subject in other posts:
 
 - [Using Obsidian with an AI]({{< ref "posts/10-obsidian-copilot.md">}})
-- [Protein Sequencing Using AI]({{< ref "posts/ai-powered-protein-sequencing.md">}})
+- [AI-powered Protein Sequencing]({{< ref "posts/ai-powered-protein-sequencing.md">}})
 
 
 Read also:
 
-- [The AI Copy-Paste Problem: Killing Software Lock-In & Why Data Portability is Key]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [The AI Copy-Paste Problem: Killing Software Lock-in & Why Data Portability Is Crucial]({{< relref "posts/ai-copy-paste-problem/" >}})
 - [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Why I'm Breaking Up with Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 
 ---
 
 More references on the topic:
 
-- Official analysis after October 19-20, 2025 event at AWS: https://aws.amazon.com/message/101925/
+- Official analysis after the October 19-20, 2025 event at AWS: https://aws.amazon.com/message/101925/
 - Original New York Times report (Noam Scheiber, 05/25/2025) — "At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work": https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html 
 - Last Week in AWS (Corey Quinn) — critical analysis of Amazon's response to incident Q: https://www.lastweekinaws.com/blog/amazon-q-now-with-helpful-ai-powered-self-destruct-capabilities/ 
 - Official Amazon response to the Financial Times: "Correcting the Financial Times report about recent Amazon.com service incidents and AI": https://www.aboutamazon.com/news/company-news/amazon-outage-ai-financial-times-correction
 - "...only one of the recent incidents involved AI tools in any way, and in that case the cause was unrelated to AI and instead our systems allowed an engineering team user error to have broader impact than it should have." 
 - Learn more about amyloidosis with a fact sheet with an accessible explanation of AL, ATTR, etc. types from Yale Medicine: https://www.yalemedicine.org/conditions/amyloidosis  
-- Jeyashekar NS, Sadana A, Vo-Dinh T. Protein amyloidosis misfolding: mechanisms, detection, and pathological implications. Methods Mol Biol. 2005;300:417-35. doi: 10.1385/1-59259-858-7:417. PMID: 15657495. 
+- Jeyashekar NS, Sadana A, Vo-Dinh T. Protein amyloidose misfolding: mechanisms, detection, and pathological implications. Methods Mol Biol. 2005;300:417-35. doi: 10.1385/1-59259-858-7:417. PMID: 15657495. 
 - Victor Jimenez-Zepeda, Vera Bril, Emilie Lemieux-Blanchard, Virginie Royal, Arleigh McCurdy, Daniel Schwartz, Margot K. Davis. A Comprehensive Multidisciplinary Diagnostic Algorithm for the Early and Efficient Detection of Amyloidosis. Clinical Lymphoma Myeloma and Leukemia, Volume 23, Issue 3, 2023, Pages 194-202. ISSN 2152-2650. https://doi.org/10.1016/j.clml.2022.12.013.
 - Jiang Y, Huang L, Qiu H, Yang S, Tao J, Chen R and Hao Y (2026) Clinical safety and tolerability of in vivo gene editing drug ART001 for ATTR amyloidosis. Front. Med. 13:1783921. doi: 10.3389/fmed.2026.1783921
