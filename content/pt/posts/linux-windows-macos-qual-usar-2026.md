@@ -72,4 +72,7 @@ Espero que esse texto tenha te ajudado se você está entre essas opções. Busq
 
 ---
 
-Você pode entrar em contato comigo sobre este e outros tópicos preenchendo o formulário abaixo.
+Leia também:
+- [10 anos de MacBook Pro]({{< relref "/posts/10-years-of-macbook-pro" >}})
+- [Oracle Cloud VPS 100% gratuito]({{< relref "/posts/oracle_cloud_vps" >}})
+- [NixOS na VM usando QEMU]({{< relref "/posts/nixos-vm1" >}})
