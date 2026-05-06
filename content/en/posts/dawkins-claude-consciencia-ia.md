@@ -1,6 +1,6 @@
 ---
 date: 2026-05-06T00:26:21.000Z
-draft: true
+draft: false
 title: 'Dawkins, Claude and the Myth of Consciousness in Artificial Intelligence'
 description: >-
   An analysis of the article 'When Dawkins met Claude'. Can language models like

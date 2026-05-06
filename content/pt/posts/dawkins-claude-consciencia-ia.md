@@ -1,6 +1,6 @@
 ---
 date: 2026-05-05T21:26:21-03:00
-draft: true
+draft: false
 title: "Dawkins, Claude e o Mito da Consciência na Inteligência Artificial"
 description: "Uma análise sobre o artigo 'When Dawkins met Claude'. Modelos de linguagem como o Claude podem ser conscientes ou estamos apenas caindo no Teste de Turing?"
 url: ""
