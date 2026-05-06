@@ -999,6 +999,16 @@ a { color: inherit; text-decoration: none; }
 }
 
 /* =========================================================
+   BLOG LIST CTAs
+   ========================================================= */
+.blog-list-ctas {
+  margin-top: var(--space-8);
+  border-top: 1px solid var(--border);
+  padding-top: var(--space-7);
+}
+.blog-list-ctas .bmc-wrap { margin-top: 0; }
+
+/* =========================================================
    SINGLE POST
    ========================================================= */
 .post-wrap {
