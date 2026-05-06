@@ -81,4 +81,4 @@ Read also:
 
 - [10 years using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
 - [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
-- [Using the free tier of Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})

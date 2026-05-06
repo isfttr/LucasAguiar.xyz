@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T22:00:14.733Z",
+  "last_updated": "2026-05-06T01:01:42.211Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -347,7 +347,7 @@
         "articles"
       ],
       "description_en": "",
-      "content_hash_en": "14afb46e4f5a21db4c24a7e536aaa4f0b28a45088bf41d277bd5c2e78a939c4d",
+      "content_hash_en": "cec107eb4d602ae570556afc9d27e30b216b1609d6b8bb75807490526d51b703",
       "backlinks": [
         "newsletter-beehiiv-cloudflare-github",
         "oracle_cloud_vps",
@@ -548,7 +548,7 @@
         "tutorial"
       ],
       "description_en": "",
-      "content_hash_en": "f6003c2b2cd0c0870b13cdfb01a9a6f4765893b65f469dbbc238eae1e436ff71",
+      "content_hash_en": "1c58c1cf082f1970868b8ace3aae0cbfb98d2c600c1fd6a4660421dee597cfd3",
       "backlinks": [
         "newsletter-beehiiv-cloudflare-github",
         "nixos-vm1",
@@ -673,7 +673,7 @@
         "tutorial"
       ],
       "description_en": "",
-      "content_hash_en": "1a3d8d6b3921b0d727067846241aa32a90002f4a5c43b8c0fa96f8ddcb612182",
+      "content_hash_en": "c92b22566bb36f7c9b456d022d4a1f09132e18de1e57c8650d111c1ea0efc83f",
       "backlinks": [
         "oracle_cloud_vps",
         "newsletter-beehiiv-cloudflare-github",
@@ -740,14 +740,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "Honest perspective from someone who used all three systems for years — why I chose macOS, when Linux is truly worth it, and what still bothers me about Windows.",
-      "content_hash_en": "081b9f9b190e6742ee806a2654065f498fbc432380526845e66e3e39037b108a",
+      "description_en": "Honest perspective from someone who used all three systems for years — why I chose macOS, when Linux is really worth it, and what still bothers me about Windows.",
+      "content_hash_en": "f59dab4f5a0c19d24f5522f2b6c688c6dc4ab4a959c465cb7fbefead8e7a0bdd",
       "backlinks": [
         "10-years-of-macbook-pro",
         "introduction",
         "oracle_cloud_vps"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-05-05T22:00:14.732Z"
     }
   }
