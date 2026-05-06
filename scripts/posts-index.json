@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T01:01:42.211Z",
+  "last_updated": "2026-05-06T01:07:51.666Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -741,7 +741,7 @@
         "article"
       ],
       "description_en": "Honest perspective from someone who used all three systems for years — why I chose macOS, when Linux is really worth it, and what still bothers me about Windows.",
-      "content_hash_en": "f59dab4f5a0c19d24f5522f2b6c688c6dc4ab4a959c465cb7fbefead8e7a0bdd",
+      "content_hash_en": "8241e523766205b7813383ddc2528bb6941cbefd8b2ca282b2c4f7134f6b0823",
       "backlinks": [
         "10-years-of-macbook-pro",
         "introduction",
@@ -749,6 +749,31 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-05-05T22:00:14.732Z"
+    },
+    "dawkins-claude-consciencia-ia": {
+      "slug": "dawkins-claude-consciencia-ia",
+      "title_en": "Dawkins, Claude and the Myth of Consciousness in Artificial Intelligence",
+      "title_pt": "Dawkins, Claude e o Mito da Consciência na Inteligência Artificial",
+      "tags": [
+        "inteligencia-artificial",
+        "filosofia",
+        "claude",
+        "richard-dawkins",
+        "teste-de-turing",
+        "teste-da-borboleta"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "An analysis of the article 'When Dawkins met Claude'. Can language models like Claude be conscious, or are we just falling for the Turing Test?",
+      "content_hash_en": "dc20dab71726db2b21ec4ab239bf8950070bbb61519e297f1f7076987bdfdea9",
+      "backlinks": [
+        "anthropic-thinking-process-paper",
+        "vibe-coding-pitfalls",
+        "ia-desenvolvimento-software-complexidade-codigo"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-05-06T01:07:51.665Z"
     }
   }
 }

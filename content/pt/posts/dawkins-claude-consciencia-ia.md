@@ -63,6 +63,13 @@ Isso me lembra um argumento clássico sobre a estética da moralidade: a ideia d
 
 Recentemente, por exemplo, um estudo revelou que [um pequeno peixe-limpador (*Labroides dimidiatus*) possui um nível de consciência de si mesmo](https://www.youtube.com/watch?v=Drbl5udwk9I) (passando no teste do espelho) muito acima do que os cientistas esperavam. Da mesma forma que subestimamos a vida marinha, provavelmente nunca seremos capazes de admitir que certos modelos computacionais (ou animais menos carismáticos) são conscientes simplesmente porque “não parece certo” para o nosso modelo de mundo.
 
+
+Leia também:
+
+- [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
+
 ---
 
 Você pode entrar em contato comigo sobre este e outros tópicos preenchendo o formulário abaixo.

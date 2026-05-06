@@ -66,6 +66,13 @@ This reminds me of a classic argument about the aesthetics of morality: the idea
 
 Recently, for example, a study revealed that [a small cleaner wrasse (*Labroides dimidiatus*) possesses a level of self-awareness](https://www.youtube.com/watch?v=Drbl5udwk9I) (passing the mirror test) much higher than scientists expected. Just as we underestimate marine life, we will probably never be able to admit that certain computational models (or less charismatic animals) are conscious simply because it “doesn’t feel right” for our worldview.
 
+
+Read also:
+
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [From Developers to Scientists: How AI Is Transforming Code Complexity]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
+
 ---
 
 You can contact me about this and other topics by filling out the form below.
