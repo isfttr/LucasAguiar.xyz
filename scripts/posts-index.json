@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T01:07:51.666Z",
+  "last_updated": "2026-05-06T01:12:24.744Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -766,13 +766,13 @@
         "article"
       ],
       "description_en": "An analysis of the article 'When Dawkins met Claude'. Can language models like Claude be conscious, or are we just falling for the Turing Test?",
-      "content_hash_en": "dc20dab71726db2b21ec4ab239bf8950070bbb61519e297f1f7076987bdfdea9",
+      "content_hash_en": "d558d6091b1e2232654b34dc1cc202d607d06c8104a986bd91f7fa332a847cf1",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "vibe-coding-pitfalls",
         "ia-desenvolvimento-software-complexidade-codigo"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-05-06T01:07:51.665Z"
     }
   }
