@@ -96,20 +96,20 @@ async function suggestBacklinks(targetSlug, targetPost, allPosts, retries = 5) {
     .filter((p) => p.slug !== targetSlug)
     .map((p) => ({
       slug: p.slug,
-      title: p.title_en,
+      title: p.title_en || p.title_pt,
       tags: p.tags,
       categories: p.categories,
-      description: p.description_en,
+      description: p.description_en || p.description_pt || '',
     }));
 
   const prompt = `You manage a technical blog. Your task is to find the 3 most thematically related posts for a given post.
 
 TARGET POST:
 slug: ${targetSlug}
-title: ${targetPost.title_en}
+title: ${targetPost.title_en || targetPost.title_pt}
 tags: ${JSON.stringify(targetPost.tags)}
 categories: ${JSON.stringify(targetPost.categories)}
-description: ${targetPost.description_en}
+description: ${targetPost.description_en || targetPost.description_pt || ''}
 
 CANDIDATE POSTS:
 ${JSON.stringify(candidates, null, 2)}
@@ -220,6 +220,55 @@ function scanPosts(index) {
       categories: enParsed.data.categories || [],
       description_en: enParsed.data.description || '',
       content_hash_en: enHash,
+      backlinks,
+      backlink_source: backlinkSource,
+      last_processed: prev.last_processed || null,
+    };
+  }
+
+  // Second pass: detect PT-only posts (no EN equivalent yet)
+  const ptFiles = fs.readdirSync(PT_DIR).filter((f) => f.endsWith('.md') && f !== '_index.md');
+  for (const file of ptFiles) {
+    const slug = file.replace(/\.md$/, '');
+    if (index.posts[slug]) continue; // already handled by EN scan
+
+    const ptPath = path.join(PT_DIR, file);
+    const ptRaw = fs.readFileSync(ptPath, 'utf8');
+    const ptParsed = matter(ptRaw);
+    const ptHash = getHash(ptRaw);
+
+    const prev = index.posts[slug] || {};
+    const hashChanged = prev.content_hash_pt !== ptHash;
+
+    const fmEnd = frontmatterEnd(ptRaw);
+    const body = ptRaw.slice(fmEnd);
+    const fromFile = extractBacklinkSlugs(body);
+
+    let backlinks = prev.backlinks || [];
+    let backlinkSource = prev.backlink_source || 'none';
+
+    if (fromFile.length >= MIN_BACKLINKS) {
+      backlinks = fromFile.slice(0, MIN_BACKLINKS);
+      backlinkSource = 'file';
+    } else if (hashChanged || backlinks.length < MIN_BACKLINKS) {
+      if (prev.backlinks && prev.backlinks.length >= MIN_BACKLINKS && !hashChanged) {
+        backlinks = prev.backlinks;
+        backlinkSource = prev.backlink_source || 'ai';
+      } else {
+        backlinks = fromFile;
+        backlinkSource = 'pending';
+      }
+    }
+
+    index.posts[slug] = {
+      slug,
+      title_en: prev.title_en || ptParsed.data.title || slug,
+      title_pt: ptParsed.data.title || slug,
+      tags: ptParsed.data.tags || [],
+      categories: ptParsed.data.categories || [],
+      description_en: prev.description_en || ptParsed.data.description || '',
+      content_hash_en: null,
+      content_hash_pt: ptHash,
       backlinks,
       backlink_source: backlinkSource,
       last_processed: prev.last_processed || null,
