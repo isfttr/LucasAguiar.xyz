@@ -19,22 +19,34 @@
   <div class="container">
 
     {{/* Toolbar */}}
+    {{ $tags := slice }}
+    {{ range $allPosts }}
+      {{ range .Params.tags }}
+        {{ $tags = $tags | append . }}
+      {{ end }}
+    {{ end }}
     <div class="blog-toolbar">
-      <div class="count">
-        <span class="blog-count">{{ len $allPosts }}</span> essays
-        <strong id="active-tag-label"></strong>
+      <div class="blog-search-row">
+        <div class="count">
+          <span class="blog-count">{{ len $allPosts }}</span> essays
+          <strong id="active-tag-label"></strong>
+        </div>
+        <input
+          id="blog-search"
+          class="blog-search-input"
+          type="search"
+          placeholder="Search posts..."
+          aria-label="Search posts"
+        />
       </div>
-      <div class="blog-tags">
-        <button class="blog-tag-btn active" data-filter="all">all</button>
-        {{ $tags := slice }}
-        {{ range $allPosts }}
-          {{ range .Params.tags }}
-            {{ $tags = $tags | append . }}
+      <div class="blog-filter-row">
+        <button id="blog-tags-toggle" class="blog-tags-toggle" aria-expanded="false">▶ Filter by tag <span class="blog-tags-count">({{ len ($tags | uniq) }} available)</span></button>
+        <div id="blog-tags-panel" class="blog-tags-panel" aria-hidden="true">
+          <button class="blog-tag-btn active" data-filter="all">all</button>
+          {{ range ($tags | uniq) }}
+          <button class="blog-tag-btn" data-filter="{{ . | lower }}">{{ . | lower }}</button>
           {{ end }}
-        {{ end }}
-        {{ range ($tags | uniq) }}
-        <button class="blog-tag-btn" data-filter="{{ . | lower }}">{{ . | lower }}</button>
-        {{ end }}
+        </div>
       </div>
     </div>
 
@@ -42,7 +54,9 @@
     <div class="blog-list">
       {{ range $allPosts }}
       <article class="blog-entry"
-        data-tag="{{ with .Params.tags }}{{ index . 0 | lower }}{{ end }}"
+        data-tags="{{ with .Params.tags }}{{ range . }}{{ . | lower }} {{ end }}{{ end }}"
+        data-title="{{ .Title | lower }}"
+        data-excerpt="{{ .Summary | truncate 160 | plainify | lower }}"
         onclick="window.location='{{ .RelPermalink }}'">
         <div class="blog-entry-date">
           {{ .Date.Format "Jan 02" }}
