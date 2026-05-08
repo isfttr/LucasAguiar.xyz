@@ -1,0 +1,55 @@
+{{ if .IsPage }}
+{{ $img := "" }}
+{{ with .Params.featured_image }}{{ $img = . }}{{ end }}
+{{ if not $img }}{{ with index .Params.images 0 }}{{ $img = . }}{{ end }}{{ end }}
+{{ $imgAbs := "" }}
+{{ with $img }}
+  {{ $imgAbs = cond (strings.HasPrefix . "http") . (printf "%s%s" $.Site.BaseURL (strings.TrimPrefix "/" .)) }}
+{{ end }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": {{ .Title | jsonify }},
+  "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | plainify | truncate 200 | jsonify }}{{ end }},
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "url": "{{ .Permalink }}",
+  {{ with $imgAbs }}"image": "{{ . }}",{{ end }}
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.author | default "Lucas Fernandes Aguiar" }}",
+    "url": "{{ .Site.BaseURL }}",
+    "sameAs": [
+      "https://linkedin.com/in/lucas-fernandes-aguiar",
+      "https://github.com/isfttr"
+    ]
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.author | default "Lucas Fernandes Aguiar" }}",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "inLanguage": "{{ .Site.LanguageCode | default "en-US" }}"
+}
+</script>
+{{ else if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ .Site.Title | jsonify }},
+  "description": {{ .Site.Params.description | jsonify }},
+  "url": "{{ .Site.BaseURL }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.author | default "Lucas Fernandes Aguiar" }}",
+    "url": "{{ .Site.BaseURL }}",
+    "sameAs": [
+      "https://linkedin.com/in/lucas-fernandes-aguiar",
+      "https://github.com/isfttr"
+    ]
+  }
+}
+</script>
+{{ end }}
