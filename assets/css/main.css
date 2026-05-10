@@ -1191,7 +1191,7 @@ a { color: inherit; text-decoration: none; }
 .post-body table {
   width: 100%;
   border-collapse: collapse;
-  font-family: var(--font-sans);
+  font-family: var(--font-serif);
   font-size: 0.875rem;
   line-height: 1.5;
   color: var(--fg);
