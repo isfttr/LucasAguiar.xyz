@@ -98,4 +98,16 @@
   update();
 })();
 </script>
+
+{{/* Wrap tables for wider layout + horizontal scroll */}}
+<script>
+(function () {
+  document.querySelectorAll('.post-body table').forEach(function (t) {
+    var w = document.createElement('div');
+    w.className = 'table-scroll';
+    t.parentNode.insertBefore(w, t);
+    w.appendChild(t);
+  });
+})();
+</script>
 {{ end }}
