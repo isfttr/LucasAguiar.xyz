@@ -68,9 +68,9 @@ Recently, for example, a study revealed that [a small cleaner wrasse (*Labroides
 
 Read also:
 
-- [Inside AI Brains: How Anthropic Deciphered Claude's Thought Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
 - [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [From Developers to Scientists: How AI is Transforming Code Complexity]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
+- [From Developers to Scientists: How AI Is Transforming Code Complexity]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
 
 ---
 

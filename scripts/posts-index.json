@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T01:28:38.505Z",
+  "last_updated": "2026-05-11T00:51:18.450Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -766,7 +766,7 @@
         "article"
       ],
       "description_en": "An analysis of the article 'When Dawkins met Claude'. Can language models like Claude be conscious, or are we just falling for the Turing Test?",
-      "content_hash_en": "a4a1e035f1a80cab5c2090bafd44ec445d49ed729700c52083d0ac9158f7d366",
+      "content_hash_en": "c0dc55f586bc9f21b12cb5dc60847ed9b2bf4a0296ba6b24d531c2b584eb57ee",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "vibe-coding-pitfalls",
@@ -774,6 +774,32 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-05-06T01:07:51.665Z"
+    },
+    "adi-5529-patentes-farmaceuticas": {
+      "slug": "adi-5529-patentes-farmaceuticas",
+      "title_en": "ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil",
+      "title_pt": "ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil",
+      "tags": [
+        "patentes",
+        "STF",
+        "medicamentos",
+        "acesso-a-saude",
+        "propriedade-intelectual",
+        "regulacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Em 2021, o STF derrubou o dispositivo que garantia prazo mínimo de 10 anos de vigência após a concessão de patentes. Entenda o que mudou, quais patentes foram afetadas e o impacto nos preços de medicamentos.",
+      "content_hash_en": null,
+      "content_hash_pt": "e71c128d43a275ef203b9382b6100831ca4a165c8de7ea6deaf18ac31b302b65",
+      "backlinks": [
+        "propostas_pta_patentes_2026",
+        "backlog-inpi-patentes-farmaceuticas",
+        "inpi-automation-roadmap-2025-2029"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-05-11T00:51:18.450Z"
     }
   }
 }
