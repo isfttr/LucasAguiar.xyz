@@ -1,21 +1,21 @@
 ---
-date: 2026-04-28T10:30:00-03:00
+date: 2026-05-10T10:30:00-03:00
 draft: false
 title: "ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil"
 description: "Em 2021, o STF derrubou o dispositivo que garantia prazo mínimo de 10 anos de vigência após a concessão de patentes. Entenda o que mudou, quais patentes foram afetadas e o impacto nos preços de medicamentos."
-featured_image: "insert: STF Supremo Tribunal Federal sede Brasília"
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-adi-5529-2.png
 categories:
   - article
 tags:
   - patentes
   - STF
   - medicamentos
-  - acesso a saude
-  - propriedade intelectual
+  - acesso-a-saude
+  - propriedade-intelectual
   - regulacao
 ---
 
-Em 6 de maio de 2021, o [Supremo Tribunal Federal](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4984195) declarou inconstitucional o parágrafo único do art. 40 da [Lei de Propriedade Industrial (Lei 9.279/1996)](https://www.planalto.gov.br/ccivil_03/leis/l9279.htm). A decisão encerrou um mecanismo que, na prática, estendia automaticamente patentes farmacêuticas muito além dos 20 anos previstos nos acordos internacionais — e abriu caminho para a entrada de genéricos em dezenas de mercados.
+Em 6 de maio de 2021, o [Supremo Tribunal Federal](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4984195) declarou inconstitucional o parágrafo único do art. 40 da [Lei de Propriedade Industrial (Lei 9.279/1996)](https://www.planalto.gov.br/ccivil_03/leis/l9279.htm). A decisão encerrou um mecanismo que, na prática, estendia automaticamente patentes farmacêuticas para além dos 20 anos previstos nos acordos internacionais — e abriu caminho para a entrada de genéricos em dezenas de mercados.
 
 ## O que dizia o dispositivo derrubado
 
@@ -43,31 +43,12 @@ Casos concretos confirmaram a escala do impacto. A **bilastina** (anti-histamín
 
 ## O que ainda está em disputa
 
-A ADI não encerrou o debate. Após a decisão, fabricantes de medicamentos inovadores passaram a ajuizar ações individuais pleiteando **Patent Term Adjustment (PTA)** — um mecanismo de compensação casuística pelo tempo que o INPI levou para examinar cada pedido. A lógica: a ADI teria derrubado apenas a extensão automática e abstrata, não a possibilidade de ajuste individual por mora da administração.
+A ADI não encerrou o debate. Após a decisão, fabricantes de medicamentos inovadores passaram a ajuizar ações individuais pleiteando [Patent Term Adjustment (PTA)]({{< relref "posts/propostas_pta_patente_2026">}}) — um mecanismo de compensação casuística pelo tempo que o INPI levou para examinar cada pedido. A lógica: a ADI teria derrubado apenas a extensão automática e abstrata, não a possibilidade de ajuste individual por mora da administração.
 
 O STJ encerrou essa discussão judicial em dezembro de 2025 no caso da semaglutida (Ozempic), mas o debate migrou para o Congresso, onde o [PL 5.810/2025](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2584295) propõe criar um mecanismo administrativo de PTA no INPI com limite de 5 anos de extensão.
 
-A questão subjacente permanece a mesma que motivou a ADI: enquanto o INPI demorar anos para examinar pedidos farmacêuticos — e o [backlog específico desse setor]({{< rel "posts/backlog-inpi-patentes-farmaceuticas/" >}}) nunca foi atacado com a mesma energia que o geral —, a tensão entre inovação e acesso a medicamentos vai continuar produzindo litígios.
+A questão subjacente permanece a mesma que motivou a ADI: enquanto o INPI demorar anos para examinar pedidos farmacêuticos — e o [backlog específico desse setor]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}}) nunca foi atacado com a mesma energia que o geral —, a tensão entre inovação e acesso a medicamentos vai continuar produzindo litígios.
 
 ---
 
-## 📋 Checklist para revisão (remover antes de publicar)
-
-**Fontes verificadas:**
-- [ ] STF — ADI 5.529: https://portal.stf.jus.br/processos/detalhe.asp?incidente=4984195
-- [ ] ABIFINA — decisão STF: https://abifina.org.br/acontece-na-abifina/stf-decide-pelo-fim-da-prorrogacao-de-patentes/
-- [ ] ABIFINA — patentes farmoquímicas: https://abifina.org.br/outras-noticias/as-patentes-farmoquimicas-e-o-acesso-a-medicamentos-no-brasil/
-- [ ] Panorama Farmacêutico — 62 ações: https://panoramafarmaceutico.com.br/patentes-da-industria-farmaceutica/
-- [ ] Lei 14.195/2021 (Planalto): https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14195.htm
-- [ ] Cadernos de Saúde Pública (Paranhos et al., 2024): https://doi.org/10.1590/0102-311XPT231423
-
-**Links internos incluídos:** 1 → `/posts/backlog-inpi-patentes-farmaceuticas/` (post 1 desta série — ajustar slug se diferente)
-
-**Sugestão de post-ponte:** Publicar após o Post 1 (backlog). Antecede o post sobre PTA.
-
-**SEO:** keyword principal "ADI 5529 patentes farmacêuticas" aparece em: título ✅ | primeiro parágrafo ✅ | subtítulo ✅
-
-**Observações para o autor:**
-- A tabela de impacto econômico pode ser simplificada se o post ficar longo demais
-- O slug `/posts/backlog-inpi-patentes-farmaceuticas/` precisa ser confirmado após publicação do Post 1
-- Atualizar link do PL 5.810/2025 após eventual publicação no Senado
+Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>

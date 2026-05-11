@@ -67,6 +67,7 @@ A resposta que vier do Congresso vai definir as condições de retorno sobre inv
 
 Leia também:
 
+- [ADI 5529: a decisão do STF que encurtou patentes de medicamentos no Brasil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
 - [O Backlog do INPI acabou — mas não para as patentes farmacêuticas]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
 - [Roadmap de Automação do INPI 2025-2029]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 - [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
