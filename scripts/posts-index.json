@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T00:51:18.450Z",
+  "last_updated": "2026-05-12T23:58:05.362Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -203,7 +203,7 @@
         "article"
       ],
       "description_en": "The Backlog Combat Plan reduced the overall stock by 80%, but pharmaceutical orders were left out. Understand what changed with Ordinance 110/2025 and what is still pending.",
-      "content_hash_en": "03418325ecf00b8962b9cd8662b6c40349f5073d20e8c388cbc7982260f67b10",
+      "content_hash_en": "78abfeb9fe841593b0767611ede8fdbbc7bafc216b6e9e5a063ab6568e62774e",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "propostas_pta_patentes_2026",
@@ -373,7 +373,7 @@
         "article"
       ],
       "description_en": "The growing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
-      "content_hash_en": "88cbcbe9da4ad96918283d26666bf00b4dfbc7b75ef08fed1e21a7f4926136ba",
+      "content_hash_en": "fa2fcc552486fe07156822d558c7ac3c31517134babbf208b1a5efb774c2e7f4",
       "backlinks": [
         "ai-copy-paste-problem",
         "experience-with-cursor-and-windsurf",
@@ -451,7 +451,7 @@
         "tutorial"
       ],
       "description_en": "Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.",
-      "content_hash_en": "4ae9f611ae1a7eeecd7d35c656fcadb702953f4e67ee0c734b03fdd9eec1627b",
+      "content_hash_en": "48c4bfb8ae3a4b74ce2831b67661dc677e80b05b88d17f69de133e022caf72d5",
       "backlinks": [
         "oracle_cloud_vps",
         "troubleshooting-proxmox-login-interface",
@@ -575,7 +575,7 @@
         "article"
       ],
       "description_en": "After the STJ denied an extension of time for semaglutide, the discussion about compensation for INPI's delay in pharmaceutical patents moved to the Legislature. What is at stake in Bill No. 5,810/2025.",
-      "content_hash_en": "0ab9ec7143f6fa59b70a81efd307a28503cd040d66d2fce9f9f4d142db6344fd",
+      "content_hash_en": "5fa4d05b69108671559ed4b1638968322e67fae81e45fa36306af62c667d996a",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "inpi-automation-roadmap-2025-2029",
@@ -741,7 +741,7 @@
         "article"
       ],
       "description_en": "Honest perspective from someone who used all three systems for years — why I chose macOS, when Linux is really worth it, and what still bothers me about Windows.",
-      "content_hash_en": "8241e523766205b7813383ddc2528bb6941cbefd8b2ca282b2c4f7134f6b0823",
+      "content_hash_en": "bd7808c241c33f29e3ccde207f9b0b411c82c86153d24944ad7a8a7cb9fbe269",
       "backlinks": [
         "10-years-of-macbook-pro",
         "introduction",
@@ -766,7 +766,7 @@
         "article"
       ],
       "description_en": "An analysis of the article 'When Dawkins met Claude'. Can language models like Claude be conscious, or are we just falling for the Turing Test?",
-      "content_hash_en": "c0dc55f586bc9f21b12cb5dc60847ed9b2bf4a0296ba6b24d531c2b584eb57ee",
+      "content_hash_en": "90f357ae4fa7c4f169405ef3d08ef65b3076032ab0d3ea6092a8899e63afd5eb",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "vibe-coding-pitfalls",
@@ -777,7 +777,7 @@
     },
     "adi-5529-patentes-farmaceuticas": {
       "slug": "adi-5529-patentes-farmaceuticas",
-      "title_en": "ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil",
+      "title_en": "ADI 5.529: the STF's decision that shortened drug patents in Brazil",
       "title_pt": "ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil",
       "tags": [
         "patentes",
@@ -790,15 +790,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "Em 2021, o STF derrubou o dispositivo que garantia prazo mínimo de 10 anos de vigência após a concessão de patentes. Entenda o que mudou, quais patentes foram afetadas e o impacto nos preços de medicamentos.",
-      "content_hash_en": null,
-      "content_hash_pt": "e71c128d43a275ef203b9382b6100831ca4a165c8de7ea6deaf18ac31b302b65",
+      "description_en": "In 2021, the STF (Supreme Federal Court) struck down the provision that guaranteed a minimum 10-year validity period after patent grants. Understand what changed, which patents were affected, and the impact on drug prices.",
+      "content_hash_en": "a4177581fb061fbc970e0d6dabb780994007f6151bb274d1f0db9ef863291b70",
       "backlinks": [
-        "propostas_pta_patentes_2026",
+        "propostas_pta_patente_2026",
         "backlog-inpi-patentes-farmaceuticas",
-        "inpi-automation-roadmap-2025-2029"
+        "propostas_pta_patentes_2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-05-11T00:51:18.450Z"
     }
   }
