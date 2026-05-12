@@ -1,16 +1,13 @@
 ---
 date: 2025-04-11T17:53:35.000Z
 draft: true
-title: >-
-  O Que São Proteínas e Por Que o Sequenciamento de Proteínas por IA é um
-  Divisor de Águas?
-description: >-
-  Aprenda como a inteligência artificial está revolucionando nossa compreensão
+title: "O Que São Proteínas e Por Que o Sequenciamento de Proteínas por IA é um
+  Divisor de Águas?"
+description: "Aprenda como a inteligência artificial está revolucionando nossa compreensão
   das proteínas - os motores da vida - e transformando a medicina, a agricultura
-  e a ciência ambiental ao longo do caminho.
+  e a ciência ambiental ao longo do caminho."
 url: ''
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-ai-protein-sequencing.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-ai-protein-sequencing.png
 categories:
   - article
 tags:

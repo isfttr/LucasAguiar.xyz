@@ -2,12 +2,10 @@
 date: 2026-05-03T17:48:11.000Z
 draft: false
 title: 'Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers'
-description: >-
-  Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub
-  Pages, using Cloudflare Workers and monitoring via PostHog.
+description: "Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub
+  Pages, using Cloudflare Workers and monitoring via PostHog."
 url: ''
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-cloudflare-beehiiv.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-cloudflare-beehiiv.png
 categories:
   - article
   - tutorial

@@ -2,12 +2,10 @@
 date: 2025-03-28T00:51:38.000Z
 draft: false
 title: Roteiro ambicioso de automação do INPI
-description: >-
-  Esta iniciativa visa simplificar o processo de patentes, aprimorar a
-  experiência do usuário e otimizar a eficiência dos examinadores de patentes.
+description: "Esta iniciativa visa simplificar o processo de patentes, aprimorar a
+  experiência do usuário e otimizar a eficiência dos examinadores de patentes."
 url: ''
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-inpi-roadmap.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-inpi-roadmap.png
 categories:
   - article
   - video

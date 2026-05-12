@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 const matter = require('gray-matter');
+const yaml = require('js-yaml');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 const { PostHog } = require('posthog-node');
 
@@ -122,7 +123,13 @@ async function translateFile(sourcePath, targetPath, targetLang) {
   data.translation_source_hash = sourceHash;
 
   // Reconstruct file
-  const newRawContent = matter.stringify(translatedBody, data);
+  const newRawContent = matter.stringify(translatedBody, data, {
+    engines: {
+      yaml: {
+        stringify: (obj) => yaml.dump(obj, { lineWidth: -1 })
+      }
+    }
+  });
   
   // Ensure target directory exists
   const targetDir = path.dirname(targetPath);

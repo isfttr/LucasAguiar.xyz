@@ -1,20 +1,16 @@
 ---
 date: 2025-03-15T03:55:28.000Z
 draft: false
-title: >-
-  O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software & Por Que a
-  Portabilidade de Dados é Fundamental
-description: >-
-  A IA está a mudar o jogo para as empresas de software. O emergente "Problema
-  de Copiar e Colar da IA" sublinha a eficácia decrescente do aprisionamento de
+title: "O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software & Por Que a
+  Portabilidade de Dados é Fundamental"
+description: "A IA está a mudar o jogo para as empresas de software. O emergente 'Problema
+  de Copiar e Colar da IA' sublinha a eficácia decrescente do aprisionamento de
   software. Os utilizadores agora priorizam a portabilidade de dados,
   possibilitada por ferramentas de IA acessíveis, permitindo-lhes moverem-se
   facilmente entre plataformas. Este artigo examina como as empresas podem
-  adaptar-se ao abraçar a interoperabilidade de dados para construir uma
-  lealdade genuína do cliente na era da IA.
+  adaptar-se ao abraçar a interoperabilidade de dados para construir uma lealdade genuína do cliente na era da IA."
 url: ''
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-ai-copy-paste.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-ai-copy-paste.png
 categories:
   - article
 tags:

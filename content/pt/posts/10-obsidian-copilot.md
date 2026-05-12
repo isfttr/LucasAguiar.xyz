@@ -1,10 +1,9 @@
 ---
 date: 2025-02-04T15:00:59.000Z
 draft: false
-title: Obsidian + Copilot
-description: Usando OpenRouter para impulsionar a IA no Obsidian.
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-obsidian-copilot.png
+title: "Obsidian + Copilot"
+description: "Usando OpenRouter para impulsionar a IA no Obsidian."
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-obsidian-copilot.png
 categories:
   - tutorial
 tags:

@@ -2,13 +2,11 @@
 date: 2025-04-11T18:22:12.000Z
 draft: true
 title: 'Compreendendo o Armazenamento de Blob: Azure, AWS S3, e Alternativas'
-description: >-
-  Um guia completo sobre soluções de armazenamento de blob, incluindo Azure Blob
+description: "Um guia completo sobre soluções de armazenamento de blob, incluindo Azure Blob
   Storage e Amazon S3, sua história, casos de uso, custos e alternativas para
-  armazenamento de objetos eficiente baseado em nuvem.
+  armazenamento de objetos eficiente baseado em nuvem."
 url: /understanding-blob-storage/
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-blob-storage.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-blob-storage.png
 categories:
   - article
   - tutorial

@@ -1,16 +1,13 @@
 ---
 date: 2025-04-02T17:30:00.000Z
 draft: false
-title: >-
-  Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento
-  de Claude
-description: >-
-  Uma análise de como pesquisadores estão espreitando a 'mente' de Claude e
+title: "Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento
+  de Claude"
+description: "Uma análise de como pesquisadores estão espreitando a 'mente' de Claude e
   descobrindo paralelos surpreendentes com sistemas biológicos no novo e
-  inovador artigo da Anthropic.
-url: null
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-code-llm-circuit-tracing.png
+  inovador artigo da Anthropic."
+url: ''
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-code-llm-circuit-tracing.png
 categories:
   - article
 tags:

@@ -2,10 +2,9 @@
 date: 2025-03-12T01:32:27.000Z
 draft: false
 title: Como corrigir o bug de Modelos Personalizados Ausentes
-description: null
+description: ''
 url: ''
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-custom-model-fix.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-custom-model-fix.png
 categories:
   - article
 tags:

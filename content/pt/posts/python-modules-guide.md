@@ -2,14 +2,12 @@
 date: 2025-04-11T14:27:27.000Z
 draft: true
 title: 'Módulos Python: Um Guia para Iniciantes para Organizar Seu Código'
-description: >-
-  Aprenda a usar módulos Python de forma eficaz para organizar seu código,
+description: "Aprenda a usar módulos Python de forma eficaz para organizar seu código,
   importar funcionalidades e construir projetos mais fáceis de manter. Este guia
   abrange desde importações básicas até a criação de seus próprios módulos e
-  pacotes.
+  pacotes."
 url: ''
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-python-modules.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-python-modules.png
 categories:
   - tutorial
 tags:
