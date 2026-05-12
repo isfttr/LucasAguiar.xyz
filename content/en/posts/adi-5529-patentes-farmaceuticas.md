@@ -53,9 +53,9 @@ The underlying issue remains the same that motivated the ADI: as long as the INP
 
 Read also:
 
-- [Patent Term Adjustment: Big Pharma Lost in Court, but the Debate Reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [propostas_pta_patente_2026]({{< relref "posts/propostas_pta_patente_2026/" >}})
 - [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [Ambitious INPI automation roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
 
 ---
 
