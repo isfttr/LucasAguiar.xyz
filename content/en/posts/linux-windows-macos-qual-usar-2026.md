@@ -2,13 +2,11 @@
 date: 2026-05-05T00:06:23.000Z
 draft: false
 title: 'Linux, Windows or macOS: Which Operating System to Use in 2026?'
-description: >-
-  Honest perspective from someone who used all three systems for years — why I
+description: "Honest perspective from someone who used all three systems for years — why I
   chose macOS, when Linux is really worth it, and what still bothers me about
-  Windows.
+  Windows."
 url: ''
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-macos-linux-windows-2026.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-macos-linux-windows-2026.png
 categories:
   - article
 tags:

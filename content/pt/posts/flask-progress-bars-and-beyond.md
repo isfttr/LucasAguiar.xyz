@@ -2,12 +2,10 @@
 date: 2025-04-11T14:33:12.000Z
 draft: true
 title: 'Construindo Aplicativos Web Flask Interativos: Barras de Progresso e Além'
-description: >-
-  Um guia prático para implementar barras de progresso, atualizações em tempo
-  real e outras funcionalidades interativas em suas aplicações web Flask.
+description: "Um guia prático para implementar barras de progresso, atualizações em tempo
+  real e outras funcionalidades interativas em suas aplicações web Flask."
 url: ''
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-flask-progress-bars.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-flask-progress-bars.png
 categories:
   - tutorial
 tags:

@@ -1,13 +1,11 @@
 ---
 date: 2026-04-28T13:00:00.000Z
 draft: false
-title: The INPI backlog is over — but not for drug patents
-description: >-
-  The Backlog Combat Plan reduced the overall stock by 80%, but pharmaceutical
+title: "The INPI backlog is over — but not for drug patents"
+description: "The Backlog Combat Plan reduced the overall stock by 80%, but pharmaceutical
   orders were left out. Understand what changed with Ordinance 110/2025 and what
-  is still pending.
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-inpi-backlog-2026.png
+  is still pending."
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-inpi-backlog-2026.png
 categories:
   - article
 tags:

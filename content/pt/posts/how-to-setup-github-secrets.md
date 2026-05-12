@@ -1,16 +1,13 @@
 ---
 date: 2025-04-11T19:48:47.000Z
 draft: true
-title: >-
-  Como Configurar e Usar GitHub Secrets com Contêineres e Aplicações Voltadas
-  para a Internet
-description: >-
-  Aprenda a gerenciar com segurança informações confidenciais em seus projetos
+title: "Como Configurar e Usar GitHub Secrets com Contêineres e Aplicações Voltadas
+  para a Internet"
+description: "Aprenda a gerenciar com segurança informações confidenciais em seus projetos
   GitHub usando Segredos e integrá-los com aplicações conteinerizadas e serviços
-  expostos à internet.
+  expostos à internet."
 url: /github-secrets-containers-guide/
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-github-secrets.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-github-secrets.png
 categories:
   - tutorial
 tags:

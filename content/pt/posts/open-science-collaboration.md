@@ -1,16 +1,13 @@
 ---
 date: 2025-04-11T18:10:30.000Z
 draft: true
-title: >-
-  Como Colaborar Eficazmente em Projetos de Ciência Aberta: Melhores Práticas
-  para Pesquisadores
-description: >-
-  Um guia abrangente para uma colaboração bem-sucedida em iniciativas de ciência
+title: 'Como Colaborar Eficazmente em Projetos de Ciência Aberta: Melhores Práticas
+  para Pesquisadores'
+description: "Um guia abrangente para uma colaboração bem-sucedida em iniciativas de ciência
   aberta, abordando práticas essenciais desde estratégias de comunicação até o
-  gerenciamento de dados e a atribuição de crédito.
+  gerenciamento de dados e a atribuição de crédito."
 url: ''
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-open-science-collaboration.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-open-science-collaboration.png
 categories:
   - article
 tags:

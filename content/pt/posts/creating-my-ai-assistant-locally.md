@@ -2,9 +2,8 @@
 date: 2024-03-16T00:00:00.000Z
 draft: false
 title: Criando meu assistente de IA localmente
-description: >-
-  Pela primeira vez, tentei me desconectar do ChatGPT e do Copilot para ver o
-  que eu conseguiria criar.
+description: "Pela primeira vez, tentei me desconectar do ChatGPT e do Copilot para ver o
+  que eu conseguiria criar."
 url: /creating-local-ai/
 featured_image: /images/ollama-privategpt.png
 tags:

@@ -1,15 +1,12 @@
 ---
 date: 2026-04-29T15:20:00.000Z
 draft: false
-title: >-
-  Patent Term Adjustment: Big Pharma lost in court, but the debate reached
-  Congress
-description: >-
-  After the STJ denied an extension of time for semaglutide, the discussion
+title: "Patent Term Adjustment: Big Pharma lost in court, but the debate reached
+  Congress"
+description: "After the STJ denied an extension of time for semaglutide, the discussion
   about compensation for INPI's delay in pharmaceutical patents moved to the
-  Legislature. What is at stake in Bill No. 5,810/2025.
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-pta-luta-legislativa.png
+  Legislature. What is at stake in Bill No. 5,810/2025."
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-pta-luta-legislativa.png
 categories:
   - article
 tags:

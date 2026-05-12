@@ -2,10 +2,9 @@
 date: 2025-04-10T16:36:59.000Z
 draft: false
 title: 'Duas Semanas com GitButler: Simplificando Meu Fluxo de Trabalho Git'
-description: >-
-  Minha experiência usando o GitButler como um substituto para ferramentas
+description: "Minha experiência usando o GitButler como um substituto para ferramentas
   tradicionais de fluxo de trabalho Git, incluindo o que funciona bem e algumas
-  limitações.
+  limitações."
 url: ''
 featured_image: 'https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-gitbutler.png'
 categories:

@@ -2,12 +2,10 @@
 date: 2026-05-06T00:26:21.000Z
 draft: false
 title: 'Dawkins, Claude and the Myth of Consciousness in Artificial Intelligence'
-description: >-
-  An analysis of the article 'When Dawkins met Claude'. Can language models like
-  Claude be conscious, or are we just falling for the Turing Test?
+description: "An analysis of the article 'When Dawkins met Claude'. Can language models like
+  Claude be conscious, or are we just falling for the Turing Test?"
 url: ''
-featured_image: >-
-  https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-claude-dawkins.png
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-claude-dawkins.png
 categories:
   - article
 tags:

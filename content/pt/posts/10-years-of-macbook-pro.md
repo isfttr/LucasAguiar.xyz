@@ -2,9 +2,8 @@
 date: 2023-11-11T00:00:00.000Z
 draft: false
 title: '10 anos usando o MacBook Pro 9,2'
-description: >-
-  10 anos com um laptop é uma jornada e tanto e inimaginável há 10 anos, e aqui
-  estamos.
+description: "10 anos com um laptop é uma jornada e tanto e inimaginável há 10 anos, e aqui
+  estamos."
 url: /macbook-pro-10years/
 featured_image: /images/macbook-2012.png
 tags:
