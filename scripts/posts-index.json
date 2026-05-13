@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T23:58:05.362Z",
+  "last_updated": "2026-05-13T00:07:53.090Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -791,11 +791,11 @@
         "article"
       ],
       "description_en": "In 2021, the STF (Supreme Federal Court) struck down the provision that guaranteed a minimum 10-year validity period after patent grants. Understand what changed, which patents were affected, and the impact on drug prices.",
-      "content_hash_en": "a4177581fb061fbc970e0d6dabb780994007f6151bb274d1f0db9ef863291b70",
+      "content_hash_en": "d23136afc8469ed6039128fcf30d02f383e9c98c76eccec3c22f4f023c1774ce",
       "backlinks": [
         "propostas_pta_patente_2026",
         "backlog-inpi-patentes-farmaceuticas",
-        "propostas_pta_patentes_2026"
+        "propostas_pta_patente_2026"
       ],
       "backlink_source": "file",
       "last_processed": "2026-05-11T00:51:18.450Z"

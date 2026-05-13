@@ -55,7 +55,7 @@ Read also:
 
 - [propostas_pta_patente_2026]({{< relref "posts/propostas_pta_patente_2026/" >}})
 - [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [propostas_pta_patente_2026]({{< relref "posts/propostas_pta_patente_2026/" >}})
 
 ---
 
