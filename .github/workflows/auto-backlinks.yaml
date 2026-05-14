@@ -49,6 +49,7 @@ jobs:
             echo "No backlink changes to commit."
           else
             git commit -m "chore(seo): auto-update backlinks"
+            git pull --rebase origin master
             git push
             echo "Backlinks committed and pushed successfully!"
           fi
