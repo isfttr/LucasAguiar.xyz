@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T19:53:04.174Z",
+  "last_updated": "2026-05-14T20:27:03.632Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -802,7 +802,7 @@
     },
     "review-esr-6c006-geo-pencil": {
       "slug": "review-esr-6c006-geo-pencil",
-      "title_en": "ESR 6C006 Geo Digital Pencil: Por que ela não desliga sozinha? (Análise e Firmware)",
+      "title_en": "ESR 6C006 Geo Digital Pencil: Why doesn't it turn off automatically? (Analysis and Firmware)",
       "title_pt": "ESR 6C006 Geo Digital Pencil: Por que ela não desliga sozinha? (Análise e Firmware)",
       "tags": [
         "hardware",
@@ -814,15 +814,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "A caneta ESR 6C006 Geo Digital Pencil não possui auto shutoff (sleep mode). Entenda o motivo técnico, a relação com o Apple Find My e se é possível modificar o firmware.",
-      "content_hash_en": null,
-      "content_hash_pt": "440fd69860f86c9275199cf8e41ca7896242cfd2e360d8ce6763be7be2f2e854",
+      "description_en": "The ESR 6C006 Geo Digital Pencil does not have auto shutoff (sleep mode). Understand the technical reason, its relationship with Apple Find My, and if it's possible to modify the firmware.",
+      "content_hash_en": "2f58e4341a51004780e3ba4de12aea58add569d744b7fb5885af84676eaa9bf7",
       "backlinks": [
         "10-years-of-macbook-pro",
         "linux-windows-macos-qual-usar-2026",
         "ai-pin"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-05-14T18:51:24.090Z"
     }
   }
