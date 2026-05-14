@@ -33,6 +33,13 @@ function getHash(content) {
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
+function isSameContent(a, b) {
+  // Normalise whitespace before comparing to avoid false positives from
+  // line-ending differences while still catching untranslated returns.
+  const normalize = (s) => s.trim().replace(/\s+/g, ' ');
+  return normalize(a) === normalize(b);
+}
+
 async function translateContent(text, targetLang, retries = 5) {
   const prompt = `You are an expert technical translator for a Hugo blog.
 Translate the following Markdown content to ${targetLang}.
@@ -51,21 +58,31 @@ ${text}`;
   for (let i = 0; i < retries; i++) {
     try {
       // Add a small delay between all requests to avoid hitting burst limits
-      await sleep(2000); 
+      await sleep(2000);
       const result = await model.generateContent(prompt);
       let output = result.response.text();
       // Remove potential markdown wrappers the model might add
       if (output.startsWith('```markdown')) {
         output = output.replace(/^```markdown\n?/, '').replace(/\n?```$/, '');
       }
+      // Guard against the model returning the original text unchanged, which
+      // would silently write a "translated" file that is still in the source
+      // language and then lock it via translation_source_hash.
+      if (text.length > 50 && isSameContent(output, text)) {
+        console.warn(`Translation returned identical content (attempt ${i + 1}/${retries}), retrying...`);
+        await sleep(5000);
+        continue;
+      }
       return output;
     } catch (e) {
-      if (e.message && e.message.includes('429 Too Many Requests')) {
-        // Extract retry delay from error if present
-        let delayMs = 30000; // default 30s
+      const isRateLimit = e.message && e.message.includes('429 Too Many Requests');
+      let delayMs = Math.min(5000 * (i + 1), 30000); // exponential-ish backoff for generic errors
+
+      if (isRateLimit) {
+        delayMs = 30000;
         const match = e.message.match(/retry in (\d+(\.\d+)?)s/);
         if (match) {
-          delayMs = (parseFloat(match[1]) + 5) * 1000; // add 5s buffer
+          delayMs = (parseFloat(match[1]) + 5) * 1000;
         }
         console.warn(`Rate limit hit (429). Waiting ${delayMs/1000}s before retry ${i + 1}/${retries}...`);
         posthog.capture({
@@ -73,12 +90,10 @@ ${text}`;
           event: 'translation_rate_limit_hit',
           properties: { retry_count: i + 1, wait_ms: delayMs },
         });
-        await sleep(delayMs);
       } else {
-        console.error(`Translation failed: ${e.message}`);
-        posthog.captureException(e, POSTHOG_DISTINCT_ID);
-        return null;
+        console.warn(`Translation error (attempt ${i + 1}/${retries}): ${e.message}. Retrying in ${delayMs/1000}s...`);
       }
+      await sleep(delayMs);
     }
   }
   console.error('Max retries reached for translation.');
