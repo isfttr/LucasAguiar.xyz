@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T20:27:03.632Z",
+  "last_updated": "2026-05-14T23:59:50.074Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -815,7 +815,7 @@
         "article"
       ],
       "description_en": "The ESR 6C006 Geo Digital Pencil does not have auto shutoff (sleep mode). Understand the technical reason, its relationship with Apple Find My, and if it's possible to modify the firmware.",
-      "content_hash_en": "2f58e4341a51004780e3ba4de12aea58add569d744b7fb5885af84676eaa9bf7",
+      "content_hash_en": "a2c9d83a17ba8fed834e43a27f5b0dfe7485fc31cb555c9dfd5067f44f7326e1",
       "backlinks": [
         "10-years-of-macbook-pro",
         "linux-windows-macos-qual-usar-2026",
