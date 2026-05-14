@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T00:07:53.090Z",
+  "last_updated": "2026-05-14T18:51:24.091Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -791,7 +791,7 @@
         "article"
       ],
       "description_en": "In 2021, the STF (Supreme Federal Court) struck down the provision that guaranteed a minimum 10-year validity period after patent grants. Understand what changed, which patents were affected, and the impact on drug prices.",
-      "content_hash_en": "d23136afc8469ed6039128fcf30d02f383e9c98c76eccec3c22f4f023c1774ce",
+      "content_hash_en": "6dff3edee1af3463c8ebaf7b5366d278855a0582ebe8b90830a159277d543994",
       "backlinks": [
         "propostas_pta_patente_2026",
         "backlog-inpi-patentes-farmaceuticas",
@@ -799,6 +799,31 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-05-11T00:51:18.450Z"
+    },
+    "review-esr-6c006-geo-pencil": {
+      "slug": "review-esr-6c006-geo-pencil",
+      "title_en": "ESR 6C006 Geo Digital Pencil: Por que ela não desliga sozinha? (Análise e Firmware)",
+      "title_pt": "ESR 6C006 Geo Digital Pencil: Por que ela não desliga sozinha? (Análise e Firmware)",
+      "tags": [
+        "hardware",
+        "productivity",
+        "ipad",
+        "bluetooth",
+        "review"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "A caneta ESR 6C006 Geo Digital Pencil não possui auto shutoff (sleep mode). Entenda o motivo técnico, a relação com o Apple Find My e se é possível modificar o firmware.",
+      "content_hash_en": null,
+      "content_hash_pt": "440fd69860f86c9275199cf8e41ca7896242cfd2e360d8ce6763be7be2f2e854",
+      "backlinks": [
+        "10-years-of-macbook-pro",
+        "linux-windows-macos-qual-usar-2026",
+        "ai-pin"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-05-14T18:51:24.090Z"
     }
   }
 }
