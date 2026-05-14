@@ -10,6 +10,7 @@ Thumbs.db
 .vscode/
 Blog.code-workspace
 workspace.json
+.claude/worktrees/*
 
 #node
 node_modules/*
