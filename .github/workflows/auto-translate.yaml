@@ -55,6 +55,7 @@ jobs:
             echo "No new translations generated."
           else
             git commit -m "chore(i18n): auto-translate missing content"
+            git pull --rebase origin master
             git push
             echo "Translations committed and pushed successfully!"
           fi
