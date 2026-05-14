@@ -1,6 +1,6 @@
 ---
 date: 2026-05-14T14:43:28-03:00
-draft: true
+draft: false
 title: "ESR 6C006 Geo Digital Pencil: Por que ela não desliga sozinha? (Análise e Firmware)"
 description: "A caneta ESR 6C006 Geo Digital Pencil não possui auto shutoff (sleep mode). Entenda o motivo técnico, a relação com o Apple Find My e se é possível modificar o firmware."
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-esr-pencil-ipad-compressed.png
