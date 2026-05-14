@@ -48,14 +48,6 @@ Here are the main technical roadblocks that make this modification unfeasible:
 *   **Find My Network (FNA) Certification:** Apple's accessory program is rigorous and certifies an exact combination of hardware and firmware. Any unauthorized alteration to the firmware would break the digital signature, preventing the pen from authenticating to the Apple network — which would nullify its main market differentiator.
 *   **Inaccessible hardware:** Even if it were possible to find JTAG or SWD ports on the circuit board, the pen's cylindrical and sealed format makes physical disassembly almost impossible without causing permanent damage to the casing. The manual itself explicitly warns: *"Do not disassemble or modify the product"*.
 
-Read also:
-
-- [10 years using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
-- [Linux, Windows or macOS: Which Operating System to Use in 2026?]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
-- [Thoughts on the hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})
-
----
-
 ## Practical Solutions for Daily Use
 
 If you are in the same situation, dealing with the ESR 6C006 battery draining by itself in its case, the real alternatives focus on habit adaptation:
@@ -68,3 +60,9 @@ If you are in the same situation, dealing with the ESR 6C006 battery draining by
 My plan to have a secondary *stylus* remains valid. Aside from the absence of *sleep mode*, the **ESR 6C006 Geo Digital Pencil** is an excellent tool: it has fast charging, good quality materials, a USB-C port, and for those who are forgetful with physical objects, Find My is unbeatable.
 
 The irony of the situation is that I bought a second pen so I wouldn't have to manage batteries, and now I need to remember to turn off an extra device. As I commented in my article [From Procrastination to Progress](<<{ relref “posts/ai-beats-procrastination/”}>>), the best productivity systems are those that minimize the number of micro-decisions and things we need to remember. A tool that silently dies in your backpack is a friction point worth understanding, even if the only solution for now is a bit more manual discipline.
+
+Read also:
+
+- [10 years using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
+- [Linux, Windows or macOS: Which Operating System to Use in 2026?]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
+- [Thoughts on the hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})
