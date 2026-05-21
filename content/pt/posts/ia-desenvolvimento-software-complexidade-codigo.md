@@ -1,10 +1,10 @@
 ---
-date: 2026-05-01T10:05:07-03:00
-draft: true
+date: 2026-05-21T10:05:07-03:00
+draft: false
 title: "De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código"
 description: "O uso crescente de Inteligência Artificial no desenvolvimento de software está criando sistemas tão complexos que, no futuro, programadores atuarão como cientistas."
 url: ""
-featured_image: 
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-complexidade-ia.png
 categories:
   - article
 tags:
@@ -71,5 +71,3 @@ Mais referências sobre o tema:
 - Jeyashekar NS, Sadana A, Vo-Dinh T. Protein amyloidose misfolding: mechanisms, detection, and pathological implications. Methods Mol Biol. 2005;300:417-35. doi: 10.1385/1-59259-858-7:417. PMID: 15657495. 
 - Victor Jimenez-Zepeda, Vera Bril, Emilie Lemieux-Blanchard, Virginie Royal, Arleigh McCurdy, Daniel Schwartz, Margot K. Davis. A Comprehensive Multidisciplinary Diagnostic Algorithm for the Early and Efficient Detection of Amyloidosis. Clinical Lymphoma Myeloma and Leukemia, Volume 23, Issue 3, 2023, Pages 194-202. ISSN 2152-2650. https://doi.org/10.1016/j.clml.2022.12.013.
 - Jiang Y, Huang L, Qiu H, Yang S, Tao J, Chen R and Hao Y (2026) Clinical safety and tolerability of in vivo gene editing drug ART001 for ATTR amyloidosis. Front. Med. 13:1783921. doi: 10.3389/fmed.2026.1783921
-
-
