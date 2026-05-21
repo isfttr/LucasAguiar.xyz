@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T23:59:50.074Z",
+  "last_updated": "2026-05-21T18:01:24.536Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -373,7 +373,7 @@
         "article"
       ],
       "description_en": "The growing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
-      "content_hash_en": "fa2fcc552486fe07156822d558c7ac3c31517134babbf208b1a5efb774c2e7f4",
+      "content_hash_en": "33c4a9c67915b2b4e726b3f9d9e7ee134a95dc29b868c5930af7d3ec0ebcca1d",
       "backlinks": [
         "ai-copy-paste-problem",
         "experience-with-cursor-and-windsurf",
