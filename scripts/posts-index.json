@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T18:01:24.536Z",
+  "last_updated": "2026-06-20T00:43:13.581Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -358,7 +358,7 @@
     },
     "ia-desenvolvimento-software-complexidade-codigo": {
       "slug": "ia-desenvolvimento-software-complexidade-codigo",
-      "title_en": "From Developers to Scientists: How AI Is Transforming Code Complexity",
+      "title_en": "## From Developers to Scientists: How AI is Transforming Code Complexity",
       "title_pt": "De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código",
       "tags": [
         "inteligência artificial",
@@ -372,8 +372,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "The growing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
-      "content_hash_en": "33c4a9c67915b2b4e726b3f9d9e7ee134a95dc29b868c5930af7d3ec0ebcca1d",
+      "description_en": "The increasing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
+      "content_hash_en": "75f6915354b5816892810892f2382563d153d671cd26de5645f865b477b32b76",
       "backlinks": [
         "ai-copy-paste-problem",
         "experience-with-cursor-and-windsurf",
