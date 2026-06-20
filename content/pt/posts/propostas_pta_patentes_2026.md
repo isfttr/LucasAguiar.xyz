@@ -63,7 +63,7 @@ A questão de fundo é simples de enunciar, mas difícil de resolver: se o INPI 
 
 De quem é o interesse de que o sistema patentário brasileiro, em especial ao setor farmacêutico, continue no estado atual - com filas longas e poucos examinadores?  
 
-A resposta que vier do Congresso vai definir as condições de retorno sobre investimentos em inovação farmacêutica no Brasil por décadas. E vai fazê-lo num contexto em que a [Nova Indústria Brasil]({{< ref "posts/nova-industria-brasil-saude-patentes.md" >}}) aposta R$ 57 bilhões justamente na construção de capacidade inovadora nacional — o que coloca os dois lados do debate no mesmo ecossistema de política pública.
+A resposta que vier do Congresso vai definir as condições de retorno sobre investimentos em inovação farmacêutica no Brasil por décadas. E vai fazê-lo num contexto em que a Nova Indústria Brasil aposta R$ 57 bilhões justamente na construção de capacidade inovadora nacional — o que coloca os dois lados do debate no mesmo ecossistema de política pública.
 
 Leia também:
 

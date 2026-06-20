@@ -45,7 +45,7 @@ Concrete cases confirmed the scale of the impact. **Bilastine** (antihistamine) 
 
 ## What Is Still Under Dispute
 
-The ADI did not end the debate. After the decision, manufacturers of innovative medicines began filing individual lawsuits claiming [Patent Term Adjustment (PTA)]({{< relref "posts/propostas_pta_patente_2026">}}) — a casuistic compensation mechanism for the time the INPI took to examine each application. The logic: the ADI would have only overturned the automatic and abstract extension, not the possibility of individual adjustment due to administrative delay.
+|The ADI did not end the debate. After the decision, manufacturers of innovative medicines began filing individual lawsuits claiming [Patent Term Adjustment (PTA)]({{< relref "posts/propostas_pta_patentes_2026/" >}}) — a casuistic compensation mechanism for the time the INPI took to examine each application. The logic: the ADI would have only overturned the automatic and abstract extension, not the possibility of individual adjustment due to administrative delay.
 
 The STJ ended this judicial discussion in December 2025 in the semaglutide (Ozempic) case, but the debate migrated to Congress, where [Bill 5,810/2025](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2584295) proposes creating an administrative PTA mechanism at the INPI with a 5-year extension limit.
 
@@ -53,9 +53,8 @@ The underlying issue remains the same that motivated the ADI: as long as the INP
 
 Read also:
 
-- [propostas_pta_patente_2026]({{< relref "posts/propostas_pta_patente_2026/" >}})
+- [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
 - [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [propostas_pta_patente_2026]({{< relref "posts/propostas_pta_patente_2026/" >}})
 
 ---
 

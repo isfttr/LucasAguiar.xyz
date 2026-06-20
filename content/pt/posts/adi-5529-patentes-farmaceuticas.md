@@ -43,7 +43,7 @@ Casos concretos confirmaram a escala do impacto. A **bilastina** (anti-histamín
 
 ## O que ainda está em disputa
 
-A ADI não encerrou o debate. Após a decisão, fabricantes de medicamentos inovadores passaram a ajuizar ações individuais pleiteando [Patent Term Adjustment (PTA)]({{< relref "posts/propostas_pta_patente_2026">}}) — um mecanismo de compensação casuística pelo tempo que o INPI levou para examinar cada pedido. A lógica: a ADI teria derrubado apenas a extensão automática e abstrata, não a possibilidade de ajuste individual por mora da administração.
+A ADI não encerrou o debate. Após a decisão, fabricantes de medicamentos inovadores passaram a ajuizar ações individuais pleiteando [Patent Term Adjustment (PTA)]({{< relref "posts/propostas_pta_patentes_2026/" >}}) — um mecanismo de compensação casuística pelo tempo que o INPI levou para examinar cada pedido. A lógica: a ADI teria derrubado apenas a extensão automática e abstrata, não a possibilidade de ajuste individual por mora da administração.
 
 O STJ encerrou essa discussão judicial em dezembro de 2025 no caso da semaglutida (Ozempic), mas o debate migrou para o Congresso, onde o [PL 5.810/2025](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2584295) propõe criar um mecanismo administrativo de PTA no INPI com limite de 5 anos de extensão.
 
@@ -52,9 +52,8 @@ A questão subjacente permanece a mesma que motivou a ADI: enquanto o INPI demor
 
 Leia também:
 
-- [propostas_pta_patente_2026]({{< relref "posts/propostas_pta_patente_2026/" >}})
+- [Patent Term Adjustment: Big Pharma perdeu na justiça, mas o debate chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})
 - [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [propostas_pta_patente_2026]({{< relref "posts/propostas_pta_patente_2026/" >}})
 
 ---
 

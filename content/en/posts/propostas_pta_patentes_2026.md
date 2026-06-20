@@ -66,7 +66,7 @@ The fundamental question is simple to state, but difficult to resolve: if the IN
 
 Whose interest is it that the Brazilian patent system, especially for the pharmaceutical sector, continues in its current state - with long queues and few examiners?
 
-The answer that comes from Congress will define the conditions for return on investments in pharmaceutical innovation in Brazil for decades. And it will do so in a context where [Nova Indústria Brasil]({{< ref "posts/nova-industria-brasil-saude-patentes.md" >}}) is investing R$ 57 billion precisely in building national innovative capacity — which places both sides of the debate in the same public policy ecosystem.
+The answer that comes from Congress will define the conditions for return on investments in pharmaceutical innovation in Brazil for decades. And it will do so in a context where Nova Indústria Brasil is investing R$ 57 billion precisely in building national innovative capacity — which places both sides of the debate in the same public policy ecosystem.
 
 Also read:
 
