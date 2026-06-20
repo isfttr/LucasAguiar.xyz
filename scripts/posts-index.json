@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T00:43:13.581Z",
+  "last_updated": "2026-06-20T00:55:25.452Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -153,7 +153,7 @@
         "article"
       ],
       "description_en": "Learn how artificial intelligence is revolutionizing our understanding of proteins - the workhorses of life - and transforming medicine, agriculture, and environmental science along the way.",
-      "content_hash_en": "bde279d90b493435bc29ef2d3adfe66c49ab039a986f486cad3e6bc5fe2cf5b8",
+      "content_hash_en": "0312d3c7bcd9e639d3bf62efd32a513b21f9fde3ea825e1b5377f9bcf702ad6e",
       "backlinks": [
         "ia-desenvolvimento-software-complexidade-codigo",
         "backlog-inpi-patentes-farmaceuticas",
@@ -373,7 +373,7 @@
         "article"
       ],
       "description_en": "The increasing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
-      "content_hash_en": "75f6915354b5816892810892f2382563d153d671cd26de5645f865b477b32b76",
+      "content_hash_en": "cd85fd5bf09f56631e27efdb73a469f09dbbc14c181b9a773bb48c4d131fae78",
       "backlinks": [
         "ai-copy-paste-problem",
         "experience-with-cursor-and-windsurf",
@@ -766,7 +766,7 @@
         "article"
       ],
       "description_en": "An analysis of the article 'When Dawkins met Claude'. Can language models like Claude be conscious, or are we just falling for the Turing Test?",
-      "content_hash_en": "90f357ae4fa7c4f169405ef3d08ef65b3076032ab0d3ea6092a8899e63afd5eb",
+      "content_hash_en": "f006c4ffff82e3df4f214afed9dae6d6a6dbd440d92b1748476cd7503ab2dab5",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "vibe-coding-pitfalls",
