@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T00:55:25.452Z",
+  "last_updated": "2026-06-20T01:07:39.275Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -575,7 +575,7 @@
         "article"
       ],
       "description_en": "After the STJ denied an extension of time for semaglutide, the discussion about compensation for INPI's delay in pharmaceutical patents moved to the Legislature. What is at stake in Bill No. 5,810/2025.",
-      "content_hash_en": "5fa4d05b69108671559ed4b1638968322e67fae81e45fa36306af62c667d996a",
+      "content_hash_en": "d8cc110ad1e32fc22c23f6c51aab9aadf62bf4ef04b652cedf50d07e79d162ab",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "inpi-automation-roadmap-2025-2029",
@@ -791,11 +791,11 @@
         "article"
       ],
       "description_en": "In 2021, the STF (Supreme Federal Court) struck down the provision that guaranteed a minimum 10-year validity period after patent grants. Understand what changed, which patents were affected, and the impact on drug prices.",
-      "content_hash_en": "6dff3edee1af3463c8ebaf7b5366d278855a0582ebe8b90830a159277d543994",
+      "content_hash_en": "92054beb16b43b140c61ecb6a3567ac170a4be42fdd890d7ba1c7d90a6002fa9",
       "backlinks": [
-        "propostas_pta_patente_2026",
+        "propostas_pta_patentes_2026",
         "backlog-inpi-patentes-farmaceuticas",
-        "propostas_pta_patente_2026"
+        "propostas_pta_patentes_2026"
       ],
       "backlink_source": "file",
       "last_processed": "2026-05-11T00:51:18.450Z"
@@ -823,6 +823,32 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-05-14T18:51:24.090Z"
+    },
+    "nova-industria-brasil-saude-patentes": {
+      "slug": "nova-industria-brasil-saude-patentes",
+      "title_en": "Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica",
+      "title_pt": "Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica",
+      "tags": [
+        "nova-industria-brasil",
+        "saude",
+        "inovacao",
+        "patentes",
+        "bndes",
+        "politica-industrial"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "O maior pacote de política industrial da última década inclui meta de produzir 70% das necessidades do SUS até 2033. Mas o que ele tem a ver com patentes?",
+      "content_hash_en": null,
+      "content_hash_pt": "30f8ae0576afe38b52d5ebdb2b6954cbf9682ca8d02aa8c7445bf7859a30f5f0",
+      "backlinks": [
+        "backlog-inpi-patentes-farmaceuticas",
+        "propostas_pta_patentes_2026",
+        "inpi-automation-roadmap-2025-2029"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }
