@@ -1,7 +1,7 @@
 ---
 date: 2026-05-21T13:05:07.000Z
 draft: false
-title: '## From Developers to Scientists: How AI is Transforming Code Complexity'
+title: 'From Developers to Scientists: How AI is Transforming Code Complexity'
 description: The increasing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-complexidade-ia.png
