@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T01:07:39.275Z",
+  "last_updated": "2026-06-21T02:27:03.944Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -791,7 +791,7 @@
         "article"
       ],
       "description_en": "In 2021, the STF (Supreme Federal Court) struck down the provision that guaranteed a minimum 10-year validity period after patent grants. Understand what changed, which patents were affected, and the impact on drug prices.",
-      "content_hash_en": "92054beb16b43b140c61ecb6a3567ac170a4be42fdd890d7ba1c7d90a6002fa9",
+      "content_hash_en": "11578d65fd3d1ecfc587a094b67b02fd517bce350441ca5a582ce7f570c97400",
       "backlinks": [
         "propostas_pta_patentes_2026",
         "backlog-inpi-patentes-farmaceuticas",
@@ -849,6 +849,30 @@
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "proxmox-mac-mini-2018-t2": {
+      "slug": "proxmox-mac-mini-2018-t2",
+      "title_en": "Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou",
+      "title_pt": "Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou",
+      "tags": [
+        "proxmox",
+        "homelab",
+        "linux",
+        "self-hosting"
+      ],
+      "categories": [
+        "tutorial"
+      ],
+      "description_en": "Transformar um Mac Mini 2018 com chip T2 em um nó Proxmox parece simples, mas o Secure Boot e a tela preta travam quase todo mundo. Veja as configurações exatas que fizeram a instalação dar certo.",
+      "content_hash_en": null,
+      "content_hash_pt": "0e930aefe2a30d6e513da17d58fbd08c81544378df353f32188fa1f9912d8365",
+      "backlinks": [
+        "script-update-open_webui-lxc",
+        "troubleshooting-proxmox-login-interface",
+        "10-years-of-macbook-pro"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-21T02:27:03.944Z"
     }
   }
 }
