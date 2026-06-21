@@ -1,7 +1,7 @@
 ---
 date: 2026-06-20T22:45:00.000Z
 draft: false
-title: '## How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked'
+title: 'How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked'
 description: Transforming a 2018 Mac Mini with a T2 chip into a Proxmox node seems simple, but Secure Boot and the black screen issue stop almost everyone. See the exact settings that made the installation succeed.
 featured_image: ''
 categories:

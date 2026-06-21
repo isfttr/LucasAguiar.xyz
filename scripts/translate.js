@@ -40,6 +40,14 @@ function isSameContent(a, b) {
   return normalize(a) === normalize(b);
 }
 
+// Scalar front matter fields (title, description) are translated with the same
+// body-oriented prompt, whose "preserve heading levels" rule makes the model
+// sometimes treat a short standalone title as a heading and prefix it with
+// "## ". Strip any leading markdown heading marker so it doesn't leak into YAML.
+function stripHeadingPrefix(s) {
+  return typeof s === 'string' ? s.replace(/^\s*#{1,6}\s+/, '').trim() : s;
+}
+
 async function translateContent(text, targetLang, retries = 5) {
   const prompt = `You are an expert technical translator for a Hugo blog.
 Translate the following Markdown content to ${targetLang}.
@@ -118,10 +126,10 @@ async function translateFile(sourcePath, targetPath, targetLang) {
 
   // Translate Front Matter fields
   if (data.title) {
-    data.title = await translateContent(data.title, targetLang);
+    data.title = stripHeadingPrefix(await translateContent(data.title, targetLang));
   }
   if (data.description) {
-    data.description = await translateContent(data.description, targetLang);
+    data.description = stripHeadingPrefix(await translateContent(data.description, targetLang));
   }
   
   // Translate Body

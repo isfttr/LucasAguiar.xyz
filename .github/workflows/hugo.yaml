@@ -13,6 +13,13 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+  # Runs after the auto-translation (last step of the content chain) finishes.
+  # Bot commits made with GITHUB_TOKEN do not trigger the push event above, so
+  # without this the translated/backlinked content is never deployed.
+  workflow_run:
+    workflows: ["Auto Translate Content"]
+    types: [completed]
+
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
@@ -34,6 +41,8 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    # When chained from Auto Translate Content, only build if that run succeeded.
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     env:
       HUGO_VERSION: 0.160.1
     steps:
@@ -47,6 +56,10 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+          # Always build the current tip of master. On workflow_run events the
+          # default checkout SHA is the commit that triggered the translation,
+          # i.e. before the translated file was committed.
+          ref: master
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
@@ -58,7 +71,7 @@ jobs:
       - name: Install Dart Sass
         run: npm install -g sass
       - name: Install Node.js dependencies
-        if: "contains(github.event_name, 'push')"
+        if: ${{ github.event_name == 'push' || github.event_name == 'workflow_run' }}
         run: |
           if [[ -f package-lock.json || -f npm-shrinkwrap.json ]]; then
             npm ci
