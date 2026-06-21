@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T02:57:19.536Z",
+  "last_updated": "2026-06-21T03:02:35.455Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -373,7 +373,7 @@
         "article"
       ],
       "description_en": "The increasing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
-      "content_hash_en": "cd85fd5bf09f56631e27efdb73a469f09dbbc14c181b9a773bb48c4d131fae78",
+      "content_hash_en": "4d404f8958c111b0c6df6fcbcf1245f9b6033bc5ccc9e5efec0082250f45f03f",
       "backlinks": [
         "ai-copy-paste-problem",
         "experience-with-cursor-and-windsurf",
@@ -864,7 +864,7 @@
         "tutorial"
       ],
       "description_en": "Transforming a 2018 Mac Mini with a T2 chip into a Proxmox node seems simple, but Secure Boot and the black screen issue stop almost everyone. See the exact settings that made the installation succeed.",
-      "content_hash_en": "eff5acb4f6ecd86559266428564dad8894a08ec7d47a981856b0b34f4c28866f",
+      "content_hash_en": "a4926d0af6b1aa3ecd6b2a10b72cab07e13837172549b192bbe2464b67afe59b",
       "backlinks": [
         "script-update-open_webui-lxc",
         "troubleshooting-proxmox-login-interface",
