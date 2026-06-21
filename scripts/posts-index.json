@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T02:27:03.944Z",
+  "last_updated": "2026-06-21T02:57:19.536Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -852,7 +852,7 @@
     },
     "proxmox-mac-mini-2018-t2": {
       "slug": "proxmox-mac-mini-2018-t2",
-      "title_en": "Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou",
+      "title_en": "How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked",
       "title_pt": "Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou",
       "tags": [
         "proxmox",
@@ -863,15 +863,14 @@
       "categories": [
         "tutorial"
       ],
-      "description_en": "Transformar um Mac Mini 2018 com chip T2 em um nó Proxmox parece simples, mas o Secure Boot e a tela preta travam quase todo mundo. Veja as configurações exatas que fizeram a instalação dar certo.",
-      "content_hash_en": null,
-      "content_hash_pt": "0e930aefe2a30d6e513da17d58fbd08c81544378df353f32188fa1f9912d8365",
+      "description_en": "Transforming a 2018 Mac Mini with a T2 chip into a Proxmox node seems simple, but Secure Boot and the black screen issue stop almost everyone. See the exact settings that made the installation succeed.",
+      "content_hash_en": "eff5acb4f6ecd86559266428564dad8894a08ec7d47a981856b0b34f4c28866f",
       "backlinks": [
         "script-update-open_webui-lxc",
         "troubleshooting-proxmox-login-interface",
         "10-years-of-macbook-pro"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-21T02:27:03.944Z"
     }
   }
