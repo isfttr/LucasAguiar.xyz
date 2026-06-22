@@ -1,7 +1,7 @@
 ---
 date: 2026-06-22T13:00:00.000Z
 draft: true
-title: TRF2 confirms ruling that paves the way for INPI's restructuring
+title: TRF-2 confirms ruling that paves the way for INPI's restructuring
 description: Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.
 featured_image: ''
 categories:
@@ -15,9 +15,9 @@ tags:
   - jurisdicao
 translation_source_hash: 7a2d49c5c903bba6dadbfb1de77ca6aca5386f84947dd0f293709fe9af8c593c
 ---
-On June 22, 2026, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region (TRF2) unanimously confirmed the judgment rendered in Public Civil Action No. 5095710-55.2021.4.02.5101/RJ, filed by the Brazilian Intellectual Property Association (ABPI) against the INPI and the Union. The decision represents a milestone in the structuring of the agency and reverberates throughout the entire Brazilian industrial property system.
+On June 22, 2026, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region (TRF-2) unanimously confirmed the judgment rendered in Public Civil Action No. 5095710-55.2021.4.02.5101/RJ, filed by the Brazilian Intellectual Property Association (ABPI) against the INPI and the Union. The decision represents a milestone in the structuring of the agency and reverberates throughout the entire Brazilian industrial property system.
 
-## What the TRF2 decided
+## What the TRF-2 decided
 
 The collegiate body, composed of Federal Judges Simone Schreiber (Rapporteur), Cláudia Franco Corrêa, and Júlio de Castilhos, fully upheld the original judgment. The ruling recognizes the need for the INPI's restructuring and determines a prospective path for the diagnosis and improvement of the agency, seeking to ensure **material and financial conditions** for this purpose.
 
@@ -31,7 +31,7 @@ The oral arguments in the trial were led by Gabriel Leonardos, former president 
 
 ## What it means in practice
 
-The TRF2's decision is not limited to the specific case. It establishes a **judicial precedent** that recognizes the Brazilian State's obligation to provide the INPI with the necessary means to perform its functions. This includes:
+The TRF-2's decision is not limited to the specific case. It establishes a **judicial precedent** that recognizes the Brazilian State's obligation to provide the INPI with the necessary means to perform its functions. This includes:
 
 | Dimension | Impact |
 |----------|---------|
@@ -50,7 +50,7 @@ This decision comes at a time when the INPI had already been accumulating instit
 - The **public consultation on patents for new uses in chemistry** (2025-2026)
 - The **2025–2029 automation roadmap**, which promises to digitally transform patent examination
 
-However, the TRF2's decision attacks the root of the problem: there is no point in modernizing processes if the agency lacks the budget and personnel to execute them. The judicial recognition of this reality is an important step, but implementation will depend on the political will of the Executive and Legislative branches.
+However, the TRF-2's decision attacks the root of the problem: there is no point in modernizing processes if the agency lacks the budget and personnel to execute them. The judicial recognition of this reality is an important step, but implementation will depend on the political will of the Executive and Legislative branches.
 
 ## Lessons for the innovation ecosystem
 
