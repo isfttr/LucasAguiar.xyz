@@ -109,13 +109,13 @@ equivocadas, aplicando-se de forma especial ao casos de pedidos divididos.
 Para startups e deep techs que navegam no sistema brasileiro de PI, o relatório
 sinaliza duas tendências importantes:
 
-1. **A previsibilidade está chegando.** O movimento do INPI por diretrizes de exame
+1. **Maior previsibilidade.** O movimento do INPI por diretrizes de exame
    mais claras — combinado com o [roadmap de automação
    2025–2029](https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/inpi-divulga-seu-plano-de-acao-2025)
    — sugere que os prazos e critérios de exame se tornarão mais padronizados. Isso
    impacta diretamente análises de FTO e cronogramas de prosecution.
 
-2. **O engajamento é possível.** O relatório foi construído a partir de
+2. **Maior engajamento por parte do INPI.** O relatório foi construído a partir de
    contribuições internas, mas a próxima fase — consulta pública e debate
    legislativo — será o momento para os stakeholders participarem. Empresas que
    monitoram esses developments ganham vantagens estratégicas na definição das
