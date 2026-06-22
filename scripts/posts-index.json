@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T03:02:35.455Z",
+  "last_updated": "2026-06-22T17:18:11.811Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -153,7 +153,7 @@
         "article"
       ],
       "description_en": "Learn how artificial intelligence is revolutionizing our understanding of proteins - the workhorses of life - and transforming medicine, agriculture, and environmental science along the way.",
-      "content_hash_en": "0312d3c7bcd9e639d3bf62efd32a513b21f9fde3ea825e1b5377f9bcf702ad6e",
+      "content_hash_en": "3beda2464550b42a6acd0dba3bea35a465c6f5b2aff7e7054d70803fafda6e88",
       "backlinks": [
         "ia-desenvolvimento-software-complexidade-codigo",
         "backlog-inpi-patentes-farmaceuticas",
@@ -766,7 +766,7 @@
         "article"
       ],
       "description_en": "An analysis of the article 'When Dawkins met Claude'. Can language models like Claude be conscious, or are we just falling for the Turing Test?",
-      "content_hash_en": "f006c4ffff82e3df4f214afed9dae6d6a6dbd440d92b1748476cd7503ab2dab5",
+      "content_hash_en": "17804997ecaa6d87e1b7311e3e37cb7bfd564ae04fc06e6722cd6f44dc1f1eef",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "vibe-coding-pitfalls",
@@ -872,6 +872,29 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-06-21T02:27:03.944Z"
+    },
+    "lpi-30-anos-propostas-aperfeicoamento-inpi": {
+      "slug": "lpi-30-anos-propostas-aperfeicoamento-inpi",
+      "title_en": "LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial",
+      "title_pt": "LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial",
+      "tags": [
+        "INPI",
+        "LPI",
+        "propriedade-intelectual",
+        "patentes",
+        "legislação"
+      ],
+      "categories": [],
+      "description_en": "O INPI divulgou relatório consolidando propostas internas de revisão da Lei 9.279/1996 — a LPI que rege patentes, marcas e desenhos industriais no Brasil há 30 anos.",
+      "content_hash_en": null,
+      "content_hash_pt": "c15558c87dd33a909ad8ca1097ac1232a99b62119643d7052ebc7ecaaea058d0",
+      "backlinks": [
+        "propostas_pta_patentes_2026",
+        "adi-5529-patentes-farmaceuticas",
+        "inpi-automation-roadmap-2025-2029"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-22T17:18:11.810Z"
     }
   }
 }
