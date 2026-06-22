@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T17:32:11.346Z",
+  "last_updated": "2026-06-22T20:14:17.637Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -875,7 +875,7 @@
     },
     "lpi-30-anos-propostas-aperfeicoamento-inpi": {
       "slug": "lpi-30-anos-propostas-aperfeicoamento-inpi",
-      "title_en": "IPL at 30: INPI releases report with proposals for improving the Industrial Property Law",
+      "title_en": "LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law",
       "title_pt": "LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial",
       "tags": [
         "INPI",
@@ -885,15 +885,41 @@
         "legislação"
       ],
       "categories": [],
-      "description_en": "INPI released a report consolidating internal proposals for revision of Law 9.279/1996 — the IP Law that has governed patents, trademarks, and industrial designs in Brazil for 30 years.",
-      "content_hash_en": "aad1fac8bd66739afb7e4759451dffb81dadc8a3ab4fdc6eab5b001fad1e77e5",
+      "description_en": "INPI released a report consolidating internal proposals for the revision of Law 9,279/1996 — the IP Law that has governed patents, trademarks, and industrial designs in Brazil for 30 years.",
+      "content_hash_en": "7aef874176a79ba8261d11a01e9194c8e0d80b7079d624104aa5c1914f83cb98",
       "backlinks": [
-        "propostas_pta_patentes_2026",
-        "adi-5529-patentes-farmaceuticas",
+        "trf2-decisao-abpi-fortalecimento-inpi",
+        "inpi-automation-roadmap-2025-2029",
         "backlog-inpi-patentes-farmaceuticas"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-06-22T17:32:11.345Z"
+      "last_processed": "2026-06-22T20:14:17.636Z"
+    },
+    "trf2-decisao-abpi-fortalecimento-inpi": {
+      "slug": "trf2-decisao-abpi-fortalecimento-inpi",
+      "title_en": "TRF2 confirma sentença que abre caminho para a reestruturação do INPI",
+      "title_pt": "TRF2 confirma sentença que abre caminho para a reestruturação do INPI",
+      "tags": [
+        "inpi",
+        "trf2",
+        "abpi",
+        "propriedade-intelectual",
+        "patentes",
+        "jurisdicao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Por unanimidade, a 1ª Turma Especializada do Tribunal Regional Federal da 2ª Região manteve decisão que obriga a União a garantir condições materiais e financeiras para o aprimoramento do INPI. Entenda o impacto da Ação Civil Pública movida pela ABPI.",
+      "content_hash_en": null,
+      "content_hash_pt": "6f8c93cecf938aef93cbaeb55906978e7585fbb76092d06aaf0be007c2aa0fc7",
+      "backlinks": [
+        "backlog-inpi-patentes-farmaceuticas",
+        "propostas_pta_patentes_2026",
+        "inpi-automation-roadmap-2025-2029"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }
