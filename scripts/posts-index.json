@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T20:23:00.650Z",
+  "last_updated": "2026-06-22T20:36:40.046Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -911,7 +911,7 @@
         "article"
       ],
       "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
-      "content_hash_en": "1ecb78591dc0dcb71ea2cfa96915035aa7e3d762f9afde70d3c5132f6feee48c",
+      "content_hash_en": "01ec8d4a061a192ff00de590df7d5bffc52700a7a7037cab067ecf2498713ad2",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "propostas_pta_patentes_2026",
@@ -937,7 +937,7 @@
         "article"
       ],
       "description_en": "The Danish Novo Nordisk requests the annulment of the registration of EMS's Ozivy brand, alleging confusion with Ozempic and Wegovy. Understand the arguments from each side and what is at stake for the GLP-1 market in Brazil.",
-      "content_hash_en": "defd871bf0326b13361a7cf7f35f5ef49a54c1ed8f7dc98b1db6823928ad14da",
+      "content_hash_en": "2133df3341438ba3a44acf3daa97c7432fad603ba61d0b5e60d367cd97163323",
       "backlinks": [
         "propostas_pta_patentes_2026",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -948,7 +948,7 @@
     },
     "brasil-tratado-budapeste-patentes-biotecnologia": {
       "slug": "brasil-tratado-budapeste-patentes-biotecnologia",
-      "title_en": "Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas",
+      "title_en": "Brazil joins the Budapest Treaty: what changes for biotechnological patents",
       "title_pt": "Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas",
       "tags": [
         "patentes",
@@ -961,16 +961,39 @@
       "categories": [
         "article"
       ],
-      "description_en": "O Decreto 13.011/2026 promulga a adesão do Brasil ao Tratado de Budapeste para depósito internacional de microrganismos. Entenda como isso reduz custos, simplifica o patentemaneto biotecnológico e abre caminho para que Embrapa e Fiocruz se tornem Autoridades Depositárias Internacionais.",
-      "content_hash_en": null,
-      "content_hash_pt": "d29de3b2a399c47028b7df0409d1e7f22ab80d2cc282d6ca2a3fa4b12277f6dc",
+      "description_en": "Decree 13.011/2026 promulgates Brazil's accession to the Budapest Treaty for the international deposit of microorganisms. Understand how this reduces costs, simplifies biotechnological patenting, and paves the way for Embrapa and Fiocruz to become International Depositary Authorities.",
+      "content_hash_en": "ec4e39056a342f3fbdb0faf9d8211e32fce0981cf7f1b3dfa88c57a84fca0f0a",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "adi-5529-patentes-farmaceuticas",
         "lpi-30-anos-propostas-aperfeicoamento-inpi"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-22T20:23:00.650Z"
+    },
+    "inpi-diretrizes-segundo-uso-medico-patentes-quimica": {
+      "slug": "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
+      "title_en": "Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame",
+      "title_pt": "Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame",
+      "tags": [
+        "INPI",
+        "patentes",
+        "química",
+        "segundo-uso-médico",
+        "diretrizes-de-exame",
+        "consulta-pública"
+      ],
+      "categories": [],
+      "description_en": "O INPI publicou o resultado final da Consulta Pública nº 02/2025, atualizando o Capítulo 9 das Diretrizes de Exame na Área de Química para harmonizar a análise de patentes de segundo uso médico no Brasil.",
+      "content_hash_en": null,
+      "content_hash_pt": "f5d61eacb5a547077c36f7eebb8dd21bf54da86dc261b00641544c748e284ff2",
+      "backlinks": [
+        "backlog-inpi-patentes-farmaceuticas",
+        "propostas_pta_patentes_2026",
+        "adi-5529-patentes-farmaceuticas"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-22T20:36:40.046Z"
     }
   }
 }
