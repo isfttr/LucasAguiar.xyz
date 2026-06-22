@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T20:18:03.298Z",
+  "last_updated": "2026-06-22T20:23:00.650Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -911,7 +911,7 @@
         "article"
       ],
       "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
-      "content_hash_en": "8347f2f050e67588410953ff1565474124724771274c62aa41faa39c23a1dd6e",
+      "content_hash_en": "1ecb78591dc0dcb71ea2cfa96915035aa7e3d762f9afde70d3c5132f6feee48c",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "propostas_pta_patentes_2026",
@@ -922,7 +922,7 @@
     },
     "novo-nordisk-ozivy-anulacao-marca-semaglutida": {
       "slug": "novo-nordisk-ozivy-anulacao-marca-semaglutida",
-      "title_en": "Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico",
+      "title_en": "Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding",
       "title_pt": "Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico",
       "tags": [
         "marcas",
@@ -936,16 +936,41 @@
       "categories": [
         "article"
       ],
-      "description_en": "A dinamarquesa Novo Nordisk pede a anulação do registro da marca Ozivy, da EMS, alegando confusão com Ozempic e Wegovy. Entenda os argumentos de cada lado e o que está em jogo para o mercado de GLP-1 no Brasil.",
-      "content_hash_en": null,
-      "content_hash_pt": "a8692aa0c6300be8af7eeab7ea1580a892c6b52e4120614a33b14fba00d93883",
+      "description_en": "The Danish Novo Nordisk requests the annulment of the registration of EMS's Ozivy brand, alleging confusion with Ozempic and Wegovy. Understand the arguments from each side and what is at stake for the GLP-1 market in Brazil.",
+      "content_hash_en": "defd871bf0326b13361a7cf7f35f5ef49a54c1ed8f7dc98b1db6823928ad14da",
       "backlinks": [
         "propostas_pta_patentes_2026",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "adi-5529-patentes-farmaceuticas"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-22T20:18:03.297Z"
+    },
+    "brasil-tratado-budapeste-patentes-biotecnologia": {
+      "slug": "brasil-tratado-budapeste-patentes-biotecnologia",
+      "title_en": "Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas",
+      "title_pt": "Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas",
+      "tags": [
+        "patentes",
+        "biotecnologia",
+        "tratado-de-budapeste",
+        "inpi",
+        "inovacao",
+        "propriedade-intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "O Decreto 13.011/2026 promulga a adesão do Brasil ao Tratado de Budapeste para depósito internacional de microrganismos. Entenda como isso reduz custos, simplifica o patentemaneto biotecnológico e abre caminho para que Embrapa e Fiocruz se tornem Autoridades Depositárias Internacionais.",
+      "content_hash_en": null,
+      "content_hash_pt": "d29de3b2a399c47028b7df0409d1e7f22ab80d2cc282d6ca2a3fa4b12277f6dc",
+      "backlinks": [
+        "backlog-inpi-patentes-farmaceuticas",
+        "adi-5529-patentes-farmaceuticas",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-22T20:23:00.650Z"
     }
   }
 }

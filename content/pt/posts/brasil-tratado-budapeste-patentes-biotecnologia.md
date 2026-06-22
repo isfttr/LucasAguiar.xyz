@@ -104,7 +104,8 @@ Para empresas que atuam em biotecnologia, a mensagem é clara:
 Leia também:
 
 - [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [TRF2 confirma sentença que abre caminho para a reestruturação do INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
+- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---
 
