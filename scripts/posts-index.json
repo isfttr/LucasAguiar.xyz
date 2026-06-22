@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T17:18:11.811Z",
+  "last_updated": "2026-06-22T17:32:11.346Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -875,7 +875,7 @@
     },
     "lpi-30-anos-propostas-aperfeicoamento-inpi": {
       "slug": "lpi-30-anos-propostas-aperfeicoamento-inpi",
-      "title_en": "LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial",
+      "title_en": "IPL at 30: INPI releases report with proposals for improving the Industrial Property Law",
       "title_pt": "LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial",
       "tags": [
         "INPI",
@@ -885,16 +885,15 @@
         "legislação"
       ],
       "categories": [],
-      "description_en": "O INPI divulgou relatório consolidando propostas internas de revisão da Lei 9.279/1996 — a LPI que rege patentes, marcas e desenhos industriais no Brasil há 30 anos.",
-      "content_hash_en": null,
-      "content_hash_pt": "c15558c87dd33a909ad8ca1097ac1232a99b62119643d7052ebc7ecaaea058d0",
+      "description_en": "INPI released a report consolidating internal proposals for revision of Law 9.279/1996 — the IP Law that has governed patents, trademarks, and industrial designs in Brazil for 30 years.",
+      "content_hash_en": "aad1fac8bd66739afb7e4759451dffb81dadc8a3ab4fdc6eab5b001fad1e77e5",
       "backlinks": [
         "propostas_pta_patentes_2026",
         "adi-5529-patentes-farmaceuticas",
-        "inpi-automation-roadmap-2025-2029"
+        "backlog-inpi-patentes-farmaceuticas"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-06-22T17:18:11.810Z"
+      "last_processed": "2026-06-22T17:32:11.345Z"
     }
   }
 }
