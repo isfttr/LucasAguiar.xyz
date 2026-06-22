@@ -62,9 +62,9 @@ For startups, deep techs, and investors navigating the Brazilian IP system, the 
 
 Read also:
 
-- [The INPI backlog is over — but not for pharmaceutical patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
 - [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
-- [Ambitious INPI automation roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 
 ---
 

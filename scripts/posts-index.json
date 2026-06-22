@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T20:14:17.637Z",
+  "last_updated": "2026-06-22T20:18:03.298Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -897,7 +897,7 @@
     },
     "trf2-decisao-abpi-fortalecimento-inpi": {
       "slug": "trf2-decisao-abpi-fortalecimento-inpi",
-      "title_en": "TRF2 confirma sentença que abre caminho para a reestruturação do INPI",
+      "title_en": "TRF2 confirms ruling that paves the way for INPI's restructuring",
       "title_pt": "TRF2 confirma sentença que abre caminho para a reestruturação do INPI",
       "tags": [
         "inpi",
@@ -910,9 +910,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Por unanimidade, a 1ª Turma Especializada do Tribunal Regional Federal da 2ª Região manteve decisão que obriga a União a garantir condições materiais e financeiras para o aprimoramento do INPI. Entenda o impacto da Ação Civil Pública movida pela ABPI.",
-      "content_hash_en": null,
-      "content_hash_pt": "6f8c93cecf938aef93cbaeb55906978e7585fbb76092d06aaf0be007c2aa0fc7",
+      "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
+      "content_hash_en": "8347f2f050e67588410953ff1565474124724771274c62aa41faa39c23a1dd6e",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "propostas_pta_patentes_2026",
@@ -920,6 +919,33 @@
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "novo-nordisk-ozivy-anulacao-marca-semaglutida": {
+      "slug": "novo-nordisk-ozivy-anulacao-marca-semaglutida",
+      "title_en": "Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico",
+      "title_pt": "Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico",
+      "tags": [
+        "marcas",
+        "inpi",
+        "farmaceuticos",
+        "semaglutida",
+        "propriedade-intelectual",
+        "concorrencia",
+        "direito-marcario"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "A dinamarquesa Novo Nordisk pede a anulação do registro da marca Ozivy, da EMS, alegando confusão com Ozempic e Wegovy. Entenda os argumentos de cada lado e o que está em jogo para o mercado de GLP-1 no Brasil.",
+      "content_hash_en": null,
+      "content_hash_pt": "a8692aa0c6300be8af7eeab7ea1580a892c6b52e4120614a33b14fba00d93883",
+      "backlinks": [
+        "propostas_pta_patentes_2026",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi",
+        "adi-5529-patentes-farmaceuticas"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-22T20:18:03.297Z"
     }
   }
 }

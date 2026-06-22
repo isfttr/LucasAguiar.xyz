@@ -88,8 +88,9 @@ Para escritórios de PI e departamentos jurídicos, o caso reforça a importânc
 
 Leia também:
 
-- [TRF2 confirma sentença que abre caminho para a reestruturação do INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
 - [Patent Term Adjustment: Big Pharma perdeu na Justiça, mas o debate chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
 
 ---
 
