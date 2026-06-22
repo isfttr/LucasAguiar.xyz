@@ -534,6 +534,12 @@ a { color: inherit; text-decoration: none; }
   gap: var(--space-8);
   align-items: center;
 }
+.ed-featured-grid--no-img {
+  grid-template-columns: 1fr;
+  text-align: center;
+}
+.ed-featured-grid--no-img > div { max-width: 720px; margin-inline: auto; }
+.ed-featured-grid--no-img .ed-byline { justify-content: center; }
 .ed-featured-img {
   aspect-ratio: 16/9;
   background: var(--bg-sunken);

@@ -67,15 +67,12 @@
             <hr />
             <span class="mono-label">№ 001</span>
         </div>
-        <div class="ed-featured-grid">
+        <div class="ed-featured-grid{{ if not .Params.featured_image }} ed-featured-grid--no-img{{ end }}">
+            {{ if .Params.featured_image }}
             <a href="{{ .RelPermalink }}" class="ed-featured-img">
-                {{ with .Params.featured_image }}
-                <img src="{{ . }}" alt="{{ $.Title }}" />
-                {{ else }}
-                <div class="img-placeholder">{{ if eq $.Site.Language.Lang "pt" }}Ilustração principal{{ else }}Featured
-                    illustration{{ end }}</div>
-                {{ end }}
+                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" />
             </a>
+            {{ end }}
             <div>
                 {{ with .Params.categories }}
                 <div class="ed-featured-cat">{{ index . 0 }}</div>
