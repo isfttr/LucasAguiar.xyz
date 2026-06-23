@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T14:04:59.967Z",
+  "last_updated": "2026-06-23T17:54:31.440Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -911,7 +911,7 @@
         "article"
       ],
       "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
-      "content_hash_en": "9309126e930388d4786bb1a39a24c0fa8a2619bdbc80432ac8289cc6d2c0c137",
+      "content_hash_en": "27f0175b2f98ed1c59c9b2e04e61bfeeea5b77f8d7c0ab57e27dbc52a2fdf5d0",
       "backlinks": [
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
@@ -997,7 +997,7 @@
     },
     "pi-em-questao-direito-autoral-inteligencia-artificial-inpi": {
       "slug": "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
-      "title_en": "Direito autoral na era da IA: INPI reúne especialistas internacionais para debater os desafios da inteligência artificial",
+      "title_en": "Copyright in the AI era: INPI gathers international specialists to debate the challenges of artificial intelligence",
       "title_pt": "Direito autoral na era da IA: INPI reúne especialistas internacionais para debater os desafios da inteligência artificial",
       "tags": [
         "direito-autoral",
@@ -1010,15 +1010,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "O INPI promove no dia 2 de julho de 2026 o seminário PI em Questão sobre direito autoral e inteligência artificial. Autoria de obras geradas por IA, uso de conteúdo protegido para treinamento de modelos e regulação estão na pauta do evento que reúne especialistas brasileiros e americanos.",
-      "content_hash_en": null,
-      "content_hash_pt": "7098e6f739fda11b29b7d9279f8ea982ea197c087ed43a58e79143181dfd0551",
+      "description_en": "INPI will hold the PI in Question seminar on copyright and artificial intelligence on July 2, 2026. Authorship of AI-generated works, use of protected content for model training, and regulation are on the agenda for the event, which brings together Brazilian and American specialists.",
+      "content_hash_en": "95d6bb1395497cd60de78a507fb974c660a307b6b8d3ce3f4aa1eab65d67f9d9",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "propostas_pta_patentes_2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-23T14:04:59.966Z"
     }
   }
