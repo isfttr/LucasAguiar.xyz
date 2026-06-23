@@ -72,7 +72,7 @@ de Combate ao Backlog, a publicação de diretrizes de exame e o roadmap de auto
 Esta decisão chega em um momento em que o INPI já vinha acumulando conquistas
 institucionais:
 
-- O **[relatório de propostas de aperfeiçoamento da LPI]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi" >}})** (junho/2026), que
+- O **[relatório de propostas de aperfeiçoamento da LPI]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})** (junho/2026), que
   consolida sugestões internas para modernizar a Lei 9.279/1996
 - A **[consulta pública de patentes sobre novos usos na área de química]({{< relref
   "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})**
@@ -102,8 +102,8 @@ vantagem estratégica.
 Leia também:
 
 - [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
-- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
-- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [Consulta pública de patentes sobre novos usos na área de química]({{< relref
+  "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
 
 ---
 
