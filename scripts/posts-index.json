@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T20:36:40.046Z",
+  "last_updated": "2026-06-23T00:26:40.052Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -910,12 +910,12 @@
       "categories": [
         "article"
       ],
-      "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
-      "content_hash_en": "01ec8d4a061a192ff00de590df7d5bffc52700a7a7037cab067ecf2498713ad2",
+      "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision obliging the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
+      "content_hash_en": "c44e51797d7477a2707785d91da9670ed45fb3292cc64bcca1303c917363b25a",
       "backlinks": [
+        "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "backlog-inpi-patentes-farmaceuticas",
-        "propostas_pta_patentes_2026",
-        "inpi-automation-roadmap-2025-2029"
+        "propostas_pta_patentes_2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -962,7 +962,7 @@
         "article"
       ],
       "description_en": "Decree 13.011/2026 promulgates Brazil's accession to the Budapest Treaty for the international deposit of microorganisms. Understand how this reduces costs, simplifies biotechnological patenting, and paves the way for Embrapa and Fiocruz to become International Depositary Authorities.",
-      "content_hash_en": "ec4e39056a342f3fbdb0faf9d8211e32fce0981cf7f1b3dfa88c57a84fca0f0a",
+      "content_hash_en": "9c185bd7d9b73620403a235da686cb9e976ee37e7835ba13fe48649efb9dc552",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "adi-5529-patentes-farmaceuticas",
