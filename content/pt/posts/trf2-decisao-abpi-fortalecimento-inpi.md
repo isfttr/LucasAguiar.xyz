@@ -101,8 +101,8 @@ vantagem estratégica.
 Leia também:
 
 - [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 - [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [Patent Term Adjustment: Big Pharma perdeu na Justiça, mas o debate chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})
 
 ---
 
