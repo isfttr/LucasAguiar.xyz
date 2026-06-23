@@ -74,7 +74,8 @@ institucionais:
 
 - O **[relatório de propostas de aperfeiçoamento da LPI]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi" >}})** (junho/2026), que
   consolida sugestões internas para modernizar a Lei 9.279/1996
-- A **[consulta pública de patentes sobre novos usos na área de química]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/>}})**
+- A **[consulta pública de patentes sobre novos usos na área de química]({{< relref
+  "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})**
   (2025-2026)
 - O **roadmap de automação 2025–2029**, que promete transformar digitalmente o
   exame de patentes
