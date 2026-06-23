@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T00:42:08.168Z",
+  "last_updated": "2026-06-23T00:46:00.557Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -897,7 +897,7 @@
     },
     "trf2-decisao-abpi-fortalecimento-inpi": {
       "slug": "trf2-decisao-abpi-fortalecimento-inpi",
-      "title_en": "TRF-2 confirms judgment that paves the way for INPI's restructuring",
+      "title_en": "TRF-2 confirms ruling that paves the way for INPI's restructuring",
       "title_pt": "TRF-2 confirma sentença que abre caminho para a reestruturação do INPI",
       "tags": [
         "inpi",
@@ -911,10 +911,10 @@
         "article"
       ],
       "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
-      "content_hash_en": "174e14a456eac356986d530c017f0bde8bc20ce5ba67f8887fd400de919e3c37",
+      "content_hash_en": "be0f88838301e59f348eb017968d1b4649e8e0858ed7d82042baed8a4218c1f2",
       "backlinks": [
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
-        "lpi-30-anos-propostas-aperfeicoamento-inpi",
+        "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
         "lpi-30-anos-propostas-aperfeicoamento-inpi"
       ],
       "backlink_source": "file",
@@ -962,7 +962,7 @@
         "article"
       ],
       "description_en": "Decree 13.011/2026 promulgates Brazil's accession to the Budapest Treaty for the international deposit of microorganisms. Understand how this reduces costs, simplifies biotechnological patenting, and paves the way for Embrapa and Fiocruz to become International Depositary Authorities.",
-      "content_hash_en": "bc2b41c22a66bbb75b65b6892069b78db80826f94e3b68e2cd02d6bd663b2967",
+      "content_hash_en": "2f6449e1d7c80d033812abcb9ca3d3a300bc9c9ac48450eea9b190fad965ba06",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "adi-5529-patentes-farmaceuticas",
