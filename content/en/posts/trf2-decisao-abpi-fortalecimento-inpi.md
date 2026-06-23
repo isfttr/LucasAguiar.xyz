@@ -99,9 +99,9 @@ changes. Companies that monitor these developments gain a strategic advantage.
 
 Read also:
 
-- [LPI at 30 years: INPI publishes report with proposals for improving the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
-- [Second medical use patents in Brazil: INPI publishes final result of new examination guidelines]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
-- [LPI at 30 years: INPI publishes report with proposals for improving the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
+- [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---
 

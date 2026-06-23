@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T00:46:00.557Z",
+  "last_updated": "2026-06-23T14:04:59.967Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -897,7 +897,7 @@
     },
     "trf2-decisao-abpi-fortalecimento-inpi": {
       "slug": "trf2-decisao-abpi-fortalecimento-inpi",
-      "title_en": "TRF-2 confirms ruling that paves the way for INPI's restructuring",
+      "title_en": "TRF-2 confirms ruling that paves the way for the restructuring of INPI",
       "title_pt": "TRF-2 confirma sentença que abre caminho para a reestruturação do INPI",
       "tags": [
         "inpi",
@@ -911,7 +911,7 @@
         "article"
       ],
       "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
-      "content_hash_en": "be0f88838301e59f348eb017968d1b4649e8e0858ed7d82042baed8a4218c1f2",
+      "content_hash_en": "9309126e930388d4786bb1a39a24c0fa8a2619bdbc80432ac8289cc6d2c0c137",
       "backlinks": [
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
@@ -994,6 +994,32 @@
       ],
       "backlink_source": "ai",
       "last_processed": "2026-06-22T20:36:40.046Z"
+    },
+    "pi-em-questao-direito-autoral-inteligencia-artificial-inpi": {
+      "slug": "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
+      "title_en": "Direito autoral na era da IA: INPI reúne especialistas internacionais para debater os desafios da inteligência artificial",
+      "title_pt": "Direito autoral na era da IA: INPI reúne especialistas internacionais para debater os desafios da inteligência artificial",
+      "tags": [
+        "direito-autoral",
+        "inteligencia-artificial",
+        "inpi",
+        "propriedade-intelectual",
+        "inovacao",
+        "regulacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "O INPI promove no dia 2 de julho de 2026 o seminário PI em Questão sobre direito autoral e inteligência artificial. Autoria de obras geradas por IA, uso de conteúdo protegido para treinamento de modelos e regulação estão na pauta do evento que reúne especialistas brasileiros e americanos.",
+      "content_hash_en": null,
+      "content_hash_pt": "7098e6f739fda11b29b7d9279f8ea982ea197c087ed43a58e79143181dfd0551",
+      "backlinks": [
+        "inpi-automation-roadmap-2025-2029",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi",
+        "propostas_pta_patentes_2026"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-23T14:04:59.966Z"
     }
   }
 }
