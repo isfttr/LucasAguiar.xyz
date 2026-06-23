@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T00:35:45.285Z",
+  "last_updated": "2026-06-23T00:39:07.131Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -897,7 +897,7 @@
     },
     "trf2-decisao-abpi-fortalecimento-inpi": {
       "slug": "trf2-decisao-abpi-fortalecimento-inpi",
-      "title_en": "TRF-2 confirms ruling that paves the way for the restructuring of INPI",
+      "title_en": "TRF-2 confirms judgment that paves the way for INPI's restructuring",
       "title_pt": "TRF-2 confirma sentença que abre caminho para a reestruturação do INPI",
       "tags": [
         "inpi",
@@ -910,12 +910,12 @@
       "categories": [
         "article"
       ],
-      "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to ensure material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
-      "content_hash_en": "a0ea6521898a54ee1a3aaf33a87ea04e4cd37455ad91ddc7c8c6b056703401b5",
+      "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
+      "content_hash_en": "6c2485df2bb111d447832d6a8ff28b0755ed2ff3fb8f59563bc9fdb019038555",
       "backlinks": [
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
-        "backlog-inpi-patentes-farmaceuticas"
+        "lpi-30-anos-propostas-aperfeicoamento-inpi"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -948,7 +948,7 @@
     },
     "brasil-tratado-budapeste-patentes-biotecnologia": {
       "slug": "brasil-tratado-budapeste-patentes-biotecnologia",
-      "title_en": "Brazil adheres to the Budapest Treaty: what changes for biotechnological patents",
+      "title_en": "Brazil joins the Budapest Treaty: what changes for biotechnological patents",
       "title_pt": "Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas",
       "tags": [
         "patentes",
@@ -962,7 +962,7 @@
         "article"
       ],
       "description_en": "Decree 13.011/2026 promulgates Brazil's accession to the Budapest Treaty for the international deposit of microorganisms. Understand how this reduces costs, simplifies biotechnological patenting, and paves the way for Embrapa and Fiocruz to become International Depositary Authorities.",
-      "content_hash_en": "1007a9d5fa0ed625c430f0601ced5dcb63d8676d9ab78720ee5ae151946cfec7",
+      "content_hash_en": "8a5ae8a3f6b0dd71424e0d621dc66b982edf556bec6d884abfefde2ae4afc988",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "adi-5529-patentes-farmaceuticas",
