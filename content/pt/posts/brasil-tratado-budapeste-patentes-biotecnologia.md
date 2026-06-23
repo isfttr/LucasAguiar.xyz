@@ -1,5 +1,5 @@
 ---
-date: 2026-06-22T12:00:00-03:00
+date: 2026-06-22T00:00:00-03:00
 draft: false
 title: "Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas"
 description: "O Decreto 13.011/2026 promulga a adesão do Brasil ao Tratado de Budapeste para depósito internacional de microrganismos. Entenda como isso reduz custos, simplifica o patentemaneto biotecnológico e abre caminho para que Embrapa e Fiocruz se tornem Autoridades Depositárias Internacionais."
