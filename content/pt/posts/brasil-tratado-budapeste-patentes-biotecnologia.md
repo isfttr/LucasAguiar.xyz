@@ -149,6 +149,9 @@ Para empresas que atuam em biotecnologia, a mensagem é clara:
    centros de pesquisa estaduais — também podem pleitear o status. Cada nova IDA é
    uma alternativa de depósito para o depositante nacional.
 
+Abaixo, aula da minha orientadora, Profa. Dra. Tatiana Duque Martins, sobre
+o [Tratado de Budapeste e a importância para biotecnologia brasileira](https://www.youtube.com/watch?v=0u73Lvehkjs&t=29s).
+
 Leia também:
 
 - [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
