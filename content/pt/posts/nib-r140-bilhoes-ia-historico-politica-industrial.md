@@ -109,6 +109,8 @@ O BNDES estima que o multiplicador dos financiamentos da NIB esteja entre 2x e 3
 Leia também:
 
 - [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
+- [Direito autoral na era da IA: INPI reúne especialistas internacionais para debater os desafios da inteligência artificial]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
+- [Roteiro ambicioso de automação do INPI]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 
 ---
 
