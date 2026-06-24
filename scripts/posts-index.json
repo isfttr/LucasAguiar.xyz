@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T11:57:46.984Z",
+  "last_updated": "2026-06-24T12:04:02.335Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1048,7 +1048,7 @@
     },
     "configuracao-whatsapp-hermes": {
       "slug": "configuracao-whatsapp-hermes",
-      "title_en": "Habilitando o WhatsApp no Hermes Agent self-hosted: três armadilhas (e como passei por elas)",
+      "title_en": "Enabling WhatsApp on Hermes Agent self-hosted: three pitfalls (and how I overcame them)",
       "title_pt": "Habilitando o WhatsApp no Hermes Agent self-hosted: três armadilhas (e como passei por elas)",
       "tags": [
         "homelab",
@@ -1061,15 +1061,14 @@
       "categories": [
         "tutorial"
       ],
-      "description_en": "A saga de plugar o WhatsApp num Hermes Agent rodando em Docker dentro de um LXC no Proxmox: do EACCES no npm ao 'disconnected' fantasma e ao nono dígito brasileiro.",
-      "content_hash_en": null,
-      "content_hash_pt": "60a0daa9542382660f140915633c19cb9ba7acb9e4823a672054585189015cac",
+      "description_en": "The saga of plugging WhatsApp into a Hermes Agent running in Docker inside an LXC on Proxmox: from EACCES in npm to the ghostly 'disconnected' and the Brazilian ninth digit.",
+      "content_hash_en": "1f6632e7a0fe23a94af72ae9622dba8fa8ee77b437bd2b1aa09ef76bee13e8cb",
       "backlinks": [
         "script-update-open_webui-lxc",
         "proxmox-mac-mini-2018-t2",
         "creating-my-ai-assistant-locally"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-24T11:57:46.983Z"
     }
   }

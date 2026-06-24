@@ -212,6 +212,6 @@ working](https://www.lucasaguiar.xyz/posts/troubleshooting-proxmox-login-interfa
 
 Read also:
 
-- [Script to Update Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
-- [Creating my local AI assistant]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Script for Updating Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
