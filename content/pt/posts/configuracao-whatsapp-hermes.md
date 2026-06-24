@@ -212,3 +212,8 @@ relato de quando o [login do Proxmox parou de
 funcionar](https://www.lucasaguiar.xyz/posts/troubleshooting-proxmox-login-interface/)
 — outra caçada a uma causa raiz nada óbvia.
 
+Leia também:
+
+- [Script para Atualizar Open WebUI em um LXC Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})

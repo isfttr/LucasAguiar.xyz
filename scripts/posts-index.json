@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T11:40:41.436Z",
+  "last_updated": "2026-06-24T11:57:46.984Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1012,7 +1012,7 @@
         "article"
       ],
       "description_en": "The INPI will hold the \"PI em Questão\" seminar on copyright and artificial intelligence on July 2, 2026. Authorship of AI-generated works, use of protected content for model training, and regulation are on the agenda of the event, which brings together Brazilian and American specialists.",
-      "content_hash_en": "10fd773f934abcb3753311bbe4f50ae89d9466e8fe844997a409f1abdb4d508c",
+      "content_hash_en": "1427cfd3777d10e150f9ed48e2f7d6dfe8f95517ebfaccd02ef79edb2c503853",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1023,7 +1023,7 @@
     },
     "inpi-manual-marcas-alto-renome-protocolo-madri": {
       "slug": "inpi-manual-marcas-alto-renome-protocolo-madri",
-      "title_en": "INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri",
+      "title_en": "INPI updates Trademark Manual: new rules for High Reputation and adherence to the Madrid Protocol",
       "title_pt": "INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri",
       "tags": [
         "marcas",
@@ -1036,16 +1036,41 @@
       "categories": [
         "article"
       ],
-      "description_en": "O INPI publicou em 23/06/2026 a atualização do Manual de Marcas, com mudanças significativas no reconhecimento de marcas de alto renome e novas orientações para o registro internacional via Protocolo de Madri pelo sistema Madrid e-Filing.",
-      "content_hash_en": null,
-      "content_hash_pt": "32d1ad8af21f0d47ae21cbc1aba54cce8b6ba09f2c4e1824013f15cafe2053d6",
+      "description_en": "INPI published on 06/23/2026 the update to the Trademark Manual, with significant changes in the recognition of well-known trademarks and new guidelines for international registration via the Madrid Protocol through the Madrid e-Filing system.",
+      "content_hash_en": "ce0765fa255a9ce86a0b0d01af03de86230f832870f7f8abbf4e40bcf6dc9d5b",
       "backlinks": [
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "trf2-decisao-abpi-fortalecimento-inpi"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-24T11:40:41.436Z"
+    },
+    "configuracao-whatsapp-hermes": {
+      "slug": "configuracao-whatsapp-hermes",
+      "title_en": "Habilitando o WhatsApp no Hermes Agent self-hosted: três armadilhas (e como passei por elas)",
+      "title_pt": "Habilitando o WhatsApp no Hermes Agent self-hosted: três armadilhas (e como passei por elas)",
+      "tags": [
+        "homelab",
+        "self-hosting",
+        "docker",
+        "proxmox",
+        "whatsapp",
+        "ai"
+      ],
+      "categories": [
+        "tutorial"
+      ],
+      "description_en": "A saga de plugar o WhatsApp num Hermes Agent rodando em Docker dentro de um LXC no Proxmox: do EACCES no npm ao 'disconnected' fantasma e ao nono dígito brasileiro.",
+      "content_hash_en": null,
+      "content_hash_pt": "60a0daa9542382660f140915633c19cb9ba7acb9e4823a672054585189015cac",
+      "backlinks": [
+        "script-update-open_webui-lxc",
+        "proxmox-mac-mini-2018-t2",
+        "creating-my-ai-assistant-locally"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-24T11:57:46.983Z"
     }
   }
 }
