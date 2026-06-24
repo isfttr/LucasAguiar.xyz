@@ -74,8 +74,8 @@ Acompanharemos de perto os próximos passos — precificação, incorporação e
 Leia também:
 
 - [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [Patentes de segundo uso médico no Brasil: novas diretrizes do INPI]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
-- [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
+- [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
 
 ---
 

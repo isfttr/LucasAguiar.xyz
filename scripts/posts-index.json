@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T12:04:02.335Z",
+  "last_updated": "2026-06-24T14:06:34.379Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1023,7 +1023,7 @@
     },
     "inpi-manual-marcas-alto-renome-protocolo-madri": {
       "slug": "inpi-manual-marcas-alto-renome-protocolo-madri",
-      "title_en": "INPI updates Trademark Manual: new rules for High Reputation and adherence to the Madrid Protocol",
+      "title_en": "INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol",
       "title_pt": "INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri",
       "tags": [
         "marcas",
@@ -1036,8 +1036,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "INPI published on 06/23/2026 the update to the Trademark Manual, with significant changes in the recognition of well-known trademarks and new guidelines for international registration via the Madrid Protocol through the Madrid e-Filing system.",
-      "content_hash_en": "ce0765fa255a9ce86a0b0d01af03de86230f832870f7f8abbf4e40bcf6dc9d5b",
+      "description_en": "INPI published on June 23, 2026, the update to the Trademark Manual, with significant changes in the recognition of well-known trademarks and new guidelines for international registration via the Madrid Protocol through the Madrid e-Filing system.",
+      "content_hash_en": "558400f9221f9c22a61cce2864de9b34616d6718817131806dd8903468000bf5",
       "backlinks": [
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1062,7 +1062,7 @@
         "tutorial"
       ],
       "description_en": "The saga of plugging WhatsApp into a Hermes Agent running in Docker inside an LXC on Proxmox: from EACCES in npm to the ghostly 'disconnected' and the Brazilian ninth digit.",
-      "content_hash_en": "1f6632e7a0fe23a94af72ae9622dba8fa8ee77b437bd2b1aa09ef76bee13e8cb",
+      "content_hash_en": "f673cd484971d6daf3a86155f2874ab4dafeea1cf248a445ae2e3938269d4f52",
       "backlinks": [
         "script-update-open_webui-lxc",
         "proxmox-mac-mini-2018-t2",
@@ -1070,6 +1070,33 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-06-24T11:57:46.983Z"
+    },
+    "anvisa-veoza-fezolinetanto-menopausa-novo-medicamento": {
+      "slug": "anvisa-veoza-fezolinetanto-menopausa-novo-medicamento",
+      "title_en": "ANVISA aprova Veoza (fezolinetanto): o primeiro tratamento não-hormonal para fogachos da menopausa chega ao Brasil",
+      "title_pt": "ANVISA aprova Veoza (fezolinetanto): o primeiro tratamento não-hormonal para fogachos da menopausa chega ao Brasil",
+      "tags": [
+        "anvisa",
+        "medicamentos",
+        "regulacao",
+        "farmaceuticos",
+        "saude-da-mulher",
+        "inovacao",
+        "propriedade-intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "A ANVISA aprovou o registro do Veoza (fezolinetanto), primeiro medicamento não-hormonal para sintomas vasomotores da menopausa. Entenda o mecanismo, o histórico de aprovação global e as implicações regulatórias para o mercado farmacêutico brasileiro.",
+      "content_hash_en": null,
+      "content_hash_pt": "9cfaf6881a6900878ceebca648549f60073c66ed8a2b043651cf7af9664049d4",
+      "backlinks": [
+        "backlog-inpi-patentes-farmaceuticas",
+        "backlog-inpi-patentes-farmaceuticas",
+        "inpi-diretrizes-segundo-uso-medico-patentes-quimica"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }

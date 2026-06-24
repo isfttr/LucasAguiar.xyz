@@ -69,9 +69,9 @@ For companies building strong brands in Brazil, now is the time for strategic re
 
 Read also:
 
-- [Novo Nordisk versus EMS in Court: the dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
-- [LPI at 30 years: INPI releases report with proposals for improving the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
-- [TRF-2 confirms ruling that paves the way for INPI's restructuring]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [TRF-2 confirms ruling that paves the way for the restructuring of INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
 
 ---
 
