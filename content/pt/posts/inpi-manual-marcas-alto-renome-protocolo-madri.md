@@ -71,7 +71,8 @@ Para empresas que constroem marcas fortes no Brasil, o momento é de revisão es
 
 Leia também:
 
-- [Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
+- [Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 - [TRF-2 confirma sentença que abre caminho para a reestruturação do INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
 
 ---

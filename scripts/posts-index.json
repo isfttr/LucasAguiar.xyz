@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T17:54:31.440Z",
+  "last_updated": "2026-06-24T11:40:41.436Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -997,7 +997,7 @@
     },
     "pi-em-questao-direito-autoral-inteligencia-artificial-inpi": {
       "slug": "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
-      "title_en": "Copyright in the AI era: INPI gathers international specialists to debate the challenges of artificial intelligence",
+      "title_en": "Copyright in the AI era: INPI brings together international experts to debate the challenges of artificial intelligence",
       "title_pt": "Direito autoral na era da IA: INPI reúne especialistas internacionais para debater os desafios da inteligência artificial",
       "tags": [
         "direito-autoral",
@@ -1005,13 +1005,14 @@
         "inpi",
         "propriedade-intelectual",
         "inovacao",
-        "regulacao"
+        "regulacao",
+        "evento"
       ],
       "categories": [
         "article"
       ],
-      "description_en": "INPI will hold the PI in Question seminar on copyright and artificial intelligence on July 2, 2026. Authorship of AI-generated works, use of protected content for model training, and regulation are on the agenda for the event, which brings together Brazilian and American specialists.",
-      "content_hash_en": "95d6bb1395497cd60de78a507fb974c660a307b6b8d3ce3f4aa1eab65d67f9d9",
+      "description_en": "The INPI will hold the \"PI em Questão\" seminar on copyright and artificial intelligence on July 2, 2026. Authorship of AI-generated works, use of protected content for model training, and regulation are on the agenda of the event, which brings together Brazilian and American specialists.",
+      "content_hash_en": "10fd773f934abcb3753311bbe4f50ae89d9466e8fe844997a409f1abdb4d508c",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1019,6 +1020,32 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-06-23T14:04:59.966Z"
+    },
+    "inpi-manual-marcas-alto-renome-protocolo-madri": {
+      "slug": "inpi-manual-marcas-alto-renome-protocolo-madri",
+      "title_en": "INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri",
+      "title_pt": "INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri",
+      "tags": [
+        "marcas",
+        "inpi",
+        "protocolo-de-madri",
+        "propriedade-intelectual",
+        "regulacao",
+        "marcas-de-alto-renome"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "O INPI publicou em 23/06/2026 a atualização do Manual de Marcas, com mudanças significativas no reconhecimento de marcas de alto renome e novas orientações para o registro internacional via Protocolo de Madri pelo sistema Madrid e-Filing.",
+      "content_hash_en": null,
+      "content_hash_pt": "32d1ad8af21f0d47ae21cbc1aba54cce8b6ba09f2c4e1824013f15cafe2053d6",
+      "backlinks": [
+        "novo-nordisk-ozivy-anulacao-marca-semaglutida",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi",
+        "trf2-decisao-abpi-fortalecimento-inpi"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-24T11:40:41.436Z"
     }
   }
 }
