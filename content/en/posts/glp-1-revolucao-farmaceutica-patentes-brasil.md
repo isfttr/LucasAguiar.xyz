@@ -14,29 +14,29 @@ tags:
   - inovacao
   - acesso-a-saude
   - regulacao
-translation_source_hash: acd4b21cc45274c49967ba3cb6b041abd58fa02a0451076dbcd4aded0c0a0140
+translation_source_hash: 0cafe0ad06c214d6689a5eb810f5b29f8a025d921f244a0f04b8881fa68d13cf
 ---
-The Brazilian market for GLP-1 based medications is experiencing a rare moment in pharmaceutical history: while demand is exploding — the category grew by **97.6% in the last 12 months**, reaching R$ 12.7 billion —, the patent cycle is beginning to make way for biosimilars and national generics, creating a simultaneous movement of expansion and democratization of access.
+The Brazilian GLP-1-based drug market is experiencing a rare moment in pharmaceutical history: at the same time as demand explodes — the category grew by **97.6% in the last 12 months**, reaching R$ 12.7 billion — the patent cycle is starting to give way to national biosimilars and similar drugs, creating a simultaneous movement of expansion and democratization of access.
 
-Itaú BBA data projects that the global GLP-1 market will jump from US$ 1.8 billion to **US$ 9 billion by 2030**, with an annual growth of approximately 40%. In Brazil, the phenomenon is already palpable: 76% of the population is aware of weight loss medications, compared to 70% in 2025, according to Worldpanel by Numerator. However, actual consumption is still low — only 2.4% of Brazilian households have at least one user.
+Itaú BBA data projects that the global GLP-1 market will jump from US$ 1.8 billion to **US$ 9 billion by 2030**, with annual growth of approximately 40%. In Brazil, the phenomenon is already palpable: 76% of the population knows about weight-loss medications, compared to 70% in 2025, according to Worldpanel by Numerator. But actual consumption is still low — only 2.4% of Brazilian households have at least one user.
 
-The bottleneck? Price. And that's where intellectual property comes in as a central force in this story.
+The bottleneck? The price. And that's where intellectual property enters as a central force in this story.
 
 ## The role of patents in the access equation
 
-A national survey conducted by Febrafar in partnership with Instituto IFEPEC, with 1,067 doctors from all over Brazil, reveals a worrying scenario: the current cost of GLP-1 makes treatment viable for only **28% of eligible patients**. More seriously: **65% of patients discontinue use** or cannot maintain the recommended dosage due to financial limitations.
+A national survey conducted by Febrafar in partnership with Instituto IFEPEC, involving 1,067 doctors from all over Brazil, reveals a worrying scenario: the current cost of GLP-1s makes treatment viable for only **28% of eligible patients**. More seriously: **65% of patients discontinue use** or cannot maintain the recommended dosage due to financial limitations.
 
 The study indicates that a price reduction of approximately 35% could expand access to about 45% of patients. This data directly connects to the **advancement of the patent cycle** — the main catalyst for competition that can generate these reductions.
 
-The interviewed doctors point to the arrival of the first biosimilar and generic pens as an "important milestone for expanding competition, reducing costs, and democratizing access." The movement is described as "foundational for the future of the category."
+The interviewed doctors point to the arrival of the first biosimilar and similar pens as an "important milestone for expanding competition, reducing costs, and democratizing access." The movement is described as "structural for the future of the category."
 
 ## The beginning of competition: Ozivy, Poviztra, and the price war
 
-In 2026, the Brazilian GLP-1 market ceased to be a duopoly (Novo Nordisk + EMS) and transformed into an active field of competition. Three simultaneous movements draw attention:
+In 2026, the Brazilian GLP-1 market ceased to be a duopoly (Novo Nordisk + EMS) and transformed into an active competitive field. Three simultaneous movements stand out:
 
 ### EMS and Ozivy
 
-EMS launched **Ozivy**, the first national semaglutide, generating not only a lower-cost alternative but also a trademark dispute: Novo Nordisk requested the annulment of the Ozivy trademark registration, in a case that exposes the tension between original innovation and legitimate competition. This case was [analyzed separately on the blog]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}}).
+EMS launched **Ozivy**, the first national semaglutide, generating not only a lower-cost alternative but also a brand dispute: Novo Nordisk requested the annulment of the Ozivy trademark registration, in a case that exposes the tension between original innovation and legitimate competition. This case was [analyzed separately on the blog]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}}).
 
 ### Eurofarma + Novo Nordisk: Partnership with price reduction
 
@@ -57,32 +57,32 @@ IQVIA data presented during an Eurofarma and Novo Nordisk event in São Paulo co
 
 ## Beyond price: GLP-1 as a consumption transformer
 
-The impact of GLP-1 goes far beyond the doctor's office. A **Worldpanel by Numerator** study titled *The Health Effect* reveals that users of these medications are changing consumption patterns in categories ranging from food and beverages to oral hygiene products.
+The impact of GLP-1s goes far beyond the doctor's office. A **Worldpanel by Numerator** study titled *The Health Effect* reveals that users of these medications are changing consumption patterns in categories ranging from food and beverages to oral hygiene products.
 
-In the United Kingdom, where GLP-1 household penetration jumped from 2.3% to 6.3% in two years, spending on mouthwash grew 20% above the non-user average, while chewing gum purchases advanced 24 percentage points — a phenomenon associated with the so-called **"Ozempic mouth"** (dry mouth and changes in breath).
+In the United Kingdom, where GLP-1 household penetration jumped from 2.3% to 6.3% in two years, spending on mouthwash grew 20% above the non-user average, while chewing gum purchases increased by 24 percentage points — a phenomenon associated with the so-called **"Ozempic mouth"** (dry mouth and changes in breath).
 
-According to **Close-Up International**, 41% of the growth in dermocosmetics in 2025 can be attributed to the advancement of GLP-1s. "Weight-loss pens are currently one of the main growth drivers, also boosting categories such as dermocosmetics and vitamins," stated Filipe Campos, the company's Market Insights leader.
+According to **Close-Up International**, 41% of the expansion of dermocosmetics in 2025 can be attributed to the advancement of GLP-1s. "Weight-loss pens are currently one of the main growth drivers, also boosting categories such as dermocosmetics and vitamins," stated Filipe Campos, Market Insights leader at the company.
 
-Mariane Morelli, CEO of Grupo Suppley, summarizes: "It's not just a drug revolution, but a consumption revolution. People are not just using these technologies to lose weight. They are changing the way they view health, well-being, and quality of life."
+Mariane Morelli, CEO of Grupo Suppley, summarizes: "It's not just a drug revolution, but a consumption revolution. People are not just using these technologies to lose weight. They are changing how they view health, well-being, and quality of life."
 
-## What to watch in the coming months
+## What to observe in the coming months
 
 The Brazilian GLP-1 market is at a rare inflection point, where three forces converge:
 
-1. **Patent cycle** — the expiration of key patents and the entry of biosimilars and generics are expected to accelerate competition and reduce prices, with the potential to increase access from 28% to 45% of patients, according to Febrafar;
-2. **National capillarity** — the Eurofarma/Novo Nordisk partnership and EMS's distribution expand the geographical reach of treatments;
-3. **Cultural shift** — the perception of GLP-1 as a chronic treatment, not just an aesthetic one, is transforming pharmaceutical retail and adjacent categories.
+1.  **Patent cycle** — the expiration of key patents and the entry of biosimilars and similar drugs should accelerate competition and reduce prices, with the potential to increase access from 28% to 45% of patients, according to Febrafar;
+2.  **National capillarity** — the Eurofarma/Novo Nordisk partnership and EMS distribution expand the geographical reach of treatments;
+3.  **Cultural shift** — the perception of GLP-1 as a chronic treatment, not just an aesthetic one, is transforming pharmaceutical retail and adjacent categories.
 
-Semaglutide, described by specialists as "the most studied molecule in the history of medicine in this category, with more than 60 clinical studies and about 50,000 patients evaluated," represents a milestone that Dr. Priscila Mattar (Novo Nordisk) calls a "medical and cultural revolution."
+Semaglutide, described by experts as "the most studied molecule in the history of medicine in this category, with more than 60 clinical studies and approximately 50,000 patients evaluated," represents a milestone that Dr. Priscila Mattar (Novo Nordisk) calls a "medical and cultural revolution."
 
-The challenge — and the opportunity — lies in transforming this clinical revolution into an access revolution. The patent system, once seen as a barrier, is beginning to show its face as a catalyst for competition. It remains to be seen if the pace of competition will be sufficient to bring these medications to the 65% of patients who currently abandon treatment because they cannot afford it.
+The challenge — and the opportunity — lies in transforming this clinical revolution into an access revolution. The patent system, previously seen as a barrier, is beginning to show its face as a catalyst for competition. It remains to be seen if the pace of competition will be sufficient to bring these medications to the 65% of patients who currently abandon treatment because they cannot afford it.
 
 Read also:
 
-- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
-- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
-- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [Novo Nordisk v. EMS in Court: the dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [Novo Nordisk v. EMS in Court: the dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [Novo Nordisk v. EMS in Court: the dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
 
 ---
 
-You can get in touch to discuss this and other topics via email <contact@lucasaguiar.xyz>
+You can get in touch to discuss this and other topics at the email <contact@lucasaguiar.xyz>
