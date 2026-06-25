@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T14:40:12.164Z",
+  "last_updated": "2026-06-25T16:14:32.639Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1163,7 +1163,7 @@
         "article"
       ],
       "description_en": "With a market projected to jump from US$1.8 billion to US$9 billion by 2030, the GLP-1 patent ecosystem is redefining access, consumption, and competition in Brazil",
-      "content_hash_en": "c76e97ca41068eb92c57b18d61671aa6ea1ee6d49c946d04ab29a36ead8477b1",
+      "content_hash_en": "4805e8f1188db55498b249b9046d853290552bfaf28cd997e043367760aec609",
       "backlinks": [
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
@@ -1174,7 +1174,7 @@
     },
     "mapa-global-patentes-pct-2025-brasil": {
       "slug": "mapa-global-patentes-pct-2025-brasil",
-      "title_en": "O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?",
+      "title_en": "The Global Innovation Map in 2025: Who Is Patenting What?",
       "title_pt": "O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?",
       "tags": [
         "patentes",
@@ -1188,15 +1188,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "Análise dos dados de patentes internacionais do PCT 2025: China dispara, EUA recuam, semicondutores crescem — e onde o Brasil se encaixa nesse cenário?",
-      "content_hash_en": null,
-      "content_hash_pt": "468048727b4dffb053080ebe8adf6079d21cad5254d02b3a345fd73e15a8d5f4",
+      "description_en": "Analysis of PCT 2025 international patent data: China surges, US retreats, semiconductors grow — and where does Brazil fit into this scenario?",
+      "content_hash_en": "d46420b4fd84072de1f1bca676017c0d5420fbba3c3ed0c94cf842fc3045ee90",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "glp-1-revolucao-farmaceutica-patentes-brasil",
         "nova-industria-brasil-saude-patentes"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-25T14:40:12.163Z"
     }
   }
