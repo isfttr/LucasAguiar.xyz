@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T14:06:42.496Z",
+  "last_updated": "2026-06-25T14:40:12.164Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1088,7 +1088,7 @@
         "article"
       ],
       "description_en": "ANVISA approved the registration of Veoza (fezolinetant), the first non-hormonal medication for vasomotor symptoms of menopause. Understand the mechanism, the history of global approval, and the regulatory implications for the Brazilian pharmaceutical market.",
-      "content_hash_en": "9cc589e6620c5601768dcc82dac284d9e8932c4ff1b395271c334d22ac08a898",
+      "content_hash_en": "85c84ac8e3b6fa69ef539a55e3aa90a22a4086563fa237214bd75a08648a21fc",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "backlog-inpi-patentes-farmaceuticas",
@@ -1112,7 +1112,7 @@
         "article"
       ],
       "description_en": "The INPI reached the quota limit for priority examination of trademarks in the e-commerce modality. Understand what this means for brands that depend on registration to sell on marketplaces.",
-      "content_hash_en": "96327887b2ca710df668c6b315daeda66abd57100671a70f8f25fb4ce33b25ae",
+      "content_hash_en": "e555f2c8c3e4ae69470c1d8f3931be2cf4eab75371143bca78c682ab925865f4",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "backlog-inpi-patentes-farmaceuticas",
@@ -1148,7 +1148,7 @@
     },
     "glp-1-revolucao-farmaceutica-patentes-brasil": {
       "slug": "glp-1-revolucao-farmaceutica-patentes-brasil",
-      "title_en": "A revolução GLP-1 no Brasil: como patentes, biosimilares e concorrência estão transformando o mercado farmacêutico",
+      "title_en": "The GLP-1 revolution in Brazil: how patents, biosimilars, and competition are transforming the pharmaceutical market",
       "title_pt": "A revolução GLP-1 no Brasil: como patentes, biosimilares e concorrência estão transformando o mercado farmacêutico",
       "tags": [
         "glp-1",
@@ -1162,16 +1162,42 @@
       "categories": [
         "article"
       ],
-      "description_en": "Com mercado projetado para saltar de US$ 1,8 bilhão para US$ 9 bilhões até 2030, o ecossistema de patentes dos GLP-1 está redefinindo acesso, consumo e concorrência no Brasil",
-      "content_hash_en": null,
-      "content_hash_pt": "d850c54238c6bd05eae5dde70137bdf043ae7eed92451cbce63c50b4ab48f03a",
+      "description_en": "With a market projected to jump from US$1.8 billion to US$9 billion by 2030, the GLP-1 patent ecosystem is redefining access, consumption, and competition in Brazil",
+      "content_hash_en": "c76e97ca41068eb92c57b18d61671aa6ea1ee6d49c946d04ab29a36ead8477b1",
       "backlinks": [
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
-        "adi-5529-patentes-farmaceuticas"
+        "novo-nordisk-ozivy-anulacao-marca-semaglutida"
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "mapa-global-patentes-pct-2025-brasil": {
+      "slug": "mapa-global-patentes-pct-2025-brasil",
+      "title_en": "O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?",
+      "title_pt": "O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?",
+      "tags": [
+        "patentes",
+        "pct",
+        "wipo",
+        "inovacao",
+        "brasil",
+        "semicondutores",
+        "tecnologia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Análise dos dados de patentes internacionais do PCT 2025: China dispara, EUA recuam, semicondutores crescem — e onde o Brasil se encaixa nesse cenário?",
+      "content_hash_en": null,
+      "content_hash_pt": "468048727b4dffb053080ebe8adf6079d21cad5254d02b3a345fd73e15a8d5f4",
+      "backlinks": [
+        "brasil-tratado-budapeste-patentes-biotecnologia",
+        "glp-1-revolucao-farmaceutica-patentes-brasil",
+        "nova-industria-brasil-saude-patentes"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-25T14:40:12.163Z"
     }
   }
 }

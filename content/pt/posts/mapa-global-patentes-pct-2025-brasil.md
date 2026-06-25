@@ -78,8 +78,9 @@ Para o Brasil, a pergunta que fica é: o que será necessário para que o país 
 
 Leia também:
 
-- [O backlog do INPI acabou — mas não para todos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [Roteiro ambicioso de automação do INPI]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
+- [A revolução GLP-1 no Brasil: como patentes, biosimilares e concorrência estão transformando o mercado farmacêutico]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
+- [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
 
 ---
 

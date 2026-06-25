@@ -79,9 +79,9 @@ The challenge — and the opportunity — lies in transforming this clinical rev
 
 Read also:
 
-- [Novo Nordisk against EMS in Court: the dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
-- [Novo Nordisk against EMS in Court: the dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
-- [ADI 5.529: the STF decision that shortened drug patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
+- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
 
 ---
 

@@ -81,7 +81,7 @@ Leia também:
 
 - [Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
 - [Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
-- [ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
+- [Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
 
 ---
 
