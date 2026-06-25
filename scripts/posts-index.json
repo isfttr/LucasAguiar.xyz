@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T14:49:46.286Z",
+  "last_updated": "2026-06-25T14:06:42.496Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1087,8 +1087,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "ANVISA approved the registration of Veoza (fezolinetant), the first non-hormonal medication for menopausal vasomotor symptoms. Understand the mechanism, the global approval history, and the regulatory implications for the Brazilian pharmaceutical market.",
-      "content_hash_en": "e9e99991bee9f251c9ed4a91a8de3092b5303f5d305fe4f189f7468ca9654088",
+      "description_en": "ANVISA approved the registration of Veoza (fezolinetant), the first non-hormonal medication for vasomotor symptoms of menopause. Understand the mechanism, the history of global approval, and the regulatory implications for the Brazilian pharmaceutical market.",
+      "content_hash_en": "9cc589e6620c5601768dcc82dac284d9e8932c4ff1b395271c334d22ac08a898",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "backlog-inpi-patentes-farmaceuticas",
@@ -1099,7 +1099,7 @@
     },
     "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce": {
       "slug": "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
-      "title_en": "INPI esgota cotas de trâmite prioritário para marcas no comércio eletrônico — e agora?",
+      "title_en": "INPI exhausts priority processing quotas for e-commerce trademarks — what now?",
       "title_pt": "INPI esgota cotas de trâmite prioritário para marcas no comércio eletrônico — e agora?",
       "tags": [
         "marcas",
@@ -1111,9 +1111,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "O INPI atingiu o limite de cotas para exame prioritário de marcas na modalidade comércio eletrônico. Entenda o que isso significa para marcas que dependem do registro para vender em marketplaces.",
-      "content_hash_en": null,
-      "content_hash_pt": "ad584effe677660091617d1ed83c05d2ed64936021b0bbb599b00ed5c2b91925",
+      "description_en": "The INPI reached the quota limit for priority examination of trademarks in the e-commerce modality. Understand what this means for brands that depend on registration to sell on marketplaces.",
+      "content_hash_en": "96327887b2ca710df668c6b315daeda66abd57100671a70f8f25fb4ce33b25ae",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "backlog-inpi-patentes-farmaceuticas",
@@ -1124,7 +1123,7 @@
     },
     "nib-r140-bilhoes-ia-historico-politica-industrial": {
       "slug": "nib-r140-bilhoes-ia-historico-politica-industrial",
-      "title_en": "Nova Indústria Brasil ganha mais R$ 140 bilhões e inclui inteligência artificial entre setores prioritários",
+      "title_en": "New Brazil Industry gains an additional R$ 140 billion and includes artificial intelligence among priority sectors",
       "title_pt": "Nova Indústria Brasil ganha mais R$ 140 bilhões e inclui inteligência artificial entre setores prioritários",
       "tags": [
         "nova-industria-brasil",
@@ -1137,16 +1136,42 @@
       "categories": [
         "article"
       ],
-      "description_en": "BNDES e Finep ampliam recursos da política industrial para R$ 750 bilhões no período 2023-2026. IA passa a ser oficialmente um setor estratégico. Uma análise da trajetória de 22 anos que levou a essa decisão.",
-      "content_hash_en": null,
-      "content_hash_pt": "eea10781263488d52476ba68fd938f83a9772e898cf0481c1f72ab47ab593297",
+      "description_en": "BNDES and Finep increase industrial policy resources to R$ 750 billion in the 2023-2026 period. AI officially becomes a strategic sector. An analysis of the 22-year trajectory that led to this decision.",
+      "content_hash_en": "e1cae6a6a0ea8c654044afeca621eee2f1d73348190c52dbc82f2ba47db8905f",
       "backlinks": [
         "nova-industria-brasil-saude-patentes",
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
         "inpi-automation-roadmap-2025-2029"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-24T14:49:46.285Z"
+    },
+    "glp-1-revolucao-farmaceutica-patentes-brasil": {
+      "slug": "glp-1-revolucao-farmaceutica-patentes-brasil",
+      "title_en": "A revolução GLP-1 no Brasil: como patentes, biosimilares e concorrência estão transformando o mercado farmacêutico",
+      "title_pt": "A revolução GLP-1 no Brasil: como patentes, biosimilares e concorrência estão transformando o mercado farmacêutico",
+      "tags": [
+        "glp-1",
+        "medicamentos",
+        "patentes",
+        "farmaceuticos",
+        "inovacao",
+        "acesso-a-saude",
+        "regulacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Com mercado projetado para saltar de US$ 1,8 bilhão para US$ 9 bilhões até 2030, o ecossistema de patentes dos GLP-1 está redefinindo acesso, consumo e concorrência no Brasil",
+      "content_hash_en": null,
+      "content_hash_pt": "d850c54238c6bd05eae5dde70137bdf043ae7eed92451cbce63c50b4ab48f03a",
+      "backlinks": [
+        "novo-nordisk-ozivy-anulacao-marca-semaglutida",
+        "novo-nordisk-ozivy-anulacao-marca-semaglutida",
+        "adi-5529-patentes-farmaceuticas"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }
