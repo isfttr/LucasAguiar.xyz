@@ -112,6 +112,13 @@ Also read:
 - [Copyright in the AI era: INPI gathers international experts to discuss the challenges of artificial intelligence]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
 - [Ambitious automation roadmap for INPI]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 
+
+Read also:
+
+- [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
+- [Copyright in the AI era: INPI brings together international experts to debate the challenges of artificial intelligence]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+
 ---
 
 You can get in touch to discuss this and other topics at the email <contact@lucasaguiar.xyz>
