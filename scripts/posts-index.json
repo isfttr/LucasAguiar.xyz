@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T16:35:10.120Z",
+  "last_updated": "2026-06-25T16:43:22.459Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1137,7 +1137,7 @@
         "article"
       ],
       "description_en": "BNDES and Finep expand industrial policy resources to R$ 750 billion in the 2023-2026 period. AI officially becomes a strategic sector. An analysis of the 22-year trajectory that led to this decision.",
-      "content_hash_en": "fb8b4396acafb455f523fd72c0f57cd820a2441b06809e44012075113d8ff53e",
+      "content_hash_en": "01c901313ee2b7f48d4c79e6df2fb5b56681abaa284711dac1b9c96f7a8477eb",
       "backlinks": [
         "nova-industria-brasil-saude-patentes",
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
@@ -1188,8 +1188,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Analysis of PCT 2025 international patent data: China surges, US retreats, semiconductors grow — and where does Brazil fit into this scenario?",
-      "content_hash_en": "c2a66ec81984c4084b44563b02017197e300272e89d6b1d35948c7f1a51b7950",
+      "description_en": "Analysis of PCT 2025 international patent data: China surges, US declines, semiconductors grow — and where does Brazil fit into this scenario?",
+      "content_hash_en": "9b2bb3cf3418ebdff1bcc9b18c16c6ab9245ffecb696daae8c95ee4bdd5cb20d",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "glp-1-revolucao-farmaceutica-patentes-brasil",
@@ -1197,6 +1197,34 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-06-25T14:40:12.163Z"
+    },
+    "pl-5810-2025-estudo-ministerio-saude-patentes-sus": {
+      "slug": "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
+      "title_en": "PL 5810/2025: o Estudo do Ministério da Saúde Que Projeta R$ 3 Bilhões em Custos Adicionais ao SUS",
+      "title_pt": "PL 5810/2025: o Estudo do Ministério da Saúde Que Projeta R$ 3 Bilhões em Custos Adicionais ao SUS",
+      "tags": [
+        "patentes",
+        "ministerio-da-saude",
+        "sus",
+        "pl-5810",
+        "inpi",
+        "stf",
+        "medicamentos",
+        "propriedade-intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Análise do parecer técnico da CGPR/MS sobre o PL que cria mecanismo de ajuste de prazo de patentes e seu impacto fiscal sobre o sistema público de saúde.",
+      "content_hash_en": null,
+      "content_hash_pt": "61c74768f8b902285a122cd3a3c95ec1ef89a3e3c578270cca41f1eae64d75fa",
+      "backlinks": [
+        "backlog-inpi-patentes-farmaceuticas",
+        "adi-5529-patentes-farmaceuticas",
+        "backlog-inpi-patentes-farmaceuticas"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }
