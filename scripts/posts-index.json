@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T15:39:34.240Z",
+  "last_updated": "2026-06-26T19:23:57.192Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1242,7 +1242,7 @@
         "article"
       ],
       "description_en": "Anthropic positions Claude Tag as a 'colleague' that delves into the entire company context. What does this mean for know-how, trade secrets, and unpatented IP assets?",
-      "content_hash_en": "84b37939af7378185c4d8507546b854a2ce47c958d6dc397202bff07bec740df",
+      "content_hash_en": "01d7a9b92fd74e7538d02ea85c33a91bf9d4df7e7f4ddf44dcf8304efcab3a18",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
@@ -1267,7 +1267,7 @@
         "article"
       ],
       "description_en": "WIPO launches initiative with 1,700 participants and 90 experts to debate AI and IP technical infrastructure, including attribution standards, watermarking, and data access at scale",
-      "content_hash_en": "3fcc86c117e7a4a2ca458858e270ec0f51f10b19da596875d5354b7aa609c592",
+      "content_hash_en": "430f11914f4ccfdd9bcf09bd3c34fa2f748caaccf13a9e6c050b73e62ce2d7ce",
       "backlinks": [
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
         "claude-tag-propriedade-intelectual-empresarial",
@@ -1275,6 +1275,32 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-06-26T14:03:49.223Z"
+    },
+    "peter-dirk-siemsen-legado-propriedade-intelectual": {
+      "slug": "peter-dirk-siemsen-legado-propriedade-intelectual",
+      "title_en": "Peter Dirk Siemsen (1943–2026): o legado do único brasileiro no Hall da Fama da Propriedade Intelectual",
+      "title_pt": "Peter Dirk Siemsen (1943–2026): o legado do único brasileiro no Hall da Fama da Propriedade Intelectual",
+      "tags": [
+        "propriedade-intelectual",
+        "abpi",
+        "inpi",
+        "homenagem",
+        "legislacao",
+        "biografia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Fundador da ABPI, ex-presidente da AIPPI e o único brasileiro no IP Hall of Fame, Peter Dirk Siemsen deixa um legado que moldou a propriedade intelectual no Brasil e no mundo.",
+      "content_hash_en": null,
+      "content_hash_pt": "714de7b960756233868601079098fe58ec1eeba7789a0a7b5d8ab7fda8fcfbbc",
+      "backlinks": [
+        "trf2-decisao-abpi-fortalecimento-inpi",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi",
+        "brasil-tratado-budapeste-patentes-biotecnologia"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-26T19:23:57.191Z"
     }
   }
 }

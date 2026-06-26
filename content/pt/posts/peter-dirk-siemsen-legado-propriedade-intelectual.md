@@ -70,8 +70,9 @@ Em um momento em que o INPI passa por uma reestruturação histórica (confirmad
 
 Leia também:
 
-- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 - [TRF-2 confirma sentença que abre caminho para a reestruturação do INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
 
 ---
 
