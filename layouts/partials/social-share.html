@@ -43,27 +43,3 @@
     overflow: hidden;
   }
 </style>
-<!-- social sharing scripts -->
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
-<script>(function (d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.0";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));</script>
-<script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
-<script>
-  document.getElementById('copy-link').addEventListener('click', function () {
-    navigator.clipboard.writeText(window.location.href)
-      .then(function () {
-        console.log('Link copied to clipboard!');
-      })
-      .catch(function (err) {
-        console.error('Could not copy link: ', err);
-      });
-  });
-</script>
