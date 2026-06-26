@@ -1,0 +1,79 @@
+---
+date: 2026-06-26T13:00:00.000Z
+draft: true
+title: 'Peter Dirk Siemsen (1943–2026): the legacy of the only Brazilian in the Intellectual Property Hall of Fame'
+description: Founder of ABPI, former president of AIPPI, and the only Brazilian in the IP Hall of Fame, Peter Dirk Siemsen leaves a legacy that shaped intellectual property in Brazil and worldwide.
+featured_image: ''
+categories:
+  - article
+tags:
+  - propriedade-intelectual
+  - abpi
+  - inpi
+  - homenagem
+  - legislacao
+  - biografia
+translation_source_hash: bdc271e7dd5a0e8d2f5c0b1036039c576307867b7438e4b22966909aa00569a9
+---
+**4 MIN READ**
+
+On June 22, 2026, the Brazilian Intellectual Property Association (ABPI) inaugurated the Peter Dirk Siemsen auditorium at its headquarters in Rio de Janeiro, in posthumous homage to one of the greatest names in the history of Brazilian intellectual property. The ceremony took place days after Siemsen's passing, marking the end of an era for the IP community in the country.
+
+More than a tribute, the inauguration of the auditorium symbolizes the recognition of a career that intertwines with the very history of industrial property in Brazil.
+
+## Who was Peter Dirk Siemsen
+
+Lawyer and entrepreneur, Peter Dirk Siemsen was the founder of the law firm Dannemann, Siemsen, Bigler & Ipanema Moreira — one of the most important and traditional intellectual property law firms in Latin America. His work, however, transcended legal practice to encompass the institutional building of the Brazilian IP system.
+
+Siemsen was one of the founders of ABPI, an association of which he became Honorary President, and is remembered for transforming the association into the Brazilian group of AIPPI (International Association for the Protection of Intellectual Property), strengthening Brazil's international presence in the field. He himself became president of AIPPI, consolidating his global influence.
+
+His ultimate recognition came with his induction into the **IP Hall of Fame** — the Intellectual Property Hall of Fame —, of which he is **the only Brazilian member**. The distinction, created by IAM (Intellectual Asset Management), honors individuals who have made exceptional contributions to the development of intellectual property on a global scale.
+
+## A career of global leadership
+
+Peter Dirk Siemsen's career is marked by an impressive succession of leadership positions in national and international organizations:
+
+- **President of AIPPI** (International Association for the Protection of Intellectual Property) — the most important international IP association
+- **Vice-president of the ICC Intellectual Property Commission** (International Chamber of Commerce)
+- **ICC Regional Ambassador for Latin America**
+- **Honorary member of FICPI** (Fédération Internationale des Conseils en Propriété Intellectuelle)
+- **Arbitrator at the OMPI Arbitration and Mediation Center** (World Intellectual Property Organization)
+- **Arbitrator at CAS** (Court of Arbitration for Sport)
+- Member of institutions such as **INTA**, **AIPLA**, **GRUR**, **MARQUES**, **LES**, **ATRIP**, and **ECTA**
+- Member of the **Amcham/RJ Board of Directors**
+
+Beyond law, Siemsen was a keen competitive sailor, having been a **Brazilian, South American, and world champion in the veteran category**, as well as an international and Olympic judge for the sport — a demonstration of his versatility and discipline.
+
+## The legacy for Brazilian IP
+
+The importance of Peter Dirk Siemsen for intellectual property in Brazil cannot be underestimated. His work occurred during a period of transformation of the Brazilian IP system — from the enactment of the Industrial Property Code (Law 5.772/71) to the promulgation of the current Industrial Property Law (Law 9.279/96, the LPI), which completes 30 years in 2026 and was the subject of a recent INPI report.
+
+As the author of several articles on industrial property and technology transfer in Brazil, Siemsen actively contributed to the training of generations of IP professionals. His firm, Dannemann Siemsen, trained some of the most respected patent and trademark specialists in the country.
+
+His son, **Peter Eduardo Siemsen**, current president of ABPI, summarized the sentiment during the auditorium inauguration ceremony:
+
+> "My father's story intertwines with the history of ABPI and industrial property in Brazil. His inspiration keeps alive the determination of many of us."
+
+## The Peter Dirk Siemsen auditorium
+
+The inauguration ceremony was attended by Elisabeth Siemsen, grandson Eric, and authorities such as **Schmuell Lopes Cantanhed** (director of the OMPI Office in Brazil), **Renata Lisboa** (INTA consultant), and **Maria Beatriz Dellore** (USPTO regional consultant).
+
+All participants received a copy of the book published in homage to Peter Dirk Siemsen, which records his contribution to the development of intellectual property.
+
+## What it means for the IP market
+
+The death of Peter Dirk Siemsen marks the close of a cycle in the history of Brazilian intellectual property. He belonged to a generation of pioneers who not only practiced IP law but built the institutions that today sustain the system.
+
+For lawyers, IP agents, and companies that depend on the patent and trademark system, his legacy is a reminder of the importance of **institutional building** — ABPI, AIPPI, and the other associations he helped strengthen continue to be central actors in the formulation of IP policies in Brazil and worldwide.
+
+At a time when INPI is undergoing a historical restructuring (confirmed by the recent TRF-2 decision), Siemsen's trajectory serves as a reference for what it means to build a solid and internationally respected IP system.
+
+Read also:
+
+- [TRF-2 confirms ruling that paves the way for INPI's restructuring]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [LPI at 30 years: INPI releases report with proposals for improving the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [Brazil joins the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
+
+---
+
+You can get in touch to discuss this and other topics at <contact@lucasaguiar.xyz>
