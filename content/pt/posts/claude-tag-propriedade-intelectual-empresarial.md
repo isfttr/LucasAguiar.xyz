@@ -110,8 +110,9 @@ As empresas que adotarem o Claude Tag com os olhos abertos — mapeando riscos, 
 
 Leia também:
 
-- [Claude para equipes: a IA como membro do time](https://www.anthropic.com/news/claude-tag)
-- [Propriedade intelectual e modelos de linguagem: o que muda?]({{< relref "posts/ia-generativa-propriedade-intelectual/" >}})
+- [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Direito autoral na era da IA: INPI reúne especialistas internacionais para debater os desafios da inteligência artificial]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
+- [O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software & Por Que a Portabilidade de Dados é Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})
 
 ---
 

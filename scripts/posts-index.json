@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T16:43:22.459Z",
+  "last_updated": "2026-06-26T13:49:09.127Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1200,7 +1200,7 @@
     },
     "pl-5810-2025-estudo-ministerio-saude-patentes-sus": {
       "slug": "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
-      "title_en": "PL 5810/2025: o Estudo do Ministério da Saúde Que Projeta R$ 3 Bilhões em Custos Adicionais ao SUS",
+      "title_en": "PL 5810/2025: The Ministry of Health Study That Projects R$ 3 Billion in Additional Costs to SUS",
       "title_pt": "PL 5810/2025: o Estudo do Ministério da Saúde Que Projeta R$ 3 Bilhões em Custos Adicionais ao SUS",
       "tags": [
         "patentes",
@@ -1215,16 +1215,42 @@
       "categories": [
         "article"
       ],
-      "description_en": "Análise do parecer técnico da CGPR/MS sobre o PL que cria mecanismo de ajuste de prazo de patentes e seu impacto fiscal sobre o sistema público de saúde.",
-      "content_hash_en": null,
-      "content_hash_pt": "61c74768f8b902285a122cd3a3c95ec1ef89a3e3c578270cca41f1eae64d75fa",
+      "description_en": "Analysis of the technical opinion from CGPR/MS on the Bill that creates a patent term adjustment mechanism and its fiscal impact on the public health system.",
+      "content_hash_en": "875ccbfa82a771fbff8351c8105f6ce4a43181c8ee5f8aca37617f8e495789b1",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
-        "adi-5529-patentes-farmaceuticas",
-        "backlog-inpi-patentes-farmaceuticas"
+        "backlog-inpi-patentes-farmaceuticas",
+        "adi-5529-patentes-farmaceuticas"
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "claude-tag-propriedade-intelectual-empresarial": {
+      "slug": "claude-tag-propriedade-intelectual-empresarial",
+      "title_en": "Claude Tag e o risco silencioso à propriedade intelectual das empresas",
+      "title_pt": "Claude Tag e o risco silencioso à propriedade intelectual das empresas",
+      "tags": [
+        "propriedade-intelectual",
+        "ia",
+        "claude",
+        "anthropic",
+        "segredo-industrial",
+        "inovacao",
+        "tecnologia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "A Anthropic posiciona o Claude Tag como um 'colega de trabalho' alugado que mergulha em todo o contexto da empresa. O que isso significa para o know-how, segredos comerciais e ativos de PI não patenteados?",
+      "content_hash_en": null,
+      "content_hash_pt": "e80422d870e5806d1a5bca42452057cf8c6d9c2c5d49f14ec5802aec88280431",
+      "backlinks": [
+        "anthropic-thinking-process-paper",
+        "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
+        "ai-copy-paste-problem"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-26T13:49:09.127Z"
     }
   }
 }

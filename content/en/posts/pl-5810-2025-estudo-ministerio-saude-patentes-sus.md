@@ -68,9 +68,9 @@ The Ministry of Health's opinion, however, puts on the table a piece of data tha
 
 Read also:
 
-- [INPI's backlog ended — but not for pharmaceutical patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [ADI 5.529: the STF decision that shortened medicine patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
-- [INPI's backlog ended — but not for pharmaceutical patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [ADI 5.529: the STF's decision that shortened drug patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
 
 ---
 
