@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T19:25:16.996Z",
+  "last_updated": "2026-06-26T19:42:24.893Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1266,8 +1266,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "WIPO launches initiative with 1,700 participants and 90 experts to debate AI and IP technical infrastructure, including attribution standards, watermarking, and data access at scale",
-      "content_hash_en": "430f11914f4ccfdd9bcf09bd3c34fa2f748caaccf13a9e6c050b73e62ce2d7ce",
+      "description_en": "WIPO launches an initiative with 1,700 participants and 90 experts to discuss AI and IP technical infrastructure, including attribution standards, watermarking, and data access at scale",
+      "content_hash_en": "25a8a7c8fe75cc521f25c236f1429370d1a9f437bebc0c533a04d49d0332fa4d",
       "backlinks": [
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
         "claude-tag-propriedade-intelectual-empresarial",
@@ -1278,7 +1278,7 @@
     },
     "peter-dirk-siemsen-legado-propriedade-intelectual": {
       "slug": "peter-dirk-siemsen-legado-propriedade-intelectual",
-      "title_en": "Peter Dirk Siemsen (1943–2026): o legado do único brasileiro no Hall da Fama da Propriedade Intelectual",
+      "title_en": "Peter Dirk Siemsen (1943–2026): the legacy of the only Brazilian in the Intellectual Property Hall of Fame",
       "title_pt": "Peter Dirk Siemsen (1943–2026): o legado do único brasileiro no Hall da Fama da Propriedade Intelectual",
       "tags": [
         "propriedade-intelectual",
@@ -1291,20 +1291,19 @@
       "categories": [
         "article"
       ],
-      "description_en": "Fundador da ABPI, ex-presidente da AIPPI e o único brasileiro no IP Hall of Fame, Peter Dirk Siemsen deixa um legado que moldou a propriedade intelectual no Brasil e no mundo.",
-      "content_hash_en": null,
-      "content_hash_pt": "714de7b960756233868601079098fe58ec1eeba7789a0a7b5d8ab7fda8fcfbbc",
+      "description_en": "Founder of ABPI, former president of AIPPI, and the only Brazilian in the IP Hall of Fame, Peter Dirk Siemsen leaves a legacy that shaped intellectual property in Brazil and worldwide.",
+      "content_hash_en": "e1c7d9643ab751f474bbb410b5fde8101f15723788d65f8e99807a31a4824f36",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "brasil-tratado-budapeste-patentes-biotecnologia"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-26T19:23:57.191Z"
     },
     "como-consultar-andamento-processo-inpi": {
       "slug": "como-consultar-andamento-processo-inpi",
-      "title_en": "Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]",
+      "title_en": "How to Consult the Progress of a Process at INPI: Step-by-Step Guide [2026]",
       "title_pt": "Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]",
       "tags": [
         "inpi",
@@ -1317,9 +1316,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo para consultar processos de patentes, marcas e desenhos industriais no INPI. Aprenda a usar o e-INPI, o sistema de busca e a interpretar os códigos de andamento.",
-      "content_hash_en": null,
-      "content_hash_pt": "379f810edd72e7b6d4a75a70218e4a95d0f2a858efb58b278b54dc7eab37d7f3",
+      "description_en": "Complete guide to consulting patent, trademark, and industrial design processes at the INPI. Learn how to use e-INPI, the search system, and interpret progress codes.",
+      "content_hash_en": "6d3b9c00af82b3725fea7a3ffe8f79154e4f38603d0f2ace2917f6dee2bcb350",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-automation-roadmap-2025-2029",
@@ -1330,7 +1328,7 @@
     },
     "quanto-custa-registrar-marca-inpi-2026": {
       "slug": "quanto-custa-registrar-marca-inpi-2026",
-      "title_en": "Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]",
+      "title_en": "How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]",
       "title_pt": "Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]",
       "tags": [
         "marcas",
@@ -1342,15 +1340,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo com todos os custos de registro de marca no INPI em 2026: taxas por classe, descontos para MEI/ME, procuração, prorrogação e links oficiais. Tabela atualizada.",
-      "content_hash_en": null,
-      "content_hash_pt": "e4b8d9beffc1b979687b2a19cce641b9179ecdb855c2ef12766e66e56ca1b543",
+      "description_en": "Complete guide with all trademark registration costs at INPI in 2026: fees by class, discounts for MEI/ME, power of attorney, extension, and official links. Updated table.",
+      "content_hash_en": "3c80dd62a1e33ee32c410889d9c459b72563e4e7bfe712c3a4de9439c4acdefc",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "como-consultar-andamento-processo-inpi",
         "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-26T19:25:16.996Z"
     }
   }
