@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T14:03:49.224Z",
+  "last_updated": "2026-06-26T14:05:10.500Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1216,7 +1216,7 @@
         "article"
       ],
       "description_en": "Analysis of the technical opinion from CGPR/MS on the Bill that creates a patent term adjustment mechanism and its fiscal impact on the public health system.",
-      "content_hash_en": "9e95e3659a9ccb4843eaf54d978ff6625860bab7e6d3bd985a485243f7232026",
+      "content_hash_en": "b492e6fed0e99356a8ef0f857380597a66d4421f94543db9e88d6c9a7f1870d1",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "backlog-inpi-patentes-farmaceuticas",
@@ -1228,7 +1228,7 @@
     "claude-tag-propriedade-intelectual-empresarial": {
       "slug": "claude-tag-propriedade-intelectual-empresarial",
       "title_en": "Claude Tag and the Silent Risk to Companies' Intellectual Property",
-      "title_pt": "Claude Tag e o risco silencioso à propriedade intelectual das empresas",
+      "title_pt": "Claude Tag e o risco à propriedade intelectual das empresas",
       "tags": [
         "propriedade-intelectual",
         "ia",
@@ -1242,7 +1242,7 @@
         "article"
       ],
       "description_en": "Anthropic positions Claude Tag as a 'hired coworker' that immerses itself in the company's entire context. What does this mean for know-how, trade secrets, and unpatented IP assets?",
-      "content_hash_en": "ae3dfbc5ff43bb3df679a8d2e0ead85c04af8f6094d6c63edff5ea47c04e507c",
+      "content_hash_en": "d021f7e5cbeab93cfa47c8917b3b39485fea6b7fe757e60e6af5a5855635da8e",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
