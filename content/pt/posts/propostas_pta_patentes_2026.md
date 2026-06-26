@@ -1,8 +1,8 @@
 ---
 date: 2026-04-29T12:20:00-03:00
 draft: false
-title: "Patent Term Adjustment: Big Pharma perdeu na Justiça, mas o debate chegou ao Congresso"
-description: "Após o STJ negar extensão de prazo para a semaglutida, a discussão sobre compensação por mora do INPI em patentes farmacêuticas migrou para o Legislativo. O que está em jogo no PL nº 5.810/2025."
+title: "PTA Patentes 2026: STJ Negou Extensão, Mas o Debate Chegou ao Congresso"
+description: "Após o STJ negar extensão de prazo para patentes farmacêuticas, a discussão sobre compensação por mora do INPI migrou para o Legislativo. O que está em jogo no PL 5.810/2025."
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-pta-luta-legislativa.png
 categories:
   - article

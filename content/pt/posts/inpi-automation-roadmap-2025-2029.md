@@ -1,9 +1,8 @@
 ---
 date: 2025-03-28T00:51:38.000Z
 draft: false
-title: Roteiro ambicioso de automação do INPI
-description: "Esta iniciativa visa simplificar o processo de patentes, aprimorar a
-  experiência do usuário e otimizar a eficiência dos examinadores de patentes."
+title: "INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil"
+description: "O INPI anunciou um plano ambicioso de automação para simplificar o exame de patentes, melhorar a experiência do usuário e reduzir o backlog. Entenda o que muda até 2029."
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-inpi-roadmap.png
 categories:

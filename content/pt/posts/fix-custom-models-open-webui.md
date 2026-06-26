@@ -1,8 +1,8 @@
 ---
 date: 2025-03-12T01:32:27.000Z
 draft: false
-title: Como corrigir o bug de Modelos Personalizados Ausentes
-description: ''
+title: "Open WebUI: Modelos Customizados Não Aparecem? Solução Passo a Passo [2026]"
+description: "Seus modelos personalizados não aparecem no Open WebUI? Guia definitivo para corrigir o bug de modelos ausentes — desde conexões OpenAI compatíveis até configurações de toggle."
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-custom-model-fix.png
 categories:

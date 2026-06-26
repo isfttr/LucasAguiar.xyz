@@ -1,8 +1,8 @@
 ---
 date: 2026-06-22T10:00:00-03:00
 draft: false
-title: "TRF-2 confirma sentença que abre caminho para a reestruturação do INPI"
-description: "Por unanimidade, a 1ª Turma Especializada do Tribunal Regional Federal da 2ª Região manteve decisão que obriga a União a garantir condições materiais e financeiras para o aprimoramento do INPI. Entenda o impacto da Ação Civil Pública movida pela ABPI."
+title: "TRF-2 Obriga União a Reestruturar o INPI: O que Isso Significa para suas Patentes?"
+description: "Por unanimidade, o TRF-2 manteve decisão que obriga a União a garantir condições para o INPI funcionar adequadamente. Entenda o impacto da ação da ABPI no sistema de patentes brasileiro."
 featured_image: ""
 categories:
   - article

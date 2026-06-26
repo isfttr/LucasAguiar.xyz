@@ -1,8 +1,8 @@
 ---
 date: 2025-02-04T15:00:59.000Z
 draft: false
-title: "Obsidian + Copilot"
-description: "Usando OpenRouter para impulsionar a IA no Obsidian."
+title: "Obsidian Copilot + Ollama + OpenRouter: Setup Completo e Gratuito [2026]"
+description: "Aprenda a configurar o Obsidian Copilot com Ollama local ou OpenRouter. Guia passo a passo para usar IA no seu vault de notas sem depender de assinaturas."
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-obsidian-copilot.png
 categories:
   - tutorial

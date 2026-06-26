@@ -1,8 +1,8 @@
 ---
 date: 2024-04-25T01:33:19.000Z
 draft: false
-title: Usando a camada gratuita do Oracle Cloud
-description: null
+title: "Oracle Cloud Free Tier 2026: Ainda Vale a Pena? Guia Completo + Alternativas"
+description: "O Oracle Cloud Always Free Tier ainda funciona em 2026? Guia completo com configuração passo a passo, Tailscale, Docker e alternativas gratuitas de VPS."
 url: /oracle_cloud_free_tier
 featured_image: /images/oracle_cloud_vps_thumb.png
 categories:

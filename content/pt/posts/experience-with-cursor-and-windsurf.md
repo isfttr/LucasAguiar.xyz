@@ -1,11 +1,8 @@
 ---
 date: 2025-04-13T03:11:32.000Z
 draft: false
-title: "Do Cursor ao Windsurf ao Zed: Minha Jornada Através de Editores de Código
-  Aprimorados por IA"
-description: "Uma análise pessoal das minhas experiências com Cursor, Windsurf e outros
-  editores de código modernos, incluindo suas capacidades de IA, suporte a
-  extensões e a experiência geral do usuário."
+title: "Cursor vs Windsurf vs Zed 2026: Qual Editor de Código com IA é o Melhor?"
+description: "Comparei Cursor, Windsurf e Zed por meses. Review honesto de recursos de IA, integração com Git, performance e qual editor realmente aumenta sua produtividade em 2026."
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-cursor-windsurf.png
 categories:
