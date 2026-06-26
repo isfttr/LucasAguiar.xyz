@@ -76,7 +76,9 @@ Para o Brasil, o recado é claro: o debate sobre IA e PI está se movendo para o
 
 Leia também:
 
-- [Direito autoral na era da IA: INPI reúne especialistas internacionais]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
+- [Direito autoral na era da IA: INPI reúne especialistas internacionais para debater os desafios da inteligência artificial]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
+- [Claude Tag e o risco silencioso à propriedade intelectual das empresas]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
+- [Roteiro ambicioso de automação do INPI]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 
 ---
 

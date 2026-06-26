@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T13:49:09.127Z",
+  "last_updated": "2026-06-26T14:03:49.224Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1200,7 +1200,7 @@
     },
     "pl-5810-2025-estudo-ministerio-saude-patentes-sus": {
       "slug": "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
-      "title_en": "PL 5810/2025: The Ministry of Health Study That Projects R$ 3 Billion in Additional Costs to SUS",
+      "title_en": "PL 5810/2025: The Ministry of Health Study Projecting R$ 3 Billion in Additional Costs to SUS",
       "title_pt": "PL 5810/2025: o Estudo do Ministério da Saúde Que Projeta R$ 3 Bilhões em Custos Adicionais ao SUS",
       "tags": [
         "patentes",
@@ -1216,18 +1216,18 @@
         "article"
       ],
       "description_en": "Analysis of the technical opinion from CGPR/MS on the Bill that creates a patent term adjustment mechanism and its fiscal impact on the public health system.",
-      "content_hash_en": "875ccbfa82a771fbff8351c8105f6ce4a43181c8ee5f8aca37617f8e495789b1",
+      "content_hash_en": "9e95e3659a9ccb4843eaf54d978ff6625860bab7e6d3bd985a485243f7232026",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "backlog-inpi-patentes-farmaceuticas",
-        "adi-5529-patentes-farmaceuticas"
+        "backlog-inpi-patentes-farmaceuticas"
       ],
       "backlink_source": "file",
       "last_processed": null
     },
     "claude-tag-propriedade-intelectual-empresarial": {
       "slug": "claude-tag-propriedade-intelectual-empresarial",
-      "title_en": "Claude Tag e o risco silencioso à propriedade intelectual das empresas",
+      "title_en": "Claude Tag and the Silent Risk to Companies' Intellectual Property",
       "title_pt": "Claude Tag e o risco silencioso à propriedade intelectual das empresas",
       "tags": [
         "propriedade-intelectual",
@@ -1241,16 +1241,41 @@
       "categories": [
         "article"
       ],
-      "description_en": "A Anthropic posiciona o Claude Tag como um 'colega de trabalho' alugado que mergulha em todo o contexto da empresa. O que isso significa para o know-how, segredos comerciais e ativos de PI não patenteados?",
-      "content_hash_en": null,
-      "content_hash_pt": "e80422d870e5806d1a5bca42452057cf8c6d9c2c5d49f14ec5802aec88280431",
+      "description_en": "Anthropic positions Claude Tag as a 'hired coworker' that immerses itself in the company's entire context. What does this mean for know-how, trade secrets, and unpatented IP assets?",
+      "content_hash_en": "ae3dfbc5ff43bb3df679a8d2e0ead85c04af8f6094d6c63edff5ea47c04e507c",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
         "ai-copy-paste-problem"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-26T13:49:09.127Z"
+    },
+    "wipo-lanca-artificial-intelligence-infrastructure-interchange": {
+      "slug": "wipo-lanca-artificial-intelligence-infrastructure-interchange",
+      "title_en": "WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual",
+      "title_pt": "WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual",
+      "tags": [
+        "propriedade-intelectual",
+        "inteligencia-artificial",
+        "wipo",
+        "inovacao",
+        "tecnologia",
+        "direito-autoral"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "WIPO lança iniciativa com 1.700 participantes e 90 especialistas para debater infraestrutura técnica de IA e PI, incluindo padrões de atribuição, watermarking e acesso a dados em escala",
+      "content_hash_en": null,
+      "content_hash_pt": "1c541170d042c7ab7750484e9b55663e870a3eb3273c8e35d87471be25aa219a",
+      "backlinks": [
+        "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
+        "claude-tag-propriedade-intelectual-empresarial",
+        "inpi-automation-roadmap-2025-2029"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-26T14:03:49.223Z"
     }
   }
 }
