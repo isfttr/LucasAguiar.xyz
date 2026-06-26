@@ -2380,3 +2380,25 @@ a { color: inherit; text-decoration: none; }
   .mo-expertise-grid { grid-template-columns: 1fr; }
 }
 .generic-page li { margin-bottom: var(--space-2); }
+
+/* Ananke social icons (footer / about / contact) — folded in from _social-icons.css */
+.ananke-socials a {
+  display: inline-block;
+  vertical-align: middle;
+  fill: currentColor;
+}
+.ananke-socials a .icon svg {
+  width: 32px;
+  height: 32px;
+}
+.ananke-socials a:hover {
+  color: rgb(107, 114, 128);
+}
+.new-window {
+  opacity: 0;
+  display: inline-block;
+  vertical-align: top;
+}
+.link-transition:hover .new-window {
+  opacity: 1;
+}

@@ -9,14 +9,14 @@
     <div class="container">
         <div class="ed-hero-grid">
             <div>
-                <div class="ed-hero-eyebrow fade-up">
+                <div class="ed-hero-eyebrow">
                     {{ if eq .Site.Language.Lang "pt" }}
                     Ensaios · Notas · Pesquisa
                     {{ else }}
                     Analysis · Strategy · Research
                     {{ end }}
                 </div>
-                <h1 class="fade-up delay-1">
+                <h1>
                     {{ if eq .Site.Language.Lang "pt" }}
                     Um diário sobre <em>química</em>,<br />
                     propriedade intelectual,<br />
@@ -27,7 +27,7 @@
                     and the craft of <em>building</em>.
                     {{ end }}
                 </h1>
-                <div class="ed-hero-meta fade-up delay-2">
+                <div class="ed-hero-meta">
                     <div>{{ if eq .Site.Language.Lang "pt" }}Por{{ else }}Written by{{ end }}<strong>Lucas F.
                             Aguiar</strong></div>
                     <div>{{ if eq .Site.Language.Lang "pt" }}Em{{ else }}Based in{{ end }}<strong>{{ if eq
@@ -37,7 +37,7 @@
                             }}</strong></div>
                 </div>
                 {{/* Hero subscribe pill */}}
-                <a href="#newsletter-band" class="ed-hero-pill fade-up delay-3"
+                <a href="#newsletter-band" class="ed-hero-pill"
                     onclick="if(typeof posthog !== 'undefined') posthog.capture('cta_clicked', { cta_name: 'newsletter_subscribe', location: 'hero_pill' })">
                     <span class="badge">{{ i18n "subscribe" }}</span>
                     {{ if eq .Site.Language.Lang "pt" }}Diagnóstico de PI grátis na resposta{{ else }}Free IP read on
@@ -45,7 +45,7 @@
                     <span class="arr">→</span>
                 </a>
             </div>
-            <div class="ed-hero-aside fade-up delay-2">
+            <div class="ed-hero-aside">
                 <span class="quote-mark">"</span>
                 {{ if eq .Site.Language.Lang "pt" }}
                 Como aprender qualquer assunto: a arte de explicar para ensinar a si mesmo e aos outros.
