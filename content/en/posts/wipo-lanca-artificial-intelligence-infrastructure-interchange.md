@@ -76,9 +76,9 @@ For Brazil, the message is clear: the debate on AI and IP is moving into technic
 
 Read also:
 
-- [Copyright in the AI era: INPI gathers international specialists to debate the challenges of artificial intelligence]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
-- [Claude Tag and the risk to corporate intellectual property]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
-- [INPI's ambitious automation roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Copyright in the AI era: INPI brings together international experts to debate the challenges of artificial intelligence]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
+- [Claude Tag and the Risk to Companies' Intellectual Property]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 
 ---
 

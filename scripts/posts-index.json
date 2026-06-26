@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T14:05:10.500Z",
+  "last_updated": "2026-06-26T15:39:34.240Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -15,7 +15,7 @@
         "tutorial"
       ],
       "description_en": "Using OpenRouter to power AI in Obsidian.",
-      "content_hash_en": "f9c7ba345c8b425a9b6e064caffd03ed7b553f2422d63f3793feff97a18e04e3",
+      "content_hash_en": "2b5c5bf95f7ba4303a3f2ba48e3de0c6a544855e4e7f41e2261c9d4bbbf6ea9b",
       "backlinks": [
         "creating-my-ai-assistant-locally",
         "anthropic-thinking-process-paper",
@@ -1200,7 +1200,7 @@
     },
     "pl-5810-2025-estudo-ministerio-saude-patentes-sus": {
       "slug": "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
-      "title_en": "PL 5810/2025: The Ministry of Health Study Projecting R$ 3 Billion in Additional Costs to SUS",
+      "title_en": "PL 5810/2025: The Study by the Ministry of Health That Projects R$ 3 Billion in Additional Costs to SUS",
       "title_pt": "PL 5810/2025: o Estudo do Ministério da Saúde Que Projeta R$ 3 Bilhões em Custos Adicionais ao SUS",
       "tags": [
         "patentes",
@@ -1216,7 +1216,7 @@
         "article"
       ],
       "description_en": "Analysis of the technical opinion from CGPR/MS on the Bill that creates a patent term adjustment mechanism and its fiscal impact on the public health system.",
-      "content_hash_en": "b492e6fed0e99356a8ef0f857380597a66d4421f94543db9e88d6c9a7f1870d1",
+      "content_hash_en": "9d1b627ea0597c2ec5ba8d94c70fd3c506e6bc06c34541e148f3aaa543b82955",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "backlog-inpi-patentes-farmaceuticas",
@@ -1227,7 +1227,7 @@
     },
     "claude-tag-propriedade-intelectual-empresarial": {
       "slug": "claude-tag-propriedade-intelectual-empresarial",
-      "title_en": "Claude Tag and the Silent Risk to Companies' Intellectual Property",
+      "title_en": "Claude Tag and the Risk to Companies' Intellectual Property",
       "title_pt": "Claude Tag e o risco à propriedade intelectual das empresas",
       "tags": [
         "propriedade-intelectual",
@@ -1241,8 +1241,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Anthropic positions Claude Tag as a 'hired coworker' that immerses itself in the company's entire context. What does this mean for know-how, trade secrets, and unpatented IP assets?",
-      "content_hash_en": "d021f7e5cbeab93cfa47c8917b3b39485fea6b7fe757e60e6af5a5855635da8e",
+      "description_en": "Anthropic positions Claude Tag as a 'colleague' that delves into the entire company context. What does this mean for know-how, trade secrets, and unpatented IP assets?",
+      "content_hash_en": "84b37939af7378185c4d8507546b854a2ce47c958d6dc397202bff07bec740df",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
@@ -1253,7 +1253,7 @@
     },
     "wipo-lanca-artificial-intelligence-infrastructure-interchange": {
       "slug": "wipo-lanca-artificial-intelligence-infrastructure-interchange",
-      "title_en": "WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual",
+      "title_en": "WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property",
       "title_pt": "WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual",
       "tags": [
         "propriedade-intelectual",
@@ -1266,15 +1266,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "WIPO lança iniciativa com 1.700 participantes e 90 especialistas para debater infraestrutura técnica de IA e PI, incluindo padrões de atribuição, watermarking e acesso a dados em escala",
-      "content_hash_en": null,
-      "content_hash_pt": "1c541170d042c7ab7750484e9b55663e870a3eb3273c8e35d87471be25aa219a",
+      "description_en": "WIPO launches initiative with 1,700 participants and 90 experts to debate AI and IP technical infrastructure, including attribution standards, watermarking, and data access at scale",
+      "content_hash_en": "3fcc86c117e7a4a2ca458858e270ec0f51f10b19da596875d5354b7aa609c592",
       "backlinks": [
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
         "claude-tag-propriedade-intelectual-empresarial",
         "inpi-automation-roadmap-2025-2029"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-26T14:03:49.223Z"
     }
   }

@@ -104,9 +104,9 @@ Companies that adopt Claude Tag with open eyes — mapping risks, segmenting cri
 
 Read also:
 
-- [Inside AI Brains: How Anthropic Deciphered Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [Copyright in the Age of AI: INPI Gathers International Experts to Debate the Challenges of Artificial Intelligence]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
-- [The AI Copy-Paste Problem: Killing Software Lock-in & Why Data Portability is Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Copyright in the AI era: INPI brings together international experts to debate the challenges of artificial intelligence]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
+- [The AI Copy-Paste Problem: Killing Software Lock-In & Why Data Portability is Key]({{< relref "posts/ai-copy-paste-problem/" >}})
 
 ---
 
