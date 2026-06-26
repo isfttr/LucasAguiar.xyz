@@ -2,7 +2,7 @@
 date: 2026-06-26T13:00:00.000Z
 draft: true
 title: 'WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property'
-description: WIPO launches initiative with 1,700 participants and 90 experts to debate AI and IP technical infrastructure, including attribution standards, watermarking, and data access at scale
+description: WIPO launches an initiative with 1,700 participants and 90 experts to discuss AI and IP technical infrastructure, including attribution standards, watermarking, and data access at scale
 featured_image: ''
 categories:
   - article
@@ -13,34 +13,34 @@ tags:
   - inovacao
   - tecnologia
   - direito-autoral
-translation_source_hash: 4745b50db7331182bbcdbf485f4993d6028d66ff39c496ba80b7c5ff2773c122
+translation_source_hash: 73c435065b27b2fb69e12d3757586e3696386b7230660fdda5bbcaabc1d79bb8
 ---
-The World Intellectual Property Organization (WIPO) launched the **Artificial Intelligence Infrastructure Interchange (AIII)** — a new global initiative that brings together governments, industry, creators, and academia to discuss technical and operational challenges at the intersection of artificial intelligence and intellectual property. The announcement, made at WIPO headquarters in Geneva, drew over 1,700 registered participants and featured speeches by the Ministers of Digital Transition of Morocco and Culture of Spain.
+The World Intellectual Property Organization (WIPO) launched the **Artificial Intelligence Infrastructure Interchange (AIII)** — a new global initiative that brings together governments, industry, creators, and academia to discuss the technical and operational challenges at the intersection of artificial intelligence and intellectual property. The announcement, made at WIPO headquarters in Geneva, drew over 1,700 registered participants and included speeches from the Ministers of Digital Transition of Morocco and Culture of Spain.
 
 <!--more-->
 
-## What is AIII?
+## What is the AIII?
 
-Unlike other WIPO forums that discuss IP policy in a broad sense, AIII is focused on **technical infrastructure**: how to build the systems, standards, and protocols that allow AI and the IP ecosystem to work together interoperably.
+Unlike other WIPO forums that discuss IP policy broadly, the AIII is focused on **technical infrastructure**: how to build the systems, standards, and protocols that allow the AI and IP ecosystems to work together interoperably.
 
-WIPO Director-General Daren Tang made a precise analogy during his opening speech: "Railways transformed economies when networks became interoperable. Music streaming scaled when the industry built the necessary metadata and rights infrastructure for content to flow efficiently through the digital ecosystem. AI is now at a similar moment."
+WIPO Director General Daren Tang made a precise analogy during his opening speech: "Railways transformed economies when networks became interoperable. Music streaming scaled when the industry built the necessary metadata and rights infrastructure for content to flow efficiently through the digital ecosystem. AI is now at a similar moment."
 
-The choice of analogy is not casual. WIPO sees AI as a technology that will only reach its transformative potential if the surrounding systems — from authorship identification to remuneration systems — evolve alongside it.
+The choice of analogy is not casual. WIPO sees AI as a technology that will only reach its transformative potential if the systems around it — from authorship identification to remuneration systems — evolve alongside it.
 
 ## Technical Exchange Network: 90 experts, one goal
 
-To support AIII's technical discussions, WIPO has established a **Technical Exchange Network** with over 90 experts from dozens of countries, covering:
+To support the technical discussions of the AIII, WIPO established a **Technical Exchange Network** with over 90 experts from dozens of countries, encompassing:
 
 - Technology companies and AI developers
 - Copyright holders
 - Individual creators
 - Academia and civil society
 
-The network's first project is ambitious: to carry out an **unprecedented mapping** of existing copyright infrastructure and the technical challenges at the intersection of AI and the creative economy. This mapping will identify priority areas for future work.
+The network's first project is ambitious: to conduct an **unprecedented mapping** of existing copyright infrastructure and the technical challenges at the intersection of AI and the creative economy. This mapping will identify priority areas for future work.
 
-## Topics under discussion
+## The topics under discussion
 
-AIII's technical agenda covers issues at the heart of the current debate on AI and IP:
+The AIII's technical agenda covers issues at the heart of the current debate on AI and IP:
 
 | Topic | Description |
 |------|-----------|
@@ -52,34 +52,34 @@ AIII's technical agenda covers issues at the heart of the current debate on AI a
 
 ## What this means for Brazil
 
-Although WIPO leads the initiative at a global level, the implications for Brazil are direct and relevant:
+While WIPO leads the initiative globally, the implications for Brazil are direct and relevant:
 
-**For INPI**, participation in AIII could mean access to technical standards that will influence how AI patents are examined and how Brazilian IP infrastructure connects to the global system. INPI has already promoted events on copyright and AI in June 2026, signaling that the topic is on the authority's radar.
+**For INPI**, participation in the AIII could mean access to technical standards that will influence how AI patents are examined and how Brazilian IP infrastructure connects to the global system. INPI has already promoted events on copyright and AI in June 2026, signaling that the topic is on the agency's radar.
 
-**For creators and rights holders**, the attribution and watermarking standards emerging from AIII could set the rules for content licensing for AI training in the coming years.
+**For creators and rights holders**, the attribution and watermarking standards that emerge from the AIII could define the rules of the game for content licensing for AI training in the coming years.
 
-**For Brazilian legislators**, the timing is particularly relevant. Bill 2.338/2023, which aims to establish Brazil's AI regulatory framework, is progressing through Congress with provisions specifically addressing copyright and text and data mining. ABPI recently published an article warning of the risks of a regulatory model that treats AI training as illicit reproduction — a debate that WIPO's initiative can help clarify with concrete technical data.
+**For the Brazilian legislator**, the timing is particularly relevant. Bill 2.338/2023, which aims to establish the regulatory framework for AI in Brazil, is progressing in Congress with provisions that specifically address copyright and text and data mining. ABPI recently published an article warning about the risks of a regulatory model that treats AI training as illicit reproduction — a debate that the WIPO initiative can help clarify with concrete technical data.
 
-> A regulatory approach that requires prior authorization for all AI training could, in practice, hinder the development of Brazilian models and push innovation abroad — as warned by ABPI specialists.
+> A regulatory approach that requires prior authorization for all AI training could, in practice, make the development of Brazilian models unfeasible and push innovation abroad — as ABPI specialists warn.
 
 ## Next steps
 
-The work of the Technical Exchange Network will be presented and discussed at the **annual public meeting of AIII**, scheduled for **October 2, 2026**, when representatives from Member States and other interested parties can provide input on the direction of the work. Companies and institutions interested in participating in the technical network can still register using the form available on the WIPO website.
+The work of the Technical Exchange Network will be presented and discussed at the **AIII's annual public meeting**, scheduled for **October 2, 2026**, where representatives from Member States and other stakeholders can provide input on the direction of the work. Companies and institutions interested in participating in the technical network can still register using the form available on the WIPO website.
 
 The date is an important milestone for those following the topic: by October, we will have the first concrete results of the copyright and AI infrastructure mapping — a document that promises to influence public policies worldwide.
 
 ## Conclusion
 
-AIII represents an important move by WIPO to shift from declarations of principle to the ground of technical infrastructure construction. By treating AI and IP as an engineering problem — and not just a legal one — the organization recognizes that the answers to AI challenges will come not only from laws and treaties, but from well-designed systems, standards, and protocols.
+The AIII represents an important move by WIPO to shift from declarations of principle to the ground of building technical infrastructure. By treating AI and IP as an engineering problem — and not just a legal one — the organization recognizes that the answers to AI challenges will not come solely from laws and treaties, but from well-designed systems, standards, and protocols.
 
-For Brazil, the message is clear: the debate on AI and IP is moving into technical territory, and those not at the table risk inheriting rules designed by others.
+For Brazil, the message is clear: the debate on AI and IP is moving into the technical arena, and those not at the table risk inheriting rules designed by others.
 
 Read also:
 
 - [Copyright in the AI era: INPI brings together international experts to debate the challenges of artificial intelligence]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
-- [Claude Tag and the Risk to Companies' Intellectual Property]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
-- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Claude Tag and the risk to companies' intellectual property]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
+- [INPI 4.0: The INPI Automation Plan (2025-2029) and the Future of Patents in Brazil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 
 ---
 
-You can get in touch to discuss this and other topics via email <contact@lucasaguiar.xyz>
+You can get in touch to discuss this and other topics at <contact@lucasaguiar.xyz>
