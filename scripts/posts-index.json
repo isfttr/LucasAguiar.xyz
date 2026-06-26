@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T19:42:24.893Z",
+  "last_updated": "2026-06-26T19:46:52.663Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1200,7 +1200,7 @@
     },
     "pl-5810-2025-estudo-ministerio-saude-patentes-sus": {
       "slug": "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
-      "title_en": "PL 5810/2025: The Study by the Ministry of Health That Projects R$ 3 Billion in Additional Costs to SUS",
+      "title_en": "PL 5810/2025: The Ministry of Health Study That Projects R$ 3 Billion in Additional Costs to SUS",
       "title_pt": "PL 5810/2025: o Estudo do Ministério da Saúde Que Projeta R$ 3 Bilhões em Custos Adicionais ao SUS",
       "tags": [
         "patentes",
@@ -1215,8 +1215,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Analysis of the technical opinion from CGPR/MS on the Bill that creates a patent term adjustment mechanism and its fiscal impact on the public health system.",
-      "content_hash_en": "9d1b627ea0597c2ec5ba8d94c70fd3c506e6bc06c34541e148f3aaa543b82955",
+      "description_en": "Analysis of the technical opinion from CGPR/MS on the Bill that creates a mechanism for patent term adjustment and its fiscal impact on the public health system.",
+      "content_hash_en": "4c487b37fbea58aa9a2461555a02109daf606e54201497c47368651343994359",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "backlog-inpi-patentes-farmaceuticas",
@@ -1267,7 +1267,7 @@
         "article"
       ],
       "description_en": "WIPO launches an initiative with 1,700 participants and 90 experts to discuss AI and IP technical infrastructure, including attribution standards, watermarking, and data access at scale",
-      "content_hash_en": "25a8a7c8fe75cc521f25c236f1429370d1a9f437bebc0c533a04d49d0332fa4d",
+      "content_hash_en": "aa72c9db7e470fcb8810b7d2083f4bf9ef1c6536b07daa274859cb69682f3d3f",
       "backlinks": [
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
         "claude-tag-propriedade-intelectual-empresarial",
@@ -1292,7 +1292,7 @@
         "article"
       ],
       "description_en": "Founder of ABPI, former president of AIPPI, and the only Brazilian in the IP Hall of Fame, Peter Dirk Siemsen leaves a legacy that shaped intellectual property in Brazil and worldwide.",
-      "content_hash_en": "e1c7d9643ab751f474bbb410b5fde8101f15723788d65f8e99807a31a4824f36",
+      "content_hash_en": "fb04f07cb8f355672d585369ae3c80693060e852b62c86d45984ae37da429fb9",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1317,7 +1317,7 @@
         "article"
       ],
       "description_en": "Complete guide to consulting patent, trademark, and industrial design processes at the INPI. Learn how to use e-INPI, the search system, and interpret progress codes.",
-      "content_hash_en": "6d3b9c00af82b3725fea7a3ffe8f79154e4f38603d0f2ace2917f6dee2bcb350",
+      "content_hash_en": "782f867b7f9b0be3aa177146e457b56090964318459bb92229de1fa6e91b6688",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-automation-roadmap-2025-2029",
@@ -1341,7 +1341,7 @@
         "article"
       ],
       "description_en": "Complete guide with all trademark registration costs at INPI in 2026: fees by class, discounts for MEI/ME, power of attorney, extension, and official links. Updated table.",
-      "content_hash_en": "3c80dd62a1e33ee32c410889d9c459b72563e4e7bfe712c3a4de9439c4acdefc",
+      "content_hash_en": "14388bb6a6d56f754b8b21fc98b804be634d3affc6bda2890476699f41e38b0e",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "como-consultar-andamento-processo-inpi",
