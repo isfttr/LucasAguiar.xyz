@@ -1,6 +1,8 @@
 ---
 title: "Blog"
 description: ""
+aliases:
+  - /posts/page/2/
 ---
 
 

@@ -12,6 +12,8 @@ tags:
   - obsidian
   - RAG
 translation_source_hash: f9c7ba345c8b425a9b6e064caffd03ed7b553f2422d63f3793feff97a18e04e3
+aliases:
+  - /posts/10_obsidian-copilot/
 ---
 Eu precisava de uma opção fácil e barata para integrar meu vault com inteligência artificial. A opção mais fácil poderia ser pagar por assinaturas, o que seria um custo alto para mim, já que eu não usaria o serviço com tanta frequência para justificar. Outra opção seria pagar por um serviço de Cloud GPU para executar grandes consultas que seriam inviáveis de executar localmente. Esta opção parecia muito complicada para o meu caso. Eventualmente, descobri o OpenRouter, que parece ser a solução mais fácil porque posso acessar vários modelos em um único lugar e também ter uma API que posso conectar a outros serviços.
 
