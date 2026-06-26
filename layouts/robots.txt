@@ -2,6 +2,9 @@ User-agent: *
 {{/* robotstxt.org - if ENV production variable is false robots will be disallowed. */ -}}
 {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  -}}
 Allow: /
+Disallow: /*.xml$
+Disallow: /tags/
+Disallow: /pt/tags/
 Sitemap: {{ "/sitemap.xml" | absURL }}
 {{ else -}}
 Disallow: /
