@@ -25,6 +25,6 @@ O modelo do dispositivo pode ser definido como `virtio` ou outros modelos, pelo 
 
 Leia também:
 
-- [Usando a camada gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Oracle Cloud Free Tier 2026: Ainda Vale a Pena? Guia Completo + Alternativas]({{< relref "posts/oracle_cloud_vps/" >}})
 - [Corrigindo Erros de Login na Interface Web do Proxmox: Guia Passo a Passo]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 - [Script para Atualizar Open WebUI em um LXC Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})

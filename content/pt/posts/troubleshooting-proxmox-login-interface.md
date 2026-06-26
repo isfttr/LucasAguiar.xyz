@@ -148,7 +148,7 @@ Implementando essas medidas preventivas, você pode reduzir significativamente o
 
 Leia também:
 
-- [Usando a camada gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Oracle Cloud Free Tier 2026: Ainda Vale a Pena? Guia Completo + Alternativas]({{< relref "posts/oracle_cloud_vps/" >}})
 - [Guia Completo: Como Integrar o Beehiiv ao Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
 - [Script para Atualizar Open WebUI em um LXC Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
 

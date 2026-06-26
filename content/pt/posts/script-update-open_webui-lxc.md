@@ -102,7 +102,7 @@ crontab -e
 Leia também:
 
 - [Corrigindo Erros de Login na Interface Web do Proxmox: Guia Passo a Passo]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
-- [Como corrigir o bug de Modelos Personalizados Ausentes]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [Open WebUI: Modelos Customizados Não Aparecem? Solução Passo a Passo [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 - [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 
 ---

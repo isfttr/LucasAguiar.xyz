@@ -548,7 +548,7 @@ Lembre-se, a segurança é um processo contínuo. Audite regularmente o uso de s
 
 Leia também:
 
-- [Usando a camada gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Oracle Cloud Free Tier 2026: Ainda Vale a Pena? Guia Completo + Alternativas]({{< relref "posts/oracle_cloud_vps/" >}})
 - [Script para Atualizar Open WebUI em um LXC Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
 - [Duas Semanas com GitButler: Simplificando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
 

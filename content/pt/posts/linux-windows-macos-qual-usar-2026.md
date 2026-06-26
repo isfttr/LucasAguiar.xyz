@@ -76,4 +76,4 @@ Leia também:
 
 - [10 anos usando o MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
 - [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
-- [Usando a camada gratuita do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Oracle Cloud Free Tier 2026: Ainda Vale a Pena? Guia Completo + Alternativas]({{< relref "posts/oracle_cloud_vps/" >}})

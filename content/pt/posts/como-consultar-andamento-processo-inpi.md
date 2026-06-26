@@ -203,9 +203,9 @@ Alguns serviços privados oferecem monitoramento de processos do INPI com alerta
 
 Leia também:
 
-- [Quanto custa registrar uma marca no INPI em 2026?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [INPI 4.0: O Plano de Automação do INPI (2025-2029)]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
-- [INPI atinge limite de cotas para trâmite prioritário de marcas]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [INPI esgota cotas de trâmite prioritário para marcas no comércio eletrônico — e agora?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
 
 ---
 

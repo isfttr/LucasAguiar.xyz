@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-26T19:23:57.192Z",
+  "last_updated": "2026-06-26T19:25:16.996Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
       "title_en": "Obsidian + Copilot",
-      "title_pt": "Obsidian + Copilot",
+      "title_pt": "Obsidian Copilot + Ollama + OpenRouter: Setup Completo e Gratuito [2026]",
       "tags": [
         "technology",
         "artificial-intelligence",
@@ -239,7 +239,7 @@
     "experience-with-cursor-and-windsurf": {
       "slug": "experience-with-cursor-and-windsurf",
       "title_en": "From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors",
-      "title_pt": "Do Cursor ao Windsurf ao Zed: Minha Jornada Através de Editores de Código Aprimorados por IA",
+      "title_pt": "Cursor vs Windsurf vs Zed 2026: Qual Editor de Código com IA é o Melhor?",
       "tags": [
         "development",
         "tools",
@@ -265,7 +265,7 @@
     "fix-custom-models-open-webui": {
       "slug": "fix-custom-models-open-webui",
       "title_en": "How to fix the Missing Custom Models bug",
-      "title_pt": "Como corrigir o bug de Modelos Personalizados Ausentes",
+      "title_pt": "Open WebUI: Modelos Customizados Não Aparecem? Solução Passo a Passo [2026]",
       "tags": [
         "open-webui",
         "fix"
@@ -385,7 +385,7 @@
     "inpi-automation-roadmap-2025-2029": {
       "slug": "inpi-automation-roadmap-2025-2029",
       "title_en": "INPI's Ambitious Automation Roadmap",
-      "title_pt": "Roteiro ambicioso de automação do INPI",
+      "title_pt": "INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil",
       "tags": [
         "intelectual property",
         "technology",
@@ -532,7 +532,7 @@
     "oracle_cloud_vps": {
       "slug": "oracle_cloud_vps",
       "title_en": "Using Oracle Cloud Free tier",
-      "title_pt": "Usando a camada gratuita do Oracle Cloud",
+      "title_pt": "Oracle Cloud Free Tier 2026: Ainda Vale a Pena? Guia Completo + Alternativas",
       "tags": [
         "linux",
         "oracle",
@@ -560,7 +560,7 @@
     "propostas_pta_patentes_2026": {
       "slug": "propostas_pta_patentes_2026",
       "title_en": "Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress",
-      "title_pt": "Patent Term Adjustment: Big Pharma perdeu na Justiça, mas o debate chegou ao Congresso",
+      "title_pt": "PTA Patentes 2026: STJ Negou Extensão, Mas o Debate Chegou ao Congresso",
       "tags": [
         "patentes",
         "STJ",
@@ -727,7 +727,7 @@
     "linux-windows-macos-qual-usar-2026": {
       "slug": "linux-windows-macos-qual-usar-2026",
       "title_en": "Linux, Windows or macOS: Which Operating System to Use in 2026?",
-      "title_pt": "Linux, Windows ou macOS: Qual Sistema Operacional Usar em 2026?",
+      "title_pt": "Linux vs Windows vs macOS 2026: Comparação Completa e Qual Escolher",
       "tags": [
         "linux",
         "macos",
@@ -898,7 +898,7 @@
     "trf2-decisao-abpi-fortalecimento-inpi": {
       "slug": "trf2-decisao-abpi-fortalecimento-inpi",
       "title_en": "TRF-2 confirms ruling that paves the way for the restructuring of INPI",
-      "title_pt": "TRF-2 confirma sentença que abre caminho para a reestruturação do INPI",
+      "title_pt": "TRF-2 Obriga União a Reestruturar o INPI: O que Isso Significa para suas Patentes?",
       "tags": [
         "inpi",
         "trf2",
@@ -1301,6 +1301,57 @@
       ],
       "backlink_source": "ai",
       "last_processed": "2026-06-26T19:23:57.191Z"
+    },
+    "como-consultar-andamento-processo-inpi": {
+      "slug": "como-consultar-andamento-processo-inpi",
+      "title_en": "Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]",
+      "title_pt": "Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]",
+      "tags": [
+        "inpi",
+        "guia",
+        "tutorial",
+        "propriedade-intelectual",
+        "patentes",
+        "marcas"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo para consultar processos de patentes, marcas e desenhos industriais no INPI. Aprenda a usar o e-INPI, o sistema de busca e a interpretar os códigos de andamento.",
+      "content_hash_en": null,
+      "content_hash_pt": "379f810edd72e7b6d4a75a70218e4a95d0f2a858efb58b278b54dc7eab37d7f3",
+      "backlinks": [
+        "quanto-custa-registrar-marca-inpi-2026",
+        "inpi-automation-roadmap-2025-2029",
+        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "quanto-custa-registrar-marca-inpi-2026": {
+      "slug": "quanto-custa-registrar-marca-inpi-2026",
+      "title_en": "Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]",
+      "title_pt": "Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]",
+      "tags": [
+        "marcas",
+        "inpi",
+        "propriedade-intelectual",
+        "guia",
+        "custos"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo com todos os custos de registro de marca no INPI em 2026: taxas por classe, descontos para MEI/ME, procuração, prorrogação e links oficiais. Tabela atualizada.",
+      "content_hash_en": null,
+      "content_hash_pt": "e4b8d9beffc1b979687b2a19cce641b9179ecdb855c2ef12766e66e56ca1b543",
+      "backlinks": [
+        "inpi-manual-marcas-alto-renome-protocolo-madri",
+        "como-consultar-andamento-processo-inpi",
+        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-26T19:25:16.996Z"
     }
   }
 }

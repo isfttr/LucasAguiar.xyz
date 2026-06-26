@@ -53,7 +53,7 @@ Aqui estão os principais bloqueios técnicos que tornam essa modificação invi
 Leia também:
 
 - [10 anos usando o MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
-- [Linux, Windows ou macOS: Qual Sistema Operacional Usar em 2026?]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
+- [Linux vs Windows vs macOS 2026: Comparação Completa e Qual Escolher]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
 - [Pensamentos sobre o hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})
 
 ---
