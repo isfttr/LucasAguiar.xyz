@@ -1,6 +1,6 @@
 ---
 date: 2026-06-24T10:00:00-03:00
-draft: true
+draft: false
 title: "INPI esgota cotas de trâmite prioritário para marcas no comércio eletrônico — e agora?"
 description: "O INPI atingiu o limite de cotas para exame prioritário de marcas na modalidade comércio eletrônico. Entenda o que isso significa para marcas que dependem do registro para vender em marketplaces."
 featured_image: ""
@@ -38,7 +38,7 @@ Além disso, existem modalidades previstas em lei específica (idosos, pessoas c
 
 A notícia em si não revela o número exato de cotas disponíveis para o quadrimestre de maio a agosto de 2026, mas o simples fato de terem se esgotado antes do fim do período demonstra a alta demanda pelo serviço. Isso reflete um fenômeno mais amplo: a formalização de marcas no Brasil cresce impulsionada pelo comércio eletrônico.
 
-Marketplaces como Mercado Livre e Shopée xigem que vendedores tenham registro de marca ou autorização do titular para comercializar determinados produtos — especialmente em categorias sensíveis como eletrônicos, perfumes e medicamentos. Sem o registro, o vendedor fica exposto a denúncias de concorrência e pode ter seu anúncio removido.
+Marketplaces como Mercado Livre e Shopee exigem que vendedores tenham registro de marca ou autorização do titular para comercializar determinados produtos — especialmente em categorias sensíveis como eletrônicos, perfumes e medicamentos. Sem o registro, o vendedor fica exposto a denúncias de concorrência e pode ter seu anúncio removido.
 
 O esgotamento das cotas revela, portanto, uma demanda reprimida: há mais empresas querendo regularizar sua marca para atuar no e-commerce do que o INPI consegue atender dentro do modelo de cotas do projeto-piloto.
 
