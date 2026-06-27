@@ -14,19 +14,19 @@ tags:
   - inovacao
   - acesso-a-saude
   - regulacao
-translation_source_hash: 2f4dcc85d27b07527678de9cddfe387eeaa8dc30654d336cc4359b169e7c2933
+translation_source_hash: ef8ea2a5c810aa0b4933f940022e9c80efd0d6cb1d1e27e9b6e91f01d2df52bb
 ---
-The Brazilian market for GLP-1-based medicines is experiencing a rare moment in pharmaceutical history: at the same time that demand is exploding — the category grew by **97.6% in the last 12 months**, reaching R$ 12.7 billion —, the patent cycle is beginning to make way for biosimilars and national similar medicines, creating a simultaneous movement of expansion and democratization of access.
+The Brazilian market for GLP-1-based drugs is experiencing a rare moment in the history of the pharmaceutical industry: at the same time that demand explodes — the category grew **97.6% in the last 12 months**, reaching R$ 12.7 billion —, the patent cycle begins to open space for biosimilars and national similar drugs, creating a simultaneous movement of expansion and democratization of access.
 
-Itaú BBA data projects that the global GLP-1 market will jump from US$ 1.8 billion to **US$ 9 billion by 2030**, with an annual growth of approximately 40%. In Brazil, the phenomenon is already palpable: 76% of the population is aware of weight loss medications, up from 70% in 2025, according to Worldpanel by Numerator. However, effective consumption is still low — only 2.4% of Brazilian households have at least one user.
+Itaú BBA data projects that the global GLP-1 market will jump from US$ 1.8 billion to **US$ 9 billion by 2030**, with an annual growth of approximately 40%. In Brazil, the phenomenon is already palpable: 76% of the population knows about weight-loss medications, an increase from 70% in 2025, according to Worldpanel by Numerator. However, effective consumption is still low — only 2.4% of Brazilian households have at least one user.
 
 The bottleneck? The price. And that's where intellectual property becomes a central force in this story.
 
 ## The role of patents in the access equation
 
-A national survey conducted by Febrafar in partnership with Instituto IFEPEC, involving 1,067 doctors from all over Brazil, reveals a worrying scenario: the current cost of GLP-1s makes treatment viable for only **28% of eligible patients**. More serious: **65% of patients discontinue use** or cannot maintain the recommended dosage due to financial limitations.
+A national survey conducted by Febrafar in partnership with Instituto IFEPEC, involving 1,067 doctors from all over Brazil, reveals a worrying scenario: the current cost of GLP-1s makes treatment viable for only **28% of eligible patients**. More seriously: **65% of patients discontinue use** or cannot maintain the recommended dosage due to financial limitations.
 
-The study indicates that a price reduction of approximately 35% could expand access for about 45% of patients. This data directly connects to the **advancement of the patent cycle** — the main catalyst for competition that can generate these reductions.
+The study indicates that a price reduction of approximately 35% could expand access to about 45% of patients. This data directly connects to the **advancement of the patent cycle** — the main catalyst for competition that can generate these reductions.
 
 The interviewed doctors point to the arrival of the first biosimilar and similar pens as an "important milestone for expanding competition, reducing costs, and democratizing access." The movement is described as "structural for the future of the category."
 
@@ -53,36 +53,36 @@ IQVIA data presented during an Eurofarma and Novo Nordisk event in São Paulo co
 | GLP-1 category growth (12 months) | **+97.6%** |
 | Total GLP-1 revenue in Brazil | **R$ 12.7 billion** |
 | Pharmaceutical retail growth (12 months) | +13% |
-| GLP-1 share in pharmaceutical retail | Rapidly growing |
+| GLP-1 share in pharmaceutical retail | Rapid growth |
 
 ## Beyond price: GLP-1 as a consumption transformer
 
-The impact of GLP-1s goes far beyond the doctor's office. A **Worldpanel by Numerator** study titled *The Health Effect* reveals that users of these medicines are changing consumption patterns in categories ranging from food and beverages to oral hygiene products.
+The impact of GLP-1s goes far beyond the doctor's office. A study by **Worldpanel by Numerator**, titled *The Health Effect*, reveals that users of these medications are changing consumption patterns in categories ranging from food and beverages to oral hygiene products.
 
-In the United Kingdom, where GLP-1 penetration in households jumped from 2.3% to 6.3% in two years, spending on mouthwash grew 20% above the non-user average, while chewing gum purchases increased by 24 percentage points — a phenomenon associated with the so-called **"Ozempic mouth"** (dry mouth and changes in breath).
+In the United Kingdom, where GLP-1 penetration in households jumped from 2.3% to 6.3% in two years, spending on mouthwash grew 20% above the average of non-users, while chewing gum purchases increased by 24 percentage points — a phenomenon associated with the so-called **"Ozempic mouth"** (dry mouth and changes in breath).
 
-According to **Close-Up International**, 41% of dermocosmetics expansion in 2025 can be attributed to the advancement of GLP-1s. "Weight loss pens are currently one of the main growth drivers, also boosting categories such as dermocosmetics and vitamins," said Filipe Campos, Market Insights leader at the company.
+According to **Close-Up International**, 41% of the growth in dermocosmetics in 2025 can be attributed to the advancement of GLP-1s. "Weight-loss pens are currently one of the main growth drivers, also boosting categories such as dermocosmetics and vitamins," stated Filipe Campos, the company's Market Insights leader.
 
-Mariane Morelli, CEO of Grupo Suppley, summarizes: "It's not just a revolution in medicines, but a revolution in consumption. People are not just using these technologies to lose weight. They are changing the way they see health, well-being, and quality of life."
+Mariane Morelli, CEO of Grupo Suppley, summarizes: "It's not just a revolution in medicines, but a revolution in consumption. People are not only using these technologies to lose weight. They are changing how they view health, well-being, and quality of life."
 
 ## What to watch in the coming months
 
 The Brazilian GLP-1 market is at a rare inflection point, where three forces converge:
 
-1.  **Patent cycle** — the expiration of key patents and the entry of biosimilars and similar medicines should accelerate competition and reduce prices, with the potential to increase access from 28% to 45% of patients, according to Febrafar;
+1.  **Patent cycle** — the expiration of key patents and the entry of biosimilars and similar drugs should accelerate competition and reduce prices, with the potential to increase access from 28% to 45% of patients, according to Febrafar;
 2.  **National capillarity** — the Eurofarma/Novo Nordisk partnership and EMS distribution expand the geographical reach of treatments;
-3.  **Cultural shift** — the perception of GLP-1 as a chronic treatment, and not just aesthetic, is transforming pharmaceutical retail and adjacent categories.
+3.  **Cultural change** — the perception of GLP-1 as a chronic, not just aesthetic, treatment is transforming pharmaceutical retail and adjacent categories.
 
-Semaglutide, described by specialists as "the most studied molecule in the history of medicine in this category, with over 60 clinical studies and approximately 50,000 patients evaluated," represents a milestone that Dr. Priscila Mattar (Novo Nordisk) calls a "medical and cultural revolution."
+Semaglutide, described by experts as "the most studied molecule in medical history in this category, with over 60 clinical studies and approximately 50,000 patients evaluated," represents a milestone that Dr. Priscila Mattar (Novo Nordisk) calls a "medical and cultural revolution."
 
-The challenge — and the opportunity — lies in transforming this clinical revolution into an access revolution. The patent system, once seen as a barrier, is beginning to show itself as a catalyst for competition. It remains to be seen whether the pace of competition will be sufficient to bring these medicines to the 65% of patients who currently abandon treatment because they cannot afford it.
+The challenge — and the opportunity — lies in transforming this clinical revolution into an access revolution. The patent system, once seen as a barrier, is beginning to prove itself a catalyst for competition. It remains to be seen if the pace of competition will be sufficient to bring these medications to the 65% of patients who currently abandon treatment because they cannot afford the costs.
 
 Read also:
 
-- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
-- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
-- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [Novo Nordisk against EMS in Court: the dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [Novo Nordisk against EMS in Court: the dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [Novo Nordisk against EMS in Court: the dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
 
 ---
 
-You can get in touch to discuss this and other topics at the email <contact@lucasaguiar.xyz>
+You can get in touch to discuss this and other topics via email <contact@lucasaguiar.xyz>
