@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T00:53:42.848Z",
+  "last_updated": "2026-06-27T01:01:11.042Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1149,7 +1149,7 @@
     "glp-1-revolucao-farmaceutica-patentes-brasil": {
       "slug": "glp-1-revolucao-farmaceutica-patentes-brasil",
       "title_en": "The GLP-1 revolution in Brazil: how patents, biosimilars, and competition are transforming the pharmaceutical market",
-      "title_pt": "A revolução do GLP-1 no Brasil: como patentes, biossimilares e concorrência estão transformando o mercado farmacêutico",
+      "title_pt": "A revolução do GLP-1 no Brasil: como patentes, biossimilares e a concorrência estão transformando o mercado farmacêutico",
       "tags": [
         "glp-1",
         "medicamentos",
@@ -1279,7 +1279,7 @@
     "peter-dirk-siemsen-legado-propriedade-intelectual": {
       "slug": "peter-dirk-siemsen-legado-propriedade-intelectual",
       "title_en": "Peter Dirk Siemsen (1943–2026): The legacy of the only Brazilian in the Intellectual Property Hall of Fame",
-      "title_pt": "Peter Dirk Siemsen (1943–2026): o legado do único brasileiro no Hall da Fama da Propriedade Intelectual",
+      "title_pt": "Peter Dirk Siemsen (1943–2026): O legado do único brasileiro no Hall da Fama da Propriedade Intelectual",
       "tags": [
         "propriedade-intelectual",
         "abpi",
@@ -1352,7 +1352,7 @@
     },
     "edital-casos-sucesso-pi-inpi-2026": {
       "slug": "edital-casos-sucesso-pi-inpi-2026",
-      "title_en": "INPI lança edital para selecionar casos de sucesso em Propriedade Intelectual [2026]",
+      "title_en": "INPI launches a call for entries to select success stories in Intellectual Property [2026]",
       "title_pt": "INPI lança edital para selecionar casos de sucesso em Propriedade Intelectual [2026]",
       "tags": [
         "inpi",
@@ -1365,15 +1365,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "Chamamento Público nº 01/2026 do INPI busca experiências brasileiras que demonstrem uso estratégico de PI — inscrições até 31 de julho de 2026.",
-      "content_hash_en": null,
-      "content_hash_pt": "932370ace95c6d3eaa743d88c5d8e60dadd6e46e640b14132632bc0d4178ff3f",
+      "description_en": "Public Call No. 01/2026 from INPI seeks Brazilian experiences that demonstrate strategic use of IP — applications until July 31, 2026.",
+      "content_hash_en": "b9a94baff1ecc6656151f05e2daaad64d37cb942bb24eb14d6a37d26f43fa647",
       "backlinks": [
         "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-27T00:53:42.847Z"
     }
   }
