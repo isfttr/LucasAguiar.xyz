@@ -135,7 +135,7 @@ trajetória?
 Leia também:
 
 - [Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [A revolução GLP-1 no Brasil: como patentes, biosimilares e concorrência estão transformando o mercado farmacêutico]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
+- [A revolução do GLP-1 no Brasil: como patentes, biossimilares e concorrência estão transformando o mercado farmacêutico]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
 - [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
 
 ---
