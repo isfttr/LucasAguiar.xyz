@@ -88,7 +88,9 @@ Para empresas que construíram vantagens competitivas a partir da PI, esta é um
 
 Leia também:
 
-- [INPI e o backlog de patentes: o que muda com o novo plano de ação]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
+- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [Direito autoral na era da IA: INPI reúne especialistas internacionais para debater os desafios da inteligência artificial]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
 
 ---
 

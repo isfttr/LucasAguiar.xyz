@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T00:52:51.145Z",
+  "last_updated": "2026-06-27T00:53:42.848Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1163,7 +1163,7 @@
         "article"
       ],
       "description_en": "With a market projected to jump from US$1.8 billion to US$9 billion by 2030, the GLP-1 patent ecosystem is redefining access, consumption, and competition in Brazil",
-      "content_hash_en": "2ba36d57fa7f54da4cc67b3ae57607a03346cb4a739a31677d0620381022990c",
+      "content_hash_en": "7a4ad0ed5e33b650aa2bb5673600aae8a548c865474d1e25b731edee9d9fe239",
       "backlinks": [
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
@@ -1189,7 +1189,7 @@
         "article"
       ],
       "description_en": "Analysis of PCT 2025 international patent data: China surges, US declines, semiconductors grow — and where does Brazil fit into this scenario?",
-      "content_hash_en": "ea80e309e8d32f70392f5498f72c12f3f30e39f755550ecd0f04f16b0bb3c716",
+      "content_hash_en": "8947a2868cd3db29a7a3d4f32b470e3fe3d4766ad819a3a2a4664b16a0410bd7",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "glp-1-revolucao-farmaceutica-patentes-brasil",
@@ -1292,7 +1292,7 @@
         "article"
       ],
       "description_en": "Founder of ABPI, former president of AIPPI, and the only Brazilian in the IP Hall of Fame, Peter Dirk Siemsen leaves a legacy that shaped intellectual property in Brazil and worldwide.",
-      "content_hash_en": "acd49f3ac1b9e74a625828b4ea1dccd80dccb84b98d4304c949fd1fc8062d532",
+      "content_hash_en": "a1a03d062918ef89cba9296c306105cf9f3e12b776f418ed961065ccfbb67fb2",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1317,7 +1317,7 @@
         "article"
       ],
       "description_en": "Complete guide to searching for patent, trademark, and industrial design processes at INPI. Learn how to use e-INPI, the search system, and interpret status codes.",
-      "content_hash_en": "df503767bdcc700515f481f13b3b8b5c8ec80d3160aaacdd021fe3fc46d06388",
+      "content_hash_en": "38135193e48c0a2244cc8356615dc3cd8e602f2d39a0722a54af7249a21e38d4",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-automation-roadmap-2025-2029",
@@ -1341,7 +1341,7 @@
         "article"
       ],
       "description_en": "Complete guide with all trademark registration costs at INPI in 2026: fees by class, discounts for MEI/ME, power of attorney, extension, and official links. Updated table.",
-      "content_hash_en": "14388bb6a6d56f754b8b21fc98b804be634d3affc6bda2890476699f41e38b0e",
+      "content_hash_en": "6b8ade967b6a92af7e34191765cc5473e87b87050aab2f66f7c1a2e054aeef6b",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "como-consultar-andamento-processo-inpi",
@@ -1349,6 +1349,32 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-06-26T19:25:16.996Z"
+    },
+    "edital-casos-sucesso-pi-inpi-2026": {
+      "slug": "edital-casos-sucesso-pi-inpi-2026",
+      "title_en": "INPI lança edital para selecionar casos de sucesso em Propriedade Intelectual [2026]",
+      "title_pt": "INPI lança edital para selecionar casos de sucesso em Propriedade Intelectual [2026]",
+      "tags": [
+        "inpi",
+        "propriedade-intelectual",
+        "patentes",
+        "marcas",
+        "inovacao",
+        "editais"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Chamamento Público nº 01/2026 do INPI busca experiências brasileiras que demonstrem uso estratégico de PI — inscrições até 31 de julho de 2026.",
+      "content_hash_en": null,
+      "content_hash_pt": "932370ace95c6d3eaa743d88c5d8e60dadd6e46e640b14132632bc0d4178ff3f",
+      "backlinks": [
+        "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi",
+        "pi-em-questao-direito-autoral-inteligencia-artificial-inpi"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-27T00:53:42.847Z"
     }
   }
 }
