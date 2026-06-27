@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T00:37:37.134Z",
+  "last_updated": "2026-06-27T00:52:51.145Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1163,7 +1163,7 @@
         "article"
       ],
       "description_en": "With a market projected to jump from US$1.8 billion to US$9 billion by 2030, the GLP-1 patent ecosystem is redefining access, consumption, and competition in Brazil",
-      "content_hash_en": "95971eb93410993df01dc7de5d601b4b7e84dcbe81f18bed6687e6e30e67fcf5",
+      "content_hash_en": "2ba36d57fa7f54da4cc67b3ae57607a03346cb4a739a31677d0620381022990c",
       "backlinks": [
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
@@ -1189,7 +1189,7 @@
         "article"
       ],
       "description_en": "Analysis of PCT 2025 international patent data: China surges, US declines, semiconductors grow — and where does Brazil fit into this scenario?",
-      "content_hash_en": "9b2bb3cf3418ebdff1bcc9b18c16c6ab9245ffecb696daae8c95ee4bdd5cb20d",
+      "content_hash_en": "ea80e309e8d32f70392f5498f72c12f3f30e39f755550ecd0f04f16b0bb3c716",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "glp-1-revolucao-farmaceutica-patentes-brasil",
@@ -1278,7 +1278,7 @@
     },
     "peter-dirk-siemsen-legado-propriedade-intelectual": {
       "slug": "peter-dirk-siemsen-legado-propriedade-intelectual",
-      "title_en": "Peter Dirk Siemsen (1943–2026): the legacy of the only Brazilian in the Intellectual Property Hall of Fame",
+      "title_en": "Peter Dirk Siemsen (1943–2026): The legacy of the only Brazilian in the Intellectual Property Hall of Fame",
       "title_pt": "Peter Dirk Siemsen (1943–2026): o legado do único brasileiro no Hall da Fama da Propriedade Intelectual",
       "tags": [
         "propriedade-intelectual",
@@ -1292,7 +1292,7 @@
         "article"
       ],
       "description_en": "Founder of ABPI, former president of AIPPI, and the only Brazilian in the IP Hall of Fame, Peter Dirk Siemsen leaves a legacy that shaped intellectual property in Brazil and worldwide.",
-      "content_hash_en": "fb04f07cb8f355672d585369ae3c80693060e852b62c86d45984ae37da429fb9",
+      "content_hash_en": "acd49f3ac1b9e74a625828b4ea1dccd80dccb84b98d4304c949fd1fc8062d532",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1303,7 +1303,7 @@
     },
     "como-consultar-andamento-processo-inpi": {
       "slug": "como-consultar-andamento-processo-inpi",
-      "title_en": "How to Consult the Progress of a Process at INPI: Step-by-Step Guide [2026]",
+      "title_en": "How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]",
       "title_pt": "Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]",
       "tags": [
         "inpi",
@@ -1316,8 +1316,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to consulting patent, trademark, and industrial design processes at the INPI. Learn how to use e-INPI, the search system, and interpret progress codes.",
-      "content_hash_en": "782f867b7f9b0be3aa177146e457b56090964318459bb92229de1fa6e91b6688",
+      "description_en": "Complete guide to searching for patent, trademark, and industrial design processes at INPI. Learn how to use e-INPI, the search system, and interpret status codes.",
+      "content_hash_en": "df503767bdcc700515f481f13b3b8b5c8ec80d3160aaacdd021fe3fc46d06388",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-automation-roadmap-2025-2029",
