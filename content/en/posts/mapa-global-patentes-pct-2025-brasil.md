@@ -76,9 +76,9 @@ For Brazil, the question remains: what will be necessary for the country to brea
 
 Read also:
 
-- [Brazil Adheres to the Budapest Treaty: What Changes for Biotechnological Patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [The GLP-1 Revolution in Brazil: How Patents, Biosimilars, and Competition Are Transforming the Pharmaceutical Market]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
-- [New Brazil Industry: R$ 57 Billion and the Bet on Pharmaceutical Sovereignty]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
+- [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
+- [The GLP-1 revolution in Brazil: how patents, biosimilars, and competition are transforming the pharmaceutical market]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
+- [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
 
 ---
 

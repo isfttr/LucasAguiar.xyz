@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T01:01:11.042Z",
+  "last_updated": "2026-06-27T14:09:28.169Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1163,7 +1163,7 @@
         "article"
       ],
       "description_en": "With a market projected to jump from US$1.8 billion to US$9 billion by 2030, the GLP-1 patent ecosystem is redefining access, consumption, and competition in Brazil",
-      "content_hash_en": "7a4ad0ed5e33b650aa2bb5673600aae8a548c865474d1e25b731edee9d9fe239",
+      "content_hash_en": "15078d364104978bb318a4f7ec0cbbc9df6157a3d6b8f2def7e7013e65238f20",
       "backlinks": [
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
@@ -1188,8 +1188,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Analysis of PCT 2025 international patent data: China surges, US declines, semiconductors grow — and where does Brazil fit into this scenario?",
-      "content_hash_en": "8947a2868cd3db29a7a3d4f32b470e3fe3d4766ad819a3a2a4664b16a0410bd7",
+      "description_en": "Analysis of PCT 2025 international patent data: China surges, US recedes, semiconductors grow — and where does Brazil fit into this scenario?",
+      "content_hash_en": "8e7a5851270228b6a111fa80e1e543a98a42e1920a4dadd4798aebbd10656e9c",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "glp-1-revolucao-farmaceutica-patentes-brasil",
@@ -1292,7 +1292,7 @@
         "article"
       ],
       "description_en": "Founder of ABPI, former president of AIPPI, and the only Brazilian in the IP Hall of Fame, Peter Dirk Siemsen leaves a legacy that shaped intellectual property in Brazil and worldwide.",
-      "content_hash_en": "a1a03d062918ef89cba9296c306105cf9f3e12b776f418ed961065ccfbb67fb2",
+      "content_hash_en": "ddc579575ea5da83c4d7d3ada8f704e7bbbaa64bf3665f0df89d5fd7b1a502e6",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1352,7 +1352,7 @@
     },
     "edital-casos-sucesso-pi-inpi-2026": {
       "slug": "edital-casos-sucesso-pi-inpi-2026",
-      "title_en": "INPI launches a call for entries to select success stories in Intellectual Property [2026]",
+      "title_en": "INPI launches call for proposals to select Intellectual Property success stories [2026]",
       "title_pt": "INPI lança edital para selecionar casos de sucesso em Propriedade Intelectual [2026]",
       "tags": [
         "inpi",
@@ -1365,8 +1365,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Public Call No. 01/2026 from INPI seeks Brazilian experiences that demonstrate strategic use of IP — applications until July 31, 2026.",
-      "content_hash_en": "b9a94baff1ecc6656151f05e2daaad64d37cb942bb24eb14d6a37d26f43fa647",
+      "description_en": "INPI's Public Call nº 01/2026 seeks Brazilian experiences that demonstrate strategic use of IP — applications until July 31, 2026.",
+      "content_hash_en": "9dc983c5e29919e962c45855eedb89df3998dc43c0bb8281a80d47b7e735eb7f",
       "backlinks": [
         "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1374,6 +1374,32 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-06-27T00:53:42.847Z"
+    },
+    "inpi-atualiza-manual-de-desenhos-industriais": {
+      "slug": "inpi-atualiza-manual-de-desenhos-industriais",
+      "title_en": "INPI atualiza Manual de Desenhos Industriais: o que muda para empresas e designers [2026]",
+      "title_pt": "INPI atualiza Manual de Desenhos Industriais: o que muda para empresas e designers [2026]",
+      "tags": [
+        "desenhos-industriais",
+        "inpi",
+        "design",
+        "propriedade-intelectual",
+        "regulacao",
+        "haia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "O INPI publicou em 26/06/2026 a mais recente atualização do Manual de Desenhos Industriais. As mudanças afetam cópias de documentos, prioridade unionista e petições de cumprimento de exigência. Entenda o impacto para depositantes.",
+      "content_hash_en": null,
+      "content_hash_pt": "b47cd2efc86a79e233cb114e59fb77a776a6097c4fd190dd5108d41213d168e7",
+      "backlinks": [
+        "inpi-manual-marcas-alto-renome-protocolo-madri",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi",
+        "inpi-diretrizes-segundo-uso-medico-patentes-quimica"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-27T14:09:28.168Z"
     }
   }
 }
