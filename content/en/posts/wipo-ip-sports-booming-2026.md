@@ -115,10 +115,11 @@ The sports IP boom is not a short-term trend — it reflects a structural transf
 
 For Brazil, the window is open. With the world's largest football ecosystem, a growing startup scene, and increasing awareness of IP as a strategic asset, the country has the raw ingredients to capture a share of this booming market.
 
-Leia também:
+Read also:
 
 - [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
+- [The GLP-1 revolution in Brazil: how patents, biosimilars, and competition are transforming the pharmaceutical market]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
 
 ---
 
