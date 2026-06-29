@@ -1,8 +1,8 @@
 ---
 date: 2026-06-28T13:00:00.000Z
-draft: true
+draft: false
 title: 'IP nos Esportes está em Expansão: Mais de 65.000 Patentes, 1,25 Milhão de Marcas Registradas e O Que Isso Significa [2026]'
-description: Dados da OMPI revelam que a PI relacionada a esportes está crescendo a quase 2x a média global. Golfe, natação e esportes de raquete lideram nos depósitos de patentes, enquanto Disney e Apple dominam as marcas registradas. Um olhar baseado em dados sobre a economia PI-esportes.
+description: 'Dados da OMPI revelam que a PI relacionada a esportes está crescendo a quase 2x a média global. Golfe, natação e esportes de raquete lideram nos depósitos de patentes, enquanto Disney e Apple dominam as marcas registradas. Um olhar baseado em dados sobre a economia PI-esportes.'
 featured_image: ''
 categories:
   - article
@@ -15,6 +15,7 @@ tags:
   - esportes
 translation_source_hash: 24751564ee2b6fd7f79d38e6b149d49fc20a1cbece8ed6cb244ee291f6887269
 ---
+
 A Organização Mundial da Propriedade Intelectual (OMPI) divulgou novos dados em 25 de abril de 2026, marcando o Dia Mundial da PI, e os números contam uma história clara: **a propriedade intelectual na indústria do esporte está crescendo a quase o dobro da taxa média global de PI.**
 
 Entre 2016 e 2025, inventores, marcas e designers depositaram:
@@ -24,8 +25,6 @@ Entre 2016 e 2025, inventores, marcas e designers depositaram:
 - **Mais de 70.000** desenhos industriais relacionados a esportes
 
 Estes não são números de nicho — eles refletem uma mudança estrutural na forma como a indústria do esporte protege e monetiza a inovação.
-
-<!--more-->
 
 ## As Taxas de Crescimento que Importam
 
@@ -100,7 +99,7 @@ Para intensificar o trabalho nesta área, a OMPI formou um **fluxo de trabalho s
 
 ## O Que Isso Significa para Inovadores e Profissionais
 
-Os dados do relatório WIPO Technology SPARK contam uma história clara: a indústria do esporte é cada vez mais uma indústria de PI. Para advogados de patentes, agentes de marcas registradas e estrategistas de inovação, isso significa:
+Segundo os dados do relatório WIPO Technology SPARK, a indústria do esporte é cada vez mais uma indústria de PI. Para advogados de patentes, agentes de marcas registradas e estrategistas de inovação, isso significa:
 
 1.  **A tecnologia esportiva é uma área de prática em crescimento** — o crescimento anual de 7,6% em patentes esportivas está bem acima da linha de base global de 4,4%, tornando-a uma especialização atraente.
 2.  **A estratégia de marcas registradas no esporte agora exige uma visão multi-indústria** — a marca esportiva de seu cliente compete por atenção não apenas com outras marcas esportivas, mas com Disney, Apple e Amazon.
@@ -119,7 +118,6 @@ Leia também:
 
 - [O Mapa Global da Inovação em 2025: Quem Está Patenteando o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
 - [OMPI lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
-- [A revolução do GLP-1 no Brasil: como patentes, biossimilares e concorrência estão transformando o mercado farmacêutico]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
 
 ---
 
