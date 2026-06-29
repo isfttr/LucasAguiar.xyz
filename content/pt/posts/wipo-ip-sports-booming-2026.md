@@ -116,8 +116,9 @@ Para o Brasil, a janela está aberta. Com o maior ecossistema de futebol do mund
 
 Leia também:
 
-- [O Mapa Global da Inovação em 2025: Quem Está Patenteando o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [OMPI lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
+- [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
+- [A revolução do GLP-1 no Brasil: como patentes, biossimilares e a concorrência estão transformando o mercado farmacêutico]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
 
 ---
 

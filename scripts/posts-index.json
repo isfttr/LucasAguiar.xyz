@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T14:10:35.571Z",
+  "last_updated": "2026-06-29T21:43:42.128Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1391,7 +1391,7 @@
         "article"
       ],
       "description_en": "The INPI published on 06/26/2026 the latest update to the Industrial Designs Manual. The changes affect document copies, unionist priority, and petitions for compliance with requirements. Understand the impact for applicants.",
-      "content_hash_en": "42751dd185770e002270795ba850788a85b4804c931c2b7469e740c0d2b1f3e8",
+      "content_hash_en": "c737cd3c5467b7f9fbbf14163a3028a0c457d3676659fb32d2b90552e81088a4",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1403,7 +1403,7 @@
     "wipo-ip-sports-booming-2026": {
       "slug": "wipo-ip-sports-booming-2026",
       "title_en": "IP in Sports is Booming: 65,000+ Patents, 1.25M Trademarks, and What It Means [2026]",
-      "title_pt": "IP in Sports is Booming: 65,000+ Patents, 1.25M Trademarks, and What It Means [2026]",
+      "title_pt": "IP nos Esportes está em Expansão: Mais de 65.000 Patentes, 1,25 Milhão de Marcas Registradas e O Que Isso Significa [2026]",
       "tags": [
         "wipo",
         "patents",
@@ -1416,13 +1416,13 @@
         "article"
       ],
       "description_en": "WIPO data reveals sports-related IP is growing at nearly 2x the global average. Golf, swimming, and racket sports lead in patent filings, while Disney and Apple dominate trademarks. A data-driven look at the IP-sports economy.",
-      "content_hash_en": "2de61d849900541d68a548ad268dd9517f51de0b80b5e6500de7448daf7cf3c7",
+      "content_hash_en": "24751564ee2b6fd7f79d38e6b149d49fc20a1cbece8ed6cb244ee291f6887269",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
         "wipo-lanca-artificial-intelligence-infrastructure-interchange",
         "glp-1-revolucao-farmaceutica-patentes-brasil"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-28T14:10:35.570Z"
     }
   }
