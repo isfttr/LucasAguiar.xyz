@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T14:06:34.825Z",
+  "last_updated": "2026-06-30T19:25:19.160Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1427,7 +1427,7 @@
     },
     "inpi-credenciamento-busca-anterioridade-patentes": {
       "slug": "inpi-credenciamento-busca-anterioridade-patentes",
-      "title_en": "INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]",
+      "title_en": "INPI will pay R$ 1.025 for patent search: accreditation guide [2026]",
       "title_pt": "INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]",
       "tags": [
         "inpi",
@@ -1439,16 +1439,42 @@
       "categories": [
         "article"
       ],
-      "description_en": "INPI publicou edital para credenciar profissionais que farão buscas de anterioridade em pedidos de patente. Saiba os requisitos, prazos e como se inscrever.",
-      "content_hash_en": null,
-      "content_hash_pt": "7ebd42661297827e0c296ff903c786b9dfc38fbdbf4174bd0e4e5207f98f570e",
+      "description_en": "INPI published a call for accreditation for professionals who will conduct prior art searches in patent applications. Learn about the requirements, deadlines, and how to apply.",
+      "content_hash_en": "0182c845175bccf1a84260eadac4bfbce17c8f7decd71cbc4daa86608f4a3beb",
       "backlinks": [
         "edital-casos-sucesso-pi-inpi-2026",
         "como-consultar-andamento-processo-inpi",
         "inpi-diretrizes-segundo-uso-medico-patentes-quimica"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-30T14:06:34.824Z"
+    },
+    "claude-science-ai-workbench-cientistas-2026": {
+      "slug": "claude-science-ai-workbench-cientistas-2026",
+      "title_en": "Anthropic lança Claude Science: um AI workbench para cientistas [2026]",
+      "title_pt": "Anthropic lança Claude Science: um AI workbench para cientistas [2026]",
+      "tags": [
+        "ia",
+        "pesquisa-cientifica",
+        "anthropic",
+        "tecnologia",
+        "inovacao",
+        "genomica",
+        "proteinas"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "A Anthropic apresentou o Claude Science, um ambiente de pesquisa integrado com mais de 60 skills científicas pré-configuradas, artefatos reprodutíveis e suporte a computação em HPC — em beta público para usuários Pro, Max, Team e Enterprise a partir de hoje.",
+      "content_hash_en": null,
+      "content_hash_pt": "e04e6e448e1a8b20a483e3c8e7f8436a03780b47b06c2743c61b489218063c22",
+      "backlinks": [
+        "anthropic-thinking-process-paper",
+        "claude-tag-propriedade-intelectual-empresarial",
+        "ai-powered-protein-sequencing"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-30T19:25:19.160Z"
     }
   }
 }

@@ -94,7 +94,9 @@ O lançamento simultâneo do Claude Sonnet 5 — que a Anthropic descreve como "
 
 Leia também:
 
-- [Anthropic lança Claude Tag: nova forma de trabalho colaborativo com IA]({{< relref "posts/" >}})
+- [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Claude Tag e o risco à propriedade intelectual das empresas]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
+- [O Que São Proteínas e Por Que o Sequenciamento de Proteínas por IA é um Divisor de Águas?]({{< relref "posts/ai-powered-protein-sequencing/" >}})
 
 ---
 
