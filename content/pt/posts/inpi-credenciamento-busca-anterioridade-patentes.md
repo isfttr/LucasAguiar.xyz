@@ -104,8 +104,9 @@ Se o piloto for bem-sucedido, o INPI pode estar pavimentando o caminho para um m
 
 Leia também:
 
-- [O backlog de patentes no INPI e o plano de combate ao atraso]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [Propostas de Patent Term Adjustment no Brasil: o que está em debate]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [INPI lança edital para selecionar casos de sucesso em Propriedade Intelectual [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
+- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
 
 ---
 

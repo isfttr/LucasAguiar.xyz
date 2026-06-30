@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T21:43:42.128Z",
+  "last_updated": "2026-06-30T14:06:34.825Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1424,6 +1424,31 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-06-28T14:10:35.570Z"
+    },
+    "inpi-credenciamento-busca-anterioridade-patentes": {
+      "slug": "inpi-credenciamento-busca-anterioridade-patentes",
+      "title_en": "INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]",
+      "title_pt": "INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]",
+      "tags": [
+        "inpi",
+        "patentes",
+        "busca-de-anterioridade",
+        "propriedade-intelectual",
+        "credenciamento"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "INPI publicou edital para credenciar profissionais que farão buscas de anterioridade em pedidos de patente. Saiba os requisitos, prazos e como se inscrever.",
+      "content_hash_en": null,
+      "content_hash_pt": "7ebd42661297827e0c296ff903c786b9dfc38fbdbf4174bd0e4e5207f98f570e",
+      "backlinks": [
+        "edital-casos-sucesso-pi-inpi-2026",
+        "como-consultar-andamento-processo-inpi",
+        "inpi-diretrizes-segundo-uso-medico-patentes-quimica"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-06-30T14:06:34.824Z"
     }
   }
 }
