@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T19:50:02.387Z",
+  "last_updated": "2026-07-01T19:54:00.594Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1503,7 +1503,7 @@
     },
     "dificuldades-acessar-google-analytics-2026": {
       "slug": "dificuldades-acessar-google-analytics-2026",
-      "title_en": "Dificuldades para Acessar o Google Analytics 2026 — VPN, Cookies, Firewall e Mais",
+      "title_en": "Difficulties Accessing Google Analytics 2026 — VPN, Cookies, Firewall, and More",
       "title_pt": "Dificuldades para Acessar o Google Analytics 2026 — VPN, Cookies, Firewall e Mais",
       "tags": [
         "google-analytics",
@@ -1515,15 +1515,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo com as 10 principais dificuldades para acessar o Google Analytics em 2026: VPN bloqueando acesso, cookies de terceiros, extensões, permissões de conta e muito mais.",
-      "content_hash_en": null,
-      "content_hash_pt": "25b2f7e880b91c71c0c18470fe06a79a4c969faacf1953278ce79289a2c45486",
+      "description_en": "Complete guide to the top 10 difficulties accessing Google Analytics in 2026: VPN blocking access, third-party cookies, extensions, account permissions, and much more.",
+      "content_hash_en": "f7b80fd41048fa1fdd7e2f1588f5a92e0a1c9e5f16dfbc067b6153d467ba4e6e",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "configuracao-whatsapp-hermes",
         "claude-tag-propriedade-intelectual-empresarial"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-01T19:50:02.387Z"
     }
   }
