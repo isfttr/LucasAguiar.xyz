@@ -34,7 +34,7 @@ O usuário interage com um **agente coordenador generalista** que tem acesso a m
 - Single-cell
 - Proteômica
 - Biologia estrutural
-- Quimioinformática
+- Química computacional
 
 Esses agentes podem criar sub-agentes especializados e interagir com agentes criados pelos próprios usuários. Um **agente revisor** dedicado verifica citações e cálculos, sinalizando e corrigindo erros automaticamente.
 
@@ -81,14 +81,6 @@ Durante os meses de beta fechado, o Claude Science foi testado por instituiçõe
 - **Desconto acadêmico:** Planos Team com preços especiais para laboratórios ativos em instituições acadêmicas e organizações de pesquisa sem fins lucrativos
 - **Programa de apoio:** Até 50 projetos "AI for Science" com até US$ 30.000 em créditos (Modal oferece até US$ 2.000 em computação adicional para projetos selecionados)
 - **Inscrições** abertas até 15 de julho de 2026, com notificação até 31 de julho. Projetos rodam de 1º de setembro a 1º de dezembro de 2026.
-
-## O que isso significa
-
-O Claude Science representa uma aposta significativa da Anthropic no mercado de pesquisa científica — um segmento que empresas como Google (com o AlphaFold) e NVIDIA (com o BioNeMo) já disputam. A diferença está na abordagem de **workbench integrado com agentes**: em vez de oferecer ferramentas isoladas para dobramento de proteínas ou análise genômica, o Claude Science unifica todo o fluxo de pesquisa em um ambiente controlado por linguagem natural, com reprodutibilidade e auditoria embutidas.
-
-Para o ecossistema brasileiro de pesquisa, a disponibilidade via acesso remoto (SSH/HPC) e o suporte a laboratórios acadêmicos com preços diferenciados são pontos relevantes — instituições como CNPEM, LNCC e redes de universidades estaduais poderão testar a plataforma sem exigir investimento inicial em infraestrutura adicional.
-
-O lançamento simultâneo do Claude Sonnet 5 — que a Anthropic descreve como "desempenho de fronteira em coding, agentes e trabalho profissional em escala" — sugere que o Claude Science é alimentado pelo modelo mais recente da empresa, o que pode dar a ele vantagens competitivas em tarefas que exigem raciocínio longo e manipulação de código científico.
 
 ---
 
