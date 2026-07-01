@@ -86,9 +86,9 @@ During the closed beta months, Claude Science was tested by research institution
 
 Read also:
 
-- [Inside AI Brains: How Anthropic Deciphered Claude's Thought Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [Claude Tag and the risk to corporate intellectual property]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
-- [What Are Proteins and Why Is AI-Powered Protein Sequencing a Game Changer?]({{< relref "posts/ai-powered-protein-sequencing/" >}})
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Claude Tag and the Risk to Companies' Intellectual Property]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
+- [What Are Proteins and Why is AI-Powered Protein Sequencing a Game Changer?]({{< relref "posts/ai-powered-protein-sequencing/" >}})
 
 ---
 

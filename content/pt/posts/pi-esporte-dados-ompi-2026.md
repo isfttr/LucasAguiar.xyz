@@ -77,7 +77,9 @@ O relatório da OMPI "Technology SPARK" confirma o que muitos profissionais de P
 
 Leia também:
 
+- [IP nos Esportes está em Expansão: Mais de 65.000 Patentes, 1,25 Milhão de Marcas Registradas e O Que Isso Significa [2026]]({{< relref "posts/wipo-ip-sports-booming-2026/" >}})
 - [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 
 ---
 
