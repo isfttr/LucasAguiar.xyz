@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T18:19:31.597Z",
+  "last_updated": "2026-07-01T18:22:29.236Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1466,7 +1466,7 @@
         "article"
       ],
       "description_en": "Anthropic introduced Claude Science, an integrated research environment with over 60 pre-configured scientific skills, reproducible artifacts, and HPC computing support — in public beta for Pro, Max, Team, and Enterprise users starting today.",
-      "content_hash_en": "f1308bcde13c35f530336041090b7e361b92f0e093caa73efea89c68d6ba69a0",
+      "content_hash_en": "b10805aa8999c81829e76cd5b8e7f996dbbb17363626a3fcf0279d9570aaaf49",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "claude-tag-propriedade-intelectual-empresarial",
@@ -1492,7 +1492,7 @@
         "article"
       ],
       "description_en": "New WIPO data shows that the use of IP in sports is growing far above the global average. Patents rise 7.6% annually. See the numbers and leading sectors.",
-      "content_hash_en": "d64a569d7ed1e297def387d0ab3933e526067022e3f3483b322d84f33c002417",
+      "content_hash_en": "804262ab027f0a780f316d5a71f1dea438b7b8aa5cdc75bdb2efa47fa2ff5070",
       "backlinks": [
         "wipo-ip-sports-booming-2026",
         "mapa-global-patentes-pct-2025-brasil",
