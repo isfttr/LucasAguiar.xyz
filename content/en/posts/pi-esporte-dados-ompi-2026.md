@@ -77,8 +77,8 @@ WIPO's "Technology SPARK" report confirms what many IP professionals already int
 
 Read also:
 
-- [IP in Sports is Booming: Over 65,000 Patents, 1.25 Million Registered Trademarks and What This Means [2026]]({{< relref "posts/wipo-ip-sports-booming-2026/" >}})
-- [The Global Innovation Map in 2025: Who is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [IP in Sports is Booming: 65,000+ Patents, 1.25M Trademarks, and What It Means [2026]]({{< relref "posts/wipo-ip-sports-booming-2026/" >}})
+- [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
 - [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 
 ---

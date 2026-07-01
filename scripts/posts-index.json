@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T14:06:04.356Z",
+  "last_updated": "2026-07-01T18:19:31.597Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1466,7 +1466,7 @@
         "article"
       ],
       "description_en": "Anthropic introduced Claude Science, an integrated research environment with over 60 pre-configured scientific skills, reproducible artifacts, and HPC computing support — in public beta for Pro, Max, Team, and Enterprise users starting today.",
-      "content_hash_en": "589ef8ffe5d06f35c08ac18e6a5c6f2ba37687af1296ac068ece51e147f3d641",
+      "content_hash_en": "f1308bcde13c35f530336041090b7e361b92f0e093caa73efea89c68d6ba69a0",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "claude-tag-propriedade-intelectual-empresarial",
@@ -1477,7 +1477,7 @@
     },
     "pi-esporte-dados-ompi-2026": {
       "slug": "pi-esporte-dados-ompi-2026",
-      "title_en": "PI no Esporte: OMPI Revela Boom de Patentes e Marcas [2026]",
+      "title_en": "IP in Sport: WIPO Reveals Patent and Trademark Boom [2026]",
       "title_pt": "PI no Esporte: OMPI Revela Boom de Patentes e Marcas [2026]",
       "tags": [
         "propriedade-intelectual",
@@ -1491,15 +1491,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "Novos dados da OMPI mostram que o uso de PI no esporte cresce muito acima da média global. Patentes sobem 7,6% ao ano. Veja os números e os setores que lideram.",
-      "content_hash_en": null,
-      "content_hash_pt": "35a102d9096cd9cea6954c937947ae68c0bc1846f708951d8917f713ec21f0a8",
+      "description_en": "New WIPO data shows that the use of IP in sports is growing far above the global average. Patents rise 7.6% annually. See the numbers and leading sectors.",
+      "content_hash_en": "d64a569d7ed1e297def387d0ab3933e526067022e3f3483b322d84f33c002417",
       "backlinks": [
         "wipo-ip-sports-booming-2026",
         "mapa-global-patentes-pct-2025-brasil",
         "wipo-lanca-artificial-intelligence-infrastructure-interchange"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-01T14:06:04.356Z"
     }
   }
