@@ -1,6 +1,6 @@
 ---
 date: 2026-06-26T10:00:00-03:00
-draft: true
+draft: false
 title: "WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual"
 description: "WIPO lança iniciativa com 1.700 participantes e 90 especialistas para debater infraestrutura técnica de IA e PI, incluindo padrões de atribuição, watermarking e acesso a dados em escala"
 featured_image: ""
@@ -16,8 +16,6 @@ tags:
 ---
 
 A Organização Mundial da Propriedade Intelectual (WIPO) lançou o **Artificial Intelligence Infrastructure Interchange (AIII)** — uma nova iniciativa global que reúne governos, indústria, criadores e academia para debater os desafios técnicos e operacionais na intersecção entre inteligência artificial e propriedade intelectual. O anúncio, feito na sede da WIPO em Genebra, contou com mais de 1.700 participantes inscritos e discursos das ministras da Transição Digital do Marrocos e da Cultura da Espanha.
-
-<!--more-->
 
 ## O que é o AIII?
 
@@ -61,18 +59,6 @@ Embora a WIPO lidere a iniciativa em nível global, as implicações para o Bras
 **Para o legislador brasileiro**, o timing é particularmente relevante. O Projeto de Lei 2.338/2023, que pretende estabelecer o marco regulatório de IA no Brasil, tramita no Congresso com dispositivos que tratam especificamente de direitos autorais e mineração de texto e dados. A ABPI publicou recentemente um artigo alertando para os riscos de um modelo regulatório que trate o treinamento de IA como reprodução ilícita — um debate que a iniciativa da WIPO pode ajudar a elucidar com dados técnicos concretos.
 
 > Uma abordagem regulatória que exija autorização prévia para todo treinamento de IA pode, na prática, inviabilizar o desenvolvimento de modelos brasileiros e empurrar a inovação para o exterior — como alertam especialistas da ABPI.
-
-## Próximos passos
-
-O trabalho da Technical Exchange Network será apresentado e discutido na **reunião pública anual do AIII**, agendada para **2 de outubro de 2026**, quando representantes dos Estados-membros e demais partes interessadas poderão dar input sobre os rumos do trabalho. Empresas e instituições interessadas em participar da rede técnica ainda podem se inscrever pelo formulário disponível no site da WIPO.
-
-A data é um marco importante para quem acompanha o tema: até outubro, teremos os primeiros resultados concretos do mapeamento de infraestrutura de direitos autorais e IA — um documento que promete influenciar políticas públicas em todo o mundo.
-
-## Conclusão
-
-O AIII representa um movimento importante da WIPO para sair do campo das declarações de princípio e entrar no terreno da construção de infraestrutura técnica. Ao tratar IA e PI como um problema de engenharia — e não apenas de direito —, a organização reconhece que as respostas para os desafios da IA não virão apenas de leis e tratados, mas de sistemas, padrões e protocolos bem desenhados.
-
-Para o Brasil, o recado é claro: o debate sobre IA e PI está se movendo para o terreno técnico, e quem não estiver na mesa corre o risco de herdar regras desenhadas por outros.
 
 Leia também:
 
