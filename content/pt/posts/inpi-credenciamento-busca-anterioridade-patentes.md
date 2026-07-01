@@ -1,6 +1,6 @@
 ---
 date: 2026-06-30T10:00:00-03:00
-draft: true
+draft: false
 title: "INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]"
 description: "INPI publicou edital para credenciar profissionais que farão buscas de anterioridade em pedidos de patente. Saiba os requisitos, prazos e como se inscrever."
 featured_image: ""
@@ -18,7 +18,6 @@ O INPI publicou em 29 de junho de 2026 o **Edital de Credenciamento Eletrônico 
 
 O modelo é simples: trabalho remoto, sem dedicação exclusiva, pagamento por entrega. Cada busca concluída vale **R$ 1.025,62**. Para quem tem formação técnica e conhecimento em propriedade industrial, é uma oportunidade concreta de atuar como prestador de serviço público sem sair de casa.
 
-<!--more-->
 
 ## O que é a busca de anterioridade e por que ela importa
 
@@ -80,25 +79,6 @@ A terceirização das buscas de anterioridade pode:
 4. **Manter a qualidade da decisão** — o examinador do INPI continua responsável pelo mérito; o credenciado fornece apenas o insumo técnico
 
 Por outro lado, há desafios. A capacitação dos profissionais credenciados precisa ser homogênea, e a ferramenta Derwent exige proficiência específica. O INPI também precisará de mecanismos de controle de qualidade para garantir que as buscas externas atendam ao padrão exigido.
-
-## Como se inscrever — passo a passo
-
-1. Verifique se atende aos requisitos de formação e idioma
-2. Faça os cursos da Academia do INPI (disponíveis no site do INPI)
-3. Conclua os cursos DL-101 e DL-318 da OMPI (gratuitos, em português)
-4. Cadastre-se no SICAF e no ComprasGov
-5. Acesse o formulário oficial do e-Pesquisa e envie sua proposta
-6. Aguarde o resultado do ciclo de avaliação
-
-Dúvidas podem ser encaminhadas para: busca_terceirizada@inpi.gov.br
-
-## O que observar nos próximos meses
-
-A primeira leva de credenciados deve ser divulgada até 12 de agosto de 2026. Até lá, é interessante monitorar:
-
-- Quantos profissionais se credenciam na primeira etapa — um indicador da atratividade do programa
-- A reação de associações como a ABPI e o CNPL sobre o modelo
-- Se o programa se expande para outras áreas ou se torna permanente após os 10 meses de vigência
 
 Se o piloto for bem-sucedido, o INPI pode estar pavimentando o caminho para um modelo híbrido de exame de patentes, combinando capacidade interna com uma rede externa de especialistas — algo que escritórios como o USPTO e o EPO já praticam há anos.
 
