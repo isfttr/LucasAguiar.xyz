@@ -1,6 +1,6 @@
 ---
 date: 2026-06-30T19:00:00-03:00
-draft: true
+draft: false
 title: "Anthropic lança Claude Science: um AI workbench para cientistas [2026]"
 description: "A Anthropic apresentou o Claude Science, um ambiente de pesquisa integrado com mais de 60 skills científicas pré-configuradas, artefatos reprodutíveis e suporte a computação em HPC — em beta público para usuários Pro, Max, Team e Enterprise a partir de hoje."
 featured_image: ""
