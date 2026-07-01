@@ -12,7 +12,7 @@ SectionPagesMenu = "main"     # this is set low for demonstrating with dummy con
 # ⚠️ Google Analytics: vazio por enquanto (desativado)
 # Para ativar, preencher com seu GA4 Measurement ID (ex: "G-XXXXXXXXXX")
 # e criar o arquivo de verificação do Google Search Console em static/
-googleAnalytics = ""
+googleAnalytics = "G-024J49KVEP"
 enableRobotsTXT = true
 
 [pagination]
