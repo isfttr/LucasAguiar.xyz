@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T19:25:19.160Z",
+  "last_updated": "2026-07-01T00:39:23.440Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1440,7 +1440,7 @@
         "article"
       ],
       "description_en": "INPI published a call for accreditation for professionals who will conduct prior art searches in patent applications. Learn about the requirements, deadlines, and how to apply.",
-      "content_hash_en": "0182c845175bccf1a84260eadac4bfbce17c8f7decd71cbc4daa86608f4a3beb",
+      "content_hash_en": "3c658464dd71aca5bb62ba12ac3bed186078b333c2c51729088fc878b91a3b22",
       "backlinks": [
         "edital-casos-sucesso-pi-inpi-2026",
         "como-consultar-andamento-processo-inpi",
@@ -1451,7 +1451,7 @@
     },
     "claude-science-ai-workbench-cientistas-2026": {
       "slug": "claude-science-ai-workbench-cientistas-2026",
-      "title_en": "Anthropic lança Claude Science: um AI workbench para cientistas [2026]",
+      "title_en": "Anthropic launches Claude Science: an AI workbench for scientists [2026]",
       "title_pt": "Anthropic lança Claude Science: um AI workbench para cientistas [2026]",
       "tags": [
         "ia",
@@ -1465,15 +1465,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "A Anthropic apresentou o Claude Science, um ambiente de pesquisa integrado com mais de 60 skills científicas pré-configuradas, artefatos reprodutíveis e suporte a computação em HPC — em beta público para usuários Pro, Max, Team e Enterprise a partir de hoje.",
-      "content_hash_en": null,
-      "content_hash_pt": "e04e6e448e1a8b20a483e3c8e7f8436a03780b47b06c2743c61b489218063c22",
+      "description_en": "Anthropic introduced Claude Science, an integrated research environment with over 60 pre-configured scientific skills, reproducible artifacts, and HPC computing support — in public beta for Pro, Max, Team, and Enterprise users starting today.",
+      "content_hash_en": "037958367b9cdfefeaa7f03751c0cf12e73f98a5f027522b493cfc1b02b0faf4",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "claude-tag-propriedade-intelectual-empresarial",
         "ai-powered-protein-sequencing"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-30T19:25:19.160Z"
     }
   }
