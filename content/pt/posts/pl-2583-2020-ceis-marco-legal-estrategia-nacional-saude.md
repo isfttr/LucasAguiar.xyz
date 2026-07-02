@@ -50,6 +50,8 @@ As empresas credenciadas terão acesso a **incentivos significativos**:
 3. **Acesso facilitado a linhas de crédito do BNDES** — com taxas competitivas, prazos ajustáveis e carência
 4. **Alíquotas diferenciadas de importação**, compatíveis com a competitividade da indústria nacional
 
+Além disso, a proposta autoriza a administração pública a realizar **licitações exclusivas** para a compra de produtos desenvolvidos por empresas estratégicas. Nas demais concorrências, poderá ser aplicada uma **margem de preferência de até 20%** sobre o preço do produto vencedor, desde que o bem nacional siga normas técnicas brasileiras e a EES consiga atender, no mínimo, **30% da quantidade contratada**.
+
 O credenciamento será feito por ato do Poder Executivo, que poderá descredenciar a empresa em caso de riscos à soberania nacional ou ao abastecimento do SUS. Haverá ainda monitoramento permanente dos preços praticados nos mercados nacional e internacional.
 
 ---
@@ -81,6 +83,18 @@ O PL 2.583/2020 teve uma tramitação longa, percorrendo comissões, substituind
 O PL 2.583/2020 não é uma peça isolada. Ele se insere na **Nova Indústria Brasil (NIB)**, o plano de política industrial do governo federal que prevê R$ 300 bilhões em investimentos até 2033. A **Missão 2** da NIB é justamente "ampliar a autonomia na produção de medicamentos, vacinas, equipamentos e insumos de saúde" — o CEIS.
 
 O que o PL faz é transformar essa missão — e o conjunto de políticas do CEIS — de iniciativas baseadas em normas infralegais (sujeitas a revisão por decreto) em **um compromisso legislativo estável**. Como destacou o senador Rogério Carvalho, essa estabilidade é o que permite ao setor privado, nacional e internacional, enxergar um horizonte de longo prazo para investir.
+
+---
+
+## Emendas e o embate com a indústria de pesquisa clínica
+
+Durante a tramitação no Senado, o projeto recebeu 29 emendas. Destas, **24 foram aprovadas**, com alterações de redação para aprimorar a técnica legislativa sem modificar o conteúdo essencial. Três foram rejeitadas nas comissões e **duas não passaram pelo plenário**.
+
+As duas emendas rejeitadas — de autoria dos senadores **Esperidião Amin (PP/SC)** e **Jorge Kajuru (PSB/GO)** — pediam a ampliação dos critérios de credenciamento de EES para incluir empresas dedicadas exclusivamente à **pesquisa clínica e inovação tecnológica**, mesmo sem parque industrial ou atividade fabril no Brasil.
+
+O relator **Rogério Carvalho** defendeu a rejeição: "Ao dispensar a exigência de instalação industrial no país e admitir a mera comercialização como critério de credenciamento de empresas estratégicas de saúde, a proposta desvincula os incentivos públicos previstos, que são justamente para a efetiva internalização de capacidade produtiva e o domínio de processos fabris em território nacional".
+
+A **Interfarma** (Associação da Indústria Farmacêutica de Pesquisa) manifestou preocupação, avaliando que a rejeição "tende a desestimular novos aportes, reduzir a competitividade do Brasil e comprometer o acesso de pacientes a estudos clínicos e a terapias inovadoras, bem como limitar o desenvolvimento de centros de pesquisa clínica e de profissionais na área". Carvalho rebateu afirmando que empresas de pesquisa clínica continuam contempladas em outras modalidades da política, mas que o núcleo do PL é a internalização de capacidade produtiva física no país.
 
 ---
 
