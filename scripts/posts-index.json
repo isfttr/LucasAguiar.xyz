@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T19:54:00.594Z",
+  "last_updated": "2026-07-02T11:21:54.497Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1503,7 +1503,7 @@
     },
     "dificuldades-acessar-google-analytics-2026": {
       "slug": "dificuldades-acessar-google-analytics-2026",
-      "title_en": "Difficulties Accessing Google Analytics 2026 — VPN, Cookies, Firewall, and More",
+      "title_en": "Difficulties Accessing Google Analytics 2026 — VPN, Cookies, Firewall and More",
       "title_pt": "Dificuldades para Acessar o Google Analytics 2026 — VPN, Cookies, Firewall e Mais",
       "tags": [
         "google-analytics",
@@ -1515,8 +1515,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to the top 10 difficulties accessing Google Analytics in 2026: VPN blocking access, third-party cookies, extensions, account permissions, and much more.",
-      "content_hash_en": "f7b80fd41048fa1fdd7e2f1588f5a92e0a1c9e5f16dfbc067b6153d467ba4e6e",
+      "description_en": "Complete guide with the 10 main difficulties to access Google Analytics in 2026: VPN blocking access, third-party cookies, extensions, account permissions, and much more.",
+      "content_hash_en": "45c24340e04a1088f240d6108e1dc1cf34029737d499ee7e9e178825d2cb5ffa",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "configuracao-whatsapp-hermes",
@@ -1524,6 +1524,31 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-01T19:50:02.387Z"
+    },
+    "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude": {
+      "slug": "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude",
+      "title_en": "PL 2.583/2020 é aprovado no Senado e cria marco legal do Complexo Industrial da Saúde [2026]",
+      "title_pt": "PL 2.583/2020 é aprovado no Senado e cria marco legal do Complexo Industrial da Saúde [2026]",
+      "tags": [
+        "politica-industrial",
+        "ceis",
+        "sus",
+        "inovacao",
+        "legislacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "O projeto que institui a Estratégia Nacional de Saúde como política permanente de Estado para reduzir a dependência externa de medicamentos, vacinas e insumos médicos segue para sanção presidencial após seis anos de tramitação.",
+      "content_hash_en": null,
+      "content_hash_pt": "4f375a85b634f4b37ac795b6d6b9c1ddf7abaa7d764e793d984ea97a987f9653",
+      "backlinks": [
+        "nova-industria-brasil-saude-patentes",
+        "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
+        "glp-1-revolucao-farmaceutica-patentes-brasil"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-02T11:21:54.496Z"
     }
   }
 }

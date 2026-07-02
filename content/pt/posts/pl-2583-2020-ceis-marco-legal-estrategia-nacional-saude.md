@@ -106,7 +106,8 @@ O Brasil já demonstrou, em momentos críticos como a pandemia, que a capacidade
 Leia também:
 
 - [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
-- [Nova Indústria Brasil ganha mais R$ 140 bilhões e inclui inteligência artificial]({{< relref "posts/nib-r140-bilhoes-ia-historico-politica-industrial/" >}})
+- [PL 5810/2025: o Estudo do Ministério da Saúde Que Projeta R$ 3 Bilhões em Custos Adicionais ao SUS]({{< relref "posts/pl-5810-2025-estudo-ministerio-saude-patentes-sus/" >}})
+- [A revolução do GLP-1 no Brasil: como patentes, biossimilares e a concorrência estão transformando o mercado farmacêutico]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
 
 ---
 
