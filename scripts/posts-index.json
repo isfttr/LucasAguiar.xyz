@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T11:21:54.497Z",
+  "last_updated": "2026-07-02T11:23:20.089Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1516,7 +1516,7 @@
         "article"
       ],
       "description_en": "Complete guide with the 10 main difficulties to access Google Analytics in 2026: VPN blocking access, third-party cookies, extensions, account permissions, and much more.",
-      "content_hash_en": "45c24340e04a1088f240d6108e1dc1cf34029737d499ee7e9e178825d2cb5ffa",
+      "content_hash_en": "3af59de576626cb9a0922b6aac2e3e65b2a038caba2bc647b6179812db93427c",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "configuracao-whatsapp-hermes",
@@ -1527,7 +1527,7 @@
     },
     "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude": {
       "slug": "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude",
-      "title_en": "PL 2.583/2020 é aprovado no Senado e cria marco legal do Complexo Industrial da Saúde [2026]",
+      "title_en": "PL 2.583/2020 is approved by the Senate and creates a legal framework for the Health Industrial Complex [2026]",
       "title_pt": "PL 2.583/2020 é aprovado no Senado e cria marco legal do Complexo Industrial da Saúde [2026]",
       "tags": [
         "politica-industrial",
@@ -1539,15 +1539,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "O projeto que institui a Estratégia Nacional de Saúde como política permanente de Estado para reduzir a dependência externa de medicamentos, vacinas e insumos médicos segue para sanção presidencial após seis anos de tramitação.",
-      "content_hash_en": null,
-      "content_hash_pt": "4f375a85b634f4b37ac795b6d6b9c1ddf7abaa7d764e793d984ea97a987f9653",
+      "description_en": "The bill that establishes the National Health Strategy as a permanent state policy to reduce external dependence on medicines, vaccines, and medical supplies goes for presidential sanction after six years of deliberation.",
+      "content_hash_en": "144380264ca90a98bf7eed3b9eb03f388c067a7ab4b949d82ea8879683a97b6d",
       "backlinks": [
         "nova-industria-brasil-saude-patentes",
         "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
         "glp-1-revolucao-farmaceutica-patentes-brasil"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-02T11:21:54.496Z"
     }
   }

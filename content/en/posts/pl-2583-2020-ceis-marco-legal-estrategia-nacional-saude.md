@@ -105,8 +105,8 @@ Brazil has already demonstrated, in critical moments such as the pandemic, that 
 
 Read also:
 
-- [Nova Indústria Brasil: R$ 57 billion and the bet on pharmaceutical sovereignty]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
-- [Bill 5810/2025: The Ministry of Health Study That Projects R$ 3 Billion in Additional Costs to the SUS]({{< relref "posts/pl-5810-2025-estudo-ministerio-saude-patentes-sus/" >}})
+- [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
+- [PL 5810/2025: The Ministry of Health Study That Projects R$ 3 Billion in Additional Costs to SUS]({{< relref "posts/pl-5810-2025-estudo-ministerio-saude-patentes-sus/" >}})
 - [The GLP-1 revolution in Brazil: how patents, biosimilars, and competition are transforming the pharmaceutical market]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
 
 ---
