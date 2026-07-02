@@ -1,6 +1,6 @@
 ---
 date: 2026-07-02T14:00:00-03:00
-draft: true
+draft: false
 title: "PL 2.583/2020 é aprovado no Senado e cria marco legal do Complexo Industrial da Saúde [2026]"
 description: "O projeto que institui a Estratégia Nacional de Saúde como política permanente de Estado para reduzir a dependência externa de medicamentos, vacinas e insumos médicos segue para sanção presidencial após seis anos de tramitação."
 featured_image: ""
@@ -56,7 +56,7 @@ O credenciamento será feito por ato do Poder Executivo, que poderá descredenci
 
 ---
 
-## Por que isso importa — o problema da dependência externa
+## O problema que o PL busca resolver é a dependência externa do setor de saúde
 
 O Brasil importa cerca de **90% dos insumos farmacêuticos ativos (IFAs)** utilizados na produção de medicamentos, e o déficit comercial do setor de saúde ultrapassa **US$ 10 bilhões anuais**. A dependência é especialmente crítica em medicamentos de alta complexidade — oncológicos, biológicos — e em equipamentos de alta tecnologia, como tomógrafos e ressonância magnética.
 
@@ -64,7 +64,7 @@ A pandemia de COVID-19 expôs dramaticamente essa vulnerabilidade. O país enfre
 
 ---
 
-## A tramitação — seis anos até a aprovação
+## A tramitação — o caminho até a aprovação
 
 O PL 2.583/2020 teve uma tramitação longa, percorrendo comissões, substituindo relatores e acumulando pareceres ao longo de seis anos:
 
@@ -78,23 +78,11 @@ O PL 2.583/2020 teve uma tramitação longa, percorrendo comissões, substituind
 
 ---
 
-## A relação com a Nova Indústria Brasil (NIB)
-
-O PL 2.583/2020 não é uma peça isolada. Ele se insere na **Nova Indústria Brasil (NIB)**, o plano de política industrial do governo federal que prevê R$ 300 bilhões em investimentos até 2033. A **Missão 2** da NIB é justamente "ampliar a autonomia na produção de medicamentos, vacinas, equipamentos e insumos de saúde" — o CEIS.
-
-O que o PL faz é transformar essa missão — e o conjunto de políticas do CEIS — de iniciativas baseadas em normas infralegais (sujeitas a revisão por decreto) em **um compromisso legislativo estável**. Como destacou o senador Rogério Carvalho, essa estabilidade é o que permite ao setor privado, nacional e internacional, enxergar um horizonte de longo prazo para investir.
-
----
-
 ## Emendas e o embate com a indústria de pesquisa clínica
 
 Durante a tramitação no Senado, o projeto recebeu 29 emendas. Destas, **24 foram aprovadas**, com alterações de redação para aprimorar a técnica legislativa sem modificar o conteúdo essencial. Três foram rejeitadas nas comissões e **duas não passaram pelo plenário**.
 
-As duas emendas rejeitadas — de autoria dos senadores **Esperidião Amin (PP/SC)** e **Jorge Kajuru (PSB/GO)** — pediam a ampliação dos critérios de credenciamento de EES para incluir empresas dedicadas exclusivamente à **pesquisa clínica e inovação tecnológica**, mesmo sem parque industrial ou atividade fabril no Brasil.
-
 O relator **Rogério Carvalho** defendeu a rejeição: "Ao dispensar a exigência de instalação industrial no país e admitir a mera comercialização como critério de credenciamento de empresas estratégicas de saúde, a proposta desvincula os incentivos públicos previstos, que são justamente para a efetiva internalização de capacidade produtiva e o domínio de processos fabris em território nacional".
-
-A **Interfarma** (Associação da Indústria Farmacêutica de Pesquisa) manifestou preocupação, avaliando que a rejeição "tende a desestimular novos aportes, reduzir a competitividade do Brasil e comprometer o acesso de pacientes a estudos clínicos e a terapias inovadoras, bem como limitar o desenvolvimento de centros de pesquisa clínica e de profissionais na área". Carvalho rebateu afirmando que empresas de pesquisa clínica continuam contempladas em outras modalidades da política, mas que o núcleo do PL é a internalização de capacidade produtiva física no país.
 
 ---
 
