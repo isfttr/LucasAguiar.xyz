@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T11:23:20.089Z",
+  "last_updated": "2026-07-02T14:05:48.350Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1527,7 +1527,7 @@
     },
     "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude": {
       "slug": "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude",
-      "title_en": "PL 2.583/2020 is approved by the Senate and creates a legal framework for the Health Industrial Complex [2026]",
+      "title_en": "Bill 2,583/2020 is approved in the Senate and creates a legal framework for the Health Industrial Complex [2026]",
       "title_pt": "PL 2.583/2020 é aprovado no Senado e cria marco legal do Complexo Industrial da Saúde [2026]",
       "tags": [
         "politica-industrial",
@@ -1539,8 +1539,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "The bill that establishes the National Health Strategy as a permanent state policy to reduce external dependence on medicines, vaccines, and medical supplies goes for presidential sanction after six years of deliberation.",
-      "content_hash_en": "144380264ca90a98bf7eed3b9eb03f388c067a7ab4b949d82ea8879683a97b6d",
+      "description_en": "The bill that establishes the National Health Strategy as a permanent state policy to reduce external dependence on medicines, vaccines, and medical supplies proceeds to presidential sanction after six years of deliberation.",
+      "content_hash_en": "58194cf01544d177cdc06e9db1e29e1ebb42462b7d320d597724d460b47610c8",
       "backlinks": [
         "nova-industria-brasil-saude-patentes",
         "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
@@ -1548,6 +1548,31 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-02T11:21:54.496Z"
+    },
+    "inpi-modulo-servicos-patentes-novas-funcionalidades-2026": {
+      "slug": "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
+      "title_en": "INPI lança nova versão do Módulo de Patentes: o que muda em 2026",
+      "title_pt": "INPI lança nova versão do Módulo de Patentes: o que muda em 2026",
+      "tags": [
+        "patentes",
+        "inpi",
+        "inovacao",
+        "tecnologia",
+        "propriedade-intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "O INPI anuncia novas funcionalidades do Módulo de Serviços de Patentes: depósito exclusivo de pedidos, anuidades integradas e o fim do Peticionamento Eletrônico para patentes. Confira o cronograma completo.",
+      "content_hash_en": null,
+      "content_hash_pt": "e1c9819be2f0e5deaeaabcd56b1f5fd96e495f8fbd85df068200ae30ef78c313",
+      "backlinks": [
+        "inpi-automation-roadmap-2025-2029",
+        "inpi-automation-roadmap-2025-2029",
+        "como-consultar-andamento-processo-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }
