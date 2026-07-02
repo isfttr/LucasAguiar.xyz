@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T14:05:48.350Z",
+  "last_updated": "2026-07-02T17:16:31.047Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1540,7 +1540,7 @@
         "article"
       ],
       "description_en": "The bill that establishes the National Health Strategy as a permanent state policy to reduce external dependence on medicines, vaccines, and medical supplies proceeds to presidential sanction after six years of deliberation.",
-      "content_hash_en": "58194cf01544d177cdc06e9db1e29e1ebb42462b7d320d597724d460b47610c8",
+      "content_hash_en": "8e06dd4ef30859332e624af86b7c8fd725702b083f482341f358ba7a1307cb56",
       "backlinks": [
         "nova-industria-brasil-saude-patentes",
         "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
@@ -1551,7 +1551,7 @@
     },
     "inpi-modulo-servicos-patentes-novas-funcionalidades-2026": {
       "slug": "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
-      "title_en": "INPI lança nova versão do Módulo de Patentes: o que muda em 2026",
+      "title_en": "INPI launches new version of the Patent Module: what changes in 2026",
       "title_pt": "INPI lança nova versão do Módulo de Patentes: o que muda em 2026",
       "tags": [
         "patentes",
@@ -1563,13 +1563,12 @@
       "categories": [
         "article"
       ],
-      "description_en": "O INPI anuncia novas funcionalidades do Módulo de Serviços de Patentes: depósito exclusivo de pedidos, anuidades integradas e o fim do Peticionamento Eletrônico para patentes. Confira o cronograma completo.",
-      "content_hash_en": null,
-      "content_hash_pt": "e1c9819be2f0e5deaeaabcd56b1f5fd96e495f8fbd85df068200ae30ef78c313",
+      "description_en": "INPI announces new features for the Patent Services Module: exclusive filing of applications, integrated annuities, and the end of Electronic Filing for patents. Check the complete schedule.",
+      "content_hash_en": "352fea6aa17dfcf7b53b9ac201d668e1d14b6fbd08c13263e083e101720059d4",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "inpi-automation-roadmap-2025-2029",
-        "como-consultar-andamento-processo-inpi"
+        "inpi-automation-roadmap-2025-2029"
       ],
       "backlink_source": "file",
       "last_processed": null
