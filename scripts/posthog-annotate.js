@@ -45,7 +45,11 @@ function gitShow(sha, file) {
 function getChangedPostFiles() {
   const dirArgs = POST_DIRS.map((d) => `"${d}"`).join(' ');
   const out = execSync(`git diff --name-only ${BEFORE_SHA} ${AFTER_SHA} -- ${dirArgs}`, { encoding: 'utf8' });
-  return out.split('\n').map((s) => s.trim()).filter((f) => f.endsWith('.md'));
+  return out
+    .split('\n')
+    .map((s) => s.trim())
+    // .md de post, ignorando a página de seção (_index.md, "Blog").
+    .filter((f) => f.endsWith('.md') && path.basename(f) !== '_index.md');
 }
 
 // pt/en a partir de content/<lang>/posts/...
