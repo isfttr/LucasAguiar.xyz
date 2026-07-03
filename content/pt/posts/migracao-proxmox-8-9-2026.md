@@ -1,6 +1,6 @@
 ---
 date: 2026-07-03T10:00:00-03:00
-draft: true
+draft: false
 title: "Como migrar do Proxmox VE 8 para o 9: guia passo a passo [2026]"
 description: "Guia completo de migração do Proxmox VE 8 (base Debian 12) para o Proxmox VE 9 (Debian 13 Trixie): repositórios, upgrade do kernel 6.14, ZFS 2.3, pitfalls comuns e verificação pós-upgrade."
 featured_image: ""
@@ -215,8 +215,6 @@ Nunca tente fazer upgrade de todos os nós simultaneamente — você pode perder
 ---
 
 ## Considerações finais
-
-A migração do PVE 8 para o 9 é um upgrade inline: não há downgrade oficial. Por isso, teste sempre em ambiente isolado antes de migrar produção. O tempo estimado por nó é de 20 a 40 minutos, dependendo da velocidade de disco e rede.
 
 Se você encontra erros durante o upgrade, o fórum oficial do Proxmox e a [documentação de upgrade](https://pve.proxmox.com/wiki/Upgrade_from_8_to_9) são as melhores fontes de referência.
 
