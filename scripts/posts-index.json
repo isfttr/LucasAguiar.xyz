@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T21:22:59.553Z",
+  "last_updated": "2026-07-03T21:29:10.190Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1589,7 +1589,7 @@
         "article"
       ],
       "description_en": "The INPI Technological Radar reveals the complete profile of industrial property use in Espírito Santo: who files, in which areas, and how the state positions itself in innovation.",
-      "content_hash_en": "19b2702c7ff6f66f24198b2608470e64b4469f87df1da0626b540d162c05b112",
+      "content_hash_en": "1e116e52c5daf5050d559920c4e35447c56f1d23ef49d52cbdf7f47b2560b9e7",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
         "mapa-global-patentes-pct-2025-brasil",
@@ -1613,8 +1613,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete migration guide from Proxmox VE 8 (Debian 12 base) to Proxmox VE 9 (Debian 13 Trixie): repositories, kernel 6.14 upgrade, ZFS 2.3, common pitfalls, and post-upgrade verification.",
-      "content_hash_en": "08ad169eb1c273c12b806272c02b3958946a1aa88313ac2670a41358706fb5ef",
+      "description_en": "Complete guide to migrating from Proxmox VE 8 (Debian 12-based) to Proxmox VE 9 (Debian 13 Trixie): repositories, kernel 6.14 upgrade, ZFS 2.3, common pitfalls and post-upgrade verification.",
+      "content_hash_en": "15998b5dd265b866500f88eee2af45f4bb5c6b2beca50d9d2756aad845fb34dd",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "proxmox-backup-server-community-scripts-2026",
@@ -1639,7 +1639,7 @@
         "article"
       ],
       "description_en": "Complete guide to install Proxmox Backup Server (PBS) using community-scripts in an LXC container, configure datastore, integrate with Proxmox VE and automate backups with schedule and integrity verification.",
-      "content_hash_en": "751d09a9b45c9043421ddf9128796f1dd7117484aaae1a22e1c30a4a1a107187",
+      "content_hash_en": "422ec5597d5468bb5b13a9eeab481c05430894ed8507a521fafcfe6ac60c719d",
       "backlinks": [
         "proxmox-mac-mini-2018-t2",
         "troubleshooting-proxmox-login-interface",
