@@ -231,6 +231,13 @@ See also:
 - [Fixing Login Errors on the Proxmox Web Interface: Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 - [Script to Update Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
 
+
+Read also:
+
+- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Script for Updating Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
+
 ---
 
 You can get in touch to talk about this and other topics at <contact@lucasaguiar.xyz>

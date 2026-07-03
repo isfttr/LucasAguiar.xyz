@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T21:13:52.336Z",
+  "last_updated": "2026-07-03T21:22:59.553Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1575,7 +1575,7 @@
     },
     "inpi-radar-pi-espirito-santo-2026": {
       "slug": "inpi-radar-pi-espirito-santo-2026",
-      "title_en": "INPI maps IP in ES: 519 patents, 68 thousand trademarks, and 11 GIs [2026]",
+      "title_en": "INPI maps IP in ES: 519 patents, 68 thousand trademarks and 11 GIs [2026]",
       "title_pt": "INPI mapeia PI no ES: 519 patentes, 68 mil marcas e 11 IGs [2026]",
       "tags": [
         "inpi",
@@ -1589,7 +1589,7 @@
         "article"
       ],
       "description_en": "The INPI Technological Radar reveals the complete profile of industrial property use in Espírito Santo: who files, in which areas, and how the state positions itself in innovation.",
-      "content_hash_en": "8d6e8522f3aa291a5e5d463a0e082abc4e62a5669a5e5db2293cf90ee2ecddcb",
+      "content_hash_en": "19b2702c7ff6f66f24198b2608470e64b4469f87df1da0626b540d162c05b112",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
         "mapa-global-patentes-pct-2025-brasil",
@@ -1600,7 +1600,7 @@
     },
     "migracao-proxmox-8-9-2026": {
       "slug": "migracao-proxmox-8-9-2026",
-      "title_en": "Como migrar do Proxmox VE 8 para o 9: guia passo a passo [2026]",
+      "title_en": "How to migrate from Proxmox VE 8 to 9: step-by-step guide [2026]",
       "title_pt": "Como migrar do Proxmox VE 8 para o 9: guia passo a passo [2026]",
       "tags": [
         "proxmox",
@@ -1613,20 +1613,19 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo de migração do Proxmox VE 8 (base Debian 12) para o Proxmox VE 9 (Debian 13 Trixie): repositórios, upgrade do kernel 6.14, ZFS 2.3, pitfalls comuns e verificação pós-upgrade.",
-      "content_hash_en": null,
-      "content_hash_pt": "fe65475e5cf7a26ba095608777f9adbd3ba1446d39111a2e5af3d506001e319f",
+      "description_en": "Complete migration guide from Proxmox VE 8 (Debian 12 base) to Proxmox VE 9 (Debian 13 Trixie): repositories, kernel 6.14 upgrade, ZFS 2.3, common pitfalls, and post-upgrade verification.",
+      "content_hash_en": "08ad169eb1c273c12b806272c02b3958946a1aa88313ac2670a41358706fb5ef",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "proxmox-backup-server-community-scripts-2026",
         "proxmox-mac-mini-2018-t2"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-03T21:13:52.335Z"
     },
     "proxmox-backup-server-community-scripts-2026": {
       "slug": "proxmox-backup-server-community-scripts-2026",
-      "title_en": "Proxmox Backup Server: instalação via community-scripts e configuração de backups [2026]",
+      "title_en": "Proxmox Backup Server: installation via community-scripts and backup configuration [2026]",
       "title_pt": "Proxmox Backup Server: instalação via community-scripts e configuração de backups [2026]",
       "tags": [
         "proxmox",
@@ -1639,9 +1638,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo para instalar o Proxmox Backup Server (PBS) usando community-scripts em um LXC container, configurar datastore, integrar com o Proxmox VE e automatizar backups com schedule e verificação de integridade.",
-      "content_hash_en": null,
-      "content_hash_pt": "0a4d33bd492884b606f4e3b78d413ef4ad19e081f1d6f7eb0dbce9e878931d4f",
+      "description_en": "Complete guide to install Proxmox Backup Server (PBS) using community-scripts in an LXC container, configure datastore, integrate with Proxmox VE and automate backups with schedule and integrity verification.",
+      "content_hash_en": "751d09a9b45c9043421ddf9128796f1dd7117484aaae1a22e1c30a4a1a107187",
       "backlinks": [
         "proxmox-mac-mini-2018-t2",
         "troubleshooting-proxmox-login-interface",
