@@ -41,6 +41,7 @@ jobs:
         
       - name: Run Translation Script
         env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: npm run translate
         

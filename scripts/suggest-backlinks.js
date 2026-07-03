@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 const matter = require('gray-matter');
-const { GoogleGenerativeAI } = require('@google/generative-ai');
+const { callDeepSeek, callGemini, deepseekClient, geminiModel, isRateLimit } = require('./ai');
 const { PostHog } = require('posthog-node');
 
 const posthog = new PostHog(process.env.POSTHOG_API_KEY, {
@@ -14,13 +14,12 @@ const posthog = new PostHog(process.env.POSTHOG_API_KEY, {
 });
 const POSTHOG_DISTINCT_ID = 'suggest-backlinks-script';
 
-if (!process.env.GEMINI_API_KEY) {
-  console.error('Error: GEMINI_API_KEY is not set in .env');
+if (!deepseekClient && !geminiModel) {
+  console.error('Error: nenhum provedor de IA configurado (defina DEEPSEEK_API_KEY e/ou GEMINI_API_KEY em .env)');
   process.exit(1);
 }
-
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
+if (!deepseekClient) console.warn('DEEPSEEK_API_KEY ausente — usando apenas Gemini.');
+if (!geminiModel) console.warn('GEMINI_API_KEY ausente — fallback indisponível.');
 
 const EN_DIR = path.join(__dirname, '../content/en/posts');
 const PT_DIR = path.join(__dirname, '../content/pt/posts');
@@ -91,7 +90,7 @@ function applyBacklinksToFile(filePath, slugs, allPosts, lang) {
   fs.writeFileSync(filePath, fm + body, 'utf8');
 }
 
-async function suggestBacklinks(targetSlug, targetPost, allPosts, retries = 5) {
+async function suggestWithProvider(callFn, providerName, targetSlug, targetPost, allPosts, retries = 5) {
   const candidates = Object.values(allPosts)
     .filter((p) => p.slug !== targetSlug)
     .map((p) => ({
@@ -120,8 +119,7 @@ Example: ["slug-a","slug-b","slug-c"]`;
   for (let i = 0; i < retries; i++) {
     try {
       await sleep(2000);
-      const result = await model.generateContent(prompt);
-      let output = result.response.text().trim();
+      let output = (await callFn(prompt)).trim();
       // Strip potential markdown fences
       output = output.replace(/^```(?:json)?\n?/, '').replace(/\n?```$/, '');
       const parsed = JSON.parse(output);
@@ -132,23 +130,41 @@ Example: ["slug-a","slug-b","slug-c"]`;
       ) {
         return parsed;
       }
-      console.warn(`Invalid response for ${targetSlug}: ${output}`);
+      console.warn(`[${providerName}] Invalid response for ${targetSlug}: ${output}`);
       return null;
     } catch (e) {
-      if (e.message && e.message.includes('429 Too Many Requests')) {
+      if (isRateLimit(e)) {
         let delayMs = 30000;
-        const match = e.message.match(/retry in (\d+(\.\d+)?)s/);
+        const match = e.message && e.message.match(/retry in (\d+(\.\d+)?)s/);
         if (match) delayMs = (parseFloat(match[1]) + 5) * 1000;
-        console.warn(`Rate limit hit. Waiting ${delayMs / 1000}s before retry ${i + 1}/${retries}...`);
+        console.warn(`[${providerName}] Rate limit hit. Waiting ${delayMs / 1000}s before retry ${i + 1}/${retries}...`);
         await sleep(delayMs);
       } else {
-        console.error(`AI call failed for ${targetSlug}: ${e.message}`);
+        console.error(`[${providerName}] AI call failed for ${targetSlug}: ${e.message}`);
         posthog.captureException(e, POSTHOG_DISTINCT_ID);
         return null;
       }
     }
   }
   return null;
+}
+
+// DeepSeek is the primary provider; fall back to Gemini for this slug if DeepSeek
+// returns null (API error, persistent rate-limit, or an invalid/unparseable response).
+async function suggestBacklinks(targetSlug, targetPost, allPosts) {
+  let out = deepseekClient
+    ? await suggestWithProvider(callDeepSeek, 'deepseek', targetSlug, targetPost, allPosts)
+    : null;
+  if (out === null && geminiModel) {
+    console.warn(`DeepSeek falhou para ${targetSlug}; caindo para Gemini...`);
+    posthog.capture({
+      distinctId: POSTHOG_DISTINCT_ID,
+      event: 'backlinks_provider_fallback',
+      properties: { slug: targetSlug, from: 'deepseek', to: 'gemini' },
+    });
+    out = await suggestWithProvider(callGemini, 'gemini', targetSlug, targetPost, allPosts);
+  }
+  return out;
 }
 
 function loadIndex() {

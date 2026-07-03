@@ -4,7 +4,7 @@ const path = require('path');
 const crypto = require('crypto');
 const matter = require('gray-matter');
 const yaml = require('js-yaml');
-const { GoogleGenerativeAI } = require('@google/generative-ai');
+const { callDeepSeek, callGemini, deepseekClient, geminiModel, isRateLimit } = require('./ai');
 const { PostHog } = require('posthog-node');
 
 const posthog = new PostHog(process.env.POSTHOG_API_KEY, {
@@ -15,14 +15,12 @@ const posthog = new PostHog(process.env.POSTHOG_API_KEY, {
 });
 const POSTHOG_DISTINCT_ID = 'translate-script';
 
-if (!process.env.GEMINI_API_KEY) {
-  console.error("Error: GEMINI_API_KEY is not set in .env");
+if (!deepseekClient && !geminiModel) {
+  console.error("Error: nenhum provedor de IA configurado (defina DEEPSEEK_API_KEY e/ou GEMINI_API_KEY em .env)");
   process.exit(1);
 }
-
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-// Using gemini-2.5-flash for fast and cheap translations, but pro can be used for better quality.
-const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+if (!deepseekClient) console.warn("DEEPSEEK_API_KEY ausente — usando apenas Gemini.");
+if (!geminiModel) console.warn("GEMINI_API_KEY ausente — fallback indisponível.");
 
 const EN_DIR = path.join(__dirname, '../content/en');
 const PT_DIR = path.join(__dirname, '../content/pt');
@@ -48,7 +46,7 @@ function stripHeadingPrefix(s) {
   return typeof s === 'string' ? s.replace(/^\s*#{1,6}\s+/, '').trim() : s;
 }
 
-async function translateContent(text, targetLang, retries = 5) {
+async function translateWithProvider(callFn, providerName, text, targetLang, retries = 5) {
   const prompt = `You are an expert technical translator for a Hugo blog.
 Translate the following Markdown content to ${targetLang}.
 
@@ -67,8 +65,7 @@ ${text}`;
     try {
       // Add a small delay between all requests to avoid hitting burst limits
       await sleep(2000);
-      const result = await model.generateContent(prompt);
-      let output = result.response.text();
+      let output = await callFn(prompt);
       // Remove potential markdown wrappers the model might add
       if (output.startsWith('```markdown')) {
         output = output.replace(/^```markdown\n?/, '').replace(/\n?```$/, '');
@@ -77,40 +74,56 @@ ${text}`;
       // would silently write a "translated" file that is still in the source
       // language and then lock it via translation_source_hash.
       if (text.length > 50 && isSameContent(output, text)) {
-        console.warn(`Translation returned identical content (attempt ${i + 1}/${retries}), retrying...`);
+        console.warn(`[${providerName}] Translation returned identical content (attempt ${i + 1}/${retries}), retrying...`);
         await sleep(5000);
         continue;
       }
       return output;
     } catch (e) {
-      const isRateLimit = e.message && e.message.includes('429 Too Many Requests');
+      const rateLimited = isRateLimit(e);
       let delayMs = Math.min(5000 * (i + 1), 30000); // exponential-ish backoff for generic errors
 
-      if (isRateLimit) {
+      if (rateLimited) {
         delayMs = 30000;
-        const match = e.message.match(/retry in (\d+(\.\d+)?)s/);
+        const match = e.message && e.message.match(/retry in (\d+(\.\d+)?)s/);
         if (match) {
           delayMs = (parseFloat(match[1]) + 5) * 1000;
         }
-        console.warn(`Rate limit hit (429). Waiting ${delayMs/1000}s before retry ${i + 1}/${retries}...`);
+        console.warn(`[${providerName}] Rate limit hit (429). Waiting ${delayMs/1000}s before retry ${i + 1}/${retries}...`);
         posthog.capture({
           distinctId: POSTHOG_DISTINCT_ID,
           event: 'translation_rate_limit_hit',
-          properties: { retry_count: i + 1, wait_ms: delayMs },
+          properties: { provider: providerName, retry_count: i + 1, wait_ms: delayMs },
         });
       } else {
-        console.warn(`Translation error (attempt ${i + 1}/${retries}): ${e.message}. Retrying in ${delayMs/1000}s...`);
+        console.warn(`[${providerName}] Translation error (attempt ${i + 1}/${retries}): ${e.message}. Retrying in ${delayMs/1000}s...`);
       }
       await sleep(delayMs);
     }
   }
-  console.error('Max retries reached for translation.');
+  console.error(`[${providerName}] Max retries reached for translation.`);
   posthog.capture({
     distinctId: POSTHOG_DISTINCT_ID,
     event: 'translation_failed',
-    properties: { retries },
+    properties: { provider: providerName, retries },
   });
   return null;
+}
+
+// DeepSeek is the primary provider; fall back to Gemini for this specific call if
+// DeepSeek exhausts its retries (API error, persistent rate-limit, or identical output).
+async function translateContent(text, targetLang) {
+  let out = deepseekClient ? await translateWithProvider(callDeepSeek, 'deepseek', text, targetLang) : null;
+  if (out === null && geminiModel) {
+    console.warn('DeepSeek falhou; caindo para Gemini...');
+    posthog.capture({
+      distinctId: POSTHOG_DISTINCT_ID,
+      event: 'translation_provider_fallback',
+      properties: { from: 'deepseek', to: 'gemini' },
+    });
+    out = await translateWithProvider(callGemini, 'gemini', text, targetLang);
+  }
+  return out;
 }
 
 async function translateFile(sourcePath, targetPath, targetLang) {
