@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T17:16:31.047Z",
+  "last_updated": "2026-07-03T14:09:42.457Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1527,7 +1527,7 @@
     },
     "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude": {
       "slug": "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude",
-      "title_en": "Bill 2,583/2020 is approved in the Senate and creates a legal framework for the Health Industrial Complex [2026]",
+      "title_en": "Bill 2.583/2020 is approved in the Senate and creates a legal framework for the Health Industrial Complex [2026]",
       "title_pt": "PL 2.583/2020 é aprovado no Senado e cria marco legal do Complexo Industrial da Saúde [2026]",
       "tags": [
         "politica-industrial",
@@ -1539,8 +1539,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "The bill that establishes the National Health Strategy as a permanent state policy to reduce external dependence on medicines, vaccines, and medical supplies proceeds to presidential sanction after six years of deliberation.",
-      "content_hash_en": "8e06dd4ef30859332e624af86b7c8fd725702b083f482341f358ba7a1307cb56",
+      "description_en": "The bill establishing the National Health Strategy as a permanent state policy to reduce external dependence on medicines, vaccines, and medical supplies goes for presidential sanction after six years of deliberation.",
+      "content_hash_en": "1926ab3de18e82371bad0b7624efb89e40d195a59e7395b6cf2cdf2c4dbb2c9d",
       "backlinks": [
         "nova-industria-brasil-saude-patentes",
         "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
@@ -1563,8 +1563,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "INPI announces new features for the Patent Services Module: exclusive filing of applications, integrated annuities, and the end of Electronic Filing for patents. Check the complete schedule.",
-      "content_hash_en": "352fea6aa17dfcf7b53b9ac201d668e1d14b6fbd08c13263e083e101720059d4",
+      "description_en": "INPI announces new features for the Patent Services Module: exclusive application filing, integrated annuities, and the end of Electronic Petitioning for patents. Check out the full schedule.",
+      "content_hash_en": "779a0f78de2049bc52e8ca4b1546a37e1cffdb35989987a430136fb4f170e083",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "inpi-automation-roadmap-2025-2029",
@@ -1572,6 +1572,32 @@
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "inpi-radar-pi-espirito-santo-2026": {
+      "slug": "inpi-radar-pi-espirito-santo-2026",
+      "title_en": "INPI mapeia PI no ES: 519 patentes, 68 mil marcas e 11 IGs [2026]",
+      "title_pt": "INPI mapeia PI no ES: 519 patentes, 68 mil marcas e 11 IGs [2026]",
+      "tags": [
+        "inpi",
+        "patentes",
+        "marcas",
+        "indicacoes-geograficas",
+        "inovacao",
+        "propriedade-intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "O Radar Tecnológico do INPI revela o perfil completo do uso da propriedade industrial no Espírito Santo: quem deposita, em quais áreas e como o estado se posiciona em inovação.",
+      "content_hash_en": null,
+      "content_hash_pt": "8bef3ed3c36253ead4899dd89f24edf059ad50cd91005ae2d740b7408d145c21",
+      "backlinks": [
+        "lpi-30-anos-propostas-aperfeicoamento-inpi",
+        "edital-casos-sucesso-pi-inpi-2026",
+        "inpi-manual-marcas-alto-renome-protocolo-madri"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-03T14:09:42.457Z"
     }
   }
 }
