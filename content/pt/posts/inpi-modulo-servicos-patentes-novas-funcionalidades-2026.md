@@ -1,8 +1,8 @@
 ---
 date: 2026-07-02T10:00:00-03:00
-draft: true
+draft: false
 title: "INPI lança nova versão do Módulo de Patentes: o que muda em 2026"
-description: "O INPI anuncia novas funcionalidades do Módulo de Serviços de Patentes: depósito exclusivo de pedidos, anuidades integradas e o fim do Peticionamento Eletrônico para patentes. Confira o cronograma completo."
+description: "O INPI anuncia novas funcionalidades do Módulo de Serviços de Patentes: depósito exclusivo de pedidos, anuidades integradas e o fim do Peticionamento Eletrônico para patentes."
 featured_image: ""
 categories:
   - article
@@ -16,7 +16,7 @@ tags:
 
 No dia 2 de julho de 2026, o INPI anunciou a segunda versão do Módulo de Serviços de Patentes, com previsão de lançamento em agosto de 2026. A novidade representa mais um passo no plano de automação do órgão e promete transformar a forma como depositantes, escritórios de PI e empresas interagem com o sistema patentário brasileiro.
 
-As mudanças vão além de uma simples atualização de interface: o depósito de pedidos nacionais de patente de invenção, modelo de utilidade e certificado de adição — além da entrada na fase nacional do PCT — passará a ser feito **exclusivamente** pelo Módulo de Serviços de Patentes. O Peticionamento Eletrônico (serviço 200) deixará de ser aceito para esses fins.
+O depósito de pedidos nacionais de patente de invenção, modelo de utilidade e certificado de adição — além da entrada na fase nacional do PCT — passará a ser feito **exclusivamente** pelo Módulo de Serviços de Patentes. O Peticionamento Eletrônico (serviço 200) deixará de ser aceito para esses fins.
 
 ## O que muda com a nova versão
 
@@ -50,7 +50,7 @@ A previsão é que, até o fim de 2026, **todos os serviços de patentes** estej
 
 ## Contexto: o plano de automação do INPI
 
-Esta atualização não é um evento isolado. Ela faz parte do [Projeto de Automação do Fluxo de Patentes e do Plano de Ação do INPI]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}}), que prevê a transformação digital completa do órgão até 2029.
+Esta atualização faz parte do [Projeto de Automação do Fluxo de Patentes e do Plano de Ação do INPI]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}}), que prevê a transformação digital completa do órgão até 2029.
 
 O INPI 4.0 — como ficou conhecido o plano — inclui desde a digitalização de processos internos até a implementação de exames assistidos por inteligência artificial. A migração dos serviços de patentes para um módulo unificado é a peça central desse esforço de modernização.
 
