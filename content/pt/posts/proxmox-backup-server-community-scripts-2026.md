@@ -1,6 +1,6 @@
 ---
 date: 2026-07-03T10:30:00-03:00
-draft: true
+draft: false
 title: "Proxmox Backup Server: instalação via community-scripts e configuração de backups [2026]"
 description: "Guia completo para instalar o Proxmox Backup Server (PBS) usando community-scripts em um LXC container, configurar datastore, integrar com o Proxmox VE e automatizar backups com schedule e verificação de integridade."
 featured_image: ""
@@ -35,14 +35,13 @@ O PBS é um servidor de backup especializado para ambientes Proxmox. Diferente d
 
 ## Instalação via Community-Scripts
 
-Os community-scripts ([site oficial](https://community-scripts.github.io/HELPER-SCRIPTS/)) são scripts mantidos pela comunidade que automatizam a criação de containers e VMs para serviços comuns no Proxmox.
-
-### Opção 1: Container LXC (recomendado para homelab)
+Os community-scripts ([site oficial](https://community-scripts.org/scripts/proxmox-backup-server)) são scripts mantidos pela comunidade que automatizam a criação de containers e VMs para serviços comuns no Proxmox.
 
 No shell do nó Proxmox (via SSH ou console), execute:
 
 ```bash
-bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/ct/proxmox-backup-server.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/ct/proxmox-backup-server.sh)"
+
 ```
 
 O script fará as seguintes perguntas:
@@ -61,14 +60,6 @@ O script fará as seguintes perguntas:
 | DNS | 8.8.8.8 (ou seu DNS preferido) |
 
 Ao final, o script exibe a senha gerada para o usuário `root` do PBS — **anote-a**.
-
-### Opção 2: VM (para quem prefere isolamento completo)
-
-Caso prefira uma VM ao invés de container LXC (mais isolamento, suporte a snapshot da própria VM):
-
-```bash
-bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/vm/proxmox-backup-server.sh)"
-```
 
 ---
 
