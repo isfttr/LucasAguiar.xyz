@@ -119,9 +119,9 @@ However, when we look at the [global innovation map]({{< relref "posts/mapa-glob
 
 Read also:
 
-- [IP Law at 30 years: INPI releases report with proposals for improving the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
-- [INPI launches call for applications to select intellectual property success stories [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
-- [INPI updates Trademark Manual: new rules for Well-Known Marks and adherence to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [INPI launches call for proposals to select Intellectual Property success stories [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T14:09:42.457Z",
+  "last_updated": "2026-07-03T15:46:31.614Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1540,7 +1540,7 @@
         "article"
       ],
       "description_en": "The bill establishing the National Health Strategy as a permanent state policy to reduce external dependence on medicines, vaccines, and medical supplies goes for presidential sanction after six years of deliberation.",
-      "content_hash_en": "1926ab3de18e82371bad0b7624efb89e40d195a59e7395b6cf2cdf2c4dbb2c9d",
+      "content_hash_en": "f48793a561b9f1a61c045102b8aab5758ece694ac9929b367cdfcf36b5264db2",
       "backlinks": [
         "nova-industria-brasil-saude-patentes",
         "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
@@ -1564,7 +1564,7 @@
         "article"
       ],
       "description_en": "INPI announces new features for the Patent Services Module: exclusive application filing, integrated annuities, and the end of Electronic Petitioning for patents. Check out the full schedule.",
-      "content_hash_en": "779a0f78de2049bc52e8ca4b1546a37e1cffdb35989987a430136fb4f170e083",
+      "content_hash_en": "80caca70ffdace4ecfa8712f35544d74657d7c1be4c89ec11aef0bc0fc847391",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "inpi-automation-roadmap-2025-2029",
@@ -1575,7 +1575,7 @@
     },
     "inpi-radar-pi-espirito-santo-2026": {
       "slug": "inpi-radar-pi-espirito-santo-2026",
-      "title_en": "INPI mapeia PI no ES: 519 patentes, 68 mil marcas e 11 IGs [2026]",
+      "title_en": "INPI maps IP in ES: 519 patents, 68 thousand trademarks and 11 GIs [2026]",
       "title_pt": "INPI mapeia PI no ES: 519 patentes, 68 mil marcas e 11 IGs [2026]",
       "tags": [
         "inpi",
@@ -1588,15 +1588,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "O Radar Tecnológico do INPI revela o perfil completo do uso da propriedade industrial no Espírito Santo: quem deposita, em quais áreas e como o estado se posiciona em inovação.",
-      "content_hash_en": null,
-      "content_hash_pt": "8bef3ed3c36253ead4899dd89f24edf059ad50cd91005ae2d740b7408d145c21",
+      "description_en": "INPI's Technological Radar reveals the complete profile of industrial property use in Espírito Santo: who files, in which areas, and how the state positions itself in innovation.",
+      "content_hash_en": "c0faf5653441ffc5e8ba4dc3413532646cc2291451e4813be10ba6f8a133d613",
       "backlinks": [
+        "mapa-global-patentes-pct-2025-brasil",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
-        "edital-casos-sucesso-pi-inpi-2026",
-        "inpi-manual-marcas-alto-renome-protocolo-madri"
+        "edital-casos-sucesso-pi-inpi-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-03T14:09:42.457Z"
     }
   }
