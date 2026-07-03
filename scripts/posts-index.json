@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T15:46:31.614Z",
+  "last_updated": "2026-07-03T16:25:10.243Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1551,7 +1551,7 @@
     },
     "inpi-modulo-servicos-patentes-novas-funcionalidades-2026": {
       "slug": "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
-      "title_en": "INPI launches new version of the Patent Module: what changes in 2026",
+      "title_en": "INPI launches new version of the Patents Module: what changes in 2026",
       "title_pt": "INPI lança nova versão do Módulo de Patentes: o que muda em 2026",
       "tags": [
         "patentes",
@@ -1563,8 +1563,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "INPI announces new features for the Patent Services Module: exclusive application filing, integrated annuities, and the end of Electronic Petitioning for patents. Check out the full schedule.",
-      "content_hash_en": "80caca70ffdace4ecfa8712f35544d74657d7c1be4c89ec11aef0bc0fc847391",
+      "description_en": "INPI announces new features for the Patent Services Module: exclusive application filing, integrated annuities, and the end of Electronic Petitioning for patents.",
+      "content_hash_en": "b42f15517fd89dbfc9acf05d29fe0bb406dc5b2c322e5743c5f302b6b8762990",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "inpi-automation-roadmap-2025-2029",
@@ -1575,7 +1575,7 @@
     },
     "inpi-radar-pi-espirito-santo-2026": {
       "slug": "inpi-radar-pi-espirito-santo-2026",
-      "title_en": "INPI maps IP in ES: 519 patents, 68 thousand trademarks and 11 GIs [2026]",
+      "title_en": "INPI maps Industrial Property in ES: 519 patents, 68 thousand trademarks and 11 Geographical Indications [2026]",
       "title_pt": "INPI mapeia PI no ES: 519 patentes, 68 mil marcas e 11 IGs [2026]",
       "tags": [
         "inpi",
@@ -1589,11 +1589,11 @@
         "article"
       ],
       "description_en": "INPI's Technological Radar reveals the complete profile of industrial property use in Espírito Santo: who files, in which areas, and how the state positions itself in innovation.",
-      "content_hash_en": "c0faf5653441ffc5e8ba4dc3413532646cc2291451e4813be10ba6f8a133d613",
+      "content_hash_en": "1d236e67999f5c56134a5b434800ae8306a4741b22c41f102966eeac873ee32f",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
-        "lpi-30-anos-propostas-aperfeicoamento-inpi",
-        "edital-casos-sucesso-pi-inpi-2026"
+        "mapa-global-patentes-pct-2025-brasil",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi"
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-03T14:09:42.457Z"

@@ -120,8 +120,8 @@ No entanto, quando olhamos para o [mapa global da inovação]({{< relref "posts/
 Leia também:
 
 - [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
 - [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
-- [INPI lança edital para selecionar casos de sucesso em Propriedade Intelectual [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
 
 ---
 
