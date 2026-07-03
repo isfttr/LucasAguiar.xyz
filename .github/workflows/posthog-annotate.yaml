@@ -1,0 +1,46 @@
+name: PostHog Publish Annotation
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'content/pt/posts/**/*.md'
+      - 'content/en/posts/**/*.md'
+
+jobs:
+  annotate:
+    runs-on: ubuntu-latest
+    # Só pushes humanos: o commit de tradução automática recria o post no outro
+    # idioma já com draft: false, o que dispararia uma segunda anotação.
+    if: ${{ github.actor != 'github-actions[bot]' }}
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Precisa do histórico para comparar BEFORE..AFTER do push.
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '25'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci || npm install
+
+      - name: Create PostHog annotation
+        env:
+          POSTHOG_PERSONAL_API_KEY: ${{ secrets.POSTHOG_PERSONAL_API_KEY }}
+          POSTHOG_PROJECT_ID: '404499'
+          POSTHOG_API_HOST: 'https://us.i.posthog.com'
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
+        run: npm run annotate

@@ -7,7 +7,8 @@
     "release": "release-it",
     "translate": "node scripts/translate.js",
     "fix-links": "node scripts/fix-links.js",
-    "suggest-backlinks": "node scripts/suggest-backlinks.js"
+    "suggest-backlinks": "node scripts/suggest-backlinks.js",
+    "annotate": "node scripts/posthog-annotate.js"
   },
   "repository": {
     "type": "git",
