@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T16:25:10.243Z",
+  "last_updated": "2026-07-03T21:13:52.336Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1564,7 +1564,7 @@
         "article"
       ],
       "description_en": "INPI announces new features for the Patent Services Module: exclusive application filing, integrated annuities, and the end of Electronic Petitioning for patents.",
-      "content_hash_en": "b42f15517fd89dbfc9acf05d29fe0bb406dc5b2c322e5743c5f302b6b8762990",
+      "content_hash_en": "afa51dcc5edfa753999411479ae707da43de96e305c545b09993f5da7994fab8",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "inpi-automation-roadmap-2025-2029",
@@ -1575,7 +1575,7 @@
     },
     "inpi-radar-pi-espirito-santo-2026": {
       "slug": "inpi-radar-pi-espirito-santo-2026",
-      "title_en": "INPI maps Industrial Property in ES: 519 patents, 68 thousand trademarks and 11 Geographical Indications [2026]",
+      "title_en": "INPI maps IP in ES: 519 patents, 68 thousand trademarks, and 11 GIs [2026]",
       "title_pt": "INPI mapeia PI no ES: 519 patentes, 68 mil marcas e 11 IGs [2026]",
       "tags": [
         "inpi",
@@ -1588,15 +1588,67 @@
       "categories": [
         "article"
       ],
-      "description_en": "INPI's Technological Radar reveals the complete profile of industrial property use in Espírito Santo: who files, in which areas, and how the state positions itself in innovation.",
-      "content_hash_en": "1d236e67999f5c56134a5b434800ae8306a4741b22c41f102966eeac873ee32f",
+      "description_en": "The INPI Technological Radar reveals the complete profile of industrial property use in Espírito Santo: who files, in which areas, and how the state positions itself in innovation.",
+      "content_hash_en": "8d6e8522f3aa291a5e5d463a0e082abc4e62a5669a5e5db2293cf90ee2ecddcb",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
         "mapa-global-patentes-pct-2025-brasil",
-        "lpi-30-anos-propostas-aperfeicoamento-inpi"
+        "mapa-global-patentes-pct-2025-brasil"
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-03T14:09:42.457Z"
+    },
+    "migracao-proxmox-8-9-2026": {
+      "slug": "migracao-proxmox-8-9-2026",
+      "title_en": "Como migrar do Proxmox VE 8 para o 9: guia passo a passo [2026]",
+      "title_pt": "Como migrar do Proxmox VE 8 para o 9: guia passo a passo [2026]",
+      "tags": [
+        "proxmox",
+        "linux",
+        "virtualizacao",
+        "homelab",
+        "self-hosting",
+        "tutorial"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo de migração do Proxmox VE 8 (base Debian 12) para o Proxmox VE 9 (Debian 13 Trixie): repositórios, upgrade do kernel 6.14, ZFS 2.3, pitfalls comuns e verificação pós-upgrade.",
+      "content_hash_en": null,
+      "content_hash_pt": "fe65475e5cf7a26ba095608777f9adbd3ba1446d39111a2e5af3d506001e319f",
+      "backlinks": [
+        "troubleshooting-proxmox-login-interface",
+        "proxmox-backup-server-community-scripts-2026",
+        "proxmox-mac-mini-2018-t2"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-03T21:13:52.335Z"
+    },
+    "proxmox-backup-server-community-scripts-2026": {
+      "slug": "proxmox-backup-server-community-scripts-2026",
+      "title_en": "Proxmox Backup Server: instalação via community-scripts e configuração de backups [2026]",
+      "title_pt": "Proxmox Backup Server: instalação via community-scripts e configuração de backups [2026]",
+      "tags": [
+        "proxmox",
+        "linux",
+        "backup",
+        "homelab",
+        "self-hosting",
+        "tutorial"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo para instalar o Proxmox Backup Server (PBS) usando community-scripts em um LXC container, configurar datastore, integrar com o Proxmox VE e automatizar backups com schedule e verificação de integridade.",
+      "content_hash_en": null,
+      "content_hash_pt": "0a4d33bd492884b606f4e3b78d413ef4ad19e081f1d6f7eb0dbce9e878931d4f",
+      "backlinks": [
+        "proxmox-mac-mini-2018-t2",
+        "troubleshooting-proxmox-login-interface",
+        "script-update-open_webui-lxc"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }
