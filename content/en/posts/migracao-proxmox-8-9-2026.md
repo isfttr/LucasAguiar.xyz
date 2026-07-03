@@ -1,8 +1,8 @@
 ---
 date: 2026-07-03T13:00:00.000Z
-draft: true
+draft: false
 title: 'How to migrate from Proxmox VE 8 to 9: step-by-step guide [2026]'
-description: 'Complete migration guide from Proxmox VE 8 (Debian 12 base) to Proxmox VE 9 (Debian 13 Trixie): repositories, kernel 6.14 upgrade, ZFS 2.3, common pitfalls, and post-upgrade verification.'
+description: 'Complete guide to migrating from Proxmox VE 8 (Debian 12-based) to Proxmox VE 9 (Debian 13 Trixie): repositories, kernel 6.14 upgrade, ZFS 2.3, common pitfalls and post-upgrade verification.'
 featured_image: ''
 categories:
   - article
@@ -13,11 +13,11 @@ tags:
   - homelab
   - self-hosting
   - tutorial
-translation_source_hash: 0e27500f3c3729cb477b95559b978649134c0d9ef99c335670dffd62e49aadcc
+translation_source_hash: a3ad4de02966644b9e5fc4144d5a604a5388873f060b1f949545ab14523a8d2e
 ---
-Proxmox VE 9 is now available, bringing as its main new feature the Debian 13 "Trixie" base, the Proxmox 6.14 kernel (based on Ubuntu 24.04 LTS), and ZFS 2.3 with draid support and compression improvements. If you are still on PVE 8, the migration is straightforward, but requires attention to some details — especially repositories, cluster, and storage compatibility.
+Proxmox VE 9 is now available, bringing as its main new features the Debian 13 "Trixie" base, the Proxmox kernel 6.14 (based on Ubuntu 24.04 LTS), and ZFS 2.3 with draid support and compression improvements. If you are still on PVE 8, the migration is straightforward, but requires attention to a few details — especially repositories, cluster, and storage compatibility.
 
-This guide covers the complete step-by-step process to migrate your Proxmox VE 8.x node to 9, including exact commands, post-upgrade checks, and the most common pitfalls.
+This guide covers the complete step-by-step process to migrate your Proxmox VE 8.x node to 9, including the exact commands, post-upgrade checks, and the most common pitfalls.
 
 ---
 
@@ -34,9 +34,9 @@ PVE 9 maintains the same hardware requirements as PVE 8:
 
 Before any upgrade command, ensure that:
 
-- [ ] Full backup of configurations and VMs/CTs (vzdump, PBS or snapshot)
+- [ ] Full backup of configurations and VMs/CTs (vzdump, PBS, or snapshot)
 - [ ] Cluster in quorum: `pvecm status` — all nodes online
-- [ ] PVE 8 at the latest patch: `apt update && apt dist-upgrade -y`
+- [ ] PVE 8 on the latest patch: `apt update && apt dist-upgrade -y`
 - [ ] Sufficient free disk space (at least 5 GB)
 - [ ] Backup restore test in an isolated environment (recommended)
 
@@ -44,7 +44,7 @@ If you have a cluster, the upgrade must be done **node by node**, removing HA fr
 
 ---
 
-## Migration step-by-step
+## Step-by-step migration
 
 ### 1. Adjust the repositories
 
@@ -71,7 +71,7 @@ Remove old or incorrect repositories:
 ```bash
 rm -f /etc/apt/sources.list.d/pve-enterprise.list
 rm -f /etc/apt/sources.list.d/pve-no-subscription.list
-# Then recreate with the above content
+# Then recreate with the content above
 ```
 
 > **Note:** If you used third-party repositories (Ceph, ZFS), check if they have a version compatible with Debian 13.
@@ -83,7 +83,7 @@ apt update
 apt dist-upgrade -y
 ```
 
-This installs the latest versions of PVE 9 packages still in the `bookworm` repository. The system technically remains on Debian 12, but with updated Proxmox packages.
+This installs the latest PVE 9 package versions still in the `bookworm` repository. The system remains technically on Debian 12, but with updated Proxmox packages.
 
 ### 3. Update the Debian base (Bookworm → Trixie)
 
@@ -93,13 +93,13 @@ Now you switch the system base to Debian 13:
 sed -i 's/bookworm/trixie/g' /etc/apt/sources.list
 ```
 
-Check if there are any other files in `/etc/apt/sources.list.d/` that still point to `bookworm`:
+Check that no other files in `/etc/apt/sources.list.d/` still point to `bookworm`:
 
 ```bash
 grep -r "bookworm" /etc/apt/sources.list.d/
 ```
 
-If you find any, evaluate whether they should also be updated (third-party repositories may or may not have a Trixie version).
+If found, evaluate whether they should also be updated (third-party repositories may or may not have a Trixie version).
 
 Then perform the full upgrade:
 
@@ -115,13 +115,13 @@ apt full-upgrade -y
 reboot
 ```
 
-After reboot, check the active kernel:
+After reboot, verify the active kernel:
 
 ```bash
 uname -r
 ```
 
-The expected output is something like `6.14.x-1-pve` (Proxmox 6.14 kernel). If a 6.8 kernel still appears, check the bootloader:
+The expected output is something like `6.14.x-1-pve` (Proxmox kernel 6.14). If a 6.8 kernel still appears, check the bootloader:
 
 ```bash
 dpkg -l | grep pve-kernel-6.14
@@ -160,7 +160,7 @@ The `pveversion` command should return `pve-manager/X.X.X` with version 9.x.
 
 ### Kernel 6.14
 
-PVE 9 comes with the Proxmox VE Kernel 6.14, based on the Ubuntu 24.04 LTS kernel. Improvements include a more efficient scheduler, support for newer hardware (network cards, NVMe controllers, GPUs), and security fixes. **The legacy kernel (5.15) has been removed** — there is no longer the `pve-kernel-5.15` meta-package.
+PVE 9 comes with the Proxmox VE Kernel 6.14, based on the Ubuntu 24.04 LTS kernel. Improvements include a more efficient scheduler, support for newer hardware (network cards, NVMe controllers, GPUs), and security fixes. **The legacy kernel (5.15) has been removed** — the `pve-kernel-5.15` meta-package no longer exists.
 
 ### Debian 13 "Trixie"
 
@@ -176,25 +176,25 @@ ZFS has been updated to version 2.3, which brings:
 
 ### Ceph Squid (19.2)
 
-For those using Ceph, the version has been updated from Reef (18.2) to Squid (19.2). Ceph migration must be done separately — refer to the official Ceph Squid guide.
+For those using Ceph, the version has been updated from Reef (18.2) to Squid (19.2). The Ceph migration must be done separately — refer to the official Ceph Squid guide.
 
 ### Corosync 3.1
 
-Corosync has been updated to 3.1.x. Configurations in the 2.x format still work, but with warnings. PVE 9 recommends migrating to the new YAML configuration format.
+Corosync has been updated to 3.1.x. Configurations in 2.x format still work, but with warnings. PVE 9 recommends migrating to the new YAML configuration format.
 
 ---
 
 ## Common pitfalls and solutions
 
 | Problem | Symptom | Solution |
-|----------|---------|---------|
+|---------|---------|----------|
 | Repository 404 | `apt update` fails | Check that sources.list use `bookworm` (not `trixie`) for PVE repositories |
 | Kernel not updating | `uname -r` shows kernel 6.8 | `apt install pve-kernel-6.14` and `proxmox-boot-tool refresh` |
-| Corosync offline | `pvecm status` shows node offline | Edit `/etc/corosync/corosync.conf` to the YAML format for corosync 3.x |
+| Corosync offline | `pvecm status` shows node offline | Edit `/etc/corosync/corosync.conf` to YAML format for corosync 3.x |
 | ZFS not mounting | `zpool import` fails | `zpool import -a` then `zfs mount -a` |
 | Network drops after reboot | No connectivity | Check `/etc/network/interfaces` — if using classic `ifupdown`, reinstall |
-| VM won't start | Kernel panic in guest | Convert disk controller from IDE/SCSI to VirtIO SCSI single |
-| PBS disconnects | Client error | `apt install proxmox-backup-client` for a compatible version |
+| VM fails to start | Kernel panic in guest | Convert IDE/SCSI disk controller to VirtIO SCSI single |
+| PBS disconnects | Client error | `apt install proxmox-backup-client` for compatible version |
 | HA resources stop | HA services shut down | `systemctl restart pve-ha-manager pve-ha-crm` |
 
 ---
@@ -206,8 +206,8 @@ For clusters with multiple nodes, the recommended procedure is:
 1. Remove HA from all VMs/CTs on the node to be migrated
 2. Migrate the VMs/CTs to other nodes
 3. Upgrade the node (steps 1-4 above)
-4. Verify the node is back in the cluster (pvecm status)
-5. Migrate VMs/CTs back (optional)
+4. Verify the node has returned to the cluster (pvecm status)
+5. Migrate the VMs/CTs back (optional)
 6. Repeat for each node
 
 Never try to upgrade all nodes simultaneously — you may lose cluster quorum.
@@ -216,23 +216,14 @@ Never try to upgrade all nodes simultaneously — you may lose cluster quorum.
 
 ## Final considerations
 
-The migration from PVE 8 to 9 is an inline upgrade: there is no official downgrade. Therefore, always test in an isolated environment before migrating production. The estimated time per node is 20 to 40 minutes, depending on disk and network speed.
-
-If you encounter errors during the upgrade, the official Proxmox forum and the [upgrade documentation](https://pve.proxmox.com/wiki/Upgrade_from_8_to_9) are the best reference sources.
+If you encounter errors during the upgrade, the official Proxmox forum and the [upgrade documentation](https://pve.proxmox.com/wiki/Upgrade_from_8_to_9) are the best sources of reference.
 
 Also read:
 
-- [Fixing Login Errors in the Proxmox Web Interface: Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Fixing Login Errors in Proxmox Web Interface: Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 - [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
-- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
-
-
-Read also:
-
-- [Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
-- [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
-- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [How to Install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
 
 ---
 
-You can contact me to talk about this and other topics at <contact@lucasaguiar.xyz>
+Feel free to get in touch to talk about this and other topics at <contact@lucasaguiar.xyz>
