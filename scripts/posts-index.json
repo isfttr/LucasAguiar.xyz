@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T21:29:10.190Z",
+  "last_updated": "2026-07-04T14:03:09.606Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1614,7 +1614,7 @@
         "article"
       ],
       "description_en": "Complete guide to migrating from Proxmox VE 8 (Debian 12-based) to Proxmox VE 9 (Debian 13 Trixie): repositories, kernel 6.14 upgrade, ZFS 2.3, common pitfalls and post-upgrade verification.",
-      "content_hash_en": "15998b5dd265b866500f88eee2af45f4bb5c6b2beca50d9d2756aad845fb34dd",
+      "content_hash_en": "b0bcdfa1a8e000b17df3d86d11a098d89304d7c6f1cb80431e071b1b381d5302",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "proxmox-backup-server-community-scripts-2026",
@@ -1638,12 +1638,37 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to install Proxmox Backup Server (PBS) using community-scripts in an LXC container, configure datastore, integrate with Proxmox VE and automate backups with schedule and integrity verification.",
-      "content_hash_en": "422ec5597d5468bb5b13a9eeab481c05430894ed8507a521fafcfe6ac60c719d",
+      "description_en": "Complete guide to installing Proxmox Backup Server (PBS) using community-scripts in an LXC container, configuring datastore, integrating with Proxmox VE, and automating backups with scheduling and integrity verification.",
+      "content_hash_en": "712ebd30b3b121898683e557233b84eedff2752ba6303d4a3f883bbe34ff7c35",
       "backlinks": [
         "proxmox-mac-mini-2018-t2",
         "troubleshooting-proxmox-login-interface",
         "script-update-open_webui-lxc"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "inpi-eleicoes-2026-canais-comunicacao-guia": {
+      "slug": "inpi-eleicoes-2026-canais-comunicacao-guia",
+      "title_en": "INPI nas Eleições 2026: Canais Restritos, Serviços Mantidos — Guia Completo",
+      "title_pt": "INPI nas Eleições 2026: Canais Restritos, Serviços Mantidos — Guia Completo",
+      "tags": [
+        "inpi",
+        "eleicoes",
+        "regulacao",
+        "propriedade-intelectual",
+        "servicos-publicos"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "A partir de 4 de julho, o INPI restringiu seus canais de comunicação para cumprir a legislação eleitoral. Instagram, Facebook e LinkedIn foram desativados até 25 de outubro. Mas os serviços essenciais continuam funcionando. Veja o que muda e como continuar acompanhando o INPI.",
+      "content_hash_en": null,
+      "content_hash_pt": "4ee435116d51a75bc0488d6141659142e2a6a57017ca4d4005388c876f2edb2f",
+      "backlinks": [
+        "como-consultar-andamento-processo-inpi",
+        "inpi-credenciamento-busca-anterioridade-patentes",
+        "como-consultar-andamento-processo-inpi"
       ],
       "backlink_source": "file",
       "last_processed": null

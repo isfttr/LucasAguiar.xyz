@@ -97,8 +97,8 @@ Se você depende do INPI para seu trabalho diário com PI, algumas ações simpl
 Leia também:
 
 - [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
 ---
 
