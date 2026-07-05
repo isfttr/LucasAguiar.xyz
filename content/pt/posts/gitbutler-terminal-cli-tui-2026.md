@@ -1,7 +1,7 @@
 ---
 date: 2026-07-05T10:00:00-03:00
 draft: true
-title: "GitButler no Terminal: O Fim do Alt+Tab Entre Editor e Git GUI"
+title: "GitButler no Terminal"
 description: "Explorando o novo CLI e TUI do GitButler — como o 'but' está transformando o fluxo de trabalho Git direto do terminal, sem precisar sair do editor. Comparação com o Desktop e dicas de comandos."
 featured_image: ""
 categories:
@@ -16,9 +16,9 @@ tags:
   - versao-controle
 ---
 
-São 23h de uma quarta-feira. Você acaba de ter uma ideia para um projeto open source que não sai da cabeça. Abre o terminal, dá um `mkdir`, um `git init`, e mergulha no código. Duas horas depois, o editor está cheio de abas, você tem meia dúzia de arquivos alterados e aquela voz na cabeça diz: "isso merece uns commits organizados".
+São 23h de uma sexta-feira, você abre o terminal, dá um `mkdir`, um `git init`, e mergulha no código. Duas horas depois, o editor está cheio de abas, você tem meia dúzia de arquivos alterados e aquela voz na cabeça diz: "isso merece uns commits organizados".
 
-Aí vem o ritual. `Cmd+Tab` para o GitButler Desktop. Criar uma virtual branch. Voltar para o editor. Escrever mais código. `Cmd+Tab` de volta. Mover os arquivos entre branches. Fazer o commit. Gerar uma mensagem com IA. `Cmd+Tab` para o editor. E de novo. E de novo.
+Se você usa o GitButler, todo esse processo passa por diversos `Cmd+Tab` para o GitButler Desktop. Criar uma virtual branch. Voltar para o editor. Escrever mais código. `Cmd+Tab` de volta. Mover os arquivos entre branches. Fazer o commit. Gerar uma mensagem com IA. `Cmd+Tab` para o editor. E de novo. E de novo.
 
 O [GitButler Desktop](https://docs.gitbutler.com/overview) me conquistou em abril de 2025 — escrevi [minha experiência](/pt/posts/one-week-review-gitbutler/) duas semanas depois de começar a usar, e desde então ele substituiu completamente meu Git na linha de comando. As virtual branches, a timeline de operações, a resolução visual de conflitos... tudo isso fazia sentido numa janela dedicada.
 
@@ -30,7 +30,7 @@ Uma noite, fuçando o site de documentação, me deparei com uma seção que nã
 
 Tudo o que o Desktop faz? No terminal?
 
-Digitei `but tui` no repositório de um side project, meio cético. E o terminal virou um workspace Git interativo.
+Digitei `but tui` no repositório de um side project, meio cético. E o terminal virou um workspace Git interativo. Bem parecido com o LazyGit, para que já utilizou - só que com a UI mais simplificada.
 
 ![TUI do GitButler](https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-gitbutler.png)
 
@@ -70,7 +70,7 @@ $ but commit -m 'feat: add bookmarks table, controller, and views'
 
 Pronto. Branch criada, commit feito, mensagem escrita. Tudo sem uma única troca de janela. O [tutorial completo de branching e committing](https://docs.gitbutler.com/cli-guides/cli-tutorial/branching-and-commiting) tem mais exemplos, incluindo como criar branches a partir de mudanças não atribuídas e como comitar para branches específicas.
 
-## Desktop vs CLI: onde cada um brilha
+## Desktop vs CLI
 
 O [meu post anterior sobre o GitButler](/pt/posts/one-week-review-gitbutler/) foi basicamente um testamento ao Desktop. E ele continua sendo uma ferramenta fantástica para certos momentos. Mas depois de algumas semanas usando o CLI, criei uma heurística pessoal:
 
@@ -78,7 +78,7 @@ O [meu post anterior sobre o GitButler](/pt/posts/one-week-review-gitbutler/) fo
 
 **CLI/TUI** é para quando você está no *fluxo* — codificando sem interrupção, fazendo commits granulares, alternando entre branches em segundos, sem tirar as mãos do teclado.
 
-O CLI não substitui o Desktop. Ele o complementa. E a integração entre os dois é transparente desde a versão [0.20.1](https://github.com/gitbutlerapp/gitbutler/releases): mudanças feitas pelo `but` aparecem automaticamente no Desktop sem refresh manual, e vice-versa.
+Na minha opinião, o CLI complementa o app Desktop. E a integração entre os dois é transparente desde a versão [0.20.1](https://github.com/gitbutlerapp/gitbutler/releases): mudanças feitas pelo `but` aparecem automaticamente no Desktop sem refresh manual, e vice-versa.
 
 ### Comandos que viraram meu novo padrão
 
