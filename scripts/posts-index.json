@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T13:57:05.893Z",
+  "last_updated": "2026-07-05T14:11:21.945Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1674,7 +1674,7 @@
     },
     "gitbutler-terminal-cli-tui-2026": {
       "slug": "gitbutler-terminal-cli-tui-2026",
-      "title_en": "GitButler in the Terminal: The End of Alt+Tab Between Editor and Git GUI",
+      "title_en": "GitButler in the Terminal",
       "title_pt": "GitButler no Terminal",
       "tags": [
         "git",
@@ -1688,8 +1688,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Exploring the new CLI and TUI of GitButler — how 'but' is transforming the Git workflow directly from the terminal, without leaving the editor. Comparison with the Desktop and command tips.",
-      "content_hash_en": "e7416b341f74582f5a53d5463c3d6c592e6f4e7824a82d2c95f44ad31fb97fb7",
+      "description_en": "Exploring GitButler's new CLI and TUI — how 'but' is transforming Git workflow directly from the terminal, without leaving the editor. Comparison with the Desktop and command tips.",
+      "content_hash_en": "c0c0c5f1ad4faa3ab5f46fe05b486335f81c722ebece90d8119c55483c05d5dd",
       "backlinks": [
         "one-week-review-gitbutler",
         "experience-with-cursor-and-windsurf",
@@ -1697,6 +1697,31 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-05T13:24:19.785Z"
+    },
+    "abpi-concurso-trabalhos-academicos-pi-2026": {
+      "slug": "abpi-concurso-trabalhos-academicos-pi-2026",
+      "title_en": "ABPI Launches 1st Academic Paper Competition in IP: Submissions Open Until July 22 [2026]",
+      "title_pt": "ABPI Lança 1º Concurso de Trabalhos Acadêmicos em PI: Inscrições Abertas até 22 de Julho [2026]",
+      "tags": [
+        "abpi",
+        "intellectual-property",
+        "innovation",
+        "research",
+        "competition",
+        "academia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "The Brazilian Intellectual Property Association (ABPI) opened submissions for its 1st Academic Papers and Abstracts Competition in IP, innovation, and technology. Deadline: July 22, 2026. Learn how to apply and what prizes are offered.",
+      "content_hash_en": "d65d2de268b49ad5a4f49b13802391b79197e125018e715d08319ef94677f811",
+      "backlinks": [
+        "trf2-decisao-abpi-fortalecimento-inpi",
+        "mapa-global-patentes-pct-2025-brasil",
+        "trf2-decisao-abpi-fortalecimento-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }

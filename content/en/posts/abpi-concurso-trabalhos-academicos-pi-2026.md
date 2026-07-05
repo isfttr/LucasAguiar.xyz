@@ -77,9 +77,9 @@ Submissions are made through the [ABPI website](https://abpi.org.br/), where the
 
 Read also:
 
-- [TRF-2 Orders Union to Restructure INPI: What It Means for Your Patents]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [TRF-2 confirms ruling that paves the way for the restructuring of INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
 - [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [Peter Dirk Siemsen: The Legacy of an IP Protagonist in Brazil]({{< relref "posts/peter-dirk-siemsen-legado-propriedade-intelectual/" >}})
+- [TRF-2 confirms ruling that paves the way for the restructuring of INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
 
 ---
 

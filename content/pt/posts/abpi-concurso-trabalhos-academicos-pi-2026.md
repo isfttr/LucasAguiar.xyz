@@ -102,7 +102,7 @@ Leia também:
 
 - [TRF-2 Obriga União a Reestruturar o INPI: O que Isso Significa para suas Patentes?]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
 - [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [Peter Dirk Siemsen: O Legado de um Protagonista da PI no Brasil]({{< relref "posts/peter-dirk-siemsen-legado-propriedade-intelectual/" >}})
+- [TRF-2 Obriga União a Reestruturar o INPI: O que Isso Significa para suas Patentes?]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
 
 ---
 
