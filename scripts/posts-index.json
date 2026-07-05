@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T13:24:19.786Z",
+  "last_updated": "2026-07-05T13:57:05.893Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1663,7 +1663,7 @@
         "article"
       ],
       "description_en": "Starting July 4, INPI restricted its communication channels to comply with electoral legislation. Instagram, Facebook, and LinkedIn were deactivated until October 25. But essential services continue to operate. See what changes and how to continue following INPI.",
-      "content_hash_en": "c336b346a0c3f8b117d4f5fbe3ff4adc58eda56d01329815abb2a090c98eae84",
+      "content_hash_en": "fc032ce0347762448efec04d304d7f562aac36ccc9289b137ada52dc37344339",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "inpi-credenciamento-busca-anterioridade-patentes",
@@ -1674,8 +1674,8 @@
     },
     "gitbutler-terminal-cli-tui-2026": {
       "slug": "gitbutler-terminal-cli-tui-2026",
-      "title_en": "GitButler no Terminal: O Fim do Alt+Tab Entre Editor e Git GUI",
-      "title_pt": "GitButler no Terminal: O Fim do Alt+Tab Entre Editor e Git GUI",
+      "title_en": "GitButler in the Terminal: The End of Alt+Tab Between Editor and Git GUI",
+      "title_pt": "GitButler no Terminal",
       "tags": [
         "git",
         "gitbutler",
@@ -1688,15 +1688,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "Explorando o novo CLI e TUI do GitButler — como o 'but' está transformando o fluxo de trabalho Git direto do terminal, sem precisar sair do editor. Comparação com o Desktop e dicas de comandos.",
-      "content_hash_en": null,
-      "content_hash_pt": "692c08fa2e0b0188409819cabb2b4052c3c1534dc88607a8cd9e2714131ecf80",
+      "description_en": "Exploring the new CLI and TUI of GitButler — how 'but' is transforming the Git workflow directly from the terminal, without leaving the editor. Comparison with the Desktop and command tips.",
+      "content_hash_en": "e7416b341f74582f5a53d5463c3d6c592e6f4e7824a82d2c95f44ad31fb97fb7",
       "backlinks": [
         "one-week-review-gitbutler",
         "experience-with-cursor-and-windsurf",
         "ai-beats-procrastination"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-05T13:24:19.785Z"
     }
   }

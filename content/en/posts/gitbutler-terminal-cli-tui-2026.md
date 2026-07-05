@@ -163,9 +163,9 @@ If you try it, I suggest starting with the [CLI overview](https://docs.gitbutler
 
 Read also:
 
-- [Two Weeks with GitButler: Simplifying My Git Workflow]({{< relref "posts/one-week-review-gitbutler/" >}})
-- [Cursor vs Windsurf vs Zed 2026: Which AI Code Editor is Best?]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [From Procrastination to Progress: How AI Has Helped Me]({{< relref "posts/ai-beats-procrastination/" >}})
+- [Two Weeks with GitButler: Streamlining My Git Workflow]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [From Procrastination to Progress: How AI has helped me]({{< relref "posts/ai-beats-procrastination/" >}})
 
 ---
 
