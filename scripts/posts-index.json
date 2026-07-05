@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T14:03:09.606Z",
+  "last_updated": "2026-07-05T13:24:19.786Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1639,7 +1639,7 @@
         "article"
       ],
       "description_en": "Complete guide to installing Proxmox Backup Server (PBS) using community-scripts in an LXC container, configuring datastore, integrating with Proxmox VE, and automating backups with scheduling and integrity verification.",
-      "content_hash_en": "712ebd30b3b121898683e557233b84eedff2752ba6303d4a3f883bbe34ff7c35",
+      "content_hash_en": "076f7d27c597bb96a9ee46391006c4f7ae8762f2eb7ef4d37f17b7c9fe38e210",
       "backlinks": [
         "proxmox-mac-mini-2018-t2",
         "troubleshooting-proxmox-login-interface",
@@ -1650,7 +1650,7 @@
     },
     "inpi-eleicoes-2026-canais-comunicacao-guia": {
       "slug": "inpi-eleicoes-2026-canais-comunicacao-guia",
-      "title_en": "INPI nas Eleições 2026: Canais Restritos, Serviços Mantidos — Guia Completo",
+      "title_en": "INPI in the 2026 Elections: Restricted Channels, Services Maintained — Complete Guide",
       "title_pt": "INPI nas Eleições 2026: Canais Restritos, Serviços Mantidos — Guia Completo",
       "tags": [
         "inpi",
@@ -1662,9 +1662,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "A partir de 4 de julho, o INPI restringiu seus canais de comunicação para cumprir a legislação eleitoral. Instagram, Facebook e LinkedIn foram desativados até 25 de outubro. Mas os serviços essenciais continuam funcionando. Veja o que muda e como continuar acompanhando o INPI.",
-      "content_hash_en": null,
-      "content_hash_pt": "4ee435116d51a75bc0488d6141659142e2a6a57017ca4d4005388c876f2edb2f",
+      "description_en": "Starting July 4, INPI restricted its communication channels to comply with electoral legislation. Instagram, Facebook, and LinkedIn were deactivated until October 25. But essential services continue to operate. See what changes and how to continue following INPI.",
+      "content_hash_en": "c336b346a0c3f8b117d4f5fbe3ff4adc58eda56d01329815abb2a090c98eae84",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "inpi-credenciamento-busca-anterioridade-patentes",
@@ -1672,6 +1671,33 @@
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "gitbutler-terminal-cli-tui-2026": {
+      "slug": "gitbutler-terminal-cli-tui-2026",
+      "title_en": "GitButler no Terminal: O Fim do Alt+Tab Entre Editor e Git GUI",
+      "title_pt": "GitButler no Terminal: O Fim do Alt+Tab Entre Editor e Git GUI",
+      "tags": [
+        "git",
+        "gitbutler",
+        "cli",
+        "terminal",
+        "developer-tools",
+        "productivity",
+        "versao-controle"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Explorando o novo CLI e TUI do GitButler — como o 'but' está transformando o fluxo de trabalho Git direto do terminal, sem precisar sair do editor. Comparação com o Desktop e dicas de comandos.",
+      "content_hash_en": null,
+      "content_hash_pt": "692c08fa2e0b0188409819cabb2b4052c3c1534dc88607a8cd9e2714131ecf80",
+      "backlinks": [
+        "one-week-review-gitbutler",
+        "experience-with-cursor-and-windsurf",
+        "ai-beats-procrastination"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-05T13:24:19.785Z"
     }
   }
 }

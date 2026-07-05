@@ -163,8 +163,9 @@ Se você experimentar, sugiro começar pela [visão geral do CLI](https://docs.g
 
 Leia também:
 
-- [Duas Semanas com GitButler: Minha Experiência com o Desktop]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [Duas Semanas com GitButler: Simplificando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [Cursor vs Windsurf vs Zed 2026: Qual Editor de Código com IA é o Melhor?]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [Da Procrastinação ao Progresso: Como a IA me tem ajudado]({{< relref "posts/ai-beats-procrastination/" >}})
 
 ---
 
