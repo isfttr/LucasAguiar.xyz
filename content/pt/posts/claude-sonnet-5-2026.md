@@ -77,9 +77,9 @@ Desenvolvedores que usam agentes para automação de tarefas, codificação assi
 
 Leia também:
 
-- [Claude Science: Anthropic Lança Workbench de IA para Cientistas]({{< relref "posts/claude-science-ai-workbench-cientistas-2026/" >}})
-- [Claude Tag: Propriedade Intelectual e o Novo Modelo de Colaboração Empresarial da Anthropic]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
-- [Review: Cursor vs Windsurf — Qual IDE de IA Usar em 2026?]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Claude Tag e o risco à propriedade intelectual das empresas]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
 
 ---
 

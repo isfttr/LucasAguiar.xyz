@@ -61,8 +61,8 @@ Registrations run until **July 8, 2026** and must be made through the official A
 
 Read also:
 
-- [ABPI Launches 1st Academic Paper Competition in IP: Submissions Open until July 22 [2026]]({{< relref "posts/abpi-concurso-trabalhos-academicos-pi-2026/" >}})
-- [TRF-2 Orders the Federal Government to Restructure the INPI: What Does This Mean for Your Patents?]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [ABPI Launches 1st Academic Paper Competition in IP: Submissions Open Until July 22 [2026]]({{< relref "posts/abpi-concurso-trabalhos-academicos-pi-2026/" >}})
+- [TRF-2 confirms ruling that paves the way for the restructuring of INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
 - [Peter Dirk Siemsen (1943–2026): The legacy of the only Brazilian in the Intellectual Property Hall of Fame]({{< relref "posts/peter-dirk-siemsen-legado-propriedade-intelectual/" >}})
 
 ---

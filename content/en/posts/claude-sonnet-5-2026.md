@@ -77,8 +77,9 @@ Developers using agents for task automation, assisted coding, and multi-step wor
 
 Read also:
 
-- [Claude Science: Anthropic Launches AI Workbench for Scientists]({{< relref "posts/claude-science-ai-workbench-cientistas-2026/" >}})
-- [Claude Tag: Intellectual Property and Anthropic's New Enterprise Collaboration Model]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Claude Tag and the Risk to Companies' Intellectual Property]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
 
 ---
 
