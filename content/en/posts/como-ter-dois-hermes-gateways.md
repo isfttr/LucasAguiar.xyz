@@ -1,6 +1,6 @@
 ---
 date: 2026-07-05T13:00:00.000Z
-draft: true
+draft: false
 title: 'How to Run Two Hermes Gateways: One Remote and One Local'
 description: Practical guide to setting up two Hermes profiles — one remote, one local on Mac. Includes the mental model that avoids 90% of the confusion and all the problems I encountered along the way.
 featured_image: ''
@@ -13,15 +13,15 @@ tags:
   - macos
   - gateway
   - devops
-translation_source_hash: 38b6d9578fb382911651e7cf92561495f66e202edf2392010ed892418e3314b8
+translation_source_hash: 1910ec01ce25aeddea407ec84cf9269435a6065297c095f417a625b047b39924
 ---
 # How to Run Two Hermes Gateways: One Remote and One Local
 
-I wanted something seemingly simple: keep my `default` profile of [Hermes](https://hermes-agent.nousresearch.com/docs/) pointing to my remote instance, while also having a second profile — `macbook-local` — running **100% on my Mac**. Switching between the two directly from the desktop app.
+I wanted something seemingly simple: keep my `default` profile in [Hermes](https://hermes-agent.nousresearch.com/docs/) pointing to my remote instance, while having a second profile — `macbook-local` — running **100% on my Mac**. Switching between the two directly from the desktop app.
 
 "Simple" lasted until I discovered that Hermes has **several independent notions of 'active profile' and 'local vs. remote'**, and they don't talk to each other automatically. This post is the guide I wish I had: first the mental model, then the correct step-by-step, and finally all the problems I encountered and how I solved each one.
 
-> Environment: macOS (Apple Silicon), Hermes Agent v0.17.x, desktop app (Electron). Desktop config paths are macOS‑specific; on Linux they live in `~/.config/hermes/`.
+> Environment: macOS (Apple Silicon M2), Hermes Agent v0.17.x, desktop app (Electron). The desktop config paths are macOS-specific; on Linux they live in `~/.config/hermes/`.
 
 ---
 
@@ -30,22 +30,22 @@ I wanted something seemingly simple: keep my `default` profile of [Hermes](https
 The mistake almost everyone makes (myself included) is thinking that "profile" and "local vs. remote" are the same thing. They are not. There are **four independent pieces**:
 
 | Piece | What it controls | Where it lives |
-|-------|-----------------|----------------|
+|------|----------------|-----------|
 | **Gateway** | Messaging layer + cron (WhatsApp, Telegram, scheduled jobs). Runs as a `launchd` service. | `~/Library/LaunchAgents/ai.hermes.gateway-<profile>.plist` |
-| **Desktop backend** | What the desktop app uses for chat. In local mode, the app **starts its own backend** (`hermes dashboard`) on an ephemeral port `127.0.0.1`. In remote mode, it connects to a URL. | child process of the app |
+| **Desktop backend** | What the desktop app uses for chat. In local mode, the app **starts its own backend** (`hermes dashboard`) on an ephemeral `127.0.0.1` port. In remote mode, it connects to a URL. | child process of the app |
 | **CLI active profile** | Which profile the terminal uses. | `~/.hermes/active_profile` |
-| **Desktop active profile** | Which profile the **app** uses. **It's a separate file** from the CLI. | `~/Library/Application Support/Hermes/active-profile.json` |
+| **Desktop active profile** | Which profile the **app** uses. **It is a separate file** from the CLI. | `~/Library/Application Support/Hermes/active-profile.json` |
 | **Desktop connection mode** | Whether the app runs locally or remotely (global + per‑profile override). | `~/Library/Application Support/Hermes/connection.json` |
 
 The two most confusing points:
 
-1. **Gateway ≠ desktop backend.** The *gateway* is the messaging/cron worker; it connects *outward* (it doesn't open a TCP port for the desktop). The *desktop backend* is something else: in local mode, the app starts a `hermes dashboard` on an ephemeral port. In other words, fixing the gateway **does not** make the desktop go local — they are different paths.
+1. **Gateway ≠ desktop backend.** The *gateway* is the messaging/cron worker; it connects *outward* (it does not open a TCP port for the desktop). The *desktop backend* is something else: in local mode, the app starts a `hermes dashboard` on an ephemeral port. In other words, fixing the gateway **does not** make the desktop go local — they are separate paths.
 
-2. **The desktop has its own "active profile".** Running `hermes profile use macbook-local` changes only the CLI. The desktop app reads *its own* `active-profile.json`. If that file doesn't exist, the app falls back to `default` — no matter what the CLI says.
+2. **The desktop has its own "active profile".** Running `hermes profile use macbook-local` changes only the CLI. The desktop app reads its *own* `active-profile.json`. If it doesn't exist, the app falls back to `default` — no matter what the CLI says.
 
-Once you understand these two truths, everything else flows.
+Keeping these two truths in mind, the rest flows.
 
-### How local vs. remote resolution works
+### How the local vs. remote resolution works
 
 The `connection.json` looks like this:
 
@@ -70,16 +70,16 @@ The crucial (and counter‑intuitive) detail: **a per‑profile override can onl
 
 Therefore, to have "some local, some remote", the recipe is:
 
-- Global `mode` = **`local`** (this becomes the default for all), and
-- each profile that should be **remote** goes in as an **override** in `profiles`.
+- Global `mode` = **`local`** (this becomes the default for everyone), and
+- each profile that should be **remote** enters as an **override** in `profiles`.
 
-That's why, in my case, the `default` (remote) becomes an override, and `macbook-local` (local) simply inherits the global.
+That is why, in my case, the `default` (remote) becomes an override and `macbook-local` (local) simply inherits the global.
 
 ---
 
 ## Step by step
 
-Prerequisite: you already have `default` working against a remote instance and want to **add** `macbook-local` locally.
+Prerequisite: you already have the `default` working against the remote instance and want to **add** the local `macbook-local`.
 
 ### 1. Create the local profile
 
@@ -95,7 +95,7 @@ hermes profile create macbook-local
 hermes --profile macbook-local config edit
 ```
 
-Essentials:
+The essentials:
 
 ```yaml
 model:
@@ -111,7 +111,7 @@ gateway:
   port: 8091            # see note below
 ```
 
-> **Note about the port:** the `gateway.host/port` is for the *messaging gateway*. The **desktop backend** in local mode listens on its **own ephemeral port** (`--port 0`), so you **don't** need to worry about port 8091 for the app connection. Leave it configured, but know that the desktop doesn't connect through it.
+> **Note about the port:** the `gateway.host/port` is for the *messaging gateway*. The **desktop backend** in local mode starts on an **ephemeral port** of its own (`--port 0`), so you **don't** need to worry about port 8091 for the app connection. Leave it configured, but know that the desktop does not connect through it.
 
 Also make sure credentials are in the profile's `.env`:
 
@@ -127,14 +127,14 @@ hermes --profile macbook-local gateway start
 hermes --profile macbook-local gateway status     # should show "running" / LastExitStatus 0
 ```
 
-> **The golden rule:** always run gateway commands **as your normal user**. If you use `sudo` even once, the gateway creates runtime files (`gateway.lock`, `gateway.pid`, etc.) owned by `root`, and then your user's service **will never** start again (I detail this in the problems section). If you fall into this, the fix is also below.
+> **The golden rule:** always run gateway commands **as your normal user**. If you use `sudo` even once, the gateway creates runtime files (`gateway.lock`, `gateway.pid`, etc.) owned by `root`, and then your user's service **can never** start again (I detail this in the problems section). If you fall into this, the fix is also below.
 
 ### 4. Configure the desktop connection (default remote + macbook-local local)
 
-You can do it from the app (**Settings → Gateway**) or by editing the file directly. Editing the file is more explicit:
+You can do this via the app (**Settings → Gateway**) or by editing the file directly. Editing the file is more explicit:
 
 ```bash
-# back it up first
+# backup first
 cp ~/Library/Application\ Support/Hermes/connection.json \
    ~/Library/Application\ Support/Hermes/connection.json.bak
 ```
@@ -155,7 +155,7 @@ Set `~/Library/Application Support/Hermes/connection.json` to:
 }
 ```
 
-This says: "by default, everything local; **except** `default`, which is remote." (`authMode` can be `oauth` or `token` — if `token`, you also store the token here.)
+This says: "by default, everything local; **except** `default`, which is remote". (`authMode` can be `oauth` or `token` — if `token`, you also store the token here.)
 
 ### 5. Point the **desktop** to the local profile
 
@@ -165,14 +165,14 @@ This is the step almost everyone forgets. Create/edit `~/Library/Application Sup
 { "profile": "macbook-local" }
 ```
 
-Once the profile selector appears in the app (it only shows with **2+ profiles** visible), you can also switch from there — but for the app to *open* locally the first time, this file must exist.
+After the profile selector appears in the app (it only shows with **2+ visible profiles**), you can also switch there — but for the app to *open* in local the first time, this file needs to exist.
 
 ### 6. Restart the desktop app
 
-- **Cmd+Q** on Hermes (close it for real — just closing the window isn't enough on macOS).
+- **Cmd+Q** on Hermes (really quit — just closing the window is not enough on macOS).
 - Reopen.
 
-> **The first local startup takes ~30-60s** on a loading screen: the app recompiles the web UI on first run. That's normal — let it finish.
+> **The first local startup takes ~30-60s** on a loading screen: the app recompiles the web UI the first time. This is normal — let it finish.
 
 ### 7. Verify
 
@@ -180,7 +180,7 @@ Once the profile selector appears in the app (it only shows with **2+ profiles**
 # Both profiles visible, gateways "running":
 hermes profile list
 
-# The local gateway runs as YOU (your uid), not root:
+# The local gateway runs as YOU (your user UID), not root:
 ps -eo pid,uid,user,command | grep "profile macbook-local gateway run" | grep -v grep
 
 # No profile files belong to root:
@@ -193,7 +193,7 @@ In the app, you should see the **profile selector** with `macbook-local` (local,
 
 ## Problems I encountered (and how I solved each one)
 
-This is the part nobody documents. There were three real problems (in a chain) plus some minor warnings.
+This is the part nobody documents. There were three real issues (in cascade) and some minor warnings.
 
 ### Problem 1 — The local gateway wouldn't start: `PermissionError` on `gateway.lock`
 
@@ -206,10 +206,10 @@ PermissionError: [Errno 13] Permission denied:
 ```
 
 **Root cause:** at some point the gateway had been started with `sudo`. This left:
-- an **orphan process running as `root`** (reparented to PID 1), and
+- an **orphaned process running as `root`** (reparented to PID 1), and
 - 4 runtime files owned by `root`: `gateway.lock`, `gateway.pid`, `gateway_state.json`, `channel_directory.json`.
 
-Because `gateway.lock` was owned by root, my user's service couldn't even open the file (mode `a+`) to check if a gateway was already running → `PermissionError` → `exit 1` → launchd's `KeepAlive` kept retrying in a loop → the desktop gave up and went remote.
+With `gateway.lock` owned by root, my user's service couldn't even open the file (mode `a+`) to check if a gateway was already running → `PermissionError` → `exit 1` → launchd's `KeepAlive` kept retrying → the desktop gave up and went to remote.
 
 **How I fixed it:**
 
@@ -218,16 +218,16 @@ Because `gateway.lock` was owned by root, my user's service couldn't even open t
 hermes --profile macbook-local gateway stop
 #    (equivalent: launchctl bootout gui/$UID/ai.hermes.gateway-macbook-local)
 
-# 2. Kill the orphan root process (needs sudo — it's root)
-sudo kill <PID_OF_ROOT_PROCESS>
+# 2. Kill the orphaned root process (needs sudo — it's root)
+sudo kill <ROOT_PROCESS_PID>
 
-# 3. Give the runtime files back to your user (or delete them; they'll be recreated)
+# 3. Return the runtime files to your user (or delete them; they are recreated)
 sudo chown $USER:staff ~/.hermes/profiles/macbook-local/gateway.lock \
                        ~/.hermes/profiles/macbook-local/gateway.pid \
                        ~/.hermes/profiles/macbook-local/gateway_state.json \
                        ~/.hermes/profiles/macbook-local/channel_directory.json
 
-# 4. Remove stale lock/pid/state (they point to the already‑dead process)
+# 4. Clean up obsolete lock/pid/state (pointing to the already dead process)
 rm -f ~/.hermes/profiles/macbook-local/gateway.lock \
       ~/.hermes/profiles/macbook-local/gateway.pid \
       ~/.hermes/profiles/macbook-local/gateway_state.json
@@ -236,73 +236,73 @@ rm -f ~/.hermes/profiles/macbook-local/gateway.lock \
 hermes --profile macbook-local gateway start
 ```
 
-Result: gateway running with my uid, `gateway.lock`/`gateway.pid` recreated with correct ownership, `PermissionError` gone.
+Result: gateway running with my UID, `gateway.lock`/`gateway.pid` recreated with correct ownership, `PermissionError` gone.
 
 **Prevention:** **never** run `hermes ... gateway ...` with `sudo`. It was the root cause of everything.
 
-> Tip: you can delete the root‑owned files **without sudo** if the parent directory is yours (`rm` depends on write permission on the directory, not file ownership). `sudo` is only really needed for **killing the root process**.
+> Tip: you can delete root‑owned files **without sudo** if the parent directory is yours (`rm` depends on write permission on the directory, not file ownership). `sudo` is only really needed to **kill the root process**.
 
-### Problem 2 — Even with the gateway OK, the desktop stayed on remote
+### Problem 2 — Even with the gateway OK, the desktop stayed in remote
 
-**Symptom:** local gateway 100% healthy, but `desktop.log` kept showing:
+**Symptom:** local gateway 100% healthy, but the `desktop.log` kept saying:
 
 ```
 [boot] Connecting to remote Hermes backend at http://YOUR-REMOTE-HOST
 [boot] Remote Hermes backend is ready
 ```
 
-**Root cause:** the app's "local vs. remote" **does not come from the gateway** — it comes from `connection.json`, which was set to `mode: "remote"`. Fixing the gateway doesn't change this file. They are independent paths (remember the mental model?).
+**Root cause:** the app's "local vs. remote" **does not come from the gateway** — it comes from `connection.json`, which had `mode: "remote"`. Fixing the gateway does not change this file. They are independent paths (remember the mental model?).
 
 **How I fixed it:** changed `connection.json` to global `mode: "local"`, with `default` as a **remote override** (exactly the JSON from Step 4). Then `macbook-local` inherits `local`.
 
 ### Problem 3 — After going local, the desktop only showed the `default` profile
 
-**Symptom:** restarted the app and... only `default` showed up. `macbook-local` worked in the CLI, but **didn't even appear** in the app's profile selector.
+**Symptom:** restarted the app and... only `default` appeared. `macbook-local` worked in the CLI, but **didn't even show up** in the app's selector.
 
 **Root cause:** two things combined:
-- The app uses **its own** `active-profile.json`, which **didn't exist** → the app opened in `default`.
+- The app uses its **own** `active-profile.json`, which **did not exist** → the app opened in `default`.
 - Since `default` is remote (by my override), the app connected to the remote server, which only exposes `default`. And the app's profile selector **is hidden when there are fewer than 2 visible profiles**.
 
-In other words: the app was on the wrong profile (`default`/remote), so it never saw `macbook-local` locally.
+In other words: the app was on the wrong profile (`default`/remote), so it never saw the local `macbook-local`.
 
-**How I fixed it:** created `~/Library/Application Support/Hermes/active-profile.json` with `{ "profile": "macbook-local" }` (Step 5). Then the app opens in `macbook-local`, starts the local backend, and the local `/api/profiles` enumerates **both** profiles → the selector appears.
+**How I fixed it:** created `~/Library/Application Support/Hermes/active-profile.json` with `{ "profile": "macbook-local" }` (Step 5). Then the app opens in `macbook-local`, starts the local backend, and the local `/api/profiles` lists **both** profiles → the selector appears.
 
 > Before asking for another restart, I also "dry‑tested" the local backend with
 > `hermes --profile macbook-local dashboard --no-open --host 127.0.0.1 --port 0`
-> and confirmed the `HERMES_DASHBOARD_READY port=<n>` signal. Worth the habit: validate the backend in isolation before restarting the app.
+> and confirmed the `HERMES_DASHBOARD_READY port=<n>` signal. It's a good habit: validate the backend in isolation before restarting the app.
 
-### Minor problems (non‑blocking)
+### Minor issues (non‑blocking)
 
-They showed up in the logs but **did not** prevent the local setup — I'm recording them so you don't get scared:
+They appeared in the logs but **did not** prevent the local setup — I'm recording them so you don't get alarmed:
 
-- **WhatsApp bridge failing** (`Bridge process died (exit code 1)`): messaging platform connection/credential issue. The gateway keeps running ("continue for cron job execution").
-- **MCP `composio` with `401 Unauthorized`**: MCP token expired. Doesn't affect the gateway or local backend.
-- **`kanban dispatcher lock` already held by another gateway**: because I left **both** gateways running (default + local), the `default` one held the kanban dispatcher lock. If you want the local one to be the "owner", just stop the other profile's gateway (`hermes gateway stop`) — but it's optional.
+- **WhatsApp bridge failing** (`Bridge process died (exit code 1)`): messaging platform with connection/credential issues. The gateway keeps running ("continue for cron job execution").
+- **MCP `composio` with `401 Unauthorized`**: expired MCP token. Does not affect the gateway or local backend.
+- **`kanban dispatcher lock` already held by another gateway**: because I left **both** gateways running (default + local), the `default` one held the kanban dispatcher lock. If you want the local to be the "owner", just stop the other profile's gateway (`hermes gateway stop`) — but it's optional.
 
 ---
 
-## Lessons I take away
+## Lessons learned
 
-1. **Separate the concepts.** In Hermes there are *four* independent things: gateway (messaging/cron), desktop backend (chat), CLI active profile, and desktop active profile — plus the connection mode. Half the confusion disappears once you stop treating them as one.
-2. **Gateway ≠ desktop backend.** The gateway doesn't open a port for the app; the app's local backend is a `hermes dashboard` on an ephemeral port.
-3. **The desktop has its own `active-profile.json`.** `hermes profile use` in the CLI doesn't change the app.
+1. **Separate the concepts.** In Hermes there are *four* independent things: gateway (messaging/cron), desktop backend (chat), CLI active profile, and desktop active profile — plus the connection mode. Half the confusion disappears when you stop treating them as one.
+2. **Gateway ≠ desktop backend.** The gateway does not open a port for the app; the app's local backend is a `hermes dashboard` on an ephemeral port.
+3. **The desktop has its own `active-profile.json`.** `hermes profile use` in the CLI does not change the app.
 4. **For "some local, some remote": global `local` + remote overrides.** A per‑profile override cannot force local over a global remote.
-5. **Never `sudo` the gateway.** The root cause of everything was runtime files owned by root.
+5. **Never `sudo` on the gateway.** The root cause of everything was runtime files owned by root.
 
 ---
 
 ## Conclusion
 
-In the end, the ideal setup ("`default` remote, `macbook-local` local, switching from the app") is just **three well‑configured files** — `connection.json`, `active-profile.json`, and the profile's `config.yaml` — plus the gateway service running as your user. What turned this into a saga was treating independent pieces as if they were one. I hope this guide spares you the back‑and‑forth I went through.
+In the end, the ideal setup ("`default` remote, `macbook-local` local, switching through the app") is just **three files** properly configured — `connection.json`, `active-profile.json`, and the profile's `config.yaml` — plus the gateway service running as your user. What turned this into a saga was treating independent pieces as if they were one. I hope this guide saves you the back‑and‑forth I went through.
 
 If this post helped you (or if you fell into the same `PermissionError`), let me know.
 
 Read also:
 
-- [Enabling WhatsApp on Hermes Agent self-hosted: three pitfalls (and how I overcame them)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
+- [Enabling WhatsApp in Hermes Agent self‑hosted: three pitfalls (and how I got past them)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
 - [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [How to install Proxmox VE on a Mac Mini 2018 (T2 chip): the step‑by‑step that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
 
 ---
 
-You can reach out to talk about this and other topics at <contact@lucasaguiar.xyz>
+Feel free to reach out to talk about this and other topics via email at <contact@lucasaguiar.xyz>
