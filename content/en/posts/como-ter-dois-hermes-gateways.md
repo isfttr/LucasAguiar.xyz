@@ -298,8 +298,8 @@ If this post helped you (or if you fell into the same `PermissionError`), let me
 Read also:
 
 - [Enabling WhatsApp on Hermes Agent self-hosted: three pitfalls (and how I overcame them)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
-- [Creating my local AI assistant]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
 
 ---
 

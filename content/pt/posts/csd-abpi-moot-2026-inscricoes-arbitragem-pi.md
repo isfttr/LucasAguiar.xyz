@@ -61,8 +61,9 @@ As inscrições vão até **8 de julho de 2026** e devem ser feitas pelo site of
 
 Leia também:
 
-- [TRF2 reconhece importância do fortalecimento do INPI em decisão histórica da ABPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
-- [INPI atualiza Manual de Marcas: alto renome, Protocolo de Madri e o que muda para empresas [2026]]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [ABPI Lança 1º Concurso de Trabalhos Acadêmicos em PI: Inscrições Abertas até 22 de Julho [2026]]({{< relref "posts/abpi-concurso-trabalhos-academicos-pi-2026/" >}})
+- [TRF-2 Obriga União a Reestruturar o INPI: O que Isso Significa para suas Patentes?]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [Peter Dirk Siemsen (1943–2026): O legado do único brasileiro no Hall da Fama da Propriedade Intelectual]({{< relref "posts/peter-dirk-siemsen-legado-propriedade-intelectual/" >}})
 
 ---
 
