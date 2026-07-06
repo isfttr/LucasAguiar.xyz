@@ -1,6 +1,6 @@
 ---
 date: 2026-07-05T10:00:00-03:00
-draft: true
+draft: false
 title: "Como Rodar Dois Hermes Gateways: Um Remoto e Um Local"
 description: "Guia prático para configurar dois profiles do Hermes — um remoto, um local no Mac. Inclui o modelo mental que evita 90% da confusão e todos os problemas que encontrei no caminho."
 featured_image: ""
@@ -21,7 +21,7 @@ Eu queria uma coisa aparentemente simples: manter meu profile `default` do [Herm
 
 "Simples" durou até eu descobrir que o Hermes tem **várias noções independentes de 'profile ativo' e 'local vs. remoto'**, e que elas não conversam entre si automaticamente. Este post é o guia que eu queria ter tido: primeiro o modelo mental, depois o passo a passo correto e, no fim, todos os problemas que encontrei e como resolvi cada um.
 
-> Ambiente: macOS (Apple Silicon), Hermes Agent v0.17.x, app desktop (Electron). Os caminhos de config do desktop são específicos do macOS; no Linux ficam em `~/.config/hermes/`.
+> Ambiente: macOS (Apple Silicon M2), Hermes Agent v0.17.x, app desktop (Electron). Os caminhos de config do desktop são específicos do macOS; no Linux ficam em `~/.config/hermes/`.
 
 ---
 
