@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T01:12:24.254Z",
+  "last_updated": "2026-07-06T01:28:02.251Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1739,7 +1739,7 @@
         "article"
       ],
       "description_en": "Practical guide to setting up two Hermes profiles — one remote, one local on Mac. Includes the mental model that avoids 90% of the confusion and all the problems I encountered along the way.",
-      "content_hash_en": "0da15a0af457f6b7bfcf369e489afafe3dece254627b588b8204ec39119b4182",
+      "content_hash_en": "2f1eda8cdb374975ccdb638bb12ba80b532bf6f109e3d9d21a888a16e1c718b0",
       "backlinks": [
         "configuracao-whatsapp-hermes",
         "creating-my-ai-assistant-locally",
