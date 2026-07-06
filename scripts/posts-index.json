@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T01:05:08.987Z",
+  "last_updated": "2026-07-06T01:12:24.254Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1725,7 +1725,7 @@
     },
     "como-ter-dois-hermes-gateways": {
       "slug": "como-ter-dois-hermes-gateways",
-      "title_en": "Como Rodar Dois Hermes Gateways: Um Remoto e Um Local",
+      "title_en": "How to Run Two Hermes Gateways: One Remote and One Local",
       "title_pt": "Como Rodar Dois Hermes Gateways: Um Remoto e Um Local",
       "tags": [
         "hermes",
@@ -1738,15 +1738,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia prático para configurar dois profiles do Hermes — um remoto, um local no Mac. Inclui o modelo mental que evita 90% da confusão e todos os problemas que encontrei no caminho.",
-      "content_hash_en": null,
-      "content_hash_pt": "aa39a43c0ca87f74be95fd1b388427a29c7124e7fe403ed0c21d14e4b0fc9b23",
+      "description_en": "Practical guide to setting up two Hermes profiles — one remote, one local on Mac. Includes the mental model that avoids 90% of the confusion and all the problems I encountered along the way.",
+      "content_hash_en": "0da15a0af457f6b7bfcf369e489afafe3dece254627b588b8204ec39119b4182",
       "backlinks": [
         "configuracao-whatsapp-hermes",
         "creating-my-ai-assistant-locally",
         "proxmox-mac-mini-2018-t2"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-06T01:05:08.987Z"
     }
   }
