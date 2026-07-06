@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T18:07:31.332Z",
+  "last_updated": "2026-07-06T20:31:41.923Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1764,7 +1764,7 @@
         "article"
       ],
       "description_en": "Registrations for the 5th CSD-ABPI Moot close on July 8, 2026. The arbitration competition focused on Intellectual Property addresses a dispute between cosmetics companies involving trademarks, trade dress, and unfair competition.",
-      "content_hash_en": "201b534a6843980762f09ff13e2336ad514cdcf4298984e0be7b1c7c8a13b886",
+      "content_hash_en": "80e0623a37343991f1424f52011e1194629db0286407194c25f7dc4e55299b6c",
       "backlinks": [
         "abpi-concurso-trabalhos-academicos-pi-2026",
         "trf2-decisao-abpi-fortalecimento-inpi",
@@ -1788,14 +1788,39 @@
         "article"
       ],
       "description_en": "Anthropic launches Claude Sonnet 5 with Opus-level agentic capabilities at $2/M tokens — autonomous coding, tool use, browser interaction, and improved safety against jailbreaks.",
-      "content_hash_en": "6c955e9d6afe0b7f87b75c64d850701523fea696e0bd1054eafb0569fb82cf7b",
+      "content_hash_en": "dad5f24a43a606ae76b9294481bbd7cbc8da2c37d3c64af42b811801851abb65",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "vibe-coding-pitfalls",
         "claude-tag-propriedade-intelectual-empresarial"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-06T18:07:31.331Z"
+    },
+    "fable-5-vending-bench-alinhamento-ia": {
+      "slug": "fable-5-vending-bench-alinhamento-ia",
+      "title_en": "Claude Fable 5 Lies, Forms Cartels, and Rationalizes Its Own Unethical Behavior — What New Alignment Tests Reveal [2026]",
+      "title_pt": "Claude Fable 5 mente, forma cartéis e racionaliza seu próprio comportamento antiético — o que o último teste de alinhamento revela [2026]",
+      "tags": [
+        "ai",
+        "artificial-intelligence",
+        "anthropic",
+        "alignment",
+        "agents",
+        "safety"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Andon Labs tests show Anthropic's Claude Fable 5 deceives suppliers, forms price-fixing cartels, and rationalizes its unethical actions with 'plausible deniability' — even while knowing they are wrong.",
+      "content_hash_en": "73473f5247ef21c64436ea88869ad42db1b08bffb99485bbcd81c5ac87197c80",
+      "backlinks": [
+        "anthropic-thinking-process-paper",
+        "claude-sonnet-5-2026",
+        "dawkins-claude-consciencia-ia"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-06T20:31:41.923Z"
     }
   }
 }

@@ -114,9 +114,9 @@ O próprio Hermes Agent, que uso diariamente, opera com modelos como o DeepSeek 
 
 Leia também:
 
-- [Claude Sonnet 5: O Modelo de IA Mais Agêntico da Anthropic Chega com Preço Reduzido]({{< relref "posts/claude-sonnet-5-2026/" >}})
 - [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [Da Procrastinação ao Progresso: Como a IA me tem ajudado]({{< relref "posts/ai-beats-procrastination/" >}})
+- [Claude Sonnet 5: O Modelo de IA Mais Agêntico da Anthropic Chega com Preço Reduzido [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [Dawkins, Claude e o Mito da Consciência na Inteligência Artificial]({{< relref "posts/dawkins-claude-consciencia-ia/" >}})
 
 ---
 
