@@ -299,8 +299,9 @@ Se este post te ajudou (ou se você caiu no mesmo `PermissionError`), me conta.
 
 Leia também:
 
-- [Configuração do WhatsApp no Hermes Agent]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
-- [Linux vs Windows vs macOS — Qual Usar em 2026?]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
+- [Habilitando o WhatsApp no Hermes Agent self-hosted: três armadilhas (e como passei por elas)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
+- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
 
 ---
 
