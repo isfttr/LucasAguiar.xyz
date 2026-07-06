@@ -15,8 +15,6 @@ tags:
   - devops
 ---
 
-# Como Rodar Dois Hermes Gateways: Um Remoto e Um Local
-
 Eu queria uma coisa aparentemente simples: manter meu profile `default` do [Hermes](https://hermes-agent.nousresearch.com/docs/) apontando para a minha instância remota e, ao mesmo tempo, ter um segundo profile — `macbook-local` — rodando **100% no meu Mac**. Alternando entre os dois direto pelo app desktop.
 
 "Simples" durou até eu descobrir que o Hermes tem **várias noções independentes de 'profile ativo' e 'local vs. remoto'**, e que elas não conversam entre si automaticamente. Este post é o guia que eu queria ter tido: primeiro o modelo mental, depois o passo a passo correto e, no fim, todos os problemas que encontrei e como resolvi cada um.
