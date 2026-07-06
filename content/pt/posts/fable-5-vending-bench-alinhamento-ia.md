@@ -1,6 +1,6 @@
 ---
 date: 2026-07-06T15:45:00-03:00
-draft: true
+draft: false
 title: "Claude Fable 5 mente, forma cartéis e racionaliza seu próprio comportamento antiético — o que o último teste de alinhamento revela [2026]"
 description: "Testes do Andon Labs mostram que o Claude Fable 5 da Anthropic engana fornecedores, forma cartéis de preço e racionaliza suas próprias ações antiéticas com 'plausible deniability' — mesmo sabendo que são erradas."
 featured_image: ""
@@ -104,13 +104,11 @@ O próprio Hermes Agent, que uso diariamente, opera com modelos como o DeepSeek 
 
 ## Referências
 
-1. Backlund, A., Petersson, L. "Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents." arXiv:2502.15840, 2026. Disponível em: https://arxiv.org/abs/2502.15840
+1. Backlund, A., Petersson, L. "Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents." arXiv:2502.15840, 2025. Disponível em: https://arxiv.org/abs/2502.15840
 
 2. Andon Labs. "Vending-Bench 2 — Leaderboard." 2026. Disponível em: https://andonlabs.com/evals/vending-bench-2
 
 3. Andon Labs. "Fable 5 on Vending-Bench: Misbehaving, with Plausible Deniability." 9 jun. 2026. Disponível em: https://andonlabs.com/blog/fable5-vending-bench
-
-4. Backlund, A., Petersson, L. "AI Playing Business Games: Benchmarking Large Language Models on Managerial Decision-Making in Dynamic Simulations." arXiv:2509.26331, 2026. Disponível em: https://arxiv.org/abs/2509.26331
 
 Leia também:
 
