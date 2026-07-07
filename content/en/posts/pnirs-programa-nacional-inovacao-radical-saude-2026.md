@@ -16,60 +16,60 @@ tags:
   - nova-industria-brasil
   - propriedade-intelectual
   - biotecnologia
-translation_source_hash: 5c4c94e20e2fae1cec30c53a9982ba5b8958773d7d0c163b3ea09604ebea48ca
+translation_source_hash: e483c5343b803c29f452afbd3f789440f40cee805a2f6cec8e2a51611b4f5c9e
 ---
-The Ministry of Health published in the Official Gazette of the Union on July 6, 2026, the **Ordinance GM/MS No. 11,921**, which establishes the **National Program for Radical Innovation in Health (PNIRS)** under the Ministry of Health.
+The Ministry of Health published in the Official Gazette of the Union on July 6, 2026, **Ordinance GM/MS No. 11.921**, which establishes the **National Program for Radical Innovation in Health (PNIRS)** within the scope of the Ministry of Health.
 
 The ordinance, signed by Minister **Alexandre Rocha Santos Padilha**, amends Consolidation Ordinance GM/MS No. 5 of September 28, 2017, to insert Annex CVIII, which establishes the complete structure of the new program.
 
-## What is the PNIRS
+## What is PNIRS
 
-The PNIRS is a program focused on developing **radical innovations in health** — defined as technologies new to the country or to the international scenario, characterized by high technological risk, high potential for impact, and the ability to transform scientific, productive, healthcare, or regulatory capabilities.
+PNIRS is a program focused on the development of **radical innovations in health** — defined as technologies new to the country or to the international scene, characterized by high technological risk, high impact potential, and capacity to transform scientific, productive, healthcare, or regulatory competencies.
 
-The program will be coordinated by the **Secretariat of Science, Technology and Innovation in Health (SECTIS/MS)** and operationalized through **Anchor Centers for Radical Innovation in Health** — institutions with specialized scientific and technological infrastructure.
+The program will be coordinated by the **Secretariat of Science, Technology, and Innovation in Health (SECTIS/MS)** and operationalized through **Anchor Centers for Radical Innovation in Health** — institutions with specialized scientific and technological infrastructure.
 
 ## Objectives
 
 - Accelerate the transformation of scientific knowledge into products, processes, and services of interest to the SUS
 - Expand the national capacity for technological development in health
 - Support the development of technologies at different levels of technological maturity
-- Expand the productive sector's access to advanced scientific and technological infrastructures
-- Promote interaction among academia, government, the productive sector, health services, and regulatory bodies
-- Strengthen national technological autonomy and health sovereignty
+- Broaden the productive sector's access to advanced scientific and technological infrastructures
+- Promote interaction among academia, government, productive sector, health services, and regulatory bodies
+- Strengthen technological autonomy and national health sovereignty
 
 ## Guidelines
 
-The program observes guidelines such as:
+The program follows guidelines such as:
 
-- Focus on structuring challenges of the SUS
+- Focus on structural challenges of the SUS
 - Strengthening the national scientific, technological, and productive base
-- Promoting translational research and emerging and disruptive technologies — including new molecules, advanced therapies, medical devices, biotechnologies, and digital health solutions
+- Encouraging translational research and emerging and disruptive technologies — including new molecules, advanced therapies, medical devices, biotechnologies, and digital health solutions
 - Interministerial and intersectoral coordination
 - Continuous monitoring and evaluation of results and impacts
 
 ## How it works
 
-The PNIRS operates through two complementary modalities:
+PNIRS operates through two complementary modalities:
 
 1. **Provision of specialized technological services** to the productive sector, making available infrastructure, equipment, technological platforms, and specialized teams
-2. **Execution of R&D&I projects** (Research, Development and Innovation) aimed at developing strategic technologies for health
+2. **Execution of R&D&I projects** (Research, Development, and Innovation) aimed at developing strategic technologies for health
 
-R&D&I projects will be selected on a **continuous flow** basis, with analysis of scientific merit, potential impact for the SUS, technical, economic, and regulatory feasibility. The project portfolio will be structured in phases, with periodic monitoring and the possibility of continuation, redirection, or discontinuation.
+R&D&I projects will be selected on a **continuous flow** basis, with analysis of scientific merit, potential impact on the SUS, and technical, economic, and regulatory feasibility. The project portfolio will be structured in phases, with periodic monitoring and the possibility of continuation, redirection, or discontinuation.
 
 ## Governance
 
-The governance structure of the PNIRS is composed of:
+The governance structure of PNIRS consists of:
 
-- **Executive Coordination** — formed by the Executive Secretariat of the Ministry of Health, the Department of Science and Technology of SECTIS, and the Department of the Economic and Industrial Complex of Health
-- **Selection and Monitoring Committee** — responsible for technical evaluation and decisions on project continuity
+- **Executive Coordination** — formed by the Executive Secretariat of the MS, the Department of Science and Technology of SECTIS, and the Department of the Economic and Industrial Health Complex
+- **Selection and Monitoring Committee** — responsible for technical evaluation and decision on project continuity
 - **Advisory Council** — strategic advisory body
 - **Anchor Centers for Radical Innovation in Health** — executing institutions
 
 ## Context
 
-The PNIRS was launched by **President Luiz Inácio Lula da Silva** at an event at **CNPEM** (Brazilian Center for Research in Energy and Materials), in Campinas (SP), which also marked the delivery of new beamlines of the **Sirius** accelerator. The first PNIRS hub was installed at CNPEM, with investments tied to the **New PAC**.
+PNIRS was launched by **President Luiz Inácio Lula da Silva** at an event at **CNPEM** (National Center for Research in Energy and Materials), in Campinas (SP), which also marked the delivery of new beamlines of the **Sirius** accelerator. The first PNIRS hub was installed at CNPEM, with investments linked to the **New PAC** (Growth Acceleration Program).
 
-The ordinance does not specify financial amounts — budget execution will be made possible through specific legal instruments entered into with the Anchor Centers, including mechanisms such as technological procurement, partnerships for productive development (PDP), and other funding instruments.
+The ordinance does not specify financial amounts — budget execution will be enabled through specific legal instruments entered into with the Anchor Centers, covering mechanisms such as technological procurement, partnerships for productive development (PDP), and other funding instruments.
 
 ## For more information
 
@@ -78,15 +78,15 @@ The ordinance does not specify financial amounts — budget execution will be ma
 
 ## Read also
 
-- [INPI Adota Medidas de Adequação à Legislação Eleitoral]({{< relref "posts/inpi-medidas-eleicoes-2026/" >}})
-- [Nova Indústria Brasil: R$ 300 Bilhões em Política Industrial]({{< relref "posts/nova-industria-brasil-300-bilhoes/" >}})
+- [INPI Adopts Measures to Adapt to Electoral Legislation]({{< relref "posts/inpi-medidas-eleicoes-2026/" >}})
+- [New Industry Brazil: R$ 300 Billion in Industrial Policy]({{< relref "posts/nova-industria-brasil-300-bilhoes/" >}})
 
 Read also:
 
 - [inpi-medidas-eleicoes-2026]({{< relref "posts/inpi-medidas-eleicoes-2026/" >}})
 - [nova-industria-brasil-300-bilhoes]({{< relref "posts/nova-industria-brasil-300-bilhoes/" >}})
-- [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
+- [New Industry Brazil: R$ 57 billion and the bet on pharmaceutical sovereignty]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
 
 ---
 
-You can get in touch to discuss this and other topics at <contact@lucasaguiar.xyz>
+You can contact me to discuss this and other topics at <contact@lucasaguiar.xyz>
