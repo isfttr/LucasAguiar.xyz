@@ -85,7 +85,7 @@ Read also:
 
 - [inpi-medidas-eleicoes-2026]({{< relref "posts/inpi-medidas-eleicoes-2026/" >}})
 - [nova-industria-brasil-300-bilhoes]({{< relref "posts/nova-industria-brasil-300-bilhoes/" >}})
-- [New Industry Brazil: R$ 57 billion and the bet on pharmaceutical sovereignty]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
+- [inpi-medidas-eleicoes-2026]({{< relref "posts/inpi-medidas-eleicoes-2026/" >}})
 
 ---
 

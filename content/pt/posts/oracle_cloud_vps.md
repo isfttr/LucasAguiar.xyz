@@ -74,12 +74,6 @@ Espero que este artigo tenha sido útil para alguns de vocês que estão tentand
 
 Leia também:
 
-- [Guia Completo: Como Integrar Beehiiv ao Hugo via Cloudflare Workers]{{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}}
-- [NixOS - Máquina Virtual usando QEMU]{{< relref "posts/nixos-vm1/" >}}
-- [Corrigir Erros de Login na Interface Web do Proxmox; um Guia Passo a Passo]{{< relref "posts/troubleshooting-proxmox-login-interface/" >}}
-
-Leia também:
-
 - [Guia Completo: Como Integrar o Beehiiv ao Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
 - [NixOS - Máquina Virtual usando QEMU]({{< relref "posts/nixos-vm1/" >}})
 - [Corrigindo Erros de Login na Interface Web do Proxmox: Guia Passo a Passo]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})

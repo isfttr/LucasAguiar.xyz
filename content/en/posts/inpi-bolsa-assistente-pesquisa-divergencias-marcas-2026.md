@@ -56,11 +56,11 @@ The research will be linked to CGREC, the unit responsible for appeals and admin
 - [How Much Does It Cost to Register a Trademark at INPI in 2026?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [INPI Accreditation for Patent Search: Complete Guide 2026]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
 
-Leia também:
+Read also:
 
-- [How Much Does It Cost to Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [inpi-credenciamento-busca-patentes]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
-- [How Much Does It Cost to Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 

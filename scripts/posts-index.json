@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T18:32:33.432Z",
+  "last_updated": "2026-07-07T18:55:46.464Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -15,7 +15,7 @@
         "tutorial"
       ],
       "description_en": "Using OpenRouter to power AI in Obsidian.",
-      "content_hash_en": "2b5c5bf95f7ba4303a3f2ba48e3de0c6a544855e4e7f41e2261c9d4bbbf6ea9b",
+      "content_hash_en": "554c08e53cca69b7e62461d03c79b23f34a78b26743cdd1647bbd575b269ed21",
       "backlinks": [
         "creating-my-ai-assistant-locally",
         "anthropic-thinking-process-paper",
@@ -42,7 +42,7 @@
       ],
       "categories": [],
       "description_en": "10 years with a laptop is quite a journey and unimaginable 10 years ago, and here we are.",
-      "content_hash_en": "8be8c58890b76f116e077db2a6649aa4eba2d51fe2f3b4d7f8d14f3986a92dcd",
+      "content_hash_en": "62827e89a0b208a9f908057df03fb5f1861f9c4ffc07cb93111fc933042c380e",
       "backlinks": [
         "nixos-vm1",
         "introduction",
@@ -128,7 +128,7 @@
       ],
       "categories": [],
       "description_en": "The startup hu.ma.ne launched its first product, the AI Pin. This device is really different and it is another landmark on the beginning of the AI era. A device exclusively made to be the AI assistant for the everyday folk. Will it succeed?",
-      "content_hash_en": "2dd9d30c2ad71e73feea9976643f490ffaced11818dd486d8217e13d0fb02b7d",
+      "content_hash_en": "fc7a89d362feb1e76b13f2c1486ca7617807851e7dfcf85d2f5fb081cd370589",
       "backlinks": [
         "creating-my-ai-assistant-locally",
         "ai-copy-paste-problem",
@@ -153,7 +153,7 @@
         "article"
       ],
       "description_en": "Learn how artificial intelligence is revolutionizing our understanding of proteins - the workhorses of life - and transforming medicine, agriculture, and environmental science along the way.",
-      "content_hash_en": "3beda2464550b42a6acd0dba3bea35a465c6f5b2aff7e7054d70803fafda6e88",
+      "content_hash_en": "2c56ed2b7c2d44f47db05794330af300a1e307b4427e4c272b5f691f6536e7ee",
       "backlinks": [
         "ia-desenvolvimento-software-complexidade-codigo",
         "backlog-inpi-patentes-farmaceuticas",
@@ -203,7 +203,7 @@
         "article"
       ],
       "description_en": "The Backlog Combat Plan reduced the overall stock by 80%, but pharmaceutical orders were left out. Understand what changed with Ordinance 110/2025 and what is still pending.",
-      "content_hash_en": "78abfeb9fe841593b0767611ede8fdbbc7bafc216b6e9e5a063ab6568e62774e",
+      "content_hash_en": "9a5b2b55840d3d9ea98bc8e88570badcb80709830820bf2e2c2664cac88c1b0a",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "propostas_pta_patentes_2026",
@@ -299,7 +299,7 @@
         "tutorial"
       ],
       "description_en": "A practical guide to implementing progress bars, real-time updates, and other interactive features in your Flask web applications.",
-      "content_hash_en": "2ee245d7492cee513ea5e72ec37ec08af4438f58a03ae17d0621b61e045ca893",
+      "content_hash_en": "8e8935f860daed8536a9f291c4cb12210ddb2ea03ac9b4faeeb5f9799855b6b0",
       "backlinks": [
         "python-modules-guide",
         "oracle_cloud_vps",
@@ -325,7 +325,7 @@
         "tutorial"
       ],
       "description_en": "Learn how to securely manage sensitive information in your GitHub projects using Secrets and integrate them with containerized applications and services exposed to the internet.",
-      "content_hash_en": "39cdd177d1c2f2d4b062e5f68f90ef0f51e8fe140e1430b308676080453d8c63",
+      "content_hash_en": "5410a38e7736e4a446130f6ebbe9d6e7094e60ab9ba0d758d78b3201a5527356",
       "backlinks": [
         "oracle_cloud_vps",
         "script-update-open_webui-lxc",
@@ -400,7 +400,7 @@
         "video"
       ],
       "description_en": "This initiative aims to streamline the patent process, enhance user experience, and improve the efficiency of patent examiners.",
-      "content_hash_en": "6f3f42a13092f0533c2482df8deae34d7422ca1a68b38fadc7b768af3cf1d53e",
+      "content_hash_en": "ee96bf1f75530e90cf2885a2ed941a6f60c76f151a482ad9e50a6291d6871d9b",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "propostas_pta_patentes_2026",
@@ -451,7 +451,7 @@
         "tutorial"
       ],
       "description_en": "Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.",
-      "content_hash_en": "48c4bfb8ae3a4b74ce2831b67661dc677e80b05b88d17f69de133e022caf72d5",
+      "content_hash_en": "f6586e3c4f305dd6d168d2b2d61dd5448081bda271ca1ae83f9a9625901ee376",
       "backlinks": [
         "oracle_cloud_vps",
         "troubleshooting-proxmox-login-interface",
@@ -520,7 +520,7 @@
         "article"
       ],
       "description_en": "A comprehensive guide to successful collaboration in open science initiatives, covering essential practices from communication strategies to data management and credit attribution.",
-      "content_hash_en": "67efd4acd51a4656ddc86fb5bd7abd227d0346e6e63db057a518730543d22438",
+      "content_hash_en": "33eb585eab6f4db42df6b16ed5e5644ae2f155443a14724851ec721fcb3cfb77",
       "backlinks": [
         "propostas_pta_patentes_2026",
         "backlog-inpi-patentes-farmaceuticas",
@@ -599,7 +599,7 @@
         "tutorial"
       ],
       "description_en": "Learn how to effectively use Python modules to organize your code, import functionality, and build more maintainable projects. This guide covers everything from basic imports to creating your own modules and packages.",
-      "content_hash_en": "d5ca7e3031ccbd66f4b46c7f40fe857b572c41fdedacfac55033c79dbac10ca4",
+      "content_hash_en": "315153dd7d88ed56e0a41b70eef39d4ff5974f956063aeaffe50d4dde6669d77",
       "backlinks": [
         "flask-progress-bars-and-beyond",
         "one-week-review-gitbutler",
@@ -650,7 +650,7 @@
         "tutorial"
       ],
       "description_en": "A comprehensive guide to blob storage solutions, including Azure Blob Storage and Amazon S3, their history, use cases, costs, and alternatives for efficient cloud-based object storage.",
-      "content_hash_en": "f9d168620871cd12368499f2e5d27ba0c519ff891901f2a376e1a9e43a04236f",
+      "content_hash_en": "c692622c3e1471d18ffd9b64053235be7979a5f9a9d9faff0b4f2c76b34a3ea1",
       "backlinks": [
         "oracle_cloud_vps",
         "introduction",
@@ -741,7 +741,7 @@
         "article"
       ],
       "description_en": "Honest perspective from someone who used all three systems for years — why I chose macOS, when Linux is really worth it, and what still bothers me about Windows.",
-      "content_hash_en": "bd7808c241c33f29e3ccde207f9b0b411c82c86153d24944ad7a8a7cb9fbe269",
+      "content_hash_en": "01cf4d4db2871699a0cb8ec812985583a11846382c3022e8d5f3d2bbfc941692",
       "backlinks": [
         "10-years-of-macbook-pro",
         "introduction",
@@ -815,7 +815,7 @@
         "article"
       ],
       "description_en": "The ESR 6C006 Geo Digital Pencil does not have auto shutoff (sleep mode). Understand the technical reason, its relationship with Apple Find My, and if it's possible to modify the firmware.",
-      "content_hash_en": "a2c9d83a17ba8fed834e43a27f5b0dfe7485fc31cb555c9dfd5067f44f7326e1",
+      "content_hash_en": "3ff76017570212e99d2610b8fd1eb0afe7f81ab76afe0ee816c5f0af8713d614",
       "backlinks": [
         "10-years-of-macbook-pro",
         "linux-windows-macos-qual-usar-2026",
@@ -886,13 +886,13 @@
       ],
       "categories": [],
       "description_en": "INPI released a report consolidating internal proposals for the revision of Law 9,279/1996 — the IP Law that has governed patents, trademarks, and industrial designs in Brazil for 30 years.",
-      "content_hash_en": "7aef874176a79ba8261d11a01e9194c8e0d80b7079d624104aa5c1914f83cb98",
+      "content_hash_en": "519a49ec662a393e1dfb80f62db0fea00b3022c70b88160c2944e7df8abb6395",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "inpi-automation-roadmap-2025-2029",
         "backlog-inpi-patentes-farmaceuticas"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-06-22T20:14:17.636Z"
     },
     "trf2-decisao-abpi-fortalecimento-inpi": {
@@ -1292,7 +1292,7 @@
         "article"
       ],
       "description_en": "Founder of ABPI, former president of AIPPI, and the only Brazilian in the IP Hall of Fame, Peter Dirk Siemsen leaves a legacy that shaped intellectual property in Brazil and worldwide.",
-      "content_hash_en": "ddc579575ea5da83c4d7d3ada8f704e7bbbaa64bf3665f0df89d5fd7b1a502e6",
+      "content_hash_en": "0e74832faa34ec459f54b7a52417c02056105b21bdb2aa7104ec37ae214226a1",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1440,7 +1440,7 @@
         "article"
       ],
       "description_en": "INPI published a call for applications to accredit professionals who will perform prior art searches in patent applications. Learn the requirements, deadlines, and how to apply.",
-      "content_hash_en": "61adcfca81da76d4425d63d36457cf845e5d39deef586470223701cfd6cf762b",
+      "content_hash_en": "d03444c32133fdac47dabb93adc01c61505daf1ed2fd42a3e9bbae1032adb917",
       "backlinks": [
         "edital-casos-sucesso-pi-inpi-2026",
         "como-consultar-andamento-processo-inpi",
@@ -1589,7 +1589,7 @@
         "article"
       ],
       "description_en": "The INPI Technological Radar reveals the complete profile of industrial property use in Espírito Santo: who files, in which areas, and how the state positions itself in innovation.",
-      "content_hash_en": "1e116e52c5daf5050d559920c4e35447c56f1d23ef49d52cbdf7f47b2560b9e7",
+      "content_hash_en": "f700667cc095a3266eac22f4cf6c503aae7cfae5bc0c489669411e8f2f305218",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
         "mapa-global-patentes-pct-2025-brasil",
@@ -1837,8 +1837,8 @@
       "categories": [
         "tutorial"
       ],
-      "description_en": "Step-by-step to connect Google Search Console to the Hermes agent via MCP: service account, the gsc-mcp server, and the necessary adjustments to run inside Docker.",
-      "content_hash_en": "1c6b5db89d5937b38b113d95fde94816e4347ca96c80fde99cada59abc7a8381",
+      "description_en": "Step by step to connect Google Search Console to the Hermes agent via MCP: service account, the gsc-mcp server and the necessary adjustments to run inside Docker.",
+      "content_hash_en": "f7d4897104665684d759d7db130957d656ccaaf48bdcedf8523558763f49b90a",
       "backlinks": [
         "creating-my-ai-assistant-locally",
         "creating-my-ai-assistant-locally",
@@ -1874,7 +1874,7 @@
     "making-of-claude-code-origin-story-2026": {
       "slug": "making-of-claude-code-origin-story-2026",
       "title_en": "The Making of Claude Code: From Internal CLI to Anthropic's Coding Agent [2026]",
-      "title_pt": "A Criação do Claude Code: De CLI Interno ao Agente de Codificação da Anthropic [2026]",
+      "title_pt": "A Criação do Claude Code: Da CLI Interna ao Agente de Codificação da Anthropic [2026]",
       "tags": [
         "ai",
         "dev",
@@ -1885,7 +1885,7 @@
         "article"
       ],
       "description_en": "The inside story of how Claude Code evolved from a two-day experiment to the coding agent that transformed software development. Told by the people who built it.",
-      "content_hash_en": "035562c1ea97a4ef85e7d6fe7969926d475bd0bb61530308248a65f72432fae9",
+      "content_hash_en": "9e8dc84e6dcb83f9ae7e07234668b15dacdc848e07a0b9b882d42bf7acf8f7a8",
       "backlinks": [
         "experience-with-cursor-and-windsurf",
         "claude-sonnet-5-2026",
@@ -1919,7 +1919,7 @@
     },
     "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026": {
       "slug": "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026",
-      "title_en": "INPI Opens Grant of R$ 6 Thousand for Research on Technical Divergences in Trademarks [2026]",
+      "title_en": "INPI Opens R$ 6 Thousand Grant for Research on Technical Divergences in Trademarks [2026]",
       "title_pt": "INPI Abre Bolsa de R$ 6 Mil para Pesquisa em Divergências Técnicas em Marcas [2026]",
       "tags": [
         "inpi",
@@ -1932,8 +1932,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "INPI's PDPI notice offers a scholarship of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "8ebe9d76bab2302a245bef758c8c80293053169d96674e9107b8d111c8d86340",
+      "description_en": "INPI's PDPI Notice offers a scholarship of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
+      "content_hash_en": "96888019591c958e87de88f0d2cb717223160227d0c8607221a52ba3e85409b2",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-credenciamento-busca-patentes",
@@ -1961,11 +1961,11 @@
         "article"
       ],
       "description_en": "GM/MS Ordinance No. 11,921 creates the PNIRS to accelerate the transformation of scientific knowledge into products and services for the SUS, with Anchor Centers and interministerial coordination.",
-      "content_hash_en": "4075eb794d3895c5d3aee6460e6ae000b7d08a9d54d268b6a31f9e2cc42c241e",
+      "content_hash_en": "5f26bcbb4a38d627af22fb45e2f6696c760ea3e51e95e908416912e6d2ac7a54",
       "backlinks": [
         "inpi-medidas-eleicoes-2026",
         "nova-industria-brasil-300-bilhoes",
-        "nova-industria-brasil-saude-patentes"
+        "inpi-medidas-eleicoes-2026"
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-07T18:28:07.468Z"

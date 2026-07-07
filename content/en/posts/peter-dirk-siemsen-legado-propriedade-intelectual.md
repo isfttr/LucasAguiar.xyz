@@ -70,12 +70,6 @@ At a time when INPI is undergoing a historic restructuring (confirmed by the rec
 
 Read also:
 
-- [TRF-2 confirms decision that paves the way for INPI's restructuring]{{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}}
-- [LPI at 30 years: INPI publishes report with proposals for improving the Industrial Property Law]{{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}}
-- [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]{{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}}
-
-Read also:
-
 - [TRF-2 confirms ruling that paves the way for the restructuring of INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
 - [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 - [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
