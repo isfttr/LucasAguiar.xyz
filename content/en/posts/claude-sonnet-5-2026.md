@@ -1,6 +1,6 @@
 ---
 date: 2026-07-06T15:00:00-03:00
-draft: true
+draft: false
 title: "Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price [2026]"
 description: "Anthropic launches Claude Sonnet 5 with Opus-level agentic capabilities at $2/M tokens — autonomous coding, tool use, browser interaction, and improved safety against jailbreaks."
 featured_image: ""
