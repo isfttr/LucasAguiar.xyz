@@ -1,6 +1,6 @@
 ---
 date: 2026-07-05T13:00:00.000Z
-draft: true
+draft: false
 title: GitButler in the Terminal
 description: Exploring GitButler's new CLI and TUI — how 'but' is transforming Git workflow directly from the terminal, without leaving the editor. Comparison with the Desktop and command tips.
 featured_image: ''
