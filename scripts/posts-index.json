@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T19:07:08.832Z",
+  "last_updated": "2026-07-07T22:30:43.787Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1932,12 +1932,12 @@
       "categories": [
         "article"
       ],
-      "description_en": "INPI's PDPI Notice offers a scholarship of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "cf84e1d5cf60ba1a0fc8eecdfb6d236cb15a24dbbaf8aed3168d1eebb46c530a",
+      "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
+      "content_hash_en": "f18b820a20fcc70ed71256123bcfca1d7d4352251d881486146d517a16fa686e",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-credenciamento-busca-patentes",
-        "quanto-custa-registrar-marca-inpi-2026"
+        "inpi-credenciamento-busca-patentes"
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-07T18:17:05.880Z"
@@ -1961,7 +1961,7 @@
         "article"
       ],
       "description_en": "GM/MS Ordinance No. 11,921 creates the PNIRS to accelerate the transformation of scientific knowledge into products and services for SUS, with Anchor Centers and interministerial coordination.",
-      "content_hash_en": "57155e49b8ba89414b3648961e41b511da1f321243e2a0354599834554524cc5",
+      "content_hash_en": "cd36b594c5076b50c214bb4fb62b5aa28928b04edc735ffa68f122f2d247cc5b",
       "backlinks": [
         "inpi-medidas-eleicoes-2026",
         "nova-industria-brasil-300-bilhoes",
@@ -1969,6 +1969,34 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-07T18:28:07.468Z"
+    },
+    "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026": {
+      "slug": "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
+      "title_en": "SubQ: O Primeiro LLM Totalmente Subquadrático — Comparação de Custos com Transformers [2026]",
+      "title_pt": "SubQ: O Primeiro LLM Totalmente Subquadrático — Comparação de Custos com Transformers [2026]",
+      "tags": [
+        "ia",
+        "llm",
+        "transformers",
+        "subquadratic",
+        "atencao",
+        "arquitetura",
+        "custos",
+        "inovacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "SubQ usa atenção esparsa subquadrática (SSA) para escalar linearmente com o contexto: 64x menos FLOPs que Transformers em 1M tokens. Análise de arquitetura, benchmarks e custos.",
+      "content_hash_en": null,
+      "content_hash_pt": "352d73354939f56f61b691690192d5842d0ddd73edf5641d50eeff2091d268cc",
+      "backlinks": [
+        "anthropic-thinking-process-paper",
+        "claude-sonnet-5-2026",
+        "fable-5-vending-bench-alinhamento-ia"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-07T22:30:43.787Z"
     }
   }
 }
