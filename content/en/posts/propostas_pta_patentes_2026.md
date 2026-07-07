@@ -68,13 +68,6 @@ Whose interest is it that the Brazilian patent system, especially for the pharma
 
 The answer that comes from Congress will define the conditions for return on investments in pharmaceutical innovation in Brazil for decades. And it will do so in a context where Nova Indústria Brasil is investing R$ 57 billion precisely in building national innovative capacity — which places both sides of the debate in the same public policy ecosystem.
 
-Also read:
-
-- [The INPI's Backlog is Over — But Not for Pharmaceutical Patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [INPI Automation Roadmap 2025-2029]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
-- [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
-
-
 Read also:
 
 - [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})

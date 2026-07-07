@@ -218,13 +218,6 @@ Never try to upgrade all nodes simultaneously — you may lose cluster quorum.
 
 If you encounter errors during the upgrade, the official Proxmox forum and the [upgrade documentation](https://pve.proxmox.com/wiki/Upgrade_from_8_to_9) are the best sources of reference.
 
-Also read:
-
-- [Fixing Login Errors in Proxmox Web Interface: Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
-- [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
-- [How to Install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
-
-
 Read also:
 
 - [Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})

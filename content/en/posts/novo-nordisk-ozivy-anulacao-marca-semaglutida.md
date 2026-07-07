@@ -86,13 +86,6 @@ For companies developing products similar to consolidated brands, the lesson is 
 
 For IP firms and legal departments, the case reinforces the importance of actively monitoring competitors' trademark registrations and acting quickly — which Novo Nordisk did by challenging Ozivy practically in the week of its launch.
 
-Also read:
-
-- [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
-- [LPI at 30 years: INPI releases report with proposals for improving the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
-- [ADI 5.529: the STF decision that shortened pharmaceutical patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
-
-
 Read also:
 
 - [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})

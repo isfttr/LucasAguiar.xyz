@@ -216,13 +216,6 @@ pvesm extractconfig pbs-backup:backup/<backup-id> --vmtype qemu
 | Can I back up non-Proxmox machines? | Not directly. PBS is built for the Proxmox ecosystem. For other systems, use `proxmox-backup-client` on the client. |
 | Does the snapshot backup affect the VM? | No. Snapshot mode uses the QEMU/KVM snapshot feature — the VM keeps running. |
 
-Also read:
-
-- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
-- [Fixing Login Errors in the Proxmox Web Interface: Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
-- [Script to Update Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
-
-
 Read also:
 
 - [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})

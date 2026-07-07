@@ -153,13 +153,6 @@ Users get stuck in an authentication loop or receive an error after entering the
 
 ---
 
-Also read:
-
-- [Fixing Proxmox Web Interface Login Errors: A Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
-- [Enabling WhatsApp in self-hosted Hermes Agent: three pitfalls (and how I overcame them)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
-- [Claude Tag and the risk to corporate intellectual property]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
-
-
 Read also:
 
 - [Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})

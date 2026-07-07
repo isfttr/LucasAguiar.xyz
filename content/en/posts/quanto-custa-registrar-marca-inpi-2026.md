@@ -170,13 +170,6 @@ Let's simulate the total cost for a **microenterprise** to register a trademark 
 
 ---
 
-Also read:
-
-- [INPI updates Trademark Manual: new rules for High Reputation and adherence to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
-- [How to Consult the Status of an INPI Process: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [INPI exhausts priority processing quotas for e-commerce trademarks — now what?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
-
-
 Read also:
 
 - [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})

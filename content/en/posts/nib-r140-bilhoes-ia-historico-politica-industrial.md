@@ -106,13 +106,6 @@ The Investe Indústria Brasil portal, launched by ABDI, is an explicit attempt t
 
 BNDES estimates that the multiplier for NIB financing is between 2x and 3x — which would mean up to R$ 2.25 trillion in induced investments. If execution matches rhetoric, this could be the largest industrial investment cycle since PAC.
 
-Also read:
-
-- [New Brazil Industry: R$ 57 Billion and the Bet on Pharmaceutical Sovereignty]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
-- [Copyright in the AI era: INPI gathers international experts to discuss the challenges of artificial intelligence]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
-- [Ambitious automation roadmap for INPI]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
-
-
 Read also:
 
 - [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})

@@ -39,9 +39,17 @@ function frontmatterEnd(raw) {
   return match ? match[0].length : 0;
 }
 
-function hasBacklinksHeader(body) {
-  return /(?:Leia também|Read also)\s*:/i.test(body);
-}
+// A generated backlinks block: the header line followed by its bullet list of
+// relref links. The header alternation must tolerate the word-order variants the
+// AI translator emits when it re-translates a PT "Leia também:" section into EN —
+// it produces "Also read:" about as often as "Read also:". Older detection only
+// knew the canonical "Read also", so on the "Also read:" files the existing block
+// went unrecognized and the script APPENDED a second canonical block instead of
+// replacing it — that is the duplicated "Also read: … / Read also: …" the reader
+// sees. Global + case-insensitive so every block in a file is caught, including
+// files that already accumulated a duplicate.
+const BACKLINKS_BLOCK_RE =
+  /(?:Leia também|Read also|Also read)\s*:\n+(?:[ \t]*[-*] \[[\s\S]*?\]\([\s\S]*?\)[ \t]*\n?)+/gi;
 
 // Extracts slugs from existing "Read also / Leia também" section
 function extractBacklinkSlugs(body) {
@@ -71,20 +79,21 @@ function applyBacklinksToFile(filePath, slugs, allPosts, lang) {
 
   const section = buildSection(slugs, allPosts, lang);
 
-  if (hasBacklinksHeader(body)) {
-    // Replace existing section (header + list items)
-    body = body.replace(
-      /((?:Leia também|Read also)\s*:\n+(?:- \[[\s\S]*?\]\([\s\S]*?\)\n?)+)/i,
-      section + '\n'
-    );
+  // Strip every pre-existing backlinks block, then insert exactly one. Doing
+  // "remove all + insert one" (rather than "replace the first match") keeps the
+  // write idempotent and self-heals files that already contain a duplicate
+  // section: on the next run both blocks are removed and a single canonical one
+  // is written back.
+  body = body.replace(BACKLINKS_BLOCK_RE, '');
+
+  // Insert before the last '---' separator, or append at the end.
+  const lastSep = body.lastIndexOf('\n---');
+  if (lastSep !== -1) {
+    const before = body.slice(0, lastSep).replace(/\s+$/, '');
+    const after = body.slice(lastSep).replace(/^\s+/, '');
+    body = `${before}\n\n${section}\n\n${after}`;
   } else {
-    // Insert before last --- separator, or append
-    const lastSep = body.lastIndexOf('\n---');
-    if (lastSep !== -1) {
-      body = body.slice(0, lastSep) + '\n\n' + section + '\n' + body.slice(lastSep);
-    } else {
-      body = body.trimEnd() + '\n\n' + section + '\n';
-    }
+    body = `${body.replace(/\s+$/, '')}\n\n${section}\n`;
   }
 
   fs.writeFileSync(filePath, fm + body, 'utf8');
@@ -361,14 +370,24 @@ async function run() {
   });
 }
 
-run()
-  .then(async () => {
-    console.log('=== suggest-backlinks: done ===');
-    await posthog.shutdown();
-  })
-  .catch(async (err) => {
-    console.error(err);
-    posthog.captureException(err, POSTHOG_DISTINCT_ID);
-    await posthog.shutdown();
-    process.exit(1);
-  });
+if (require.main === module) {
+  run()
+    .then(async () => {
+      console.log('=== suggest-backlinks: done ===');
+      await posthog.shutdown();
+    })
+    .catch(async (err) => {
+      console.error(err);
+      posthog.captureException(err, POSTHOG_DISTINCT_ID);
+      await posthog.shutdown();
+      process.exit(1);
+    });
+}
+
+module.exports = {
+  BACKLINKS_BLOCK_RE,
+  buildSection,
+  applyBacklinksToFile,
+  extractBacklinkSlugs,
+  loadIndex,
+};
