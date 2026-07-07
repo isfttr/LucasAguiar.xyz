@@ -69,9 +69,9 @@ The full Anthropic article can be read at [anthropic.com/features/making-of-clau
 
 Read also:
 
-- [Cursor vs Windsurf vs Zed 2026: Which AI Code Editor is Best?]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
 - [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [Claude Sonnet 5: Limited Context Window Makes It Useful Only as a Sub-agent]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
 
 ---
 

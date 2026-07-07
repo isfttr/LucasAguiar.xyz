@@ -75,9 +75,9 @@ Also read:
 
 Read also:
 
-- [A História do Claude Code: Como um CLI Interno Virou o Agente de Código da Anthropic [2026]]({{< relref "posts/making-of-claude-code-historia-origem-2026/" >}})
+- [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
 - [Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
-- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [The History of Claude Code: How an Internal CLI Became Anthropic's Code Agent [2026]]({{< relref "posts/making-of-claude-code-historia-origem-2026/" >}})
 
 ---
 

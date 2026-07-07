@@ -56,6 +56,13 @@ A pesquisa será vinculada à CGREC, unidade responsável por recursos e process
 - [Quanto Custa Registrar uma Marca no INPI em 2026?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [INPI Credenciamento para Busca de Patentes: Guia Completo 2026]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
 
+
+Leia também:
+
+- [Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [INPI esgota cotas de trâmite prioritário para marcas no comércio eletrônico — e agora?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
+
 ---
 
 Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>
