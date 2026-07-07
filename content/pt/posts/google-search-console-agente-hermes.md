@@ -1,6 +1,6 @@
 ---
 date: 2026-07-07T01:51:48Z
-draft: true
+draft: false
 title: "Como configurar o Google Search Console junto ao seu agente Hermes"
 description: "Passo a passo para conectar o Google Search Console ao agente Hermes via MCP: service account, o servidor gsc-mcp e os ajustes necessários para rodar dentro do Docker."
 featured_image: ""

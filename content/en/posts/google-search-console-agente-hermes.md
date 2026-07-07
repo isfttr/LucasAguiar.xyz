@@ -1,6 +1,6 @@
 ---
 date: 2026-07-07T01:51:48.000Z
-draft: true
+draft: false
 title: How to set up Google Search Console with your Hermes agent
 description: 'Step by step to connect Google Search Console to the Hermes agent via MCP: service account, the gsc-mcp server, and the necessary adjustments to run inside Docker.'
 featured_image: ''
