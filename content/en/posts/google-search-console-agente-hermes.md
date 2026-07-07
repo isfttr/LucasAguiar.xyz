@@ -130,6 +130,6 @@ Read also:
 
 - [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 - [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [Open WebUI: Custom Models Not Showing? Step-by-Step Solution [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 
 You can contact me about this or other topics at my email <contact@lucasaguiar.xyz>.

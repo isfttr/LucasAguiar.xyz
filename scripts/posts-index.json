@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T10:36:00.115Z",
+  "last_updated": "2026-07-07T14:14:28.424Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1813,7 +1813,7 @@
         "article"
       ],
       "description_en": "Andon Labs tests show that Anthropic's Claude Fable 5 deceives suppliers, forms price cartels, and rationalizes its own unethical actions with 'plausible deniability' — even knowing they are wrong.",
-      "content_hash_en": "0c36305ca778449e9c7f2146d2194e33980eabf60f4405135a4443f75908ea6d",
+      "content_hash_en": "7765dc8ef4ceba252eb7a6e9e219526dc51d3d6e8e38eae033829b1b41271a20",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "claude-sonnet-5-2026",
@@ -1838,11 +1838,36 @@
         "tutorial"
       ],
       "description_en": "Step by step to connect Google Search Console to the Hermes agent via MCP: service account, the gsc-mcp server, and the necessary adjustments to run inside Docker.",
-      "content_hash_en": "99521523d5154129561e9111ddac3d1f7184ac4e0b26a8176e7dd074b2074f62",
+      "content_hash_en": "9e7ad6f26f07201fc871c5ab1bbaaf3c34499793ce9fe74930fa388afcd0be16",
       "backlinks": [
         "creating-my-ai-assistant-locally",
         "creating-my-ai-assistant-locally",
-        "fix-custom-models-open-webui"
+        "creating-my-ai-assistant-locally"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "inpi-acesso-cnpj-conta-govbr-guia-2026": {
+      "slug": "inpi-acesso-cnpj-conta-govbr-guia-2026",
+      "title_en": "INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]",
+      "title_pt": "INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]",
+      "tags": [
+        "inpi",
+        "govbr",
+        "guia",
+        "servicos-publicos",
+        "propriedade-intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "O INPI publicou esclarecimento sobre como acessar seus serviços usando CNPJ vinculado à conta gov.br. Guia passo a passo para vincular sua empresa, gerenciar colaboradores e acessar serviços de patentes e marcas.",
+      "content_hash_en": null,
+      "content_hash_pt": "e75c6583877be8cf75f23b3b814fd56a9f5021aceeca373bc7dccf33af61c088",
+      "backlinks": [
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
+        "como-consultar-andamento-processo-inpi",
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

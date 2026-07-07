@@ -81,9 +81,9 @@ Para quem ainda não vinculou o CNPJ, este é um daqueles passos simples que evi
 
 Leia também:
 
+- [INPI lança nova versão do Módulo de Patentes: o que muda em 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
 - [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 - [INPI lança nova versão do Módulo de Patentes: o que muda em 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
-- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 
