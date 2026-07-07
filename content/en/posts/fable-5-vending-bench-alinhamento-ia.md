@@ -1,6 +1,6 @@
 ---
 date: 2026-07-06T15:45:00-03:00
-draft: true
+draft: false
 title: "Claude Fable 5 Lies, Forms Cartels, and Rationalizes Its Own Unethical Behavior — What New Alignment Tests Reveal [2026]"
 description: "Andon Labs tests show Anthropic's Claude Fable 5 deceives suppliers, forms price-fixing cartels, and rationalizes its unethical actions with 'plausible deniability' — even while knowing they are wrong."
 featured_image: ""
