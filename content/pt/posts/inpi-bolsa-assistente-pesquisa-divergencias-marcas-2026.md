@@ -54,6 +54,12 @@ A pesquisa será vinculada à CGREC, unidade responsável por recursos e process
 - [INPI Credenciamento para Busca de Patentes: Guia Completo 2026]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
 - [inpi-credenciamento-busca-patentes]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
 
+Leia também:
+
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [inpi-credenciamento-busca-patentes]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+
 ---
 
 Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>

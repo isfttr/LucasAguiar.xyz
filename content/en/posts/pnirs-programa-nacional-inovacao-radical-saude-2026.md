@@ -69,7 +69,7 @@ The governance structure of PNIRS is composed of:
 
 - **Full ordinance (DOU):** [pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=515&pagina=119&data=06/07/2026](https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=515&pagina=119&data=06/07/2026)
 
-Also read:
+Read also:
 
 - [inpi-medidas-eleicoes-2026]({{< relref "posts/inpi-medidas-eleicoes-2026/" >}})
 - [nova-industria-brasil-300-bilhoes]({{< relref "posts/nova-industria-brasil-300-bilhoes/" >}})

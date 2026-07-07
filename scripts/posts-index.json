@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T18:55:46.464Z",
+  "last_updated": "2026-07-07T19:07:08.832Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1292,7 +1292,7 @@
         "article"
       ],
       "description_en": "Founder of ABPI, former president of AIPPI, and the only Brazilian in the IP Hall of Fame, Peter Dirk Siemsen leaves a legacy that shaped intellectual property in Brazil and worldwide.",
-      "content_hash_en": "0e74832faa34ec459f54b7a52417c02056105b21bdb2aa7104ec37ae214226a1",
+      "content_hash_en": "e1b7977beb29cf455924a5e5aec02b7e8dcea8fb480e6b6bc664c253342cc2b3",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1933,7 +1933,7 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a scholarship of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "96888019591c958e87de88f0d2cb717223160227d0c8607221a52ba3e85409b2",
+      "content_hash_en": "cf84e1d5cf60ba1a0fc8eecdfb6d236cb15a24dbbaf8aed3168d1eebb46c530a",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-credenciamento-busca-patentes",
@@ -1944,7 +1944,7 @@
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
-      "title_en": "Government Establishes National Program for Radical Innovation in Health (PNIRS) [2026]",
+      "title_en": "Government Establishes National Program for Radical Health Innovation (PNIRS) [2026]",
       "title_pt": "Governo Institui Programa Nacional de Inovação Radical em Saúde (PNIRS) [2026]",
       "tags": [
         "saude",
@@ -1960,8 +1960,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "GM/MS Ordinance No. 11,921 creates the PNIRS to accelerate the transformation of scientific knowledge into products and services for the SUS, with Anchor Centers and interministerial coordination.",
-      "content_hash_en": "5f26bcbb4a38d627af22fb45e2f6696c760ea3e51e95e908416912e6d2ac7a54",
+      "description_en": "GM/MS Ordinance No. 11,921 creates the PNIRS to accelerate the transformation of scientific knowledge into products and services for SUS, with Anchor Centers and interministerial coordination.",
+      "content_hash_en": "57155e49b8ba89414b3648961e41b511da1f321243e2a0354599834554524cc5",
       "backlinks": [
         "inpi-medidas-eleicoes-2026",
         "nova-industria-brasil-300-bilhoes",
