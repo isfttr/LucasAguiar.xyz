@@ -1,7 +1,8 @@
 ---
 date: 2026-07-06T15:00:00-03:00
-draft: true
-title: "Claude Sonnet 5: O Modelo de IA Mais Agêntico da Anthropic Chega com Preço Reduzido [2026]"
+draft: false
+title: "Claude Sonnet 5: Janela de Contexto Limitada o torna útil apenas como
+subagente"
 description: "Anthropic lança Claude Sonnet 5 com capacidades agênticas de nível Opus a US$ 2/M tokens — codificação autônoma, uso de ferramentas e browsers, e segurança aprimorada contra jailbreak."
 featured_image: ""
 categories:
@@ -28,8 +29,6 @@ Nas avaliações internas, o Sonnet 5 apresenta ganhos consistentes em múltipla
 - **OSWorld-Verified** (uso de computador via agente): cobre uma faixa maior de opções custo-performance que o Opus 4.8
 - **Humanity's Last Exam**: o modelo se beneficia do sistema de "esforço" ajustável, permitindo equilibrar custo e precisão conforme a tarefa
 
-> Nos testes da Anthropic, o Sonnet 5 **narrowed the gap** com o Opus 4.8 de forma tão significativa que, para muitas tarefas do dia a dia, a diferença prática é pequena — mas o custo é quase metade.
-
 ## Preço e disponibilidade
 
 O Claude Sonnet 5 está disponível desde 30 de junho em todos os planos (Free, Pro, Max, Team e Enterprise) e também via Claude Code e API.
@@ -45,35 +44,15 @@ Para comparação, o Opus 4.8 custa US$ 5/MTok input e US$ 25/MTok output. O pre
 
 Os rate limits também foram aumentados em todos os tiers (Start, Build, Scale) para acomodar o maior consumo de tokens em configurações de alto esforço.
 
-## Segurança: melhor que o predecessor
+## Minhas impressões
 
-A Anthropic reporta que o Sonnet 5 é **mais seguro** que o Sonnet 4.6 em métricas agênticas:
-
-- Melhor capacidade de recusar requisições maliciosas
-- Mais resistente a ataques de prompt injection (hijack)
-- Menores taxas de alucinação e sicofancia
-- Pontuação geral mais baixa em comportamentos indesejados no behavioral audit automatizado
-
-O modelo **não foi treinado deliberadamente** em tarefas de cibersegurança. Em avaliações com o Firefox 147 (em parceria com a Mozilla), o Sonnet 5 **nunca conseguiu desenvolver um exploit funcional completo**. Ele mostrou uma taxa ligeiramente maior de sucesso parcial que o Sonnet 4.6, atribuída a ganhos de inteligência geral — não a treinamento específico.
-
-Por precaução, a Anthropic lançou o Sonnet 5 com salvaguardas cibernéticas ativadas por padrão, as mesmas presentes no Opus 4.7 e 4.8 (menos restritivas que as do Fable 5).
-
-## O que os early adopters estão dizendo
-
-Os relatos dos parceiros de acesso antecipado pintam um quadro consistente: o Sonnet 5 **termina tarefas complexas** onde os Sonnets anteriores paravam no meio do caminho. 
-
-Alguns exemplos do feedback publicado pela Anthropic:
-
-- Um engenheiro da **Lovable** descreveu que o modelo "faz mais com menos — mesma qualidade de saída, menos etapas para chegar lá"
-- Na **Box**, o modelo investigou um bug, escreveu um teste reproduzível, implementou a correção e verificou que o bug voltava sem a alteração — **tudo em uma única passada**
-- A **Pace** (seguradoras) usa agentes de computer use para fluxos de insurance, e o Sonnet 5 "consistentemente toma a ação correta e o faz rapidamente"
-- A **Sentry** destacou que o Sonnet 5 é particularmente bom em "código brownfield — condições de corrida, testes ocultos, as partes que ninguém quer tocar"
-
-## Implicações para o mercado de agentes de IA
-
-O Sonnet 5 chega em um momento crucial. O mercado de agentes de IA está amadurecendo, e o custo por operação ainda é a principal barreira para adoção em escala. Com um modelo que oferece performance de nível Opus a preço de Sonnet, a Anthropic está apostando que o **custo-benefício** — não apenas a capacidade bruta — será o diferencial competitivo nos próximos meses.
-
-Desenvolvedores que usam agentes para automação de tarefas, codificação assistida e fluxos multi-etapa podem se beneficiar diretamente: o Sonnet 5 permite configurar o nível de "esforço" (effort) para cada tarefa, pagando apenas pelo que precisa. Para tarefas simples, o modelo trabalha rápido e barato; para tarefas complexas, o alto esforço entrega performance de fronteira.
+Desde o lançamento tenho testado esporadicamente o Sonnet 5. Antes do seu
+lançamento, estava usando quase sempre o Opus 4.8 para quase todas as tarefas
+relacionadas ao Chat e ao Claude Code. No Claude Code percebi que o Sonnet 5 está
+basicamente inutilizável, já que qualquer tarefa que consistir em mais do que um
+simples "fix" chegará ao limite de contexto de 200k tokens. Então de fato o futuro
+desse modelo está em performar essas tarefas como subagente com um contexto bem
+limitado.
 
 Leia também:
 
