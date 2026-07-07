@@ -160,9 +160,9 @@ A empresa levantou **$29M em seed** e afirma ter modelos planejados de 2M a 12M 
 
 Leia também:
 
+- [claude-code-review-cli-ia]({{< relref "posts/claude-code-review-cli-ia/" >}})
+- [gitbutler-gerenciador-branchs-review]({{< relref "posts/gitbutler-gerenciador-branchs-review/" >}})
 - [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [Claude Sonnet 5: Janela de Contexto Limitada o torna útil apenas como subagente]({{< relref "posts/claude-sonnet-5-2026/" >}})
-- [Claude Fable 5 mente, forma cartéis e racionaliza seu próprio comportamento antiético — o que o último teste de alinhamento revela [2026]]({{< relref "posts/fable-5-vending-bench-alinhamento-ia/" >}})
 
 ---
 

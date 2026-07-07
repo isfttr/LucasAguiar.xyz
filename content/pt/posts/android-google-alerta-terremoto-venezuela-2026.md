@@ -80,6 +80,12 @@ O sistema também teve aprendizados anteriores importantes: em 2023, foi critica
 - [SubQ: O Primeiro LLM Totalmente Subquadrático — Comparação de Custos]({{< relref "posts/subq-subquadratic-llm-atencao-linear-comparacao-custos-2026/" >}})
 - [Claude Code: Review Completo do CLI de Programação com IA]({{< relref "posts/claude-code-review-cli-ia/" >}})
 
+Leia também:
+
+- [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
+- [Anthropic lança Claude Science: um AI workbench para cientistas [2026]]({{< relref "posts/claude-science-ai-workbench-cientistas-2026/" >}})
+
 ---
 
 Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>

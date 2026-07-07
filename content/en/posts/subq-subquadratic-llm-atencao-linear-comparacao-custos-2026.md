@@ -160,9 +160,9 @@ The company raised **$29M in seed** and claims models planned from 2M to 12M tok
 
 Read also:
 
-- [Inside AI Brains: How Anthropic Decoded Claude's Thought Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [Claude Sonnet 5: Limited Context Window Makes It Useful Only as a Subagent]({{< relref "posts/claude-sonnet-5-2026/" >}})
-- [Claude Fable 5 lies, forms cartels, and rationalizes its own unethical behavior — what the latest alignment test reveals [2026]]({{< relref "posts/fable-5-vending-bench-alinhamento-ia/" >}})
+- [claude-code-review-cli-ia]({{< relref "posts/claude-code-review-cli-ia/" >}})
+- [gitbutler-gerenciador-branchs-review]({{< relref "posts/gitbutler-gerenciador-branchs-review/" >}})
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
 
 ---
 

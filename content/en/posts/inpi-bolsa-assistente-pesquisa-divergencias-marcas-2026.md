@@ -55,7 +55,7 @@ The research will be linked to CGREC, the unit responsible for appeals and nulli
 
 Read also:
 
-- [How Much Does It Cost to Register a Trademark with INPI in 2026? [Full Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [inpi-credenciamento-busca-patentes]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
 - [inpi-credenciamento-busca-patentes]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
 

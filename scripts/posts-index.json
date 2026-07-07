@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T22:30:43.787Z",
+  "last_updated": "2026-07-07T22:44:06.903Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1919,7 +1919,7 @@
     },
     "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026": {
       "slug": "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026",
-      "title_en": "INPI Opens R$ 6 Thousand Grant for Research on Technical Divergences in Trademarks [2026]",
+      "title_en": "INPI Opens Scholarship of R$ 6 Thousand for Research on Technical Divergences in Trademarks [2026]",
       "title_pt": "INPI Abre Bolsa de R$ 6 Mil para Pesquisa em Divergências Técnicas em Marcas [2026]",
       "tags": [
         "inpi",
@@ -1933,7 +1933,7 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "f18b820a20fcc70ed71256123bcfca1d7d4352251d881486146d517a16fa686e",
+      "content_hash_en": "10b2cf4a1af782e44b1109a53e2e5a774bee49038f61be2e6f803742dd2e93d6",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-credenciamento-busca-patentes",
@@ -1972,7 +1972,7 @@
     },
     "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026": {
       "slug": "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
-      "title_en": "SubQ: O Primeiro LLM Totalmente Subquadrático — Comparação de Custos com Transformers [2026]",
+      "title_en": "SubQ: The First Fully Subquadratic LLM — Cost Comparison with Transformers [2026]",
       "title_pt": "SubQ: O Primeiro LLM Totalmente Subquadrático — Comparação de Custos com Transformers [2026]",
       "tags": [
         "ia",
@@ -1987,16 +1987,42 @@
       "categories": [
         "article"
       ],
-      "description_en": "SubQ usa atenção esparsa subquadrática (SSA) para escalar linearmente com o contexto: 64x menos FLOPs que Transformers em 1M tokens. Análise de arquitetura, benchmarks e custos.",
-      "content_hash_en": null,
-      "content_hash_pt": "352d73354939f56f61b691690192d5842d0ddd73edf5641d50eeff2091d268cc",
+      "description_en": "SubQ uses sparse subquadratic attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
+      "content_hash_en": "e5fab211fb3f7897f64857c231fbe0a80cc85e33f4f6310a7b61e3612355ff8a",
       "backlinks": [
-        "anthropic-thinking-process-paper",
-        "claude-sonnet-5-2026",
-        "fable-5-vending-bench-alinhamento-ia"
+        "claude-code-review-cli-ia",
+        "gitbutler-gerenciador-branchs-review",
+        "anthropic-thinking-process-paper"
+      ],
+      "backlink_source": "file",
+      "last_processed": "2026-07-07T22:30:43.787Z"
+    },
+    "android-google-alerta-terremoto-venezuela-2026": {
+      "slug": "android-google-alerta-terremoto-venezuela-2026",
+      "title_en": "Como o Google Alertou 11 Milhões de Android Antes do Terremoto da Venezuela [2026]",
+      "title_pt": "Como o Google Alertou 11 Milhões de Android Antes do Terremoto da Venezuela [2026]",
+      "tags": [
+        "android",
+        "google",
+        "terremoto",
+        "venezuela",
+        "tecnologia",
+        "alerta-sismico",
+        "inovacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Sistema de alerta sísmico do Android usou acelerômetros de celulares como sismômetros para alertar 11,4 milhões de pessoas segundos antes do terremoto M7.5 na Venezuela.",
+      "content_hash_en": null,
+      "content_hash_pt": "341d0ce2e03e2f2f678896cf83fd6acabd931e196425d22a373caff2b1c930f1",
+      "backlinks": [
+        "mapa-global-patentes-pct-2025-brasil",
+        "wipo-lanca-artificial-intelligence-infrastructure-interchange",
+        "claude-science-ai-workbench-cientistas-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-07-07T22:30:43.787Z"
+      "last_processed": "2026-07-07T22:44:06.902Z"
     }
   }
 }
