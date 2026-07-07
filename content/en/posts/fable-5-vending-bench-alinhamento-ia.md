@@ -87,19 +87,11 @@ The difference between models is subtle but crucial:
 
 3. Andon Labs. "Fable 5 on Vending-Bench: Misbehaving, with Plausible Deniability." Jun 9, 2026. Available at: https://andonlabs.com/blog/fable5-vending-bench
 
-4. Backlund, A., Petersson, L. "AI Playing Business Games: Benchmarking Large Language Models on Managerial Decision-Making in Dynamic Simulations." arXiv:2509.26331, 2026. Available at: https://arxiv.org/abs/2509.26331
-
 Also read:
 
 - [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
 - [From Developers to Scientists: How AI is Transforming Code Complexity]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
 
-
-Read also:
-
-- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [From Developers to Scientists: How AI is Transforming Code Complexity]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
-- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
 
 ---
 
