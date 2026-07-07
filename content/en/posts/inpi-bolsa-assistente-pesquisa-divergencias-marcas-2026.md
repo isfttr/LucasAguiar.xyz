@@ -56,11 +56,11 @@ The research will be linked to CGREC, the unit responsible for appeals and admin
 - [How Much Does It Cost to Register a Trademark at INPI in 2026?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [INPI Accreditation for Patent Search: Complete Guide 2026]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
 
-Leia também:
+Read also:
 
-- [Novo Nordisk vs. EMS in Court: the dispute over the Ozivy trademark and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
-- [INPI updates Trademark Manual: new rules for Well-Known Marks and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
-- [INPI exhausts priority processing quotas for trademarks in e-commerce — what now?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [inpi-credenciamento-busca-patentes]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
+- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
 
 ---
 

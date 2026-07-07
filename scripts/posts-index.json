@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T18:17:05.881Z",
+  "last_updated": "2026-07-07T18:28:07.469Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1861,8 +1861,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "INPI published clarification on how to access its services using CNPJ linked to gov.br account. Step-by-step guide to link your company, manage collaborators, and access patent and trademark services.",
-      "content_hash_en": "0050cae72de720922ad118a90f8b610bf621bc2aeaacf459c87f38468ade5852",
+      "description_en": "INPI published clarification on how to access its services using CNPJ linked to the gov.br account. Step-by-step guide to link your company, manage collaborators, and access patent and trademark services.",
+      "content_hash_en": "71598449b0ebe151a34290aad9e11022f11114d9c8bc61465e696b5c8b70af04",
       "backlinks": [
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
@@ -1874,7 +1874,7 @@
     "making-of-claude-code-origin-story-2026": {
       "slug": "making-of-claude-code-origin-story-2026",
       "title_en": "The Making of Claude Code: From Internal CLI to Anthropic's Coding Agent [2026]",
-      "title_pt": "A Criação do Claude Code: Da CLI Interna ao Agente de Codificação da Anthropic [2026]",
+      "title_pt": "A Criação do Claude Code: De CLI Interno ao Agente de Codificação da Anthropic [2026]",
       "tags": [
         "ai",
         "dev",
@@ -1885,11 +1885,11 @@
         "article"
       ],
       "description_en": "The inside story of how Claude Code evolved from a two-day experiment to the coding agent that transformed software development. Told by the people who built it.",
-      "content_hash_en": "ce886029494f38ea6e4fc00cd57ad70d12d31237efbe3fa4a07ef80c3d356a9c",
+      "content_hash_en": "5d19c559e43e900aabbcd8aa94092ccdd9331bc76ca040fb83f94333df628606",
       "backlinks": [
         "experience-with-cursor-and-windsurf",
         "claude-sonnet-5-2026",
-        "making-of-claude-code-historia-origem-2026"
+        "experience-with-cursor-and-windsurf"
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-07T18:11:03.060Z"
@@ -1908,7 +1908,7 @@
         "article"
       ],
       "description_en": "The story of how Claude Code evolved from a two-day internal experiment into the code agent that transformed software development. Behind the scenes told by those who built it.",
-      "content_hash_en": "a1867cbfbb72325d322468d6312d47fb604d06d05f1c35734257563995d08579",
+      "content_hash_en": "d64e3fb7cb5181ba84c91f19e3b776525e1957abc02958fab1b0cbb8880b2d99",
       "backlinks": [
         "experience-with-cursor-and-windsurf",
         "vibe-coding-pitfalls",
@@ -1919,7 +1919,7 @@
     },
     "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026": {
       "slug": "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026",
-      "title_en": "INPI Abre Bolsa de R$ 6 Mil para Pesquisa em Divergências Técnicas em Marcas [2026]",
+      "title_en": "INPI Opens R$ 6 Thousand Grant for Research on Technical Divergences in Trademarks [2026]",
       "title_pt": "INPI Abre Bolsa de R$ 6 Mil para Pesquisa em Divergências Técnicas em Marcas [2026]",
       "tags": [
         "inpi",
@@ -1932,16 +1932,44 @@
       "categories": [
         "article"
       ],
-      "description_en": "Edital PDPI do INPI oferece bolsa de R$ 6.000/mês por 12 meses para pesquisa sobre divergências entre decisões de 1ª e 2ª instância em matéria de marcas. Inscrições até 24 de julho.",
-      "content_hash_en": null,
-      "content_hash_pt": "c1a4e060be27094622be51b2f37fb4358b2a55cc5e2d81f261add78e5c70249b",
+      "description_en": "INPI's PDPI notice offers a scholarship of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions on trademark matters. Applications until July 24.",
+      "content_hash_en": "fd1b6c87433cf958fc4ac18912be320b0c7cb685a95f30d062107e999e0cb490",
       "backlinks": [
-        "novo-nordisk-ozivy-anulacao-marca-semaglutida",
-        "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce"
+        "quanto-custa-registrar-marca-inpi-2026",
+        "inpi-credenciamento-busca-patentes",
+        "novo-nordisk-ozivy-anulacao-marca-semaglutida"
+      ],
+      "backlink_source": "file",
+      "last_processed": "2026-07-07T18:17:05.880Z"
+    },
+    "pnirs-programa-nacional-inovacao-radical-saude-2026": {
+      "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
+      "title_en": "Governo Institui Programa Nacional de Inovação Radical em Saúde (PNIRS) [2026]",
+      "title_pt": "Governo Institui Programa Nacional de Inovação Radical em Saúde (PNIRS) [2026]",
+      "tags": [
+        "saude",
+        "inovacao",
+        "politica-industrial",
+        "sus",
+        "cnpem",
+        "ciencia-tecnologia",
+        "nova-industria-brasil",
+        "propriedade-intelectual",
+        "biotecnologia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Portaria GM/MS nº 11.921 cria o PNIRS para acelerar a transformação de conhecimento científico em produtos e serviços para o SUS, com Centros-Âncora e articulação interministerial.",
+      "content_hash_en": null,
+      "content_hash_pt": "215c2eaa32e4b221dd3fdea950cf771c3ed789dfc389770daae452d0ce2b909f",
+      "backlinks": [
+        "nova-industria-brasil-saude-patentes",
+        "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude",
+        "pl-5810-2025-estudo-ministerio-saude-patentes-sus"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-07-07T18:17:05.880Z"
+      "last_processed": "2026-07-07T18:28:07.468Z"
     }
   }
 }
