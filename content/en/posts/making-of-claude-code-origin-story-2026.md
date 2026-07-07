@@ -72,6 +72,13 @@ Also read:
 - [Experiences with Cursor, Windsurf, and the State of AI Coding Tools]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
 - [Claude Sonnet 5: Anthropic's New Model Has Arrived]({{< relref "posts/claude-sonnet-5-2026/" >}})
 
+
+Read also:
+
+- [A História do Claude Code: Como um CLI Interno Virou o Agente de Código da Anthropic [2026]]({{< relref "posts/making-of-claude-code-historia-origem-2026/" >}})
+- [Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+
 ---
 
 Feel free to reach out to discuss this and other topics at <contact@lucasaguiar.xyz>

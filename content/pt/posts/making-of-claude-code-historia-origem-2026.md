@@ -69,9 +69,9 @@ O artigo completo da Anthropic pode ser lido em [anthropic.com/features/making-o
 
 Leia também:
 
-- [Experiências com Cursor, Windsurf e o Estado das Ferramentas de IA para Programar]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [Vibe Coding: O Lado Oculto da Programação com IA]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [Claude Sonnet 5: O Novo Modelo da Anthropic Chegou]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [Cursor vs Windsurf vs Zed 2026: Qual Editor de Código com IA é o Melhor?]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Claude Sonnet 5: Janela de Contexto Limitada o torna útil apenas como subagente]({{< relref "posts/claude-sonnet-5-2026/" >}})
 
 ---
 
