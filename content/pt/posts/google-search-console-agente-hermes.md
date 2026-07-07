@@ -128,7 +128,8 @@ Conectar dados reais (Search Console, analytics, o que for) via MCP é o pulo do
 
 Leia também:
 
-- [Como corrigir o bug de Modelos Customizados no Open WebUI]({{< relref "posts/fix-custom-models-open-webui/" >}})
-- [Obsidian Copilot + Ollama + OpenRouter: setup completo e gratuito]({{< relref "posts/10-obsidian-copilot/" >}})
+- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Open WebUI: Modelos Customizados Não Aparecem? Solução Passo a Passo [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [Obsidian Copilot + Ollama + OpenRouter: Setup Completo e Gratuito [2026]]({{< relref "posts/10-obsidian-copilot/" >}})
 
 Você pode entrar em contato comigo sobre este ou outros tópicos pelo meu e-mail <contact@lucasaguiar.xyz>.

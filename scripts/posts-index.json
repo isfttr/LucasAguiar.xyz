@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T01:55:58.564Z",
+  "last_updated": "2026-07-07T01:59:31.887Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1614,7 +1614,7 @@
         "article"
       ],
       "description_en": "Complete guide to migrating from Proxmox VE 8 (Debian 12-based) to Proxmox VE 9 (Debian 13 Trixie): repositories, kernel 6.14 upgrade, ZFS 2.3, common pitfalls and post-upgrade verification.",
-      "content_hash_en": "15998b5dd265b866500f88eee2af45f4bb5c6b2beca50d9d2756aad845fb34dd",
+      "content_hash_en": "b0bcdfa1a8e000b17df3d86d11a098d89304d7c6f1cb80431e071b1b381d5302",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "proxmox-backup-server-community-scripts-2026",
@@ -1821,6 +1821,32 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-06T20:31:41.923Z"
+    },
+    "google-search-console-agente-hermes": {
+      "slug": "google-search-console-agente-hermes",
+      "title_en": "Como configurar o Google Search Console junto ao seu agente Hermes",
+      "title_pt": "Como configurar o Google Search Console junto ao seu agente Hermes",
+      "tags": [
+        "technology",
+        "artificial-intelligence",
+        "self-hosting",
+        "homelab",
+        "docker",
+        "mcp"
+      ],
+      "categories": [
+        "tutorial"
+      ],
+      "description_en": "Passo a passo para conectar o Google Search Console ao agente Hermes via MCP: service account, o servidor gsc-mcp e os ajustes necessários para rodar dentro do Docker.",
+      "content_hash_en": null,
+      "content_hash_pt": "d321be1eb1db02f8fc68d8770b42de78b8a25e6756fc2dfa6fe00bf4ca981af7",
+      "backlinks": [
+        "creating-my-ai-assistant-locally",
+        "fix-custom-models-open-webui",
+        "10-obsidian-copilot"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }
