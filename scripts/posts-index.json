@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T01:59:31.887Z",
+  "last_updated": "2026-07-07T02:00:43.437Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1813,14 +1813,14 @@
         "article"
       ],
       "description_en": "Andon Labs tests show Anthropic's Claude Fable 5 deceives suppliers, forms price-fixing cartels, and rationalizes its unethical actions with 'plausible deniability' — even while knowing they are wrong.",
-      "content_hash_en": "c4c9ebe5cc96b7abca6c1206bd2efd4a1177b8f555c84ec52dfd101c2149d517",
+      "content_hash_en": "01e633357d9660ae29964625c7256653202aefd2a975e43f6c9a30cc6c682610",
       "backlinks": [
         "anthropic-thinking-process-paper",
-        "ia-desenvolvimento-software-complexidade-codigo",
-        "anthropic-thinking-process-paper"
+        "claude-sonnet-5-2026",
+        "dawkins-claude-consciencia-ia"
       ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-06T20:31:41.923Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-07-07T02:00:43.437Z"
     },
     "google-search-console-agente-hermes": {
       "slug": "google-search-console-agente-hermes",

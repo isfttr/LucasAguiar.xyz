@@ -113,8 +113,8 @@ O próprio Hermes Agent, que uso diariamente, opera com modelos como o DeepSeek 
 Leia também:
 
 - [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
-- [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Claude Sonnet 5: Janela de Contexto Limitada o torna útil apenas como subagente]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [Dawkins, Claude e o Mito da Consciência na Inteligência Artificial]({{< relref "posts/dawkins-claude-consciencia-ia/" >}})
 
 ---
 

@@ -93,6 +93,13 @@ Also read:
 - [From Developers to Scientists: How AI is Transforming Code Complexity]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
 
 
+
+Read also:
+
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [Dawkins, Claude and the Myth of Consciousness in Artificial Intelligence]({{< relref "posts/dawkins-claude-consciencia-ia/" >}})
+
 ---
 
 Contact me to discuss this and other topics at <contact@lucasaguiar.xyz>
