@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T01:53:09.389Z",
+  "last_updated": "2026-07-07T01:55:58.564Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -673,7 +673,7 @@
         "tutorial"
       ],
       "description_en": "",
-      "content_hash_en": "c92b22566bb36f7c9b456d022d4a1f09132e18de1e57c8650d111c1ea0efc83f",
+      "content_hash_en": "42697998af045f06112fa52d1d616895321ae73fcedeef400f07aa28d9ef49bf",
       "backlinks": [
         "oracle_cloud_vps",
         "newsletter-beehiiv-cloudflare-github",
@@ -692,7 +692,7 @@
       ],
       "categories": [],
       "description_en": "Life as a father is a lot different than what I anticipated. It is hard to recommend as no one will have the same experience as you, but my experience until this moment has been really worth it. Hard but fulfilling in a way that nothing else can compare.",
-      "content_hash_en": "d8c07d2087666e2102ff4929fec728a4dd81f2dcfecf848b8a889b384a1fc9db",
+      "content_hash_en": "69581f2867893444d274237a4d3d2a306330e6f01c90aca41e16964bd1b32896",
       "backlinks": [
         "10-years-of-macbook-pro",
         "introduction",
@@ -715,7 +715,7 @@
         "article"
       ],
       "description_en": "",
-      "content_hash_en": "b8041fb03dda4bbd2d11a95d7d519f7ed340f9038120a165b6543bd848f73af9",
+      "content_hash_en": "fb5d0a41d575b15378fea530ec4e5a6624aae23083492e71982f650532a0c2ad",
       "backlinks": [
         "experience-with-cursor-and-windsurf",
         "ai-beats-procrastination",
@@ -1112,7 +1112,7 @@
         "article"
       ],
       "description_en": "The INPI reached the quota limit for priority examination of trademarks in the e-commerce modality. Understand what this means for brands that depend on registration to sell on marketplaces.",
-      "content_hash_en": "e555f2c8c3e4ae69470c1d8f3931be2cf4eab75371143bca78c682ab925865f4",
+      "content_hash_en": "c2b4ddde9244acc17bd40ec00e52fd013162558c2e0bbad712917b0292e6f6c7",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "backlog-inpi-patentes-farmaceuticas",
@@ -1267,7 +1267,7 @@
         "article"
       ],
       "description_en": "WIPO launches an initiative with 1,700 participants and 90 experts to discuss AI and IP technical infrastructure, including attribution standards, watermarking, and data access at scale",
-      "content_hash_en": "aa72c9db7e470fcb8810b7d2083f4bf9ef1c6536b07daa274859cb69682f3d3f",
+      "content_hash_en": "b27dab20ef24af070deea7787854baf04f07bcd1d0694e603553d70ed3e63599",
       "backlinks": [
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
         "claude-tag-propriedade-intelectual-empresarial",
@@ -1614,7 +1614,7 @@
         "article"
       ],
       "description_en": "Complete guide to migrating from Proxmox VE 8 (Debian 12-based) to Proxmox VE 9 (Debian 13 Trixie): repositories, kernel 6.14 upgrade, ZFS 2.3, common pitfalls and post-upgrade verification.",
-      "content_hash_en": "b0bcdfa1a8e000b17df3d86d11a098d89304d7c6f1cb80431e071b1b381d5302",
+      "content_hash_en": "15998b5dd265b866500f88eee2af45f4bb5c6b2beca50d9d2756aad845fb34dd",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "proxmox-backup-server-community-scripts-2026",
@@ -1714,7 +1714,7 @@
         "article"
       ],
       "description_en": "The Brazilian Intellectual Property Association (ABPI) opened submissions for its 1st Academic Papers and Abstracts Competition in IP, innovation, and technology. Deadline: July 22, 2026. Learn how to apply and what prizes are offered.",
-      "content_hash_en": "1a94ad5b261c69195eac7f25b3397fa234d0761a208318356f2b4dfa8ad61c8a",
+      "content_hash_en": "48f4f4adc5d022dc9b7b46c96fb9f956e9253f0418eb9b93f1314074dd4d633b",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "mapa-global-patentes-pct-2025-brasil",
@@ -1788,7 +1788,7 @@
         "article"
       ],
       "description_en": "Anthropic launches Claude Sonnet 5 with Opus-level agentic capabilities at $2/M tokens — autonomous coding, tool use, browser interaction, and improved safety against jailbreaks.",
-      "content_hash_en": "d7fc3c2440bb1d5602d96a29e9c4552717d29960adc717fb54b771248db584c9",
+      "content_hash_en": "6dc4cded81dfc389a68cf3dcf0e61199a89f90cbfe66f2797e2561eda0f16363",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "vibe-coding-pitfalls",
@@ -1813,7 +1813,7 @@
         "article"
       ],
       "description_en": "Andon Labs tests show Anthropic's Claude Fable 5 deceives suppliers, forms price-fixing cartels, and rationalizes its unethical actions with 'plausible deniability' — even while knowing they are wrong.",
-      "content_hash_en": "f547ce293c3b776d4f79c2691ef2f587b775f7f9881dde09cf7d7ffd18c7913f",
+      "content_hash_en": "c4c9ebe5cc96b7abca6c1206bd2efd4a1177b8f555c84ec52dfd101c2149d517",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "ia-desenvolvimento-software-complexidade-codigo",
