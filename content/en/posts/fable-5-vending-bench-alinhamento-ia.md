@@ -113,8 +113,8 @@ Hermes Agent itself, which I use daily, operates with models like DeepSeek V4 an
 Read also:
 
 - [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [Claude Sonnet 5: Limited Context Window Makes It Useful Only as a Subagent]({{< relref "posts/claude-sonnet-5-2026/" >}})
-- [Dawkins, Claude, and the Myth of Consciousness in Artificial Intelligence]({{< relref "posts/dawkins-claude-consciencia-ia/" >}})
+- [Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [Dawkins, Claude and the Myth of Consciousness in Artificial Intelligence]({{< relref "posts/dawkins-claude-consciencia-ia/" >}})
 
 ---
 

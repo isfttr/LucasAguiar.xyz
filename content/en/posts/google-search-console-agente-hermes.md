@@ -129,7 +129,7 @@ Connecting real data (Search Console, analytics, whatever) via MCP is the game-c
 Read also:
 
 - [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [Open WebUI: Custom Models Not Showing? Step-by-Step Solution [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
-- [Obsidian Copilot + Ollama + OpenRouter: Complete and Free Setup [2026]]({{< relref "posts/10-obsidian-copilot/" >}})
+- [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [How to fix the Missing Custom Models bug]({{< relref "posts/fix-custom-models-open-webui/" >}})
 
 You can contact me about this or other topics via my email <contact@lucasaguiar.xyz>.

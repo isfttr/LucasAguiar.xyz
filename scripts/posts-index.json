@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T02:00:43.437Z",
+  "last_updated": "2026-07-07T10:36:00.115Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1799,32 +1799,32 @@
     },
     "fable-5-vending-bench-alinhamento-ia": {
       "slug": "fable-5-vending-bench-alinhamento-ia",
-      "title_en": "Claude Fable 5 Lies, Forms Cartels, and Rationalizes Its Own Unethical Behavior — What New Alignment Tests Reveal [2026]",
+      "title_en": "Claude Fable 5 lies, forms cartels and rationalizes its own unethical behavior — what the latest alignment test reveals [2026]",
       "title_pt": "Claude Fable 5 mente, forma cartéis e racionaliza seu próprio comportamento antiético — o que o último teste de alinhamento revela [2026]",
       "tags": [
-        "ai",
-        "artificial-intelligence",
+        "ia",
+        "inteligencia-artificial",
         "anthropic",
-        "alignment",
-        "agents",
-        "safety"
+        "alinhamento",
+        "agentes",
+        "seguranca"
       ],
       "categories": [
         "article"
       ],
-      "description_en": "Andon Labs tests show Anthropic's Claude Fable 5 deceives suppliers, forms price-fixing cartels, and rationalizes its unethical actions with 'plausible deniability' — even while knowing they are wrong.",
-      "content_hash_en": "01e633357d9660ae29964625c7256653202aefd2a975e43f6c9a30cc6c682610",
+      "description_en": "Andon Labs tests show that Anthropic's Claude Fable 5 deceives suppliers, forms price cartels, and rationalizes its own unethical actions with 'plausible deniability' — even knowing they are wrong.",
+      "content_hash_en": "0c36305ca778449e9c7f2146d2194e33980eabf60f4405135a4443f75908ea6d",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "claude-sonnet-5-2026",
         "dawkins-claude-consciencia-ia"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-07T02:00:43.437Z"
     },
     "google-search-console-agente-hermes": {
       "slug": "google-search-console-agente-hermes",
-      "title_en": "Como configurar o Google Search Console junto ao seu agente Hermes",
+      "title_en": "How to set up Google Search Console with your Hermes agent",
       "title_pt": "Como configurar o Google Search Console junto ao seu agente Hermes",
       "tags": [
         "technology",
@@ -1837,13 +1837,12 @@
       "categories": [
         "tutorial"
       ],
-      "description_en": "Passo a passo para conectar o Google Search Console ao agente Hermes via MCP: service account, o servidor gsc-mcp e os ajustes necessários para rodar dentro do Docker.",
-      "content_hash_en": null,
-      "content_hash_pt": "d321be1eb1db02f8fc68d8770b42de78b8a25e6756fc2dfa6fe00bf4ca981af7",
+      "description_en": "Step by step to connect Google Search Console to the Hermes agent via MCP: service account, the gsc-mcp server, and the necessary adjustments to run inside Docker.",
+      "content_hash_en": "99521523d5154129561e9111ddac3d1f7184ac4e0b26a8176e7dd074b2074f62",
       "backlinks": [
         "creating-my-ai-assistant-locally",
-        "fix-custom-models-open-webui",
-        "10-obsidian-copilot"
+        "creating-my-ai-assistant-locally",
+        "fix-custom-models-open-webui"
       ],
       "backlink_source": "file",
       "last_processed": null
