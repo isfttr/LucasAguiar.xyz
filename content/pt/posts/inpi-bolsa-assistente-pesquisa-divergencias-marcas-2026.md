@@ -1,6 +1,6 @@
 ---
 date: 2026-07-07T10:46:00-03:00
-draft: true
+draft: false
 title: "INPI Abre Bolsa de R$ 6 Mil para Pesquisa em Divergências Técnicas em Marcas [2026]"
 description: "Edital PDPI do INPI oferece bolsa de R$ 6.000/mês por 12 meses para pesquisa sobre divergências entre decisões de 1ª e 2ª instância em matéria de marcas. Inscrições até 24 de julho."
 featured_image: ""
@@ -46,21 +46,13 @@ A pesquisa será vinculada à CGREC, unidade responsável por recursos e process
 ## Documentos Relacionados
 
 - **Edital completo:** [edital_bolsa.pdf](https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/inpi-seleciona-bolsista-na-area-de-direito-da-propriedade-intelectual/edital_bolsa.pdf)
-- **Portaria — Programa PDPI:** [portaria_pdpi.pdf](https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/inpi-seleciona-bolsista-na-area-de-direito-da-propriedade-intelectual/portaria_pdpi.pdf)
-- **Portaria — Definição dos valores das bolsas:** [valor_bolsas.pdf](https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/inpi-seleciona-bolsista-na-area-de-direito-da-propriedade-intelectual/valor_bolsas.pdf)
 
-**Nota sobre os links:** os arquivos estão hospedados diretamente no site do INPI (gov.br). Caso o download apresente erro, acesse a [página da notícia no INPI](https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/inpi-seleciona-bolsista-na-area-de-direito-da-propriedade-intelectual) e clique em "acesse aqui o edital" ou nos arquivos listados em "Conteúdo Relacionado".
 
 ## Leia também
 
 - [Quanto Custa Registrar uma Marca no INPI em 2026?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [INPI Credenciamento para Busca de Patentes: Guia Completo 2026]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
-
-Leia também:
-
-- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [inpi-credenciamento-busca-patentes]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
-- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 
