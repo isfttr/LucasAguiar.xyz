@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T23:58:31.342Z",
+  "last_updated": "2026-07-07T00:06:04.696Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1776,7 +1776,7 @@
     "claude-sonnet-5-2026": {
       "slug": "claude-sonnet-5-2026",
       "title_en": "Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price [2026]",
-      "title_pt": "Claude Sonnet 5: O Modelo de IA Mais Agêntico da Anthropic Chega com Preço Reduzido [2026]",
+      "title_pt": "Claude Sonnet 5: Janela de Contexto Limitada o torna útil apenas como subagente",
       "tags": [
         "ai",
         "artificial-intelligence",
@@ -1813,7 +1813,7 @@
         "article"
       ],
       "description_en": "Andon Labs tests show Anthropic's Claude Fable 5 deceives suppliers, forms price-fixing cartels, and rationalizes its unethical actions with 'plausible deniability' — even while knowing they are wrong.",
-      "content_hash_en": "d49fd27a62e2e2c73d5ab44e8138e37791d0697135b34dbbc4e920c0e274060e",
+      "content_hash_en": "432329827fa12ec7c1edc07b2f7c1d807fa906e29f73758bbdc6e528d6c48d00",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "ia-desenvolvimento-software-complexidade-codigo",
