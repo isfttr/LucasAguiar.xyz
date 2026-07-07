@@ -46,6 +46,53 @@ function stripHeadingPrefix(s) {
   return typeof s === 'string' ? s.replace(/^\s*#{1,6}\s+/, '').trim() : s;
 }
 
+// Single source of truth for how a post file is serialised, so metadata-only
+// writes match exactly what translateFile() produces (no lineWidth wrapping).
+function stringifyPost(content, data) {
+  return matter.stringify(content, data, {
+    engines: {
+      yaml: {
+        stringify: (obj) => yaml.dump(obj, { lineWidth: -1 })
+      }
+    }
+  });
+}
+
+// Front matter fields that are language-neutral and must stay identical between
+// a post and its translation. `draft` is the one that matters here: publishing
+// the source (draft:false) must publish the translation too. Copied even when a
+// post is too old to re-translate, since it's a cheap metadata write with no API
+// call and no body changes. Localized fields (title/description/tags) are never
+// touched.
+const NEUTRAL_FM_FIELDS = ['draft'];
+
+// Copy language-neutral front matter from `sourceData` onto the target file,
+// preserving the target's body and its localized fields. When
+// `sourceHashToStamp` is provided, also stamp it as the target's
+// translation_source_hash to "adopt" a hand-authored pair so future source
+// edits are picked up by the normal update-detection path. Returns true if the
+// target file was changed.
+function syncNeutralFrontMatter(sourceData, targetPath, sourceHashToStamp = null) {
+  const targetParsed = matter(fs.readFileSync(targetPath, 'utf8'));
+  const data = { ...targetParsed.data };
+  let changed = false;
+
+  for (const field of NEUTRAL_FM_FIELDS) {
+    if (field in sourceData && data[field] !== sourceData[field]) {
+      data[field] = sourceData[field];
+      changed = true;
+    }
+  }
+  if (sourceHashToStamp && data.translation_source_hash !== sourceHashToStamp) {
+    data.translation_source_hash = sourceHashToStamp;
+    changed = true;
+  }
+  if (!changed) return false;
+
+  fs.writeFileSync(targetPath, stringifyPost(targetParsed.content, data), 'utf8');
+  return true;
+}
+
 async function translateWithProvider(callFn, providerName, text, targetLang, retries = 5) {
   const prompt = `You are an expert technical translator for a Hugo blog.
 Translate the following Markdown content to ${targetLang}.
@@ -159,13 +206,7 @@ async function translateFile(sourcePath, targetPath, targetLang) {
   data.translation_source_hash = sourceHash;
 
   // Reconstruct file
-  const newRawContent = matter.stringify(translatedBody, data, {
-    engines: {
-      yaml: {
-        stringify: (obj) => yaml.dump(obj, { lineWidth: -1 })
-      }
-    }
-  });
+  const newRawContent = stringifyPost(translatedBody, data);
   
   // Ensure target directory exists
   const targetDir = path.dirname(targetPath);
@@ -262,7 +303,13 @@ async function syncDirectories() {
         // If PT was translated from EN, and EN has changed
         if (ptParsed.data.translation_source_hash && ptParsed.data.translation_source_hash !== enHash) {
           if (!isRecentPost(enPath)) {
-            console.log(`Skipped (too old): ${relPath}`);
+            // Too old to re-translate the body, but still propagate the
+            // language-neutral `draft` flag so publishing EN publishes PT.
+            if (syncNeutralFrontMatter(enParsed.data, ptPath)) {
+              console.log(`Synced draft EN->PT (too old to re-translate): ${relPath}`);
+            } else {
+              console.log(`Skipped (too old): ${relPath}`);
+            }
           } else {
             console.log(`Update detected in EN: ${relPath}`);
             await translateFile(enPath, ptPath, 'Portuguese');
@@ -272,15 +319,28 @@ async function syncDirectories() {
         // If EN was translated from PT, and PT has changed
         else if (enParsed.data.translation_source_hash && enParsed.data.translation_source_hash !== ptHash) {
           if (!isRecentPost(ptPath)) {
-            console.log(`Skipped (too old): ${relPath}`);
+            if (syncNeutralFrontMatter(ptParsed.data, enPath)) {
+              console.log(`Synced draft PT->EN (too old to re-translate): ${relPath}`);
+            } else {
+              console.log(`Skipped (too old): ${relPath}`);
+            }
           } else {
             console.log(`Update detected in PT: ${relPath}`);
             await translateFile(ptPath, enPath, 'English');
             didTranslate = true;
           }
         }
-        // If neither has a hash (old files), we might just skip or we could compare mtimes as a fallback.
-        // For safety, we skip them until they are manually updated or run.
+        // Neither side has a translation_source_hash: a hand-authored pair the
+        // checks above can't link (e.g. PT and EN committed together). Treat PT
+        // as the canonical source — sync `draft` PT->EN so publishing the PT
+        // publishes the EN, and stamp the source hash to adopt the pair so
+        // future PT edits flow through the normal update path above. The body is
+        // left untouched to preserve hand-written EN content.
+        else if (!ptParsed.data.translation_source_hash && !enParsed.data.translation_source_hash) {
+          if (syncNeutralFrontMatter(ptParsed.data, enPath, ptHash)) {
+            console.log(`Adopted orphan pair + synced draft PT->EN: ${relPath}`);
+          }
+        }
       }
 
       if (didTranslate) {
@@ -315,12 +375,16 @@ function getAllFiles(dirPath, arrayOfFiles) {
   return arrayOfFiles;
 }
 
-syncDirectories().then(async () => {
-  console.log("Translation sync complete.");
-  posthog.capture({ distinctId: POSTHOG_DISTINCT_ID, event: 'translation_sync_completed' });
-  await posthog.shutdown();
-}).catch(async (err) => {
-  posthog.captureException(err, POSTHOG_DISTINCT_ID);
-  await posthog.shutdown();
-  console.error(err);
-});
+if (require.main === module) {
+  syncDirectories().then(async () => {
+    console.log("Translation sync complete.");
+    posthog.capture({ distinctId: POSTHOG_DISTINCT_ID, event: 'translation_sync_completed' });
+    await posthog.shutdown();
+  }).catch(async (err) => {
+    posthog.captureException(err, POSTHOG_DISTINCT_ID);
+    await posthog.shutdown();
+    console.error(err);
+  });
+}
+
+module.exports = { syncNeutralFrontMatter, stringifyPost, NEUTRAL_FM_FIELDS };
