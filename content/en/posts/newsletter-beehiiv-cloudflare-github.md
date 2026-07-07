@@ -246,6 +246,12 @@ Read also:
 - Troubleshooting Proxmox Web Interface Login Errors: A Step-by-Step Guide{{< relref "posts/troubleshooting-proxmox-login-interface/" >}}
 - Hugo Content File Structure{{< relref "posts/hugo-content-file-structure/" >}}
 
+Read also:
+
+- [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
+- [Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Hugo Content File Structure]({{< relref "posts/hugo-content-file-structure/" >}})
+
 ---
 
 You can contact me about this and other topics by filling out the form below.

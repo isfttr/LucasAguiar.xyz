@@ -69,14 +69,9 @@ O artigo completo da Anthropic está disponível em [anthropic.com/features/maki
 
 Leia também:
 
-- [Experiências com Cursor, Windsurf e o Estado das Ferramentas de Codificação com IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [Claude Sonnet 5: O Novo Modelo da Anthropic Chegou]({{< relref "posts/claude-sonnet-5-2026/" >}})
-
-Leia também:
-
-- [Do Cursor ao Windsurf e ao Zed: Minha Jornada por Editores de Código Aprimorados por IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [Claude Sonnet 5: O Modelo de IA Mais Agentic da Anthropic Chega com Preço Reduzido [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
-- [Do Cursor ao Windsurf e ao Zed: Minha Jornada por Editores de Código Aprimorados por IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [Cursor vs Windsurf vs Zed 2026: Qual Editor de Código com IA é o Melhor?]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [Claude Sonnet 5: Janela de Contexto Limitada o torna útil apenas como subagente]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [Cursor vs Windsurf vs Zed 2026: Qual Editor de Código com IA é o Melhor?]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
 
 ---
 

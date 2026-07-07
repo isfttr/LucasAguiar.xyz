@@ -126,11 +126,6 @@ With this, the same agent I built when [I created my AI assistant locally]({{< r
 
 Connecting real data (Search Console, analytics, whatever) via MCP is the trick that turns a chatbot into an assistant that truly knows *your* context.
 
-Also read:
-
-- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 
 You can contact me about this or other topics via my email <contact@lucasaguiar.xyz>.
 

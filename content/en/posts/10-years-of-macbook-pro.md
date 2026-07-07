@@ -74,10 +74,11 @@ Apple says that it is their devices are great and all but the questions that sti
 
 This is the good 'ol MacBook Pro. If you upgrade it, you can have a good upgradeable/fixable computer for many years. The screen isn't great, but for most of my day-to-day use it will not be a problem.
 
+
+You can reach out to contact me about this or other topics at my email contact@lucasaguiar.xyz.
+
 Read also:
 
 - [NixOS - Virtual Machine using QEMU]({{< relref "posts/nixos-vm1/" >}})
 - [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
 - [Life update - November 2023]({{< relref "posts/update_on_life_november-2023/" >}})
-
-You can reach out to contact me about this or other topics at my email contact@lucasaguiar.xyz.

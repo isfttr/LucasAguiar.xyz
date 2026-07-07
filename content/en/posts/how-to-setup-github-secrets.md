@@ -542,7 +542,6 @@ GitHub Secrets provide a robust solution for managing sensitive information in y
 
 Remember, security is an ongoing process. Regularly audit your secrets usage, rotate credentials, and stay informed about best practices in secret management.
 
-
 Read also:
 
 - [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})

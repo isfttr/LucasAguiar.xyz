@@ -126,10 +126,11 @@ Com isso, o mesmo agente que montei quando [criei meu assistente de IA localment
 
 Conectar dados reais (Search Console, analytics, o que for) via MCP é o pulo do gato que transforma um chatbot num assistente que realmente conhece o *seu* contexto.
 
+
+Você pode entrar em contato comigo sobre este ou outros tópicos pelo meu e-mail <contact@lucasaguiar.xyz>.
+
 Leia também:
 
 - [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 - [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 - [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-
-Você pode entrar em contato comigo sobre este ou outros tópicos pelo meu e-mail <contact@lucasaguiar.xyz>.

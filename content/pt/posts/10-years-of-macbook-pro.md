@@ -75,10 +75,11 @@ A Apple diz que seus dispositivos são ótimos e tudo mais, mas a pergunta que a
 
 Este é o bom e velho MacBook Pro. Se você fizer um upgrade nele, pode ter um bom computador atualizável/consertável por muitos anos. A tela não é ótima, mas para a maior parte do meu uso diário não será um problema.
 
+
+Você pode entrar em contato comigo sobre este ou outros tópicos pelo meu e-mail contact@lucasaguiar.xyz.
+
 Leia também:
 
 - [NixOS - Máquina Virtual usando QEMU]({{< relref "posts/nixos-vm1/" >}})
 - [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
 - [Atualização de Vida — Novembro de 2023]({{< relref "posts/update_on_life_november-2023/" >}})
-
-Você pode entrar em contato comigo sobre este ou outros tópicos pelo meu e-mail contact@lucasaguiar.xyz.

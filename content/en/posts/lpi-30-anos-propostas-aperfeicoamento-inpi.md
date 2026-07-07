@@ -68,6 +68,12 @@ For startups and deep techs navigating the Brazilian IP system, the report signa
 
 2.  **Greater engagement from INPI.** The report was built from internal contributions, but the next phase — public consultation and legislative debate — will be the moment for stakeholders to participate. Companies that monitor these developments gain strategic advantages in defining the rules that will govern their IP portfolios.
 
+Read also:
+
+- [TRF-2 confirms ruling that paves the way for the restructuring of INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+
 ---
 
 *This is the first concrete step in what will likely be a multi-year legislative process. I will be following the developments and writing about each phase.*

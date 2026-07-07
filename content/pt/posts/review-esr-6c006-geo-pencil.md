@@ -49,7 +49,6 @@ Aqui estão os principais bloqueios técnicos que tornam essa modificação invi
 * **Certificação da rede Find My (FNA):** O programa de acessórios da Apple é rigoroso e certifica uma combinação exata de hardware e firmware. Qualquer alteração não autorizada no firmware quebraria a assinatura digital, impedindo a caneta de autenticar na rede da Apple — o que anularia seu principal diferencial de mercado.
 * **Hardware inacessível:** Mesmo que fosse possível encontrar as portas JTAG ou SWD na placa de circuito, o formato cilíndrico e selado da caneta torna a desmontagem física quase impossível sem causar danos permanentes à carcaça. O próprio manual adverte expressamente: *"Não desmonte ou modifique o produto"*.
 
-
 Leia também:
 
 - [10 anos usando o MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})

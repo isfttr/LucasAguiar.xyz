@@ -73,10 +73,11 @@ Regarding software, I'm not a huge fan — I know what could be improved — but
 
 I hope this text has helped you if you are considering these options. I aimed to provide my user opinion, with experiences and perspectives after years of using all three systems, instead of raw data about each of them.
 
----
-
 Read also:
 
 - [10 years using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
 - [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
 - [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
+
+---
+

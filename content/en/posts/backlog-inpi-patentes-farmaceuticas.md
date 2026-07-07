@@ -57,10 +57,11 @@ The [automation that INPI plans for the 2025-2029 roadmap]({{< ref "posts/inpi-a
 
 Meanwhile, the debate on how to compensate for historical delays in the effective term of pharmaceutical patents gained a new chapter in Congress through the [discussion of Patent Term Adjustment (PTA)]({{< ref "posts/propostas_pta_patentes_2026.md" >}}), which aims to adjust the term of pharmaceutical patents based on the waiting time for obtaining the grant of the application by the INPI.
 
+
+You can get in touch to discuss this and other topics at <contact@lucasaguiar.xyz>
+
 Read also:
 
 - [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 - [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
 - [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
-
-You can get in touch to discuss this and other topics at <contact@lucasaguiar.xyz>

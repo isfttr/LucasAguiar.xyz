@@ -51,7 +51,6 @@ A inteligência artificial tem sido um tema de interesse para mim e já comentei
 - [Usando Obsidian com uma IA]({{< ref "posts/10-obsidian-copilot.md">}})
 - [Sequenciamento de proteínas usando IA]({{< ref "posts/ai-powered-protein-sequencing.md">}})
 
-
 Leia também:
 
 - [O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software & Por Que a Portabilidade de Dados é Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})

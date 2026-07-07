@@ -140,7 +140,6 @@ O Mac Mini 2018 é um ótimo candidato a nó de homelab — silencioso, eficient
 
 Se você está decidindo entre sistemas para reaproveitar hardware Apple, talvez valha a leitura de [Linux, Windows ou macOS: qual usar em 2026](/posts/linux-windows-macos-qual-usar-2026/) antes de apagar o macOS. Mas se a decisão já está tomada e o destino é o Proxmox, o caminho acima é o que funciona.
 
-
 Leia também:
 
 - [Script para Atualizar Open WebUI em um LXC Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})

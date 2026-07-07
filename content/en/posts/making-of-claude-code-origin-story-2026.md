@@ -67,12 +67,6 @@ Igor Kofman, who started coding in BASIC at age seven in Ukraine, no longer writ
 
 The full article by Anthropic is available at [anthropic.com/features/making-of-claude-code](https://www.anthropic.com/features/making-of-claude-code).
 
-Also read:
-
-- [Experiences with Cursor, Windsurf, and the State of AI Coding Tools]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [Claude Sonnet 5: Anthropic's New Model Has Arrived]({{< relref "posts/claude-sonnet-5-2026/" >}})
-
-
 Read also:
 
 - [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})

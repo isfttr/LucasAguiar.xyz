@@ -70,10 +70,11 @@ Em relação ao software, não sou super fã — sei o que poderia melhorar — 
 
 Espero que esse texto tenha te ajudado se você está entre essas opções. Busquei trazer a minha opinião de usuário, com experiências e perspectivas após anos de uso dos três sistemas, em vez de trazer dados crus sobre cada um deles.
 
----
-
 Leia também:
 
 - [10 anos usando o MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
 - [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
 - [Oracle Cloud Free Tier 2026: Ainda Vale a Pena? Guia Completo + Alternativas]({{< relref "posts/oracle_cloud_vps/" >}})
+
+---
+

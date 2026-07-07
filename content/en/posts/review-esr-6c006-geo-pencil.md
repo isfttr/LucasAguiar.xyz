@@ -35,6 +35,12 @@ For tracking via the Find My network to function properly, the pen needs to emit
 
 Whether this was the best design choice is debatable. For a use scenario focused on productivity at home or in the office, continuous tracking might be less useful than intelligent power management.
 
+Read also:
+
+- [10 years using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
+- [Linux, Windows or macOS: Which Operating System to Use in 2026?]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
+- [Thoughts on the hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})
+
 ---
 
 ## Is It Possible to Modify the Firmware of the ESR 6C006?
@@ -61,8 +67,3 @@ My plan to have a secondary *stylus* remains valid. Aside from the absence of *s
 
 The irony of the situation is that I bought a second pen so I wouldn't have to manage batteries, and now I need to remember to turn off an extra device. As I commented in my article [From Procrastination to Progress](<<{ relref “posts/ai-beats-procrastination/”}>>), the best productivity systems are those that minimize the number of micro-decisions and things we need to remember. A tool that silently dies in your backpack is a friction point worth understanding, even if the only solution for now is a bit more manual discipline.
 
-Read also:
-
-- [10 years using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
-- [Linux, Windows or macOS: Which Operating System to Use in 2026?]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
-- [Thoughts on the hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})

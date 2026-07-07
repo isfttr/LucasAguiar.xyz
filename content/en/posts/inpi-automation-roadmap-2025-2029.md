@@ -63,12 +63,13 @@ The INPI's automation project represents a significant step forward in modernizi
 
 You can also what in full the presentation and discussions on the matter by [watching the video](https://www.youtube.com/watch?v=OAXyPg1TsiQ).
 
+
+You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.
+
+{{< contact_form >}}
+
 Read also:
 
 - [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
 - [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
 - [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
-
-You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.
-
-{{< contact_form >}}

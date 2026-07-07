@@ -56,12 +56,11 @@ A pesquisa será vinculada à CGREC, unidade responsável por recursos e process
 - [Quanto Custa Registrar uma Marca no INPI em 2026?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [INPI Credenciamento para Busca de Patentes: Guia Completo 2026]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
 
-
 Leia também:
 
 - [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [inpi-credenciamento-busca-patentes]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
-- [Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 

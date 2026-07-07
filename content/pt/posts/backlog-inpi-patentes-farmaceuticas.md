@@ -61,6 +61,12 @@ Leia também:
 - [Patent Term Adjustment: a indústria farmacêutica perdeu no STJ]({{< relref "posts/propostas_pta_patentes_2026/" >}})
 - [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
 
+Leia também:
+
+- [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [PTA Patentes 2026: STJ Negou Extensão, Mas o Debate Chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
+
 ---
 
 Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>

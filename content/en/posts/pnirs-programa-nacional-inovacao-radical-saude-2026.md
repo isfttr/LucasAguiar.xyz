@@ -81,12 +81,11 @@ The ordinance does not specify financial amounts — budget execution will be ma
 - [INPI Adota Medidas de Adequação à Legislação Eleitoral]({{< relref "posts/inpi-medidas-eleicoes-2026/" >}})
 - [Nova Indústria Brasil: R$ 300 Bilhões em Política Industrial]({{< relref "posts/nova-industria-brasil-300-bilhoes/" >}})
 
-
 Read also:
 
+- [inpi-medidas-eleicoes-2026]({{< relref "posts/inpi-medidas-eleicoes-2026/" >}})
+- [nova-industria-brasil-300-bilhoes]({{< relref "posts/nova-industria-brasil-300-bilhoes/" >}})
 - [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
-- [PL 2.583/2020 é aprovado no Senado e cria marco legal do Complexo Industrial da Saúde [2026]]({{< relref "posts/pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude/" >}})
-- [PL 5810/2025: o Estudo do Ministério da Saúde Que Projeta R$ 3 Bilhões em Custos Adicionais ao SUS]({{< relref "posts/pl-5810-2025-estudo-ministerio-saude-patentes-sus/" >}})
 
 ---
 

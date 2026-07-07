@@ -88,6 +88,12 @@ definir a exclusividade de mercado de um medicamento blockbuster, a diferença e
 uma rejeição bem fundamentada e uma arbitrária pode representar milhões de dólares
 em investimento em P&D.
 
+Leia também:
+
+- [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [PTA Patentes 2026: STJ Negou Extensão, Mas o Debate Chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
+
 ---
 
 *Os documentos da consulta pública estão disponíveis na [página de consultas públicas do INPI](https://www.gov.br/inpi/pt-br/servicos/patentes/consultas-publicas), incluindo a análise das contribuições e a versão definitiva do Capítulo 9.*

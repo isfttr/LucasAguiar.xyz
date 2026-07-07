@@ -87,6 +87,12 @@ Read also:
 -   [How to Consult the Progress of an INPI Process: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 -   [Second medical use patents in Brazil: INPI releases final result of new examination guidelines]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
 
+Read also:
+
+- [INPI launches call for proposals to select Intellectual Property success stories [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
+
 ---
 
 You can get in touch to discuss this and other topics at <contact@lucasaguiar.xyz>

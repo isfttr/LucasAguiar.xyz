@@ -441,7 +441,6 @@ Starting with a well-structured approach to modules will save you countless hour
 
 The next time you find yourself writing a Python script that's growing too large or has clearly distinct functionality, take a moment to consider how you might split it into modules. Your future self will thank you!
 
-
 Read also:
 
 - [Building Interactive Flask Web Apps: Progress Bars and Beyond]({{< relref "posts/flask-progress-bars-and-beyond/" >}})

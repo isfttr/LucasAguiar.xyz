@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T18:28:07.469Z",
+  "last_updated": "2026-07-07T18:32:33.432Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -575,7 +575,7 @@
         "article"
       ],
       "description_en": "After the STJ denied an extension of time for semaglutide, the discussion about compensation for INPI's delay in pharmaceutical patents moved to the Legislature. What is at stake in Bill No. 5,810/2025.",
-      "content_hash_en": "d8cc110ad1e32fc22c23f6c51aab9aadf62bf4ef04b652cedf50d07e79d162ab",
+      "content_hash_en": "6b27a1c739abee744ddb8cbc32df5e7cf2f254d768215263b68f0cbb5e0a81ac",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "inpi-automation-roadmap-2025-2029",
@@ -937,7 +937,7 @@
         "article"
       ],
       "description_en": "The Danish Novo Nordisk requests the annulment of the registration of EMS's Ozivy brand, alleging confusion with Ozempic and Wegovy. Understand the arguments from each side and what is at stake for the GLP-1 market in Brazil.",
-      "content_hash_en": "2133df3341438ba3a44acf3daa97c7432fad603ba61d0b5e60d367cd97163323",
+      "content_hash_en": "48281dd56cb4db75baefaec81b2f9444a5a72bb2b35259f5f953ffa1929d1dfd",
       "backlinks": [
         "propostas_pta_patentes_2026",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1137,7 +1137,7 @@
         "article"
       ],
       "description_en": "BNDES and Finep expand industrial policy resources to R$ 750 billion in the 2023-2026 period. AI officially becomes a strategic sector. An analysis of the 22-year trajectory that led to this decision.",
-      "content_hash_en": "01c901313ee2b7f48d4c79e6df2fb5b56681abaa284711dac1b9c96f7a8477eb",
+      "content_hash_en": "89b4ee673c181847fd990e6cf786d58d39114daa7b0be0eff57245f2abfce9d3",
       "backlinks": [
         "nova-industria-brasil-saude-patentes",
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
@@ -1317,7 +1317,7 @@
         "article"
       ],
       "description_en": "Complete guide to searching for patent, trademark, and industrial design processes at INPI. Learn how to use e-INPI, the search system, and interpret status codes.",
-      "content_hash_en": "38135193e48c0a2244cc8356615dc3cd8e602f2d39a0722a54af7249a21e38d4",
+      "content_hash_en": "64a63e51557e4347a00eb03f5b39bab3e5df6889249c98eeaae4cfd0e41d07f2",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-automation-roadmap-2025-2029",
@@ -1341,7 +1341,7 @@
         "article"
       ],
       "description_en": "Complete guide with all trademark registration costs at INPI in 2026: fees by class, discounts for MEI/ME, power of attorney, extension, and official links. Updated table.",
-      "content_hash_en": "6b8ade967b6a92af7e34191765cc5473e87b87050aab2f66f7c1a2e054aeef6b",
+      "content_hash_en": "f991a39a749a6138019eeacdf63582743e04f9905d986161e63132ce0150f0be",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "como-consultar-andamento-processo-inpi",
@@ -1516,7 +1516,7 @@
         "article"
       ],
       "description_en": "Complete guide with the 10 main difficulties to access Google Analytics in 2026: VPN blocking access, third-party cookies, extensions, account permissions, and much more.",
-      "content_hash_en": "3af59de576626cb9a0922b6aac2e3e65b2a038caba2bc647b6179812db93427c",
+      "content_hash_en": "cf8e10ed96faf0cdb049fb10000727db0cbe471cd56ae9d76e1efcb4f42dd62e",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "configuracao-whatsapp-hermes",
@@ -1614,7 +1614,7 @@
         "article"
       ],
       "description_en": "Complete guide to migrating from Proxmox VE 8 (Debian 12-based) to Proxmox VE 9 (Debian 13 Trixie): repositories, kernel 6.14 upgrade, ZFS 2.3, common pitfalls and post-upgrade verification.",
-      "content_hash_en": "b0bcdfa1a8e000b17df3d86d11a098d89304d7c6f1cb80431e071b1b381d5302",
+      "content_hash_en": "121022a3a0c35c1b2090454e4565ca224647f108fc8621c92d214f65c7a3ab60",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "proxmox-backup-server-community-scripts-2026",
@@ -1639,7 +1639,7 @@
         "article"
       ],
       "description_en": "Complete guide to installing Proxmox Backup Server (PBS) using community-scripts in an LXC container, configuring datastore, integrating with Proxmox VE, and automating backups with scheduling and integrity verification.",
-      "content_hash_en": "076f7d27c597bb96a9ee46391006c4f7ae8762f2eb7ef4d37f17b7c9fe38e210",
+      "content_hash_en": "acbc0e6220fd201b2ed19de667fcca519aaffd2fc700becda006f25edf02d339",
       "backlinks": [
         "proxmox-mac-mini-2018-t2",
         "troubleshooting-proxmox-login-interface",
@@ -1862,7 +1862,7 @@
         "article"
       ],
       "description_en": "INPI published clarification on how to access its services using CNPJ linked to the gov.br account. Step-by-step guide to link your company, manage collaborators, and access patent and trademark services.",
-      "content_hash_en": "71598449b0ebe151a34290aad9e11022f11114d9c8bc61465e696b5c8b70af04",
+      "content_hash_en": "ff0aa2c344fa3b8bd814a5b92d208ba3446c530cc77fb6b4ae8e6d8863d68a49",
       "backlinks": [
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
@@ -1885,7 +1885,7 @@
         "article"
       ],
       "description_en": "The inside story of how Claude Code evolved from a two-day experiment to the coding agent that transformed software development. Told by the people who built it.",
-      "content_hash_en": "5d19c559e43e900aabbcd8aa94092ccdd9331bc76ca040fb83f94333df628606",
+      "content_hash_en": "035562c1ea97a4ef85e7d6fe7969926d475bd0bb61530308248a65f72432fae9",
       "backlinks": [
         "experience-with-cursor-and-windsurf",
         "claude-sonnet-5-2026",
@@ -1919,7 +1919,7 @@
     },
     "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026": {
       "slug": "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026",
-      "title_en": "INPI Opens R$ 6 Thousand Grant for Research on Technical Divergences in Trademarks [2026]",
+      "title_en": "INPI Opens Grant of R$ 6 Thousand for Research on Technical Divergences in Trademarks [2026]",
       "title_pt": "INPI Abre Bolsa de R$ 6 Mil para Pesquisa em Divergências Técnicas em Marcas [2026]",
       "tags": [
         "inpi",
@@ -1932,19 +1932,19 @@
       "categories": [
         "article"
       ],
-      "description_en": "INPI's PDPI notice offers a scholarship of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions on trademark matters. Applications until July 24.",
-      "content_hash_en": "fd1b6c87433cf958fc4ac18912be320b0c7cb685a95f30d062107e999e0cb490",
+      "description_en": "INPI's PDPI notice offers a scholarship of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
+      "content_hash_en": "8ebe9d76bab2302a245bef758c8c80293053169d96674e9107b8d111c8d86340",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-credenciamento-busca-patentes",
-        "novo-nordisk-ozivy-anulacao-marca-semaglutida"
+        "quanto-custa-registrar-marca-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-07T18:17:05.880Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
-      "title_en": "Governo Institui Programa Nacional de Inovação Radical em Saúde (PNIRS) [2026]",
+      "title_en": "Government Establishes National Program for Radical Innovation in Health (PNIRS) [2026]",
       "title_pt": "Governo Institui Programa Nacional de Inovação Radical em Saúde (PNIRS) [2026]",
       "tags": [
         "saude",
@@ -1960,15 +1960,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "Portaria GM/MS nº 11.921 cria o PNIRS para acelerar a transformação de conhecimento científico em produtos e serviços para o SUS, com Centros-Âncora e articulação interministerial.",
-      "content_hash_en": null,
-      "content_hash_pt": "215c2eaa32e4b221dd3fdea950cf771c3ed789dfc389770daae452d0ce2b909f",
+      "description_en": "GM/MS Ordinance No. 11,921 creates the PNIRS to accelerate the transformation of scientific knowledge into products and services for the SUS, with Anchor Centers and interministerial coordination.",
+      "content_hash_en": "4075eb794d3895c5d3aee6460e6ae000b7d08a9d54d268b6a31f9e2cc42c241e",
       "backlinks": [
-        "nova-industria-brasil-saude-patentes",
-        "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude",
-        "pl-5810-2025-estudo-ministerio-saude-patentes-sus"
+        "inpi-medidas-eleicoes-2026",
+        "nova-industria-brasil-300-bilhoes",
+        "nova-industria-brasil-saude-patentes"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-07T18:28:07.468Z"
     }
   }

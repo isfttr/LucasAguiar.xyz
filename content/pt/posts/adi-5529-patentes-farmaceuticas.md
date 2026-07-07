@@ -49,7 +49,6 @@ O STJ encerrou essa discussão judicial em dezembro de 2025 no caso da semagluti
 
 A questão subjacente permanece a mesma que motivou a ADI: enquanto o INPI demorar anos para examinar pedidos farmacêuticos — e o [backlog específico desse setor]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}}) nunca foi atacado com a mesma energia que o geral —, a tensão entre inovação e acesso a medicamentos vai continuar produzindo litígios.
 
-
 Leia também:
 
 - [PTA Patentes 2026: STJ Negou Extensão, Mas o Debate Chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})

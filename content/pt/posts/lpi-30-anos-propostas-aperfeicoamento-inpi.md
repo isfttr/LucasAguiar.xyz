@@ -121,6 +121,12 @@ sinaliza duas tendências importantes:
    monitoram esses developments ganham vantagens estratégicas na definição das
    regras que regerão seus portfólios de PI.
 
+Leia também:
+
+- [TRF-2 Obriga União a Reestruturar o INPI: O que Isso Significa para suas Patentes?]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+
 ---
 
 *Este é o primeiro passo concreto do que será provavelmente um processo legislativo

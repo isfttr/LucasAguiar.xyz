@@ -74,6 +74,12 @@ Leia também:
 - [LPI aos 30 anos: INPI publica relatório com propostas para aperfeiçoamento da Lei de Propriedade Industrial]{{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}}
 - [Brasil adere ao Tratado de Budapeste: o que muda para as patentes biotecnológicas]{{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}}
 
+Leia também:
+
+- [TRF-2 Obriga União a Reestruturar o INPI: O que Isso Significa para suas Patentes?]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
+
 ---
 
 Você pode entrar em contato para discutir este e outros tópicos via e-mail <contact@lucasaguiar.xyz>
