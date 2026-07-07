@@ -1,6 +1,6 @@
 ---
 date: 2026-07-07T10:46:00-03:00
-draft: true
+draft: false
 title: "Governo Institui Programa Nacional de Inovação Radical em Saúde (PNIRS) [2026]"
 description: "Portaria GM/MS nº 11.921 cria o PNIRS para acelerar a transformação de conhecimento científico em produtos e serviços para o SUS, com Centros-Âncora e articulação interministerial."
 featured_image: ""
@@ -26,7 +26,7 @@ A portaria, assinada pelo ministro **Alexandre Rocha Santos Padilha**, altera a 
 
 O PNIRS é um programa voltado ao desenvolvimento de **inovações radicais em saúde** — definidas como tecnologias novas para o país ou para o cenário internacional, caracterizadas por elevado risco tecnológico, alto potencial de impacto e capacidade de transformação das competências científicas, produtivas, assistenciais ou regulatórias.
 
-O programa será coordenado pela **Secretaria de Ciência, Tecnologia e Inovação em Saúde (SECTIS/MS)** e operacionalizado por meio de **Centros-Âncora de Inovação Radical em Saúde** — instituições com infraestrutura científica e tecnológica especializada.
+O programa será coordenado pela **Secretaria de Ciência, Tecnologia e Inovação em Saúde (SCTIE/MS)** e operacionalizado por meio de **Centros-Âncora de Inovação Radical em Saúde** — instituições com infraestrutura científica e tecnológica especializada.
 
 ## Objetivos
 
@@ -60,26 +60,15 @@ Os projetos de PD&I serão selecionados em **fluxo contínuo**, com análise de 
 
 A estrutura de governança do PNIRS é composta por:
 
-- **Coordenação Executiva** — formada pela Secretaria-Executiva do MS, pelo Departamento de Ciência e Tecnologia da SECTIS e pelo Departamento do Complexo Econômico e Industrial da Saúde
+- **Coordenação Executiva** — formada pela Secretaria-Executiva do MS, pelo Departamento de Ciência e Tecnologia (DECIT/SCTIE) e pelo Departamento do Complexo Econômico e Industrial da Saúde (DECIS/SCTIE)
 - **Comitê de Seleção e Monitoramento** — responsável pela avaliação técnica e pela decisão sobre continuidade dos projetos
 - **Conselho Consultivo** — instância de aconselhamento estratégico
 - **Centros-Âncora de Inovação Radical em Saúde** — instituições executoras
 
-## Contexto
-
-O PNIRS foi lançado pelo **Presidente Luiz Inácio Lula da Silva** em evento no **CNPEM** (Centro Nacional de Pesquisa em Energia e Materiais), em Campinas (SP), que também marcou a entrega de novas linhas de luz do acelerador **Sirius**. O primeiro polo do PNIRS foi instalado no CNPEM, com investimentos vinculados ao **Novo PAC**.
-
-A portaria não especifica valores financeiros — a execução orçamentária será viabilizada por instrumentos jurídicos específicos celebrados com os Centros-Âncora, contemplando mecanismos como encomenda tecnológica, parcerias para o desenvolvimento produtivo (PDP) e outros instrumentos de fomento.
 
 ## Para mais informações
 
 - **Portaria na íntegra (DOU):** [pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=515&pagina=119&data=06/07/2026](https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=515&pagina=119&data=06/07/2026)
-- **Notícia no CNPEM:** [cnpem.br](https://cnpem.br)
-
-## Leia também
-
-- [INPI Adota Medidas de Adequação à Legislação Eleitoral]({{< relref "posts/inpi-medidas-eleicoes-2026/" >}})
-- [Nova Indústria Brasil: R$ 300 Bilhões em Política Industrial]({{< relref "posts/nova-industria-brasil-300-bilhoes/" >}})
 
 Leia também:
 
