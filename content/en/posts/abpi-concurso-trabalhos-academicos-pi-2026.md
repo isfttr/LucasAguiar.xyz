@@ -1,9 +1,9 @@
 ---
-date: 2026-07-05T11:00:00-03:00
+date: 2026-07-05T14:00:00.000Z
 draft: true
-title: "ABPI Launches 1st Academic Paper Competition in IP: Submissions Open Until July 22 [2026]"
-description: "The Brazilian Intellectual Property Association (ABPI) opened submissions for its 1st Academic Papers and Abstracts Competition in IP, innovation, and technology. Deadline: July 22, 2026. Learn how to apply and what prizes are offered."
-featured_image: ""
+title: 'ABPI Launches 1st Academic Paper Competition in IP: Submissions Open Until July 22 [2026]'
+description: 'The Brazilian Intellectual Property Association (ABPI) opened submissions for its 1st Academic Papers and Abstracts Competition in IP, innovation, and technology. Deadline: July 22, 2026. Learn how to apply and what prizes are offered.'
+featured_image: ''
 categories:
   - article
 tags:
@@ -13,6 +13,7 @@ tags:
   - research
   - competition
   - academia
+translation_source_hash: e68fb90676be7373d5a75ba49713c3ec0dd09ccd7cba0ba34bbfabd22b339c99
 ---
 
 On July 5, 2026, the Brazilian Intellectual Property Association (ABPI) announced the launch of its **1st Academic Papers and Abstracts Competition**, a brand-new initiative to identify and showcase research, studies, and practical cases that contribute to the advancement of Intellectual Property, innovation, technology, and business in Brazil.

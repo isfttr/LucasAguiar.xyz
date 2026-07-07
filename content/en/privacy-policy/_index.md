@@ -1,10 +1,11 @@
 ---
-title: "Privacy Policy"
-description: "How we handle your data."
+title: Privacy Policy
+description: How we handle your data.
 omit_header_text: true
-url: "/privacy-policy"
+url: /privacy-policy
 draft: false
 type: page
+translation_source_hash: a8877cec595537ee078d4b811d60080d7708a667a67e985fffe2300dc0ed9ee0
 ---
 
 **Last updated April 11, 2025**

@@ -1,10 +1,11 @@
 ---
-title: "About"
-url: "/about"
-type: "page"
+title: About
+url: /about
+type: page
 draft: false
 toc: true
-layout: "about"
+layout: about
+translation_source_hash: 6f17b1e479f7b501d3b9f2985b8d97e8a3c6b494eccedf5372e585ccefa5ba6e
 ---
 
 # Chemist (MSc.) {.athelas}

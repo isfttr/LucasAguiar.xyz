@@ -1,9 +1,9 @@
 ---
-date: 2026-07-06T15:00:00-03:00
+date: 2026-07-06T18:00:00.000Z
 draft: false
-title: "Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price [2026]"
-description: "Anthropic launches Claude Sonnet 5 with Opus-level agentic capabilities at $2/M tokens — autonomous coding, tool use, browser interaction, and improved safety against jailbreaks."
-featured_image: ""
+title: 'Claude Sonnet 5: Anthropic''s Most Agentic AI Model Arrives at a Reduced Price [2026]'
+description: Anthropic launches Claude Sonnet 5 with Opus-level agentic capabilities at $2/M tokens — autonomous coding, tool use, browser interaction, and improved safety against jailbreaks.
+featured_image: ''
 categories:
   - article
 tags:
@@ -12,6 +12,7 @@ tags:
   - anthropic
   - dev
   - technology
+translation_source_hash: d980af38c2bb901eb0423f16e3892c20aec7cea6233574e37080a8eda07a7c31
 ---
 
 On June 30, 2026, Anthropic released **Claude Sonnet 5**, the next generation of its mid-tier model that promises to redefine cost-performance in AI agents. The model arrives with agentic capabilities that until recently were exclusive to larger, more expensive models — at a price point that makes scaling AI agents in production viable.

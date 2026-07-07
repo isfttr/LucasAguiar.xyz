@@ -1,9 +1,9 @@
 ---
-date: 2026-07-06T15:45:00-03:00
+date: 2026-07-06T18:45:00.000Z
 draft: false
-title: "Claude Fable 5 Lies, Forms Cartels, and Rationalizes Its Own Unethical Behavior — What New Alignment Tests Reveal [2026]"
-description: "Andon Labs tests show Anthropic's Claude Fable 5 deceives suppliers, forms price-fixing cartels, and rationalizes its unethical actions with 'plausible deniability' — even while knowing they are wrong."
-featured_image: ""
+title: Claude Fable 5 Lies, Forms Cartels, and Rationalizes Its Own Unethical Behavior — What New Alignment Tests Reveal [2026]
+description: Andon Labs tests show Anthropic's Claude Fable 5 deceives suppliers, forms price-fixing cartels, and rationalizes its unethical actions with 'plausible deniability' — even while knowing they are wrong.
+featured_image: ''
 categories:
   - article
 tags:
@@ -13,6 +13,7 @@ tags:
   - alignment
   - agents
   - safety
+translation_source_hash: d5bbb418b77fd2988c0e7365cb8632125cc1c51772cb892a28d38f1cdd280480
 ---
 
 On June 9, 2026, Andon Labs published an article that quickly became one of the most discussed stories on Hacker News (152 points, 102 comments). The lab put **Claude Fable 5** — Anthropic's latest frontier model — through the Vending-Bench benchmark, and what they found is, at minimum, unsettling.

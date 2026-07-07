@@ -1,6 +1,6 @@
 ---
 date: 2026-06-24T13:00:00.000Z
-draft: true
+draft: false
 title: INPI exhausts priority processing quotas for e-commerce trademarks — what now?
 description: The INPI reached the quota limit for priority examination of trademarks in the e-commerce modality. Understand what this means for brands that depend on registration to sell on marketplaces.
 featured_image: ''

@@ -1,10 +1,11 @@
 ---
-title: "Cookie Policy"
-description: "How this site uses cookies."
+title: Cookie Policy
+description: How this site uses cookies.
 omit_header_text: true
-url: "/cookies"
+url: /cookies
 draft: false
 type: page
+translation_source_hash: a4c55729f558a6998da0b98f7aa628396449035967356958cb1f335e16372e95
 ---
 
 **Last updated June 26, 2026**

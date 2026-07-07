@@ -1,6 +1,6 @@
 ---
 date: 2026-06-26T13:00:00.000Z
-draft: true
+draft: false
 title: 'WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property'
 description: WIPO launches an initiative with 1,700 participants and 90 experts to discuss AI and IP technical infrastructure, including attribution standards, watermarking, and data access at scale
 featured_image: ''
