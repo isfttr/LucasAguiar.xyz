@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T00:06:04.696Z",
+  "last_updated": "2026-07-07T01:53:09.389Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1689,7 +1689,7 @@
         "article"
       ],
       "description_en": "Exploring GitButler's new CLI and TUI — how 'but' is transforming Git workflow directly from the terminal, without leaving the editor. Comparison with the Desktop and command tips.",
-      "content_hash_en": "7c51c6db36f8d6239aad992c266686dd5bf3682631b5deb4c4c7e03ab8393260",
+      "content_hash_en": "f84b92fa6fabfc51652997c893393b15ac87deb228cf83987f395f48ed5d8fb2",
       "backlinks": [
         "one-week-review-gitbutler",
         "experience-with-cursor-and-windsurf",
@@ -1788,7 +1788,7 @@
         "article"
       ],
       "description_en": "Anthropic launches Claude Sonnet 5 with Opus-level agentic capabilities at $2/M tokens — autonomous coding, tool use, browser interaction, and improved safety against jailbreaks.",
-      "content_hash_en": "dad5f24a43a606ae76b9294481bbd7cbc8da2c37d3c64af42b811801851abb65",
+      "content_hash_en": "d7fc3c2440bb1d5602d96a29e9c4552717d29960adc717fb54b771248db584c9",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "vibe-coding-pitfalls",
@@ -1813,7 +1813,7 @@
         "article"
       ],
       "description_en": "Andon Labs tests show Anthropic's Claude Fable 5 deceives suppliers, forms price-fixing cartels, and rationalizes its unethical actions with 'plausible deniability' — even while knowing they are wrong.",
-      "content_hash_en": "432329827fa12ec7c1edc07b2f7c1d807fa906e29f73758bbdc6e528d6c48d00",
+      "content_hash_en": "f547ce293c3b776d4f79c2691ef2f587b775f7f9881dde09cf7d7ffd18c7913f",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "ia-desenvolvimento-software-complexidade-codigo",
