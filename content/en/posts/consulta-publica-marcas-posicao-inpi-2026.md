@@ -88,11 +88,11 @@ Active participation of society in IP regulation strengthens legal certainty and
 
 If you are not yet aware of the costs involved in registering trademarks in Brazil, see our complete guide on [how much it costs to register a trademark with INPI in 2026]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}}). To understand the impact of the exhaustion of priority processing quotas for trademarks in e-commerce, also read [INPI exhausts priority processing quotas for trademarks in e-commerce]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}}).
 
-Also read:
+Read also:
 
-- [How Much Does It Cost to Register a Trademark with INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [INPI exhausts priority processing quotas for trademarks in e-commerce — what now?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
-- [How Much Does It Cost to Register a Trademark with INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI exhausts priority processing quotas for e-commerce trademarks — what now?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 

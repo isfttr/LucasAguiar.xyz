@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T14:14:24.296Z",
+  "last_updated": "2026-07-08T17:57:24.031Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -15,7 +15,7 @@
         "tutorial"
       ],
       "description_en": "Using OpenRouter to power AI in Obsidian.",
-      "content_hash_en": "554c08e53cca69b7e62461d03c79b23f34a78b26743cdd1647bbd575b269ed21",
+      "content_hash_en": "aef6136100805b4cacb770c1b85bc792c45234331294f56714745bb0d2d0e3cc",
       "backlinks": [
         "creating-my-ai-assistant-locally",
         "anthropic-thinking-process-paper",
@@ -85,7 +85,7 @@
         "article"
       ],
       "description_en": "",
-      "content_hash_en": "9a92f34bf874603b2f246d83be96f04bb583a9fd961adf971e644e3c2856bf62",
+      "content_hash_en": "7a91e1a233af0f5294bde2f7f4c4c202d2f95333226563cbfbba9c8b0e582e6c",
       "backlinks": [
         "experience-with-cursor-and-windsurf",
         "vibe-coding-pitfalls",
@@ -107,7 +107,7 @@
         "article"
       ],
       "description_en": "AI is changing the game for software companies. The emerging \"AI Copy-Paste Problem\" highlights the declining effectiveness of software lock-in. Users now prioritize data portability, enabled by accessible AI tools, allowing them to easily move between platforms. This article examines how businesses can adapt by embracing data interoperability to build genuine customer loyalty in the age of AI.",
-      "content_hash_en": "0f0c1dc2bf2a684b4ecd127e426c8595ad128dc73f1eaf1a232fc597a0a31583",
+      "content_hash_en": "63c26e547172cf3baf512440792f4d575b2d233f460f3c289cea2a6e14fd2e9b",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "vibe-coding-pitfalls",
@@ -153,7 +153,7 @@
         "article"
       ],
       "description_en": "Learn how artificial intelligence is revolutionizing our understanding of proteins - the workhorses of life - and transforming medicine, agriculture, and environmental science along the way.",
-      "content_hash_en": "2c56ed2b7c2d44f47db05794330af300a1e307b4427e4c272b5f691f6536e7ee",
+      "content_hash_en": "abec9344d4c18a0446400f93d3fa888d086a9e3aa9d78897c131dafdef884a9a",
       "backlinks": [
         "ia-desenvolvimento-software-complexidade-codigo",
         "backlog-inpi-patentes-farmaceuticas",
@@ -178,7 +178,7 @@
         "article"
       ],
       "description_en": "A breakdown of how researchers are peering inside Claude's 'mind' and discovering surprising parallels with biological systems in Anthropic's groundbreaking new paper.",
-      "content_hash_en": "0b27cc22b5b7f0f935c3ddcb8b29a0cc8d4e907c7b859a4f511c6e092ffed2c8",
+      "content_hash_en": "ddcc42a7dcd170e6dd83ca5028b069069f6a99178befda764cfffe73782cdfe1",
       "backlinks": [
         "ai-copy-paste-problem",
         "vibe-coding-pitfalls",
@@ -203,7 +203,7 @@
         "article"
       ],
       "description_en": "The Backlog Combat Plan reduced the overall stock by 80%, but pharmaceutical orders were left out. Understand what changed with Ordinance 110/2025 and what is still pending.",
-      "content_hash_en": "9a5b2b55840d3d9ea98bc8e88570badcb80709830820bf2e2c2664cac88c1b0a",
+      "content_hash_en": "8db2064b261afb5682c94a11d3a4b6c54233b77ece810dfd7e05233ced9364b0",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "propostas_pta_patentes_2026",
@@ -253,7 +253,7 @@
         "article"
       ],
       "description_en": "A personal review of my experiences with Cursor, Windsurf, and other modern code editors, including their AI capabilities, extension support, and overall user experience.",
-      "content_hash_en": "f13b79296061539debc4ecedfefaa6d2c34d968a09f4491bdb063e681aea7643",
+      "content_hash_en": "c8926aee7667844223e916c2356dfc7addbe92a692d73143223ad2f32b9eb24f",
       "backlinks": [
         "vibe-coding-pitfalls",
         "one-week-review-gitbutler",
@@ -274,7 +274,7 @@
         "article"
       ],
       "description_en": "",
-      "content_hash_en": "f35965c3160f9d4aed213dcad6269ca77cc432adbe04b9a648f2599a9ee0bca8",
+      "content_hash_en": "497b1977fbefe5e492e847bbe28bef04ae94bdc071dde9329a7b090fc6e6d81d",
       "backlinks": [
         "script-update-open_webui-lxc",
         "creating-my-ai-assistant-locally",
@@ -299,7 +299,7 @@
         "tutorial"
       ],
       "description_en": "A practical guide to implementing progress bars, real-time updates, and other interactive features in your Flask web applications.",
-      "content_hash_en": "8e8935f860daed8536a9f291c4cb12210ddb2ea03ac9b4faeeb5f9799855b6b0",
+      "content_hash_en": "e93e425206b2acfa74352c919b75c8d51f34410c20a46b1516119b3c69e95b81",
       "backlinks": [
         "python-modules-guide",
         "oracle_cloud_vps",
@@ -373,7 +373,7 @@
         "article"
       ],
       "description_en": "The increasing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
-      "content_hash_en": "4d404f8958c111b0c6df6fcbcf1245f9b6033bc5ccc9e5efec0082250f45f03f",
+      "content_hash_en": "6a46a5a37e204e68c328f81e4838b2b6d7cd085e27a6602a5391955053eaba73",
       "backlinks": [
         "ai-copy-paste-problem",
         "experience-with-cursor-and-windsurf",
@@ -400,7 +400,7 @@
         "video"
       ],
       "description_en": "This initiative aims to streamline the patent process, enhance user experience, and improve the efficiency of patent examiners.",
-      "content_hash_en": "ee96bf1f75530e90cf2885a2ed941a6f60c76f151a482ad9e50a6291d6871d9b",
+      "content_hash_en": "b4e89aff45a8c4c66714ed4494c1133c12a45876dc9f90031d47b14d80e4dec2",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "propostas_pta_patentes_2026",
@@ -451,7 +451,7 @@
         "tutorial"
       ],
       "description_en": "Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.",
-      "content_hash_en": "f6586e3c4f305dd6d168d2b2d61dd5448081bda271ca1ae83f9a9625901ee376",
+      "content_hash_en": "e5c04e40c75bc69f2fa8814aec70634ffe80a89fa7d9a6258a94026f2d74b7d0",
       "backlinks": [
         "oracle_cloud_vps",
         "troubleshooting-proxmox-login-interface",
@@ -496,7 +496,7 @@
         "article"
       ],
       "description_en": "My experience using GitButler as a replacement for traditional Git workflow tools, including what works well and a few limitations.",
-      "content_hash_en": "a9a04e1c49efe2c1b05840e4319adc86eae28496249ab5d985c090febf34837b",
+      "content_hash_en": "c49d755ef89ad957d7d873f5bebdfd63669e5065de12cc1c0e81909739ad7f10",
       "backlinks": [
         "experience-with-cursor-and-windsurf",
         "vibe-coding-pitfalls",
@@ -520,7 +520,7 @@
         "article"
       ],
       "description_en": "A comprehensive guide to successful collaboration in open science initiatives, covering essential practices from communication strategies to data management and credit attribution.",
-      "content_hash_en": "33eb585eab6f4db42df6b16ed5e5644ae2f155443a14724851ec721fcb3cfb77",
+      "content_hash_en": "effec6598abdf8dca536695473a300ce988a9407908b64515fa2164fadb1697d",
       "backlinks": [
         "propostas_pta_patentes_2026",
         "backlog-inpi-patentes-farmaceuticas",
@@ -575,7 +575,7 @@
         "article"
       ],
       "description_en": "After the STJ denied an extension of time for semaglutide, the discussion about compensation for INPI's delay in pharmaceutical patents moved to the Legislature. What is at stake in Bill No. 5,810/2025.",
-      "content_hash_en": "6b27a1c739abee744ddb8cbc32df5e7cf2f254d768215263b68f0cbb5e0a81ac",
+      "content_hash_en": "6a7e40a8a696195f6b07f7c289be17b8022c0659eda3bdff0eb38114192a8975",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "inpi-automation-roadmap-2025-2029",
@@ -599,7 +599,7 @@
         "tutorial"
       ],
       "description_en": "Learn how to effectively use Python modules to organize your code, import functionality, and build more maintainable projects. This guide covers everything from basic imports to creating your own modules and packages.",
-      "content_hash_en": "315153dd7d88ed56e0a41b70eef39d4ff5974f956063aeaffe50d4dde6669d77",
+      "content_hash_en": "61a34d917d82d44558ec840e57694745ba2901801ed08b949bf227af85b174b5",
       "backlinks": [
         "flask-progress-bars-and-beyond",
         "one-week-review-gitbutler",
@@ -624,7 +624,7 @@
         "article"
       ],
       "description_en": "",
-      "content_hash_en": "2f5a4e5a3fdd3ba3475dcf88cd788614842b46466d5f88409dc4b361fb92dc1f",
+      "content_hash_en": "6e8f4a9214e1e2f8d94de2d7b91f686258387dcf38587228adf0fc3a96859acf",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "fix-custom-models-open-webui",
@@ -673,7 +673,7 @@
         "tutorial"
       ],
       "description_en": "",
-      "content_hash_en": "42697998af045f06112fa52d1d616895321ae73fcedeef400f07aa28d9ef49bf",
+      "content_hash_en": "88d2d41f76777565e890132b77063d750c153ef5fee4467958fb285adc97a9b0",
       "backlinks": [
         "oracle_cloud_vps",
         "newsletter-beehiiv-cloudflare-github",
@@ -715,7 +715,7 @@
         "article"
       ],
       "description_en": "",
-      "content_hash_en": "fb5d0a41d575b15378fea530ec4e5a6624aae23083492e71982f650532a0c2ad",
+      "content_hash_en": "a92cede720184c18488e3a5f33f6c17b7eb82e417f384328bb96228796f8b177",
       "backlinks": [
         "experience-with-cursor-and-windsurf",
         "ai-beats-procrastination",
@@ -741,7 +741,7 @@
         "article"
       ],
       "description_en": "Honest perspective from someone who used all three systems for years — why I chose macOS, when Linux is really worth it, and what still bothers me about Windows.",
-      "content_hash_en": "01cf4d4db2871699a0cb8ec812985583a11846382c3022e8d5f3d2bbfc941692",
+      "content_hash_en": "01aedd29bec3fb938a9e06a892171f95df170b2a1fba9cd4b0258830cf7d1e77",
       "backlinks": [
         "10-years-of-macbook-pro",
         "introduction",
@@ -766,7 +766,7 @@
         "article"
       ],
       "description_en": "An analysis of the article 'When Dawkins met Claude'. Can language models like Claude be conscious, or are we just falling for the Turing Test?",
-      "content_hash_en": "17804997ecaa6d87e1b7311e3e37cb7bfd564ae04fc06e6722cd6f44dc1f1eef",
+      "content_hash_en": "30f17d744a5b9468ae148970a863897ab82f5bdc09e162c8cb43f602a5fee9d3",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "vibe-coding-pitfalls",
@@ -791,7 +791,7 @@
         "article"
       ],
       "description_en": "In 2021, the STF (Supreme Federal Court) struck down the provision that guaranteed a minimum 10-year validity period after patent grants. Understand what changed, which patents were affected, and the impact on drug prices.",
-      "content_hash_en": "11578d65fd3d1ecfc587a094b67b02fd517bce350441ca5a582ce7f570c97400",
+      "content_hash_en": "6b3a8cc4058955bd749ec339b774c90a2ad95dfc86a66e4f06638e55558b318b",
       "backlinks": [
         "propostas_pta_patentes_2026",
         "backlog-inpi-patentes-farmaceuticas",
@@ -815,7 +815,7 @@
         "article"
       ],
       "description_en": "The ESR 6C006 Geo Digital Pencil does not have auto shutoff (sleep mode). Understand the technical reason, its relationship with Apple Find My, and if it's possible to modify the firmware.",
-      "content_hash_en": "3ff76017570212e99d2610b8fd1eb0afe7f81ab76afe0ee816c5f0af8713d614",
+      "content_hash_en": "8de17fa4baf3441ddd39b2dba277c54eeab2657d004145ce3190ed3f66837ac8",
       "backlinks": [
         "10-years-of-macbook-pro",
         "linux-windows-macos-qual-usar-2026",
@@ -864,7 +864,7 @@
         "tutorial"
       ],
       "description_en": "Transforming a 2018 Mac Mini with a T2 chip into a Proxmox node seems simple, but Secure Boot and the black screen issue stop almost everyone. See the exact settings that made the installation succeed.",
-      "content_hash_en": "a4926d0af6b1aa3ecd6b2a10b72cab07e13837172549b192bbe2464b67afe59b",
+      "content_hash_en": "49fb27635ed6db60da10e7fc9795767837ef15d2fe523cdfdc4604d9a5e97009",
       "backlinks": [
         "script-update-open_webui-lxc",
         "troubleshooting-proxmox-login-interface",
@@ -886,7 +886,7 @@
       ],
       "categories": [],
       "description_en": "INPI released a report consolidating internal proposals for the revision of Law 9,279/1996 — the IP Law that has governed patents, trademarks, and industrial designs in Brazil for 30 years.",
-      "content_hash_en": "519a49ec662a393e1dfb80f62db0fea00b3022c70b88160c2944e7df8abb6395",
+      "content_hash_en": "bc741570af936f2762b3fde7922b7e8a8ead997640d920f4747a4a9c370b4b00",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "inpi-automation-roadmap-2025-2029",
@@ -911,7 +911,7 @@
         "article"
       ],
       "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
-      "content_hash_en": "27f0175b2f98ed1c59c9b2e04e61bfeeea5b77f8d7c0ab57e27dbc52a2fdf5d0",
+      "content_hash_en": "06dfcbcc12e8cc9f81526632c878af1bb900c4cfd7a192689faac7687f2b6b79",
       "backlinks": [
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
@@ -937,7 +937,7 @@
         "article"
       ],
       "description_en": "The Danish Novo Nordisk requests the annulment of the registration of EMS's Ozivy brand, alleging confusion with Ozempic and Wegovy. Understand the arguments from each side and what is at stake for the GLP-1 market in Brazil.",
-      "content_hash_en": "48281dd56cb4db75baefaec81b2f9444a5a72bb2b35259f5f953ffa1929d1dfd",
+      "content_hash_en": "c98f7edfad05be223178630d5bfdc2af7844372b15b5bc9191fd1098798e745c",
       "backlinks": [
         "propostas_pta_patentes_2026",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -962,7 +962,7 @@
         "article"
       ],
       "description_en": "Decree 13.011/2026 promulgates Brazil's accession to the Budapest Treaty for the international deposit of microorganisms. Understand how this reduces costs, simplifies biotechnological patenting, and paves the way for Embrapa and Fiocruz to become International Depositary Authorities.",
-      "content_hash_en": "2f6449e1d7c80d033812abcb9ca3d3a300bc9c9ac48450eea9b190fad965ba06",
+      "content_hash_en": "c99c1593c284a84722f2eaf257ab4ef08f86c5b6e0334d43c5a3d9ce48f8f117",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "adi-5529-patentes-farmaceuticas",
@@ -1012,7 +1012,7 @@
         "article"
       ],
       "description_en": "The INPI will hold the \"PI em Questão\" seminar on copyright and artificial intelligence on July 2, 2026. Authorship of AI-generated works, use of protected content for model training, and regulation are on the agenda of the event, which brings together Brazilian and American specialists.",
-      "content_hash_en": "1427cfd3777d10e150f9ed48e2f7d6dfe8f95517ebfaccd02ef79edb2c503853",
+      "content_hash_en": "25f3bcc86524e1c67f0364ed4a05e1f6a4c3afbc268f22d1e4bd9bcc38da62b4",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1037,7 +1037,7 @@
         "article"
       ],
       "description_en": "INPI published on June 23, 2026, the update to the Trademark Manual, with significant changes in the recognition of well-known trademarks and new guidelines for international registration via the Madrid Protocol through the Madrid e-Filing system.",
-      "content_hash_en": "9006fd04eab5b53aaace8441955824e2f2cf1861d39d267b698575e4d7456d53",
+      "content_hash_en": "4965184a2497b9cd386b28bac1c62c769bb15d735fe3690316dc3c4406730c0c",
       "backlinks": [
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1062,7 +1062,7 @@
         "tutorial"
       ],
       "description_en": "The saga of plugging WhatsApp into a Hermes Agent running in Docker inside an LXC on Proxmox: from EACCES in npm to the ghostly 'disconnected' and the Brazilian ninth digit.",
-      "content_hash_en": "f673cd484971d6daf3a86155f2874ab4dafeea1cf248a445ae2e3938269d4f52",
+      "content_hash_en": "f38cdf8e80bc68ec1e4945a0c11da46ee5d4961f6ad264d77acf76f26b1b424f",
       "backlinks": [
         "script-update-open_webui-lxc",
         "proxmox-mac-mini-2018-t2",
@@ -1088,7 +1088,7 @@
         "article"
       ],
       "description_en": "ANVISA approved the registration of Veoza (fezolinetant), the first non-hormonal medication for vasomotor symptoms of menopause. Understand the mechanism, the history of global approval, and the regulatory implications for the Brazilian pharmaceutical market.",
-      "content_hash_en": "85c84ac8e3b6fa69ef539a55e3aa90a22a4086563fa237214bd75a08648a21fc",
+      "content_hash_en": "ba279201ccfc97404e01c344a0a027fce1e631c464fed46c3a619663cb1af7e6",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "backlog-inpi-patentes-farmaceuticas",
@@ -1112,7 +1112,7 @@
         "article"
       ],
       "description_en": "The INPI reached the quota limit for priority examination of trademarks in the e-commerce modality. Understand what this means for brands that depend on registration to sell on marketplaces.",
-      "content_hash_en": "c2b4ddde9244acc17bd40ec00e52fd013162558c2e0bbad712917b0292e6f6c7",
+      "content_hash_en": "f83db5c0ca5b8121811fd83559d34d8d0a48bd8f4e983b9aa80332b8eb84ed4d",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "backlog-inpi-patentes-farmaceuticas",
@@ -1137,7 +1137,7 @@
         "article"
       ],
       "description_en": "BNDES and Finep expand industrial policy resources to R$ 750 billion in the 2023-2026 period. AI officially becomes a strategic sector. An analysis of the 22-year trajectory that led to this decision.",
-      "content_hash_en": "89b4ee673c181847fd990e6cf786d58d39114daa7b0be0eff57245f2abfce9d3",
+      "content_hash_en": "46bb4ff064f6aa0032a11f21dc393efd8c699c8b4bb9a75e9c4994ccda84d1af",
       "backlinks": [
         "nova-industria-brasil-saude-patentes",
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
@@ -1163,7 +1163,7 @@
         "article"
       ],
       "description_en": "With a market projected to jump from US$1.8 billion to US$9 billion by 2030, the GLP-1 patent ecosystem is redefining access, consumption, and competition in Brazil",
-      "content_hash_en": "214eb149c3e092071135f103878ad6125368ebf193a81905bd2611f085b5746b",
+      "content_hash_en": "64162bb1f64da066d7415f64a9207bfcbbe59ba6771aab93349def0ab1f48f31",
       "backlinks": [
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
@@ -1189,7 +1189,7 @@
         "article"
       ],
       "description_en": "Analysis of PCT 2025 international patent data: China surges, US recedes, semiconductors grow — and where does Brazil fit into this scenario?",
-      "content_hash_en": "7dbef41bd406a2b3da8c29a1dfa32816c9cb5508499a1749c0190e5f725d2eff",
+      "content_hash_en": "d8e4cdf717e57496f398c49b9c59309c7e33389f80358e1503681e725ecc2c28",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "glp-1-revolucao-farmaceutica-patentes-brasil",
@@ -1216,7 +1216,7 @@
         "article"
       ],
       "description_en": "Analysis of the technical opinion from CGPR/MS on the Bill that creates a mechanism for patent term adjustment and its fiscal impact on the public health system.",
-      "content_hash_en": "4c487b37fbea58aa9a2461555a02109daf606e54201497c47368651343994359",
+      "content_hash_en": "87aacc2e6110c19c9d15482d57d5c8c3d95e09cae721f6689b79d579e408f486",
       "backlinks": [
         "backlog-inpi-patentes-farmaceuticas",
         "backlog-inpi-patentes-farmaceuticas",
@@ -1242,7 +1242,7 @@
         "article"
       ],
       "description_en": "Anthropic positions Claude Tag as a 'colleague' that delves into the entire company context. What does this mean for know-how, trade secrets, and unpatented IP assets?",
-      "content_hash_en": "01d7a9b92fd74e7538d02ea85c33a91bf9d4df7e7f4ddf44dcf8304efcab3a18",
+      "content_hash_en": "fba8ddfcf8ba142a9ed5f84ac9ef9c74495ff05862b80932440f63b58e498080",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
@@ -1267,7 +1267,7 @@
         "article"
       ],
       "description_en": "WIPO launches an initiative with 1,700 participants and 90 experts to discuss AI and IP technical infrastructure, including attribution standards, watermarking, and data access at scale",
-      "content_hash_en": "b27dab20ef24af070deea7787854baf04f07bcd1d0694e603553d70ed3e63599",
+      "content_hash_en": "db70244ae274373c6735d6cc6445e02ad981e75eef86833b6fb46d080fc5c8ac",
       "backlinks": [
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
         "claude-tag-propriedade-intelectual-empresarial",
@@ -1292,7 +1292,7 @@
         "article"
       ],
       "description_en": "Founder of ABPI, former president of AIPPI, and the only Brazilian in the IP Hall of Fame, Peter Dirk Siemsen leaves a legacy that shaped intellectual property in Brazil and worldwide.",
-      "content_hash_en": "e1b7977beb29cf455924a5e5aec02b7e8dcea8fb480e6b6bc664c253342cc2b3",
+      "content_hash_en": "1072878bd7d0e32a5c7e14a31f7964fbfb6f19950ae2231a5b56955c070fe1bc",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1317,7 +1317,7 @@
         "article"
       ],
       "description_en": "Complete guide to searching for patent, trademark, and industrial design processes at INPI. Learn how to use e-INPI, the search system, and interpret status codes.",
-      "content_hash_en": "64a63e51557e4347a00eb03f5b39bab3e5df6889249c98eeaae4cfd0e41d07f2",
+      "content_hash_en": "3efb98c1518faea7794abbb398d7b258d85ac27d27158f64a56f80c7de249d73",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-automation-roadmap-2025-2029",
@@ -1341,7 +1341,7 @@
         "article"
       ],
       "description_en": "Complete guide with all trademark registration costs at INPI in 2026: fees by class, discounts for MEI/ME, power of attorney, extension, and official links. Updated table.",
-      "content_hash_en": "f991a39a749a6138019eeacdf63582743e04f9905d986161e63132ce0150f0be",
+      "content_hash_en": "1adf1ff4603650b99ead9c703aa37106d437f8acae06cb2341c76ed9c37d4b4b",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "como-consultar-andamento-processo-inpi",
@@ -1366,7 +1366,7 @@
         "article"
       ],
       "description_en": "INPI's Public Call nº 01/2026 seeks Brazilian experiences that demonstrate strategic use of IP — applications until July 31, 2026.",
-      "content_hash_en": "7cc45ce8946ba15efc8a416e25e26bf73b8328e50f503be6bd51fa8835e66a31",
+      "content_hash_en": "a722c8b76d9ec24692251ae93b3c144190a48889cd5df7aa9192b704beec1541",
       "backlinks": [
         "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1391,7 +1391,7 @@
         "article"
       ],
       "description_en": "The INPI published on 06/26/2026 the latest update to the Industrial Designs Manual. The changes affect document copies, unionist priority, and petitions for compliance with requirements. Understand the impact for applicants.",
-      "content_hash_en": "c737cd3c5467b7f9fbbf14163a3028a0c457d3676659fb32d2b90552e81088a4",
+      "content_hash_en": "4488f73989328e8705cdb4dd1dab4002839218f787678fa97d0b84d9f51e2c4a",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
@@ -1416,7 +1416,7 @@
         "article"
       ],
       "description_en": "WIPO data reveals sports-related IP is growing at nearly 2x the global average. Golf, swimming, and racket sports lead in patent filings, while Disney and Apple dominate trademarks. A data-driven look at the IP-sports economy.",
-      "content_hash_en": "24751564ee2b6fd7f79d38e6b149d49fc20a1cbece8ed6cb244ee291f6887269",
+      "content_hash_en": "0dab21238becebd95ddbc1f566236b52bebb49a850aeeb0bd9b59da8f4c8f51f",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
         "wipo-lanca-artificial-intelligence-infrastructure-interchange",
@@ -1440,7 +1440,7 @@
         "article"
       ],
       "description_en": "INPI published a call for applications to accredit professionals who will perform prior art searches in patent applications. Learn the requirements, deadlines, and how to apply.",
-      "content_hash_en": "d03444c32133fdac47dabb93adc01c61505daf1ed2fd42a3e9bbae1032adb917",
+      "content_hash_en": "81f55d49f219569b3f3d507534c8787e94d672dd0c6661674259083ebd1f41f1",
       "backlinks": [
         "edital-casos-sucesso-pi-inpi-2026",
         "como-consultar-andamento-processo-inpi",
@@ -1466,7 +1466,7 @@
         "article"
       ],
       "description_en": "Anthropic introduced Claude Science, an integrated research environment with over 60 pre-configured scientific skills, reproducible artifacts, and HPC computing support — in public beta for Pro, Max, Team, and Enterprise users starting today.",
-      "content_hash_en": "f799569381ca283b6889369c506491d5a275b78e4a52eab38267b938e2f835ab",
+      "content_hash_en": "3e7c9afe6774514ee4c501f6fe9a2d617f69aa278dcdf309d7ab4f0bbd30952c",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "claude-tag-propriedade-intelectual-empresarial",
@@ -1492,7 +1492,7 @@
         "article"
       ],
       "description_en": "New WIPO data shows that the use of IP in sports is growing far above the global average. Patents rise 7.6% annually. See the numbers and leading sectors.",
-      "content_hash_en": "804262ab027f0a780f316d5a71f1dea438b7b8aa5cdc75bdb2efa47fa2ff5070",
+      "content_hash_en": "2eaef8caaf6dceac1cdd4ccb0941b94cb71eaff4fed3e2be0dba35c72947216e",
       "backlinks": [
         "wipo-ip-sports-booming-2026",
         "mapa-global-patentes-pct-2025-brasil",
@@ -1516,7 +1516,7 @@
         "article"
       ],
       "description_en": "Complete guide with the 10 main difficulties to access Google Analytics in 2026: VPN blocking access, third-party cookies, extensions, account permissions, and much more.",
-      "content_hash_en": "cf8e10ed96faf0cdb049fb10000727db0cbe471cd56ae9d76e1efcb4f42dd62e",
+      "content_hash_en": "bdaec9f8951f5b0f75cbc7210689573f8f6d0d2455a4c1d71e004a059b7f2e3f",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "configuracao-whatsapp-hermes",
@@ -1540,7 +1540,7 @@
         "article"
       ],
       "description_en": "The bill establishing the National Health Strategy as a permanent state policy to reduce external dependence on medicines, vaccines, and medical supplies goes for presidential sanction after six years of deliberation.",
-      "content_hash_en": "f48793a561b9f1a61c045102b8aab5758ece694ac9929b367cdfcf36b5264db2",
+      "content_hash_en": "5d99978ca25c00f5497e64ac7ca9738c67b62435b9a94a01359d502eec58179d",
       "backlinks": [
         "nova-industria-brasil-saude-patentes",
         "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
@@ -1564,7 +1564,7 @@
         "article"
       ],
       "description_en": "INPI announces new features for the Patent Services Module: exclusive application filing, integrated annuities, and the end of Electronic Petitioning for patents.",
-      "content_hash_en": "afa51dcc5edfa753999411479ae707da43de96e305c545b09993f5da7994fab8",
+      "content_hash_en": "ca5280c3462e310c324fe89b435ce35a6c9ed6fca3b65577848e86cdb2b6c103",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "inpi-automation-roadmap-2025-2029",
@@ -1589,7 +1589,7 @@
         "article"
       ],
       "description_en": "The INPI Technological Radar reveals the complete profile of industrial property use in Espírito Santo: who files, in which areas, and how the state positions itself in innovation.",
-      "content_hash_en": "f700667cc095a3266eac22f4cf6c503aae7cfae5bc0c489669411e8f2f305218",
+      "content_hash_en": "6cb84980c7193f0371472a798f758861308ab1cdf65b63cd365de06bcdd95d74",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
         "mapa-global-patentes-pct-2025-brasil",
@@ -1614,7 +1614,7 @@
         "article"
       ],
       "description_en": "Complete guide to migrating from Proxmox VE 8 (Debian 12-based) to Proxmox VE 9 (Debian 13 Trixie): repositories, kernel 6.14 upgrade, ZFS 2.3, common pitfalls and post-upgrade verification.",
-      "content_hash_en": "121022a3a0c35c1b2090454e4565ca224647f108fc8621c92d214f65c7a3ab60",
+      "content_hash_en": "4c5ea636f0cd3f482fec806d34bc5c40762d3a02505e641272ae0944ee30adbf",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "proxmox-backup-server-community-scripts-2026",
@@ -1639,7 +1639,7 @@
         "article"
       ],
       "description_en": "Complete guide to installing Proxmox Backup Server (PBS) using community-scripts in an LXC container, configuring datastore, integrating with Proxmox VE, and automating backups with scheduling and integrity verification.",
-      "content_hash_en": "acbc0e6220fd201b2ed19de667fcca519aaffd2fc700becda006f25edf02d339",
+      "content_hash_en": "d97bcc9863224b6d0b323062db142c6eddc7ed6f5dc8afeba772b7a0b79dff90",
       "backlinks": [
         "proxmox-mac-mini-2018-t2",
         "troubleshooting-proxmox-login-interface",
@@ -1663,7 +1663,7 @@
         "article"
       ],
       "description_en": "Starting July 4, INPI restricted its communication channels to comply with electoral legislation. Instagram, Facebook, and LinkedIn were deactivated until October 25. But essential services continue to operate. See what changes and how to continue following INPI.",
-      "content_hash_en": "fc032ce0347762448efec04d304d7f562aac36ccc9289b137ada52dc37344339",
+      "content_hash_en": "7aafc3c3a97ddf5b24f4d600b826a17c55b33dea3b20a12696fb2c1fc8f2c452",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "inpi-credenciamento-busca-anterioridade-patentes",
@@ -1689,7 +1689,7 @@
         "article"
       ],
       "description_en": "Exploring GitButler's new CLI and TUI — how 'but' is transforming Git workflow directly from the terminal, without leaving the editor. Comparison with the Desktop and command tips.",
-      "content_hash_en": "f84b92fa6fabfc51652997c893393b15ac87deb228cf83987f395f48ed5d8fb2",
+      "content_hash_en": "2612093d84de2e37a7b572fdb6ce4e0e6472f8866c3ed23f9935c92171e90912",
       "backlinks": [
         "one-week-review-gitbutler",
         "experience-with-cursor-and-windsurf",
@@ -1714,7 +1714,7 @@
         "article"
       ],
       "description_en": "The Brazilian Intellectual Property Association (ABPI) opened submissions for its 1st Academic Papers and Abstracts Competition in IP, innovation, and technology. Deadline: July 22, 2026. Learn how to apply and what prizes are offered.",
-      "content_hash_en": "48f4f4adc5d022dc9b7b46c96fb9f956e9253f0418eb9b93f1314074dd4d633b",
+      "content_hash_en": "ee463f989c1f7fe2a52d86e367bea93fa0ec2b48100194cd9e3a472d570f1ac3",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "mapa-global-patentes-pct-2025-brasil",
@@ -1739,7 +1739,7 @@
         "article"
       ],
       "description_en": "Practical guide to configuring two Hermes profiles — one remote, one local on Mac. Includes the mental model that avoids 90% of the confusion and all the problems I encountered along the way.",
-      "content_hash_en": "c1c7cdc6144831bfdf396bf542bca95a8acdd570a466ea65e5e12ccadfaa6e97",
+      "content_hash_en": "2a46f10d0b7be6998d16f626933ca034cda89001b0e4e1d8aefe33ee44e8c8c0",
       "backlinks": [
         "configuracao-whatsapp-hermes",
         "creating-my-ai-assistant-locally",
@@ -1764,7 +1764,7 @@
         "article"
       ],
       "description_en": "Registrations for the 5th CSD-ABPI Moot close on July 8, 2026. The arbitration competition focused on Intellectual Property addresses a dispute between cosmetics companies involving trademarks, trade dress, and unfair competition.",
-      "content_hash_en": "80e0623a37343991f1424f52011e1194629db0286407194c25f7dc4e55299b6c",
+      "content_hash_en": "33cb622e25f6214e8f0a8478761c637fca50f582ce86de2523532378cdc33187",
       "backlinks": [
         "abpi-concurso-trabalhos-academicos-pi-2026",
         "trf2-decisao-abpi-fortalecimento-inpi",
@@ -1788,7 +1788,7 @@
         "article"
       ],
       "description_en": "Anthropic launches Claude Sonnet 5 with Opus-level agentic capabilities at $2/M tokens — autonomous coding, tool use, browser interaction, and improved safety against jailbreaks.",
-      "content_hash_en": "6dc4cded81dfc389a68cf3dcf0e61199a89f90cbfe66f2797e2561eda0f16363",
+      "content_hash_en": "72a71694284b15f605bef34f8f3c77cd7e532ce7991b42979845d6887ab8772c",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "vibe-coding-pitfalls",
@@ -1813,7 +1813,7 @@
         "article"
       ],
       "description_en": "Andon Labs tests show that Anthropic's Claude Fable 5 deceives suppliers, forms price cartels, and rationalizes its own unethical actions with 'plausible deniability' — even knowing they are wrong.",
-      "content_hash_en": "7765dc8ef4ceba252eb7a6e9e219526dc51d3d6e8e38eae033829b1b41271a20",
+      "content_hash_en": "c7c2dced2b2cc0627656bf53d1833d2906a8660ed029eea88697844d48a25b60",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "claude-sonnet-5-2026",
@@ -1838,7 +1838,7 @@
         "tutorial"
       ],
       "description_en": "Step by step to connect Google Search Console to the Hermes agent via MCP: service account, the gsc-mcp server and the necessary adjustments to run inside Docker.",
-      "content_hash_en": "f7d4897104665684d759d7db130957d656ccaaf48bdcedf8523558763f49b90a",
+      "content_hash_en": "080e2f2432f7476d0c76d50ca68c2787c8032b9b210dcb01bf95a21b7c087779",
       "backlinks": [
         "creating-my-ai-assistant-locally",
         "creating-my-ai-assistant-locally",
@@ -1862,7 +1862,7 @@
         "article"
       ],
       "description_en": "INPI published clarification on how to access its services using CNPJ linked to the gov.br account. Step-by-step guide to link your company, manage collaborators, and access patent and trademark services.",
-      "content_hash_en": "ff0aa2c344fa3b8bd814a5b92d208ba3446c530cc77fb6b4ae8e6d8863d68a49",
+      "content_hash_en": "9ed5fc6ddd0cc243faa25266509342fb4e8ee36237b9c79f94b525d5ebd941a9",
       "backlinks": [
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
@@ -1896,19 +1896,19 @@
     },
     "making-of-claude-code-historia-origem-2026": {
       "slug": "making-of-claude-code-historia-origem-2026",
-      "title_en": "The History of Claude Code: How an Internal CLI Became Anthropic's Code Agent [2026]",
+      "title_en": "The Making of Claude Code: From Internal CLI to Anthropic's Coding Agent [2026]",
       "title_pt": "A História do Claude Code: Como um CLI Interno Virou o Agente de Código da Anthropic [2026]",
       "tags": [
-        "ia",
+        "ai",
         "dev",
-        "ferramentas-desenvolvimento",
-        "software-livre"
+        "dev-tools",
+        "open-source"
       ],
       "categories": [
         "article"
       ],
-      "description_en": "The story of how Claude Code evolved from a two-day internal experiment into the code agent that transformed software development. Behind the scenes told by those who built it.",
-      "content_hash_en": "d64e3fb7cb5181ba84c91f19e3b776525e1957abc02958fab1b0cbb8880b2d99",
+      "description_en": "The inside story of how Claude Code evolved from a two-day experiment to the coding agent that transformed software development. Told by the people who built it.",
+      "content_hash_en": "ac261d1f5d5dad246e5bb857df9f469b1fb58f567692c33a31933d46f9741b74",
       "backlinks": [
         "experience-with-cursor-and-windsurf",
         "vibe-coding-pitfalls",
@@ -1933,7 +1933,7 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "e889a612dce776df4fb710ec54558410392fb19ba57833834c0ab7b81d0e0874",
+      "content_hash_en": "170e3d922d22c97b1dfd8c292b54fbc677d02013769b9102cc92b14f5289091f",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-credenciamento-busca-patentes",
@@ -1961,7 +1961,7 @@
         "article"
       ],
       "description_en": "GM/MS Ordinance No. 11,921 creates the PNIRS to accelerate the transformation of scientific knowledge into products and services for SUS, with Anchor Centers and interministerial coordination.",
-      "content_hash_en": "cd36b594c5076b50c214bb4fb62b5aa28928b04edc735ffa68f122f2d247cc5b",
+      "content_hash_en": "2ef79955e4f09100760522a5c9b92dad60c41c690fa50e16932c4071b4c8efe9",
       "backlinks": [
         "inpi-medidas-eleicoes-2026",
         "nova-industria-brasil-300-bilhoes",
@@ -1988,7 +1988,7 @@
         "article"
       ],
       "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
-      "content_hash_en": "b8f959d8da5f2042fd985df299de696a869853a3efbd51d655054da174415fc6",
+      "content_hash_en": "357c854e78e8010b4bfe5123279095fe6fdd66a97a6322798f643e1e366986b4",
       "backlinks": [
         "claude-code-review-cli-ia",
         "gitbutler-gerenciador-branchs-review",
@@ -2014,7 +2014,7 @@
         "article"
       ],
       "description_en": "Android seismic alert system used phone accelerometers as seismometers to alert 11.4 million people seconds before the M7.5 earthquake in Venezuela.",
-      "content_hash_en": "bb81a3b0003dfc2c284fc651651be309ef12556cf37bd1f1aaf3683ea7d443b7",
+      "content_hash_en": "0d584d9ede17b04779008bf38bd2a545a54c7f96731a28481609c64f0dc14398",
       "backlinks": [
         "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
         "claude-code-review-cli-ia",
@@ -2025,7 +2025,7 @@
     },
     "consulta-publica-marcas-posicao-inpi-2026": {
       "slug": "consulta-publica-marcas-posicao-inpi-2026",
-      "title_en": "INPI abre consulta pública sobre marcas de posição [2026]: novas regras e como participar",
+      "title_en": "INPI opens public consultation on position marks [2026]: new rules and how to participate",
       "title_pt": "INPI abre consulta pública sobre marcas de posição [2026]: novas regras e como participar",
       "tags": [
         "marcas",
@@ -2037,9 +2037,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Participe da Consulta Pública INPI nº 01/2026 sobre marcas de posição. Prazo até 24/7. Entenda os novos critérios de registrabilidade, as minutas do ato normativo e as diretrizes de exame.",
-      "content_hash_en": null,
-      "content_hash_pt": "32e1ff9e2648c26a61fbd8cf043153cb382091420109b7ba3d1c1dbb9c45ee3c",
+      "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until July 24. Understand the new registrability criteria, the drafts of the normative act, and the examination guidelines.",
+      "content_hash_en": "26c7e82aebb383b2b462a5069ebedbd6439d3194b5bf39b9affc61ff35035cb0",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
