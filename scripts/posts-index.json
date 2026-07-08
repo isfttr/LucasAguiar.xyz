@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T01:16:36.087Z",
+  "last_updated": "2026-07-08T02:05:22.307Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1987,8 +1987,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers at 1M tokens. Architecture analysis, benchmarks and costs.",
-      "content_hash_en": "833b130f1f3836e4d474a9ad72773346942644d3ebfe08de0372a6bf6a4aad50",
+      "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
+      "content_hash_en": "dba5d66bda2cdf198a40ec72534e02c3608f84df9ed5fbcd547b815e4410de8e",
       "backlinks": [
         "claude-code-review-cli-ia",
         "gitbutler-gerenciador-branchs-review",
@@ -2014,11 +2014,11 @@
         "article"
       ],
       "description_en": "Android earthquake alert system used phone accelerometers as seismometers to alert 11.4 million people seconds before the M7.5 earthquake in Venezuela.",
-      "content_hash_en": "577e049577e2286b9ba2277afe633e1e5185786e501ba37de27e54e78f1bf06c",
+      "content_hash_en": "04692e0f6a3749e91c82be4b56aa8662ca20422685734b986b53cd19f6fec665",
       "backlinks": [
         "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
         "claude-code-review-cli-ia",
-        "mapa-global-patentes-pct-2025-brasil"
+        "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026"
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-07T22:44:06.902Z"
