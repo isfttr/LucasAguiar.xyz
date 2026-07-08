@@ -15,31 +15,31 @@ tags:
   - arquitetura
   - custos
   - inovacao
-translation_source_hash: 0412a5e85f71a2759ae55bc9649071f94cb75af75b5b1bff5dbd95711ce219ff
+translation_source_hash: 9a88e999df54609b387c1ca73715fa3ad6333a160e9377a1a985914019ada624
 ---
-There is a fundamental problem with all the large language models you use today — and it has to do with high school math.
+There is a fundamental problem in all the large language models you use today — and it has to do with high school math.
 
-The heart of the Transformer is **attention**: each token needs to compare itself with every other token. A text of 1,000 words requires 1 million comparisons (1,000²). A text of 1 million tokens requires **1 trillion comparisons**. The computational cost grows with the **square of the context** — O(n²). It is the reason why models "break" with very long inputs, why we use RAG, chunking, and agents instead of simply giving the entire document to the model.
+The heart of the Transformer is **attention**: each token needs to compare itself with every other token. A 1,000-word text requires 1 million comparisons (1,000²). A 1 million-token text requires **1 trillion comparisons**. The computational cost grows with the **square of the context** — O(n²). It is the reason why models "break" with very long inputs, why we use RAG, chunking, and agents instead of simply feeding the entire document to the model.
 
-**SubQ**, developed by **Subquadratic AI**, is the first LLM to practically break this barrier. Its **Subquadratic Sparse Attention (SSA)** architecture scales linearly — O(n) — with context length. The result: **64.5× fewer FLOPs** and **56× faster** than dense attention on 1-million-token contexts. With proven retrieval capability up to **12 million tokens**.
+**SubQ**, developed by **Subquadratic AI**, is the first LLM to practically break this barrier. Its **Subquadratic Sparse Attention (SSA)** architecture scales linearly — O(n) — with context length. The result: **64.5× fewer FLOPs** and **56× faster** than dense attention on 1 million-token contexts. With proven retrieval capability up to **12 million tokens**.
 
 ## What is SubQ?
 
-SubQ is a language model built on **Subquadratic Sparse Attention (SSA)**, a complete reformulation of how attention works. Instead of comparing each token with every other (O(n²)), SSA uses a **learned sparse routing mechanism** that selectively identifies which token pairs are relevant — and ignores the rest.
+SubQ is a language model built on **Subquadratic Sparse Attention (SSA)**, a complete rethinking of how attention works. Instead of comparing each token with every other (O(n²)), SSA uses a **learned sparse routing mechanism** that selectively identifies which token pairs are relevant — and ignores the rest.
 
 | Feature | Description |
 |---|---|
 | **Architecture** | Subquadratic Sparse Attention (SSA) |
 | **Scaling** | O(n) — linear with context |
-| **Training Context** | Up to 2M tokens |
-| **Inference Context** | Up to 12M tokens (98% accuracy) |
+| **Training context** | Up to 2M tokens |
+| **Inference context** | Up to 12M tokens (98% accuracy) |
 | **Company** | Subquadratic AI |
 | **Funding** | $29M seed (Javier Villamizar, JAM Fund, etc.) |
 | **Team** | Researchers from Meta, Google, Oxford, Cambridge, BYU |
-| **Current Model** | SubQ 1.1 Small |
+| **Current model** | SubQ 1.1 Small |
 | **Availability** | Private beta (API, SubQ Code, SubQ Search) |
 
-The model starts from open frontier weights, replaces dense attention with SSA, and undergoes continued pre-training (CPT) on ~1 trillion tokens of long natural artifacts (books, documents, code repositories).
+The model starts from open frontier weights, replaces dense attention with SSA, and undergoes continued pre-training (CPT) on ~1 trillion tokens of natural long artifacts (books, documents, code repositories).
 
 ## Architecture Comparison
 
@@ -90,19 +90,19 @@ For context, see how the cost of dense attention explodes:
 
 The biggest cost benefit of SSA may be in **R&D**, not just inference:
 
-- The Subquadratic team ran **over 100 experiments** on long context across 6 model generations — something impossible under dense attention
-- Training iteration in **less than 1 minute per step** on 1M token contexts
-- This allowed them to search for optimal training recipes empirically, rather than guessing.
+- Subquadratic's team ran **over 100 long-context experiments** across 6 model generations — something impossible under dense attention
+- Training iteration in **under 1 minute per step** on 1M-token contexts
+- This allowed them to empirically search for optimal training recipes, instead of guessing
 
 ### Impact on Inference
 
 - **56× speedup** in wall clock vs. FlashAttention-2 at 1M tokens (single layer)
-- The speedup grows with context: 6.88× at 128K → 56.2× at 1M
+- Speedup grows with context: 6.88× at 128K → 56.2× at 1M
 - "SubQ improves everything at once. Not incrementally, but by an order of magnitude that makes millions of tokens of context a practical reality." — Justin Dangel, CEO of Subquadratic
 
 ## Performance Benchmarks
 
-### Long Context Accuracy
+### Long-Context Accuracy
 
 | Benchmark | SubQ 1.1 Small | Notes |
 |---|---|---|
@@ -127,27 +127,27 @@ SubQ 1.1 Small competes with much larger models in reasoning, while using a frac
 
 The problem is not just theoretical. The industry spends billions on **workarounds** — RAG, chunking, pipeline summarization, agents — because the Transformer architecture cannot process what matters all at once. Each workaround adds latency, complexity, and information loss.
 
-At 128K tokens, a Transformer already consumes 8.6B operations per attention layer. At 1M tokens, it's 549B. At 2M, 2.2 trillion. The math simply doesn't add up for applications that require real long context — analysis of entire codebases, review of extensive legal documents, processing of long conversation histories.
+At 128K tokens, a Transformer already consumes 8.6B operations per attention layer. At 1M tokens, it's 549B. At 2M, 2.2 trillion. The math simply does not add up for applications that require real long context — analysis of entire codebases, review of extensive legal documents, processing long conversation histories.
 
 SubQ demonstrates that this barrier can be overcome with an architectural approach — not with more hardware or prompt engineering.
 
 ## Availability
 
-- **SubQ API:** available in private beta via subq.ai
+- **SubQ API:** available in private beta at subq.ai
 - **SubQ Code:** CLI that loads entire repositories into a single context window
 - **SubQ Search:** long-context search tool (Deep Research at chatbot speed)
 - **Price:** not yet publicly disclosed
-- **General release:** expected in late 2026
+- **General release:** expected by the end of 2026
 
-The company raised **$29M in seed funding** and claims to have models planned from 2M to 12M tokens for general release.
+The company raised **$29M in seed** and claims to have models planned from 2M to 12M tokens for general release.
 
 ## Controversies
 
-The public remains skeptical mainly due to the lack of technical details about the architecture or kernels, unlike Chinese labs that often publish complete specifications — which breeds distrust. Others argue that it makes sense to hide the "competitive advantage" of a small lab facing larger players, speculating even that the company might be seeking acquisition rather than competing directly, since it probably lacks the computational capacity to serve the model at scale. There are also technical questions about whether the results hold beyond 12 million tokens, whether the comparison with FlashAttention-2 (a baseline already about two years old) is fair, and inconsistencies in the context sizes tested across different benchmarks cited in the report.
+The public remains skeptical mainly due to the lack of technical details about the architecture or kernels, unlike Chinese labs that often publish complete specifications — which breeds distrust. Others argue that it makes sense for a small lab to hide its "competitive advantage" from larger players, even speculating that the company may be seeking acquisition rather than direct competition, since it likely lacks the computational capacity to serve the model at scale. There are also technical questions about whether the results hold beyond 12 million tokens, whether the comparison with FlashAttention-2 (a baseline already about two years old) is fair, and inconsistencies in the context sizes tested across different benchmarks cited in the report.
 
 ## Conclusions
 
-This new architecture is very exciting, especially because eventually we may have open models that run on home machines. With the ever-growing skepticism towards the business model of Anthropic and OpenAI in using their customers' data as a competitive differentiator. This could even be a turning point for these companies, since Anthropic itself has been suffering from a lack of computing capacity for the demand for its services.
+This new architecture is very exciting, especially because eventually we may have open models that run on home machines. With growing skepticism towards Anthropic's and OpenAI's business models, it is imperative that alternatives emerge, both in models and architectures. This could even be an inflection point for these companies, as Anthropic itself has been suffering from a lack of computing capacity to meet demand for its services.
 
 ## Sources
 
