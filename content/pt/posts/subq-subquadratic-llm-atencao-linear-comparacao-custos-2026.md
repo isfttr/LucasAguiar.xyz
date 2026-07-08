@@ -1,6 +1,6 @@
 ---
 date: 2026-07-07T18:00:00-03:00
-draft: true
+draft: false
 title: "SubQ: O Primeiro LLM Totalmente Subquadrático — Comparação de Custos com Transformers [2026]"
 description: "SubQ usa atenção esparsa subquadrática (SSA) para escalar linearmente com o contexto: 64x menos FLOPs que Transformers em 1M tokens. Análise de arquitetura, benchmarks e custos."
 featured_image: ""
@@ -21,7 +21,7 @@ Há um problema fundamental em todos os grandes modelos de linguagem que você u
 
 O coração do Transformer é a **atenção**: cada token precisa se comparar com todos os outros tokens. Um texto de 1.000 palavras exige 1 milhão de comparações (1.000²). Um texto de 1 milhão de tokens exige **1 trilhão de comparações**. O custo computacional cresce com o **quadrado do contexto** — O(n²). É a razão pela qual modelos "quebram" com entradas muito longas, pela qual usamos RAG, chunking e agentes em vez de simplesmente dar o documento inteiro para o modelo.
 
-**SubQ**, desenvolvido pela **Subquadratic AI**, é o primeiro LLM a quebrar essa barreira de forma prática. Sua arquitetura de **Atenção Esparsa Subquadrática (SSA)** escala linearmente — O(n) — com o comprimento do contexto. O resultado: **64,5× menos FLOPs** e **56× mais rápido** que a atenção densa em contextos de 1 milhão de tokens. Com capacidade comprovada de recuperação em até **12 milhões de tokens**.
+O **SubQ**, desenvolvido pela **Subquadratic AI**, é o primeiro LLM a quebrar essa barreira de forma prática. Sua arquitetura de **Atenção Esparsa Subquadrática (SSA)** escala linearmente — O(n) — com o comprimento do contexto. O resultado: **64,5× menos FLOPs** e **56× mais rápido** que a atenção densa em contextos de 1 milhão de tokens. Com capacidade comprovada de recuperação em até **12 milhões de tokens**.
 
 ## O que é SubQ?
 
@@ -141,6 +141,30 @@ SubQ demonstra que essa barreira pode ser superada com uma abordagem arquitetura
 
 A empresa levantou **$29M em seed** e afirma ter modelos planejados de 2M a 12M de tokens para lançamento geral.
 
+## Controvérsias
+
+O público continua cético principalmente pela falta de detalhes técnicos da arquitetura
+ou dos kernels, ao contrário de laboratórios chineses que costumam publicar
+especificações completas — o que gera desconfiança. Outros defendem que faz sentido
+esconder a "vantagem competitiva" de um laboratório pequeno diante de players
+maiores, especulando até que a empresa possa estar buscando ser adquirida em vez de
+competir diretamente, já que provavelmente não tem capacidade computacional para
+servir o modelo em escala. Há também questionamentos técnicos sobre se os
+resultados se sustentam além dos 12 milhões de tokens, se a comparação com o
+FlashAttention-2 (uma baseline já com cerca de dois anos) é justa, e
+inconsistências nos tamanhos de contexto testados entre diferentes benchmarks
+citados no relatório.
+
+## Conclusões
+
+Essa nova arquitetura é muito animadora, principalmente pelo fato de que
+eventualmente poderemos ter modelos abertos e que rodem em máquinas domésticas. Com
+o ceticismo cada mais crescente com o modelo de negócios da Anthropic e OpenAI em
+utilizar os dados dos seus clientes como um diferencial competitivo. Eventualmente
+esse pode até ser um momento de inflexão para essas empresas, já que a Anthropic
+mesmo vem sofrendo com a falta de capacidade de computação para a demanda pelos
+seus serviços. 
+
 ## Fontes
 
 - [Subquadratic AI — Introducing SubQ](https://subq.ai/introducing-subq)
@@ -153,10 +177,7 @@ A empresa levantou **$29M em seed** e afirma ter modelos planejados de 2M a 12M 
 - [Subquadratic no X/Twitter](https://x.com/subquadratic)
 - [NVIDIA nvSubquadratic (GitHub)](https://github.com/NVIDIA-BioNeMo/nvSubquadratic)
 
-## Leia também
-
-- [Claude Code: Review Completo do CLI de Programação com IA]({{< relref "posts/claude-code-review-cli-ia/" >}})
-- [GitButler: O Gerenciador de Branchs que Você Não Sabia que Precisava]({{< relref "posts/gitbutler-gerenciador-branchs-review/" >}})
+---
 
 Leia também:
 
