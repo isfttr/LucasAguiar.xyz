@@ -1,6 +1,5 @@
-<!-- TODO: Substituir por um appscript + google sheet -->
 {{ if eq .Site.Language.Lang "pt" }}
-<form action="https://formspree.io/f/xgeglgop" method="POST" id="contact-form">
+<form id="contact-form">
   <div class="form-row">
     <label for="fc-name">Seu nome</label>
     <input type="text" id="fc-name" name="name" required placeholder="Lucas Silva">
@@ -23,12 +22,15 @@
     <label for="fc-message">Sua mensagem</label>
     <textarea id="fc-message" name="message" required placeholder="Seja breve se puder — eu leio tudo."></textarea>
   </div>
+  <!-- Honeypot anti-spam: invisível para humanos, bots costumam preencher -->
+  <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true"
+    style="position:absolute;left:-9999px;opacity:0">
   <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center;margin-top:8px">
     Enviar mensagem →
   </button>
 </form>
 {{ else }}
-<form action="https://formspree.io/f/xgeglgop" method="POST" id="contact-form">
+<form id="contact-form">
   <div class="form-row">
     <label for="fc-name">Your name</label>
     <input type="text" id="fc-name" name="name" required placeholder="Lucas Silva">
@@ -52,21 +54,63 @@
     <textarea id="fc-message" name="message" required
       placeholder="Keep it short if you can — I read everything."></textarea>
   </div>
+  <!-- Honeypot anti-spam: invisível para humanos, bots costumam preencher -->
+  <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true"
+    style="position:absolute;left:-9999px;opacity:0">
   <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center;margin-top:8px">
     Send message →
   </button>
 </form>
 {{ end }}
 
+<div id="contact-form-status" class="contact-form-status" role="status" aria-live="polite"></div>
+
 <script>
-  var contactForm = document.getElementById('contact-form');
-  if (contactForm) {
-    contactForm.addEventListener('submit', function () {
+  (function () {
+    var form = document.getElementById('contact-form');
+    if (!form) return;
+    var endpoint = {{ .Site.Params.contactEndpoint }};
+    var isPT = {{ if eq .Site.Language.Lang "pt" }}true{{ else }}false{{ end }};
+    var statusEl = document.getElementById('contact-form-status');
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var btn = form.querySelector('button[type="submit"]');
       var email = document.getElementById('fc-email').value;
+
+      // Analytics (mantém o que já existe)
       if (typeof posthog !== 'undefined') {
         posthog.identify(email);
         posthog.capture('contact_form_submitted');
       }
+
+      if (!endpoint) { return; }
+
+      var original = btn.textContent;
+      btn.disabled = true;
+      btn.textContent = isPT ? 'Enviando…' : 'Sending…';
+
+      fetch(endpoint, { method: 'POST', mode: 'no-cors', body: new FormData(form) })
+        .then(function () {
+          form.reset();
+          form.style.display = 'none';
+          if (statusEl) {
+            statusEl.className = 'contact-form-status contact-form-success show';
+            statusEl.textContent = isPT
+              ? '✓ Mensagem enviada · responderei em breve'
+              : '✓ Message sent · I\'ll reply soon';
+          }
+        })
+        .catch(function () {
+          btn.disabled = false;
+          btn.textContent = original;
+          if (statusEl) {
+            statusEl.className = 'contact-form-status contact-form-error show';
+            statusEl.textContent = isPT
+              ? 'Erro ao enviar. Tente novamente.'
+              : 'Something went wrong. Please try again.';
+          }
+        });
     });
-  }
+  })();
 </script>
