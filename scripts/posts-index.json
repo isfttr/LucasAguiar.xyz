@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T21:18:46.716Z",
+  "last_updated": "2026-07-08T21:20:26.537Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2050,7 +2050,7 @@
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
       "title_en": "GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos",
-      "title_pt": "GitLost [2026]: Como Injeção de Prompt no Agente de IA do GitHub Vaza Repositórios Privados",
+      "title_pt": "GitLost [2026]: Como a Injeção de Prompt no Agente de IA do GitHub Vaza Repositórios Privados",
       "tags": [
         "ai",
         "security",
