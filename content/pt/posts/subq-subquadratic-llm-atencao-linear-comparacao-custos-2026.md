@@ -159,11 +159,11 @@ citados no relatório.
 
 Essa nova arquitetura é muito animadora, principalmente pelo fato de que
 eventualmente poderemos ter modelos abertos e que rodem em máquinas domésticas. Com
-o ceticismo cada mais crescente com o modelo de negócios da Anthropic e OpenAI em
-utilizar os dados dos seus clientes como um diferencial competitivo. Eventualmente
-esse pode até ser um momento de inflexão para essas empresas, já que a Anthropic
-mesmo vem sofrendo com a falta de capacidade de computação para a demanda pelos
-seus serviços. 
+o ceticismo cada vez mais crescente com o modelo de negócios da Anthropic e OpenAI,
+é imperativo que surjam alternativas, sejam de modelos quanto também de
+arquiteturas. Eventualmente esse pode até ser um momento de inflexão para essas
+empresas, já que a Anthropic mesmo vem sofrendo com a falta de capacidade de
+computação para a demanda pelos seus serviços. 
 
 ## Fontes
 
