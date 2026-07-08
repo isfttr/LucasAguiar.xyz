@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T17:57:24.031Z",
+  "last_updated": "2026-07-08T18:14:14.845Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1908,7 +1908,7 @@
         "article"
       ],
       "description_en": "The inside story of how Claude Code evolved from a two-day experiment to the coding agent that transformed software development. Told by the people who built it.",
-      "content_hash_en": "ac261d1f5d5dad246e5bb857df9f469b1fb58f567692c33a31933d46f9741b74",
+      "content_hash_en": "905d3b7817436b0360114e523df5b755afb1e969d16ffe117ebb979636a7f3f2",
       "backlinks": [
         "experience-with-cursor-and-windsurf",
         "vibe-coding-pitfalls",
@@ -2038,11 +2038,35 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until July 24. Understand the new registrability criteria, the drafts of the normative act, and the examination guidelines.",
-      "content_hash_en": "26c7e82aebb383b2b462a5069ebedbd6439d3194b5bf39b9affc61ff35035cb0",
+      "content_hash_en": "3970eab273a13019cfa7b9b00937991e8ba53729c22fa9f2ad7a6de41a79433c",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
         "quanto-custa-registrar-marca-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "gitlost-github-agentic-workflows-prompt-injection-2026": {
+      "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
+      "title_en": "GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos",
+      "title_pt": "GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos",
+      "tags": [
+        "ai",
+        "security",
+        "github",
+        "dev",
+        "prompt-injection"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "GitLost vulnerability lets attackers silently leak private repos via prompt injection in GitHub Agentic Workflows. Full technical breakdown and what it means for AI security.",
+      "content_hash_en": "09717d64cbc2316a80fcdbd0607adb14fc0a57db8a4422ad3707247951f91982",
+      "backlinks": [
+        "vibe-coding-pitfalls",
+        "claude-sonnet-5-2026",
+        "vibe-coding-pitfalls"
       ],
       "backlink_source": "file",
       "last_processed": null
