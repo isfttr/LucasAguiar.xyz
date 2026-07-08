@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T02:05:22.307Z",
+  "last_updated": "2026-07-08T14:14:24.296Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1988,7 +1988,7 @@
         "article"
       ],
       "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
-      "content_hash_en": "dba5d66bda2cdf198a40ec72534e02c3608f84df9ed5fbcd547b815e4410de8e",
+      "content_hash_en": "b8f959d8da5f2042fd985df299de696a869853a3efbd51d655054da174415fc6",
       "backlinks": [
         "claude-code-review-cli-ia",
         "gitbutler-gerenciador-branchs-review",
@@ -1999,7 +1999,7 @@
     },
     "android-google-alerta-terremoto-venezuela-2026": {
       "slug": "android-google-alerta-terremoto-venezuela-2026",
-      "title_en": "How Google Warned 11 Million Android Users Before the Venezuela Earthquake [2026]",
+      "title_en": "How Google Alerted 11 Million Android Users Before the Venezuela Earthquake [2026]",
       "title_pt": "Como o Google Alertou 11 Milhões de Android Antes do Terremoto da Venezuela [2026]",
       "tags": [
         "android",
@@ -2013,8 +2013,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Android earthquake alert system used phone accelerometers as seismometers to alert 11.4 million people seconds before the M7.5 earthquake in Venezuela.",
-      "content_hash_en": "04692e0f6a3749e91c82be4b56aa8662ca20422685734b986b53cd19f6fec665",
+      "description_en": "Android seismic alert system used phone accelerometers as seismometers to alert 11.4 million people seconds before the M7.5 earthquake in Venezuela.",
+      "content_hash_en": "bb81a3b0003dfc2c284fc651651be309ef12556cf37bd1f1aaf3683ea7d443b7",
       "backlinks": [
         "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
         "claude-code-review-cli-ia",
@@ -2022,6 +2022,31 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-07T22:44:06.902Z"
+    },
+    "consulta-publica-marcas-posicao-inpi-2026": {
+      "slug": "consulta-publica-marcas-posicao-inpi-2026",
+      "title_en": "INPI abre consulta pública sobre marcas de posição [2026]: novas regras e como participar",
+      "title_pt": "INPI abre consulta pública sobre marcas de posição [2026]: novas regras e como participar",
+      "tags": [
+        "marcas",
+        "inpi",
+        "consulta-publica",
+        "propriedade-intelectual",
+        "regulacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Participe da Consulta Pública INPI nº 01/2026 sobre marcas de posição. Prazo até 24/7. Entenda os novos critérios de registrabilidade, as minutas do ato normativo e as diretrizes de exame.",
+      "content_hash_en": null,
+      "content_hash_pt": "32e1ff9e2648c26a61fbd8cf043153cb382091420109b7ba3d1c1dbb9c45ee3c",
+      "backlinks": [
+        "quanto-custa-registrar-marca-inpi-2026",
+        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
+        "quanto-custa-registrar-marca-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }
