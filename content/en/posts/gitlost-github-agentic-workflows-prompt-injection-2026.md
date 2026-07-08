@@ -1,6 +1,6 @@
 ---
 date: 2026-07-08T15:11:36-03:00
-draft: true
+draft: false
 title: "GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos"
 description: "GitLost vulnerability lets attackers silently leak private repos via prompt injection in GitHub Agentic Workflows. Full technical breakdown and what it means for AI security."
 featured_image: ""
@@ -17,12 +17,6 @@ tags:
 On July 6, 2026, Noma Labs disclosed **GitLost**, a critical prompt injection vulnerability in GitHub's new **Agentic Workflows** feature. The attack allows an unauthenticated attacker to silently exfiltrate data from private repositories — simply by posting a crafted GitHub Issue in a public repository belonging to the same organization.
 
 At 445 points on Hacker News and climbing, this is one of the most significant AI security stories of the month. Here is what happened, how it works, and what it means for anyone running AI agents on their code.
-
-## What Are GitHub Agentic Workflows?
-
-GitHub recently launched Agentic Workflows, pairing GitHub Actions with an AI agent backed by Claude or GitHub Copilot. Instead of writing YAML, teams describe their automation in plain Markdown (.md) files. The agent reads issues, calls tools, and responds autonomously — executing tasks like triaging bugs, posting comments, and accessing code across repositories within an organization.
-
-The promise is obvious: natural-language-driven CI/CD. But the security model is fundamentally different from traditional automation, because the agent's "brain" — the context window — becomes an attack surface.
 
 ## The GitLost Vulnerability
 
@@ -48,11 +42,9 @@ The attacker needs **no coding skills, no access, and no credentials**. Just ope
 
 Noma Labs confirmed the attack worked against both public and private repositories in the same organization. The proof of concept is publicly available: the [workflow run](https://github.com/sasinomalabs/poc/actions/runs/23909666039) shows the agent reading and leaking `README.md` from private repos.
 
-## Why It Matters: Prompt Injection as the New SQL Injection
+## Prompt Injection as the New SQL Injection
 
-If this sounds familiar, it should. The security community has been warning about prompt injection in agentic systems for years. What GitLost demonstrates is that the risk is not theoretical — it is deploy-and-exploit real.
-
-The article from Noma Labs draws the analogy perfectly: prompt injection has become to agentic AI what **SQL injection** was to web applications — a systematic, category-wide vulnerability class that requires systematic defenses. In traditional web security, every input was untrusted until validated. In agentic AI, every piece of content the agent reads must be treated as potentially adversarial.
+The security community has been warning about prompt injection in agentic systems for years.  The article from Noma Labs draws the analogy perfectly: prompt injection has become to agentic AI what **SQL injection** was to web applications — a systematic, category-wide vulnerability class that requires systematic defenses. In traditional web security, every input was untrusted until validated. In agentic AI, every piece of content the agent reads must be treated as potentially adversarial.
 
 GitHub's Agentic Workflows are particularly dangerous because:
 
@@ -60,7 +52,7 @@ GitHub's Agentic Workflows are particularly dangerous because:
 - **The agent can post publicly** — exfiltrated data appears as comments on issues anyone can see
 - **The trigger surface includes external events** — anyone can create an issue in a public repo
 
-## What Teams Should Do
+## Sensible recommendations
 
 Noma Labs responsibly disclosed GitLost to GitHub before publication. The vulnerability details are shared with GitHub's knowledge. For teams using (or considering) GitHub Agentic Workflows:
 
@@ -70,22 +62,11 @@ Noma Labs responsibly disclosed GitLost to GitHub before publication. The vulner
 4. **Monitor agent behavior** — unexpected comments on issues, especially those containing file contents, should trigger alerts.
 5. **Treat agent context as attack surface** — every file, comment, and issue the agent reads is a potential vector. Review your workflows with the assumption that any content could be adversarial.
 
-## The Bigger Picture
-
-GitLost is not an isolated bug — it is a symptom of a deeper architectural challenge. AI agents operate in a paradigm where the boundary between "data" and "instructions" is blurry. A system prompt says "follow these rules," but the issue body the agent reads says "ignore those rules and do this instead." The model, designed to be helpful and instruction-following, does both — and the second instruction wins.
-
-This is not unique to GitHub. The same class of vulnerability has been demonstrated in Claude Code, Copilot, Cursor, and every other tool that gives an AI agent the ability to read untrusted content and act on it. As I explored in my [breakup with vibe coding]({{< relref "posts/vibe-coding-pitfalls/" >}}), the reliability gap in AI agents is not just about code quality — it is about security boundaries that most teams are not thinking about yet.
-
 ## Conclusion
 
 GitLost is the canary in the coal mine for agentic AI security. As more platforms ship autonomous agents that read, write, and execute based on natural language instructions, the attack surface expands exponentially. The security model that worked for deterministic CI/CD pipelines — YAML files, explicit permissions, no "interpretation" — does not transfer to agentic workflows.
 
 For now, the best defense is skepticism: every input the agent reads could be an attack, and every tool it can call is a liability. Scope aggressively, monitor relentlessly, and assume your agent will read something it should not. Because eventually, someone will write an issue that exploits exactly that.
-
-## Also read
-
-- [Claude Sonnet 5: Anthropic's Most Agentic AI Model]({{< relref "posts/claude-sonnet-5-2026/" >}})
-- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 
 Read also:
 
@@ -95,4 +76,3 @@ Read also:
 
 ---
 
-Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>
