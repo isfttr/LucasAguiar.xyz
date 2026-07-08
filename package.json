@@ -6,6 +6,7 @@
   "scripts": {
     "release": "release-it",
     "translate": "node scripts/translate.js",
+    "backfill-en-slugs": "node scripts/backfill-en-slugs.js",
     "fix-links": "node scripts/fix-links.js",
     "suggest-backlinks": "node scripts/suggest-backlinks.js",
     "annotate": "node scripts/posthog-annotate.js"

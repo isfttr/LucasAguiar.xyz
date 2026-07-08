@@ -5,6 +5,7 @@ const crypto = require('crypto');
 const matter = require('gray-matter');
 const yaml = require('js-yaml');
 const { callDeepSeek, callGemini, deepseekClient, geminiModel, isRateLimit } = require('./ai');
+const { generateSlug, ensureUniqueSlug } = require('./slug');
 const { PostHog } = require('posthog-node');
 
 const posthog = new PostHog(process.env.POSTHOG_API_KEY, {
@@ -173,6 +174,25 @@ async function translateContent(text, targetLang) {
   return out;
 }
 
+// Collect the effective slugs already used by other posts in a language
+// directory (front matter `slug`, or the filename when absent) so a generated
+// slug can be de-duplicated against them. Excludes `excludePath` (the target
+// file itself when re-translating an existing post).
+function collectExistingSlugs(dir, excludePath) {
+  const set = new Set();
+  if (!fs.existsSync(dir)) return set;
+  for (const file of fs.readdirSync(dir)) {
+    if (!file.endsWith('.md') || file === '_index.md') continue;
+    const full = path.join(dir, file);
+    if (excludePath && path.resolve(full) === path.resolve(excludePath)) continue;
+    try {
+      const { data } = matter(fs.readFileSync(full, 'utf8'));
+      set.add(data.slug || file.replace(/\.md$/, ''));
+    } catch { /* ignore unreadable file */ }
+  }
+  return set;
+}
+
 async function translateFile(sourcePath, targetPath, targetLang) {
   console.log(`Translating: ${sourcePath} -> ${targetLang}`);
   
@@ -191,7 +211,22 @@ async function translateFile(sourcePath, targetPath, targetLang) {
   if (data.description) {
     data.description = stripHeadingPrefix(await translateContent(data.description, targetLang));
   }
-  
+
+  // Generate a slug in the target language so the translated post gets a
+  // native-language URL, even though it keeps the source's filename (the shared
+  // filename stays the cross-language translation key that Hugo's .Translations
+  // and the backlinks relrefs rely on). Overwrites any slug inherited from the
+  // source, which would otherwise be in the source language.
+  if (data.title) {
+    const year = data.date ? new Date(data.date).getFullYear() : new Date().getFullYear();
+    const existingSlugs = collectExistingSlugs(path.dirname(targetPath), targetPath);
+    data.slug = ensureUniqueSlug(await generateSlug(data.title, targetLang), existingSlugs, year);
+  }
+
+  // Aliases inherited from the source point at the source language's old URLs
+  // and would be wrong for a post with a different slug — drop them on the target.
+  if ('aliases' in data) delete data.aliases;
+
   // Translate Body
   let translatedBody = body;
   if (body.trim().length > 0) {
