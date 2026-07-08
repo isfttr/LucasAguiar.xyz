@@ -1,6 +1,6 @@
 ---
 date: 2026-07-08T11:10:50-03:00
-draft: true
+draft: false
 title: "INPI abre consulta pública sobre marcas de posição [2026]: novas regras e como participar"
 description: "Participe da Consulta Pública INPI nº 01/2026 sobre marcas de posição. Prazo até 24/7. Entenda os novos critérios de registrabilidade, as minutas do ato normativo e as diretrizes de exame."
 featured_image: ""
