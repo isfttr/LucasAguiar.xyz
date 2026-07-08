@@ -1,8 +1,8 @@
 ---
 date: 2026-06-28T13:00:00.000Z
-draft: false
+draft: true
 title: 'IP nos Esportes está em Expansão: Mais de 65.000 Patentes, 1,25 Milhão de Marcas Registradas e O Que Isso Significa [2026]'
-description: 'Dados da OMPI revelam que a PI relacionada a esportes está crescendo a quase 2x a média global. Golfe, natação e esportes de raquete lideram nos depósitos de patentes, enquanto Disney e Apple dominam as marcas registradas. Um olhar baseado em dados sobre a economia PI-esportes.'
+description: Dados da OMPI revelam que a PI relacionada a esportes está crescendo a quase 2x a média global. Golfe, natação e esportes de raquete lideram nos depósitos de patentes, enquanto Disney e Apple dominam as marcas registradas. Um olhar baseado em dados sobre a economia PI-esportes.
 featured_image: ''
 categories:
   - article

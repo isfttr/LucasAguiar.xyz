@@ -14,6 +14,7 @@ tags:
   - open-source
 aliases:
   - /posts/making-of-claude-code-origin-story-2026/
+translation_source_hash: 70c03f9beb45c6bbbee1a52c763cc9d6de84f5657678c800501dfc76cfe92be9
 ---
 
 On July 6, 2026, Anthropic published an unusual piece on their site. It wasn't a model announcement, an office opening, or a research paper. It was a story told by 14 people — researchers, engineers, designers, and external users — about how Claude Code was born.
