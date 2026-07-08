@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T18:14:14.845Z",
+  "last_updated": "2026-07-08T21:18:46.716Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2050,7 +2050,7 @@
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
       "title_en": "GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos",
-      "title_pt": "GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos",
+      "title_pt": "GitLost [2026]: Como Injeção de Prompt no Agente de IA do GitHub Vaza Repositórios Privados",
       "tags": [
         "ai",
         "security",
@@ -2062,7 +2062,7 @@
         "article"
       ],
       "description_en": "GitLost vulnerability lets attackers silently leak private repos via prompt injection in GitHub Agentic Workflows. Full technical breakdown and what it means for AI security.",
-      "content_hash_en": "09717d64cbc2316a80fcdbd0607adb14fc0a57db8a4422ad3707247951f91982",
+      "content_hash_en": "4f6afcaee1f5305820f9beaac545f4e0cbdb6982663103cb3a1cfeb27000a1f0",
       "backlinks": [
         "vibe-coding-pitfalls",
         "claude-sonnet-5-2026",

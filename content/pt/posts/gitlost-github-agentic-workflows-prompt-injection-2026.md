@@ -90,9 +90,9 @@ Por enquanto, a melhor defesa é o ceticismo: toda entrada que o agente lê pode
 
 Leia também:
 
-- [Por que Estou Rompendo com a Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [Claude Sonnet 5: O Modelo de IA Mais Agentivo da Anthropic Chega a um Preço Reduzido [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
-- [Por que Estou Rompendo com a Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Claude Sonnet 5: Janela de Contexto Limitada o torna útil apenas como subagente]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 
 ---
 
