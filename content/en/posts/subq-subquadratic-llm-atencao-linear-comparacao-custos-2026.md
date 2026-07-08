@@ -162,7 +162,7 @@ Read also:
 
 - [claude-code-review-cli-ia]({{< relref "posts/claude-code-review-cli-ia/" >}})
 - [gitbutler-gerenciador-branchs-review]({{< relref "posts/gitbutler-gerenciador-branchs-review/" >}})
-- [Inside AI Brains: How Anthropic Deciphered Claude's Thought Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [claude-code-review-cli-ia]({{< relref "posts/claude-code-review-cli-ia/" >}})
 
 ---
 

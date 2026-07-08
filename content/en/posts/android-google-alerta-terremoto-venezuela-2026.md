@@ -82,9 +82,9 @@ The system also had important previous learnings: in 2023, it was criticized for
 
 Read also:
 
-- [The Global Innovation Map in 2025: Who is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
-- [Anthropic launches Claude Science: an AI workbench for scientists [2026]]({{< relref "posts/claude-science-ai-workbench-cientistas-2026/" >}})
+- [SubQ: The First Fully Subquadratic LLM — Cost Comparison with Transformers [2026]]({{< relref "posts/subq-subquadratic-llm-atencao-linear-comparacao-custos-2026/" >}})
+- [claude-code-review-cli-ia]({{< relref "posts/claude-code-review-cli-ia/" >}})
+- [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T22:44:06.903Z",
+  "last_updated": "2026-07-08T01:16:36.087Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1933,7 +1933,7 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "10b2cf4a1af782e44b1109a53e2e5a774bee49038f61be2e6f803742dd2e93d6",
+      "content_hash_en": "e889a612dce776df4fb710ec54558410392fb19ba57833834c0ab7b81d0e0874",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-credenciamento-busca-patentes",
@@ -1987,19 +1987,19 @@
       "categories": [
         "article"
       ],
-      "description_en": "SubQ uses sparse subquadratic attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
-      "content_hash_en": "e5fab211fb3f7897f64857c231fbe0a80cc85e33f4f6310a7b61e3612355ff8a",
+      "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers at 1M tokens. Architecture analysis, benchmarks and costs.",
+      "content_hash_en": "833b130f1f3836e4d474a9ad72773346942644d3ebfe08de0372a6bf6a4aad50",
       "backlinks": [
         "claude-code-review-cli-ia",
         "gitbutler-gerenciador-branchs-review",
-        "anthropic-thinking-process-paper"
+        "claude-code-review-cli-ia"
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-07T22:30:43.787Z"
     },
     "android-google-alerta-terremoto-venezuela-2026": {
       "slug": "android-google-alerta-terremoto-venezuela-2026",
-      "title_en": "Como o Google Alertou 11 Milhões de Android Antes do Terremoto da Venezuela [2026]",
+      "title_en": "How Google Warned 11 Million Android Users Before the Venezuela Earthquake [2026]",
       "title_pt": "Como o Google Alertou 11 Milhões de Android Antes do Terremoto da Venezuela [2026]",
       "tags": [
         "android",
@@ -2013,15 +2013,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "Sistema de alerta sísmico do Android usou acelerômetros de celulares como sismômetros para alertar 11,4 milhões de pessoas segundos antes do terremoto M7.5 na Venezuela.",
-      "content_hash_en": null,
-      "content_hash_pt": "341d0ce2e03e2f2f678896cf83fd6acabd931e196425d22a373caff2b1c930f1",
+      "description_en": "Android earthquake alert system used phone accelerometers as seismometers to alert 11.4 million people seconds before the M7.5 earthquake in Venezuela.",
+      "content_hash_en": "577e049577e2286b9ba2277afe633e1e5185786e501ba37de27e54e78f1bf06c",
       "backlinks": [
-        "mapa-global-patentes-pct-2025-brasil",
-        "wipo-lanca-artificial-intelligence-infrastructure-interchange",
-        "claude-science-ai-workbench-cientistas-2026"
+        "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
+        "claude-code-review-cli-ia",
+        "mapa-global-patentes-pct-2025-brasil"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-07T22:44:06.902Z"
     }
   }
