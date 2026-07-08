@@ -14,6 +14,9 @@ tags:
   - self-hosting
   - tutorial
 translation_source_hash: 242bd84d2f96b18a8d1177e567dd581134905743ebc82c6e58bae9746ed1a7a9
+slug: proxmox-backup-server-installation-community-scripts
+aliases:
+  - /posts/proxmox-backup-server-community-scripts-2026/
 ---
 If you run Proxmox VE at home or in a homelab, one of the first things you need to sort out is backup. **Proxmox Backup Server (PBS)** is the official integrated solution — incremental backup, deduplication, Zstandard compression, and integrity verification, all native.
 

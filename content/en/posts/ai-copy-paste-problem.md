@@ -1,9 +1,9 @@
 ---
-date: 2025-03-15T00:55:28-03:00
+date: 2025-03-15T03:55:28.000Z
 draft: false
-title: "The AI Copy-Paste Problem: Killing Software Lock-In & Why Data Portability is Key"
+title: 'The AI Copy-Paste Problem: Killing Software Lock-In & Why Data Portability is Key'
 description: AI is changing the game for software companies. The emerging "AI Copy-Paste Problem" highlights the declining effectiveness of software lock-in. Users now prioritize data portability, enabled by accessible AI tools, allowing them to easily move between platforms. This article examines how businesses can adapt by embracing data interoperability to build genuine customer loyalty in the age of AI.
-url: ""
+url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-ai-copy-paste.png
 categories:
   - article
@@ -11,6 +11,9 @@ tags:
   - technology
   - artificial-intelligence
   - software development
+slug: ai-copy-paste-software-lock-in-data-portability
+aliases:
+  - /posts/ai-copy-paste-problem/
 ---
 
 

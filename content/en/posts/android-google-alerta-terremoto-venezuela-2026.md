@@ -15,6 +15,9 @@ tags:
   - alerta-sismico
   - inovacao
 translation_source_hash: 2c4ed44b60261bdcaf09e66be87740a430d36860586bbb4a6b56d78fa22040d1
+slug: google-alerted-11-million-android-venezuela-earthquake
+aliases:
+  - /posts/android-google-alerta-terremoto-venezuela-2026/
 ---
 On June 24, 2026, Venezuela was hit by the strongest earthquake in 126 years — a **doublet** of magnitude 7.2 followed 39 seconds later by an **M7.5**, with epicenter in the municipality of Veroes, Yaracuy state. The toll was devastating: over 3,500 dead and 16,700 injured, with estimated damages of US$ 37 billion.
 

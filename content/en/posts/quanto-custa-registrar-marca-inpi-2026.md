@@ -13,6 +13,9 @@ tags:
   - guia
   - custos
 translation_source_hash: 0eccd463d8c31467994745a69559479364cb614adf27f7894dfd0a70a7615ccb
+slug: trademark-registration-cost-inpi-2026
+aliases:
+  - /posts/quanto-custa-registrar-marca-inpi-2026/
 ---
 Registering a trademark with INPI is more affordable than many people imagine — especially for micro-entrepreneurs and small businesses, which pay half the value. This guide provides all updated costs based on **Ordinance GM/MDIC nº 110/2025** (in effect since August 2025).
 

@@ -16,6 +16,9 @@ tags:
   - doenças
   - amiloidose
 translation_source_hash: 1e24603b6fa3a98e2543040d0c349cf9ce88d4bf3f5a1fbcc737b8a9c68b6790
+slug: ai-transforming-code-complexity
+aliases:
+  - /posts/ia-desenvolvimento-software-complexidade-codigo/
 ---
 If you follow technology and development news, you've already noticed that Artificial Intelligence (AI) dominates the discussions. Far beyond the launch of new tools and workflows, there's a critical debate about the practical impacts of the mass adoption of these technologies in software engineering.
 

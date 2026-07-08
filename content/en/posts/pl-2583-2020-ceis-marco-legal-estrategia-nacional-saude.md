@@ -13,6 +13,9 @@ tags:
   - inovacao
   - legislacao
 translation_source_hash: 7aa2da7936665400ffe8e46e657f9b45370e3c43d55a728017b48f8cdb3fd9d0
+slug: senate-approves-health-industrial-complex-legal-framework
+aliases:
+  - /posts/pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude/
 ---
 On Tuesday (June 30), the Federal Senate approved **Bill 2.583/2020**, which establishes the **National Health Strategy of the Economic-Industrial Health Complex (CEIS)** as a legal framework for the sector's industrial policy. The text, which had already passed the Chamber of Deputies in July 2025, now proceeds for presidential sanction.
 

@@ -16,6 +16,9 @@ tags:
   - custos
   - inovacao
 translation_source_hash: 9a88e999df54609b387c1ca73715fa3ad6333a160e9377a1a985914019ada624
+slug: subq-subquadratic-llm-cost-comparison
+aliases:
+  - /posts/subq-subquadratic-llm-atencao-linear-comparacao-custos-2026/
 ---
 There is a fundamental problem in all the large language models you use today — and it has to do with high school math.
 

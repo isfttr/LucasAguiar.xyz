@@ -14,6 +14,9 @@ tags:
   - legislacao
   - biografia
 translation_source_hash: 773231a7b6e4ce52ff39d8abe305249dc894725ee7928567a58e593b93509e2e
+slug: peter-dirk-siemsen-legacy-ip-hall-fame
+aliases:
+  - /posts/peter-dirk-siemsen-legado-propriedade-intelectual/
 ---
 **4 MIN READ**
 

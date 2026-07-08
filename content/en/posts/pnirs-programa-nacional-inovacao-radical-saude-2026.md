@@ -17,6 +17,9 @@ tags:
   - propriedade-intelectual
   - biotecnologia
 translation_source_hash: bbb7f3f6f39d8ddbfbd68acca775a1a419a608c9f59c11deb9f0341b0b6a014e
+slug: national-program-radical-health-innovation
+aliases:
+  - /posts/pnirs-programa-nacional-inovacao-radical-saude-2026/
 ---
 The Ministry of Health published in the Official Gazette of the Union on July 6, 2026, the **Ordinance GM/MS No. 11.921**, which establishes the **National Program for Radical Innovation in Health (PNIRS)** within the scope of the Ministry of Health.
 

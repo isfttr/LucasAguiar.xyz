@@ -1,10 +1,10 @@
 ---
-date: 2025-04-11T11:33:12-03:00
+date: 2025-04-11T14:33:12.000Z
 draft: true
-title: "Building Interactive Flask Web Apps: Progress Bars and Beyond"
-description: "A practical guide to implementing progress bars, real-time updates, and other interactive features in your Flask web applications."
-url: ""
-featured_image: "https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-flask-progress-bars.png"
+title: 'Building Interactive Flask Web Apps: Progress Bars and Beyond'
+description: A practical guide to implementing progress bars, real-time updates, and other interactive features in your Flask web applications.
+url: ''
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-flask-progress-bars.png
 categories:
   - tutorial
 tags:
@@ -14,6 +14,9 @@ tags:
   - javascript
   - ajax
   - socketio
+slug: interactive-flask-web-apps-progress-bars-beyond
+aliases:
+  - /posts/flask-progress-bars-and-beyond/
 ---
 
 Flask is a lightweight and flexible Python web framework that's perfect for everything from simple APIs to complex web applications. While it's minimal by design, Flask can be extended to create highly interactive, modern web experiences. One of the most requested features in web applications is the ability to show progress for long-running tasks - whether it's file uploads, data processing, or complex computations.

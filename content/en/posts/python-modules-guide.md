@@ -1,10 +1,10 @@
 ---
-date: 2025-04-11T11:27:27-03:00
+date: 2025-04-11T14:27:27.000Z
 draft: true
-title: "Python Modules: A Beginner's Guide to Organizing Your Code"
-description: "Learn how to effectively use Python modules to organize your code, import functionality, and build more maintainable projects. This guide covers everything from basic imports to creating your own modules and packages."
-url: ""
-featured_image: "https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-python-modules.png"
+title: 'Python Modules: A Beginner''s Guide to Organizing Your Code'
+description: Learn how to effectively use Python modules to organize your code, import functionality, and build more maintainable projects. This guide covers everything from basic imports to creating your own modules and packages.
+url: ''
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-python-modules.png
 categories:
   - tutorial
 tags:
@@ -13,6 +13,9 @@ tags:
   - modules
   - code-organization
   - best-practices
+slug: python-modules-beginners-guide-organizing-code
+aliases:
+  - /posts/python-modules-guide/
 ---
 
 As your Python projects grow beyond simple scripts, you'll quickly need a way to organize your code into logical components. This is where Python modules come in - they're the fundamental way to structure your code and make it reusable.

@@ -14,6 +14,9 @@ tags:
   - docker
   - mcp
 translation_source_hash: b5462e6eae563c9caaa7d730d8ac44741a2a0bdf24e1755dc881e6aa45acf07f
+slug: set-up-google-search-console-hermes-agent
+aliases:
+  - /posts/google-search-console-agente-hermes/
 ---
 I had been following **Google Search Console** for a while, but the workflow was manual and tedious: opening the panel, copying queries, pasting them into my agent. It can be done much better. In this tutorial I show how to connect Search Console directly to **Hermes** — the AI agent running on my homelab — using an **MCP** server, so it reads clicks, impressions, and queries **via API**. I'll cover both what the creator's repository already delivers out‑of‑the‑box and the adjustments I had to make to run everything inside Docker, which is where the official documentation stops helping you.
 

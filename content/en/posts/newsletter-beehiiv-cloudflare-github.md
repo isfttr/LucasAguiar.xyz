@@ -2,8 +2,7 @@
 date: 2026-05-03T17:48:11.000Z
 draft: false
 title: 'Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers'
-description: "Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub
-  Pages, using Cloudflare Workers and monitoring via PostHog."
+description: Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-cloudflare-beehiiv.png
 categories:
@@ -16,6 +15,9 @@ tags:
   - hugo
   - posthog
 translation_source_hash: be25d824cbd363109a90a2f4282dab3d66afc0ddb3a86998b3f423089930f51d
+slug: integrate-beehiiv-hugo-cloudflare-workers
+aliases:
+  - /posts/newsletter-beehiiv-cloudflare-github/
 ---
 Until recently, I had no intention of creating a newsletter, mainly due to the additional maintenance work. But, after exploring a few alternatives, I chose Beehiiv for its ease of use and excellent scalability. However, the challenge arises when you already have pre-existing web infrastructure and want to achieve seamless integration, without relying on standardized iframes.
 

@@ -2,9 +2,7 @@
 date: 2026-05-10T13:30:00.000Z
 draft: false
 title: 'ADI 5.529: the STF''s decision that shortened drug patents in Brazil'
-description: "In 2021, the STF (Supreme Federal Court) struck down the provision that
-  guaranteed a minimum 10-year validity period after patent grants. Understand
-  what changed, which patents were affected, and the impact on drug prices."
+description: In 2021, the STF (Supreme Federal Court) struck down the provision that guaranteed a minimum 10-year validity period after patent grants. Understand what changed, which patents were affected, and the impact on drug prices.
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-adi-5529-2.png
 categories:
   - article
@@ -16,6 +14,9 @@ tags:
   - propriedade-intelectual
   - regulacao
 translation_source_hash: 60e81a21c79866c22925986ebf43e1fb20acfe5af1f4052a99e6ca86b2687ec7
+slug: adi-5529-stf-shortened-drug-patents-brazil
+aliases:
+  - /posts/adi-5529-patentes-farmaceuticas/
 ---
 On May 6, 2021, the [Supreme Federal Court](https://portal.stf.jus.br/processos/detalhe.asp?incidente=4984195) declared the sole paragraph of article 40 of the [Industrial Property Law (Law 9,279/1996)](https://www.planalto.gov.br/ccivil_03/leis/l9279.htm) unconstitutional. The decision ended a mechanism that, in practice, automatically extended pharmaceutical patents beyond the 20 years provided for in international agreements — and paved the way for the entry of generics into dozens of markets.
 

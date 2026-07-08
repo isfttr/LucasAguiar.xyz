@@ -14,6 +14,9 @@ tags:
   - finep
   - inovacao
 translation_source_hash: 81d9d0d0b3f6291f9503fb49ffb569bee96df89e7fab7976f3f6bdd91f465b18
+slug: brazil-industry-ai-priority-140-billion
+aliases:
+  - /posts/nib-r140-bilhoes-ia-historico-politica-industrial/
 ---
 The National Bank for Economic and Social Development (BNDES) and the Funding Authority for Studies and Projects (Finep) announced on June 22, 2026, the availability of an additional R$ 140 billion to finance projects for the New Brazil Industry (NIB) until December 2026. With the new contribution, the total volume of resources mobilized by the industrial policy reaches over R$ 750 billion in the 2023-2026 period.
 

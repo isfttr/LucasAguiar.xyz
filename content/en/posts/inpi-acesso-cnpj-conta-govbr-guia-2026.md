@@ -13,6 +13,9 @@ tags:
   - servicos-publicos
   - propriedade-intelectual
 translation_source_hash: a17fd6bf7a4841616176c2b16d99c5f8fca61b362dde8e234fb75a6472f125dc
+slug: inpi-cnpj-govbr-company-link-guide
+aliases:
+  - /posts/inpi-acesso-cnpj-conta-govbr-guia-2026/
 ---
 On July 6, 2026, the INPI published a clarification aimed at users who have doubts about the possibility of using the company's CNPJ to access Gov.br services — and, by extension, the Institute's electronic systems.
 

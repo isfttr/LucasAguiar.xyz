@@ -2,7 +2,7 @@
 title: 'LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law'
 date: 2026-06-23T02:47:00.000Z
 draft: false
-slug: lpi-30-anos-propostas-aperfeicoamento-inpi
+slug: lpi-30-inpi-report-industrial-property-law
 description: INPI released a report consolidating internal proposals for the revision of Law 9,279/1996 — the IP Law that has governed patents, trademarks, and industrial designs in Brazil for 30 years.
 featured_image: null
 tags:
@@ -12,6 +12,8 @@ tags:
   - patentes
   - legislação
 translation_source_hash: e7716c67a8524ffbe09801fdbbc7b573ef8e135e95558b2cccc541c66846f17d
+aliases:
+  - /posts/lpi-30-anos-propostas-aperfeicoamento-inpi/
 ---
 On June 19, 2026, the National Institute of Industrial Property (INPI) published the awaited report **"Proposals for the Improvement of the Industrial Property Law — LPI (9.279/1996)"**, a document consolidating internal proposals for the revision of the law that has governed industrial property in Brazil for exactly 30 years.
 

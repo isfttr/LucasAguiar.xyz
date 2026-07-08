@@ -14,6 +14,9 @@ tags:
   - inovacao
   - propriedade-intelectual
 translation_source_hash: be6c6c1924ba67ca580c4b300124530b7962b071c73cc9999fa177ec3fea0c64
+slug: inpi-maps-ip-es-patents-trademarks-gis
+aliases:
+  - /posts/inpi-radar-pi-espirito-santo-2026/
 ---
 The National Institute of Industrial Property (INPI) published, on July 3, 2026, the **51st edition of the Technological Radar**, dedicated to mapping the use of the industrial property system by applicants from Espírito Santo. Developed in partnership with the Federal Institute of Education, Science and Technology of Espírito Santo (Ifes), the study covers the period from 2010 to November 2025 and analyzes patent applications, computer program registrations, trademarks, industrial designs, and geographical indications.
 

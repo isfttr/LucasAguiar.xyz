@@ -14,6 +14,9 @@ tags:
   - tecnologia
   - direito-autoral
 translation_source_hash: 73c435065b27b2fb69e12d3757586e3696386b7230660fdda5bbcaabc1d79bb8
+slug: wipo-ai-infrastructure-interchange
+aliases:
+  - /posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/
 ---
 The World Intellectual Property Organization (WIPO) launched the **Artificial Intelligence Infrastructure Interchange (AIII)** — a new global initiative that brings together governments, industry, creators, and academia to discuss the technical and operational challenges at the intersection of artificial intelligence and intellectual property. The announcement, made at WIPO headquarters in Geneva, drew over 1,700 registered participants and included speeches from the Ministers of Digital Transition of Morocco and Culture of Spain.
 

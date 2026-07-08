@@ -14,6 +14,9 @@ tags:
   - propriedade-intelectual
   - direito
 translation_source_hash: 6f115910b7fbf3247e8722ee88f310db695de5cfcbfca915156ba2d7aa52b459
+slug: inpi-scholarship-technical-divergences-trademarks-2026
+aliases:
+  - /posts/inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026/
 ---
 INPI published on this Tuesday, July 7, 2026, the notice for the selection process to grant a research assistant scholarship under the Industrial Property Development Program (PDPI). The project's objective is the **"Consolidated identification of technical divergences between decisions of the 1st and 2nd administrative instances in trademark matters"**.
 

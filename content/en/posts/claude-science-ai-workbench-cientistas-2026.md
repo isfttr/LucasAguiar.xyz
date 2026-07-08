@@ -15,6 +15,9 @@ tags:
   - genomica
   - proteinas
 translation_source_hash: a11d8f720d750fcc3b2303a0f38360c92877e5c93c02f7c932b2cf6e6c0d1c07
+slug: anthropic-launches-claude-science-ai-workbench-scientists
+aliases:
+  - /posts/claude-science-ai-workbench-cientistas-2026/
 ---
 Anthropic today launched **Claude Science**, an AI workbench designed specifically for scientists and researchers. The announcement came with the release of Claude Sonnet 5, solidifying the day as one of the company's biggest in 2026.
 

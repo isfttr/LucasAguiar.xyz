@@ -1,9 +1,9 @@
 ---
-date: 2025-04-11T14:53:35-03:00
+date: 2025-04-11T17:53:35.000Z
 draft: true
-title: "What Are Proteins and Why is AI-Powered Protein Sequencing a Game Changer?"
-description: "Learn how artificial intelligence is revolutionizing our understanding of proteins - the workhorses of life - and transforming medicine, agriculture, and environmental science along the way."
-url: ""
+title: What Are Proteins and Why is AI-Powered Protein Sequencing a Game Changer?
+description: Learn how artificial intelligence is revolutionizing our understanding of proteins - the workhorses of life - and transforming medicine, agriculture, and environmental science along the way.
+url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-ai-protein-sequencing.png
 categories:
   - article
@@ -14,6 +14,9 @@ tags:
   - science
   - medicine
   - research
+slug: ai-powered-protein-sequencing-game-changer
+aliases:
+  - /posts/ai-powered-protein-sequencing/
 ---
 
 ## Introduction

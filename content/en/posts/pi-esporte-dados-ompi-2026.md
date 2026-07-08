@@ -15,6 +15,9 @@ tags:
   - marcas
   - patentes
 translation_source_hash: 376b56287a270dfd00f50af7d96914d65e793ef7e21f189186a9257c847b97c0
+slug: ip-sport-wipo-patent-trademark-boom-2026
+aliases:
+  - /posts/pi-esporte-dados-ompi-2026/
 ---
 On April 26, 2026, the World Intellectual Property Organization (OMPI/WIPO) released an unprecedented report as part of the World Intellectual Property Day celebrations. With the theme "IP and Sports: Ready, Set, Innovate", the report shows that the sports industry is undergoing a silent transformation — and intellectual property is at its core.
 

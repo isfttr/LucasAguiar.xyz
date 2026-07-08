@@ -14,6 +14,9 @@ tags:
   - whatsapp
   - ai
 translation_source_hash: bc9cf54e90efcf37b7656ed817f7f40c0353d8ece729b700d3a9279119cb5042
+slug: whatsapp-hermes-agent-self-hosted-pitfalls
+aliases:
+  - /posts/configuracao-whatsapp-hermes/
 ---
 I wanted a simple thing: to send a message to my AI agent via WhatsApp. The
 [Hermes Agent](https://github.com/NousResearch/hermes-agent), from Nous Research,

@@ -14,6 +14,9 @@ tags:
   - competition
   - academia
 translation_source_hash: e68fb90676be7373d5a75ba49713c3ec0dd09ccd7cba0ba34bbfabd22b339c99
+slug: abpi-launches-1st-academic-paper-competition-ip
+aliases:
+  - /posts/abpi-concurso-trabalhos-academicos-pi-2026/
 ---
 
 On July 5, 2026, the Brazilian Intellectual Property Association (ABPI) announced the launch of its **1st Academic Papers and Abstracts Competition**, a brand-new initiative to identify and showcase research, studies, and practical cases that contribute to the advancement of Intellectual Property, innovation, technology, and business in Brazil.

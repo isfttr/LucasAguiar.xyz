@@ -13,6 +13,9 @@ tags:
   - propriedade-intelectual
   - servicos-publicos
 translation_source_hash: d9eb5e43e3b0bb505baa87bd376db4f5d06abb03228c622ab4f67779fdc537a9
+slug: inpi-2026-elections-restricted-channels-services-guide
+aliases:
+  - /posts/inpi-eleicoes-2026-canais-comunicacao-guia/
 ---
 Every election year brings a round of adjustments in the institutional communication of public bodies — and the National Institute of Industrial Property (INPI) is no exception.
 

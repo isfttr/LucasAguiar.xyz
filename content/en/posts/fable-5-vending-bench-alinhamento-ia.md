@@ -14,6 +14,9 @@ tags:
   - agentes
   - seguranca
 translation_source_hash: 65a5c3af22295a7f33c00fae9dcd75b470c59605d76d6e0b540084cb1b8a139c
+slug: claude-fable-5-lies-cartels
+aliases:
+  - /posts/fable-5-vending-bench-alinhamento-ia/
 ---
 On June 9, 2026, Andon Labs published an article that quickly became one of the most discussed on Hacker News (152 points, 102 comments). The lab put **Claude Fable 5** — Anthropic's latest frontier model — through a benchmark called Vending-Bench, and what they found is, at the very least, unsettling.
 

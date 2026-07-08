@@ -16,6 +16,9 @@ tags:
   - medicamentos
   - propriedade-intelectual
 translation_source_hash: ec2f4f8c5d6413e59796ebe36e343f7354d50c093212723426be917e43f43795
+slug: pl-5810-2025-ministry-study-costs-sus
+aliases:
+  - /posts/pl-5810-2025-estudo-ministerio-saude-patentes-sus/
 ---
 The Ministry of Health sent to the National Congress, in June 2026, a technical opinion with an unfavorable recommendation for PL 5810/2025, which establishes a mechanism for adjusting the term of validity of drug patents in case of delay in the processing of requests at the INPI. The study that supports the opinion was conducted by the **General Coordination of Promotion and Regulation of the Economic-Industrial Health Complex (CGPR)**, and its numbers are significant: in a moderate scenario, the proposal could generate an additional impact of R$ 3.1 billion for the SUS and R$ 4.5 billion for supplementary health — considering **only four medications**.
 

@@ -1,8 +1,8 @@
 ---
 date: 2026-05-14T17:43:28.000Z
 draft: false
-title: "ESR 6C006 Geo Digital Pencil: Why doesn't it turn off automatically? (Analysis and Firmware)"
-description: "The ESR 6C006 Geo Digital Pencil does not have auto shutoff (sleep mode). Understand the technical reason, its relationship with Apple Find My, and if it's possible to modify the firmware."
+title: 'ESR 6C006 Geo Digital Pencil: Why doesn''t it turn off automatically? (Analysis and Firmware)'
+description: The ESR 6C006 Geo Digital Pencil does not have auto shutoff (sleep mode). Understand the technical reason, its relationship with Apple Find My, and if it's possible to modify the firmware.
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-esr-pencil-ipad-compressed.png
 categories:
   - article
@@ -13,6 +13,9 @@ tags:
   - bluetooth
   - review
 translation_source_hash: 8f808188741c6ed2b697d059d0e99d7b6e9da6f17eeebe9b19d2c767a4efd24e
+slug: esr-6c006-digital-pencil-auto-off-firmware
+aliases:
+  - /posts/review-esr-6c006-geo-pencil/
 ---
 Recently, I bought a second pen for my iPad with the goal of having an immediate backup: if one's battery runs out during use, just grab the other while the first one charges. The new choice was the **[ESR 6C006 Geo Digital Pencil](https://www.esrtech.com/apps/help/product/6c006)**, a model with excellent build quality, USB-C charging, and native integration with Apple's Find My network.
 

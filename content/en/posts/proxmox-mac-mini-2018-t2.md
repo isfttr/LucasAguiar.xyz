@@ -12,6 +12,9 @@ tags:
   - linux
   - self-hosting
 translation_source_hash: b4bac54c33233364cec54bf63c3a4210ffe007776dd6693c06254780a70d5e5a
+slug: install-proxmox-ve-mac-mini-2018-t2
+aliases:
+  - /posts/proxmox-mac-mini-2018-t2/
 ---
 Installing **Proxmox on Mac Mini 2018** seems like a five-minute task: burn the ISO to a USB drive, boot, and follow the installer. In practice, Apple's T2 security chip places two obstacles in the way — blocked boot and a screen that simply turns off — and it's easy to spend hours hitting these two walls. This post documents the exact settings that made the installation work end-to-end, so you don't lose the time I did.
 

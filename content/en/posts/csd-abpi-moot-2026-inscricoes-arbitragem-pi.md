@@ -14,6 +14,9 @@ tags:
   - concurso
   - direito
 translation_source_hash: a8e79627ae027a337e3ff568eda6cdd686608fb07c5324467cb38639f57aa9d0
+slug: 5th-csd-abpi-ip-arbitration-moot-registration-2026
+aliases:
+  - /posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/
 ---
 There are only a few days left for those who want to participate in the **5th CSD-ABPI Moot**, Brazil’s only arbitration competition exclusively dedicated to Intellectual Property. Registrations have been extended until **July 8, 2026** — an additional week from the original deadline, responding to requests from teams that were unable to finalize their lineup in time.
 

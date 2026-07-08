@@ -13,6 +13,9 @@ tags:
   - propriedade-intelectual
   - credenciamento
 translation_source_hash: 967b0384a5e6e97f17c81816e32fe72eac371fd1715cd31774277276488669fd
+slug: inpi-patent-search-accreditation-guide-2026
+aliases:
+  - /posts/inpi-credenciamento-busca-anterioridade-patentes/
 ---
 INPI published on June 29, 2026, the **Electronic Accreditation Notice No. 90.001/2026**, opening doors for professionals across Brazil to provide prior art search and state-of-the-art definition services for patent applications. It is the first time the Institute has structured the outsourcing of this critical stage of patent examination.
 

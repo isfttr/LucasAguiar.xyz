@@ -13,6 +13,9 @@ tags:
   - tramite-prioritario
   - propriedade-intelectual
 translation_source_hash: ad584effe677660091617d1ed83c05d2ed64936021b0bbb599b00ed5c2b91925
+slug: inpi-exhausts-priority-processing-quotas-ecommerce-trademarks
+aliases:
+  - /posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/
 ---
 On June 18, 2026, the INPI announced the exhaustion of quarterly quotas for the priority processing of trademark registration applications in the modality intended for applicants who depend on registration to operate on e-commerce platforms. The issuance of new Union Collection Guides (GRUs) for this modality is temporarily suspended, and new quotas will only be available from September 2026.
 

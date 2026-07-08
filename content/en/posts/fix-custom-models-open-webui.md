@@ -1,15 +1,18 @@
 ---
-date: 2025-03-11T22:32:27-03:00
+date: 2025-03-12T01:32:27.000Z
 draft: false
 title: How to fix the Missing Custom Models bug
-description:
-url: ""
+description: null
+url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-custom-model-fix.png
 categories:
   - article
 tags:
   - open-webui
   - fix
+slug: fix-missing-custom-models-bug
+aliases:
+  - /posts/fix-custom-models-open-webui/
 ---
 
 This is a quick fix to a problem I experienced with Open WebUI, which was that custom models were not showing in the models list. There was nothing in the documentation or in the issues pointing to a solution. I decided to open a new issue 4 days ago and today the user [@dcolley](https://github.com/open-webui/open-webui/discussions/11404) gave the missing information and it worked.

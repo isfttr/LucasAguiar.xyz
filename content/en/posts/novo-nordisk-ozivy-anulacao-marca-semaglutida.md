@@ -15,6 +15,9 @@ tags:
   - concorrencia
   - direito-marcario
 translation_source_hash: 6cdf9d74e4497443024a8b86d84d7c81bf62d3a4289ca1b44f2a5c3be6232366
+slug: novo-nordisk-ems-ozivy-brand-dispute
+aliases:
+  - /posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/
 ---
 Danish pharmaceutical company Novo Nordisk filed a lawsuit against EMS — the largest Brazilian pharmaceutical company — requesting the annulment of the **Ozivy** brand registration, the first 100% national semaglutide-based weight-loss pen approved in Brazil. INPI also appears as a defendant in the lawsuit, filed at the 31st Federal Court of Rio de Janeiro.
 

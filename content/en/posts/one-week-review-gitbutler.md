@@ -1,9 +1,9 @@
 ---
-date: 2025-04-10T13:36:59-03:00
+date: 2025-04-10T16:36:59.000Z
 draft: false
-title: "Two Weeks with GitButler: Streamlining My Git Workflow"
-description: "My experience using GitButler as a replacement for traditional Git workflow tools, including what works well and a few limitations."
-url: ""
+title: 'Two Weeks with GitButler: Streamlining My Git Workflow'
+description: My experience using GitButler as a replacement for traditional Git workflow tools, including what works well and a few limitations.
+url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-gitbutler.png
 categories:
   - article
@@ -14,6 +14,9 @@ tags:
   - developer-tools
   - productivity
   - version-control
+slug: two-weeks-gitbutler-streamlining-git-workflow
+aliases:
+  - /posts/one-week-review-gitbutler/
 ---
 
 I've been using [GitButler](https://docs.gitbutler.com/) for about two weeks now, and it's already transformed how I interact with Git. As someone who regularly juggles multiple feature branches and context switches between tasks, I was looking for a tool that could simplify my Git workflow. GitButler caught my attention with its promise of virtual branches and simplified collaboration features.

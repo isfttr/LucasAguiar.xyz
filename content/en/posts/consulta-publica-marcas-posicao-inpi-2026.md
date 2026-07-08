@@ -13,6 +13,9 @@ tags:
   - propriedade-intelectual
   - regulacao
 translation_source_hash: 2fe0937b26c79ee10287f7b1d5dd8fc426fca86f5a2599c4c61f38901b8ccf91
+slug: inpi-public-consultation-position-marks-2026
+aliases:
+  - /posts/consulta-publica-marcas-posicao-inpi-2026/
 ---
 INPI has launched **Public Consultation INPI No. 01/2026** to discuss the new registration criteria applicable to **position marks** — trademark signs constituted by the way an element is positioned on a product. Interested parties have until **July 24, 2026** to submit contributions.
 

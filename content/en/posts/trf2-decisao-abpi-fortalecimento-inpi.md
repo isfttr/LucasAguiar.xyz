@@ -14,6 +14,9 @@ tags:
   - patentes
   - jurisdicao
 translation_source_hash: 061203073a497b278940364fb4ad3f34af75bf3422857471b03b4775e58e280a
+slug: trf-2-confirms-ruling-restructuring-inpi
+aliases:
+  - /posts/trf2-decisao-abpi-fortalecimento-inpi/
 ---
 On June 22, 2026, the 1st Specialized Panel of the Federal Regional Court
 of the 2nd Region (TRF-2) unanimously confirmed the judgment issued in Public Civil

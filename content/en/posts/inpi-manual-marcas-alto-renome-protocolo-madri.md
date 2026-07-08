@@ -14,6 +14,9 @@ tags:
   - regulacao
   - marcas-de-alto-renome
 translation_source_hash: c3ed3660b1969246b2a2e58e4b5944a4814e88d43aadd3657dda3eabe807dc16
+slug: inpi-trademark-manual-high-renown-madrid-protocol
+aliases:
+  - /posts/inpi-manual-marcas-alto-renome-protocolo-madri/
 ---
 The National Institute of Industrial Property (INPI) published on June 23, 2026, an update to the Trademark Manual that promises to significantly alter how well-known marks are recognized and how international registration applications are processed in Brazil.
 

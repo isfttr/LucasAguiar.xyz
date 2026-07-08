@@ -1,9 +1,8 @@
 ---
 date: 2026-05-06T00:26:21.000Z
 draft: false
-title: 'Dawkins, Claude and the Myth of Consciousness in Artificial Intelligence'
-description: "An analysis of the article 'When Dawkins met Claude'. Can language models like
-  Claude be conscious, or are we just falling for the Turing Test?"
+title: Dawkins, Claude and the Myth of Consciousness in Artificial Intelligence
+description: An analysis of the article 'When Dawkins met Claude'. Can language models like Claude be conscious, or are we just falling for the Turing Test?
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-claude-dawkins.png
 categories:
@@ -16,6 +15,9 @@ tags:
   - teste-de-turing
   - teste-da-borboleta
 translation_source_hash: e69002a75a864213ad7e2811538caedb2c876b01bdbb98f3c95037acfe96a73a
+slug: dawkins-claude-myth-consciousness-artificial-intelligence
+aliases:
+  - /posts/dawkins-claude-consciencia-ia/
 ---
 Evolutionary biologist Richard Dawkins recently wrote an article titled “[When Dawkins met Claude](https://archive.is/20260503112042/https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/)”, where he describes his experience after two days of intense conversations with the artificial intelligence Claude on various topics.
 

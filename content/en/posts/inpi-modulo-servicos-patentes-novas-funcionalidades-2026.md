@@ -13,6 +13,9 @@ tags:
   - tecnologia
   - propriedade-intelectual
 translation_source_hash: 69ea5fc29376f15518a2c5c7c101f66e341f1ebb3f2a43f284479828e2e9c1ec
+slug: inpi-launches-new-patents-module-changes-2026
+aliases:
+  - /posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/
 ---
 On July 2, 2026, INPI announced the second version of the Patent Services Module, scheduled for release in August 2026. This new feature represents another step in the agency's automation plan and promises to transform how applicants, IP firms, and companies interact with the Brazilian patent system.
 

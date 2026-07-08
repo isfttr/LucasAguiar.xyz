@@ -1,9 +1,9 @@
 ---
-date: 2025-04-02T14:30:00-03:00
+date: 2025-04-02T17:30:00.000Z
 draft: false
-title: "Inside AI Brains: How Anthropic Decoded Claude's Thinking Process"
-description: "A breakdown of how researchers are peering inside Claude's 'mind' and discovering surprising parallels with biological systems in Anthropic's groundbreaking new paper."
-url:
+title: 'Inside AI Brains: How Anthropic Decoded Claude''s Thinking Process'
+description: A breakdown of how researchers are peering inside Claude's 'mind' and discovering surprising parallels with biological systems in Anthropic's groundbreaking new paper.
+url: null
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-code-llm-circuit-tracing.png
 categories:
   - article
@@ -14,6 +14,9 @@ tags:
   - research
   - claude
   - anthropic
+slug: anthropic-decoded-claude-thinking-process
+aliases:
+  - /posts/anthropic-thinking-process-paper/
 ---
 
 Anthropic recently published a [fascinating paper](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#structure) with an unusual title: "**On the Biology of a Large Language Model**." But what does biology have to do with AI? As it turns out, quite a lot. The researchers are essentially performing a digital dissection of Claude's "brain" to understand how it thinks—and finding surprising parallels to biological systems along the way.

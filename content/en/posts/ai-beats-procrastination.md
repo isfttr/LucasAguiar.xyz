@@ -1,9 +1,9 @@
 ---
-date: 2025-04-13T01:39:56-03:00
+date: 2025-04-13T04:39:56.000Z
 draft: false
-title: "From Procrastination to Progress: How AI has helped me"
-description:
-url: ""
+title: 'From Procrastination to Progress: How AI has helped me'
+description: null
+url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-ai-procrastination.png
 categories:
   - article
@@ -16,6 +16,9 @@ tags:
   - zed
   - artificial-intelligence
   - procrastination
+slug: procrastination-progress-ai-helped
+aliases:
+  - /posts/ai-beats-procrastination/
 ---
 
 

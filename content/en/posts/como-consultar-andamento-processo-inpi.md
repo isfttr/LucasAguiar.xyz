@@ -14,6 +14,9 @@ tags:
   - patentes
   - marcas
 translation_source_hash: 77e3d0cf21723b20c39180851335299bbb4c3877738f5b1814d5425442d1cdb0
+slug: check-inpi-process-status-2026
+aliases:
+  - /posts/como-consultar-andamento-processo-inpi/
 ---
 Tracking the progress of a process at INPI is essential — whether to know if your trademark has been granted, if your patent has entered examination, or if there is any pending requirement. But the system can be confusing for those who have never used it.
 

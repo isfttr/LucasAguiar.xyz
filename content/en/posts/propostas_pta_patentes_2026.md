@@ -1,11 +1,8 @@
 ---
 date: 2026-04-29T15:20:00.000Z
 draft: false
-title: "Patent Term Adjustment: Big Pharma lost in court, but the debate reached
-  Congress"
-description: "After the STJ denied an extension of time for semaglutide, the discussion
-  about compensation for INPI's delay in pharmaceutical patents moved to the
-  Legislature. What is at stake in Bill No. 5,810/2025."
+title: 'Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress'
+description: After the STJ denied an extension of time for semaglutide, the discussion about compensation for INPI's delay in pharmaceutical patents moved to the Legislature. What is at stake in Bill No. 5,810/2025.
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-pta-luta-legislativa.png
 categories:
   - article
@@ -19,6 +16,9 @@ tags:
   - regulação
   - propriedade intelectual
 translation_source_hash: 8981b874b63414b23a10e7e42ae181840a649b99feae3ba6ccaecfa75c41f19b
+slug: patent-term-adjustment-big-pharma-court-congress
+aliases:
+  - /posts/propostas_pta_patentes_2026/
 ---
 On December 16, 2025, the 4th Panel of the Superior Court of Justice concluded the most anticipated judicial discussion in the Brazilian pharmaceutical sector. Unanimously, the [STJ denied the patent term adjustment for semaglutide patents](https://www.cnpl.org.br/ozempic-4a-turma-do-stj-nega-por-unanimidade-ajuste-de-patente-da-semaglutida/) (REsp 2.240.025/DF), ending Novo Nordisk's attempt to extend Ozempic's protection by up to 12 years beyond the anticipated expiration date.
 

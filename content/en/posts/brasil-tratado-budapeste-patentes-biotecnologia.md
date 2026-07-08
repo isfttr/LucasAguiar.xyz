@@ -14,6 +14,9 @@ tags:
   - inovacao
   - propriedade-intelectual
 translation_source_hash: 9ca41108c80bcebfbbfb1f39e376f11c12e68c8a8c8d2e6cbab436e229980842
+slug: brazil-budapest-treaty-biotechnological-patents-changes
+aliases:
+  - /posts/brasil-tratado-budapeste-patentes-biotecnologia/
 ---
 On June 10, 2026, **Decree No. 13.011, of June 9, 2026**, was published in the Official Gazette, promulgating Brazil's accession to the Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure. The treaty was originally signed in Budapest on April 28, 1977, and modified on September 26, 1980.
 

@@ -15,6 +15,9 @@ tags:
   - acesso-a-saude
   - regulacao
 translation_source_hash: ef8ea2a5c810aa0b4933f940022e9c80efd0d6cb1d1e27e9b6e91f01d2df52bb
+slug: glp-1-brazil-patents-biosimilars-competition
+aliases:
+  - /posts/glp-1-revolucao-farmaceutica-patentes-brasil/
 ---
 The Brazilian market for GLP-1-based drugs is experiencing a rare moment in the history of the pharmaceutical industry: at the same time that demand explodes — the category grew **97.6% in the last 12 months**, reaching R$ 12.7 billion —, the patent cycle begins to open space for biosimilars and national similar drugs, creating a simultaneous movement of expansion and democratization of access.
 

@@ -15,6 +15,9 @@ tags:
   - semicondutores
   - tecnologia
 translation_source_hash: 0f4cf5931d9bbcf7932504a4355afc6ddedacece78794e1b6b0f8be6fbc2beea
+slug: global-innovation-map-2025-patenting
+aliases:
+  - /posts/mapa-global-patentes-pct-2025-brasil/
 ---
 Em março de 2026, a WIPO publicou os números consolidados do Patent Cooperation Treaty (PCT) para o ano de 2025 — e os dados contam uma história clara sobre para onde o mundo está direcionando seus esforços de inovação. Foram 275.900 pedidos internacionais de patente, um crescimento de 0,7% sobre 2024, marcando o segundo ano consecutivo de alta.
 

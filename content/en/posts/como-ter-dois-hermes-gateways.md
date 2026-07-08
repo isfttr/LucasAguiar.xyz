@@ -14,6 +14,9 @@ tags:
   - gateway
   - devops
 translation_source_hash: 0bc1946805a07d8e1a2fbcfe019c0483932c505e2dce8f3e32027dd7c7db46ae
+slug: run-two-hermes-gateways-one-remote-local
+aliases:
+  - /posts/como-ter-dois-hermes-gateways/
 ---
 I wanted something seemingly simple: keep my `default` profile in [Hermes](https://hermes-agent.nousresearch.com/docs/) pointing to my remote instance while also having a second profile — `macbook-local` — running **100% on my Mac**. Switching between them directly from the desktop app.
 

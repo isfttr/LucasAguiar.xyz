@@ -15,6 +15,9 @@ tags:
   - regulacao
   - evento
 translation_source_hash: b230d7e23cb1a129d903133eda61941bb700d2025d480b2239d6c5949140e232
+slug: copyright-ai-challenges-inpi-experts
+aliases:
+  - /posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/
 ---
 The rapid evolution of generative artificial intelligence has profoundly transformed the processes of creation, production, circulation, and exploitation of intellectual content — and copyright, which historically has been shaped around the figure of the human creator, currently faces one of its greatest adaptation tests.
 

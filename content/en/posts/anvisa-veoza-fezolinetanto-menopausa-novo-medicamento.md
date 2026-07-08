@@ -15,6 +15,9 @@ tags:
   - inovacao
   - propriedade-intelectual
 translation_source_hash: dbe27d69d8f177bfc5745db2e88d5690c393a57646cfbb81e312792a229f6479
+slug: first-non-hormonal-veoza-hot-flashes-brazil
+aliases:
+  - /posts/anvisa-veoza-fezolinetanto-menopausa-novo-medicamento/
 ---
 On June 23, 2026, the National Health Surveillance Agency (ANVISA) approved the registration of the drug Veoza™ (fezolinetant), a selective neurokinin-3 (NK3) receptor antagonist indicated for the treatment of moderate to severe vasomotor symptoms (VMS) associated with menopause — the popular "hot flashes" or hot waves.
 

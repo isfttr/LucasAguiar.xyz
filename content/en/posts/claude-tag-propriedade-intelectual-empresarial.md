@@ -15,6 +15,9 @@ tags:
   - inovacao
   - tecnologia
 translation_source_hash: 2b42b6d75c0c5433edc1820bc78908885c6040d8a4e3d2fb7d1fa3f9525e4910
+slug: claude-tag-risk-companies-intellectual-property
+aliases:
+  - /posts/claude-tag-propriedade-intelectual-empresarial/
 ---
 On June 12, 2026, Anthropic announced *Claude Tag* — a feature that transforms Claude from an isolated assistant into a "team member" integrated directly into companies' workflows, such as Slack, shared documents, and internal knowledge bases. The [official announcement](https://www.anthropic.com/news/introducing-claude-tag) was met with concern by many who are closely following AI development: finally, an AI that doesn't need its own interface, that sees the complete context of projects, and that proactively executes tasks.
 

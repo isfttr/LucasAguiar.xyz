@@ -15,6 +15,9 @@ tags:
   - productivity
   - versao-controle
 translation_source_hash: bb0c9d84668c2092361176dff382f8cb19b95549c006f813458ca2d31d7cd8e2
+slug: gitbutler-terminal-commands
+aliases:
+  - /posts/gitbutler-terminal-cli-tui-2026/
 ---
 It's 11 PM on a Friday night, you open the terminal, type `mkdir`, `git init`, and dive into the code. Two hours later, the editor is full of tabs, you have half a dozen modified files, and that voice in your head says: "this deserves some organized commits."
 

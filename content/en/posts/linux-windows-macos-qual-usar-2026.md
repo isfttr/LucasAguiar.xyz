@@ -2,9 +2,7 @@
 date: 2026-05-05T00:06:23.000Z
 draft: false
 title: 'Linux, Windows or macOS: Which Operating System to Use in 2026?'
-description: "Honest perspective from someone who used all three systems for years — why I
-  chose macOS, when Linux is really worth it, and what still bothers me about
-  Windows."
+description: Honest perspective from someone who used all three systems for years — why I chose macOS, when Linux is really worth it, and what still bothers me about Windows.
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-macos-linux-windows-2026.png
 categories:
@@ -18,6 +16,9 @@ tags:
   - hardware
   - software
 translation_source_hash: 40dc64e52a6db24fab83162eeda34944b3094657bc77735310e9996223c67cb5
+slug: linux-windows-macos-operating-system-2026
+aliases:
+  - /posts/linux-windows-macos-qual-usar-2026/
 ---
 I got the idea for this text after learning from the channel [Fireship](https://youtu.be/lkifbWtxxlk?si=mf2wmPKzUIz33mC) about the latest exploit in the Linux kernel that was related to a 2017 commit. And last week, I was discussing with friends who work with data science why I prefer to stay away from Linux today.
 

@@ -1,9 +1,9 @@
 ---
-date: 2025-03-27T21:51:38-03:00
+date: 2025-03-28T00:51:38.000Z
 draft: false
-title: "INPI's Ambitious Automation Roadmap"
-description: "This initiative aims to streamline the patent process, enhance user experience, and improve the efficiency of patent examiners."
-url: ""
+title: INPI's Ambitious Automation Roadmap
+description: This initiative aims to streamline the patent process, enhance user experience, and improve the efficiency of patent examiners.
+url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-inpi-roadmap.png
 categories:
   - article
@@ -16,7 +16,9 @@ tags:
   - automation
   - artificial intelligence
   - copilot
-
+slug: inpi-ambitious-automation-roadmap
+aliases:
+  - /posts/inpi-automation-roadmap-2025-2029/
 ---
 
 

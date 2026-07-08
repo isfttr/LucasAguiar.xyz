@@ -14,6 +14,9 @@ tags:
   - self-hosting
   - tutorial
 translation_source_hash: a3ad4de02966644b9e5fc4144d5a604a5388873f060b1f949545ab14523a8d2e
+slug: migrate-proxmox-ve-8-9-step-guide
+aliases:
+  - /posts/migracao-proxmox-8-9-2026/
 ---
 Proxmox VE 9 is now available, bringing as its main new features the Debian 13 "Trixie" base, the Proxmox kernel 6.14 (based on Ubuntu 24.04 LTS), and ZFS 2.3 with draid support and compression improvements. If you are still on PVE 8, the migration is straightforward, but requires attention to a few details — especially repositories, cluster, and storage compatibility.
 

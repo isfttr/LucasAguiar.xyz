@@ -1,9 +1,9 @@
 ---
-date: 2025-04-13T00:11:32-03:00
+date: 2025-04-13T03:11:32.000Z
 draft: false
-title: "From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors"
-description: "A personal review of my experiences with Cursor, Windsurf, and other modern code editors, including their AI capabilities, extension support, and overall user experience."
-url: ""
+title: 'From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors'
+description: A personal review of my experiences with Cursor, Windsurf, and other modern code editors, including their AI capabilities, extension support, and overall user experience.
+url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-cursor-windsurf.png
 categories:
   - article
@@ -15,6 +15,9 @@ tags:
   - windsurf
   - zed
   - artificial-intelligence
+slug: cursor-windsurf-zed-ai-code-editors
+aliases:
+  - /posts/experience-with-cursor-and-windsurf/
 ---
 
 Over the past few months, I've been on a journey to find the perfect code editor that balances excellent developer experience with the productivity boost of AI assistance. This exploration came after I had already spent almost two years using VS Code, which I adopted after ditching Emacs and Neovim in search of a more modern editing experience. My latest search led me through several modern editors, primarily those in the VSCodium family, with some interesting detours along the way. Here's my experience and what I've learned.

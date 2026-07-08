@@ -1,9 +1,9 @@
 ---
 date: 2026-06-28T13:00:00.000Z
 draft: true
-title: "IP in Sports is Booming: 65,000+ Patents, 1.25M Trademarks, and What It Means [2026]"
-description: "WIPO data reveals sports-related IP is growing at nearly 2x the global average. Golf, swimming, and racket sports lead in patent filings, while Disney and Apple dominate trademarks. A data-driven look at the IP-sports economy."
-featured_image: ""
+title: 'IP in Sports is Booming: 65,000+ Patents, 1.25M Trademarks, and What It Means [2026]'
+description: WIPO data reveals sports-related IP is growing at nearly 2x the global average. Golf, swimming, and racket sports lead in patent filings, while Disney and Apple dominate trademarks. A data-driven look at the IP-sports economy.
+featured_image: ''
 categories:
   - article
 tags:
@@ -13,6 +13,9 @@ tags:
   - industrial-designs
   - inovacao
   - esportes
+slug: ip-sports-booming-patents-trademarks-2026
+aliases:
+  - /posts/wipo-ip-sports-booming-2026/
 ---
 
 The World Intellectual Property Organization (WIPO) released new data on April 25, 2026 marking World IP Day, and the numbers tell a clear story: **intellectual property in the sports industry is growing at nearly twice the rate of the global IP average.**

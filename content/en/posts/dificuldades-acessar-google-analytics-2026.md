@@ -13,6 +13,9 @@ tags:
   - privacidade
   - troubleshooting
 translation_source_hash: 582601dba8766264ef4d1f9d465a84a9d5d9dbb336dd7a4510edbf31791dcfa8
+slug: difficulties-accessing-google-analytics-2026
+aliases:
+  - /posts/dificuldades-acessar-google-analytics-2026/
 ---
 If you are reading this article, you have probably already encountered a blank screen, an infinite loading loop, or the message *"Something went wrong. Please try again later."* when trying to access Google Analytics.
 

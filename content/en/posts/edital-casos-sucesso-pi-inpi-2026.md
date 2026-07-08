@@ -14,6 +14,9 @@ tags:
   - inovacao
   - editais
 translation_source_hash: 7c3babd512435d43742f71f947f29b0f6980f9dd8e5774e95d11c9e54f7f6f2c
+slug: inpi-call-proposals-intellectual-property-success-stories
+aliases:
+  - /posts/edital-casos-sucesso-pi-inpi-2026/
 ---
 The National Institute of Industrial Property (INPI) published **Public Call No. 01/2026** to select success stories related to the strategic use of intellectual property assets. The initiative aims to form the **INPI Intellectual Property Success Stories Database**, bringing together experiences that demonstrate how IP can contribute to innovation, competitiveness, economic development, and social impact in Brazil.
 

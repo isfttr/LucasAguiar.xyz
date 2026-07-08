@@ -1,9 +1,9 @@
 ---
-date: 2025-03-08T00:47:39-03:00
+date: 2025-03-08T03:47:39.000Z
 draft: false
 title: Script for Updating Open WebUI in a Proxmox LXC
-description:
-url: ""
+description: null
+url: ''
 featured_image: /images/open-webui-script-thumb.png
 categories:
   - article
@@ -14,6 +14,9 @@ tags:
   - script
   - Docker
   - open-webui
+slug: script-updating-open-webui-proxmox-lxc
+aliases:
+  - /posts/script-update-open_webui-lxc/
 ---
 
 A really simple script for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.

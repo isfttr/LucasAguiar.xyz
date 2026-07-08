@@ -13,6 +13,9 @@ tags:
   - vibe coding
   - claude
 translation_source_hash: c3ef67f6465ddc33298f31a5e9c43408f4bf6972af68b52d7e65dfe3cf3a80cb
+slug: breaking-up-vibe-coding
+aliases:
+  - /posts/vibe-coding-pitfalls/
 ---
 
 We've all been there: headphones on, music pumping, fingers flying across the keyboard, lost in the "flow" with your favorite AI agent. This, my friends, is vibe coding. It's when you're in the zone, seemingly effortlessly producing code.

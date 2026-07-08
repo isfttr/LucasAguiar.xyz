@@ -14,6 +14,9 @@ tags:
   - regulacao
   - haia
 translation_source_hash: ec57f0f950d8a8fec66946f0662b3d8b1b1cd02496dbdec734411df226f9a7fe
+slug: inpi-updates-manual-industrial-designs-2026
+aliases:
+  - /posts/inpi-atualiza-manual-de-desenhos-industriais/
 ---
 The INPI published on June 26, 2026, the latest update to the **Industrial Designs Manual**, the document that consolidates the rules and procedures for the registration of industrial designs in Brazil. Although the update is specific in scope — copies of documents, unionist priority, and petitions for compliance with requirements — it arrives at a strategic moment for the sector.
 
