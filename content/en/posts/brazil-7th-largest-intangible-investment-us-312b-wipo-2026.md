@@ -82,8 +82,9 @@ For anyone working in IP, innovation, and industrial policy, this is a milestone
 
 Read also:
 
-- [IP in Sports: WIPO Reveals Patent and Trademark Boom]({{< relref "posts/wipo-ip-sports-booming-2026/" >}})
-- [WIPO Launches AI Infrastructure Interchange: A New Global Forum for AI and IP]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
+- [Brasil é a 7ª Maior Economia em Ativos Intangíveis com US$ 312 Bi: O que o Relatório da OMPI Revela [2026]]({{< relref "posts/brasil-7a-maior-economia-ativos-intangiveis-us-312-bi-ompi-2026/" >}})
+- [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 
 ---
 

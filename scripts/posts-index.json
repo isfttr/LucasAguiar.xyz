@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T21:20:26.537Z",
+  "last_updated": "2026-07-09T14:15:00.411Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2037,8 +2037,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until July 24. Understand the new registrability criteria, the drafts of the normative act, and the examination guidelines.",
-      "content_hash_en": "3970eab273a13019cfa7b9b00937991e8ba53729c22fa9f2ad7a6de41a79433c",
+      "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
+      "content_hash_en": "6e884ca839fdb1709d5f2a57fdd8632124ae1c326f448ed1fb77249f0f0b7748",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
@@ -2067,6 +2067,55 @@
         "vibe-coding-pitfalls",
         "claude-sonnet-5-2026",
         "vibe-coding-pitfalls"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "brazil-7th-largest-intangible-investment-us-312b-wipo-2026": {
+      "slug": "brazil-7th-largest-intangible-investment-us-312b-wipo-2026",
+      "title_en": "Brazil Is the 7th Largest Intangible Investor at US$ 312 Billion: What WIPO's Report Reveals [2026]",
+      "title_pt": "Brazil Is the 7th Largest Intangible Investor at US$ 312 Billion: What WIPO's Report Reveals [2026]",
+      "tags": [
+        "inpi",
+        "wipo",
+        "innovation",
+        "intangible-assets",
+        "intellectual-property"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Brazil invested US$ 312 billion in intangible assets in 2023 (7.6% of GDP), ranking 7th globally. Brands, software, R&D and data — the INPI-WIPO report explained.",
+      "content_hash_en": "5c1765ee2c9093ec608dd5e3d1a4a34b565a0151da0089996ee32f25bf6b1fe6",
+      "backlinks": [
+        "brasil-7a-maior-economia-ativos-intangiveis-us-312-bi-ompi-2026",
+        "mapa-global-patentes-pct-2025-brasil",
+        "wipo-lanca-artificial-intelligence-infrastructure-interchange"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-09T14:15:00.410Z"
+    },
+    "brasil-7a-maior-economia-ativos-intangiveis-us-312-bi-ompi-2026": {
+      "slug": "brasil-7a-maior-economia-ativos-intangiveis-us-312-bi-ompi-2026",
+      "title_en": "Brasil é a 7ª Maior Economia em Ativos Intangíveis com US$ 312 Bi: O que o Relatório da OMPI Revela [2026]",
+      "title_pt": "Brasil é a 7ª Maior Economia em Ativos Intangíveis com US$ 312 Bi: O que o Relatório da OMPI Revela [2026]",
+      "tags": [
+        "inpi",
+        "ompi",
+        "inovacao",
+        "ativos-intangiveis",
+        "propriedade-intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Brasil investiu US$ 312 bilhões em ativos intangíveis em 2023 (7,6% do PIB) e está entre os 7 maiores do mundo. Marcas, software, P&D e dados: entenda o relatório inédito do INPI e da OMPI.",
+      "content_hash_en": null,
+      "content_hash_pt": "20d65e669271cbfa107b6e3fc6ed301d90215f7d3d60e0587888178fdde789ca",
+      "backlinks": [
+        "pi-esporte-dados-ompi-2026",
+        "wipo-lanca-artificial-intelligence-infrastructure-interchange",
+        "inpi-credenciamento-busca-anterioridade-patentes"
       ],
       "backlink_source": "file",
       "last_processed": null
