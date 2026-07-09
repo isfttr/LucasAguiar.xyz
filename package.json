@@ -9,7 +9,9 @@
     "backfill-en-slugs": "node scripts/backfill-en-slugs.js",
     "fix-links": "node scripts/fix-links.js",
     "suggest-backlinks": "node scripts/suggest-backlinks.js",
-    "annotate": "node scripts/posthog-annotate.js"
+    "annotate": "node scripts/posthog-annotate.js",
+    "fetch-post-views": "node scripts/fetch-post-views.js",
+    "dev": "npm run fetch-post-views && hugo server -D"
   },
   "repository": {
     "type": "git",

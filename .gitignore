@@ -19,5 +19,7 @@ node_modules/*
 .hugo_build.lock
 /public/
 /resources/_gen/
+# View counts gerados no build pelo scripts/fetch-post-views.js (efêmero)
+data/post_views.json
 *.env
 .env
