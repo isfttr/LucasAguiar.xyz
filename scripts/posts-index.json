@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T19:51:46.557Z",
+  "last_updated": "2026-07-09T19:53:14.202Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2158,14 +2158,63 @@
         "article"
       ],
       "description_en": "AI has flipped the cost-benefit analysis of codebase rewrites. Consistent patterns get 10x more leverage from LLMs than proprietary, messy codebases. Here's what that means for your tech stack decisions.",
-      "content_hash_en": "1545f3100565e14c17b0a797bda622cbc04e49860e1885d015f0a3a2dd7e6156",
+      "content_hash_en": "272ac95774a34e66e36e23b558dc6d3b16de58695aaba1cf2e49aa65ff5255e1",
       "backlinks": [
         "ai-copy-paste-problem",
         "experience-with-cursor-and-windsurf",
         "making-of-claude-code-origin-story-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-09T19:51:46.557Z"
+    },
+    "abpi-ustr-section-301-brazilian-ip-system-2026": {
+      "slug": "abpi-ustr-section-301-brazilian-ip-system-2026",
+      "title_en": "ABPI Defends Brazilian IP System Before USTR: Understanding the Section 301 Investigation and Its Impacts [2026]",
+      "title_pt": "ABPI Defends Brazilian IP System Before USTR: Understanding the Section 301 Investigation and Its Impacts [2026]",
+      "tags": [
+        "intellectual-property",
+        "abpi",
+        "ustr",
+        "inpi",
+        "international-trade"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "ABPI submitted formal comments to the USTR contesting preliminary findings of a Section 301 investigation recommending 25% tariffs on Brazilian products based on alleged IP system deficiencies.",
+      "content_hash_en": "f1eab2ae2cb4c9c1c65ee0dddd6a5ba833ad1f38dac672ca75994ae7eda252dc",
+      "backlinks": [
+        "abpi-ustr-secao-301-sistema-brasileiro-pi-2026",
+        "trf2-decisao-abpi-fortalecimento-inpi",
+        "backlog-inpi-patentes-farmaceuticas"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-09T19:53:14.202Z"
+    },
+    "abpi-ustr-secao-301-sistema-brasileiro-pi-2026": {
+      "slug": "abpi-ustr-secao-301-sistema-brasileiro-pi-2026",
+      "title_en": "ABPI Defende Sistema Brasileiro de PI no USTR: Entenda a Investigação Seção 301 e os Impactos [2026]",
+      "title_pt": "ABPI Defende Sistema Brasileiro de PI no USTR: Entenda a Investigação Seção 301 e os Impactos [2026]",
+      "tags": [
+        "propriedade-intelectual",
+        "abpi",
+        "ustr",
+        "inpi",
+        "comercio-internacional"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "ABPI apresentou manifestação ao USTR em Washington contestando conclusões preliminares da investigação Seção 301 que recomendam tarifas de 25% sobre produtos brasileiros com base em supostas deficiências no sistema de PI.",
+      "content_hash_en": null,
+      "content_hash_pt": "ce8cc8f5a012f716e8613382a98de57657c117ea91f8a2b73ea78ec2e106acc0",
+      "backlinks": [
+        "trf2-decisao-abpi-fortalecimento-inpi",
+        "inpi-automation-roadmap-2025-2029",
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }

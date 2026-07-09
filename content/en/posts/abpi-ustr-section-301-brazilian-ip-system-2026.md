@@ -61,6 +61,12 @@ The association reaffirmed that Brazil ensures equal treatment to domestic and f
 - New INPI data on backlog reduction and examination timelines
 - Progress of IP discussions under GIPI and ENPI, which may generate new system-strengthening measures
 
+Read also:
+
+- [ABPI Defende Sistema Brasileiro de PI no USTR: Entenda a Investigação Seção 301 e os Impactos [2026]]({{< relref "posts/abpi-ustr-secao-301-sistema-brasileiro-pi-2026/" >}})
+- [TRF-2 confirms ruling that paves the way for the restructuring of INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+
 ---
 
 Feel free to reach out to discuss this and other topics at <contact@lucasaguiar.xyz>
