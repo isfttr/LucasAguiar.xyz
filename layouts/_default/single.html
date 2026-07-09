@@ -56,6 +56,16 @@
   </div>
   {{ end }}
 
+  {{/* View count (PostHog) — end of article. Hidden when there's no data
+       (e.g. local `hugo server` without running `npm run fetch-post-views`). */}}
+  {{ $views := partial "func/post-views.html" . }}
+  {{ if gt $views 0 }}
+  {{ $sep := cond (eq .Site.Language.Lang "pt") "." "," }}
+  <div class="post-viewcount container">
+    {{ lang.FormatNumberCustom 0 $views "." $sep }} {{ if eq .Site.Language.Lang "pt" }}visualizações{{ else }}views{{ end }}
+  </div>
+  {{ end }}
+
   {{/* Related posts + buy me a coffee */}}
   <div class="post-extras">
     {{- partial "buy-me-coffee.html" . -}}

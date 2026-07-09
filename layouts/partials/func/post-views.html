@@ -1,0 +1,17 @@
+{{- /*
+  Retorna (return) as views totais de um post lidas de data/post_views.json,
+  somando a UNIÃO de URLs que o post já teve — .RelPermalink (atual),
+  /<seção>/<nome-do-arquivo>/ e .Aliases — para sobreviver a slug drift.
+  Retorna 0 se não houver data file. Uso: {{ $v := partial "func/post-views.html" . }}
+  (Partial de valor: não pode emitir texto, por isso o whitespace é todo aparado.)
+*/ -}}
+{{- $p := . -}}
+{{- $total := 0 -}}
+{{- with $p.Site.Data.post_views -}}{{- with .posts -}}
+  {{- $views := . -}}
+  {{- $keys := slice $p.RelPermalink -}}
+  {{- with $p.File -}}{{- $keys = $keys | append (printf "%s%s/" $p.CurrentSection.RelPermalink .ContentBaseName) -}}{{- end -}}
+  {{- range $p.Aliases -}}{{- $keys = $keys | append (cond (strings.HasSuffix . "/") . (printf "%s/" .)) -}}{{- end -}}
+  {{- range $k := (uniq $keys) -}}{{- $total = add $total (index $views $k | default 0) -}}{{- end -}}
+{{- end -}}{{- end -}}
+{{- return $total -}}
