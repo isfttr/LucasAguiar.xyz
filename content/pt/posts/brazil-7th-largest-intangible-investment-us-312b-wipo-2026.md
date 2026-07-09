@@ -82,8 +82,8 @@ Para qualquer pessoa que trabalhe com PI, inovação e política industrial, est
 Leia também:
 
 - [Brasil é a 7ª Maior Economia em Ativos Intangíveis com US$ 312 Bi: O que o Relatório da OMPI Revela [2026]]({{< relref "posts/brasil-7a-maior-economia-ativos-intangiveis-us-312-bi-ompi-2026/" >}})
-- [O Mapa Global da Inovação em 2025: Quem Está Patenteando o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [OMPI lança o Intercâmbio de Infraestrutura de Inteligência Artificial: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
+- [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 
 ---
 

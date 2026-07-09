@@ -91,11 +91,11 @@ The report "Brazil in the Global Intangible Investment Landscape" is available o
 
 For those working with IP, innovation, and industrial policy, this is a landmark: for the first time, Brazil has a systematic diagnosis of its intangible investment, aligned with international methodology. The next step is to see how this diagnosis translates into policies — in the LPI reform, INPI planning, and the Brazilian industrial strategy.
 
-Also read:
+Read also:
 
-- [IP in Sports: WIPO Reveals Boom in Patents and Trademarks [2026]]({{< relref "posts/pi-esporte-dados-ompi-2026/" >}})
+- [IP in Sport: WIPO Reveals Patent and Trademark Boom [2026]]({{< relref "posts/pi-esporte-dados-ompi-2026/" >}})
 - [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
-- [INPI will pay R$ 1,025 per patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 
 ---
 

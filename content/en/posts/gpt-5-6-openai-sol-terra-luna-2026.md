@@ -77,11 +77,11 @@ Pricing details remain behind Cloudflare, but the tier structure (Sol / Terra / 
 2. **Self-improvement loops.** If Sol can train Luna, can a future Sol train Sol? That's the recursive self-improvement scenario everyone is watching.
 3. **Pricing war.** With Muse Spark 1.1, Claude Sonnet 5, and GPT-5.6 all available in the same week, API prices are under heavy pressure.
 
-Also read:
+Read also:
 
-- [GPT-5.6 HN discussion](https://news.ycombinator.com/item?id=48849066)
-- [Meta Muse Spark 1.1 — 1M context, agentic orchestration](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)
-- [ARC-AGI verified results: GPT-5.6 Sol](https://arcprize.org/results/openai-gpt-5-6)
+- [Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [SubQ: The First Fully Subquadratic LLM — Cost Comparison with Transformers [2026]]({{< relref "posts/subq-subquadratic-llm-atencao-linear-comparacao-custos-2026/" >}})
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
 
 ---
 
