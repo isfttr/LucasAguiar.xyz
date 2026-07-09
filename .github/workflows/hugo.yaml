@@ -13,6 +13,11 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+  # Rebuild daily so the popularity ranking / "most read" data refreshes even when
+  # no new content is pushed (view counts change continuously).
+  schedule:
+    - cron: '0 6 * * *'
+
   # Runs after the auto-translation (last step of the content chain) finishes.
   # Bot commits made with GITHUB_TOKEN do not trigger the push event above, so
   # without this the translated/backlinked content is never deployed.
@@ -71,11 +76,22 @@ jobs:
       - name: Install Dart Sass
         run: npm install -g sass
       - name: Install Node.js dependencies
-        if: ${{ github.event_name == 'push' || github.event_name == 'workflow_run' }}
+        if: ${{ github.event_name == 'push' || github.event_name == 'workflow_run' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         run: |
           if [[ -f package-lock.json || -f npm-shrinkwrap.json ]]; then
             npm ci
-          fi          
+          fi
+      - name: Fetch PostHog view counts
+        # Best-effort: writes data/post_views.json for the popularity ranking.
+        # A PostHog failure must never break the deploy (the script also exits 0
+        # on error and writes an empty file → Hugo falls back to chronological).
+        continue-on-error: true
+        env:
+          POSTHOG_QUERY_API_KEY: ${{ secrets.POSTHOG_QUERY_API_KEY }}
+          POSTHOG_PROJECT_ID: '404499'
+          POSTHOG_API_HOST: 'https://us.posthog.com'
+          VIEWS_WINDOW_DAYS: '0'
+        run: npm run fetch-post-views
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
