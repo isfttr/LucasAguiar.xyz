@@ -50,7 +50,8 @@
       </div>
     </div>
 
-    {{/* Entry list */}}
+    {{/* Entry list + rail "Mais lidos" (só na seção de posts) */}}
+    <div class="ed-grid-layout">
     <div class="blog-list">
       {{ range $allPosts }}
       <article class="blog-entry"
@@ -73,6 +74,8 @@
         </div>
       </article>
       {{ end }}
+    </div>
+    {{ if eq .Section "posts" }}{{ partial "most-read.html" . }}{{ end }}
     </div>
 
     {{/* ── Bottom CTAs ── */}}

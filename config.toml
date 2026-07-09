@@ -51,6 +51,9 @@ contactEndpoint = "https://script.google.com/macros/s/AKfycbxzcBA38-8e9imy8LUqOe
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-black"
 recent_posts_number = 3
+# Decaimento do ranking da home por popularidade: score = (views+1)/(idade_dias+2)^gravity.
+# Maior = decai mais rápido (favorece posts novos); menor = evergreen dura mais.
+rankingGravity = 1.2
 
 [taxonomies]
 category = "categories"

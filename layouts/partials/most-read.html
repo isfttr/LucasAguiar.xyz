@@ -1,0 +1,43 @@
+{{/*
+  Seção "Mais lidos (7 dias)" — lê data/post_views.json (trending_7d por idioma),
+  resolve cada pathname para a Page do idioma atual (título/link corretos) e
+  renderiza um <ol>. Não renderiza nada se não houver dados (fallback silencioso).
+  Contexto (.) = a página atual (home).
+*/}}
+{{ with .Site.Data.post_views }}
+  {{ $lang := $.Site.Language.Lang }}
+  {{ $list := index .trending_7d $lang }}
+  {{ with $list }}
+    {{/* lookup pathname -> Page das páginas do idioma atual. Inclui a URL atual
+         (.RelPermalink), a derivada do nome do arquivo e os aliases, para casar com
+         views acumuladas em URLs antigas (slug drift). */}}
+    {{ $lookup := dict }}
+    {{ range $pg := $.Site.RegularPages }}
+      {{ $lookup = merge $lookup (dict $pg.RelPermalink $pg) }}
+      {{ with $pg.File }}{{ $lookup = merge $lookup (dict (printf "%s%s/" $pg.CurrentSection.RelPermalink .ContentBaseName) $pg) }}{{ end }}
+      {{ range $pg.Aliases }}{{ $lookup = merge $lookup (dict (cond (strings.HasSuffix . "/") . (printf "%s/" .)) $pg) }}{{ end }}
+    {{ end }}
+    {{ $items := slice }}
+    {{ range . }}
+      {{ with index $lookup .path }}
+        {{ $items = $items | append . }}
+      {{ end }}
+    {{ end }}
+    {{ with $items }}
+    <aside class="ed-mostread">
+      <div class="ed-mostread-head">
+        <span class="mono-label">{{ if eq $lang "pt" }}Mais lidos{{ else }}Most read{{ end }}</span>
+        <span class="ed-mostread-sub">{{ if eq $lang "pt" }}7 dias{{ else }}7 days{{ end }}</span>
+      </div>
+      <ol class="ed-mostread-list">
+        {{ range $i, $p := . }}
+        <li class="ed-mostread-item">
+          <span class="ed-mostread-num">{{ printf "%02d" (add $i 1) }}</span>
+          <a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
+        </li>
+        {{ end }}
+      </ol>
+    </aside>
+    {{ end }}
+  {{ end }}
+{{ end }}

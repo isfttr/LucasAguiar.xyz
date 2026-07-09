@@ -1,6 +1,24 @@
 {{ define "main" }}
 {{ $mainSections := .Site.Params.mainSections | default (slice "posts") }}
-{{ $posts := where .Site.RegularPages "Section" "in" $mainSections }}
+{{ $all := where .Site.RegularPages "Section" "in" $mainSections }}
+
+{{/* ── Ordenação por popularidade: score = (views + 1) / (idade_dias + 2)^gravity ──
+     views vêm de data/post_views.json (por .RelPermalink). `boost` multiplica e
+     `pinned` empurra pro topo (frontmatter). Sem data file → score vira recência
+     pura (≈ cronológico), sem quebra. */}}
+{{ $gravity := .Site.Params.rankingGravity | default 1.2 }}
+{{ $now := now.Unix }}
+{{ $ranked := slice }}
+{{ range $p := $all }}
+  {{/* views somadas pela união de URLs do post (ver func/post-views.html — slug drift) */}}
+  {{ $v := partial "func/post-views.html" $p }}
+  {{ $age := div (sub $now $p.Date.Unix) 86400.0 }}
+  {{ $score := div (add $v 1) (math.Pow (add $age 2.0) $gravity) }}
+  {{ $score = mul $score ($p.Params.boost | default 1) }}
+  {{ if $p.Params.pinned }}{{ $score = add $score 1000000000.0 }}{{ end }}
+  {{ $ranked = $ranked | append (dict "page" $p "score" $score) }}
+{{ end }}
+{{ $posts := apply (sort $ranked "score" "desc") "index" "." "page" }}
 {{ $featured := index $posts 0 }}
 {{ $recent := after 1 (first 4 $posts) }}
 
