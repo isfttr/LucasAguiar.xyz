@@ -80,9 +80,9 @@ Os detalhes de preços permanecem atrás do Cloudflare, mas a estrutura de níve
 
 Leia também:
 
-- [Claude Sonnet 5: O Modelo de IA Mais Agêntico da Anthropic Chega a um Preço Reduzido [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [Claude Sonnet 5: Janela de Contexto Limitada o torna útil apenas como subagente]({{< relref "posts/claude-sonnet-5-2026/" >}})
 - [SubQ: O Primeiro LLM Totalmente Subquadrático — Comparação de Custos com Transformers [2026]]({{< relref "posts/subq-subquadratic-llm-atencao-linear-comparacao-custos-2026/" >}})
-- [Dentro dos Cérebros de IA: Como a Anthropic Decodificou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T18:08:54.674Z",
+  "last_updated": "2026-07-09T19:51:46.557Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2086,7 +2086,7 @@
         "article"
       ],
       "description_en": "Brazil invested US$ 312 billion in intangible assets in 2023 (7.6% of GDP), ranking 7th globally. Brands, software, R&D and data — the INPI-WIPO report explained.",
-      "content_hash_en": "cf5cdbfa06475336d41f7143092fc997ff27853d864851d96605ac5506b93ca4",
+      "content_hash_en": "392a79e0d66249eaf906d38709e3122ec830a7565107851d8b593c401eb58e20",
       "backlinks": [
         "brasil-7a-maior-economia-ativos-intangiveis-us-312-bi-ompi-2026",
         "mapa-global-patentes-pct-2025-brasil",
@@ -2110,7 +2110,7 @@
         "article"
       ],
       "description_en": "Brazil invested US$ 312 billion in intangible assets in 2023 (7.6% of GDP) and is among the top 7 in the world. Brands, software, R&D and data: understand the unprecedented report from INPI and WIPO.",
-      "content_hash_en": "04f7caf4017a66a3328ae1fdf5bd3bdbf549dbc47d2b71e7bf768812bf58934c",
+      "content_hash_en": "4e78abbfbc6bde5ed6f248072634dfd3bd32bc32f64ce0d0876193eb31d4b164",
       "backlinks": [
         "pi-esporte-dados-ompi-2026",
         "wipo-lanca-artificial-intelligence-infrastructure-interchange",
@@ -2122,7 +2122,7 @@
     "gpt-5-6-openai-sol-terra-luna-2026": {
       "slug": "gpt-5-6-openai-sol-terra-luna-2026",
       "title_en": "GPT-5.6 [2026]: Sol, Terra, Luna — OpenAI's Three-Tier Frontier Model Family",
-      "title_pt": "GPT-5.6 [2026]: Sol, Terra, Luna — OpenAI's Three-Tier Frontier Model Family",
+      "title_pt": "GPT-5.6 [2026]: Sol, Terra, Luna — Família de Modelos de Fronteira de Três Camadas da OpenAI",
       "tags": [
         "ai",
         "openai",
@@ -2134,14 +2134,38 @@
         "article"
       ],
       "description_en": "OpenAI launches GPT-5.6 with Sol, Terra, and Luna variants — the first frontier model to beat ARC-AGI-3. Performance, benchmarks, and what this means.",
-      "content_hash_en": "f51ea7b7eb2a8437aaa07396387f52f6fb95f16a93932e79bc330e88c9eb7bfe",
+      "content_hash_en": "958aee98d38446b8a619b00d41d7b1fd08b4981161d1cbb001d3d5ef514f609e",
       "backlinks": [
         "claude-sonnet-5-2026",
         "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
         "anthropic-thinking-process-paper"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-09T18:08:54.674Z"
+    },
+    "ai-changes-software-rewrite-economics-2026": {
+      "slug": "ai-changes-software-rewrite-economics-2026",
+      "title_en": "How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage",
+      "title_pt": "How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage",
+      "tags": [
+        "ai",
+        "software-engineering",
+        "best-practices",
+        "dev",
+        "productivity"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "AI has flipped the cost-benefit analysis of codebase rewrites. Consistent patterns get 10x more leverage from LLMs than proprietary, messy codebases. Here's what that means for your tech stack decisions.",
+      "content_hash_en": "1545f3100565e14c17b0a797bda622cbc04e49860e1885d015f0a3a2dd7e6156",
+      "backlinks": [
+        "ai-copy-paste-problem",
+        "experience-with-cursor-and-windsurf",
+        "making-of-claude-code-origin-story-2026"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-09T19:51:46.557Z"
     }
   }
 }

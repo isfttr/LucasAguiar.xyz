@@ -72,10 +72,11 @@ AI changes the economics of software rewrites because codebases with clear, comm
 
 You could either be using AI to solve the problem, or you could spend the time trying to get AI to learn your language first. That lost time is your competitors' advantage, and the gap is not just speed — it's output quality.
 
-Also read:
+Read also:
 
-- [Vibe Coding Pitfalls: What AI-Assisted Development Gets Wrong]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [One Week with GitButler: A New Git Workflow for AI-Assisted Development]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [The AI Copy-Paste Problem: Killing Software Lock-In & Why Data Portability is Key]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [The Making of Claude Code: From Internal CLI to Anthropic's Coding Agent [2026]]({{< relref "posts/making-of-claude-code-origin-story-2026/" >}})
 
 ---
 
