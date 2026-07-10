@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T14:22:48.684Z",
+  "last_updated": "2026-07-10T18:09:10.702Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2182,7 +2182,7 @@
         "article"
       ],
       "description_en": "ABPI submitted formal comments to the USTR contesting preliminary findings of a Section 301 investigation recommending 25% tariffs on Brazilian products based on alleged IP system deficiencies.",
-      "content_hash_en": "838cff2baaa85f9f8cbf26b7dfaa7095f57ad5b537c806804bbf019668d302cb",
+      "content_hash_en": "9f7b1bbf2d860390d0cf2db243137c376737ae65eb0bf76eaa9da49de07ac321",
       "backlinks": [
         "abpi-ustr-secao-301-sistema-brasileiro-pi-2026",
         "trf2-decisao-abpi-fortalecimento-inpi",
@@ -2206,7 +2206,7 @@
         "article"
       ],
       "description_en": "ABPI presented a statement to the USTR in Washington contesting preliminary conclusions of the Section 301 investigation that recommend 25% tariffs on Brazilian products based on alleged deficiencies in the IP system.",
-      "content_hash_en": "851e2755f6f3672b1761dd4f2066e7d4c7ff54d4d7e0dd09d654e54ac86454da",
+      "content_hash_en": "95935183cf8a032daa4b2900a92fa5b7997bde6b504772b58bbaedf451246105",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "inpi-automation-roadmap-2025-2029",
@@ -2217,7 +2217,7 @@
     },
     "guia-indicacoes-geograficas-inpi-brasil": {
       "slug": "guia-indicacoes-geograficas-inpi-brasil",
-      "title_en": "Indicação Geográfica no INPI: Guia Completo [2026]",
+      "title_en": "Geographical Indication at INPI: Complete Guide [2026]",
       "title_pt": "Indicação Geográfica no INPI: Guia Completo [2026]",
       "tags": [
         "indicacoes-geograficas",
@@ -2229,13 +2229,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo sobre Indicações Geográficas no Brasil: tipos (indicação de procedência vs denominação de origem), passo a passo do registro no INPI, custos, legislação e benefícios para produtores.",
-      "content_hash_en": null,
-      "content_hash_pt": "ea2392f9ac3f001cc501d1d63d7323313e1e2993266ea300a4a224d230dec46f",
+      "description_en": "Complete guide to Geographical Indications in Brazil: types (indication of origin vs denomination of origin), step-by-step registration at INPI, costs, legislation and benefits for producers.",
+      "content_hash_en": "c81b3ec0c4809d90806354f581bb2cb67316fa03d6f089b3fc9bf020b29672ba",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-credenciamento-busca-anterioridade-patentes",
         "lpi-30-anos-propostas-aperfeicoamento-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "kvm-virsh-linux-virtualization-guide-2026": {
+      "slug": "kvm-virsh-linux-virtualization-guide-2026",
+      "title_en": "KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]",
+      "title_pt": "KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]",
+      "tags": [
+        "kvm",
+        "virtualization",
+        "linux",
+        "homelab",
+        "devops"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to KVM virtualization on Linux: install, configure, and manage VMs with virsh and virt-install. Covers networking, storage pools, cloud-init, and comparison with Vagrant, VirtualBox, and Proxmox.",
+      "content_hash_en": "509acbbb92e4f7d6351420a1f95a437ede24347bacd77163e7d30420664b03e9",
+      "backlinks": [
+        "proxmox-backup-server-community-scripts-2026",
+        "proxmox-mac-mini-2018-t2",
+        "troubleshooting-proxmox-login-interface"
       ],
       "backlink_source": "file",
       "last_processed": null

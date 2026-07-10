@@ -381,11 +381,11 @@ KVM is the Linux kernel's native virtualization engine. Learning to use it direc
 
 Start with a single VM. Learn virsh list, virsh start, virsh console. Then move on to networking, storage pools, and cloud-init. By the time you need to scale, you'll understand exactly what's happening under the hood — no abstraction layer standing between you and your VMs.
 
-Also read:
+Read also:
 
-- [Proxmox Backup Server: Setup Guide with Community Scripts]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
-- [Proxmox on Mac Mini 2018: Troubleshooting the T2 Chip]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
-- [Linux vs Windows vs macOS — Which to Use in 2026?]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
+- [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
 ---
 
