@@ -1,6 +1,6 @@
 ---
 date: 2026-07-10T11:20:28-03:00
-draft: true
+draft: false
 title: "Indicação Geográfica no INPI: Guia Completo [2026]"
 description: "Guia completo sobre Indicações Geográficas no Brasil: tipos (indicação de procedência vs denominação de origem), passo a passo do registro no INPI, custos, legislação e benefícios para produtores."
 featured_image: ""
