@@ -1,6 +1,6 @@
 ---
 date: 2026-07-10T15:05:54-03:00
-draft: true
+draft: false
 title: "KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]"
 description: "Complete guide to KVM virtualization on Linux: install, configure, and manage VMs with virsh and virt-install. Covers networking, storage pools, cloud-init, and comparison with Vagrant, VirtualBox, and Proxmox."
 featured_image: ""
@@ -14,11 +14,7 @@ tags:
   - devops
 ---
 
-São Paulo was hot and humid that January night. I was two hours deep into yet another Vagrant `up` that kept failing on NFS mount syncing, watching the same amber terminal cursor blink back at me. The VM had booted. SSH worked. But `config.vm.synced_folder` was just not cooperating — and I couldn't even SSH into the box to fix it because Vagrant's libvirt provider was wrestling with the networking layer. I killed the process, deleted the `.vagrant` directory, and decided I was done.
 
-I didn't need Vagrant. I needed KVM.
-
-## What is KVM?
 
 KVM (Kernel-based Virtual Machine) is a type-1 hypervisor built directly into the Linux kernel since version 2.6.20 (2007). It turns the Linux kernel into a bare-metal hypervisor — no host OS overhead, no extra abstraction layer — just your hardware, the kernel, and virtual machines running at near-native performance.
 
@@ -361,19 +357,6 @@ When to use Proxmox instead:
 - **You need clustering and live migration** — Proxmox has built-in HA.
 
 The blog already has guides on [Proxmox Backup Server setup]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}}), [running Proxmox on a Mac Mini]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}}), and [troubleshooting Proxmox login issues]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}}). The difference is that those assume you're using Proxmox's abstraction layer — this guide teaches you what's underneath.
-
-## What I Learned Ditching Vagrant
-
-Going back to the story that opened this post: after that late-night Vagrant failure, I deleted the `.vagrant` directory, installed `virt-install` and `virsh`, and never looked back.
-
-What changed:
-
-1. **Transparency.** When a VM doesn't boot, virsh console shows you exactly why — no Vagrant middleware obscuring the QEMU error.
-2. **Speed.** VMs boot ~2x faster through virsh than through Vagrant's provider layer.
-3. **Control.** Networking is just a bridge config. Storage is just a pool path. No DSL to learn — just standard Linux tools.
-4. **Portability.** A VMs XML definition is portable across any libvirt host. No Vagrantfile needed.
-
-The tradeoff: you lose Vagrant's box ecosystem and `vagrant up` simplicity. For quick dev environments, Vagrant still has its place. But for homelab VMs, CI runners, and persistent servers, KVM + virsh is the right tool.
 
 ## Conclusion
 
