@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T18:48:31.020Z",
+  "last_updated": "2026-07-10T18:51:22.437Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2229,8 +2229,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to Geographical Indications in Brazil: types (indication of origin vs denomination of origin), step-by-step registration at INPI, costs, legislation and benefits for producers.",
-      "content_hash_en": "2596e57fd4cc98dc2bf129c4d162f53c67bb03bf04852e5ce3bbf8e186e631a6",
+      "description_en": "Complete guide to Geographical Indications in Brazil: types (indication of source vs denomination of origin), step-by-step registration at INPI, costs, legislation, and benefits for producers.",
+      "content_hash_en": "4089c034e9249e5f2620dc89fb52c4e8a85156ebd0929ca0c18acf7f373c53f0",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-credenciamento-busca-anterioridade-patentes",
@@ -2254,7 +2254,7 @@
         "article"
       ],
       "description_en": "Complete guide to KVM virtualization on Linux: install, configure, and manage VMs with virsh and virt-install. Covers networking, storage pools, cloud-init, and comparison with Vagrant, VirtualBox, and Proxmox.",
-      "content_hash_en": "122706c4424f437a02ae88ff201ccd48b66d799da8b55545a4567f0e0a75d506",
+      "content_hash_en": "e0aed6becfc9355d12c67df35d135d357ee6a1d47d1663b6ce6bf832225ca98d",
       "backlinks": [
         "proxmox-backup-server-community-scripts-2026",
         "proxmox-mac-mini-2018-t2",
