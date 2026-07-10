@@ -384,9 +384,9 @@ Comece com uma única VM. Aprenda virsh list, virsh start, virsh console. Depois
 
 Leia também:
 
-- [Proxmox Backup Server: instalação via community-scripts e configuração de backup [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
-- [Como instalar Proxmox VE no Mac Mini 2018 (chip T2): o guia passo a passo que funcionou]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
-- [Corrigir erros de login na interface web do Proxmox; um guia passo a passo]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Proxmox Backup Server: instalação via community-scripts e configuração de backups [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [Corrigindo Erros de Login na Interface Web do Proxmox: Guia Passo a Passo]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T18:09:10.702Z",
+  "last_updated": "2026-07-10T18:48:31.020Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2230,7 +2230,7 @@
         "article"
       ],
       "description_en": "Complete guide to Geographical Indications in Brazil: types (indication of origin vs denomination of origin), step-by-step registration at INPI, costs, legislation and benefits for producers.",
-      "content_hash_en": "c81b3ec0c4809d90806354f581bb2cb67316fa03d6f089b3fc9bf020b29672ba",
+      "content_hash_en": "2596e57fd4cc98dc2bf129c4d162f53c67bb03bf04852e5ce3bbf8e186e631a6",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-credenciamento-busca-anterioridade-patentes",
@@ -2242,7 +2242,7 @@
     "kvm-virsh-linux-virtualization-guide-2026": {
       "slug": "kvm-virsh-linux-virtualization-guide-2026",
       "title_en": "KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]",
-      "title_pt": "KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]",
+      "title_pt": "KVM e Virsh no Linux: Guia Completo para Máquinas Virtuais [2026]",
       "tags": [
         "kvm",
         "virtualization",
@@ -2254,7 +2254,7 @@
         "article"
       ],
       "description_en": "Complete guide to KVM virtualization on Linux: install, configure, and manage VMs with virsh and virt-install. Covers networking, storage pools, cloud-init, and comparison with Vagrant, VirtualBox, and Proxmox.",
-      "content_hash_en": "509acbbb92e4f7d6351420a1f95a437ede24347bacd77163e7d30420664b03e9",
+      "content_hash_en": "122706c4424f437a02ae88ff201ccd48b66d799da8b55545a4567f0e0a75d506",
       "backlinks": [
         "proxmox-backup-server-community-scripts-2026",
         "proxmox-mac-mini-2018-t2",
