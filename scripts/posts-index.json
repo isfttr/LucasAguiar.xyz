@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T19:53:14.202Z",
+  "last_updated": "2026-07-10T14:22:48.684Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2146,7 +2146,7 @@
     "ai-changes-software-rewrite-economics-2026": {
       "slug": "ai-changes-software-rewrite-economics-2026",
       "title_en": "How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage",
-      "title_pt": "How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage",
+      "title_pt": "Como a IA Muda a Economia das Reescrevaturas de Software [2026]: Por que a Consistência do Código-Fonte é Sua Nova Vantagem Competitiva",
       "tags": [
         "ai",
         "software-engineering",
@@ -2170,7 +2170,7 @@
     "abpi-ustr-section-301-brazilian-ip-system-2026": {
       "slug": "abpi-ustr-section-301-brazilian-ip-system-2026",
       "title_en": "ABPI Defends Brazilian IP System Before USTR: Understanding the Section 301 Investigation and Its Impacts [2026]",
-      "title_pt": "ABPI Defends Brazilian IP System Before USTR: Understanding the Section 301 Investigation and Its Impacts [2026]",
+      "title_pt": "ABPI Defende o Sistema de PI Brasileiro Perante o USTR: Entendendo a Investigação da Seção 301 e Seus Impactos [2026]",
       "tags": [
         "intellectual-property",
         "abpi",
@@ -2182,18 +2182,18 @@
         "article"
       ],
       "description_en": "ABPI submitted formal comments to the USTR contesting preliminary findings of a Section 301 investigation recommending 25% tariffs on Brazilian products based on alleged IP system deficiencies.",
-      "content_hash_en": "f1eab2ae2cb4c9c1c65ee0dddd6a5ba833ad1f38dac672ca75994ae7eda252dc",
+      "content_hash_en": "838cff2baaa85f9f8cbf26b7dfaa7095f57ad5b537c806804bbf019668d302cb",
       "backlinks": [
         "abpi-ustr-secao-301-sistema-brasileiro-pi-2026",
         "trf2-decisao-abpi-fortalecimento-inpi",
         "backlog-inpi-patentes-farmaceuticas"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-09T19:53:14.202Z"
     },
     "abpi-ustr-secao-301-sistema-brasileiro-pi-2026": {
       "slug": "abpi-ustr-secao-301-sistema-brasileiro-pi-2026",
-      "title_en": "ABPI Defende Sistema Brasileiro de PI no USTR: Entenda a Investigação Seção 301 e os Impactos [2026]",
+      "title_en": "ABPI Defends Brazilian IP System at USTR: Understand the Section 301 Investigation and the Impacts [2026]",
       "title_pt": "ABPI Defende Sistema Brasileiro de PI no USTR: Entenda a Investigação Seção 301 e os Impactos [2026]",
       "tags": [
         "propriedade-intelectual",
@@ -2205,13 +2205,37 @@
       "categories": [
         "article"
       ],
-      "description_en": "ABPI apresentou manifestação ao USTR em Washington contestando conclusões preliminares da investigação Seção 301 que recomendam tarifas de 25% sobre produtos brasileiros com base em supostas deficiências no sistema de PI.",
-      "content_hash_en": null,
-      "content_hash_pt": "ce8cc8f5a012f716e8613382a98de57657c117ea91f8a2b73ea78ec2e106acc0",
+      "description_en": "ABPI presented a statement to the USTR in Washington contesting preliminary conclusions of the Section 301 investigation that recommend 25% tariffs on Brazilian products based on alleged deficiencies in the IP system.",
+      "content_hash_en": "851e2755f6f3672b1761dd4f2066e7d4c7ff54d4d7e0dd09d654e54ac86454da",
       "backlinks": [
         "trf2-decisao-abpi-fortalecimento-inpi",
         "inpi-automation-roadmap-2025-2029",
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "guia-indicacoes-geograficas-inpi-brasil": {
+      "slug": "guia-indicacoes-geograficas-inpi-brasil",
+      "title_en": "Indicação Geográfica no INPI: Guia Completo [2026]",
+      "title_pt": "Indicação Geográfica no INPI: Guia Completo [2026]",
+      "tags": [
+        "indicacoes-geograficas",
+        "inpi",
+        "propriedade-intelectual",
+        "marcas",
+        "guia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo sobre Indicações Geográficas no Brasil: tipos (indicação de procedência vs denominação de origem), passo a passo do registro no INPI, custos, legislação e benefícios para produtores.",
+      "content_hash_en": null,
+      "content_hash_pt": "ea2392f9ac3f001cc501d1d63d7323313e1e2993266ea300a4a224d230dec46f",
+      "backlinks": [
+        "quanto-custa-registrar-marca-inpi-2026",
+        "inpi-credenciamento-busca-anterioridade-patentes",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi"
       ],
       "backlink_source": "file",
       "last_processed": null

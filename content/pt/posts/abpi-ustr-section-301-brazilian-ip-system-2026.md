@@ -65,7 +65,7 @@ A associação reafirmou que o Brasil garante tratamento igualitário aos titula
 Leia também:
 
 - [ABPI Defende Sistema Brasileiro de PI no USTR: Entenda a Investigação Seção 301 e os Impactos [2026]]({{< relref "posts/abpi-ustr-secao-301-sistema-brasileiro-pi-2026/" >}})
-- [TRF-2 confirma decisão que abre caminho para reestruturação do INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [TRF-2 Obriga União a Reestruturar o INPI: O que Isso Significa para suas Patentes?]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
 - [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
 
 ---

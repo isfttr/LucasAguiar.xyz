@@ -72,9 +72,9 @@ The ABPI's participation in the process — presenting concrete data and a techn
 
 Read also:
 
-- [TRF-2 Orders Union to Restructure INPI: What Does This Mean for Your Patents?]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
-- [INPI 4.0: The INPI Automation Plan (2025-2029) and the Future of Patents in Brazil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
-- [INPI launches new version of the Patent Module: what changes in 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
+- [TRF-2 confirms ruling that paves the way for the restructuring of INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [INPI launches new version of the Patents Module: what changes in 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
 
 ---
 

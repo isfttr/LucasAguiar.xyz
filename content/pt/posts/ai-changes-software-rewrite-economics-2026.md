@@ -75,9 +75,9 @@ Você pode estar usando IA para resolver o problema, ou pode gastar o tempo tent
 
 Leia também:
 
-- [The AI Copy-Paste Problem: Killing Software Lock-In & Why Data Portability is Key]({{< relref "posts/ai-copy-paste-problem/" >}})
-- [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [The Making of Claude Code: From Internal CLI to Anthropic's Coding Agent [2026]]({{< relref "posts/making-of-claude-code-origin-story-2026/" >}})
+- [O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software & Por Que a Portabilidade de Dados é Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [Cursor vs Windsurf vs Zed 2026: Qual Editor de Código com IA é o Melhor?]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [A Criação do Claude Code: Da CLI Interna ao Agente de Codificação da Anthropic [2026]]({{< relref "posts/making-of-claude-code-origin-story-2026/" >}})
 
 ---
 

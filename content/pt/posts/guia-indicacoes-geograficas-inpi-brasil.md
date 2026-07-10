@@ -196,9 +196,9 @@ Para produtores, associações e cooperativas brasileiras interessadas em proteg
 
 Leia também:
 
-- [Quanto Custa Registrar uma Marca no INPI em 2026? Tabela Completa]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
-- [LPI 30 anos: as propostas de aperfeiçoamento submetidas ao INPI]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---
 
