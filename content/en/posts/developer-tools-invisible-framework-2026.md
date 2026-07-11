@@ -135,10 +135,11 @@ The sign that you've found the right tool is simple: you stop thinking about it.
 
 ---
 
-Also read:
+Read also:
 
-- [Two Weeks with GitButler: Streamlining My Git Workflow]({{< relref "posts/two-weeks-gitbutler-streamlining-git-workflow/" >}})
-- [GitButler in the Terminal: CLI and TUI Guide]({{< relref "posts/gitbutler-terminal-commands/" >}})
+- [Two Weeks with GitButler: Streamlining My Git Workflow]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [GitButler in the Terminal]({{< relref "posts/gitbutler-terminal-cli-tui-2026/" >}})
 
 ---
 

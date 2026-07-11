@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T14:12:49.703Z",
+  "last_updated": "2026-07-11T18:06:08.399Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2265,7 +2265,7 @@
     },
     "guia-registro-programa-computador-inpi": {
       "slug": "guia-registro-programa-computador-inpi",
-      "title_en": "Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]",
+      "title_en": "How to Register a Computer Program at the INPI: Complete Step-by-Step Guide [2026]",
       "title_pt": "Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]",
       "tags": [
         "registro-software",
@@ -2277,16 +2277,39 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo para registro de software no INPI: taxas, documentos necessários, certificado digital ICP-Brasil, GRU, e-Software e prazos. Passo a passo para pessoa física e jurídica.",
-      "content_hash_en": null,
-      "content_hash_pt": "2910ed1c71782bdcc5b8e881b8c57e0406185ed816c4bde665a76943d4511389",
+      "description_en": "Complete guide to registering software at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software, and deadlines. Step-by-step for individuals and legal entities.",
+      "content_hash_en": "9b0decd734074fc58e7d0e5bf20019abdd47e8ed4b8b15394a19aa1a50b51968",
       "backlinks": [
         "inpi-acesso-cnpj-conta-govbr-guia-2026",
-        "quanto-custa-registrar-marca-inpi-2026",
-        "inpi-acesso-cnpj-conta-govbr-guia-2026"
+        "inpi-acesso-cnpj-conta-govbr-guia-2026",
+        "quanto-custa-registrar-marca-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "developer-tools-invisible-framework-2026": {
+      "slug": "developer-tools-invisible-framework-2026",
+      "title_en": "How to Choose Developer Tools That Last: The Invisible Tools Framework [2026]",
+      "title_pt": "How to Choose Developer Tools That Last: The Invisible Tools Framework [2026]",
+      "tags": [
+        "developer-tools",
+        "productivity",
+        "workflow",
+        "editors",
+        "cli"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "A practical framework for evaluating developer tools based on whether they disappear into your workflow — avoiding identity traps, puzzle-gaming limitations, and the sunk cost of steep learning curves.",
+      "content_hash_en": "494c852d3ab2b124fd3cd65ac2da3db686666926baeb70ba3e281aec38aa8f6a",
+      "backlinks": [
+        "one-week-review-gitbutler",
+        "experience-with-cursor-and-windsurf",
+        "gitbutler-terminal-cli-tui-2026"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-11T18:06:08.398Z"
     }
   }
 }
