@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T18:51:22.437Z",
+  "last_updated": "2026-07-11T14:12:49.703Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2230,7 +2230,7 @@
         "article"
       ],
       "description_en": "Complete guide to Geographical Indications in Brazil: types (indication of source vs denomination of origin), step-by-step registration at INPI, costs, legislation, and benefits for producers.",
-      "content_hash_en": "4089c034e9249e5f2620dc89fb52c4e8a85156ebd0929ca0c18acf7f373c53f0",
+      "content_hash_en": "d1917a7e8d022a856add4c07c8d16041bcaee17185e7232fd1336dc4e610b841",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-credenciamento-busca-anterioridade-patentes",
@@ -2259,6 +2259,31 @@
         "proxmox-backup-server-community-scripts-2026",
         "proxmox-mac-mini-2018-t2",
         "troubleshooting-proxmox-login-interface"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "guia-registro-programa-computador-inpi": {
+      "slug": "guia-registro-programa-computador-inpi",
+      "title_en": "Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]",
+      "title_pt": "Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]",
+      "tags": [
+        "registro-software",
+        "inpi",
+        "programa-de-computador",
+        "propriedade-intelectual",
+        "guia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo para registro de software no INPI: taxas, documentos necessários, certificado digital ICP-Brasil, GRU, e-Software e prazos. Passo a passo para pessoa física e jurídica.",
+      "content_hash_en": null,
+      "content_hash_pt": "2910ed1c71782bdcc5b8e881b8c57e0406185ed816c4bde665a76943d4511389",
+      "backlinks": [
+        "inpi-acesso-cnpj-conta-govbr-guia-2026",
+        "quanto-custa-registrar-marca-inpi-2026",
+        "inpi-acesso-cnpj-conta-govbr-guia-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
