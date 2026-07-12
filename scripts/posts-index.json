@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T18:06:08.399Z",
+  "last_updated": "2026-07-12T14:14:00.831Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2265,7 +2265,7 @@
     },
     "guia-registro-programa-computador-inpi": {
       "slug": "guia-registro-programa-computador-inpi",
-      "title_en": "How to Register a Computer Program at the INPI: Complete Step-by-Step Guide [2026]",
+      "title_en": "How to Register a Computer Program at INPI: Complete Step-by-Step Guide [2026]",
       "title_pt": "Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]",
       "tags": [
         "registro-software",
@@ -2277,12 +2277,12 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to registering software at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software, and deadlines. Step-by-step for individuals and legal entities.",
-      "content_hash_en": "9b0decd734074fc58e7d0e5bf20019abdd47e8ed4b8b15394a19aa1a50b51968",
+      "description_en": "Complete guide to software registration at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software, and deadlines. Step by step for individuals and legal entities.",
+      "content_hash_en": "81d01a484af47125e9c11645d46b4160562205c928d98876f788f195f318df51",
       "backlinks": [
         "inpi-acesso-cnpj-conta-govbr-guia-2026",
         "inpi-acesso-cnpj-conta-govbr-guia-2026",
-        "quanto-custa-registrar-marca-inpi-2026"
+        "inpi-acesso-cnpj-conta-govbr-guia-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2290,7 +2290,7 @@
     "developer-tools-invisible-framework-2026": {
       "slug": "developer-tools-invisible-framework-2026",
       "title_en": "How to Choose Developer Tools That Last: The Invisible Tools Framework [2026]",
-      "title_pt": "How to Choose Developer Tools That Last: The Invisible Tools Framework [2026]",
+      "title_pt": "Como Escolher Ferramentas para Desenvolvedores que Duram: O Framework das Ferramentas Invisíveis [2026]",
       "tags": [
         "developer-tools",
         "productivity",
@@ -2302,14 +2302,65 @@
         "article"
       ],
       "description_en": "A practical framework for evaluating developer tools based on whether they disappear into your workflow — avoiding identity traps, puzzle-gaming limitations, and the sunk cost of steep learning curves.",
-      "content_hash_en": "494c852d3ab2b124fd3cd65ac2da3db686666926baeb70ba3e281aec38aa8f6a",
+      "content_hash_en": "0d44a8e0c13db4018167d626afbb7829dfb90a605025958ace27f7c9cec5141e",
       "backlinks": [
         "one-week-review-gitbutler",
         "experience-with-cursor-and-windsurf",
         "gitbutler-terminal-cli-tui-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-11T18:06:08.398Z"
+    },
+    "industrial-design-registration-brazil-inpi-2026-guide": {
+      "slug": "industrial-design-registration-brazil-inpi-2026-guide",
+      "title_en": "Industrial Design Registration in Brazil: Complete Step-by-Step Guide [2026]",
+      "title_pt": "Industrial Design Registration in Brazil: Complete Step-by-Step Guide [2026]",
+      "tags": [
+        "industrial-design",
+        "inpi",
+        "intellectual-property",
+        "design",
+        "guide",
+        "hague"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to industrial design registration at the Brazilian INPI: updated fees, required documents, e-DI filing steps, validity terms, Hague Agreement international route, and differences from patents and trademarks.",
+      "content_hash_en": "76bbe1d72eed0de83ab377571364903e336159f1ef0527bf9dcc8852f20cb7cf",
+      "backlinks": [
+        "quanto-custa-registrar-marca-inpi-2026",
+        "inpi-atualiza-manual-de-desenhos-industriais",
+        "guia-registro-programa-computador-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "guia-registro-desenho-industrial-inpi-2026": {
+      "slug": "guia-registro-desenho-industrial-inpi-2026",
+      "title_en": "Registro de Desenho Industrial no INPI: Guia Completo Passo a Passo [2026]",
+      "title_pt": "Registro de Desenho Industrial no INPI: Guia Completo Passo a Passo [2026]",
+      "tags": [
+        "desenhos-industriais",
+        "inpi",
+        "propriedade-intelectual",
+        "design",
+        "guia",
+        "haia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo para registro de desenho industrial no INPI: taxas atualizadas, documentos necessários, passo a passo do e-DI, prazos de validade, Acordo de Haia e diferenças para patentes e marcas.",
+      "content_hash_en": null,
+      "content_hash_pt": "260885f12bf81e89911f5b6ecad00f8e47e4c8f4b5a4077aaf2fd5c0086e3fc5",
+      "backlinks": [
+        "inpi-acesso-cnpj-conta-govbr-guia-2026",
+        "quanto-custa-registrar-marca-inpi-2026",
+        "inpi-atualiza-manual-de-desenhos-industriais"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }

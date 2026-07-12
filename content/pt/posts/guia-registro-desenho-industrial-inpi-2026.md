@@ -224,10 +224,9 @@ A atualização do Manual de DI pelo INPI em junho/2026 mostra que o órgão est
 
 Leia também:
 
-- [Quanto Custa Registrar uma Marca no INPI em 2026?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [INPI atualiza Manual de Desenhos Industriais: o que muda]({{< relref "posts/inpi-atualiza-manual-de-desenhos-industriais/" >}})
-- [Como Registrar um Programa de Computador no INPI: Guia Completo]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
-- [Guia de Indicação Geográfica no INPI]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
+- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI atualiza Manual de Desenhos Industriais: o que muda para empresas e designers [2026]]({{< relref "posts/inpi-atualiza-manual-de-desenhos-industriais/" >}})
 
 ---
 

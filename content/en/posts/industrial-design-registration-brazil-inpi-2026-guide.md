@@ -198,9 +198,9 @@ The June 2026 Manual update shows INPI is fine-tuning procedures to keep pace wi
 
 Read also:
 
-- [How Much Does It Cost to Register a Trademark in Brazil?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [INPI Updates Industrial Design Manual: What Changes]({{< relref "posts/inpi-atualiza-manual-de-desenhos-industriais/" >}})
-- [Software Registration at INPI: Complete Guide]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI updates Manual of Industrial Designs: what changes for companies and designers [2026]]({{< relref "posts/inpi-atualiza-manual-de-desenhos-industriais/" >}})
+- [How to Register a Computer Program at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
 
 ---
 

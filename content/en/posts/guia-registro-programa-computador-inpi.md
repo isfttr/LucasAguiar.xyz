@@ -159,11 +159,11 @@ Registering a computer program with the INPI is a simple process, low cost (R$ 2
 
 Developers, startups, and technology companies that have not yet registered their software are exposed to unnecessary risks in ownership disputes. The investment is small compared to the cost of a lawsuit without robust documentary evidence.
 
-Also read:
+Read also:
 
 - [INPI Clarifies Access with CNPJ on Gov.br: Guide to Link Your Company [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
 - [INPI Clarifies Access with CNPJ on Gov.br: Guide to Link Your Company [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
-- [How Much Does It Cost to Register a Trademark at the INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI Clarifies Access with CNPJ on Gov.br: Guide to Link Your Company [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
 
 ---
 
