@@ -1,8 +1,8 @@
 ---
 date: 2026-07-11T14:11:29.000Z
 draft: true
-title: 'How to Register a Computer Program at INPI: Complete Step-by-Step Guide [2026]'
-description: 'Complete guide to software registration at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software, and deadlines. Step by step for individuals and legal entities.'
+title: 'How to Register a Computer Program at the INPI: Complete Step-by-Step Guide [2026]'
+description: 'Complete guide for software registration at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software and deadlines. Step by step for individuals and legal entities.'
 featured_image: ''
 categories:
   - article
@@ -12,52 +12,52 @@ tags:
   - programa-de-computador
   - propriedade-intelectual
   - guia
-slug: register-computer-program-inpi-guide-2026
-translation_source_hash: 86afd8f59443564d839f9493dfdb888ac5c160fd6c2d8e7ac65f34014892a2a5
+slug: register-computer-program-inpi-step-by-step-guide
+translation_source_hash: cbed956a6c94af92a9cfe94b8e84550c8274c4e69e24cdaba6beccca6f859985
 ---
-Registering a computer program with the INPI is the equivalent, for a software developer, of registering a trademark or patenting an invention. Registration provides legal certainty to the holder and serves as proof of authorship and ownership in cases of judicial or commercial disputes.
+Registering a computer program with INPI is the equivalent, for a software developer, of registering a trademark or patenting an invention. Registration provides legal certainty to the holder and serves as proof of authorship and ownership in cases of judicial or commercial disputes.
 
-Unlike what many developers imagine, the INPI **does not examine the source code** — the registration is declaratory, not granting. What the INPI does is store a digital summary (hash) of the code and publish the registration in the Industrial Property Journal (RPI), creating a time stamp that proves the software existed on that date.
+Unlike what many developers imagine, INPI **does not examine the source code** — the registration is declaratory, not concessive. What INPI does is store a digital summary (hash) of the code and publish the registration in the Revista da Propriedade Industrial (RPI), creating a timestamp that proves the software existed on that date.
 
 This guide covers the entire process, from generating the hash to obtaining the certificate, based on INPI Normative Instruction No. 99/2019 and the Software Law (Law 9.609/98).
 
-## What is the Computer Program Registration at the INPI?
+## What is Computer Program Registration at INPI?
 
-The registration of a computer program at the INPI is regulated by **Law 9.609/98** (Software Law) and **INPI Normative Instruction No. 99/2019**. The service is performed exclusively under fee code **730** and costs **R$ 210.00** (check the [official fee table](https://www.gov.br/inpi/pt-br/servicos/programas-de-computador/NovaTabeladeRetribuiesINPI_SOFTWARE_versofinal.pdf) for updated amounts).
+Computer program registration at INPI is regulated by **Law 9.609/98** (Software Law) and **INPI Normative Instruction No. 99/2019**. The service is performed exclusively under fee code **730** and costs **R$ 210.00** (see the [official fee table](https://www.gov.br/inpi/pt-br/servicos/programas-de-computador/NovaTabeladeRetribuiesINPI_SOFTWARE_versofinal.pdf) for updated values).
 
-Copyright protection for software is automatic upon creation (Berne Convention, of which Brazil is a signatory along with 176 countries), but registration with the INPI is the most solid material proof of ownership available in the Brazilian legal system.
+Software copyright protection is automatic from creation (Berne Convention, which Brazil has signed along with 176 countries), but registration with INPI is the most solid material proof of ownership available in the Brazilian legal system.
 
 ### Why register?
 
 | Benefit | Description |
-|-----------|-----------|
-| Proof of authorship | Establishes a time stamp of the software's existence |
-| Security in litigation | Facilitates proof of ownership in legal proceedings |
-| Contracts and licensing | Requirement for formalizing rights assignment or licensing |
-| Technology transfer | Necessary for franchising and transfer agreements |
+|---------|-------------|
+| Proof of authorship | Establishes a timestamp of the software's existence |
+| Security in litigation | Facilitates proof of ownership in legal actions |
+| Contracts and licensing | Requirement to formalize rights assignment or licensing |
+| Technology transfer | Necessary for franchising and transfer contracts |
 | International protection | Recognized in the 176 signatory countries of the Berne Convention |
 
 ## Prerequisites
 
 Before starting the application, you need:
 
-1. **Qualified ICP-Brasil digital certificate** — mandatory. The INPI system **does not accept** advanced signatures, including Gov.br and ACOAB. Only A1 or A3 certificates issued by an Accredited Certification Authority accredited by ICP-Brasil (e.g., Certisign, Soluti, Serasa).
-2. **Registration on e-INPI** — necessary to access the petitioning systems. See our [guide to accessing INPI with CNPJ and Gov.br account]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}}).
-3. **Software source code** — to generate the hash summary.
-4. **Paid GRU** — Union Collection Guide, code 730 (R$ 210.00).
+1. **Qualified ICP-Brasil digital certificate** — mandatory. The INPI system **does not accept** advanced signatures, including Gov.br and ACOAB. Only A1 or A3 certificates issued by a Certification Authority accredited by ICP-Brasil (e.g., Certisign, Soluti, Serasa).
+2. **Registration in e-INPI** — required to access the petitioning systems. See our [guide to accessing INPI with CNPJ and Gov.br account]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}}).
+3. **Software source code** — to generate the hash digest.
+4. **Paid GRU** — Federal Collection Guide, code 730 (R$ 210.00).
 
 > ⚠️ **Check the validity of your digital certificate** on the [official ITI validator](https://validar.iti.gov.br/) before starting. Expired or non-qualified certificates are rejected by the INPI system.
 
 ## Step-by-Step Registration
 
-### 1. Generate the Hash Summary of the Source Code
+### 1. Generate the Source Code Hash Digest
 
-The first step is to generate a **digital hash summary** (SHA-256 is the most common) of the file containing the source code. This hash is what will be deposited with the INPI — the code itself remains confidential.
+The first step is to generate a **digital hash digest** (SHA-256 is most common) of the file containing the source code. This hash is what will be deposited with INPI — the code itself remains confidential.
 
 On a Linux or macOS terminal:
 
 ```bash
-sha256sum meu-software.zip > hash-software.txt
+sha256sum my-software.zip > hash-software.txt
 # Or, for a directory:
 find src/ -type f -exec sha256sum {} \; | sort | sha256sum
 ```
@@ -65,19 +65,19 @@ find src/ -type f -exec sha256sum {} \; | sort | sha256sum
 On Windows (PowerShell):
 
 ```powershell
-Get-FileHash -Algorithm SHA256 .\meu-software.zip
+Get-FileHash -Algorithm SHA256 .\my-software.zip
 ```
 
 > 📌 **Best practice:** keep a copy of the original file on the same date as the hash generation. If there is a judicial dispute years later, you will need to demonstrate that the hash corresponds to the original file. It is recommended to store a copy on sealed physical media or in immutable storage.
 
-### 2. Prepare the Declaration of Truth (DV)
+### 2. Prepare the Declaration of Veracity (DV)
 
-The Declaration of Truth is a document generated by the INPI's own GRU system. You must:
+The Declaration of Veracity is a document generated by the INPI GRU system itself. You must:
 
-1. Access the [GRU issuance system](https://www.gov.br/inpi/pt-br/servacos/gru) on the INPI website
-2. Select code 730 (Application for Registration of Computer Programs)
-3. Fill in the applicant's details
-4. **Download the automatically generated Declaration of Truth**
+1. Access the [INPI GRU issuance system](https://www.gov.br/inpi/pt-br/servacos/gru)
+2. Select code 730 (Computer Program Registration Request)
+3. Fill in the applicant's data
+4. **Download the automatically generated Declaration of Veracity**
 5. **Digitally sign** the DV with your qualified ICP-Brasil certificate
 6. Generate the GRU for payment
 
@@ -85,57 +85,57 @@ The digitally signed DV must be attached to the application at the petitioning s
 
 ### 3. Pay the GRU — Code 730 (R$ 210.00)
 
-The registration application fee is **R$ 210.00** (code 730). The GRU can be paid at any accredited bank (including internet banking).
+The registration request fee is **R$ 210.00** (code 730). The GRU can be paid at any accredited bank (including internet banking).
 
 | Service | Code | Amount (R$) |
-|---------|--------|-----------|
-| Application for Registration of Computer Program | 730 | **210.00** |
+|---------|------|-------------|
+| Computer Program Registration Request | 730 | **210.00** |
 | Name change (individual) | 731 | 210.00 |
 | Corporate name change (legal entity) | 732 | 210.00 |
 | Ownership transfer | 704 | 210.00 |
-| Request to lift confidentiality | 719 | 1,350.00 |
+| Request for lifting of confidentiality | 719 | 1,350.00 |
 | Data correction on certificate (due to applicant's fault) | 747 | 210.00 |
 
-> 💡 **Keep the GRU number** ("Our Number") — you will need it at the petitioning stage and, if there are system issues, to retrieve the application protocol.
+> 💡 **Keep the GRU number** ("Our Number") — you will need it at the petitioning stage and, if there are system issues, to recover the application protocol.
 
-### 4. Access e-Software and Fill in the Application
+### 4. Access e-Software and Fill Out the Application
 
 With the GRU paid and the DV signed, access the [e-Software system](https://www.gov.br/inpi/pt-br/servicos/programas-de-computador/peticionamento) (login with digital certificate required).
 
 In the form you must provide:
 
-- **Holder data** (individual: CPF, name; legal entity: CNPJ, corporate name)
+- **Owner data** (individual: CPF, name; legal entity: CNPJ, company name)
 - **Software data** (title, version, creation date, programming language)
-- **Hash summary** generated in step 1
-- **Digitally signed Declaration of Truth**
-- **Power of attorney** (if there is a representative) — must also be digitally signed
+- **Hash digest** generated in step 1
+- **Digitally signed Declaration of Veracity**
+- **Power of attorney** (if there is an attorney-in-fact) — must also be digitally signed
 
-In July 2026, the computer program petitioning system experienced instability between June 20 and 30, but was restored on July 1. If you filed a petition during that period and did not receive the protocol, access the petitioning area, enter the GRU number, and download the protocol.
+In July 2026, the computer program petitioning system experienced instability between June 20 and 30, but was restored on July 1. If you petitioned during that period and did not receive the protocol, access the petitioning area, enter the GRU number, and download the protocol.
 
-### 5. Follow the Progress
+### 5. Monitor the Progress
 
-After filing the application, the publication deadline is **up to 10 days** from the application date. Progress can be tracked in two ways:
+After the application is filed, the publication deadline is **up to 10 days** from the application date. Progress can be monitored in two ways:
 
-- **RPI (Industrial Property Journal):** published every Tuesday. Consult the Computer Programs section.
-- **My Applications (BuscaWeb):** register your application number at [BuscaWeb](https://busca.inpi.gov.br/) to receive email notifications. Attention: this is an additional service and does not replace consulting the RPI.
+- **RPI (Industrial Property Gazette):** published every Tuesday. Check in the Computer Programs section.
+- **My Requests (BuscaWeb):** register your application number on [BuscaWeb](https://busca.inpi.gov.br/) to receive email notifications. Note: this is an additional service and does not replace consulting the RPI.
 
 ### 6. Download the Registration Certificate
 
-After publication in the RPI, the digital computer program registration certificate becomes available for download in the e-Software system. The certificate contains the holder's data, software title, filing date, and registration number.
+After publication in the RPI, the digital computer program registration certificate becomes available for download in the e-Software system. The certificate contains the owner's data, the software title, the filing date, and the registration number.
 
-## Validity of Registration
+## Validity of the Registration
 
-The computer program registration is valid for **50 years** from **January 1 of the year following its creation** or the creation date, whichever is more favorable to the holder.
+Computer program registration is valid for **50 years** from **January 1 of the year following its creation** or the creation date, whichever is most favorable to the owner.
 
 Example: a software created in March 2026 and registered in July 2026 will be protected until January 1, 2077 (50 years after 2027).
 
-Protection is recognized in the **176 signatory countries of the Berne Convention** (1886), which covers practically all relevant countries for the software market.
+Protection is recognized in the **176 signatory countries of the Berne Convention** (1886), covering virtually all countries relevant to the software market.
 
 ## Frequently Asked Questions
 
 ### Do I need to register the software, or does copyright already protect me?
 
-Copyright protection for software is automatic in Brazil upon creation (art. 2 of Law 9.609/98). Registration with the INPI is not mandatory, but it is **highly recommended** as material evidence. Without registration, proving authorship depends on other means of proof, which can be weak in judicial disputes.
+Software copyright protection is automatic in Brazil from creation (Article 2 of Law 9.609/98). Registration with INPI is not mandatory, but it is **highly recommended** as material proof. Without registration, proof of authorship relies on other means of evidence, which may be weak in judicial disputes.
 
 ### Can I register more than one version of the same software?
 
@@ -143,19 +143,19 @@ Yes. Each significant version can (and should) be registered separately, with it
 
 ### Can an individual register?
 
-Yes. Individuals can register software at the INPI, with CPF and digital certificate. The fee is the same (R$ 210.00). Legal entities also use the same code and amount.
+Yes. Individuals can register software with INPI, using their CPF and digital certificate. The fee is the same (R$ 210.00). Legal entities also use the same code and fee.
 
-### What does the INPI do with the source code?
+### What does INPI do with the source code?
 
-Nothing. The INPI stores only the **hash summary** of the source code, not the code itself. The code remains confidential and exclusively with the holder. That's why it is essential to keep the archived copy — the hash only proves that the file existed on that date if you can present the corresponding file.
+Nothing. INPI stores only the **hash digest** of the source code, not the code itself. The code remains confidential and exclusively in the owner's possession. Therefore, it is essential to keep the archived copy — the hash only proves the file existed on that date if you can present the corresponding file.
 
-### What if the petitioning system is offline?
+### What if the petitioning system is down?
 
-The INPI reports instabilities on its official channels. If a petition was filed during a period of instability and the protocol was not issued, access the petitioning area, enter the GRU number used, and download the protocol. If in doubt, use the [INPI service channels](https://www.gov.br/inpi/pt-br/canais-de-atendimento).
+INPI reports instabilities through its official channels. If petitioning was carried out during a period of instability and the protocol was not issued, access the petitioning area, enter the GRU number used, and download the protocol. If in doubt, use the [INPI service channels](https://www.gov.br/inpi/pt-br/canais-de-atendimento).
 
 ## Conclusion
 
-Registering a computer program with the INPI is a simple process, low cost (R$ 210.00), and provides legal certainty for 50 years. The most critical step is having a **qualified ICP-Brasil digital certificate** — without it, the system simply does not accept the application.
+Registering a computer program with INPI is a simple process, low cost (R$ 210.00), and provides legal certainty for 50 years. The most critical step is having a **qualified ICP-Brasil digital certificate** — without it, the system simply does not accept the application.
 
 Developers, startups, and technology companies that have not yet registered their software are exposed to unnecessary risks in ownership disputes. The investment is small compared to the cost of a lawsuit without robust documentary evidence.
 
@@ -167,4 +167,4 @@ Read also:
 
 ---
 
-You can get in touch to discuss this and other topics via email at <contact@lucasaguiar.xyz>
+Feel free to contact us to discuss this and other topics at <contact@lucasaguiar.xyz>
