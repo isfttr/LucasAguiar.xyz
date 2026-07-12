@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T14:14:00.831Z",
+  "last_updated": "2026-07-12T18:07:25.144Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2265,7 +2265,7 @@
     },
     "guia-registro-programa-computador-inpi": {
       "slug": "guia-registro-programa-computador-inpi",
-      "title_en": "How to Register a Computer Program at INPI: Complete Step-by-Step Guide [2026]",
+      "title_en": "How to Register a Computer Program at the INPI: Complete Step-by-Step Guide [2026]",
       "title_pt": "Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]",
       "tags": [
         "registro-software",
@@ -2277,8 +2277,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to software registration at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software, and deadlines. Step by step for individuals and legal entities.",
-      "content_hash_en": "81d01a484af47125e9c11645d46b4160562205c928d98876f788f195f318df51",
+      "description_en": "Complete guide for software registration at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software and deadlines. Step by step for individuals and legal entities.",
+      "content_hash_en": "fe33ecbcbfa8f6978821b3ca737571d8648fd341974ed98ce74c9295637fcaed",
       "backlinks": [
         "inpi-acesso-cnpj-conta-govbr-guia-2026",
         "inpi-acesso-cnpj-conta-govbr-guia-2026",
@@ -2314,7 +2314,7 @@
     "industrial-design-registration-brazil-inpi-2026-guide": {
       "slug": "industrial-design-registration-brazil-inpi-2026-guide",
       "title_en": "Industrial Design Registration in Brazil: Complete Step-by-Step Guide [2026]",
-      "title_pt": "Industrial Design Registration in Brazil: Complete Step-by-Step Guide [2026]",
+      "title_pt": "Registro de Desenho Industrial no Brasil: Guia Completo Passo a Passo [2026]",
       "tags": [
         "industrial-design",
         "inpi",
@@ -2327,7 +2327,7 @@
         "article"
       ],
       "description_en": "Complete guide to industrial design registration at the Brazilian INPI: updated fees, required documents, e-DI filing steps, validity terms, Hague Agreement international route, and differences from patents and trademarks.",
-      "content_hash_en": "76bbe1d72eed0de83ab377571364903e336159f1ef0527bf9dcc8852f20cb7cf",
+      "content_hash_en": "5cf4099d8b3474a1cd3af700c8bb16f0661de7030daa309ff1bbef734a11f1ae",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-atualiza-manual-de-desenhos-industriais",
@@ -2338,7 +2338,7 @@
     },
     "guia-registro-desenho-industrial-inpi-2026": {
       "slug": "guia-registro-desenho-industrial-inpi-2026",
-      "title_en": "Registro de Desenho Industrial no INPI: Guia Completo Passo a Passo [2026]",
+      "title_en": "Industrial Design Registration at INPI: Complete Step-by-Step Guide [2026]",
       "title_pt": "Registro de Desenho Industrial no INPI: Guia Completo Passo a Passo [2026]",
       "tags": [
         "desenhos-industriais",
@@ -2351,13 +2351,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo para registro de desenho industrial no INPI: taxas atualizadas, documentos necessários, passo a passo do e-DI, prazos de validade, Acordo de Haia e diferenças para patentes e marcas.",
-      "content_hash_en": null,
-      "content_hash_pt": "260885f12bf81e89911f5b6ecad00f8e47e4c8f4b5a4077aaf2fd5c0086e3fc5",
+      "description_en": "Complete guide to industrial design registration at INPI: updated fees, required documents, step-by-step e-DI, validity periods, Hague Agreement, and differences from patents and trademarks.",
+      "content_hash_en": "d0b2a8037ed012c92b2b480fc537ef16a3e4164abc93461964ce0ce1ec99cca1",
       "backlinks": [
         "inpi-acesso-cnpj-conta-govbr-guia-2026",
-        "quanto-custa-registrar-marca-inpi-2026",
-        "inpi-atualiza-manual-de-desenhos-industriais"
+        "inpi-acesso-cnpj-conta-govbr-guia-2026",
+        "quanto-custa-registrar-marca-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "ai-coding-agents-architectural-guide-2026": {
+      "slug": "ai-coding-agents-architectural-guide-2026",
+      "title_en": "How AI Coding Agents Actually Work: An Architectural Guide [2026]",
+      "title_pt": "How AI Coding Agents Actually Work: An Architectural Guide [2026]",
+      "tags": [
+        "artificial-intelligence",
+        "coding-agents",
+        "software-engineering",
+        "dev-tools",
+        "llm"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "AI coding agents explained from first principles: the tool-calling loop, agent architectures (single vs multi-agent, MCP), and practical tips for using them effectively in real projects.",
+      "content_hash_en": "9a92230b84e238cc4ee01f58e43b39f2afaa8894a9a105167d6f546c8d9f3e49",
+      "backlinks": [
+        "ai-changes-software-rewrite-economics-2026",
+        "vibe-coding-pitfalls",
+        "ai-changes-software-rewrite-economics-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

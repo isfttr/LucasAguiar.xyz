@@ -225,8 +225,8 @@ A atualização do Manual de DI pelo INPI em junho/2026 mostra que o órgão est
 Leia também:
 
 - [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
 - [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [INPI atualiza Manual de Desenhos Industriais: o que muda para empresas e designers [2026]]({{< relref "posts/inpi-atualiza-manual-de-desenhos-industriais/" >}})
 
 ---
 

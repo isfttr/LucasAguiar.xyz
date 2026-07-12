@@ -119,10 +119,11 @@ For editor-integrated agents, **Cursor** remains the most polished option, with 
 
 The key realization from this week's HN discussion — Tao's blog, the Lisp agent experiment, and the broader conversation — is that coding agents have crossed a threshold. They are no longer toys or curiosities. They are tools that a Fields Medalist uses for production mathematical visualization work. The question is no longer <em>if</em> you should use them, but <em>how</em>.
 
-Also read:
+Read also:
 
-- [How AI Changes the Economics of Software Rewrites]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
 - [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
 
 ---
 

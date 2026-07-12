@@ -200,7 +200,7 @@ Read also:
 
 - [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [INPI updates Manual of Industrial Designs: what changes for companies and designers [2026]]({{< relref "posts/inpi-atualiza-manual-de-desenhos-industriais/" >}})
-- [How to Register a Computer Program at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
+- [How to Register a Computer Program at the INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
 
 ---
 

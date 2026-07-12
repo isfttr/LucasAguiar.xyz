@@ -225,9 +225,9 @@ The INPI's update to the ID Manual in June 2026 shows that the agency is adjusti
 
 Read also:
 
-- [INPI Clarifies CNPJ Access with Gov.br: Guide to Link Your Company [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
-- [How Much Does It Cost to Register a Trademark at INPI in 2026? [Full Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [INPI Updates the Industrial Designs Manual: What Changes for Companies and Designers [2026]]({{< relref "posts/inpi-atualiza-manual-de-desenhos-industriais/" >}})
+- [INPI Clarifies Access with CNPJ on Gov.br: Guide to Link Your Company [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [INPI Clarifies Access with CNPJ on Gov.br: Guide to Link Your Company [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 
