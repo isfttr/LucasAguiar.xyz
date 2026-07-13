@@ -230,11 +230,11 @@ The right level of isolation depends on what you are protecting. If your project
 
 The pattern is clear: AI agents are tools, not employees. Trust them with isolated environments, not with your home directory.
 
-Also read:
+Read also:
 
+- [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
 - [GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
 - [How AI Coding Agents Actually Work: An Architectural Guide [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
-- [KVM/Virt-Manager Linux Virtualization Guide: Step-by-Step with Virsh [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
 
 ---
 

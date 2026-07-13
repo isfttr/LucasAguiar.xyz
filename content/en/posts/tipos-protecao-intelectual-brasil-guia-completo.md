@@ -157,11 +157,11 @@ To check the status of any proceeding, see the [practical guide to procedural co
 - **Budapest Treaty:** international deposit of microorganisms (Decree 13,011/2026) — see [our complete guide]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
 - **Madrid Protocol:** international trademark registration — see [INPI’s guide]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 
-Also read:
+Read also:
 
-- [INPI will pay BRL 1,025 for patent searches: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
-- [Industrial Design Registration at INPI: Complete Step‑by‑Step Guide [2026]]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
-- [How Much Does It Cost to Register a Trademark at INPI in 2026? [Full Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [Industrial Design Registration at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 

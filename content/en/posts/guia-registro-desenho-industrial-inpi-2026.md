@@ -223,11 +223,11 @@ Industrial design registration is a strategic and underutilized tool in Brazil. 
 
 The INPI's update to the ID Manual in June 2026 shows that the agency is adjusting its procedures to keep up with the growing volume of applications — driven by the accession to the Hague Agreement in 2023 and increased awareness of the importance of industrial design as an intellectual property asset.
 
-Also read:
+Read also:
 
-- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
-- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
-- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [INPI Clarifies Access with CNPJ on Gov.br: Guide to Link Your Company [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [INPI Clarifies Access with CNPJ on Gov.br: Guide to Link Your Company [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [INPI Clarifies Access with CNPJ on Gov.br: Guide to Link Your Company [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
 
 ---
 

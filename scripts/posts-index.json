@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T14:14:00.667Z",
+  "last_updated": "2026-07-13T18:08:02.323Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2351,8 +2351,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to industrial design registration at INPI: updated fees, required documents, step-by-step e-DI, validity periods, Hague Agreement and differences from patents and trademarks.",
-      "content_hash_en": "6e5bc1fa751b74eba891875f5e8ba6c80b890bee245b1732055f606d9090b9aa",
+      "description_en": "Complete guide to industrial design registration at INPI: updated fees, required documents, step-by-step e-DI, validity periods, Hague Agreement, and differences from patents and trademarks.",
+      "content_hash_en": "91f10f37ae6239cc791ee74234842ac0f082ebbcdc861d7197bae93762b08919",
       "backlinks": [
         "inpi-acesso-cnpj-conta-govbr-guia-2026",
         "inpi-acesso-cnpj-conta-govbr-guia-2026",
@@ -2388,7 +2388,7 @@
     "ip-protection-types-brazil-complete-guide": {
       "slug": "ip-protection-types-brazil-complete-guide",
       "title_en": "Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]",
-      "title_pt": "Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]",
+      "title_pt": "Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]",
       "tags": [
         "intellectual-property",
         "patents",
@@ -2402,7 +2402,7 @@
         "article"
       ],
       "description_en": "Complete guide comparing all types of IP protection in Brazil: invention patent, utility model, industrial design, trademark, geographical indication, software and plant variety. Costs, terms, legislation and when to use each.",
-      "content_hash_en": "9613b053d9e5048f80376f19c10ee5d9201ea0ea8669c06a7f00833dd627124d",
+      "content_hash_en": "b291279df8c00c349fd2980bd188210b9f7384923f593674a316bc394d5ac842",
       "backlinks": [
         "inpi-credenciamento-busca-anterioridade-patentes",
         "guia-registro-desenho-industrial-inpi-2026",
@@ -2413,7 +2413,7 @@
     },
     "tipos-protecao-intelectual-brasil-guia-completo": {
       "slug": "tipos-protecao-intelectual-brasil-guia-completo",
-      "title_en": "Tipos de Proteção Intelectual no Brasil: Guia Comparativo Completo [2026]",
+      "title_en": "Types of Intellectual Protection in Brazil: Complete Comparative Guide [2026]",
       "title_pt": "Tipos de Proteção Intelectual no Brasil: Guia Comparativo Completo [2026]",
       "tags": [
         "propriedade-intelectual",
@@ -2427,13 +2427,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo comparando os tipos de proteção intelectual no Brasil: patente de invenção, modelo de utilidade, desenho industrial, marca, indicação geográfica, programa de computador e cultivar. Custos, prazos, legislação e quando usar cada um.",
-      "content_hash_en": null,
-      "content_hash_pt": "444d64e885478e379082e653733f970a6de3da0e3798c909ed04367083aee1d5",
+      "description_en": "Complete guide comparing the types of intellectual protection in Brazil: invention patent, utility model, industrial design, trademark, geographical indication, computer program, and plant variety. Costs, deadlines, legislation, and when to use each one.",
+      "content_hash_en": "df47df3181e6cb2c2d0f69a1677860e35f3725d9b18befae400310dfb0e67a59",
       "backlinks": [
         "inpi-credenciamento-busca-anterioridade-patentes",
         "guia-registro-desenho-industrial-inpi-2026",
         "quanto-custa-registrar-marca-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "sandboxing-ai-coding-agents-guide-2026": {
+      "slug": "sandboxing-ai-coding-agents-guide-2026",
+      "title_en": "How to Safely Run AI Coding Agents: A Practical Sandboxing Guide [2026]",
+      "title_pt": "How to Safely Run AI Coding Agents: A Practical Sandboxing Guide [2026]",
+      "tags": [
+        "ai",
+        "security",
+        "dev",
+        "homelab",
+        "linux"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Step-by-step guide to sandboxing AI coding agents like Claude Code, Codex, and Cursor. Prevent data leaks, restrict network access, and run agents safely with Docker, VMs, and permission scoping.",
+      "content_hash_en": "84438a39b89535503baabeab2ec833e7a1eaf7ad8b7a61b3625882d56c841009",
+      "backlinks": [
+        "kvm-virsh-linux-virtualization-guide-2026",
+        "gitlost-github-agentic-workflows-prompt-injection-2026",
+        "ai-coding-agents-architectural-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
