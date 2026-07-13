@@ -122,9 +122,9 @@ A principal conclusão da discussão desta semana no HN — o blog do Tao, o exp
 
 Leia também:
 
-- [Como a IA Muda a Economia das Reescritas de Software [2026]: Por Que a Consistência da Base de Código é Sua Nova Vantagem Competitiva]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [Como a IA Muda a Economia das Reescrevaturas de Software [2026]: Por que a Consistência do Código-Fonte é Sua Nova Vantagem Competitiva]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
 - [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [Como a IA Muda a Economia das Reescritas de Software [2026]: Por Que a Consistência da Base de Código é Sua Nova Vantagem Competitiva]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [Como a IA Muda a Economia das Reescrevaturas de Software [2026]: Por que a Consistência do Código-Fonte é Sua Nova Vantagem Competitiva]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
 
 ---
 

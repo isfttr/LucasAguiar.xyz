@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T18:07:25.144Z",
+  "last_updated": "2026-07-13T14:14:00.667Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2327,7 +2327,7 @@
         "article"
       ],
       "description_en": "Complete guide to industrial design registration at the Brazilian INPI: updated fees, required documents, e-DI filing steps, validity terms, Hague Agreement international route, and differences from patents and trademarks.",
-      "content_hash_en": "5cf4099d8b3474a1cd3af700c8bb16f0661de7030daa309ff1bbef734a11f1ae",
+      "content_hash_en": "12c1c6189085b9e77e837f7c330dabcc90d4c815ba7f89d28de442754fe3bfe7",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-atualiza-manual-de-desenhos-industriais",
@@ -2351,12 +2351,12 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to industrial design registration at INPI: updated fees, required documents, step-by-step e-DI, validity periods, Hague Agreement, and differences from patents and trademarks.",
-      "content_hash_en": "d0b2a8037ed012c92b2b480fc537ef16a3e4164abc93461964ce0ce1ec99cca1",
+      "description_en": "Complete guide to industrial design registration at INPI: updated fees, required documents, step-by-step e-DI, validity periods, Hague Agreement and differences from patents and trademarks.",
+      "content_hash_en": "6e5bc1fa751b74eba891875f5e8ba6c80b890bee245b1732055f606d9090b9aa",
       "backlinks": [
         "inpi-acesso-cnpj-conta-govbr-guia-2026",
         "inpi-acesso-cnpj-conta-govbr-guia-2026",
-        "quanto-custa-registrar-marca-inpi-2026"
+        "inpi-acesso-cnpj-conta-govbr-guia-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2364,7 +2364,7 @@
     "ai-coding-agents-architectural-guide-2026": {
       "slug": "ai-coding-agents-architectural-guide-2026",
       "title_en": "How AI Coding Agents Actually Work: An Architectural Guide [2026]",
-      "title_pt": "How AI Coding Agents Actually Work: An Architectural Guide [2026]",
+      "title_pt": "Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]",
       "tags": [
         "artificial-intelligence",
         "coding-agents",
@@ -2376,11 +2376,64 @@
         "article"
       ],
       "description_en": "AI coding agents explained from first principles: the tool-calling loop, agent architectures (single vs multi-agent, MCP), and practical tips for using them effectively in real projects.",
-      "content_hash_en": "9a92230b84e238cc4ee01f58e43b39f2afaa8894a9a105167d6f546c8d9f3e49",
+      "content_hash_en": "32b50929e80c43bc3c97b2a79d0d7581a9353f7fcbe3fda01a499ab690954362",
       "backlinks": [
         "ai-changes-software-rewrite-economics-2026",
         "vibe-coding-pitfalls",
         "ai-changes-software-rewrite-economics-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "ip-protection-types-brazil-complete-guide": {
+      "slug": "ip-protection-types-brazil-complete-guide",
+      "title_en": "Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]",
+      "title_pt": "Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]",
+      "tags": [
+        "intellectual-property",
+        "patents",
+        "trademarks",
+        "inpi",
+        "guide",
+        "copyright",
+        "innovation"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide comparing all types of IP protection in Brazil: invention patent, utility model, industrial design, trademark, geographical indication, software and plant variety. Costs, terms, legislation and when to use each.",
+      "content_hash_en": "9613b053d9e5048f80376f19c10ee5d9201ea0ea8669c06a7f00833dd627124d",
+      "backlinks": [
+        "inpi-credenciamento-busca-anterioridade-patentes",
+        "guia-registro-desenho-industrial-inpi-2026",
+        "quanto-custa-registrar-marca-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "tipos-protecao-intelectual-brasil-guia-completo": {
+      "slug": "tipos-protecao-intelectual-brasil-guia-completo",
+      "title_en": "Tipos de Proteção Intelectual no Brasil: Guia Comparativo Completo [2026]",
+      "title_pt": "Tipos de Proteção Intelectual no Brasil: Guia Comparativo Completo [2026]",
+      "tags": [
+        "propriedade-intelectual",
+        "patentes",
+        "marcas",
+        "inpi",
+        "guia",
+        "direito-autoral",
+        "inovacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo comparando os tipos de proteção intelectual no Brasil: patente de invenção, modelo de utilidade, desenho industrial, marca, indicação geográfica, programa de computador e cultivar. Custos, prazos, legislação e quando usar cada um.",
+      "content_hash_en": null,
+      "content_hash_pt": "444d64e885478e379082e653733f970a6de3da0e3798c909ed04367083aee1d5",
+      "backlinks": [
+        "inpi-credenciamento-busca-anterioridade-patentes",
+        "guia-registro-desenho-industrial-inpi-2026",
+        "quanto-custa-registrar-marca-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

@@ -158,8 +158,9 @@ Para consultar o andamento de qualquer processo, veja o [guia prático de consul
 
 Leia também:
 
-- [Quanto custa registrar uma marca no INPI em 2026? — Tabela completa]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [Registro de Desenho Industrial no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 

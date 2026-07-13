@@ -156,8 +156,9 @@ Processing time varies greatly between modalities:
 
 Read also:
 
-- [How Much Does It Cost to Register a Trademark at INPI in 2026? — Complete Table]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [INPI to Pay R$ 1,025 for Patent Searches: Credentialing Guide]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [Industrial Design Registration at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 
