@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T18:08:02.323Z",
+  "last_updated": "2026-07-14T14:13:47.293Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2352,7 +2352,7 @@
         "article"
       ],
       "description_en": "Complete guide to industrial design registration at INPI: updated fees, required documents, step-by-step e-DI, validity periods, Hague Agreement, and differences from patents and trademarks.",
-      "content_hash_en": "91f10f37ae6239cc791ee74234842ac0f082ebbcdc861d7197bae93762b08919",
+      "content_hash_en": "45dddcdf3789a8707ecc7530a0a986d04d8859b7bb1cce4af08b96e6debe1b55",
       "backlinks": [
         "inpi-acesso-cnpj-conta-govbr-guia-2026",
         "inpi-acesso-cnpj-conta-govbr-guia-2026",
@@ -2428,7 +2428,7 @@
         "article"
       ],
       "description_en": "Complete guide comparing the types of intellectual protection in Brazil: invention patent, utility model, industrial design, trademark, geographical indication, computer program, and plant variety. Costs, deadlines, legislation, and when to use each one.",
-      "content_hash_en": "df47df3181e6cb2c2d0f69a1677860e35f3725d9b18befae400310dfb0e67a59",
+      "content_hash_en": "03ec3154a9989de248aea02b4c19a4d6572345bcf9e78a652c27c982a54a5e58",
       "backlinks": [
         "inpi-credenciamento-busca-anterioridade-patentes",
         "guia-registro-desenho-industrial-inpi-2026",
@@ -2440,7 +2440,7 @@
     "sandboxing-ai-coding-agents-guide-2026": {
       "slug": "sandboxing-ai-coding-agents-guide-2026",
       "title_en": "How to Safely Run AI Coding Agents: A Practical Sandboxing Guide [2026]",
-      "title_pt": "How to Safely Run AI Coding Agents: A Practical Sandboxing Guide [2026]",
+      "title_pt": "Como Executar com Segurança Agentes de Codificação de IA: Um Guia Prático de Sandboxing [2026]",
       "tags": [
         "ai",
         "security",
@@ -2452,11 +2452,37 @@
         "article"
       ],
       "description_en": "Step-by-step guide to sandboxing AI coding agents like Claude Code, Codex, and Cursor. Prevent data leaks, restrict network access, and run agents safely with Docker, VMs, and permission scoping.",
-      "content_hash_en": "84438a39b89535503baabeab2ec833e7a1eaf7ad8b7a61b3625882d56c841009",
+      "content_hash_en": "ff84aec99946df6978ac946a49b18a63aac8142ab1cc2374c6d993cf434c4280",
       "backlinks": [
         "kvm-virsh-linux-virtualization-guide-2026",
-        "gitlost-github-agentic-workflows-prompt-injection-2026",
-        "ai-coding-agents-architectural-guide-2026"
+        "kvm-virsh-linux-virtualization-guide-2026",
+        "gitlost-github-agentic-workflows-prompt-injection-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "patentes-inteligencia-artificial-generativa-brasil-guia-2026": {
+      "slug": "patentes-inteligencia-artificial-generativa-brasil-guia-2026",
+      "title_en": "Generative AI Patents in Brazil: Complete Guide to Patenting AI Inventions [2026]",
+      "title_pt": "Patentes de Inteligência Artificial Generativa no Brasil: Guia Completo [2026]",
+      "tags": [
+        "patents",
+        "artificial-intelligence",
+        "inpi",
+        "intellectual-property",
+        "innovation",
+        "generative-ai",
+        "wipo"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to patenting generative AI inventions in Brazil: patentability requirements under the Brazilian IP Law (LPI), IPC/CPC classification codes for AI, WIPO global data, patent application drafting strategies, and filing at the INPI.",
+      "content_hash_en": "e96779fa8cb05f61d7936928c409b32c59a0a9019423ca2c8ad328cb57f22ef3",
+      "backlinks": [
+        "mapa-global-patentes-pct-2025-brasil",
+        "backlog-inpi-patentes-farmaceuticas",
+        "brasil-tratado-budapeste-patentes-biotecnologia"
       ],
       "backlink_source": "file",
       "last_processed": null

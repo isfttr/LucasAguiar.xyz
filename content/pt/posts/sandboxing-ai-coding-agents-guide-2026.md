@@ -234,8 +234,8 @@ O padrão é claro: agentes de IA são ferramentas, não funcionários. Confie n
 Leia também:
 
 - [KVM e Virsh no Linux: Guia Completo para Máquinas Virtuais [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
+- [KVM e Virsh no Linux: Guia Completo para Máquinas Virtuais [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
 - [GitLost [2026]: Como a Injeção de Prompt no Agente de IA do GitHub Vaza Repositórios Privados]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
-- [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetural [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
 
 ---
 

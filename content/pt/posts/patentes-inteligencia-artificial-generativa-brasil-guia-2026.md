@@ -213,11 +213,9 @@ A GenAI representa não apenas uma fronteira tecnológica, mas também uma front
 
 Leia também:
 
-- [Guia de Busca de Anterioridade no INPI]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
-- [Mapa Global de Patentes PCT 2025: Posição do Brasil]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [Backlog de Patentes no INPI: Situação e Perspectivas]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [Tratado de Budapeste e Patentes de Biotecnologia no Brasil]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [Tipos de Proteção Intelectual no Brasil: Guia Completo]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
+- [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
 
 ---
 

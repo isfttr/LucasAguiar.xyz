@@ -205,10 +205,9 @@ GenAI represents not just a technological frontier, but a legal one. The INPI an
 
 Read also:
 
-- [Global PCT Patent Map 2025: Brazil's Position]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [Patent Backlog at INPI: Status and Outlook]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [Budapest Treaty and Biotechnology Patents in Brazil]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [Types of IP Protection in Brazil: Complete Guide]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
+- [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
 
 ---
 
