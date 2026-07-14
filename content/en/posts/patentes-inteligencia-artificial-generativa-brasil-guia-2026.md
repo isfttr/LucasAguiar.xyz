@@ -1,9 +1,9 @@
 ---
-date: 2026-07-14T11:00:00-03:00
+date: 2026-07-14T14:00:00.000Z
 draft: true
-title: "Generative AI Patents in Brazil: Complete Guide to Patenting AI Inventions [2026]"
-description: "Complete guide to patenting generative AI inventions in Brazil: patentability requirements under the Brazilian IP Law (LPI), IPC/CPC classification codes for AI, WIPO global data, patent application drafting strategies, and filing at the INPI."
-featured_image: ""
+title: 'Generative AI Patents in Brazil: Complete Guide to Patenting AI Inventions [2026]'
+description: 'Complete guide to patenting generative AI inventions in Brazil: patentability requirements under the Brazilian IP Law (LPI), IPC/CPC classification codes for AI, WIPO global data, patent application drafting strategies, and filing at the INPI.'
+featured_image: ''
 categories:
   - article
 tags:
@@ -14,6 +14,7 @@ tags:
   - innovation
   - generative-ai
   - wipo
+translation_source_hash: 42ba33f3df8857c50232901baa46246ae2ba43753d20097907b720a53882d5a8
 ---
 
 Generative AI (GenAI) patent filings have more than doubled in two years: from approximately 14,000 patent families published in 2023 to over 37,800 in 2025. Combined, 2024 and 2025 saw more than 56,000 new GenAI patent families — exceeding the entire previous decade (2014–2023), according to data released in July 2026 by the World Intellectual Property Organization (WIPO).
