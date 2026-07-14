@@ -237,11 +237,15 @@ bundled with git.
 If you're still using `rebase -i` for every fixup, try `git history fixup`
 once. The difference in confidence alone is worth it.
 
-Also read:
-
-- [GitButler in the Terminal]({{< relref "posts/gitbutler-terminal-cli-tui-2026/" >}}) — managing branches visually without leaving the CLI
+— managing branches visually without leaving the CLI
 - [Two Weeks with GitButler]({{< relref "posts/one-week-review-gitbutler/" >}}) — streamlining Git workflow with a GUI layer
 - [GitLost: Prompt Injection in GitHub's AI Agent]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}}) — security implications of AI-powered git workflows
+
+Read also:
+
+- [GitButler in the Terminal]({{< relref "posts/gitbutler-terminal-cli-tui-2026/" >}})
+- [Two Weeks with GitButler: Streamlining My Git Workflow]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
 
 ---
 

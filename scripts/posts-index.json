@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T14:13:47.293Z",
+  "last_updated": "2026-07-14T18:07:57.826Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2452,11 +2452,11 @@
         "article"
       ],
       "description_en": "Step-by-step guide to sandboxing AI coding agents like Claude Code, Codex, and Cursor. Prevent data leaks, restrict network access, and run agents safely with Docker, VMs, and permission scoping.",
-      "content_hash_en": "ff84aec99946df6978ac946a49b18a63aac8142ab1cc2374c6d993cf434c4280",
+      "content_hash_en": "6c83adcfaed61adb557bd6617e26fb084758edcb770c65b9974d25bf5e92fc4e",
       "backlinks": [
         "kvm-virsh-linux-virtualization-guide-2026",
         "kvm-virsh-linux-virtualization-guide-2026",
-        "gitlost-github-agentic-workflows-prompt-injection-2026"
+        "kvm-virsh-linux-virtualization-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2478,11 +2478,35 @@
         "article"
       ],
       "description_en": "Complete guide to patenting generative AI inventions in Brazil: patentability requirements under the Brazilian IP Law (LPI), IPC/CPC classification codes for AI, WIPO global data, patent application drafting strategies, and filing at the INPI.",
-      "content_hash_en": "e96779fa8cb05f61d7936928c409b32c59a0a9019423ca2c8ad328cb57f22ef3",
+      "content_hash_en": "45dd1c2285f9708c9428e493ddbeaaa769ee3cab5d29f28723b1eaed826ccd63",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
         "backlog-inpi-patentes-farmaceuticas",
         "brasil-tratado-budapeste-patentes-biotecnologia"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "mastering-git-log-history-guide-2026": {
+      "slug": "mastering-git-log-history-guide-2026",
+      "title_en": "Git History in 2026: Complete Guide to fixup, reword, and split Commands",
+      "title_pt": "Git History in 2026: Complete Guide to fixup, reword, and split Commands",
+      "tags": [
+        "git",
+        "developer-tools",
+        "workflow",
+        "version-control",
+        "productivity"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Step-by-step guide to git history — the experimental command that lets you fix old commits, rewrite messages, and split changes without scary rebase -i sessions. Includes practical examples of each subcommand.",
+      "content_hash_en": "7dd785f26eb54c19d280cd09012c52b90fb638a815d8e6125dd4b957c1688f0e",
+      "backlinks": [
+        "gitbutler-terminal-cli-tui-2026",
+        "one-week-review-gitbutler",
+        "gitlost-github-agentic-workflows-prompt-injection-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

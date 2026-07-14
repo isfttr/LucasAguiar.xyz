@@ -234,7 +234,7 @@ Read also:
 
 - [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
 - [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
-- [GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
+- [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
 
 ---
 
