@@ -151,7 +151,9 @@ For a complete overview of all IP protection types in Brazil, see the [IP protec
 
 Read also:
 
-- [Brazilian INPI Patent Backlog: A Complete Overview]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [INPI launches new version of the Patents Module: what changes in 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
 
 ---
 

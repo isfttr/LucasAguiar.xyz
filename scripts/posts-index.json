@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T18:07:57.826Z",
+  "last_updated": "2026-07-15T14:14:58.831Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2452,7 +2452,7 @@
         "article"
       ],
       "description_en": "Step-by-step guide to sandboxing AI coding agents like Claude Code, Codex, and Cursor. Prevent data leaks, restrict network access, and run agents safely with Docker, VMs, and permission scoping.",
-      "content_hash_en": "6c83adcfaed61adb557bd6617e26fb084758edcb770c65b9974d25bf5e92fc4e",
+      "content_hash_en": "e8f9c97cf7292f32e9f978beda5979e69043aab15df67c3dbd053f4083e1c597",
       "backlinks": [
         "kvm-virsh-linux-virtualization-guide-2026",
         "kvm-virsh-linux-virtualization-guide-2026",
@@ -2490,7 +2490,7 @@
     "mastering-git-log-history-guide-2026": {
       "slug": "mastering-git-log-history-guide-2026",
       "title_en": "Git History in 2026: Complete Guide to fixup, reword, and split Commands",
-      "title_pt": "Git History in 2026: Complete Guide to fixup, reword, and split Commands",
+      "title_pt": "Histórico do Git em 2026: Guia Completo para os Comandos fixup, reword e split",
       "tags": [
         "git",
         "developer-tools",
@@ -2502,14 +2502,39 @@
         "article"
       ],
       "description_en": "Step-by-step guide to git history — the experimental command that lets you fix old commits, rewrite messages, and split changes without scary rebase -i sessions. Includes practical examples of each subcommand.",
-      "content_hash_en": "7dd785f26eb54c19d280cd09012c52b90fb638a815d8e6125dd4b957c1688f0e",
+      "content_hash_en": "a560cbdf21319c96cb71fa33e1f24e1f5647e460273503f57c787efa2a0f82b3",
       "backlinks": [
-        "gitbutler-terminal-cli-tui-2026",
         "one-week-review-gitbutler",
-        "gitlost-github-agentic-workflows-prompt-injection-2026"
+        "gitlost-github-agentic-workflows-prompt-injection-2026",
+        "gitbutler-terminal-cli-tui-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "guia-tramite-prioritario-patentes-inpi-2026": {
+      "slug": "guia-tramite-prioritario-patentes-inpi-2026",
+      "title_en": "Complete Guide to Priority Patent Examination at the Brazilian INPI: Modalities, Costs, and How to Apply [2026]",
+      "title_pt": "Guia Completo de Trâmite Prioritário de Patentes no INPI: Modalidades, Custos e Como Solicitar [2026]",
+      "tags": [
+        "inpi",
+        "patents",
+        "priority-examination",
+        "intellectual-property",
+        "guide",
+        "innovation"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to all 17 priority examination modalities for patents at the Brazilian INPI in 2026: who can apply, costs per modality, required documents, and step-by-step application. Includes H04 and PPH program updates.",
+      "content_hash_en": "973b4064799fb2e0634c4801a08e630c7757463836f1d8c7f8b7ee3d5368fb73",
+      "backlinks": [
+        "backlog-inpi-patentes-farmaceuticas",
+        "inpi-automation-roadmap-2025-2029",
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-15T14:14:58.831Z"
     }
   }
 }
