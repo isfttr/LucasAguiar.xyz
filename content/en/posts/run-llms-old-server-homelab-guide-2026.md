@@ -246,10 +246,11 @@ The electricity cost assumes $0.12/kWh and ~300W idle-to-load average for a dual
 
 The same month this guide was written, independent benchmarks showed a [13-year-old HP StoreVirtual running Gemma 4 26B at 5 tok/s](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/) with only a $300 hardware investment and a [patch that added AVX1 fallback](https://github.com/ikawrakow/ik_llama.cpp/pull/2138) for pre-Haswell silicon. If a repurposed storage box can do that, your homelab server can too.
 
-Also read:
+Read also:
 
-- [Guide to setting up Open WebUI with local inference]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [Creating your local AI assistant with Ollama]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [Script for Updating Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Enabling WhatsApp on Hermes Agent self-hosted: three pitfalls (and how I overcame them)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T14:14:58.831Z",
+  "last_updated": "2026-07-15T18:08:12.068Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2490,7 +2490,7 @@
     "mastering-git-log-history-guide-2026": {
       "slug": "mastering-git-log-history-guide-2026",
       "title_en": "Git History in 2026: Complete Guide to fixup, reword, and split Commands",
-      "title_pt": "Histórico do Git em 2026: Guia Completo para os Comandos fixup, reword e split",
+      "title_pt": "Histórico do Git em 2026: Guia Completo para os comandos fixup, reword e split",
       "tags": [
         "git",
         "developer-tools",
@@ -2502,11 +2502,11 @@
         "article"
       ],
       "description_en": "Step-by-step guide to git history — the experimental command that lets you fix old commits, rewrite messages, and split changes without scary rebase -i sessions. Includes practical examples of each subcommand.",
-      "content_hash_en": "a560cbdf21319c96cb71fa33e1f24e1f5647e460273503f57c787efa2a0f82b3",
+      "content_hash_en": "f239d861b707eca88d6b847cbe801ba80f346a418945b6c2e0a03334218069de",
       "backlinks": [
         "one-week-review-gitbutler",
         "gitlost-github-agentic-workflows-prompt-injection-2026",
-        "gitbutler-terminal-cli-tui-2026"
+        "one-week-review-gitbutler"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2527,14 +2527,38 @@
         "article"
       ],
       "description_en": "Complete guide to all 17 priority examination modalities for patents at the Brazilian INPI in 2026: who can apply, costs per modality, required documents, and step-by-step application. Includes H04 and PPH program updates.",
-      "content_hash_en": "973b4064799fb2e0634c4801a08e630c7757463836f1d8c7f8b7ee3d5368fb73",
+      "content_hash_en": "a21acbcae69b0a0d188dbc713249590a331f75c948f60acd565c02a670f7f3c5",
       "backlinks": [
+        "ip-protection-types-brazil-complete-guide",
         "backlog-inpi-patentes-farmaceuticas",
-        "inpi-automation-roadmap-2025-2029",
-        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026"
+        "inpi-automation-roadmap-2025-2029"
+      ],
+      "backlink_source": "file",
+      "last_processed": "2026-07-15T14:14:58.831Z"
+    },
+    "run-llms-old-server-homelab-guide-2026": {
+      "slug": "run-llms-old-server-homelab-guide-2026",
+      "title_en": "How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]",
+      "title_pt": "How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]",
+      "tags": [
+        "llm",
+        "homelab",
+        "selfhosted",
+        "inference",
+        "linux"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Step-by-step guide to running modern LLMs on old/used enterprise servers with no GPU. Hardware picks, software stack, expected performance, and cost comparison vs cloud APIs.",
+      "content_hash_en": "9e12e076fe42647997c135dd6dd33f0dfb566ef0b9c207a9e56eeae560183ea4",
+      "backlinks": [
+        "proxmox-mac-mini-2018-t2",
+        "script-update-open_webui-lxc",
+        "configuracao-whatsapp-hermes"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-07-15T14:14:58.831Z"
+      "last_processed": "2026-07-15T18:08:12.067Z"
     }
   }
 }
