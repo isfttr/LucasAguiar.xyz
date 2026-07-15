@@ -1,161 +1,185 @@
 ---
 date: 2026-07-15T14:00:00.000Z
 draft: true
-title: 'Complete Guide to Priority Patent Examination at the Brazilian INPI: Modalities, Costs, and How to Apply [2026]'
-description: 'Complete guide to all 17 priority examination modalities for patents at the Brazilian INPI in 2026: who can apply, costs per modality, required documents, and step-by-step application. Includes H04 and PPH program updates.'
+title: 'Complete Guide to Priority Patent Processing at INPI: Modalities, Costs and How to Apply [2026]'
+description: 'Complete guide with all 17 modalities of priority patent processing at INPI in 2026: who can request, costs per modality, required documents, and step-by-step. Includes news about the H04 and PPH programs.'
 featured_image: ''
 categories:
   - article
 tags:
   - inpi
-  - patents
-  - priority-examination
-  - intellectual-property
-  - guide
-  - innovation
-translation_source_hash: d514ba38403fa04cccf586d247d352c4ad9e9c6f6a867cfa6f9b6f31f6b29589
+  - patentes
+  - tramite-prioritario
+  - propriedade-intelectual
+  - guia
+  - inovacao
+slug: priority-patent-processing-inpi-guide-2026
+translation_source_hash: dacff30acd072e45eabbe309e2236228ba11d776268d19a8df8eb517ecb64f4f
 ---
+The INPI currently offers **17 modalities of priority processing for patents** — 15 for the general public and 2 for public entities. On July 1, 2026, the resumption of accepting requests for symbol H04 (Electrical Communication Technique) reignited the interest of telecommunications technology applicants, who can now request prioritization again, under new per-applicant quota rules.
 
-The Brazilian Patent and Trademark Office (INPI) currently offers **17 priority examination modalities for patents** — 15 available to the general public and 2 for government entities. On July 1, 2026, the reopening of requests for the H04 classification (Electric Communication Technique) reignited interest among telecommunications technology applicants, who can now request prioritization again under new per-applicant quota rules.
+This guide consolidates all current modalities, their costs, required documents, and the step-by-step process to request priority processing from the INPI.
 
-This guide consolidates all current modalities, their costs, required documents, and the step-by-step application process at the INPI.
+## What is priority processing for patents?
 
-## What is priority patent examination?
+Since September 2020, the INPI replaced the old "priority examination" with the broader concept of **priority processing**. While the old model was limited to the queue of applications awaiting technical examination, priority processing covers **all activities of the patent process** — from submitting documentation for filing to the end of processing (archiving, rejection, or expiration).
 
-Since September 2020, the INPI replaced the former "priority examination" with the broader concept of **priority processing (trâmite prioritário)**. While the old model was restricted to patents awaiting technical examination, priority processing now covers **all activities in the patent process** — from filing documentation to the end of prosecution (archival, rejection, or expiration).
+This means that if an elderly applicant is entitled to priority processing, this prioritization also applies to a transfer of ownership or any other procedural act, even after the patent grant.
 
-This means that if an elderly applicant qualifies for priority processing, this prioritization also applies to assignments or any other procedural acts, even after patent grant.
+The main regulation is [INPI/PR Ordinance No. 79/2022](https://www.gov.br/inpi/pt-br/assuntos/legislacao/portarias/2022/portaria-inpi-pr-no-79-de-22-de-setembro-de-2022), which governs the priority processing of patent proceedings within the INPI.
 
-The main regulation is [INPI/PR Ordinance No. 79/2022](https://www.gov.br/inpi/pt-br/assuntos/legislacao/portarias/2022/portaria-inpi-pr-no-79-de-22-de-setembro-de-2022), which governs priority processing of patent applications at the INPI.
+## All 17 modalities of priority processing
 
-## All 17 priority examination modalities
+The modalities are divided into four categories, according to the reason for the prioritization request.
 
-Modalities are divided into four categories based on the reason for the priority request.
+### Due to the applicant
 
-### Due to applicant profile
-
-| Modality | Who can apply | GRU Code | Full Fee | Discounted Fee (SME/ICT) |
-|----------|--------------|----------|----------|--------------------------|
-| Elderly applicant (60+) | Individual ≥ 60 years | 263 | Exempt | — |
-| Disabled applicant | Individual with physical/mental disability | 263 | Exempt | — |
-| Applicant with serious illness | Individual with serious illness | 263 | Exempt | — |
-| Microentrepreneur (MEI), Micro (ME) or Small Business (EPP) | MEI, ME or EPP | 279 | R$ 890 | R$ 445 |
-| Science & Tech Institution (ICT) | Research institution | 279 | R$ 890 | R$ 445 |
+| Modality | Who can request | GRU Code | Amount | ME/EPP/ICT Discount |
+|------------|----------------|------------|-------|---------------------|
+| Elderly applicant (60+) | Natural person ≥ 60 years | 263 | Exempt | — |
+| Applicant with a disability | Natural person with a physical or mental disability | 263 | Exempt | — |
+| Applicant with a serious illness | Natural person with a serious illness | 263 | Exempt | — |
+| Microentrepreneur, ME or EPP | MEI, ME or EPP | 279 | R$ 890 | R$ 445 |
+| ICT | Scientific, Technological and Innovation Institution | 279 | R$ 890 | R$ 445 |
 | Startup | Startup (per LC 182/2021) | 279 | R$ 890 | R$ 445 |
 
-### Due to situation
+**Required documents:**
+- Elderly: official identification document showing age
+- Disability: medical report from a doctor in public service
+- Serious illness: medical report from a doctor in public service
+- ME/EPP/ICT/Startup: certificate issued by the public authority indicating the classification
 
-| Modality | Who can apply | GRU Code | Fee |
-|----------|--------------|----------|-----|
-| Grant required to obtain funding | Any applicant | 279 | R$ 890 |
-| Infringed by third parties | Any applicant | 279 | R$ 890 |
-| Third party accused of infringement | Any accused third party | 279 | R$ 890 |
-| Prior user of technology | Any prior technology holder | 279 | R$ 890 |
-| Technology from public funding | Applicant or funding entity | 279 | R$ 890 |
+### Due to the situation
+
+| Modality | Who can request | GRU Code | Amount |
+|------------|----------------|------------|-------|
+| Concession condition to obtain financial resources | Any applicant | 279 | R$ 890 |
+| Reproduced by third parties (counterfeiting) | Any applicant | 279 | R$ 890 |
+| Third party accused of counterfeiting | Any accused third party | 279 | R$ 890 |
+| Prior user of the technology | Any third party holder | 279 | R$ 890 |
+| Technology resulting from public funding | Applicant or supporting entity | 279 | R$ 890 |
 | Technology available on the market | Applicant or third parties | 279 | R$ 890 |
 
-### Due to technology
+**Required documents:**
+- Release of financial resources: contract from the financial institution linking the release
+- Counterfeiting (applicant): evidence of counterfeiting + notification + receipt
+- Counterfeiting (third party): proof that they are being accused + explanation
+- Prior user: explanation + evidence
+- Public funding: release instrument + declaration
+- Market: evidence + declaration
 
-| Modality | Who can apply | GRU Code | Fee |
-|----------|--------------|----------|-----|
+### Due to the technology
+
+| Modality | Who can request | GRU Code | Amount |
+|------------|----------------|------------|-------|
 | Green technology | Any applicant | 279 | R$ 890 |
-| Health treatment technology | Applicant, third parties or authorities | 279 | R$ 890 |
-| Technology requested by the Ministry of Health | Ministry of Health | — | Exempt |
-| Public interest or national emergency | Federal Executive Branch act | Ex officio | Exempt |
+| Health treatment (specific diseases) | Applicant, third parties or public authorities | 279 | R$ 890 |
+| Technology requested by the Ministry of Health | Ministry of Health | N/A | Exempt |
+| Public interest or national emergency | Act of the Federal Executive Branch | Ex officio | Exempt |
 
-### Due to international cooperation (PPH)
+**Required documents:**
+- Green technology / Health treatment: clarifications about the subject matter
+- MS / Public interest: official government act
 
-| Modality | Who can apply | GRU Code | Fee |
-|----------|--------------|----------|-----|
-| Patent family initiated in Brazil | Any applicant | 279 | R$ 890 |
-| Matter deemed patentable by partner office (PPH) | Any applicant | 277 | R$ 1,780 |
+### Due to cooperation (PPH)
 
-> 💡 **PPH (Patent Prosecution Highway):** Allows patent applications already deemed patentable by partner offices (USPTO, EPO, JPO, etc.) to receive priority examination at the INPI. The program has a global annual cap of **3,200 requests per year**.
+| Modality | Who can request | GRU Code | Amount |
+|------------|----------------|------------|-------|
+| Patent family started in Brazil | Any applicant | 279 | R$ 890 |
+| Patentable subject matter by partner office (PPH) | Any applicant | 277 | R$ 1,780 |
 
-## Update: H04 Priority Processing Reopened (July 2026)
+**Required documents:**
+- Brazil family: proof of the start of the patent family in Brazil
+- PPH: examination result from the partner office + other documents
 
-On June 30, 2026, RPI 2895 published [INPI/PR/DIRPA Ordinance No. 5](https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/retoramado-tramite-prioritario-de-patentes-de-tecnica-de-comunicacao-eletrica-h04), which reopened requests for priority processing of patents classified under **H04 (Electric Communication Technique)** — covering telecommunications, networks, data transmission, and wireless communication systems.
+> 💡 **PPH (Patent Prosecution Highway):** allows patent applications already considered patentable by partner offices (USPTO, EPO, JPO, etc.) to receive priority examination at the INPI. The program has a global limit of **3,200 requests per year**.
+
+## New: Resumption of H04 priority processing (July/2026)
+
+On June 30, 2026, [INPI/PR/DIRPA Ordinance No. 5, of June 23, 2026](https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/retoramado-tramite-prioritario-de-patentes-de-tecnica-de-comunicacao-eletrica-h04) was published in RPI 2895, which resumed accepting priority processing requests for patent applications classified under symbol **H04 (Electrical Communication Technique)** — the classification covering telecommunications, networks, data transmission, and wireless communication systems.
 
 **Specific H04 rules:**
 
 | Rule | Detail |
-|------|--------|
-| Quota per applicant | 1 request/month (2 in July 2026, exceptionally) |
+|-------|---------|
+| Quotas per applicant | 1 application/month (2 in July/2026, exceptionally) |
 | Scope | All priority processing modalities, including PPH |
-| Exemptions | Elderly, disabled, serious illness, and startup applicants (not subject to quotas) |
-| PPH global cap | 3,200/year (maintained, independent of H04) |
-| July 2026 exception | PPH accepted even with Preliminary Requirement notice (code 6.23) |
+| Exclusions | Elderly, disabled, serious illness, and startup (quotas do not apply) |
+| PPH limit | 3,200/year (maintained, regardless of H04) |
+| Exception July/2026 | PPH accepted even with dispatch 6.23 (Preliminary Requirement) |
 
-## Step-by-step application
+For telecommunications patent applicants, this resumption represents a significant opportunity to accelerate grant, especially in a sector where the technology cycle is short and patent protection must keep pace with innovation speed.
+
+## Step-by-step guide to request
 
 ### 1. Identify the applicable modality
 
-Use the [INPI questionnaire](https://www.gov.br/inpi/pt-br/servicos/patentes/tramite-prioritario) to determine which modality fits your case. Key variables: applicant profile, case situation, and technology field.
+Use the [INPI questionnaire](https://www.gov.br/inpi/pt-br/servicos/patentes/tramite-prioritario) to determine which modality applies to your case. The main variables are: applicant profile, process situation, and technology involved.
 
-### 2. Gather supporting documentation
+### 2. Gather the supporting documentation
 
-Each modality requires specific documents (see tables above). Supporting documents are essential — requests without proper documentation are rejected.
+Each modality requires specific documents (see tables above). Supporting documents are essential — requests without the correct documentation are denied.
 
-### 3. Generate the GRU payment slip
+### 3. Generate the GRU
 
-The GRU (Federal Revenue Collection Guide) must be generated in the INPI system with the corresponding service code:
+The Federal Union Collection Guide (GRU) must be issued on the INPI system with the corresponding service code:
 - **Code 263** — Priority examination (exemptions: elderly, disabled, serious illness)
-- **Code 279** — Strategic priority examination (R$ 890 / R$ 445 discounted)
-- **Code 277** — Collaborative priority examination / PPH (R$ 1,780 / R$ 890 discounted)
+- **Code 279** — Strategic priority examination (R$ 890 / R$ 445 with discount)
+- **Code 277** — Collaborative priority examination / PPH (R$ 1,780 / R$ 890 with discount)
 
 ### 4. File the request via e-Patentes or GRU
 
-The request is submitted through the INPI electronic system (e-Patentes or GRU, depending on the code), attaching supporting documentation and the paid GRU.
+The request is made through the INPI electronic system (e-Patentes or GRU, depending on the code), attaching the supporting documentation and the paid GRU.
 
-### 5. Monitor progress
+### 5. Monitor the progress
 
-Check status through the [INPI procedural tracking system](https://www.gov.br/inpi/pt-br/servicos/patentes/acompanhamento-de-processos). Priority processing significantly reduces wait times but does not eliminate the need for active monitoring.
+Check the status via the [INPI procedural monitoring system]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}}). Priority processing significantly reduces waiting time, but does not eliminate the need for active follow-up.
 
-## Fee comparison by modality
+## Comparison: GRU amounts by modality
 
-| Group | GRU Code | Full fee | Discounted fee (SME/ICT) |
-|-------|----------|----------|-------------------------|
+| Group | GRU Code | Full amount | Amount with discount (ME/EPP/ICT) |
+|-------|-----------|-------------|-------------------------------|
 | Exemptions (elderly, disability, serious illness) | 263 | Exempt | — |
 | Strategic priority examination | 279 | R$ 890.00 | R$ 445.00 |
 | PPH / Collaborative examination | 277 | R$ 1,780.00 | R$ 890.00 |
 | MS technology / Public interest | — | Exempt | — |
 
-> Fees are based on the current Fee Table (Ordinance GM/MDIC No. 110/2025). Check the [INPI official costs page](https://www.gov.br/inpi/pt-br/servicos/custos-e-pagamento) for updated values.
+> The amounts above are based on the current Fee Table (GM/MDIC Ordinance No. 110/2025). Check the [official INPI costs page](https://www.gov.br/inpi/pt-br/servicos/custos-e-pagamento) for updated amounts.
 
 ## Frequently asked questions
 
-### Does priority processing guarantee patent grant?
+### Does priority processing guarantee the patent grant?
 
-No. Priority processing accelerates the procedure, but substantive examination follows the same technical and legal criteria. Prioritization does not affect patent rights — the patent remains valid until expiration regardless of the priority request outcome.
+No. Priority processing speeds up the process, but the substantive examination follows the same technical and legal criteria. Prioritization does not affect patent rights — the patent will continue to be valid until its expiration regardless of the outcome of the prioritization request.
 
-### Can I request priority processing at any stage?
+### Can I request priority processing at any stage of the process?
 
-Yes. Unlike the former "priority examination," priority processing applies to all procedural activities regardless of stage — from filing through post-grant.
+Yes. Unlike the old "priority examination," priority processing applies to all activities of the process, regardless of the stage — from filing to after grant.
 
 ### Are PPH and H04 priority processing cumulative?
 
-Yes. PPH is a separate modality within priority processing. For H04 applications, PPH is also subject to the 1 request/month per applicant limit (except elderly, disabled, serious illness, and startup), in addition to the global annual PPH cap of 3,200 requests.
+Yes. PPH is a separate modality within priority processing. For H04 applications, PPH is also subject to the limit of 1 application/month per applicant (except elderly, disabled, serious illness, and startup), in addition to the global annual limit of 3,200 PPH requests.
 
-### Can individual microentrepreneurs get a discount?
+### Can an individual microentrepreneur get a discount?
 
-Yes. MEI, micro-enterprises (ME), and small businesses (EPP) are entitled to a 50% discount on the GRU fee (code 279), upon presenting an official qualification certificate.
+Yes. MEI, microenterprise (ME), and small enterprise (EPP) are entitled to a 50% discount on the GRU amount (code 279), upon presentation of a classification certificate issued by the public authority.
 
-## Why does priority examination exist?
+## Why does priority processing exist?
 
-The INPI had approximately **150,000 pending patent applications** in 2019. The [Backlog Reduction Plan](https://www.gov.br/inpi/pt-br/servicos/patentes/plano-de-combate-ao-backlog) tackled 80% of this stock, but priority processing serves a different need: allowing strategic innovations — green technologies, health, startups, or publicly funded research — to reach the market faster.
+In 2019, the INPI had approximately **150,000 pending patent applications**. The [Backlog Combat Plan](https://www.gov.br/inpi/pt-br/servicos/patentes/plano-de-combate-ao-backlog) tackled 80% of this stock, but priority processing addresses a different need: allowing strategic innovations — green, health, startup, or publicly funded — to reach the market faster.
 
-The 17-modality system balances two goals: accelerating technologies of public interest and providing fast-track options for applicants who demonstrate specific need. As seen with the e-commerce trademark quota exhaustion, slot limits per period are real and can impact those who don't plan ahead.
+The system of 17 modalities seeks to balance two objectives: providing speed to technologies of public interest and offering accelerated paths for applicants who prove a specific need. As we saw in the case of the exhaustion of quotas for trademarks in e-commerce, the slot limit per period is real and can impact those who do not plan ahead.
 
-For a complete overview of all IP protection types in Brazil, see the [IP protection types guide]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}}).
+For a comprehensive overview of all types of intellectual property protection in Brazil, see the [guide to intellectual property protection types]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}}). And to understand trademark registration costs, check the [guide to trademark registration costs at the INPI]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}}).
 
 ---
 
 Read also:
 
 - [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
-- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [The INPI backlog is over — but not for pharmaceutical patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [INPI 4.0: The INPI Automation Plan (2025-2029) and the Future of Patents in Brazil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 
 ---
 
-Feel free to reach out to discuss this and other topics at <contact@lucasaguiar.xyz>
+You can get in touch to discuss this and other topics at <contact@lucasaguiar.xyz>
