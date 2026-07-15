@@ -1,9 +1,9 @@
 ---
-date: 2026-07-15T11:00:00-03:00
+date: 2026-07-15T14:00:00.000Z
 draft: true
-title: "Complete Guide to Priority Patent Examination at the Brazilian INPI: Modalities, Costs, and How to Apply [2026]"
-description: "Complete guide to all 17 priority examination modalities for patents at the Brazilian INPI in 2026: who can apply, costs per modality, required documents, and step-by-step application. Includes H04 and PPH program updates."
-featured_image: ""
+title: 'Complete Guide to Priority Patent Examination at the Brazilian INPI: Modalities, Costs, and How to Apply [2026]'
+description: 'Complete guide to all 17 priority examination modalities for patents at the Brazilian INPI in 2026: who can apply, costs per modality, required documents, and step-by-step application. Includes H04 and PPH program updates.'
+featured_image: ''
 categories:
   - article
 tags:
@@ -13,6 +13,7 @@ tags:
   - intellectual-property
   - guide
   - innovation
+translation_source_hash: d514ba38403fa04cccf586d247d352c4ad9e9c6f6a867cfa6f9b6f31f6b29589
 ---
 
 The Brazilian Patent and Trademark Office (INPI) currently offers **17 priority examination modalities for patents** — 15 available to the general public and 2 for government entities. On July 1, 2026, the reopening of requests for the H04 classification (Electric Communication Technique) reignited interest among telecommunications technology applicants, who can now request prioritization again under new per-applicant quota rules.
