@@ -175,9 +175,9 @@ Para um panorama completo de todos os tipos de proteção intelectual no Brasil,
 
 Leia também:
 
-- [Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
-- [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Tipos de Proteção Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 

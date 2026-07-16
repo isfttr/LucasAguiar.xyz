@@ -176,9 +176,9 @@ For a comprehensive overview of all types of intellectual property protection in
 
 Read also:
 
-- [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
-- [The INPI backlog is over — but not for pharmaceutical patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [INPI 4.0: The INPI Automation Plan (2025-2029) and the Future of Patents in Brazil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Types of Intellectual Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 

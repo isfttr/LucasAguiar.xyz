@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T18:08:12.068Z",
+  "last_updated": "2026-07-16T14:12:12.090Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2490,7 +2490,7 @@
     "mastering-git-log-history-guide-2026": {
       "slug": "mastering-git-log-history-guide-2026",
       "title_en": "Git History in 2026: Complete Guide to fixup, reword, and split Commands",
-      "title_pt": "Histórico do Git em 2026: Guia Completo para os comandos fixup, reword e split",
+      "title_pt": "Histórico do Git em 2026: Guia Completo para os Comandos fixup, reword e split",
       "tags": [
         "git",
         "developer-tools",
@@ -2502,7 +2502,7 @@
         "article"
       ],
       "description_en": "Step-by-step guide to git history — the experimental command that lets you fix old commits, rewrite messages, and split changes without scary rebase -i sessions. Includes practical examples of each subcommand.",
-      "content_hash_en": "f239d861b707eca88d6b847cbe801ba80f346a418945b6c2e0a03334218069de",
+      "content_hash_en": "f686963714ab01fa25c8fe1f92a63332a4ec5b3f57c7a24d77ab0711f92ed71d",
       "backlinks": [
         "one-week-review-gitbutler",
         "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -2513,25 +2513,25 @@
     },
     "guia-tramite-prioritario-patentes-inpi-2026": {
       "slug": "guia-tramite-prioritario-patentes-inpi-2026",
-      "title_en": "Complete Guide to Priority Patent Examination at the Brazilian INPI: Modalities, Costs, and How to Apply [2026]",
+      "title_en": "Complete Guide to Priority Patent Processing at INPI: Modalities, Costs and How to Apply [2026]",
       "title_pt": "Guia Completo de Trâmite Prioritário de Patentes no INPI: Modalidades, Custos e Como Solicitar [2026]",
       "tags": [
         "inpi",
-        "patents",
-        "priority-examination",
-        "intellectual-property",
-        "guide",
-        "innovation"
+        "patentes",
+        "tramite-prioritario",
+        "propriedade-intelectual",
+        "guia",
+        "inovacao"
       ],
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to all 17 priority examination modalities for patents at the Brazilian INPI in 2026: who can apply, costs per modality, required documents, and step-by-step application. Includes H04 and PPH program updates.",
-      "content_hash_en": "a21acbcae69b0a0d188dbc713249590a331f75c948f60acd565c02a670f7f3c5",
+      "description_en": "Complete guide with all 17 modalities of priority patent processing at INPI in 2026: who can request, costs per modality, required documents, and step-by-step. Includes news about the H04 and PPH programs.",
+      "content_hash_en": "8f8d2c84a03caaa053a3a6828121091e0f2770e42e49cc2982d215e6e52e3f63",
       "backlinks": [
-        "ip-protection-types-brazil-complete-guide",
-        "backlog-inpi-patentes-farmaceuticas",
-        "inpi-automation-roadmap-2025-2029"
+        "como-consultar-andamento-processo-inpi",
+        "tipos-protecao-intelectual-brasil-guia-completo",
+        "quanto-custa-registrar-marca-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-15T14:14:58.831Z"
@@ -2539,7 +2539,7 @@
     "run-llms-old-server-homelab-guide-2026": {
       "slug": "run-llms-old-server-homelab-guide-2026",
       "title_en": "How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]",
-      "title_pt": "How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]",
+      "title_pt": "Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático para Homelab [2026]",
       "tags": [
         "llm",
         "homelab",
@@ -2551,14 +2551,40 @@
         "article"
       ],
       "description_en": "Step-by-step guide to running modern LLMs on old/used enterprise servers with no GPU. Hardware picks, software stack, expected performance, and cost comparison vs cloud APIs.",
-      "content_hash_en": "9e12e076fe42647997c135dd6dd33f0dfb566ef0b9c207a9e56eeae560183ea4",
+      "content_hash_en": "36ea0ceb5e2d81239cbeded8e2398764fb90296e8b583a6bb09536da3162fa5d",
       "backlinks": [
         "proxmox-mac-mini-2018-t2",
         "script-update-open_webui-lxc",
         "configuracao-whatsapp-hermes"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-15T18:08:12.067Z"
+    },
+    "classificacao-internacional-patentes-ipc-guia-brasil": {
+      "slug": "classificacao-internacional-patentes-ipc-guia-brasil",
+      "title_en": "Classificação Internacional de Patentes (IPC): Guia Prático para Entender e Usar Códigos de Patentes no Brasil [2026]",
+      "title_pt": "Classificação Internacional de Patentes (IPC): Guia Prático para Entender e Usar Códigos de Patentes no Brasil [2026]",
+      "tags": [
+        "patentes",
+        "inpi",
+        "propriedade-intelectual",
+        "wipo",
+        "guia",
+        "classificacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo da Classificação Internacional de Patentes (IPC): estrutura das seções A a H, subclasses e grupos, diferença entre IPC e CPC, como consultar classificações de patentes no INPI e exemplos práticos.",
+      "content_hash_en": null,
+      "content_hash_pt": "3070964d6ddb2d47b57356a8083649748fcfb7545d6142e022d186ca8268656b",
+      "backlinks": [
+        "guia-tramite-prioritario-patentes-inpi-2026",
+        "patentes-inteligencia-artificial-generativa-brasil-guia-2026",
+        "inpi-credenciamento-busca-anterioridade-patentes"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }

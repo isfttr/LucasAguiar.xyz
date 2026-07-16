@@ -249,9 +249,9 @@ No mesmo mês em que este guia foi escrito, benchmarks independentes mostraram u
 
 Leia também:
 
-- [Como instalar Proxmox VE em Mac Mini 2018 (chip T2): o guia passo a passo que funcionou]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
-- [Script para Atualizar o Open WebUI em um LXC do Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [Ativando WhatsApp no Hermes Agent auto-hospedado: três armadilhas (e como as superei)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
+- [Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [Script para Atualizar Open WebUI em um LXC Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Habilitando o WhatsApp no Hermes Agent self-hosted: três armadilhas (e como passei por elas)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
 
 ---
 
