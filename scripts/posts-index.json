@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T14:12:12.090Z",
+  "last_updated": "2026-07-16T18:08:30.713Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2513,7 +2513,7 @@
     },
     "guia-tramite-prioritario-patentes-inpi-2026": {
       "slug": "guia-tramite-prioritario-patentes-inpi-2026",
-      "title_en": "Complete Guide to Priority Patent Processing at INPI: Modalities, Costs and How to Apply [2026]",
+      "title_en": "Complete Guide to Priority Patent Processing at INPI: Modalities, Costs, and How to Apply [2026]",
       "title_pt": "Guia Completo de Trâmite Prioritário de Patentes no INPI: Modalidades, Custos e Como Solicitar [2026]",
       "tags": [
         "inpi",
@@ -2526,8 +2526,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide with all 17 modalities of priority patent processing at INPI in 2026: who can request, costs per modality, required documents, and step-by-step. Includes news about the H04 and PPH programs.",
-      "content_hash_en": "8f8d2c84a03caaa053a3a6828121091e0f2770e42e49cc2982d215e6e52e3f63",
+      "description_en": "Complete guide with all 17 modalities of priority patent processing at INPI in 2026: who can request, costs per modality, required documents, and step by step. Includes news from the H04 program and PPH.",
+      "content_hash_en": "7d4358759b260bd7af008953d7626fc928f84490d53cfb3055731b3d7f3067c1",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "tipos-protecao-intelectual-brasil-guia-completo",
@@ -2562,7 +2562,7 @@
     },
     "classificacao-internacional-patentes-ipc-guia-brasil": {
       "slug": "classificacao-internacional-patentes-ipc-guia-brasil",
-      "title_en": "Classificação Internacional de Patentes (IPC): Guia Prático para Entender e Usar Códigos de Patentes no Brasil [2026]",
+      "title_en": "International Patent Classification (IPC): Practical Guide to Understanding and Using Patent Codes in Brazil [2026]",
       "title_pt": "Classificação Internacional de Patentes (IPC): Guia Prático para Entender e Usar Códigos de Patentes no Brasil [2026]",
       "tags": [
         "patentes",
@@ -2575,9 +2575,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo da Classificação Internacional de Patentes (IPC): estrutura das seções A a H, subclasses e grupos, diferença entre IPC e CPC, como consultar classificações de patentes no INPI e exemplos práticos.",
-      "content_hash_en": null,
-      "content_hash_pt": "3070964d6ddb2d47b57356a8083649748fcfb7545d6142e022d186ca8268656b",
+      "description_en": "Complete guide to the International Patent Classification (IPC): structure of sections A to H, subclasses and groups, difference between IPC and CPC, how to consult patent classifications at INPI and practical examples.",
+      "content_hash_en": "caebe7b05703831c1c5df3fa0a6d6fe7c60a0a253fa731086d4a1d220840294c",
       "backlinks": [
         "guia-tramite-prioritario-patentes-inpi-2026",
         "patentes-inteligencia-artificial-generativa-brasil-guia-2026",
@@ -2585,6 +2584,30 @@
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "rust-vs-zig-systems-programming-2026": {
+      "slug": "rust-vs-zig-systems-programming-2026",
+      "title_en": "Rust vs Zig for Systems Programming in 2026: A Practical Comparison",
+      "title_pt": "Rust vs Zig for Systems Programming in 2026: A Practical Comparison",
+      "tags": [
+        "rust",
+        "zig",
+        "systems-programming",
+        "programming-languages",
+        "dev"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Comparing Rust and Zig for systems programming in 2026 — memory safety, build times, memory control, ecosystem, and real-world data from the Roc and Bun rewrites. Includes benchmarks and decision guide.",
+      "content_hash_en": "e68b17a4afe2beeca4de008536df2a3600c8b8dad4a940a8be2ef4760c762ef0",
+      "backlinks": [
+        "ai-changes-software-rewrite-economics-2026",
+        "linux-windows-macos-qual-usar-2026",
+        "developer-tools-invisible-framework-2026"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-16T18:08:30.712Z"
     }
   }
 }

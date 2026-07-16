@@ -124,10 +124,11 @@ Rust optimizes for correctness guarantees and ecosystem breadth, at the cost of 
 
 Both Roc and Bun made the right call for their projects — in opposite directions. The lesson is not that one language wins. The lesson is that choosing the right tool for the specific job matters more than any language's general reputation.
 
-Also read:
+Read also:
 
-- [Vibe Coding Pitfalls: What AI-Assisted Development Gets Wrong]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [Experience with Cursor and Windsurf: AI Code Editor Comparison]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [Linux, Windows or macOS: Which Operating System to Use in 2026?]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
+- [How to Choose Developer Tools That Last: The Invisible Tools Framework [2026]]({{< relref "posts/developer-tools-invisible-framework-2026/" >}})
 
 ---
 
