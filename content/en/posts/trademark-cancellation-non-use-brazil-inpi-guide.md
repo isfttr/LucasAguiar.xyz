@@ -155,6 +155,12 @@ Article 143, §1 allows justifications such as:
 
 The CGREC's jurisprudence, however, is strict — mere claims of "economic crisis" or "internal restructuring" are rarely accepted without robust evidence.
 
+Read also:
+
+- [Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
+- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+
 ---
 
 For further reading: [How Much Does It Cost to Register a Trademark in Brazil?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}}) and [How to Check INPI Process Status]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}}).

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T18:08:30.713Z",
+  "last_updated": "2026-07-17T14:14:16.295Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2527,7 +2527,7 @@
         "article"
       ],
       "description_en": "Complete guide with all 17 modalities of priority patent processing at INPI in 2026: who can request, costs per modality, required documents, and step by step. Includes news from the H04 program and PPH.",
-      "content_hash_en": "7d4358759b260bd7af008953d7626fc928f84490d53cfb3055731b3d7f3067c1",
+      "content_hash_en": "5cab3c2c5be0ca57a748d5650be5030e96e2f4ebcc164c687b96b2d7e1a14e7c",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "tipos-protecao-intelectual-brasil-guia-completo",
@@ -2576,7 +2576,7 @@
         "article"
       ],
       "description_en": "Complete guide to the International Patent Classification (IPC): structure of sections A to H, subclasses and groups, difference between IPC and CPC, how to consult patent classifications at INPI and practical examples.",
-      "content_hash_en": "caebe7b05703831c1c5df3fa0a6d6fe7c60a0a253fa731086d4a1d220840294c",
+      "content_hash_en": "fff014af6618fb98b4b40b27f020095d20cbd7279354172db2d5a77eec175c03",
       "backlinks": [
         "guia-tramite-prioritario-patentes-inpi-2026",
         "patentes-inteligencia-artificial-generativa-brasil-guia-2026",
@@ -2588,7 +2588,7 @@
     "rust-vs-zig-systems-programming-2026": {
       "slug": "rust-vs-zig-systems-programming-2026",
       "title_en": "Rust vs Zig for Systems Programming in 2026: A Practical Comparison",
-      "title_pt": "Rust vs Zig for Systems Programming in 2026: A Practical Comparison",
+      "title_pt": "Rust vs Zig para Programação de Sistemas em 2026: Uma Comparação Prática",
       "tags": [
         "rust",
         "zig",
@@ -2600,14 +2600,63 @@
         "article"
       ],
       "description_en": "Comparing Rust and Zig for systems programming in 2026 — memory safety, build times, memory control, ecosystem, and real-world data from the Roc and Bun rewrites. Includes benchmarks and decision guide.",
-      "content_hash_en": "e68b17a4afe2beeca4de008536df2a3600c8b8dad4a940a8be2ef4760c762ef0",
+      "content_hash_en": "fec6b4c8718bdc8535a809516473e0eb61e9a6fb640098c64e18f305592b20d8",
       "backlinks": [
         "ai-changes-software-rewrite-economics-2026",
         "linux-windows-macos-qual-usar-2026",
         "developer-tools-invisible-framework-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-16T18:08:30.712Z"
+    },
+    "trademark-cancellation-non-use-brazil-inpi-guide": {
+      "slug": "trademark-cancellation-non-use-brazil-inpi-guide",
+      "title_en": "Trademark Cancellation for Non-Use in Brazil: Complete Guide [2026]",
+      "title_pt": "Trademark Cancellation for Non-Use in Brazil: Complete Guide [2026]",
+      "tags": [
+        "trademarks",
+        "inpi",
+        "brazil",
+        "intellectual-property",
+        "guide"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to trademark cancellation (caducidade) for non-use before the Brazilian Patent and Trademark Office (INPI): deadlines, legal requirements, costs per class, procedure, and how to defend your registration.",
+      "content_hash_en": "d1ff259241a58e7b6914b0ff8781e87b753b97ea9da11c29c667cfa52c239a1b",
+      "backlinks": [
+        "caducidade-marca-inpi-guia-2026",
+        "novo-nordisk-ozivy-anulacao-marca-semaglutida",
+        "inpi-manual-marcas-alto-renome-protocolo-madri"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-17T14:14:00.875Z"
+    },
+    "caducidade-marca-inpi-guia-2026": {
+      "slug": "caducidade-marca-inpi-guia-2026",
+      "title_en": "Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]",
+      "title_pt": "Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]",
+      "tags": [
+        "marcas",
+        "inpi",
+        "caducidade",
+        "propriedade-intelectual",
+        "guia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo sobre caducidade de registro de marca no INPI: prazos, requisitos legais, custos por classe, procedimento passo a passo e como defender o registro contra o pedido de extinção.",
+      "content_hash_en": null,
+      "content_hash_pt": "a16be1c40c3449b54c0d445d6f76a954712ae0a52d384976bbb4260a5587f7c4",
+      "backlinks": [
+        "trademark-cancellation-non-use-brazil-inpi-guide",
+        "quanto-custa-registrar-marca-inpi-2026",
+        "inpi-manual-marcas-alto-renome-protocolo-madri"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-17T14:14:16.295Z"
     }
   }
 }

@@ -170,6 +170,12 @@ Em 2026, com a digitalização do sistema e-Marcas e a atuação mais ágil da C
 
 Veja também nosso guia sobre [quanto custa registrar uma marca no INPI]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}}) e o [passo a passo para consultar o andamento de processos no INPI]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}}).
 
+Leia também:
+
+- [Trademark Cancellation for Non-Use in Brazil: Complete Guide [2026]]({{< relref "posts/trademark-cancellation-non-use-brazil-inpi-guide/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+
 ---
 
 Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>

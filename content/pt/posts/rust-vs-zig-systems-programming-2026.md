@@ -127,9 +127,9 @@ Tanto Roc quanto Bun tomaram a decisão certa para seus projetos — em direçõ
 
 Leia também:
 
-- [How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
-- [Linux, Windows or macOS: Which Operating System to Use in 2026?]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
-- [How to Choose Developer Tools That Last: The Invisible Tools Framework [2026]]({{< relref "posts/developer-tools-invisible-framework-2026/" >}})
+- [Como a IA Muda a Economia das Reescrevaturas de Software [2026]: Por que a Consistência do Código-Fonte é Sua Nova Vantagem Competitiva]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [Linux vs Windows vs macOS 2026: Comparação Completa e Qual Escolher]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
+- [Como Escolher Ferramentas para Desenvolvedores que Duram: O Framework das Ferramentas Invisíveis [2026]]({{< relref "posts/developer-tools-invisible-framework-2026/" >}})
 
 ---
 
