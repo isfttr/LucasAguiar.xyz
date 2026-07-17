@@ -127,6 +127,12 @@ There is no single best agent. The right choice depends on your workflow:
 - [How AI Coding Agents Actually Work: An Architectural Guide]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
 - [How to Safely Run AI Coding Agents: A Practical Sandboxing Guide]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
 
+Read also:
+
+- [How AI Coding Agents Actually Work: An Architectural Guide [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
+- [How to Safely Run AI Coding Agents: A Practical Sandboxing Guide [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
+- [How AI Coding Agents Actually Work: An Architectural Guide [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
+
 ---
 
 Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>

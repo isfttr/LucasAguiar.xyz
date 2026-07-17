@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T14:14:16.295Z",
+  "last_updated": "2026-07-17T18:11:30.080Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2612,7 +2612,7 @@
     "trademark-cancellation-non-use-brazil-inpi-guide": {
       "slug": "trademark-cancellation-non-use-brazil-inpi-guide",
       "title_en": "Trademark Cancellation for Non-Use in Brazil: Complete Guide [2026]",
-      "title_pt": "Trademark Cancellation for Non-Use in Brazil: Complete Guide [2026]",
+      "title_pt": "Cancelamento de Marca por Não Uso no Brasil: Guia Completo [2026]",
       "tags": [
         "trademarks",
         "inpi",
@@ -2624,18 +2624,18 @@
         "article"
       ],
       "description_en": "Complete guide to trademark cancellation (caducidade) for non-use before the Brazilian Patent and Trademark Office (INPI): deadlines, legal requirements, costs per class, procedure, and how to defend your registration.",
-      "content_hash_en": "d1ff259241a58e7b6914b0ff8781e87b753b97ea9da11c29c667cfa52c239a1b",
+      "content_hash_en": "037de080ae39c1ae95f53c7700eacea0f062b1395179347a01241c238c3bd662",
       "backlinks": [
         "caducidade-marca-inpi-guia-2026",
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
         "inpi-manual-marcas-alto-renome-protocolo-madri"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-17T14:14:00.875Z"
     },
     "caducidade-marca-inpi-guia-2026": {
       "slug": "caducidade-marca-inpi-guia-2026",
-      "title_en": "Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]",
+      "title_en": "Trademark Expiration at INPI: Complete Guide on Loss and Defense of Registration [2026]",
       "title_pt": "Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]",
       "tags": [
         "marcas",
@@ -2647,16 +2647,39 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo sobre caducidade de registro de marca no INPI: prazos, requisitos legais, custos por classe, procedimento passo a passo e como defender o registro contra o pedido de extinção.",
-      "content_hash_en": null,
-      "content_hash_pt": "a16be1c40c3449b54c0d445d6f76a954712ae0a52d384976bbb4260a5587f7c4",
+      "description_en": "Complete guide on trademark registration expiration at INPI: deadlines, legal requirements, costs per class, step-by-step procedure, and how to defend the registration against the extinction request.",
+      "content_hash_en": "0ea000c90540e0d3963340d5daff311ff358cc825c6091e73bd55b546f97eda3",
       "backlinks": [
-        "trademark-cancellation-non-use-brazil-inpi-guide",
         "quanto-custa-registrar-marca-inpi-2026",
-        "inpi-manual-marcas-alto-renome-protocolo-madri"
+        "como-consultar-andamento-processo-inpi",
+        "trademark-cancellation-non-use-brazil-inpi-guide"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-17T14:14:16.295Z"
+    },
+    "ai-coding-agents-comparison-2026": {
+      "slug": "ai-coding-agents-comparison-2026",
+      "title_en": "AI Coding Agents Compared: Claude Code vs Cursor vs GitHub Copilot vs Aider [2026]",
+      "title_pt": "AI Coding Agents Compared: Claude Code vs Cursor vs GitHub Copilot vs Aider [2026]",
+      "tags": [
+        "ai",
+        "coding-agents",
+        "dev-tools",
+        "comparison",
+        "claude"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Head-to-head comparison of the four major AI coding agents available in 2026. Covers architecture, pricing, security, workflow fit, and when to choose each tool — with updated data on Claude Code's recent controversy and the rise of competitive agents.",
+      "content_hash_en": "6a50bfa081ecb959b9609b3a95de9bca0c228c185eb8add9c583b54b98b0894d",
+      "backlinks": [
+        "ai-coding-agents-architectural-guide-2026",
+        "sandboxing-ai-coding-agents-guide-2026",
+        "ai-coding-agents-architectural-guide-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }
