@@ -160,8 +160,9 @@ Para mais detalhes sobre cada modalidade de proteção intelectual no Brasil, co
 
 Leia também:
 
-- [Como Registrar um Programa de Computador no INPI: Guia Completo]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
-- [Guia de Patentes de Inteligência Artificial Generativa no Brasil]({{< relref "posts/patentes-inteligencia-artificial-generativa-brasil-guia-2026/" >}})
+- [Patentes de Inteligência Artificial Generativa no Brasil: Guia Completo [2026]]({{< relref "posts/patentes-inteligencia-artificial-generativa-brasil-guia-2026/" >}})
+- [Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
+- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 
 ---
 

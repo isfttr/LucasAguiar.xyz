@@ -159,7 +159,7 @@ A jurisprudência do CGREC, no entanto, é rigorosa — meras alegações de "cr
 Leia também:
 
 - [Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
-- [Novo Nordisk vs. EMS na Justiça: A disputa pela marca Ozivy e o valor do branding farmacêutico]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
 - [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 
 ---

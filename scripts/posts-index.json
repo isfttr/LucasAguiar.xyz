@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T18:11:30.080Z",
+  "last_updated": "2026-07-18T14:10:56.145Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2624,7 +2624,7 @@
         "article"
       ],
       "description_en": "Complete guide to trademark cancellation (caducidade) for non-use before the Brazilian Patent and Trademark Office (INPI): deadlines, legal requirements, costs per class, procedure, and how to defend your registration.",
-      "content_hash_en": "037de080ae39c1ae95f53c7700eacea0f062b1395179347a01241c238c3bd662",
+      "content_hash_en": "a34b98f9a9323f256781914e5173f1d8a80db8d227ec6f478549ed95fe889130",
       "backlinks": [
         "caducidade-marca-inpi-guia-2026",
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
@@ -2635,7 +2635,7 @@
     },
     "caducidade-marca-inpi-guia-2026": {
       "slug": "caducidade-marca-inpi-guia-2026",
-      "title_en": "Trademark Expiration at INPI: Complete Guide on Loss and Defense of Registration [2026]",
+      "title_en": "Trademark Cancellation at INPI: Complete Guide on Loss and Defense of Registration [2026]",
       "title_pt": "Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]",
       "tags": [
         "marcas",
@@ -2647,12 +2647,12 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide on trademark registration expiration at INPI: deadlines, legal requirements, costs per class, step-by-step procedure, and how to defend the registration against the extinction request.",
-      "content_hash_en": "0ea000c90540e0d3963340d5daff311ff358cc825c6091e73bd55b546f97eda3",
+      "description_en": "Complete guide on trademark registration expiration at INPI: deadlines, legal requirements, costs per class, step-by-step procedure, and how to defend the registration against a cancellation request.",
+      "content_hash_en": "73c839c012c9cddd3ec0fd1a041622ae5137f4f9640b84ab5271afad65e81a7e",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "como-consultar-andamento-processo-inpi",
-        "trademark-cancellation-non-use-brazil-inpi-guide"
+        "quanto-custa-registrar-marca-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-17T14:14:16.295Z"
@@ -2660,7 +2660,7 @@
     "ai-coding-agents-comparison-2026": {
       "slug": "ai-coding-agents-comparison-2026",
       "title_en": "AI Coding Agents Compared: Claude Code vs Cursor vs GitHub Copilot vs Aider [2026]",
-      "title_pt": "AI Coding Agents Compared: Claude Code vs Cursor vs GitHub Copilot vs Aider [2026]",
+      "title_pt": "Agentes de Codificação de IA Comparados: Claude Code vs Cursor vs GitHub Copilot vs Aider [2026]",
       "tags": [
         "ai",
         "coding-agents",
@@ -2672,11 +2672,36 @@
         "article"
       ],
       "description_en": "Head-to-head comparison of the four major AI coding agents available in 2026. Covers architecture, pricing, security, workflow fit, and when to choose each tool — with updated data on Claude Code's recent controversy and the rise of competitive agents.",
-      "content_hash_en": "6a50bfa081ecb959b9609b3a95de9bca0c228c185eb8add9c583b54b98b0894d",
+      "content_hash_en": "88eec548cbff42d3121c2ea400351fd0f59472e12deb2af2c7d99b3ce8a893fd",
       "backlinks": [
         "ai-coding-agents-architectural-guide-2026",
         "sandboxing-ai-coding-agents-guide-2026",
         "ai-coding-agents-architectural-guide-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "patente-software-vs-registro-programa-computador-brasil": {
+      "slug": "patente-software-vs-registro-programa-computador-brasil",
+      "title_en": "Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]",
+      "title_pt": "Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]",
+      "tags": [
+        "patentes",
+        "programa-de-computador",
+        "inpi",
+        "propriedade-intelectual",
+        "software"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo comparando patente de invenção implementada por computador e registro de programa de computador no INPI. Quando usar cada um, custos, prazos, requisitos legais e decisão prática para startups e desenvolvedores.",
+      "content_hash_en": null,
+      "content_hash_pt": "103da245a06c435ba964452cd4216d0e377f5a93bc7f101b37fafd66ea890757",
+      "backlinks": [
+        "patentes-inteligencia-artificial-generativa-brasil-guia-2026",
+        "guia-registro-programa-computador-inpi",
+        "inpi-credenciamento-busca-anterioridade-patentes"
       ],
       "backlink_source": "file",
       "last_processed": null

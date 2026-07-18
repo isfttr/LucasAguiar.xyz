@@ -130,9 +130,9 @@ Não existe um único melhor agente. A escolha certa depende do seu fluxo de tra
 
 Leia também:
 
-- [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetural [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
-- [Como Executar Agentes de Codificação de IA com Segurança: Um Guia Prático de Sandboxing [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
-- [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetural [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
+- [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
+- [Como Executar com Segurança Agentes de Codificação de IA: Um Guia Prático de Sandboxing [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
+- [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
 
 ---
 

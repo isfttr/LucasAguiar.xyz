@@ -157,7 +157,7 @@ The CGREC's jurisprudence, however, is strict — mere claims of "economic crisi
 
 Read also:
 
-- [Trademark Expiration at INPI: Complete Guide on Loss and Defense of Registration [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
+- [Trademark Cancellation at INPI: Complete Guide on Loss and Defense of Registration [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
 - [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
 - [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 

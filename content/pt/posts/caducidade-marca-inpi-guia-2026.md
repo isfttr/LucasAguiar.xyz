@@ -174,7 +174,7 @@ Leia também:
 
 - [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [Cancelamento de Marca por Não Uso no Brasil: Guia Completo [2026]]({{< relref "posts/trademark-cancellation-non-use-brazil-inpi-guide/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 
