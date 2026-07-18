@@ -273,10 +273,11 @@ services:
 
 SQLite is an extraordinary piece of engineering — reliable, fast, and remarkably capable for a file-based database. With the right pragmas and a basic understanding of its internals, it can serve as the backbone of self-hosted applications for years without issues.
 
-Also read:
+Read also:
 
-- [Linux, Windows or macOS: Which Operating System to Use in 2026?]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
-- [Fix Custom Models Bug in Open WebUI]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [How to migrate from Proxmox VE 8 to 9: step-by-step guide [2026]]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
 
 ---
 

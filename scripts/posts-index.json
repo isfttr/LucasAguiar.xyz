@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T14:10:56.145Z",
+  "last_updated": "2026-07-18T18:08:16.035Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2624,7 +2624,7 @@
         "article"
       ],
       "description_en": "Complete guide to trademark cancellation (caducidade) for non-use before the Brazilian Patent and Trademark Office (INPI): deadlines, legal requirements, costs per class, procedure, and how to defend your registration.",
-      "content_hash_en": "a34b98f9a9323f256781914e5173f1d8a80db8d227ec6f478549ed95fe889130",
+      "content_hash_en": "536b519825aca8b3a8d9dd3b13de91349844e0ba946ef27992836680594de6d1",
       "backlinks": [
         "caducidade-marca-inpi-guia-2026",
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
@@ -2635,7 +2635,7 @@
     },
     "caducidade-marca-inpi-guia-2026": {
       "slug": "caducidade-marca-inpi-guia-2026",
-      "title_en": "Trademark Cancellation at INPI: Complete Guide on Loss and Defense of Registration [2026]",
+      "title_en": "Trademark Lapse at INPI: Complete Guide on Loss and Defense of Registration [2026]",
       "title_pt": "Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]",
       "tags": [
         "marcas",
@@ -2647,8 +2647,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide on trademark registration expiration at INPI: deadlines, legal requirements, costs per class, step-by-step procedure, and how to defend the registration against a cancellation request.",
-      "content_hash_en": "73c839c012c9cddd3ec0fd1a041622ae5137f4f9640b84ab5271afad65e81a7e",
+      "description_en": "Complete guide on trademark registration cancellation at INPI: deadlines, legal requirements, costs per class, step-by-step procedure, and how to defend the registration against the cancellation request.",
+      "content_hash_en": "f256af6b57a68db1d57f05f1a16e294882b6653c01123fe2f52ad94899cc9059",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "como-consultar-andamento-processo-inpi",
@@ -2683,7 +2683,7 @@
     },
     "patente-software-vs-registro-programa-computador-brasil": {
       "slug": "patente-software-vs-registro-programa-computador-brasil",
-      "title_en": "Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]",
+      "title_en": "Software Patent vs Computer Program Registration in Brazil: What's the Difference? [2026]",
       "title_pt": "Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]",
       "tags": [
         "patentes",
@@ -2695,9 +2695,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo comparando patente de invenção implementada por computador e registro de programa de computador no INPI. Quando usar cada um, custos, prazos, requisitos legais e decisão prática para startups e desenvolvedores.",
-      "content_hash_en": null,
-      "content_hash_pt": "103da245a06c435ba964452cd4216d0e377f5a93bc7f101b37fafd66ea890757",
+      "description_en": "Complete guide comparing computer-implemented invention patent and computer program registration at INPI. When to use each, costs, deadlines, legal requirements, and practical decision for startups and developers.",
+      "content_hash_en": "fad5d1c847a9409dd0cb4490c43e8c63fe23621865f197b4e2688fd57d5a401c",
       "backlinks": [
         "patentes-inteligencia-artificial-generativa-brasil-guia-2026",
         "guia-registro-programa-computador-inpi",
@@ -2705,6 +2704,30 @@
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "sqlite-performance-best-practices-guide-2026": {
+      "slug": "sqlite-performance-best-practices-guide-2026",
+      "title_en": "SQLite Performance and Best Practices: A Practical Guide for Developers and Homelab Users [2026]",
+      "title_pt": "SQLite Performance and Best Practices: A Practical Guide for Developers and Homelab Users [2026]",
+      "tags": [
+        "sqlite",
+        "database",
+        "homelab",
+        "performance",
+        "linux"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Comprehensive guide to running SQLite in production-like environments: WAL mode, ANALYZE, VACUUM, concurrency strategies, backup, and performance tuning for self-hosted projects.",
+      "content_hash_en": "e360cc70978c0d8e9047973f51caf3564999d6e5f404d76498e61e6275fcaf0f",
+      "backlinks": [
+        "proxmox-backup-server-community-scripts-2026",
+        "proxmox-mac-mini-2018-t2",
+        "migracao-proxmox-8-9-2026"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-18T18:08:16.035Z"
     }
   }
 }
