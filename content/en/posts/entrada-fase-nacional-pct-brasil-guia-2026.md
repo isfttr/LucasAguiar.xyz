@@ -171,9 +171,9 @@ Yes. PCT applications in the national phase can request prioritized examination 
 
 Read also:
 
-- [The Global Innovation Map in 2025: Who is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
 - [International Patent Classification (IPC): Practical Guide to Understanding and Using Patent Codes in Brazil [2026]]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
-- [Complete Guide to Prioritized Patent Examination at the INPI: Modalities, Costs and How to Apply [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
+- [Complete Guide to Priority Patent Processing at INPI: Modalities, Costs, and How to Apply [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
 
 ---
 

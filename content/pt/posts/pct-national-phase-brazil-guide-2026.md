@@ -171,9 +171,9 @@ Sim. Pedidos PCT em fase nacional podem solicitar exame prioritário (Resoluçã
 
 Leia também:
 
-- [O Mapa Global de Inovação em 2025: Quem Está Patenteador o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [Tipos de Proteção da Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
-- [Guia Completo do Trâmite Prioritário de Patentes no INPI: Modalidades, Custos e Como Solicitar [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
+- [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [Guia Completo de Trâmite Prioritário de Patentes no INPI: Modalidades, Custos e Como Solicitar [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
 
 ---
 
