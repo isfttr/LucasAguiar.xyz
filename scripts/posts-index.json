@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T18:08:16.035Z",
+  "last_updated": "2026-07-19T14:17:19.447Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2624,7 +2624,7 @@
         "article"
       ],
       "description_en": "Complete guide to trademark cancellation (caducidade) for non-use before the Brazilian Patent and Trademark Office (INPI): deadlines, legal requirements, costs per class, procedure, and how to defend your registration.",
-      "content_hash_en": "536b519825aca8b3a8d9dd3b13de91349844e0ba946ef27992836680594de6d1",
+      "content_hash_en": "5db72bb002995e82df4184b91ed134a2e9918ada2d48e25599d8641aabd52292",
       "backlinks": [
         "caducidade-marca-inpi-guia-2026",
         "novo-nordisk-ozivy-anulacao-marca-semaglutida",
@@ -2648,7 +2648,7 @@
         "article"
       ],
       "description_en": "Complete guide on trademark registration cancellation at INPI: deadlines, legal requirements, costs per class, step-by-step procedure, and how to defend the registration against the cancellation request.",
-      "content_hash_en": "f256af6b57a68db1d57f05f1a16e294882b6653c01123fe2f52ad94899cc9059",
+      "content_hash_en": "39519202c21901a042a7b8af619eab4de1426ed923d5df8fbd8df00bd81be34a",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "como-consultar-andamento-processo-inpi",
@@ -2696,7 +2696,7 @@
         "article"
       ],
       "description_en": "Complete guide comparing computer-implemented invention patent and computer program registration at INPI. When to use each, costs, deadlines, legal requirements, and practical decision for startups and developers.",
-      "content_hash_en": "fad5d1c847a9409dd0cb4490c43e8c63fe23621865f197b4e2688fd57d5a401c",
+      "content_hash_en": "431434070840c947b0793249c20b6529d94626624063c997225ef3d37c4fab6f",
       "backlinks": [
         "patentes-inteligencia-artificial-generativa-brasil-guia-2026",
         "guia-registro-programa-computador-inpi",
@@ -2708,7 +2708,7 @@
     "sqlite-performance-best-practices-guide-2026": {
       "slug": "sqlite-performance-best-practices-guide-2026",
       "title_en": "SQLite Performance and Best Practices: A Practical Guide for Developers and Homelab Users [2026]",
-      "title_pt": "SQLite Performance and Best Practices: A Practical Guide for Developers and Homelab Users [2026]",
+      "title_pt": "Desempenho e Melhores Práticas do SQLite: Um Guia Prático para Desenvolvedores e Usuários de Homelab [2026]",
       "tags": [
         "sqlite",
         "database",
@@ -2720,14 +2720,65 @@
         "article"
       ],
       "description_en": "Comprehensive guide to running SQLite in production-like environments: WAL mode, ANALYZE, VACUUM, concurrency strategies, backup, and performance tuning for self-hosted projects.",
-      "content_hash_en": "e360cc70978c0d8e9047973f51caf3564999d6e5f404d76498e61e6275fcaf0f",
+      "content_hash_en": "80642431532347f1747378dba54c3dd75bab859bf5ba98189496bd441b73c8b0",
       "backlinks": [
         "proxmox-backup-server-community-scripts-2026",
         "proxmox-mac-mini-2018-t2",
         "migracao-proxmox-8-9-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-18T18:08:16.035Z"
+    },
+    "pct-national-phase-brazil-guide-2026": {
+      "slug": "pct-national-phase-brazil-guide-2026",
+      "title_en": "PCT National Phase Entry in Brazil: Complete Guide [2026]",
+      "title_pt": "PCT National Phase Entry in Brazil: Complete Guide [2026]",
+      "tags": [
+        "patents",
+        "pct",
+        "inpi",
+        "wipo",
+        "guide",
+        "intellectual-property"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to entering the PCT national phase in Brazil: deadlines, documents, fees, GRU payments, and step-by-step procedures at the INPI for international patent applicants.",
+      "content_hash_en": "b7c356d65a218b900e99d375f6885640fdf30ad11f62f7917bb016b1b6ce2d46",
+      "backlinks": [
+        "mapa-global-patentes-pct-2025-brasil",
+        "ip-protection-types-brazil-complete-guide",
+        "guia-tramite-prioritario-patentes-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "entrada-fase-nacional-pct-brasil-guia-2026": {
+      "slug": "entrada-fase-nacional-pct-brasil-guia-2026",
+      "title_en": "Entrada na Fase Nacional do PCT no Brasil: Guia Completo [2026]",
+      "title_pt": "Entrada na Fase Nacional do PCT no Brasil: Guia Completo [2026]",
+      "tags": [
+        "patentes",
+        "pct",
+        "inpi",
+        "wipo",
+        "guia",
+        "propriedade-intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo sobre como entrar na fase nacional do PCT no Brasil: prazos, documentos, custos, GRU e procedimentos passo a passo no INPI para estrangeiros depositarem patentes no país.",
+      "content_hash_en": null,
+      "content_hash_pt": "313ce8c4d0bfdbc9190be30b44f75221c79cee4b53a4cf83a81d156f66c1b853",
+      "backlinks": [
+        "mapa-global-patentes-pct-2025-brasil",
+        "classificacao-internacional-patentes-ipc-guia-brasil",
+        "guia-tramite-prioritario-patentes-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }

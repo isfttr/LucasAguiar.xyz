@@ -171,8 +171,8 @@ Sim. Pedidos PCT em fase nacional podem solicitar o trâmite prioritário (Resol
 Leia também:
 
 - [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [Guia Completo de Classificação Internacional de Patentes (IPC) para o Brasil]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
-- [Guia de Trâmite Prioritário de Patentes no INPI [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
+- [Classificação Internacional de Patentes (IPC): Guia Prático para Entender e Usar Códigos de Patentes no Brasil [2026]]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
+- [Guia Completo de Trâmite Prioritário de Patentes no INPI: Modalidades, Custos e Como Solicitar [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
 
 ---
 

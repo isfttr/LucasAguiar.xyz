@@ -171,8 +171,8 @@ Yes. PCT national phase applications can request priority examination (INPI Reso
 Read also:
 
 - [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [IP Protection Types in Brazil: Complete Guide]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
-- [Priority Examination of Patents at INPI: Guide [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
+- [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [Complete Guide to Priority Patent Processing at INPI: Modalities, Costs, and How to Apply [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
 
 ---
 
