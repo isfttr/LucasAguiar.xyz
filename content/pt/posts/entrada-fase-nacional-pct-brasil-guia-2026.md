@@ -110,7 +110,7 @@ A tabela de retribuições do INPI é atualizada periodicamente. Para 2026, os p
 
 **Nota:** Pessoas físicas, microempresas (ME), microempreendedores individuais (MEI) e entidades sem fins lucrativos têm direito a **70% de redução** nos valores, conforme Resolução INPI/PR nº 294/2022.
 
-Para valores atualizados, consulte a [tabela oficial de retribuições do INPI](https://www.gov.br/inpi/pt-br/servicos/patentes/precos-e-pagamento).
+Para valores atualizados, consulte a [tabela oficial de retribuições do INPI](https://www.gov.br/inpi/pt-br/servicos/patentes/custos).
 
 ## O que acontece após a entrada
 

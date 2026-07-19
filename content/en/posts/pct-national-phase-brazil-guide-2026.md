@@ -110,7 +110,7 @@ INPI's fee table is updated periodically. For 2026, the main costs related to na
 
 **Note:** Individuals, micro-enterprises (ME), individual micro-entrepreneurs (MEI), and non-profit entities receive a **70% fee reduction**, per INPI Resolution No. 294/2022.
 
-For current fees, check the [official INPI fee table](https://www.gov.br/inpi/pt-br/servicos/patentes/precos-e-pagamento).
+For current fees, check the [official INPI fee table](https://www.gov.br/inpi/pt-br/servicos/patentes/custos).
 
 ## What happens after entry
 
