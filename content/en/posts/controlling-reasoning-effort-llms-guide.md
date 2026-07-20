@@ -158,10 +158,11 @@ Here is the estimated cost impact of reasoning effort levels across providers (p
 
 The era of "one model, one response mode" is ending. Every query now has a cost dial — and knowing when to turn it up or down is the most practical skill a developer working with LLMs can develop in 2026.
 
-Leia também:
+Read also:
 
-- [GPT-5.6 Sol, Terra, Luna: What the New Reasoning Levels Mean]({{< relref "posts/gpt-5-6-openai-sol-terra-luna-2026/" >}})
-- [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [SubQ: The First Fully Subquadratic LLM — Cost Comparison with Transformers [2026]]({{< relref "posts/subq-subquadratic-llm-atencao-linear-comparacao-custos-2026/" >}})
+- [GPT-5.6 [2026]: Sol, Terra, Luna — OpenAI's Three-Tier Frontier Model Family]({{< relref "posts/gpt-5-6-openai-sol-terra-luna-2026/" >}})
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T14:16:28.517Z",
+  "last_updated": "2026-07-20T18:08:51.285Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2805,7 +2805,7 @@
     },
     "busca-patentes-inpi-guia-pratico": {
       "slug": "busca-patentes-inpi-guia-pratico",
-      "title_en": "Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]",
+      "title_en": "Patent Search at INPI: Practical Step-by-Step Guide [2026]",
       "title_pt": "Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]",
       "tags": [
         "patentes",
@@ -2818,9 +2818,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo para fazer busca de patentes na base do INPI: acesso ao sistema, pesquisa básica e avançada, classificação IPC, interpretação de resultados e dicas para encontrar o estado da técnica.",
-      "content_hash_en": null,
-      "content_hash_pt": "d2c0eac5d99a13d9d454c7cfb8f5624822f6bdfe92dcc7b5fdbe6bf9dcebad45",
+      "description_en": "Complete guide to conducting patent searches in the INPI database: system access, basic and advanced search, IPC classification, interpreting results, and tips for finding prior art.",
+      "content_hash_en": "7a8d5f8702a7bc1e0b0c671091c9328f4da9bdf8be672802ff8328713820d1f5",
       "backlinks": [
         "classificacao-internacional-patentes-ipc-guia-brasil",
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
@@ -2828,6 +2827,30 @@
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "controlling-reasoning-effort-llms-guide": {
+      "slug": "controlling-reasoning-effort-llms-guide",
+      "title_en": "How to Control Reasoning Effort in LLMs: A Practical Guide [2026]",
+      "title_pt": "How to Control Reasoning Effort in LLMs: A Practical Guide [2026]",
+      "tags": [
+        "llm",
+        "prompt-engineering",
+        "ai",
+        "dev",
+        "optimization"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Practical guide to controlling reasoning depth in LLMs — from API parameters and prompt techniques to cost optimization across GPT-5.6, Claude, and open-source models.",
+      "content_hash_en": "98baa6fc2b83fd767a28ed4e0f0878d8469db0e63c2fa03b1e89ed4021fee1ce",
+      "backlinks": [
+        "anthropic-thinking-process-paper",
+        "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
+        "gpt-5-6-openai-sol-terra-luna-2026"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-20T18:08:51.284Z"
     }
   }
 }

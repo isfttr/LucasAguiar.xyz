@@ -209,8 +209,8 @@ To go deeper, also check the guide on [accreditation for prior art patent search
 Read also:
 
 - [International Patent Classification (IPC): Practical Guide to Understanding and Using Patent Codes in Brazil [2026]]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
-- [INPI launches new version of the Patent Module: what changes in 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
-- [INPI to pay R$ 1,025 for patent searches: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [INPI launches new version of the Patents Module: what changes in 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
+- [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 
 ---
 
