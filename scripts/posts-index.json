@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T18:08:29.885Z",
+  "last_updated": "2026-07-20T14:16:28.517Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2770,7 +2770,7 @@
         "article"
       ],
       "description_en": "Complete guide on how to enter the national phase of the PCT in Brazil: deadlines, documents, costs, GRU and step-by-step procedures at INPI for foreigners to file patents in the country.",
-      "content_hash_en": "1de7b3b6e5dfe63cc3dd21383d08556916e437fc0305bf4a2919707c2270b510",
+      "content_hash_en": "7ea9c87c5aa7cf70ed2b5d9d46901b4a7e57b5bffbed2cbdbdbd3dd96f09d4fd",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
         "classificacao-internacional-patentes-ipc-guia-brasil",
@@ -2782,7 +2782,7 @@
     "self-hosted-speech-to-text-homelab-guide-2026": {
       "slug": "self-hosted-speech-to-text-homelab-guide-2026",
       "title_en": "Self-Hosted Speech-to-Text in Your Homelab: A Practical Guide [2026]",
-      "title_pt": "Self-Hosted Speech-to-Text in Your Homelab: A Practical Guide [2026]",
+      "title_pt": "Auto-hospedagem de Fala para Texto no Seu Homelab: Um Guia Prático [2026]",
       "tags": [
         "homelab",
         "selfhosted",
@@ -2794,14 +2794,40 @@
         "article"
       ],
       "description_en": "Complete guide to self-hosting speech-to-text in your homelab: Whisper.cpp, Transcribe.cpp, faster-whisper, and Moonshine. Docker setup, GPU acceleration, and integration tips.",
-      "content_hash_en": "6bf81611fbb7f05710d6c86641f8675331aa3c87816f1af74204a5ebd251035a",
+      "content_hash_en": "38251773e4bf512a8f792486ccf85ee7ac11611fe696f6b94dc1708808249687",
       "backlinks": [
         "run-llms-old-server-homelab-guide-2026",
         "creating-my-ai-assistant-locally",
         "configuracao-whatsapp-hermes"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-19T18:08:29.884Z"
+    },
+    "busca-patentes-inpi-guia-pratico": {
+      "slug": "busca-patentes-inpi-guia-pratico",
+      "title_en": "Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]",
+      "title_pt": "Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]",
+      "tags": [
+        "patentes",
+        "inpi",
+        "guia",
+        "busca-de-anterioridade",
+        "propriedade-intelectual",
+        "classificacao-ipc"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo para fazer busca de patentes na base do INPI: acesso ao sistema, pesquisa básica e avançada, classificação IPC, interpretação de resultados e dicas para encontrar o estado da técnica.",
+      "content_hash_en": null,
+      "content_hash_pt": "d2c0eac5d99a13d9d454c7cfb8f5624822f6bdfe92dcc7b5fdbe6bf9dcebad45",
+      "backlinks": [
+        "classificacao-internacional-patentes-ipc-guia-brasil",
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
+        "inpi-credenciamento-busca-anterioridade-patentes"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }

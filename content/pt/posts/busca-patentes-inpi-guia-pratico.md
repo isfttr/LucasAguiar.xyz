@@ -207,8 +207,9 @@ Para aprofundar, veja também o guia sobre [credenciamento para busca de anterio
 
 Leia também:
 
-- [Classificação Internacional de Patentes (IPC) no Brasil: Guia Completo]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
+- [Classificação Internacional de Patentes (IPC): Guia Prático para Entender e Usar Códigos de Patentes no Brasil [2026]]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
 - [INPI lança nova versão do Módulo de Patentes: o que muda em 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
+- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 
 ---
 
