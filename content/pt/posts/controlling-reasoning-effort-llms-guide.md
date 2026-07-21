@@ -161,9 +161,9 @@ A era de "um modelo, um modo de resposta" está terminando. Cada consulta agora 
 
 Leia também:
 
-- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [SubQ: The First Fully Subquadratic LLM — Cost Comparison with Transformers [2026]]({{< relref "posts/subq-subquadratic-llm-atencao-linear-comparacao-custos-2026/" >}})
-- [GPT-5.6 [2026]: Sol, Terra, Luna — OpenAI's Three-Tier Frontier Model Family]({{< relref "posts/gpt-5-6-openai-sol-terra-luna-2026/" >}})
+- [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [SubQ: O Primeiro LLM Totalmente Subquadrático — Comparação de Custos com Transformers [2026]]({{< relref "posts/subq-subquadratic-llm-atencao-linear-comparacao-custos-2026/" >}})
+- [GPT-5.6 [2026]: Sol, Terra, Luna — Família de Modelos de Fronteira de Três Camadas da OpenAI]({{< relref "posts/gpt-5-6-openai-sol-terra-luna-2026/" >}})
 
 ---
 

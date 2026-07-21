@@ -178,9 +178,9 @@ O tempo médio de exame no INPI varia por área tecnológica. Em 2026, o backlog
 
 Leia também:
 
-- [Trâmite Prioritário de Patentes no INPI: Guia Completo]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
-- [Busca de Patentes no INPI: Guia Prático]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
-- [Classificação Internacional de Patentes (IPC): Guia para o Brasil]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
+- [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Tipos de Proteção Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
+- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
 
 ---
 

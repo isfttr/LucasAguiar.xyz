@@ -164,9 +164,9 @@ Average examination time at INPI varies by technology field. In 2026, the backlo
 
 Read also:
 
-- [Priority Examination of Patents at INPI: Complete Guide]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
-- [Patent Searching at INPI: Practical Guide]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
-- [International Patent Classification (IPC): Guide for Brazil]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [Patent Search at INPI: Practical Step-by-Step Guide [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T18:08:51.285Z",
+  "last_updated": "2026-07-21T14:13:31.362Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2819,7 +2819,7 @@
         "article"
       ],
       "description_en": "Complete guide to conducting patent searches in the INPI database: system access, basic and advanced search, IPC classification, interpreting results, and tips for finding prior art.",
-      "content_hash_en": "7a8d5f8702a7bc1e0b0c671091c9328f4da9bdf8be672802ff8328713820d1f5",
+      "content_hash_en": "219e49cc88f1e9b4420927a8dea91e75da04d203d8a9b2a6292b07917213017a",
       "backlinks": [
         "classificacao-internacional-patentes-ipc-guia-brasil",
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
@@ -2831,7 +2831,7 @@
     "controlling-reasoning-effort-llms-guide": {
       "slug": "controlling-reasoning-effort-llms-guide",
       "title_en": "How to Control Reasoning Effort in LLMs: A Practical Guide [2026]",
-      "title_pt": "How to Control Reasoning Effort in LLMs: A Practical Guide [2026]",
+      "title_pt": "Como Controlar o Esforço de Raciocínio em LLMs: Um Guia Prático [2026]",
       "tags": [
         "llm",
         "prompt-engineering",
@@ -2843,14 +2843,63 @@
         "article"
       ],
       "description_en": "Practical guide to controlling reasoning depth in LLMs — from API parameters and prompt techniques to cost optimization across GPT-5.6, Claude, and open-source models.",
-      "content_hash_en": "98baa6fc2b83fd767a28ed4e0f0878d8469db0e63c2fa03b1e89ed4021fee1ce",
+      "content_hash_en": "cd75696953eab000d74f5403273695ed535fb985ade33f9b7e845f37382fdd90",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
         "gpt-5-6-openai-sol-terra-luna-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-20T18:08:51.284Z"
+    },
+    "how-to-file-patent-inpi-2026-guide": {
+      "slug": "how-to-file-patent-inpi-2026-guide",
+      "title_en": "How to File a Patent at INPI: Complete Step-by-Step Guide [2026]",
+      "title_pt": "How to File a Patent at INPI: Complete Step-by-Step Guide [2026]",
+      "tags": [
+        "patents",
+        "inpi",
+        "brazil",
+        "intellectual-property",
+        "guide"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete step-by-step guide to filing a patent application at the Brazilian Patent Office (INPI) in 2026: documentation, costs, the new Patents Services Module, PAG registration, and post-filing management.",
+      "content_hash_en": "0903c57bbc98c2e3dcbaa70aecd108454a90008565bdd1862da30cd6d9f0db37",
+      "backlinks": [
+        "inpi-automation-roadmap-2025-2029",
+        "ip-protection-types-brazil-complete-guide",
+        "busca-patentes-inpi-guia-pratico"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "guia-deposito-patente-inpi-2026": {
+      "slug": "guia-deposito-patente-inpi-2026",
+      "title_en": "Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]",
+      "title_pt": "Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]",
+      "tags": [
+        "patentes",
+        "inpi",
+        "guia",
+        "propriedade-intelectual",
+        "inovacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo para depositar uma patente no INPI em 2026: documentação necessária, acesso ao e-Patentes e ao novo Módulo de Serviços de Patentes, custos por tipo de depositante, prazos e passo a passo ilustrado.",
+      "content_hash_en": null,
+      "content_hash_pt": "98cfb31002b37d77241a03756f4bc6f8f2945e90ddffb3db9889714ffc19c8c4",
+      "backlinks": [
+        "inpi-automation-roadmap-2025-2029",
+        "tipos-protecao-intelectual-brasil-guia-completo",
+        "inpi-acesso-cnpj-conta-govbr-guia-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }
