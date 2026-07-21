@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T14:13:31.362Z",
+  "last_updated": "2026-07-21T18:08:59.869Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2855,7 +2855,7 @@
     "how-to-file-patent-inpi-2026-guide": {
       "slug": "how-to-file-patent-inpi-2026-guide",
       "title_en": "How to File a Patent at INPI: Complete Step-by-Step Guide [2026]",
-      "title_pt": "How to File a Patent at INPI: Complete Step-by-Step Guide [2026]",
+      "title_pt": "Como Depositar uma Patente no INPI: Guia Completo Passo a Passo [2026]",
       "tags": [
         "patents",
         "inpi",
@@ -2867,7 +2867,7 @@
         "article"
       ],
       "description_en": "Complete step-by-step guide to filing a patent application at the Brazilian Patent Office (INPI) in 2026: documentation, costs, the new Patents Services Module, PAG registration, and post-filing management.",
-      "content_hash_en": "0903c57bbc98c2e3dcbaa70aecd108454a90008565bdd1862da30cd6d9f0db37",
+      "content_hash_en": "51a21eb59e4871fa55b0496e580e4f16a6f0568f7d568db743f46a9a645bc480",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "ip-protection-types-brazil-complete-guide",
@@ -2878,7 +2878,7 @@
     },
     "guia-deposito-patente-inpi-2026": {
       "slug": "guia-deposito-patente-inpi-2026",
-      "title_en": "Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]",
+      "title_en": "How to File a Patent at INPI: Complete Step-by-Step Guide [2026]",
       "title_pt": "Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]",
       "tags": [
         "patentes",
@@ -2890,9 +2890,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo para depositar uma patente no INPI em 2026: documentação necessária, acesso ao e-Patentes e ao novo Módulo de Serviços de Patentes, custos por tipo de depositante, prazos e passo a passo ilustrado.",
-      "content_hash_en": null,
-      "content_hash_pt": "98cfb31002b37d77241a03756f4bc6f8f2945e90ddffb3db9889714ffc19c8c4",
+      "description_en": "Complete guide to filing a patent at the INPI in 2026: required documentation, access to e-Patentes and the new Patent Services Module, costs per type of applicant, deadlines, and illustrated step-by-step.",
+      "content_hash_en": "db47ff2a8b7ef1043a78d247a0366d3b29fe7e8576744a4a6347307556fe45f7",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "tipos-protecao-intelectual-brasil-guia-completo",
@@ -2900,6 +2899,30 @@
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "python-profiling-315-jit-tachyon-guide": {
+      "slug": "python-profiling-315-jit-tachyon-guide",
+      "title_en": "How to Profile Python Code in 2026: A Guide to Python 3.15's JIT Compiler and Tachyon Profiler",
+      "title_pt": "How to Profile Python Code in 2026: A Guide to Python 3.15's JIT Compiler and Tachyon Profiler",
+      "tags": [
+        "python",
+        "profiling",
+        "performance",
+        "JIT",
+        "developer-tools"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to Python 3.15's new profiling ecosystem: the upgraded JIT compiler with ultra-low overhead tracing, Tachyon statistical sampling profiler, migration from cProfile, and practical code examples. [2026]",
+      "content_hash_en": "d1828b59b443381911a2934b6ebf98cba6346e9061fcaf6f0dae06f7abba0a9e",
+      "backlinks": [
+        "python-modules-guide",
+        "sqlite-performance-best-practices-guide-2026",
+        "one-week-review-gitbutler"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-21T18:08:59.868Z"
     }
   }
 }

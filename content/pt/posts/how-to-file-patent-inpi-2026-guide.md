@@ -165,9 +165,9 @@ O tempo médio de exame no INPI varia conforme a área tecnológica. Em 2026, o 
 
 Leia também:
 
-- [Roteiro ambicioso de automação do INPI]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
-- [Tipos de proteção da propriedade intelectual no Brasil: Guia comparativo completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
-- [Busca de patentes no INPI: Guia prático passo a passo [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
+- [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
 
 ---
 

@@ -208,10 +208,11 @@ Python 3.15's profiling improvements represent the most significant upgrade to p
 
 If you're maintaining Python code in 2026, the single most impactful change you can make this year is switching from `cProfile` to `profiling.sampling` for your day-to-day performance work. The overhead difference — 4.5× vs. 900× in extreme cases — is the difference between profiling as a chore and profiling as a reflex.
 
-Also read:
+Read also:
 
-- [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [Linux, Windows or macOS: Which Operating System to Use in 2026?]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
+- [Python Modules: A Beginner's Guide to Organizing Your Code]({{< relref "posts/python-modules-guide/" >}})
+- [SQLite Performance and Best Practices: A Practical Guide for Developers and Homelab Users [2026]]({{< relref "posts/sqlite-performance-best-practices-guide-2026/" >}})
+- [Two Weeks with GitButler: Streamlining My Git Workflow]({{< relref "posts/one-week-review-gitbutler/" >}})
 
 ---
 
