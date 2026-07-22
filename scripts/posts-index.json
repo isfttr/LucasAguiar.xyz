@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T14:15:52.799Z",
+  "last_updated": "2026-07-22T18:10:35.738Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2927,7 +2927,7 @@
     "patent-opposition-nullity-brazil-inpi-guide-2026": {
       "slug": "patent-opposition-nullity-brazil-inpi-guide-2026",
       "title_en": "Patent Opposition and Nullity in Brazil: Complete Guide to Challenging Patents at the INPI [2026]",
-      "title_pt": "Patent Opposition and Nullity in Brazil: Complete Guide to Challenging Patents at the INPI [2026]",
+      "title_pt": "Oposição e Nulidade de Patentes no Brasil: Guia Completo para Contestar Patentes no INPI [2026]",
       "tags": [
         "inpi",
         "patents",
@@ -2942,7 +2942,7 @@
         "article"
       ],
       "description_en": "Complete guide to challenging patents in Brazil: pre-grant submissions (Art. 31), administrative nullity (Arts. 50-55), judicial nullity actions (Arts. 56-57), and appeals. Deadlines, costs, legal grounds, and step-by-step procedures.",
-      "content_hash_en": "b3aaca702ad5384bcd173bc2b4caff6768e81c066ec756f51a00f3d2e575d647",
+      "content_hash_en": "fe9361072b70fc0f80b3b767a14635d7b5b5c6c3ae80fdf9c6e21d4afc51e951",
       "backlinks": [
         "how-to-file-patent-inpi-2026-guide",
         "como-consultar-andamento-processo-inpi",
@@ -2953,7 +2953,7 @@
     },
     "subsidio-exame-nulidade-patentes-inpi-guia-2026": {
       "slug": "subsidio-exame-nulidade-patentes-inpi-guia-2026",
-      "title_en": "Subsídio ao Exame e Nulidade de Patentes no INPI: Guia Completo de Como Contestar [2026]",
+      "title_en": "Examination Subsidy and Patent Nullity at INPI: Complete Guide on How to Contest [2026]",
       "title_pt": "Subsídio ao Exame e Nulidade de Patentes no INPI: Guia Completo de Como Contestar [2026]",
       "tags": [
         "inpi",
@@ -2968,9 +2968,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo sobre como terceiros podem contestar patentes no INPI: subsídio ao exame técnico (Art. 31), nulidade administrativa, nulidade judicial, recursos e contrarrazões. Prazos, custos, fundamentos legais e passo a passo.",
-      "content_hash_en": null,
-      "content_hash_pt": "7e31208ba722c970c2a9db5ea85e77f79f9e292adc7daddd78a09fdd7b3eab7f",
+      "description_en": "Complete guide on how third parties can challenge patents at the INPI: subsidy to technical examination (Art. 31), administrative nullity, judicial nullity, appeals and counterarguments. Deadlines, costs, legal grounds and step by step.",
+      "content_hash_en": "40cd90f4613798223b23c921c29e6f81cdcd5d61c9ea9e15a156b514c01cbc36",
       "backlinks": [
         "guia-deposito-patente-inpi-2026",
         "como-consultar-andamento-processo-inpi",
@@ -2978,6 +2977,30 @@
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "postgresql-performance-best-practices-homelab-2026": {
+      "slug": "postgresql-performance-best-practices-homelab-2026",
+      "title_en": "PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]",
+      "title_pt": "PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]",
+      "tags": [
+        "postgresql",
+        "database",
+        "selfhosted",
+        "homelab",
+        "performance"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to tuning PostgreSQL for homelab and self-hosted environments: memory, storage, indexing, connection pooling, vacuuming, and benchmarking with real config examples.",
+      "content_hash_en": "18b9d61cc232d67a6e3d609ef86abd5fed8f3e89ac41b1f75da1677af7394b56",
+      "backlinks": [
+        "sqlite-performance-best-practices-guide-2026",
+        "proxmox-mac-mini-2018-t2",
+        "run-llms-old-server-homelab-guide-2026"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-07-22T18:10:35.737Z"
     }
   }
 }

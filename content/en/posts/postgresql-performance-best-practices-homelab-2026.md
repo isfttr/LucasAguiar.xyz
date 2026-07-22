@@ -326,10 +326,11 @@ pgbench -c 4 -T 30 postgres
 
 A typical homelab improvement: from ~300 TPS to ~900 TPS on a 6 GB RAM, 4-core SSD machine with proper tuning. The biggest wins come from `shared_buffers`, `random_page_cost`, and connection pooling.
 
-Also read:
+Read also:
 
-- [SQLite Performance Best Practices for Homelab [2026]]({{< relref "posts/sqlite-performance-best-practices-guide-2026/" >}})
-- [Run LLMs on an Old Server: Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
+- [SQLite Performance and Best Practices: A Practical Guide for Developers and Homelab Users [2026]]({{< relref "posts/sqlite-performance-best-practices-guide-2026/" >}})
+- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
 
 ---
 

@@ -245,11 +245,11 @@ Costs vary significantly: attorneys' fees, court costs (proportional to the valu
 - [Practical Guide to Patent Searching at the INPI]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
 - [Complete Guide to Prioritized Patent Processing at the INPI: Modalities, Costs, and How to Request]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
 
-Also read:
+Read also:
 
-- [How to File a Patent at the INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
-- [How to Check the Status of a Process at the INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [Complete Guide to Prioritized Patent Processing at the INPI: Modalities, Costs, and How to Request [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
+- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Complete Guide to Priority Patent Processing at INPI: Modalities, Costs, and How to Apply [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
 
 ---
 

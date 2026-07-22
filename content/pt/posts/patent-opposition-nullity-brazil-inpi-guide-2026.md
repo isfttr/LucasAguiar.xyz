@@ -249,7 +249,7 @@ Leia também:
 
 - [Como Depositar uma Patente no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/how-to-file-patent-inpi-2026-guide/" >}})
 - [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [Guia Completo sobre Tramitação Prioritária de Patentes no INPI: Modalidades, Custos e Como Solicitar [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
+- [Guia Completo de Trâmite Prioritário de Patentes no INPI: Modalidades, Custos e Como Solicitar [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
 
 ---
 
