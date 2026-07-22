@@ -244,6 +244,12 @@ Costs vary significantly: attorney fees, court costs (proportional to the claim 
 - [PCT National Phase Entry in Brazil: Complete Guide 2026]({{< relref "posts/pct-national-phase-brazil-guide-2026/" >}})
 - [Patent Priority Examination in Brazil: Complete Guide 2026]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
 
+Read also:
+
+- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/how-to-file-patent-inpi-2026-guide/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Complete Guide to Priority Patent Processing at INPI: Modalities, Costs, and How to Apply [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
+
 ---
 
 You can reach out to talk about this and other topics at <contact@lucasaguiar.xyz>

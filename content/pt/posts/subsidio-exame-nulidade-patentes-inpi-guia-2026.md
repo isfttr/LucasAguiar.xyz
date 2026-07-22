@@ -244,6 +244,12 @@ Os custos variam significativamente: honorários advocatícios, custas processua
 - [Guia Prático de Busca de Patentes no INPI]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
 - [Guia Completo de Trâmite Prioritário de Patentes no INPI: Modalidades, Custos e Como Solicitar]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
 
+Leia também:
+
+- [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Guia Completo de Trâmite Prioritário de Patentes no INPI: Modalidades, Custos e Como Solicitar [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
+
 ---
 
 Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>

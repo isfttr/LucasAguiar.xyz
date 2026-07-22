@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T18:08:59.869Z",
+  "last_updated": "2026-07-22T14:15:52.799Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2891,7 +2891,7 @@
         "article"
       ],
       "description_en": "Complete guide to filing a patent at the INPI in 2026: required documentation, access to e-Patentes and the new Patent Services Module, costs per type of applicant, deadlines, and illustrated step-by-step.",
-      "content_hash_en": "db47ff2a8b7ef1043a78d247a0366d3b29fe7e8576744a4a6347307556fe45f7",
+      "content_hash_en": "1cf15d77b920e619218266f0410869f5d9275dde0080bec94c4f27d83c4cdeeb",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "tipos-protecao-intelectual-brasil-guia-completo",
@@ -2903,7 +2903,7 @@
     "python-profiling-315-jit-tachyon-guide": {
       "slug": "python-profiling-315-jit-tachyon-guide",
       "title_en": "How to Profile Python Code in 2026: A Guide to Python 3.15's JIT Compiler and Tachyon Profiler",
-      "title_pt": "How to Profile Python Code in 2026: A Guide to Python 3.15's JIT Compiler and Tachyon Profiler",
+      "title_pt": "Como Perfilhar Código Python em 2026: Um Guia para o Compilador JIT do Python 3.15 e o Tachyon Profiler",
       "tags": [
         "python",
         "profiling",
@@ -2915,14 +2915,69 @@
         "article"
       ],
       "description_en": "Complete guide to Python 3.15's new profiling ecosystem: the upgraded JIT compiler with ultra-low overhead tracing, Tachyon statistical sampling profiler, migration from cProfile, and practical code examples. [2026]",
-      "content_hash_en": "d1828b59b443381911a2934b6ebf98cba6346e9061fcaf6f0dae06f7abba0a9e",
+      "content_hash_en": "de987b86b1039ae93bb403596854ef4239316c0c69dc13c77a2b4a5852d233de",
       "backlinks": [
         "python-modules-guide",
         "sqlite-performance-best-practices-guide-2026",
         "one-week-review-gitbutler"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-21T18:08:59.868Z"
+    },
+    "patent-opposition-nullity-brazil-inpi-guide-2026": {
+      "slug": "patent-opposition-nullity-brazil-inpi-guide-2026",
+      "title_en": "Patent Opposition and Nullity in Brazil: Complete Guide to Challenging Patents at the INPI [2026]",
+      "title_pt": "Patent Opposition and Nullity in Brazil: Complete Guide to Challenging Patents at the INPI [2026]",
+      "tags": [
+        "inpi",
+        "patents",
+        "nullity",
+        "patent-opposition",
+        "intellectual-property",
+        "guide",
+        "brazil-ip",
+        "appeal"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to challenging patents in Brazil: pre-grant submissions (Art. 31), administrative nullity (Arts. 50-55), judicial nullity actions (Arts. 56-57), and appeals. Deadlines, costs, legal grounds, and step-by-step procedures.",
+      "content_hash_en": "b3aaca702ad5384bcd173bc2b4caff6768e81c066ec756f51a00f3d2e575d647",
+      "backlinks": [
+        "how-to-file-patent-inpi-2026-guide",
+        "como-consultar-andamento-processo-inpi",
+        "guia-tramite-prioritario-patentes-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "subsidio-exame-nulidade-patentes-inpi-guia-2026": {
+      "slug": "subsidio-exame-nulidade-patentes-inpi-guia-2026",
+      "title_en": "Subsídio ao Exame e Nulidade de Patentes no INPI: Guia Completo de Como Contestar [2026]",
+      "title_pt": "Subsídio ao Exame e Nulidade de Patentes no INPI: Guia Completo de Como Contestar [2026]",
+      "tags": [
+        "inpi",
+        "patentes",
+        "nulidade",
+        "subsídio-exame",
+        "propriedade-intelectual",
+        "guia",
+        "inovacao",
+        "recurso"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo sobre como terceiros podem contestar patentes no INPI: subsídio ao exame técnico (Art. 31), nulidade administrativa, nulidade judicial, recursos e contrarrazões. Prazos, custos, fundamentos legais e passo a passo.",
+      "content_hash_en": null,
+      "content_hash_pt": "7e31208ba722c970c2a9db5ea85e77f79f9e292adc7daddd78a09fdd7b3eab7f",
+      "backlinks": [
+        "guia-deposito-patente-inpi-2026",
+        "como-consultar-andamento-processo-inpi",
+        "guia-tramite-prioritario-patentes-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }

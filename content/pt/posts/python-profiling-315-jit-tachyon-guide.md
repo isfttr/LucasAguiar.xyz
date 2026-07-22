@@ -211,9 +211,9 @@ Se você está mantendo código Python em 2026, a mudança mais impactante que p
 
 Leia também:
 
-- [Módulos Python: Um Guia para Iniciantes sobre Organização de Código]({{< relref "posts/python-modules-guide/" >}})
-- [Performance e Melhores Práticas com SQLite: Um Guia Prático para Desenvolvedores e Usuários de Homelab [2026]]({{< relref "posts/sqlite-performance-best-practices-guide-2026/" >}})
-- [Duas Semanas com GitButler: Otimizando Meu Fluxo de Trabalho com Git]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [Módulos Python: Um Guia para Iniciantes para Organizar Seu Código]({{< relref "posts/python-modules-guide/" >}})
+- [Desempenho e Melhores Práticas do SQLite: Um Guia Prático para Desenvolvedores e Usuários de Homelab [2026]]({{< relref "posts/sqlite-performance-best-practices-guide-2026/" >}})
+- [Duas Semanas com GitButler: Simplificando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
 
 ---
 
