@@ -329,9 +329,9 @@ Uma melhoria típica de homelab: de ~300 TPS para ~900 TPS em uma máquina com 6
 
 Leia também:
 
-- [SQLite Performance and Best Practices: A Practical Guide for Developers and Homelab Users [2026]]({{< relref "posts/sqlite-performance-best-practices-guide-2026/" >}})
-- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
-- [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
+- [Desempenho e Melhores Práticas do SQLite: Um Guia Prático para Desenvolvedores e Usuários de Homelab [2026]]({{< relref "posts/sqlite-performance-best-practices-guide-2026/" >}})
+- [Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático para Homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
 
 ---
 

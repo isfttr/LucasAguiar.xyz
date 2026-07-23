@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T18:10:35.738Z",
+  "last_updated": "2026-07-23T14:16:03.879Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2969,7 +2969,7 @@
         "article"
       ],
       "description_en": "Complete guide on how third parties can challenge patents at the INPI: subsidy to technical examination (Art. 31), administrative nullity, judicial nullity, appeals and counterarguments. Deadlines, costs, legal grounds and step by step.",
-      "content_hash_en": "40cd90f4613798223b23c921c29e6f81cdcd5d61c9ea9e15a156b514c01cbc36",
+      "content_hash_en": "d3478bbeb70773144a5cc98f1f6844e816124d5e2a3592922ffe5dd8258d4e2a",
       "backlinks": [
         "guia-deposito-patente-inpi-2026",
         "como-consultar-andamento-processo-inpi",
@@ -2981,7 +2981,7 @@
     "postgresql-performance-best-practices-homelab-2026": {
       "slug": "postgresql-performance-best-practices-homelab-2026",
       "title_en": "PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]",
-      "title_pt": "PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]",
+      "title_pt": "Melhores Práticas de Desempenho do PostgreSQL para Homelab e Auto-hospedado [2026]",
       "tags": [
         "postgresql",
         "database",
@@ -2993,14 +2993,40 @@
         "article"
       ],
       "description_en": "Complete guide to tuning PostgreSQL for homelab and self-hosted environments: memory, storage, indexing, connection pooling, vacuuming, and benchmarking with real config examples.",
-      "content_hash_en": "18b9d61cc232d67a6e3d609ef86abd5fed8f3e89ac41b1f75da1677af7394b56",
+      "content_hash_en": "82851cb80d18fb35e6436a20271fba7ad813657698dc521d6997787726035abe",
       "backlinks": [
         "sqlite-performance-best-practices-guide-2026",
         "proxmox-mac-mini-2018-t2",
         "run-llms-old-server-homelab-guide-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-22T18:10:35.737Z"
+    },
+    "guia-anuidades-patentes-inpi-prazos-valores-2026": {
+      "slug": "guia-anuidades-patentes-inpi-prazos-valores-2026",
+      "title_en": "Guia Completo de Anuidades de Patentes no INPI: Prazos, Valores e Como Pagar [2026]",
+      "title_pt": "Guia Completo de Anuidades de Patentes no INPI: Prazos, Valores e Como Pagar [2026]",
+      "tags": [
+        "patentes",
+        "inpi",
+        "anuidades",
+        "propriedade-intelectual",
+        "guia",
+        "custos"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo sobre anuidades de patentes no INPI: quando pagar, tabela de valores 2026 por tipo de patente e faixa etária, como emitir a GRU, prazos de graça, restauração e o novo Módulo de Serviços de Patentes.",
+      "content_hash_en": null,
+      "content_hash_pt": "22eab8cb662185a0a8bda42a63afa353cbefec3a6e9950ed17099b05e084572e",
+      "backlinks": [
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
+        "guia-deposito-patente-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }
