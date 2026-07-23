@@ -144,10 +144,11 @@ The question is no longer "containers or VMs" — it's "how much isolation does 
 | "I have a Proxmox cluster and want simplicity" | LXC containers + Docker inside VMs for orchestrated services |
 | "I want portable, reproducible deployments" | Docker containers (Dockerfile + Compose = infrastructure as code) |
 
-Also read:
+Read also:
 
 - [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
-- [Proxmox VE Migration Guide: Upgrading from 8 to 9 [2026]]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
+- [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T14:16:03.879Z",
+  "last_updated": "2026-07-23T18:08:13.428Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3004,7 +3004,7 @@
     },
     "guia-anuidades-patentes-inpi-prazos-valores-2026": {
       "slug": "guia-anuidades-patentes-inpi-prazos-valores-2026",
-      "title_en": "Guia Completo de Anuidades de Patentes no INPI: Prazos, Valores e Como Pagar [2026]",
+      "title_en": "Complete Guide to Patent Annuities at INPI: Deadlines, Amounts and How to Pay [2026]",
       "title_pt": "Guia Completo de Anuidades de Patentes no INPI: Prazos, Valores e Como Pagar [2026]",
       "tags": [
         "patentes",
@@ -3017,13 +3017,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo sobre anuidades de patentes no INPI: quando pagar, tabela de valores 2026 por tipo de patente e faixa etária, como emitir a GRU, prazos de graça, restauração e o novo Módulo de Serviços de Patentes.",
-      "content_hash_en": null,
-      "content_hash_pt": "22eab8cb662185a0a8bda42a63afa353cbefec3a6e9950ed17099b05e084572e",
+      "description_en": "Complete guide on patent annuities at INPI: when to pay, 2026 fee table by patent type and age group, how to issue the GRU, grace periods, restoration and the new Patent Services Module.",
+      "content_hash_en": "2ca7ed485674137d07b4c0136aba810a257b803b01da5d2d8a4b0962619e6cbb",
       "backlinks": [
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
         "guia-deposito-patente-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "containers-vs-vms-complete-guide-2026": {
+      "slug": "containers-vs-vms-complete-guide-2026",
+      "title_en": "Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]",
+      "title_pt": "Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]",
+      "tags": [
+        "containers",
+        "docker",
+        "virtualization",
+        "homelab",
+        "devops"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide comparing Docker containers, LXC containers, and virtual machines (KVM, Proxmox). Performance benchmarks, isolation trade-offs, boot times, resource density, and decision matrix for homelab and production.",
+      "content_hash_en": "5657ab2668e163ce9c7a35c6abf7d257e7de74626cc9fb778853da395d3ec90f",
+      "backlinks": [
+        "kvm-virsh-linux-virtualization-guide-2026",
+        "proxmox-backup-server-community-scripts-2026",
+        "kvm-virsh-linux-virtualization-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
