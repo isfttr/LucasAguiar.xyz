@@ -204,8 +204,8 @@ The key recommendation: **register the contract before the first royalty payment
 Read also:
 
 - [Trademark Cancellation for Non-Use in Brazil: Complete Guide [2026]]({{< relref "posts/trademark-cancellation-non-use-brazil-inpi-guide/" >}})
-- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 - [Trademark Cancellation for Non-Use in Brazil: Complete Guide [2026]]({{< relref "posts/trademark-cancellation-non-use-brazil-inpi-guide/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
 ---
 

@@ -314,6 +314,12 @@ BIMI adoption is still growing in 2026, but it's a nice finishing touch for doma
 - [How to Set Up GitHub Secrets]({{< relref "posts/how-to-setup-github-secrets/" >}}) — managing API keys and tokens securely
 - [Containers vs VMs: Complete Guide]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}}) — understanding the infrastructure layer behind self-hosted services
 
+Read also:
+
+- [Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+- [How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications]({{< relref "posts/how-to-setup-github-secrets/" >}})
+- [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
+
 ---
 
 You can reach out to discuss this and other topics at <contact@lucasaguiar.xyz>
