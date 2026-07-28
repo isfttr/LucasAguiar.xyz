@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T18:08:13.428Z",
+  "last_updated": "2026-07-28T14:14:43.673Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3030,7 +3030,7 @@
     "containers-vs-vms-complete-guide-2026": {
       "slug": "containers-vs-vms-complete-guide-2026",
       "title_en": "Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]",
-      "title_pt": "Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]",
+      "title_pt": "Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]",
       "tags": [
         "containers",
         "docker",
@@ -3042,11 +3042,64 @@
         "article"
       ],
       "description_en": "Complete guide comparing Docker containers, LXC containers, and virtual machines (KVM, Proxmox). Performance benchmarks, isolation trade-offs, boot times, resource density, and decision matrix for homelab and production.",
-      "content_hash_en": "5657ab2668e163ce9c7a35c6abf7d257e7de74626cc9fb778853da395d3ec90f",
+      "content_hash_en": "c4400f61838ce58d75e4d7c5adf4b8257fb36d80785fd0bbde926f9a519a3336",
       "backlinks": [
         "kvm-virsh-linux-virtualization-guide-2026",
         "proxmox-backup-server-community-scripts-2026",
         "kvm-virsh-linux-virtualization-guide-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "technology-transfer-contracts-registration-inpi-2026-guide": {
+      "slug": "technology-transfer-contracts-registration-inpi-2026-guide",
+      "title_en": "Technology Transfer Contract Registration at Brazil's INPI: Complete Step-by-Step Guide [2026]",
+      "title_pt": "Technology Transfer Contract Registration at Brazil's INPI: Complete Step-by-Step Guide [2026]",
+      "tags": [
+        "technology-transfer",
+        "inpi",
+        "intellectual-property",
+        "licensing",
+        "franchising",
+        "brazil",
+        "patent-licensing",
+        "trademark-licensing"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to registering and averting technology transfer contracts at Brazil's INPI: contract types, modalities, 2026 fee table, 70% SME discount, required documents, step-by-step e-Contratos process, and new rules from December 2025.",
+      "content_hash_en": "9e5710491cee7b8487060639b97d5845fc19cd70bf0a794b6195b1cd97d00d8f",
+      "backlinks": [
+        "trademark-cancellation-non-use-brazil-inpi-guide",
+        "como-consultar-andamento-processo-inpi",
+        "trademark-cancellation-non-use-brazil-inpi-guide"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "guia-registro-contratos-transferencia-tecnologia-inpi-2026": {
+      "slug": "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
+      "title_en": "Registro de Contratos de Transferência de Tecnologia no INPI: Guia Completo Passo a Passo [2026]",
+      "title_pt": "Registro de Contratos de Transferência de Tecnologia no INPI: Guia Completo Passo a Passo [2026]",
+      "tags": [
+        "contratos",
+        "transferencia-de-tecnologia",
+        "inpi",
+        "propriedade-intelectual",
+        "licenciamento",
+        "franquia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo sobre averbação e registro de contratos de transferência de tecnologia no INPI: tipos de contrato, modalidades, custos com tabela atualizada, desconto de 70% para PMEs, documentos, passo a passo no e-Contratos e novas regras de 2025.",
+      "content_hash_en": null,
+      "content_hash_pt": "036a1ec4166aef6cfffd1416534a800c5a2bd38993f23c95195f973537dd2914",
+      "backlinks": [
+        "caducidade-marca-inpi-guia-2026",
+        "como-consultar-andamento-processo-inpi",
+        "caducidade-marca-inpi-guia-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
