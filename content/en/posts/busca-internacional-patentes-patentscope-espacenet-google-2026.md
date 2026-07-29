@@ -197,11 +197,11 @@ Patent searching is not a single-tool activity. Each database has its strengths,
 
 After mastering the international tools, you can return to INPI to check the local situation — see the {{< relref "posts/busca-patentes-inpi-guia-pratico/" >}} for the complete step-by-step guide on the Brazilian database.
 
-Also read:
+Read also:
 
 - [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
 - [Patent Search at INPI: Practical Step-by-Step Guide [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
-- [Patent Search at INPI: Practical Step-by-Step Guide [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
+- [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
 
 ---
 

@@ -174,10 +174,11 @@ Agent infrastructure is still in its early days. The patterns here will evolve a
 
 The teams that invest in infrastructure early will find it easier to upgrade models, add new tools, and scale their agent deployments. The teams that skip it will hit the same walls: runaway costs, security incidents, and systems that nobody can debug.
 
-Also read:
+Read also:
 
-- [How AI Coding Agents Actually Work: An Architectural Guide]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
-- [How to Safely Run AI Coding Agents: A Practical Sandboxing Guide]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
+- [How AI Coding Agents Actually Work: An Architectural Guide [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
+- [How to Safely Run AI Coding Agents: A Practical Sandboxing Guide [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
+- [AI Coding Agents Compared: Claude Code vs Cursor vs GitHub Copilot vs Aider [2026]]({{< relref "posts/ai-coding-agents-comparison-2026/" >}})
 
 ---
 
