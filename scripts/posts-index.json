@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T18:07:53.272Z",
+  "last_updated": "2026-07-29T14:13:02.784Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3054,7 +3054,7 @@
     "technology-transfer-contracts-registration-inpi-2026-guide": {
       "slug": "technology-transfer-contracts-registration-inpi-2026-guide",
       "title_en": "Technology Transfer Contract Registration at Brazil's INPI: Complete Step-by-Step Guide [2026]",
-      "title_pt": "Registro de Contrato de Transferência de Tecnologia no INPI do Brasil: Guia Passo a Passo Completo [2026]",
+      "title_pt": "Registro de Contrato de Transferência de Tecnologia no INPI do Brasil: Guia Completo Passo a Passo [2026]",
       "tags": [
         "technology-transfer",
         "inpi",
@@ -3069,11 +3069,11 @@
         "article"
       ],
       "description_en": "Complete guide to registering and averting technology transfer contracts at Brazil's INPI: contract types, modalities, 2026 fee table, 70% SME discount, required documents, step-by-step e-Contratos process, and new rules from December 2025.",
-      "content_hash_en": "1df0755e965262ed591cd77285d98b4a3ab98af074ad33974c9cc108baaefd9d",
+      "content_hash_en": "fcedaa72fc828fdb9fa1ca3a5fbad9748a700ca849284f79329ddc60b55545e1",
       "backlinks": [
         "trademark-cancellation-non-use-brazil-inpi-guide",
         "trademark-cancellation-non-use-brazil-inpi-guide",
-        "como-consultar-andamento-processo-inpi"
+        "trademark-cancellation-non-use-brazil-inpi-guide"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3093,12 +3093,12 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide on registration and recordal of technology transfer contracts at INPI: types of contracts, modalities, costs with updated table, 70% discount for SMEs, documents, step-by-step in e-Contratos and new rules for 2025.",
-      "content_hash_en": "d0ec3e56a53ed7fdabcb61577782415e96b11fc5e55dfcc71f3a3082d440c895",
+      "description_en": "Complete guide on registration and record of technology transfer contracts at INPI: contract types, modalities, costs with updated table, 70% discount for SMEs, documents, step-by-step in e-Contratos and new rules for 2025.",
+      "content_hash_en": "1a27d66760027785c49fb8c27891d3904ba833ae88a3613aad0688cfbf595928",
       "backlinks": [
         "caducidade-marca-inpi-guia-2026",
         "caducidade-marca-inpi-guia-2026",
-        "como-consultar-andamento-processo-inpi"
+        "caducidade-marca-inpi-guia-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3106,7 +3106,7 @@
     "spf-dkim-dmarc-email-authentication-guide-2026": {
       "slug": "spf-dkim-dmarc-email-authentication-guide-2026",
       "title_en": "SPF, DKIM, and DMARC: Complete Email Authentication Guide [2026]",
-      "title_pt": "SPF, DKIM, and DMARC: Complete Email Authentication Guide [2026]",
+      "title_pt": "SPF, DKIM e DMARC: Guia Completo de Autenticação de Email [2026]",
       "tags": [
         "email",
         "security",
@@ -3118,14 +3118,65 @@
         "article"
       ],
       "description_en": "Step-by-step guide to configuring SPF, DKIM, and DMARC for your domain in 2026. Includes DNS record examples, troubleshooting common failures, and understanding DMARC reports. With 68% of domains still not enforcing DMARC, secure your email today.",
-      "content_hash_en": "2e5fed7e223021cd892482212f5487f90d0d97b407b6932f94d1cdc13a102eac",
+      "content_hash_en": "162de0f034f89d8c64a1c43222dca5b0bca265dc20d0f323f6e1254db72fd060",
       "backlinks": [
-        "newsletter-beehiiv-cloudflare-github",
         "how-to-setup-github-secrets",
-        "kvm-virsh-linux-virtualization-guide-2026"
+        "containers-vs-vms-complete-guide-2026",
+        "newsletter-beehiiv-cloudflare-github"
+      ],
+      "backlink_source": "file",
+      "last_processed": "2026-07-28T18:07:53.272Z"
+    },
+    "international-patent-search-patentscope-espacenet-google-2026": {
+      "slug": "international-patent-search-patentscope-espacenet-google-2026",
+      "title_en": "International Patent Search Guide: PATENTSCOPE, Espacenet, and Google Patents [2026]",
+      "title_pt": "International Patent Search Guide: PATENTSCOPE, Espacenet, and Google Patents [2026]",
+      "tags": [
+        "patents",
+        "patent-search",
+        "wipo",
+        "intellectual-property",
+        "guide",
+        "innovation"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to free international patent search tools: WIPO PATENTSCOPE, EPO Espacenet, and Google Patents. Comparison, search strategies, and practical tips for prior art searches.",
+      "content_hash_en": "3af2f3cbd534b4dc7fdc7d9f01bbdb1059a18825e9d0fa4ba032a063225d3d28",
+      "backlinks": [
+        "busca-internacional-patentes-patentscope-espacenet-google-2026",
+        "busca-patentes-inpi-guia-pratico",
+        "classificacao-internacional-patentes-ipc-guia-brasil"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-07-28T18:07:53.272Z"
+      "last_processed": "2026-07-29T14:13:02.784Z"
+    },
+    "busca-internacional-patentes-patentscope-espacenet-google-2026": {
+      "slug": "busca-internacional-patentes-patentscope-espacenet-google-2026",
+      "title_en": "Busca Internacional de Patentes: Guia Completo de PATENTSCOPE, Espacenet e Google Patentes [2026]",
+      "title_pt": "Busca Internacional de Patentes: Guia Completo de PATENTSCOPE, Espacenet e Google Patentes [2026]",
+      "tags": [
+        "patentes",
+        "busca-de-anterioridade",
+        "wipo",
+        "propriedade-intelectual",
+        "guia",
+        "inovacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo para fazer busca internacional de patentes: PATENTSCOPE da WIPO, Espacenet do EPO e Google Patentes. Comparativo de ferramentas, estratégias de busca e dicas práticas.",
+      "content_hash_en": null,
+      "content_hash_pt": "1372f2ae7c2aa5537be1d8e861dd58b9d3d32959d7be8044d3c6d9d8fd0a150a",
+      "backlinks": [
+        "mapa-global-patentes-pct-2025-brasil",
+        "busca-patentes-inpi-guia-pratico",
+        "busca-patentes-inpi-guia-pratico"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }

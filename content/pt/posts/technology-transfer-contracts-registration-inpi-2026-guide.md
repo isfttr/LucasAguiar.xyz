@@ -204,9 +204,9 @@ A principal recomendação: **registre o contrato antes do primeiro pagamento de
 
 Leia também:
 
-- [Caducidade de Marca por Não Uso no Brasil: Guia Completo [2026]]({{< relref "posts/trademark-cancellation-non-use-brazil-inpi-guide/" >}})
-- [Caducidade de Marca por Não Uso no Brasil: Guia Completo [2026]]({{< relref "posts/trademark-cancellation-non-use-brazil-inpi-guide/" >}})
-- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Cancelamento de Marca por Não Uso no Brasil: Guia Completo [2026]]({{< relref "posts/trademark-cancellation-non-use-brazil-inpi-guide/" >}})
+- [Cancelamento de Marca por Não Uso no Brasil: Guia Completo [2026]]({{< relref "posts/trademark-cancellation-non-use-brazil-inpi-guide/" >}})
+- [Cancelamento de Marca por Não Uso no Brasil: Guia Completo [2026]]({{< relref "posts/trademark-cancellation-non-use-brazil-inpi-guide/" >}})
 
 ---
 

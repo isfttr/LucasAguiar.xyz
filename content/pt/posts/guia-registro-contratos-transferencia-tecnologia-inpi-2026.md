@@ -203,7 +203,7 @@ Leia também:
 
 - [Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
 - [Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
-- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
 
 ---
 

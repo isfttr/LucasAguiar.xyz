@@ -198,9 +198,9 @@ Depois de dominar as ferramentas internacionais, você pode voltar ao INPI para 
 
 Leia também:
 
-- [Busca de Patentes no INPI: Guia Prático Passo a Passo]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
-- [Classificação Internacional de Patentes (IPC): Guia Prático]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
-- [Tipos de Proteção Intelectual no Brasil: Guia Comparativo Completo]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
+- [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
+- [Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
 
 ---
 
