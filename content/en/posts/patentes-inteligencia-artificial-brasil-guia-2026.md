@@ -1,9 +1,9 @@
 ---
-date: 2026-07-30T11:00:00-03:00
+date: 2026-07-30T14:00:00.000Z
 draft: true
-title: "Artificial Intelligence Patents in Brazil: Complete Guide to Protecting AI Inventions [2026]"
-description: "Complete guide to patenting artificial intelligence in Brazil: what is patentable, INPI requirements, IPC classifications, how to draft the application, and differences between software, algorithms, and AI inventions. Includes WIPO 2026 data."
-featured_image: ""
+title: 'Artificial Intelligence Patents in Brazil: Complete Guide to Protecting AI Inventions [2026]'
+description: 'Complete guide to patenting artificial intelligence in Brazil: what is patentable, INPI requirements, IPC classifications, how to draft the application, and differences between software, algorithms, and AI inventions. Includes WIPO 2026 data.'
+featured_image: ''
 categories:
   - article
 tags:
@@ -14,6 +14,7 @@ tags:
   - innovation
   - guide
   - technology
+translation_source_hash: f89fc8fc6cf1e2d26ae2c1083335fc2c7c341946a4c72198ffc114f3fc4355df
 ---
 
 AI-based inventions represent the most dynamic frontier of industrial property today. According to WIPO data published in July 2026, the number of generative AI (GenAI) patent families jumped from approximately 14,000 in 2023 to over 37,800 in 2025 — a compound annual growth rate of 64%. Over 56,000 new GenAI patent families were published in 2024 and 2025 alone, surpassing the entire prior decade (2014-2023) combined.
