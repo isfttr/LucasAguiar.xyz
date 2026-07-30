@@ -233,9 +233,9 @@ The most important advice: **Don't try to patent the abstract algorithm.** Paten
 
 Read also:
 
-- [WIPO launches AI Infrastructure Interchange: the new global forum for AI and IP]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
-- [Copyright in the AI era: INPI brings together international experts to debate the challenges]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
-- [INPI to pay BRL 1,025 for patent searches: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
+- [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
+- [Copyright in the AI era: INPI brings together international experts to debate the challenges of artificial intelligence]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
 
 ---
 

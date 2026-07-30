@@ -201,7 +201,7 @@ Leia também:
 
 - [Busca Internacional de Patentes: Guia Completo de PATENTSCOPE, Espacenet e Google Patentes [2026]]({{< relref "posts/busca-internacional-patentes-patentscope-espacenet-google-2026/" >}})
 - [Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
-- [Classificação Internacional de Patentes (CIP): Guia Prático para Entender e Usar os Códigos de Patente no Brasil [2026]]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
+- [Classificação Internacional de Patentes (IPC): Guia Prático para Entender e Usar Códigos de Patentes no Brasil [2026]]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
 
 ---
 

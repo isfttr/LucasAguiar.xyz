@@ -177,9 +177,9 @@ As equipes que investirem em infraestrutura cedo acharão mais fácil atualizar 
 
 Leia também:
 
-- [How AI Coding Agents Actually Work: An Architectural Guide [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
-- [How to Safely Run AI Coding Agents: A Practical Sandboxing Guide [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
-- [AI Coding Agents Compared: Claude Code vs Cursor vs GitHub Copilot vs Aider [2026]]({{< relref "posts/ai-coding-agents-comparison-2026/" >}})
+- [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
+- [Como Executar com Segurança Agentes de Codificação de IA: Um Guia Prático de Sandboxing [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
+- [Agentes de Codificação de IA Comparados: Claude Code vs Cursor vs GitHub Copilot vs Aider [2026]]({{< relref "posts/ai-coding-agents-comparison-2026/" >}})
 
 ---
 

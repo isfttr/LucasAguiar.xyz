@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T18:06:52.576Z",
+  "last_updated": "2026-07-30T14:16:39.726Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3094,7 +3094,7 @@
         "article"
       ],
       "description_en": "Complete guide on registration and recording of technology transfer contracts at INPI: types of contracts, modalities, costs with updated table, 70% discount for SMEs, documents, step-by-step on e-Contratos and new 2025 rules.",
-      "content_hash_en": "0c22c14a4ac188330b4a4b771f1d7b80176fb715cfb968f41cf301b0a7be6917",
+      "content_hash_en": "e5a2053492c765a78d6d54abbe5518b3f7c185b56f374c47b7dd6c0e78a7e8a5",
       "backlinks": [
         "caducidade-marca-inpi-guia-2026",
         "caducidade-marca-inpi-guia-2026",
@@ -3106,7 +3106,7 @@
     "spf-dkim-dmarc-email-authentication-guide-2026": {
       "slug": "spf-dkim-dmarc-email-authentication-guide-2026",
       "title_en": "SPF, DKIM, and DMARC: Complete Email Authentication Guide [2026]",
-      "title_pt": "SPF, DKIM e DMARC: Guia Completo de Autenticação de E-mail [2026]",
+      "title_pt": "SPF, DKIM e DMARC: Guia Completo de Autenticação de Email [2026]",
       "tags": [
         "email",
         "security",
@@ -3118,7 +3118,7 @@
         "article"
       ],
       "description_en": "Step-by-step guide to configuring SPF, DKIM, and DMARC for your domain in 2026. Includes DNS record examples, troubleshooting common failures, and understanding DMARC reports. With 68% of domains still not enforcing DMARC, secure your email today.",
-      "content_hash_en": "facd8d816b70e64df02cc13a7c851e7fb922cfec518fa8a01c7f79d411f5a263",
+      "content_hash_en": "6e9148650b287bd5e1408cf457e7199d8367f1dae917c499481c59af39388b7f",
       "backlinks": [
         "how-to-setup-github-secrets",
         "containers-vs-vms-complete-guide-2026",
@@ -3130,7 +3130,7 @@
     "international-patent-search-patentscope-espacenet-google-2026": {
       "slug": "international-patent-search-patentscope-espacenet-google-2026",
       "title_en": "International Patent Search Guide: PATENTSCOPE, Espacenet, and Google Patents [2026]",
-      "title_pt": "Guia de Pesquisa Internacional de Patentes: PATENTSCOPE, Espacenet e Google Patentes [2026]",
+      "title_pt": "Guia de Pesquisa Internacional de Patentes: PATENTSCOPE, Espacenet e Google Patents [2026]",
       "tags": [
         "patents",
         "patent-search",
@@ -3143,7 +3143,7 @@
         "article"
       ],
       "description_en": "Complete guide to free international patent search tools: WIPO PATENTSCOPE, EPO Espacenet, and Google Patents. Comparison, search strategies, and practical tips for prior art searches.",
-      "content_hash_en": "44070a9c6d4aeb70a96da6f2ae3f2386b3c6921d5d10272ec82f32749ca5afb1",
+      "content_hash_en": "caf17c3aac177b1f6960b72cfba68fd58d7043e76d11179950a01fba0e7ca399",
       "backlinks": [
         "busca-internacional-patentes-patentscope-espacenet-google-2026",
         "busca-patentes-inpi-guia-pratico",
@@ -3167,8 +3167,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to international patent search: WIPO's PATENTSCOPE, EPO's Espacenet, and Google Patents. Comparison of tools, search strategies, and practical tips.",
-      "content_hash_en": "3cd868d27933349d7061d64ee41ed1986517b3edbfc8f0b583659ba69e2da66a",
+      "description_en": "Complete guide to international patent search: PATENTSCOPE from WIPO, Espacenet from EPO, and Google Patents. Comparison of tools, search strategies, and practical tips.",
+      "content_hash_en": "7a9fb0013b2c1dfd9ff0406e9a8dc9de5aa8b0ee3b7de8958e6c8e20884cc89d",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
         "busca-patentes-inpi-guia-pratico",
@@ -3180,7 +3180,7 @@
     "ai-agent-infrastructure-practical-guide-2026": {
       "slug": "ai-agent-infrastructure-practical-guide-2026",
       "title_en": "AI Agent Infrastructure: A Practical Guide to Building Reliable Agent Systems [2026]",
-      "title_pt": "AI Agent Infrastructure: A Practical Guide to Building Reliable Agent Systems [2026]",
+      "title_pt": "Infraestrutura de Agentes de IA: Um Guia Prático para Construir Sistemas de Agentes Confiáveis [2026]",
       "tags": [
         "artificial-intelligence",
         "agents",
@@ -3192,14 +3192,40 @@
         "article"
       ],
       "description_en": "Step-by-step guide to production-ready AI agent infrastructure: tool-calling loop, memory management, security sandboxing, multi-agent coordination, observability, and deployment patterns.",
-      "content_hash_en": "1bfa4149edf604da829388c654f80105c25efb6648bac94e118840b25b4dd5ef",
+      "content_hash_en": "02fdd5e08914dcd2bfc89125506fbba67ec3121ea4de9b440e23012c9dd56728",
       "backlinks": [
         "ai-coding-agents-architectural-guide-2026",
         "sandboxing-ai-coding-agents-guide-2026",
         "ai-coding-agents-comparison-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-07-29T18:06:52.575Z"
+    },
+    "patentes-inteligencia-artificial-brasil-guia-2026": {
+      "slug": "patentes-inteligencia-artificial-brasil-guia-2026",
+      "title_en": "Artificial Intelligence Patents in Brazil: Complete Guide to Protecting AI Inventions [2026]",
+      "title_pt": "Patentes de Inteligência Artificial no Brasil: Guia Completo sobre Proteção de Invenções de IA [2026]",
+      "tags": [
+        "patents",
+        "inpi",
+        "artificial-intelligence",
+        "wipo",
+        "innovation",
+        "guide",
+        "technology"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to patenting artificial intelligence in Brazil: what is patentable, INPI requirements, IPC classifications, how to draft the application, and differences between software, algorithms, and AI inventions. Includes WIPO 2026 data.",
+      "content_hash_en": "bda25d27ccbed6dc03d89a8587994cee6b8ddf022442c3af66c63b92aca89d52",
+      "backlinks": [
+        "wipo-lanca-artificial-intelligence-infrastructure-interchange",
+        "wipo-lanca-artificial-intelligence-infrastructure-interchange",
+        "pi-em-questao-direito-autoral-inteligencia-artificial-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }

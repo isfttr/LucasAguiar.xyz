@@ -239,8 +239,8 @@ A dica mais importante: **não tente patentear o algoritmo abstrato.** Patentee 
 Leia também:
 
 - [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
+- [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 - [Direito autoral na era da IA: INPI reúne especialistas internacionais para debater os desafios da inteligência artificial]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
-- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 
 ---
 
