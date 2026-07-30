@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T14:16:39.726Z",
+  "last_updated": "2026-07-30T18:06:52.723Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3168,7 +3168,7 @@
         "article"
       ],
       "description_en": "Complete guide to international patent search: PATENTSCOPE from WIPO, Espacenet from EPO, and Google Patents. Comparison of tools, search strategies, and practical tips.",
-      "content_hash_en": "7a9fb0013b2c1dfd9ff0406e9a8dc9de5aa8b0ee3b7de8958e6c8e20884cc89d",
+      "content_hash_en": "11bee2e1abd266da4ee12f36014d45d8e8de45190b4eff655f2d6b80e5674e2b",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
         "busca-patentes-inpi-guia-pratico",
@@ -3218,11 +3218,35 @@
         "article"
       ],
       "description_en": "Complete guide to patenting artificial intelligence in Brazil: what is patentable, INPI requirements, IPC classifications, how to draft the application, and differences between software, algorithms, and AI inventions. Includes WIPO 2026 data.",
-      "content_hash_en": "bda25d27ccbed6dc03d89a8587994cee6b8ddf022442c3af66c63b92aca89d52",
+      "content_hash_en": "6c637e1aa145fcf8b9bf7d426041f3280e6b0b815af774aadb845a573f44f971",
       "backlinks": [
         "wipo-lanca-artificial-intelligence-infrastructure-interchange",
         "wipo-lanca-artificial-intelligence-infrastructure-interchange",
-        "pi-em-questao-direito-autoral-inteligencia-artificial-inpi"
+        "wipo-lanca-artificial-intelligence-infrastructure-interchange"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "stacked-pull-requests-guide-2026": {
+      "slug": "stacked-pull-requests-guide-2026",
+      "title_en": "Stacked Pull Requests: Complete Guide and Best Practices [2026]",
+      "title_pt": "Stacked Pull Requests: Complete Guide and Best Practices [2026]",
+      "tags": [
+        "git",
+        "github",
+        "dev",
+        "workflow",
+        "code-review"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Learn how stacked PRs work, why they speed up code review, and how to use them with GitHub's new native support. Comparisons, CLI tools, and real-world workflows.",
+      "content_hash_en": "41ad260a0963e0010b1a579fdb88ab930d384c0b602397c3a66322070f33012a",
+      "backlinks": [
+        "gitbutler-terminal-cli-tui-2026",
+        "gitlost-github-agentic-workflows-prompt-injection-2026",
+        "one-week-review-gitbutler"
       ],
       "backlink_source": "file",
       "last_processed": null
