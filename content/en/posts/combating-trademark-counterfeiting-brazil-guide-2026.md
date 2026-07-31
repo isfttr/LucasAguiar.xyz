@@ -2,7 +2,7 @@
 date: 2026-07-31T11:13:54-03:00
 draft: true
 title: "Combating Trademark Counterfeiting in Brazil: Complete Guide to Administrative, Civil and Criminal Measures [2026]"
-description: "Complete guide to fighting trademark counterfeiting in Brazil: customs seizure, preliminary injunctions, search and seizure, criminal complaint and marketplace takedowns — legal basis and step-by-step."
+description: "Complete guide to fighting trademark counterfeiting in Brazil: customs seizure, injunctions, search and seizure, criminal complaint and marketplace takedowns."
 url: ""
 featured_image: ""
 categories:

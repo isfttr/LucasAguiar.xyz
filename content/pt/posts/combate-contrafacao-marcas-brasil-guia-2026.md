@@ -2,7 +2,7 @@
 date: 2026-07-31T11:13:54-03:00
 draft: true
 title: "Combate à Contrafação de Marcas no Brasil: Guia Completo de Medidas Administrativas, Cíveis e Criminais [2026]"
-description: "Guia completo de combate à contrafação de marcas no Brasil: retenção aduaneira, busca e apreensão, ação cível, queixa-crime e remoção em marketplaces — base legal e passo a passo."
+description: "Guia completo de combate à contrafação de marcas no Brasil: retenção aduaneira, busca e apreensão, ação cível, queixa-crime e remoção em marketplaces."
 url: ""
 featured_image: ""
 categories:
