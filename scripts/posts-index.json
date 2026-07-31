@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T18:06:52.723Z",
+  "last_updated": "2026-07-31T14:16:53.538Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3203,24 +3203,24 @@
     },
     "patentes-inteligencia-artificial-brasil-guia-2026": {
       "slug": "patentes-inteligencia-artificial-brasil-guia-2026",
-      "title_en": "Artificial Intelligence Patents in Brazil: Complete Guide to Protecting AI Inventions [2026]",
+      "title_en": "Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI Inventions [2026]",
       "title_pt": "Patentes de Inteligência Artificial no Brasil: Guia Completo sobre Proteção de Invenções de IA [2026]",
       "tags": [
-        "patents",
+        "patentes",
         "inpi",
-        "artificial-intelligence",
+        "inteligencia-artificial",
         "wipo",
-        "innovation",
-        "guide",
-        "technology"
+        "inovacao",
+        "guia",
+        "tecnologia"
       ],
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to patenting artificial intelligence in Brazil: what is patentable, INPI requirements, IPC classifications, how to draft the application, and differences between software, algorithms, and AI inventions. Includes WIPO 2026 data.",
-      "content_hash_en": "6c637e1aa145fcf8b9bf7d426041f3280e6b0b815af774aadb845a573f44f971",
+      "description_en": "Complete guide on patenting artificial intelligence in Brazil: what is patentable, INPI requirements, IPC classifications, how to draft the application, and differences between software, algorithm, and AI invention. Includes WIPO 2026 data.",
+      "content_hash_en": "30f23817a1ebbb22b0ea73af87a8d0569a2c5a22bd5eb59f1300bbccdd1256dd",
       "backlinks": [
-        "wipo-lanca-artificial-intelligence-infrastructure-interchange",
+        "como-consultar-andamento-processo-inpi",
         "wipo-lanca-artificial-intelligence-infrastructure-interchange",
         "wipo-lanca-artificial-intelligence-infrastructure-interchange"
       ],
@@ -3230,7 +3230,7 @@
     "stacked-pull-requests-guide-2026": {
       "slug": "stacked-pull-requests-guide-2026",
       "title_en": "Stacked Pull Requests: Complete Guide and Best Practices [2026]",
-      "title_pt": "Stacked Pull Requests: Complete Guide and Best Practices [2026]",
+      "title_pt": "Pull Requests Empilhados: Guia Completo e Melhores Práticas [2026]",
       "tags": [
         "git",
         "github",
@@ -3242,11 +3242,60 @@
         "article"
       ],
       "description_en": "Learn how stacked PRs work, why they speed up code review, and how to use them with GitHub's new native support. Comparisons, CLI tools, and real-world workflows.",
-      "content_hash_en": "41ad260a0963e0010b1a579fdb88ab930d384c0b602397c3a66322070f33012a",
+      "content_hash_en": "915b909cf091ccf9d2591042dacdfbbd7943ca7e28047b65390cf9fcbb13fa58",
       "backlinks": [
         "gitbutler-terminal-cli-tui-2026",
         "gitlost-github-agentic-workflows-prompt-injection-2026",
         "one-week-review-gitbutler"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "combating-trademark-counterfeiting-brazil-guide-2026": {
+      "slug": "combating-trademark-counterfeiting-brazil-guide-2026",
+      "title_en": "Combating Trademark Counterfeiting in Brazil: Complete Guide to Administrative, Civil and Criminal Measures [2026]",
+      "title_pt": "Combating Trademark Counterfeiting in Brazil: Complete Guide to Administrative, Civil and Criminal Measures [2026]",
+      "tags": [
+        "trademarks",
+        "counterfeiting",
+        "intellectual-property",
+        "inpi",
+        "brazil"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to fighting trademark counterfeiting in Brazil: customs seizure, preliminary injunctions, search and seizure, criminal complaint and marketplace takedowns — legal basis and step-by-step.",
+      "content_hash_en": "df7d0b13154254c89a7ad9d49e9d5c258aaa1be69a785ec01b6bc069978fe766",
+      "backlinks": [
+        "quanto-custa-registrar-marca-inpi-2026",
+        "consulta-publica-marcas-posicao-inpi-2026",
+        "inpi-manual-marcas-alto-renome-protocolo-madri"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "combate-contrafacao-marcas-brasil-guia-2026": {
+      "slug": "combate-contrafacao-marcas-brasil-guia-2026",
+      "title_en": "Combate à Contrafação de Marcas no Brasil: Guia Completo de Medidas Administrativas, Cíveis e Criminais [2026]",
+      "title_pt": "Combate à Contrafação de Marcas no Brasil: Guia Completo de Medidas Administrativas, Cíveis e Criminais [2026]",
+      "tags": [
+        "marcas",
+        "contrafacao",
+        "propriedade-intelectual",
+        "inpi",
+        "judiciario"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo de combate à contrafação de marcas no Brasil: retenção aduaneira, busca e apreensão, ação cível, queixa-crime e remoção em marketplaces — base legal e passo a passo.",
+      "content_hash_en": null,
+      "content_hash_pt": "860a9a2150c6378df1ac141fe0d0f5b27209356e9d4b5a0ff8aa4d0f8a99c4a5",
+      "backlinks": [
+        "quanto-custa-registrar-marca-inpi-2026",
+        "consulta-publica-marcas-posicao-inpi-2026",
+        "inpi-manual-marcas-alto-renome-protocolo-madri"
       ],
       "backlink_source": "file",
       "last_processed": null

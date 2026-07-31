@@ -110,9 +110,8 @@ O combate à contrafação no Brasil está em movimento. Vale acompanhar: (i) a 
 Leia também:
 
 - [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Consulta Pública sobre Marcas de Posição no INPI]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
-- [Guia do Protocolo de Madri e Marcas de Alto Renome]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
-- [Indicação Geográfica no INPI: Guia Completo [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
+- [INPI abre consulta pública sobre marcas de posição [2026]: novas regras e como participar]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 
 ---
 

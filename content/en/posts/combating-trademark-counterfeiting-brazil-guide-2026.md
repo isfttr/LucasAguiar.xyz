@@ -107,10 +107,9 @@ Anti-counterfeiting enforcement in Brazil is moving. Keep an eye on: (i) the ren
 
 Read also:
 
-- [How Much Does it Cost to Register a Trademark in Brazil in 2026?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Public Consultation on Position Marks in Brazil]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
-- [Madrid Protocol and Well-Known Marks: INPI Guidelines]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
-- [Geographical Indications in Brazil: Complete Guide [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI opens public consultation on position marks [2026]: new rules and how to participate]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
+- [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 
 ---
 
