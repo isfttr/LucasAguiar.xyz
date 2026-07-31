@@ -108,11 +108,11 @@ Much of counterfeiting has migrated to the digital environment, and combating it
 
 The fight against counterfeiting in Brazil is in motion. It is worth following: (i) the renewed work of the CNCP with ABPI's participation and the national plan to combat piracy; (ii) the case law on marketplace liability for counterfeit listings; (iii) the Federal Revenue Service and Federal Police operations at ports and borders; and (iv) the trajectory of the illegal market, which went from R$ 288 billion (2020) to R$ 473 billion (2025) — growth that makes enforcement an essential part of trademark strategy, not an ancillary cost.
 
-Also read:
+Read also:
 
-- [How Much Does It Cost to Register a Trademark with the INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [INPI opens public consultation on position marks [2026]: new rules and how to participate]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
-- [INPI updates the Trademark Manual: new rules for Well-Known Marks and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 
 ---
 
