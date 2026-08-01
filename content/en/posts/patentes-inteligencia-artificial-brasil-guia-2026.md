@@ -237,7 +237,7 @@ With the explosive growth of global GenAI patents (37,800 families in 2025, acco
 
 The most important tip: **do not try to patent the abstract algorithm.** Patent the technical application that solves a real problem. The hardware, the industrial context, and the measurable technical effect are what turn a mathematical idea into a protectable invention.
 
-Also read:
+Read also:
 
 - [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 - [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
