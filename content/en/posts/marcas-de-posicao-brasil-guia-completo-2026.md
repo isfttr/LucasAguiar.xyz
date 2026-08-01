@@ -122,11 +122,11 @@ The regulatory calendar for the second half of 2026:
 
 For those working with trademark strategy, the time is to study the drafts and prepare the documentation for acquired distinctiveness (evidence of use, perception surveys, market share) — especially for positions already established in the market that currently rely on protection through other legal instruments.
 
-Also read:
+Read also:
 
-- [How to Check the Status of a Process at the INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [How Much Does It Cost to Register a Trademark at the INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [INPI Opens Public Consultation on Position Marks [2026]: New Rules and How to Participate]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
 ---
 

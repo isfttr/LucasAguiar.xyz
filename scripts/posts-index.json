@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T14:27:48.983Z",
+  "last_updated": "2026-08-01T18:06:51.857Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3218,7 +3218,7 @@
         "article"
       ],
       "description_en": "Complete guide to patenting artificial intelligence in Brazil: what is patentable, INPI requirements, IPC classifications, how to draft the application, and differences between software, algorithm, and AI invention. Includes WIPO 2026 data.",
-      "content_hash_en": "0d87784bcbc42d2358adcd5b2333b235e9b3ead7b895c936b16486bf7c89e258",
+      "content_hash_en": "4d07bb158ee2827cb8e88f7c2be1788fcbd0da470eed23a534e5cf5ab9ac5bf7",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "wipo-lanca-artificial-intelligence-infrastructure-interchange",
@@ -3325,7 +3325,7 @@
     },
     "marcas-de-posicao-brasil-guia-completo-2026": {
       "slug": "marcas-de-posicao-brasil-guia-completo-2026",
-      "title_en": "Marcas de Posição no Brasil: Guia Completo de Registro no INPI [2026]",
+      "title_en": "Position Marks in Brazil: Complete Guide to Registration with INPI [2026]",
       "title_pt": "Marcas de Posição no Brasil: Guia Completo de Registro no INPI [2026]",
       "tags": [
         "marcas",
@@ -3337,13 +3337,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo sobre marcas de posição no Brasil: o que são, como diferem de marcas tridimensionais, critérios de registrabilidade do INPI, exemplos reais, custos e passo a passo do registro.",
-      "content_hash_en": null,
-      "content_hash_pt": "05418ddb726331fac67a1f79bf21474f175f8ada5084d6cf32e9fe99c61cd8b8",
+      "description_en": "Complete guide to position marks in Brazil: what they are, how they differ from three-dimensional marks, INPI registrability criteria, real examples, costs, and step-by-step registration.",
+      "content_hash_en": "84fc6659bce2876db8ed6c9c34c72f2c6bc49b70c740b004abc07b2cc6da9fb3",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "quanto-custa-registrar-marca-inpi-2026",
-        "consulta-publica-marcas-posicao-inpi-2026"
+        "como-consultar-andamento-processo-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "personal-software-ai-guide-2026": {
+      "slug": "personal-software-ai-guide-2026",
+      "title_en": "Personal Software in the AI Era: How Anyone Can Build Apps for an Audience of One",
+      "title_pt": "Personal Software in the AI Era: How Anyone Can Build Apps for an Audience of One",
+      "tags": [
+        "ai",
+        "software-engineering",
+        "personal-software",
+        "development",
+        "llm"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "AI coding tools turned software for a single user into a practical reality. The story of home-cooked apps, the stack that makes them possible, and why your next app may have an audience of one.",
+      "content_hash_en": "fb74501fa52cc33b725b6f311daac6bfb13bbfc8752a076a51ebfd0de1ceef9e",
+      "backlinks": [
+        "ai-changes-software-rewrite-economics-2026",
+        "run-llms-old-server-homelab-guide-2026",
+        "ai-changes-software-rewrite-economics-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

@@ -61,10 +61,11 @@ For the software industry, this is a slow-motion structural change. If the margi
 
 If you have a recurring annoyance in your life — a family schedule, a diet plan, a hobby tracker, a tool your job doesn't provide — that's your entry point. Describe it in a paragraph, open your AI assistant, and see what comes back. The first app you build for an audience of one probably won't be your last.
 
-Also read:
+Read also:
 
-- [How AI Changes the Economics of Software Rewrites [2026]]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
 - [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
+- [How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
 
 ---
 
