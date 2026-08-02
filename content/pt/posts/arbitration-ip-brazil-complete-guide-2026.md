@@ -121,7 +121,7 @@ Leia também:
 
 - [5º CSD-ABPI Moot: Últimos Dias para Inscrição na Competição de Arbitragem em PI [2026]]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}})
 - [5º CSD-ABPI Moot: Últimos Dias para Inscrição na Competição de Arbitragem em PI [2026]]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}})
-- [Registro de Contratos de Transferência de Tecnologia no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
+- [Registro de Contratos de Transferência de Tecnologia no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
 
 ---
 

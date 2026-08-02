@@ -96,10 +96,11 @@ Diátaxis is not a documentation *style* — it's a way of *thinking* about docu
 
 If you run a Hugo site, the structure maps naturally onto content organization — see our guide on [Hugo content file structure]({{< relref "posts/hugo-content-file-structure/" >}}) for the practical side of arranging content directories. And if you want to go deeper on the framework itself, the [Diátaxis site](https://diataxis.fr/) is short, readable and free — start with the [five-minute primer](https://diataxis.fr/start-here/) and apply it to something small today. The [Write the Docs](https://www.writethedocs.org/) community is also the best place to discuss documentation practice with people who do it professionally.
 
-Also read:
+Read also:
 
-- [Hugo Content File Structure]({{< relref "posts/hugo-content-file-structure/" >}})
 - [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Hugo Content File Structure]({{< relref "posts/hugo-content-file-structure/" >}})
+- [Hugo Content File Structure]({{< relref "posts/hugo-content-file-structure/" >}})
 
 ---
 

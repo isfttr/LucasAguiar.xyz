@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T14:16:26.185Z",
+  "last_updated": "2026-08-02T18:09:02.230Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3338,7 +3338,7 @@
         "article"
       ],
       "description_en": "Complete guide to position marks in Brazil: what they are, how they differ from three-dimensional marks, INPI registrability criteria, real examples, costs, and step-by-step registration.",
-      "content_hash_en": "b8d17433e7ed355d90f691ec91e5e684ba3a661cd14bd9743a6b3f8222c94f2c",
+      "content_hash_en": "727662015bf80f5ac52074924e46a5175caccd7a31bbf7572e5326b7cf283311",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "quanto-custa-registrar-marca-inpi-2026",
@@ -3374,7 +3374,7 @@
     "arbitration-ip-brazil-complete-guide-2026": {
       "slug": "arbitration-ip-brazil-complete-guide-2026",
       "title_en": "IP Arbitration in Brazil: Complete Guide [2026]",
-      "title_pt": "IP Arbitration in Brazil: Complete Guide [2026]",
+      "title_pt": "Arbitragem de PI no Brasil: Guia Completo [2026]",
       "tags": [
         "arbitration",
         "intellectual-property",
@@ -3386,7 +3386,7 @@
         "article"
       ],
       "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity limits, arbitration clauses, institutions like CSD-ABPI and WIPO AMC, and a practical step-by-step.",
-      "content_hash_en": "bd046e9517da427a9c0c62c9e5982a2df6edbb560a51c7754478cec071b101b9",
+      "content_hash_en": "09ca74b3746b3806cc9f2ce4810911df55926cce9456e892549bc87ad36d5878",
       "backlinks": [
         "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
         "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
@@ -3397,7 +3397,7 @@
     },
     "arbitragem-propriedade-intelectual-brasil-guia-2026": {
       "slug": "arbitragem-propriedade-intelectual-brasil-guia-2026",
-      "title_en": "Arbitragem em Propriedade Intelectual no Brasil: Guia Completo [2026]",
+      "title_en": "Intellectual Property Arbitration in Brazil: Complete Guide [2026]",
       "title_pt": "Arbitragem em Propriedade Intelectual no Brasil: Guia Completo [2026]",
       "tags": [
         "arbitragem",
@@ -3409,13 +3409,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "O que pode e o que não pode ser arbitrado em PI no Brasil: base legal (Lei 9.307/96), nulidade de patente e marca, cláusula compromissória, instituições como CSD-ABPI e WIPO AMC, e passo a passo prático.",
-      "content_hash_en": null,
-      "content_hash_pt": "180bee7262319a95e8ba4631691009dd7aef72f959edf51eaa035e3652c0d2a0",
+      "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity, arbitration clause, institutions such as CSD-ABPI and WIPO AMC, and practical step-by-step.",
+      "content_hash_en": "82835b2299ada2afb408e225b806c5b199b2bbd47fecda81d2b2222488dd3132",
       "backlinks": [
         "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
         "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
         "guia-registro-contratos-transferencia-tecnologia-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "diataxis-technical-documentation-guide-2026": {
+      "slug": "diataxis-technical-documentation-guide-2026",
+      "title_en": "How to Structure Technical Documentation: A Diátaxis Guide [2026]",
+      "title_pt": "How to Structure Technical Documentation: A Diátaxis Guide [2026]",
+      "tags": [
+        "technical-documentation",
+        "diataxis",
+        "technical-writing",
+        "developer-tools",
+        "dev"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
+      "content_hash_en": "1c84febdcd067806a28183b28beea3b92d11e8909679833eb41e820d302b2fca",
+      "backlinks": [
+        "vibe-coding-pitfalls",
+        "hugo-content-file-structure",
+        "hugo-content-file-structure"
       ],
       "backlink_source": "file",
       "last_processed": null
