@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T18:06:51.857Z",
+  "last_updated": "2026-08-02T14:16:26.185Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3338,7 +3338,7 @@
         "article"
       ],
       "description_en": "Complete guide to position marks in Brazil: what they are, how they differ from three-dimensional marks, INPI registrability criteria, real examples, costs, and step-by-step registration.",
-      "content_hash_en": "84fc6659bce2876db8ed6c9c34c72f2c6bc49b70c740b004abc07b2cc6da9fb3",
+      "content_hash_en": "b8d17433e7ed355d90f691ec91e5e684ba3a661cd14bd9743a6b3f8222c94f2c",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "quanto-custa-registrar-marca-inpi-2026",
@@ -3350,7 +3350,7 @@
     "personal-software-ai-guide-2026": {
       "slug": "personal-software-ai-guide-2026",
       "title_en": "Personal Software in the AI Era: How Anyone Can Build Apps for an Audience of One",
-      "title_pt": "Personal Software in the AI Era: How Anyone Can Build Apps for an Audience of One",
+      "title_pt": "Software Pessoal na Era da IA: Como Qualquer Pessoa Pode Criar Apps para um Público de Um",
       "tags": [
         "ai",
         "software-engineering",
@@ -3362,11 +3362,60 @@
         "article"
       ],
       "description_en": "AI coding tools turned software for a single user into a practical reality. The story of home-cooked apps, the stack that makes them possible, and why your next app may have an audience of one.",
-      "content_hash_en": "fb74501fa52cc33b725b6f311daac6bfb13bbfc8752a076a51ebfd0de1ceef9e",
+      "content_hash_en": "42d7e9a20644b265ef077c36723b767f3c596b15c8a7079d14571ca203eb38c9",
       "backlinks": [
         "ai-changes-software-rewrite-economics-2026",
         "run-llms-old-server-homelab-guide-2026",
         "ai-changes-software-rewrite-economics-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "arbitration-ip-brazil-complete-guide-2026": {
+      "slug": "arbitration-ip-brazil-complete-guide-2026",
+      "title_en": "IP Arbitration in Brazil: Complete Guide [2026]",
+      "title_pt": "IP Arbitration in Brazil: Complete Guide [2026]",
+      "tags": [
+        "arbitration",
+        "intellectual-property",
+        "patents",
+        "trademarks",
+        "dispute-resolution"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity limits, arbitration clauses, institutions like CSD-ABPI and WIPO AMC, and a practical step-by-step.",
+      "content_hash_en": "bd046e9517da427a9c0c62c9e5982a2df6edbb560a51c7754478cec071b101b9",
+      "backlinks": [
+        "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
+        "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
+        "guia-registro-contratos-transferencia-tecnologia-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "arbitragem-propriedade-intelectual-brasil-guia-2026": {
+      "slug": "arbitragem-propriedade-intelectual-brasil-guia-2026",
+      "title_en": "Arbitragem em Propriedade Intelectual no Brasil: Guia Completo [2026]",
+      "title_pt": "Arbitragem em Propriedade Intelectual no Brasil: Guia Completo [2026]",
+      "tags": [
+        "arbitragem",
+        "propriedade-intelectual",
+        "patentes",
+        "marcas",
+        "resolucao-de-disputas"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "O que pode e o que não pode ser arbitrado em PI no Brasil: base legal (Lei 9.307/96), nulidade de patente e marca, cláusula compromissória, instituições como CSD-ABPI e WIPO AMC, e passo a passo prático.",
+      "content_hash_en": null,
+      "content_hash_pt": "180bee7262319a95e8ba4631691009dd7aef72f959edf51eaa035e3652c0d2a0",
+      "backlinks": [
+        "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
+        "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
+        "guia-registro-contratos-transferencia-tecnologia-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

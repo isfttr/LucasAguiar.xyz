@@ -64,9 +64,9 @@ Se você tem um incômodo recorrente na sua vida — uma agenda familiar, um pla
 
 Leia também:
 
-- [Como a IA muda a economia de reescritas de software [2026]: por que a consistência da base de código é sua nova vantagem competitiva]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
-- [Como rodar LLMs em hardware de servidor antigo: um guia prático de homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
-- [Como a IA muda a economia de reescritas de software [2026]: por que a consistência da base de código é sua nova vantagem competitiva]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [Como a IA Muda a Economia das Reescrevaturas de Software [2026]: Por que a Consistência do Código-Fonte é Sua Nova Vantagem Competitiva]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático para Homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
+- [Como a IA Muda a Economia das Reescrevaturas de Software [2026]: Por que a Consistência do Código-Fonte é Sua Nova Vantagem Competitiva]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
 
 ---
 

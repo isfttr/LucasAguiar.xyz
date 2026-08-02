@@ -118,9 +118,9 @@ Since Law 13.129/2015, universities, research institutes and other public admini
 
 Read also:
 
-- [5th CSD-ABPI Moot: Arbitration Competition in IP [2026]]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}})
-- [Technology Transfer Contract Registration at INPI: Complete Guide [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
-- [The LPI at 30: INPI publishes improvement proposals report]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [5th CSD-ABPI Moot: Last Days for Registration in the IP Arbitration Competition [2026]]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}})
+- [5th CSD-ABPI Moot: Last Days for Registration in the IP Arbitration Competition [2026]]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}})
+- [Registration of Technology Transfer Contracts at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
 
 ---
 
