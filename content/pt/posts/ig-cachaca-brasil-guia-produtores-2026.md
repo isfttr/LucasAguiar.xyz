@@ -85,6 +85,7 @@ Leia também:
 
 - [Indicação Geográfica no INPI: Guia Completo [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
 - [Tipos de Proteção Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
+- [Indicação Geográfica no INPI: Guia Completo [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
 
 ---
 

@@ -99,9 +99,9 @@ Se você tem um site Hugo, a estrutura mapeia naturalmente a organização de co
 
 Leia também:
 
-- [Por que estou terminando com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [Estrutura de Arquivos de Conteúdo do Hugo]({{< relref "posts/hugo-content-file-structure/" >}})
-- [Estrutura de Arquivos de Conteúdo do Hugo]({{< relref "posts/hugo-content-file-structure/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Estrutura de Ficheiros de Conteúdo Hugo]({{< relref "posts/hugo-content-file-structure/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 
 ---
 

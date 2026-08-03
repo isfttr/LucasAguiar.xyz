@@ -100,7 +100,7 @@ Read also:
 
 - [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 - [Hugo Content File Structure]({{< relref "posts/hugo-content-file-structure/" >}})
-- [Hugo Content File Structure]({{< relref "posts/hugo-content-file-structure/" >}})
+- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 
 ---
 

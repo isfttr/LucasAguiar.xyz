@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T18:09:02.230Z",
+  "last_updated": "2026-08-03T14:19:37.398Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3410,7 +3410,7 @@
         "article"
       ],
       "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity, arbitration clause, institutions such as CSD-ABPI and WIPO AMC, and practical step-by-step.",
-      "content_hash_en": "82835b2299ada2afb408e225b806c5b199b2bbd47fecda81d2b2222488dd3132",
+      "content_hash_en": "87e8a872788311cd5c5e3a4c3e36915f337f65eaaa011d856b5dbc8776716636",
       "backlinks": [
         "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
         "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
@@ -3422,7 +3422,7 @@
     "diataxis-technical-documentation-guide-2026": {
       "slug": "diataxis-technical-documentation-guide-2026",
       "title_en": "How to Structure Technical Documentation: A Diátaxis Guide [2026]",
-      "title_pt": "How to Structure Technical Documentation: A Diátaxis Guide [2026]",
+      "title_pt": "Como Estruturar Documentação Técnica: Um Guia Diátaxis [2026]",
       "tags": [
         "technical-documentation",
         "diataxis",
@@ -3434,11 +3434,36 @@
         "article"
       ],
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
-      "content_hash_en": "1c84febdcd067806a28183b28beea3b92d11e8909679833eb41e820d302b2fca",
+      "content_hash_en": "deddd81ae89337fd25500fba6f2a4e4c779285ee80fc67fd711db235f1667979",
       "backlinks": [
         "vibe-coding-pitfalls",
         "hugo-content-file-structure",
-        "hugo-content-file-structure"
+        "vibe-coding-pitfalls"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "ig-cachaca-brasil-guia-produtores-2026": {
+      "slug": "ig-cachaca-brasil-guia-produtores-2026",
+      "title_en": "Indicação Geográfica da Cachaça no Brasil: Guia Completo para Produtores [2026]",
+      "title_pt": "Indicação Geográfica da Cachaça no Brasil: Guia Completo para Produtores [2026]",
+      "tags": [
+        "indicacao-geografica",
+        "inpi",
+        "agro",
+        "marcas",
+        "propriedade-intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo de indicação geográfica (IG) para cachaça: diferença entre IP e DO, as 5 IGs de cachaça registradas no INPI, passo a passo do registro no e-IG, custos e benefícios para produtores.",
+      "content_hash_en": null,
+      "content_hash_pt": "0724dd307a00a6293fe6dec03d55e0a3cb730961873c88e2ede5c77b73b558a8",
+      "backlinks": [
+        "guia-indicacoes-geograficas-inpi-brasil",
+        "tipos-protecao-intelectual-brasil-guia-completo",
+        "guia-indicacoes-geograficas-inpi-brasil"
       ],
       "backlink_source": "file",
       "last_processed": null
