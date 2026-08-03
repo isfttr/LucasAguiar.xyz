@@ -82,7 +82,7 @@ Brazil is still in its infancy in GIs compared with Europe: of the 177 registere
 
 For producers, the central message is this: the reputation built over generations around the name of your region can — and should — be protected as an industrial property asset. Pot-still cachaça has already become a GI case at INPI. The question is which region will be next.
 
-Also read:
+Read also:
 
 - [Geographical Indication at INPI: Complete Guide [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
 - [Types of Intellectual Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})

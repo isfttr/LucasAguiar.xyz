@@ -110,10 +110,11 @@ The decision matrix:
 
 Quantization cuts the model 4x, partial offload spreads it across CPU+GPU, and layer streaming lets a 4GB card run models 40x its size. The era of "you need an H100" is over — the bottleneck in 2026 is knowing which technique fits your hardware, not the hardware itself.
 
-Also read:
+Read also:
 
-- [Vibe Coding Pitfalls: What Actually Goes Wrong]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [KVM and virsh: Linux Virtualization Guide [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
+- [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
+- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
 
 ---
 
