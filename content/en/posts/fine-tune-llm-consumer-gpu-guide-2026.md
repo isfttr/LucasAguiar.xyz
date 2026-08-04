@@ -118,10 +118,11 @@ Fine-tuning on consumer hardware stopped being exotic the moment QLoRA shipped i
 
 If you're already running local inference on a low-VRAM card, the same hardware will almost certainly train a small model too. And if you're virtualizing GPUs in your homelab, remember you need [GPU passthrough]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}}) to expose the card to the training VM.
 
-Also read:
+Read also:
 
 - [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 - [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
+- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 
 ---
 

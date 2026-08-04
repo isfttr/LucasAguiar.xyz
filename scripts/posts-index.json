@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T18:08:29.260Z",
+  "last_updated": "2026-08-04T18:05:15.993Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3458,7 +3458,7 @@
         "article"
       ],
       "description_en": "Complete guide to geographical indication (GI) for cachaça: difference between IP and DO, the 5 cachaça GIs registered at INPI, step-by-step registration on e-IG, costs and benefits for producers.",
-      "content_hash_en": "d4dd5bf3e8e886539f1dad9239d9b172efdb13e1384fa466767f295ba828fff8",
+      "content_hash_en": "8d56d51ab25376f88d09bb929576edccf77caea549f96c926d58be4ede6191bc",
       "backlinks": [
         "guia-indicacoes-geograficas-inpi-brasil",
         "tipos-protecao-intelectual-brasil-guia-completo",
@@ -3470,7 +3470,7 @@
     "run-70b-llm-low-vram-gpu-guide-2026": {
       "slug": "run-70b-llm-low-vram-gpu-guide-2026",
       "title_en": "How to Run 70B LLMs on a 4GB GPU: Low-VRAM Inference Guide [2026]",
-      "title_pt": "How to Run 70B LLMs on a 4GB GPU: Low-VRAM Inference Guide [2026]",
+      "title_pt": "Como Executar LLMs de 70B em uma GPU de 4GB: Guia de Inferência com Baixo VRAM [2026]",
       "tags": [
         "llm",
         "gpu",
@@ -3482,11 +3482,35 @@
         "article"
       ],
       "description_en": "Run 70B-class LLMs on 4-8GB GPUs: layer streaming, llama.cpp partial offload, AirLLM setup, quantization, and real performance expectations. Step-by-step guide.",
-      "content_hash_en": "6d03e53fdf544e6f6c1a4dcc96ff94a05d745334230e70e0b9cf35cd1f33243a",
+      "content_hash_en": "d51a2003baf715098de3712b0b2ad924c553f23ce19717377b5f29f7e2978552",
       "backlinks": [
         "kvm-virsh-linux-virtualization-guide-2026",
+        "kvm-virsh-linux-virtualization-guide-2026",
+        "vibe-coding-pitfalls"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "fine-tune-llm-consumer-gpu-guide-2026": {
+      "slug": "fine-tune-llm-consumer-gpu-guide-2026",
+      "title_en": "How to Fine-Tune an LLM on a Consumer GPU: LoRA and QLoRA Guide [2026]",
+      "title_pt": "How to Fine-Tune an LLM on a Consumer GPU: LoRA and QLoRA Guide [2026]",
+      "tags": [
+        "llm",
+        "fine-tuning",
+        "lora",
+        "gpu",
+        "machine-learning"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Fine-tune 7-8B LLMs on 4-8GB GPUs with LoRA and QLoRA: memory math, tools (PEFT, TRL, Unsloth), step-by-step training, and realistic expectations for consumer hardware.",
+      "content_hash_en": "ebf1f825b12700747aae3c66206a1f2478c80c590c6cf254032835eed19fe1d2",
+      "backlinks": [
         "vibe-coding-pitfalls",
-        "kvm-virsh-linux-virtualization-guide-2026"
+        "kvm-virsh-linux-virtualization-guide-2026",
+        "vibe-coding-pitfalls"
       ],
       "backlink_source": "file",
       "last_processed": null
