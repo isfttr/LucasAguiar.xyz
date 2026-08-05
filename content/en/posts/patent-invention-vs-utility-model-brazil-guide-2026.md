@@ -109,8 +109,9 @@ Choosing between a patent of invention and a utility model comes down to three q
 
 Read also:
 
-- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/how-to-file-patent-inpi-2026-guide/" >}})
-- [Intellectual Property Protection Types in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [Industrial Design Registration in Brazil: Complete Step-by-Step Guide [2026]]({{< relref "posts/industrial-design-registration-brazil-inpi-2026-guide/" >}})
+- [Complete Guide to Patent Annuities at INPI: Deadlines, Amounts and How to Pay [2026]]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
 
 ---
 

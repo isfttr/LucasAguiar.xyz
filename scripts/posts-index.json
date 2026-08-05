@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T18:05:15.993Z",
+  "last_updated": "2026-08-05T14:19:05.312Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3482,11 +3482,11 @@
         "article"
       ],
       "description_en": "Run 70B-class LLMs on 4-8GB GPUs: layer streaming, llama.cpp partial offload, AirLLM setup, quantization, and real performance expectations. Step-by-step guide.",
-      "content_hash_en": "d51a2003baf715098de3712b0b2ad924c553f23ce19717377b5f29f7e2978552",
+      "content_hash_en": "8ca8f5f4faa22330d6fb3a8ff88d871bd094d5480e4f56b9ecb16bcf75f601e0",
       "backlinks": [
         "kvm-virsh-linux-virtualization-guide-2026",
         "kvm-virsh-linux-virtualization-guide-2026",
-        "vibe-coding-pitfalls"
+        "kvm-virsh-linux-virtualization-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3494,7 +3494,7 @@
     "fine-tune-llm-consumer-gpu-guide-2026": {
       "slug": "fine-tune-llm-consumer-gpu-guide-2026",
       "title_en": "How to Fine-Tune an LLM on a Consumer GPU: LoRA and QLoRA Guide [2026]",
-      "title_pt": "How to Fine-Tune an LLM on a Consumer GPU: LoRA and QLoRA Guide [2026]",
+      "title_pt": "Como Fazer Fine-Tuning de um LLM em uma GPU de Consumidor: Guia de LoRA e QLoRA [2026]",
       "tags": [
         "llm",
         "fine-tuning",
@@ -3506,11 +3506,60 @@
         "article"
       ],
       "description_en": "Fine-tune 7-8B LLMs on 4-8GB GPUs with LoRA and QLoRA: memory math, tools (PEFT, TRL, Unsloth), step-by-step training, and realistic expectations for consumer hardware.",
-      "content_hash_en": "ebf1f825b12700747aae3c66206a1f2478c80c590c6cf254032835eed19fe1d2",
+      "content_hash_en": "5c84eca69638023fb61e8589f5ed4022e265aa71f9e59c4e0f3eeeda9bc162d3",
       "backlinks": [
         "vibe-coding-pitfalls",
         "kvm-virsh-linux-virtualization-guide-2026",
         "vibe-coding-pitfalls"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "patent-invention-vs-utility-model-brazil-guide-2026": {
+      "slug": "patent-invention-vs-utility-model-brazil-guide-2026",
+      "title_en": "Patent vs Utility Model in Brazil: Differences, Terms and Costs [2026]",
+      "title_pt": "Patent vs Utility Model in Brazil: Differences, Terms and Costs [2026]",
+      "tags": [
+        "patents",
+        "inpi",
+        "utility-model",
+        "intellectual-property",
+        "guide"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Patent of invention (PI) vs utility model (MU) at Brazil's INPI: legal requirements under the LPI, protection terms, 2026 fees, practical examples and how to choose the right filing type.",
+      "content_hash_en": "370d02a3737564e023f3b803af0079e8cf3993c804e0d86b08fbd958400206b4",
+      "backlinks": [
+        "ip-protection-types-brazil-complete-guide",
+        "industrial-design-registration-brazil-inpi-2026-guide",
+        "guia-anuidades-patentes-inpi-prazos-valores-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "patente-invencao-vs-modelo-utilidade-guia-2026": {
+      "slug": "patente-invencao-vs-modelo-utilidade-guia-2026",
+      "title_en": "Patente de Invenção vs Modelo de Utilidade: Diferenças, Prazos e Custos [2026]",
+      "title_pt": "Patente de Invenção vs Modelo de Utilidade: Diferenças, Prazos e Custos [2026]",
+      "tags": [
+        "patentes",
+        "inpi",
+        "modelo-de-utilidade",
+        "propriedade-intelectual",
+        "guia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Diferenças entre patente de invenção (PI) e modelo de utilidade (MU) no INPI: requisitos legais da LPI, prazos de proteção, custos 2026, exemplos práticos e como escolher o tipo certo.",
+      "content_hash_en": null,
+      "content_hash_pt": "9cf7831b0da4368a7c5a537fb418331a675defaa0ef260e2dcad6a858d31ec62",
+      "backlinks": [
+        "tipos-protecao-intelectual-brasil-guia-completo",
+        "guia-registro-desenho-industrial-inpi-2026",
+        "guia-anuidades-patentes-inpi-prazos-valores-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

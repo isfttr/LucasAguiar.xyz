@@ -109,8 +109,9 @@ A escolha entre patente de invenção e modelo de utilidade se resume a três pe
 
 Leia também:
 
-- [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
 - [Tipos de Proteção Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
+- [Registro de Desenho Industrial no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
+- [Guia Completo de Anuidades de Patentes no INPI: Prazos, Valores e Como Pagar [2026]]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
 
 ---
 

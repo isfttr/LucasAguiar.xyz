@@ -121,9 +121,9 @@ Se você já está rodando inferência local em uma placa com pouca VRAM, o mesm
 
 Leia também:
 
-- [Por que estou terminando com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [KVM e Virsh no Linux: Guia Completo de Máquinas Virtuais [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
-- [Por que estou terminando com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [KVM e Virsh no Linux: Guia Completo para Máquinas Virtuais [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 
 ---
 
