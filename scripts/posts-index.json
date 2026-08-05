@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T14:19:05.312Z",
+  "last_updated": "2026-08-05T18:09:51.600Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3482,7 +3482,7 @@
         "article"
       ],
       "description_en": "Run 70B-class LLMs on 4-8GB GPUs: layer streaming, llama.cpp partial offload, AirLLM setup, quantization, and real performance expectations. Step-by-step guide.",
-      "content_hash_en": "8ca8f5f4faa22330d6fb3a8ff88d871bd094d5480e4f56b9ecb16bcf75f601e0",
+      "content_hash_en": "5f3411cd0d7ee53c716d354a1f4cece931815bce7557c3475e96461f90668775",
       "backlinks": [
         "kvm-virsh-linux-virtualization-guide-2026",
         "kvm-virsh-linux-virtualization-guide-2026",
@@ -3518,7 +3518,7 @@
     "patent-invention-vs-utility-model-brazil-guide-2026": {
       "slug": "patent-invention-vs-utility-model-brazil-guide-2026",
       "title_en": "Patent vs Utility Model in Brazil: Differences, Terms and Costs [2026]",
-      "title_pt": "Patent vs Utility Model in Brazil: Differences, Terms and Costs [2026]",
+      "title_pt": "Patente vs Modelo de Utilidade no Brasil: Diferenças, Prazos e Custos [2026]",
       "tags": [
         "patents",
         "inpi",
@@ -3530,7 +3530,7 @@
         "article"
       ],
       "description_en": "Patent of invention (PI) vs utility model (MU) at Brazil's INPI: legal requirements under the LPI, protection terms, 2026 fees, practical examples and how to choose the right filing type.",
-      "content_hash_en": "370d02a3737564e023f3b803af0079e8cf3993c804e0d86b08fbd958400206b4",
+      "content_hash_en": "fa137d2472faaabc0de4b3938d887427035c653e18d7244f6b5a70c2cda8899a",
       "backlinks": [
         "ip-protection-types-brazil-complete-guide",
         "industrial-design-registration-brazil-inpi-2026-guide",
@@ -3541,7 +3541,7 @@
     },
     "patente-invencao-vs-modelo-utilidade-guia-2026": {
       "slug": "patente-invencao-vs-modelo-utilidade-guia-2026",
-      "title_en": "Patente de Invenção vs Modelo de Utilidade: Diferenças, Prazos e Custos [2026]",
+      "title_en": "Invention Patent vs Utility Model: Differences, Terms and Costs [2026]",
       "title_pt": "Patente de Invenção vs Modelo de Utilidade: Diferenças, Prazos e Custos [2026]",
       "tags": [
         "patentes",
@@ -3553,13 +3553,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "Diferenças entre patente de invenção (PI) e modelo de utilidade (MU) no INPI: requisitos legais da LPI, prazos de proteção, custos 2026, exemplos práticos e como escolher o tipo certo.",
-      "content_hash_en": null,
-      "content_hash_pt": "9cf7831b0da4368a7c5a537fb418331a675defaa0ef260e2dcad6a858d31ec62",
+      "description_en": "Differences between invention patent (PI) and utility model (MU) at INPI: legal requirements of LPI, protection terms, 2026 costs, practical examples, and how to choose the right type.",
+      "content_hash_en": "d8a58352495434e0f447fff6cb9071c79d383a9df297471104a2ede38369c979",
       "backlinks": [
         "tipos-protecao-intelectual-brasil-guia-completo",
         "guia-registro-desenho-industrial-inpi-2026",
         "guia-anuidades-patentes-inpi-prazos-valores-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "stateless-mcp-guide-2026": {
+      "slug": "stateless-mcp-guide-2026",
+      "title_en": "Stateless MCP Guide [2026]: What Changed in the Model Context Protocol 2.0",
+      "title_pt": "Stateless MCP Guide [2026]: What Changed in the Model Context Protocol 2.0",
+      "tags": [
+        "mcp",
+        "ai-agents",
+        "llm",
+        "protocol",
+        "ai-tools"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Stateless MCP explained: what the 2026-07-28 Model Context Protocol 2.0 spec changed, why single-request servers matter, and how to build and probe your own MCP server.",
+      "content_hash_en": "a0eabb150e0b29e0896d9e169a89254a8e9627e28c337ef5b839d3e2eea32a1a",
+      "backlinks": [
+        "creating-my-ai-assistant-locally",
+        "google-search-console-agente-hermes",
+        "gitlost-github-agentic-workflows-prompt-injection-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

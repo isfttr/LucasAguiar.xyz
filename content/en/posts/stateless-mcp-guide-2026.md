@@ -110,10 +110,11 @@ A useful decision rule after the 2026 spec:
 
 The stateless model lowers the barrier for both server and client implementations, which usually means one thing: more integrations, faster. Watch for MCP support landing in more agent frameworks and CLI tools, for `Tasks` extension adoption as the standard way to handle long-running operations, and for the security guidance around stateless servers to mature as the ecosystem grows. The protocol stopped being "Anthropic's thing" a while ago — with MCP 2.0 it became a genuinely boring, dependable standard, and that is exactly what infrastructure should be.
 
-Also read:
+Read also:
 
-- [Google Search Console via MCP: connecting an agent to your SEO data]({{< relref "posts/google-search-console-agente-hermes/" >}})
-- [GitLost and prompt injection in agentic workflows]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
+- [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [How to set up Google Search Console with your Hermes agent]({{< relref "posts/google-search-console-agente-hermes/" >}})
+- [GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
 
 ---
 

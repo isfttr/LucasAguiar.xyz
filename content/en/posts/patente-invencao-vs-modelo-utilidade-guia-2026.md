@@ -108,11 +108,11 @@ The complete step-by-step process is in our [guide to filing a patent at the INP
 
 The choice between an invention patent and a utility model boils down to three questions: **is it a process?** (PI), **is it a radically new object?** (PI), **is it a functional shape improvement?** (MU). When doubt remains, an accredited industrial property agent can assess the specific case — the cost of that consultation is small compared to the cost of filing the wrong type and losing 5 years of protection or the entire application.
 
-Also read:
+Read also:
 
 - [Types of Intellectual Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
-- [Industrial Design Registration at the INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
-- [Complete Guide to Patent Annuities at the INPI: Deadlines, Fees, and How to Pay [2026]]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
+- [Industrial Design Registration at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
+- [Complete Guide to Patent Annuities at INPI: Deadlines, Amounts and How to Pay [2026]]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
 
 ---
 

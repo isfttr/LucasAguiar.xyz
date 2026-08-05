@@ -110,7 +110,7 @@ Escolher entre uma patente de invenção e um modelo de utilidade se resume a tr
 
 Leia também:
 
-- [Tipos de Proteção da Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
 - [Registro de Desenho Industrial no Brasil: Guia Completo Passo a Passo [2026]]({{< relref "posts/industrial-design-registration-brazil-inpi-2026-guide/" >}})
 - [Guia Completo de Anuidades de Patentes no INPI: Prazos, Valores e Como Pagar [2026]]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
 
