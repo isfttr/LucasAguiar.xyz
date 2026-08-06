@@ -114,8 +114,8 @@ O modelo sem estado reduz a barreira tanto para implementações de servidor qua
 Leia também:
 
 - [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [Como configurar o Google Search Console com seu agente Hermes]({{< relref "posts/google-search-console-agente-hermes/" >}})
-- [GitLost [2026]: Como a injeção de prompt no agente de IA do GitHub vaza repositórios privados]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
+- [Como configurar o Google Search Console junto ao seu agente Hermes]({{< relref "posts/google-search-console-agente-hermes/" >}})
+- [GitLost [2026]: Como a Injeção de Prompt no Agente de IA do GitHub Vaza Repositórios Privados]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
 
 ---
 

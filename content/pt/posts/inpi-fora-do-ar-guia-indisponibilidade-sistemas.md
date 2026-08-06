@@ -102,8 +102,9 @@ Se você trabalha com registros eletrônicos no INPI, vale também revisar os gu
 
 Leia também:
 
-- [Como consultar o andamento de um processo no INPI]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [Como registrar um programa de computador no INPI]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
+- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
 
 ---
 
