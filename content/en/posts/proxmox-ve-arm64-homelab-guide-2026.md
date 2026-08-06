@@ -76,11 +76,11 @@ For anyone already running PVE, the migration path is straightforward — [the 8
 
 The ARM64 release is a genuine milestone: Proxmox is no longer an x86-only platform, and the ARM server ecosystem has a first-class hypervisor with enterprise backing. For homelabs, the practical takeaway is clear — ARM64 is for UEFI-based ARM hardware (Grace, Vera, Ampere, and best-effort consumer boards), not for Raspberry Pis, and an ARM cluster is a separate fleet from your x86 nodes. If you've been eyeing a low-power ARM server, 2026 is the year it stopped being a hack.
 
-Also read:
+Read also:
 
-- [Proxmox Backup Server + Community Scripts: Setup Guide 2026]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
-- [Migrating Proxmox 8 to 9: Step-by-Step Guide [2026]]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
-- [Troubleshooting the Proxmox Login/Web Interface]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [How to migrate from Proxmox VE 8 to 9: step-by-step guide [2026]]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
+- [Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
 ---
 

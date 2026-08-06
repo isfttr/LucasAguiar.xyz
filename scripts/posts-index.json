@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T14:20:22.736Z",
+  "last_updated": "2026-08-06T18:43:33.794Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3589,7 +3589,7 @@
     },
     "inpi-fora-do-ar-guia-indisponibilidade-sistemas": {
       "slug": "inpi-fora-do-ar-guia-indisponibilidade-sistemas",
-      "title_en": "INPI fora do ar: guia de contingência quando os sistemas eletrônicos ficam indisponíveis",
+      "title_en": "INPI down: contingency guide when electronic systems become unavailable",
       "title_pt": "INPI fora do ar: guia de contingência quando os sistemas eletrônicos ficam indisponíveis",
       "tags": [
         "inpi",
@@ -3601,13 +3601,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "O que fazer quando o e-Patentes, e-Marcas ou o peticionamento do INPI ficam fora do ar: prazos, Relatório de Indisponibilidade Técnica, recuperação de protocolo via GRU e canais oficiais.",
-      "content_hash_en": null,
-      "content_hash_pt": "60c61a1a2c185d3fbd93812188fa1891d1125d7babaec81aa38f677e605e98a0",
+      "description_en": "What to do when e-Patentes, e-Marcas, or INPI's e-filing goes down: deadlines, Technical Unavailability Report, protocol recovery via GRU, and official channels.",
+      "content_hash_en": "2e9d61fc8997f01fb45fa42bcb85cb80607085baa46ed58cb1285c67b3fcc649",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "guia-deposito-patente-inpi-2026",
         "guia-registro-programa-computador-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "proxmox-ve-arm64-homelab-guide-2026": {
+      "slug": "proxmox-ve-arm64-homelab-guide-2026",
+      "title_en": "Proxmox VE on ARM64: Complete Homelab Guide [2026]",
+      "title_pt": "Proxmox VE on ARM64: Complete Homelab Guide [2026]",
+      "tags": [
+        "proxmox",
+        "arm64",
+        "homelab",
+        "virtualization",
+        "linux"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Proxmox VE 9.2 now officially supports ARM64: supported hardware (NVIDIA Grace, Vera), best-effort SBCs, UEFI-only boot, limitations and what it means for homelabs.",
+      "content_hash_en": "552f968f8aa01d9f426d66fa0026d8e8f32251d674c723b4c562439128283e9a",
+      "backlinks": [
+        "proxmox-backup-server-community-scripts-2026",
+        "migracao-proxmox-8-9-2026",
+        "troubleshooting-proxmox-login-interface"
       ],
       "backlink_source": "file",
       "last_processed": null
