@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T14:19:02.483Z",
+  "last_updated": "2026-08-07T18:09:42.284Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3614,7 +3614,7 @@
     "proxmox-ve-arm64-homelab-guide-2026": {
       "slug": "proxmox-ve-arm64-homelab-guide-2026",
       "title_en": "Proxmox VE on ARM64: Complete Homelab Guide [2026]",
-      "title_pt": "Proxmox VE on ARM64: Complete Homelab Guide [2026]",
+      "title_pt": "Proxmox VE em ARM64: Guia Completo de Homelab [2026]",
       "tags": [
         "proxmox",
         "arm64",
@@ -3650,7 +3650,7 @@
         "article"
       ],
       "description_en": "Complete guide to INPI fee refunds in Brazil: cases covered by Resolution 204/2017, step-by-step electronic filing, required documents, deadlines and how to track your request in the RPI.",
-      "content_hash_en": "00c4cc2d0a7181b56dccc788874cd975b9e0cbf869292e06edb162bb7632665c",
+      "content_hash_en": "16b97909d8c42d53c930ae3e2cf02308b4ffc9050afe567f7f9184fced72e61f",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "guia-anuidades-patentes-inpi-prazos-valores-2026",
@@ -3658,6 +3658,30 @@
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "detect-block-bot-traffic-selfhosted-guide-2026": {
+      "slug": "detect-block-bot-traffic-selfhosted-guide-2026",
+      "title_en": "How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]",
+      "title_pt": "How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]",
+      "tags": [
+        "selfhosted",
+        "security",
+        "nginx",
+        "homelab",
+        "devops"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Step-by-step guide to detecting and blocking bot traffic on self-hosted sites: log analysis with GoAccess, nginx rate limiting, fail2ban, CrowdSec, Cloudflare Bot Fight Mode and robots.txt for AI crawlers.",
+      "content_hash_en": "a35fc23255dcf6094c8fb70be80efaa8739d987ebd281eebc341b1ccc8ae91a9",
+      "backlinks": [
+        "oracle_cloud_vps",
+        "spf-dkim-dmarc-email-authentication-guide-2026",
+        "how-to-setup-github-secrets"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-08-07T18:09:42.283Z"
     }
   }
 }

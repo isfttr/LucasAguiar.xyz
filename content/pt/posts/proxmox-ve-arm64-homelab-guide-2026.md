@@ -79,9 +79,9 @@ O lançamento para ARM64 é um marco genuíno: o Proxmox não é mais uma plataf
 
 Leia também:
 
-- [Proxmox Backup Server: instalação via community-scripts e configuração de backup [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
-- [Como migrar do Proxmox VE 8 para 9: guia passo a passo [2026]]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
-- [Corrigir erros de login na interface web do Proxmox; um guia passo a passo]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Proxmox Backup Server: instalação via community-scripts e configuração de backups [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [Como migrar do Proxmox VE 8 para o 9: guia passo a passo [2026]]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
+- [Corrigindo Erros de Login na Interface Web do Proxmox: Guia Passo a Passo]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
 ---
 

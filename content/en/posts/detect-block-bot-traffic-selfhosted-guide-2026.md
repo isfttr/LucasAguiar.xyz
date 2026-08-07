@@ -126,10 +126,11 @@ If you run a static site and the bots are relentless, [Anubis](https://github.co
 
 Stack the layers in order — robots.txt, nginx rate limiting, fail2ban, CrowdSec — and a $5 VPS that was pegged at 100% CPU from scrapers will go back to serving your actual readers at single-digit load. The bots never stop, but you stop paying attention to them. That is the goal: not a perfectly bot-free site, but a server that has room for the people who matter.
 
-Also read:
+Read also:
 
-- [KVM and virsh: Linux Virtualization Guide [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
-- [Troubleshooting the Proxmox Login Interface]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
+- [SPF, DKIM, and DMARC: Complete Email Authentication Guide [2026]]({{< relref "posts/spf-dkim-dmarc-email-authentication-guide-2026/" >}})
+- [How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications]({{< relref "posts/how-to-setup-github-secrets/" >}})
 
 ---
 
