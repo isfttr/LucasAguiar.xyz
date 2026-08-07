@@ -1,9 +1,9 @@
 ---
-date: 2026-08-07T11:17:24-03:00
+date: 2026-08-07T14:17:24.000Z
 draft: true
-title: "INPI Fee Refunds: Complete Guide to Recovering Payments Made by Mistake [2026]"
-description: "Complete guide to INPI fee refunds in Brazil: cases covered by Resolution 204/2017, step-by-step electronic filing, required documents, deadlines and how to track your request in the RPI."
-featured_image: ""
+title: 'INPI Fee Refunds: Complete Guide to Recovering Payments Made by Mistake [2026]'
+description: 'Complete guide to INPI fee refunds in Brazil: cases covered by Resolution 204/2017, step-by-step electronic filing, required documents, deadlines and how to track your request in the RPI.'
+featured_image: ''
 categories:
   - article
 tags:
@@ -12,6 +12,7 @@ tags:
   - intellectual-property
   - patents
   - trademarks
+translation_source_hash: c0fdbd73142aa3a64fb682cf7f7a6d163780c139def149652e2939860c924a34
 ---
 
 Paying the wrong fee to INPI (Brazil's patent and trademark office) is more common than it looks: wrong GRU code, overpayment, duplicate payment, or a deposit that never became a filing. The good news is that INPI refunds those amounts — as long as you follow the rules of [Resolution INPI No. 204/2017](https://www.gov.br/inpi/pt-br/servicos/marcas/arquivos/legislacao/RES_204_2017.pdf) (in Portuguese).
