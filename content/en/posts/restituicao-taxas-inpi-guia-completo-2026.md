@@ -93,9 +93,9 @@ For anyone who pays INPI fees regularly, the workflow is worth the care: always 
 
 Read also:
 
-- [How much does it cost to register a trademark at INPI in 2026? Full table]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Complete guide to patent annuities at INPI: deadlines and amounts]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
-- [How to check the status of an INPI process]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [Complete Guide to Patent Annuities at INPI: Deadlines, Amounts and How to Pay [2026]]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
 ---
 

@@ -93,9 +93,9 @@ Para quem paga taxas do INPI com frequência, o fluxo vale o cuidado: anote semp
 
 Leia também:
 
-- [Quanto custa registrar uma marca no INPI em 2026? Tabela completa]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Guia de anuidades de patentes no INPI: prazos e valores]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
-- [Como consultar o andamento de um processo no INPI]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [Guia Completo de Anuidades de Patentes no INPI: Prazos, Valores e Como Pagar [2026]]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
+- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
 ---
 

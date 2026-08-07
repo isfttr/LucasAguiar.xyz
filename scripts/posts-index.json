@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T18:43:33.794Z",
+  "last_updated": "2026-08-07T14:19:02.483Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3602,7 +3602,7 @@
         "article"
       ],
       "description_en": "What to do when e-Patentes, e-Marcas, or INPI's e-filing goes down: deadlines, Technical Unavailability Report, protocol recovery via GRU, and official channels.",
-      "content_hash_en": "2e9d61fc8997f01fb45fa42bcb85cb80607085baa46ed58cb1285c67b3fcc649",
+      "content_hash_en": "90695caccd1a2e3185d9de326adb00e6823fa5b830bb94177485f377465985d1",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "guia-deposito-patente-inpi-2026",
@@ -3626,11 +3626,35 @@
         "article"
       ],
       "description_en": "Proxmox VE 9.2 now officially supports ARM64: supported hardware (NVIDIA Grace, Vera), best-effort SBCs, UEFI-only boot, limitations and what it means for homelabs.",
-      "content_hash_en": "552f968f8aa01d9f426d66fa0026d8e8f32251d674c723b4c562439128283e9a",
+      "content_hash_en": "dfdb2401187b64a37f23a545320804e0d6186a7fec1da2dc61acbbf02dc8a18e",
       "backlinks": [
         "proxmox-backup-server-community-scripts-2026",
         "migracao-proxmox-8-9-2026",
         "troubleshooting-proxmox-login-interface"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "restituicao-taxas-inpi-guia-completo-2026": {
+      "slug": "restituicao-taxas-inpi-guia-completo-2026",
+      "title_en": "INPI Fee Refunds: Complete Guide to Recovering Payments Made by Mistake [2026]",
+      "title_pt": "Restituição de Taxas no INPI: Guia Completo para Recuperar Valores Pagos Indevidamente [2026]",
+      "tags": [
+        "inpi",
+        "fees",
+        "intellectual-property",
+        "patents",
+        "trademarks"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to INPI fee refunds in Brazil: cases covered by Resolution 204/2017, step-by-step electronic filing, required documents, deadlines and how to track your request in the RPI.",
+      "content_hash_en": "00c4cc2d0a7181b56dccc788874cd975b9e0cbf869292e06edb162bb7632665c",
+      "backlinks": [
+        "quanto-custa-registrar-marca-inpi-2026",
+        "guia-anuidades-patentes-inpi-prazos-valores-2026",
+        "como-consultar-andamento-processo-inpi"
       ],
       "backlink_source": "file",
       "last_processed": null
