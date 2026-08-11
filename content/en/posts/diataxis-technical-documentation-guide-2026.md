@@ -1,6 +1,6 @@
 ---
 date: 2026-08-02T15:10:00-03:00
-draft: true
+draft: false
 title: "How to Structure Technical Documentation: A Diátaxis Guide [2026]"
 description: "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide."
 featured_image: ""

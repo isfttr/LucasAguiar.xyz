@@ -1,6 +1,6 @@
 ---
 date: 2026-07-12T18:05:37.000Z
-draft: true
+draft: false
 title: 'Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]'
 description: 'Agentes de codificação de IA explicados a partir dos primeiros princípios: o loop de chamada de ferramentas, arquiteturas de agentes (único vs multi-agente, MCP) e dicas práticas para usá-los de forma eficaz em projetos reais.'
 featured_image: ''
@@ -85,7 +85,7 @@ O padrão emergente para definição de ferramentas é o **Model Context Protoco
 
 ## Como Estruturar Seu Projeto para Agentes de IA
 
-O blog já abordou [como a IA muda a economia da consistência de bases de código]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}}), mas a implicação prática é direta: agentes de IA funcionam melhor com bases de código consistentes e bem documentadas.
+O blog já abordou [como a IA muda a economia do desenvolvimento de software]({{< relref "posts/personal-software-ai-guide-2026/" >}}), mas a implicação prática é direta: agentes de IA funcionam melhor com bases de código consistentes e bem documentadas.
 
 Aqui está o que descobri que faz a maior diferença:
 
@@ -122,9 +122,9 @@ A principal conclusão da discussão desta semana no HN — o blog do Tao, o exp
 
 Leia também:
 
-- [Como a IA Muda a Economia das Reescrevaturas de Software [2026]: Por que a Consistência do Código-Fonte é Sua Nova Vantagem Competitiva]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [Software Pessoal na Era da IA: Como Qualquer Pessoa Pode Criar Apps para um Público de Um]({{< relref "posts/personal-software-ai-guide-2026/" >}})
 - [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [Como a IA Muda a Economia das Reescrevaturas de Software [2026]: Por que a Consistência do Código-Fonte é Sua Nova Vantagem Competitiva]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [Portabilidade de Sessões de IA: Por que Suas Conversas com IA Estão se Tornando Lock-In [2026]]({{< relref "posts/ai-session-portability-guide-2026/" >}})
 
 ---
 

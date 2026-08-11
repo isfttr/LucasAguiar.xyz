@@ -1,6 +1,6 @@
 ---
 date: 2026-08-11T15:08:10-03:00
-draft: true
+draft: false
 title: "LLM API Security in 2026: How to Inspect AI Traffic and Protect Your Keys"
 description: "Practical guide to LLM API security in 2026: reasoning-trace extraction, MitM inspection of Copilot and Claude Desktop traffic, and a defense-in-depth checklist for API keys."
 featured_image: ""

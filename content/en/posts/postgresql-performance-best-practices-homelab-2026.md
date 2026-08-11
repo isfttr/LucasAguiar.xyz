@@ -1,6 +1,6 @@
 ---
 date: 2026-07-22T15:08:20-03:00
-draft: true
+draft: false
 title: "PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]"
 description: "Complete guide to tuning PostgreSQL for homelab and self-hosted environments: memory, storage, indexing, connection pooling, vacuuming, and benchmarking with real config examples."
 featured_image: ""
@@ -328,7 +328,7 @@ A typical homelab improvement: from ~300 TPS to ~900 TPS on a 6 GB RAM, 4-core S
 
 Read also:
 
-- [SQLite Performance and Best Practices: A Practical Guide for Developers and Homelab Users [2026]]({{< relref "posts/sqlite-performance-best-practices-guide-2026/" >}})
+- [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 - [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
 - [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
 

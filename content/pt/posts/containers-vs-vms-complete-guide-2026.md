@@ -1,6 +1,6 @@
 ---
 date: 2026-07-23T18:06:28.000Z
-draft: true
+draft: false
 title: 'Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]'
 description: Guia completo comparando contêineres Docker, contêineres LXC e máquinas virtuais (KVM, Proxmox). Benchmarks de desempenho, trade-offs de isolamento, tempos de inicialização, densidade de recursos e matriz de decisão para homelab e produção.
 featured_image: ''

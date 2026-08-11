@@ -1,6 +1,6 @@
 ---
 date: 2026-07-31T15:06:04-03:00
-draft: true
+draft: false
 title: "AI Session Portability: Why Your AI Conversations Are Becoming Lock-In [2026]"
 description: "AI sessions are drifting into lock-in: encrypted reasoning, hidden search, opaque compaction. The 5 portability tests — and how to keep your transcripts yours."
 featured_image: ""

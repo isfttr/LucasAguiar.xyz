@@ -1,6 +1,6 @@
 ---
 date: 2026-08-05T18:10:00.000Z
-draft: true
+draft: false
 title: 'Guia Stateless do MCP [2026]: O que mudou no Model Context Protocol 2.0'
 description: 'MCP sem estado explicado: o que a especificação 2.0 do Model Context Protocol de 2026-07-28 mudou, por que servidores de requisição única são importantes e como construir e testar seu próprio servidor MCP.'
 featured_image: ''

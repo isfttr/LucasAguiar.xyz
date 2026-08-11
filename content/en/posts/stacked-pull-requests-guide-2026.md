@@ -1,6 +1,6 @@
 ---
 date: 2026-07-30T15:04:08-03:00
-draft: true
+draft: false
 title: "Stacked Pull Requests: Complete Guide and Best Practices [2026]"
 description: "Learn how stacked PRs work, why they speed up code review, and how to use them with GitHub's new native support. Comparisons, CLI tools, and real-world workflows."
 featured_image: ""

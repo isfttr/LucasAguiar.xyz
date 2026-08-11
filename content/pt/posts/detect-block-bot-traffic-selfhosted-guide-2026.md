@@ -1,6 +1,6 @@
 ---
 date: 2026-08-07T18:06:52.000Z
-draft: true
+draft: false
 title: Como Detectar e Bloquear Tráfego de Bots no Seu Site Auto-Hospedado [2026]
 description: 'Guia passo a passo para detectar e bloquear tráfego de bots em sites auto-hospedados: análise de logs com GoAccess, limitação de taxa do nginx, fail2ban, CrowdSec, Cloudflare Bot Fight Mode e robots.txt para rastreadores de IA.'
 featured_image: ''
@@ -130,8 +130,8 @@ Empilhe as camadas em ordem — robots.txt, limitação de taxa no nginx, fail2b
 Leia também:
 
 - [Oracle Cloud Free Tier 2026: Ainda Vale a Pena? Guia Completo + Alternativas]({{< relref "posts/oracle_cloud_vps/" >}})
-- [SPF, DKIM e DMARC: Guia Completo de Autenticação de Email [2026]]({{< relref "posts/spf-dkim-dmarc-email-authentication-guide-2026/" >}})
-- [Como Configurar e Usar GitHub Secrets com Contêineres e Aplicações Voltadas para a Internet]({{< relref "posts/how-to-setup-github-secrets/" >}})
+- [Segurança de API de LLM em 2026: Como Inspecionar o Tráfego de IA e Proteger Suas Chaves]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}})
+- [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
 ---
 

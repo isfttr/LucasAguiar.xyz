@@ -1,6 +1,6 @@
 ---
 date: 2026-07-13T18:05:20.000Z
-draft: true
+draft: false
 title: 'Como Executar com Segurança Agentes de Codificação de IA: Um Guia Prático de Sandboxing [2026]'
 description: Guia passo a passo para isolar agentes de codificação de IA como Claude Code, Codex e Cursor. Evite vazamentos de dados, restrinja o acesso à rede e execute agentes com segurança usando Docker, VMs e escopo de permissões.
 categories:

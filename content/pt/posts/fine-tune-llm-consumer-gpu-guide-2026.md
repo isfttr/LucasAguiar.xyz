@@ -1,6 +1,6 @@
 ---
 date: 2026-08-04T18:04:09.000Z
-draft: true
+draft: false
 title: 'Como Fazer Fine-Tuning de um LLM em uma GPU de Consumidor: Guia de LoRA e QLoRA [2026]'
 description: 'Ajuste fino de LLMs de 7-8B em GPUs de 4-8GB com LoRA e QLoRA: matemática de memória, ferramentas (PEFT, TRL, Unsloth), treinamento passo a passo e expectativas realistas para hardware de consumo.'
 featured_image: ''

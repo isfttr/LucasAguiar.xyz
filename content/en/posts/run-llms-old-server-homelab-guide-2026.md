@@ -1,6 +1,6 @@
 ---
 date: 2026-07-15T15:05:00-03:00
-draft: true
+draft: false
 title: "How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]"
 description: "Step-by-step guide to running modern LLMs on old/used enterprise servers with no GPU. Hardware picks, software stack, expected performance, and cost comparison vs cloud APIs."
 featured_image: ""

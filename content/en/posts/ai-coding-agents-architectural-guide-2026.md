@@ -1,6 +1,6 @@
 ---
 date: 2026-07-12T15:05:37-03:00
-draft: true
+draft: false
 title: "How AI Coding Agents Actually Work: An Architectural Guide [2026]"
 description: "AI coding agents explained from first principles: the tool-calling loop, agent architectures (single vs multi-agent, MCP), and practical tips for using them effectively in real projects."
 featured_image: ""
@@ -84,7 +84,7 @@ The emerging standard for tool definition is the **Model Context Protocol (MCP)*
 
 ## How to Structure Your Project for AI Agents
 
-The blog has covered [how AI changes the economics of codebase consistency]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}}), but the practical implication is straightforward: AI agents work best with consistent, well-documented codebases.
+The blog has covered [how AI changes the economics of software development]({{< relref "posts/personal-software-ai-guide-2026/" >}}), but the practical implication is straightforward: AI agents work best with consistent, well-documented codebases.
 
 Here is what I have found makes the biggest difference:
 
@@ -121,9 +121,9 @@ The key realization from this week's HN discussion — Tao's blog, the Lisp agen
 
 Read also:
 
-- [How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [Personal Software in the AI Era: How Anyone Can Build Apps for an Audience of One]({{< relref "posts/personal-software-ai-guide-2026/" >}})
 - [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [AI Session Portability: Why Your AI Conversations Are Becoming Lock-In [2026]]({{< relref "posts/ai-session-portability-guide-2026/" >}})
 
 ---
 

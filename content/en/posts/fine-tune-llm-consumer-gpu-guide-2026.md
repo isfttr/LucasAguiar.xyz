@@ -1,6 +1,6 @@
 ---
 date: 2026-08-04T15:04:09-03:00
-draft: true
+draft: false
 title: "How to Fine-Tune an LLM on a Consumer GPU: LoRA and QLoRA Guide [2026]"
 description: "Fine-tune 7-8B LLMs on 4-8GB GPUs with LoRA and QLoRA: memory math, tools (PEFT, TRL, Unsloth), step-by-step training, and realistic expectations for consumer hardware."
 featured_image: ""

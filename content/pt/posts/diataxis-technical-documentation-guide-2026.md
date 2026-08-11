@@ -1,6 +1,6 @@
 ---
 date: 2026-08-02T18:10:00.000Z
-draft: true
+draft: false
 title: 'Como Estruturar Documentação Técnica: Um Guia Diátaxis [2026]'
 description: 'Framework Diátaxis explicado: os 4 tipos de documentação técnica (tutoriais, guias de como fazer, referência, explicação) e como organizar a documentação para que os usuários realmente a encontrem. Guia prático.'
 featured_image: ''

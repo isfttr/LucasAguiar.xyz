@@ -1,6 +1,6 @@
 ---
 date: 2026-07-14T15:05:22-03:00
-draft: true
+draft: false
 title: "Git History in 2026: Complete Guide to fixup, reword, and split Commands"
 description: "Step-by-step guide to git history — the experimental command that lets you fix old commits, rewrite messages, and split changes without scary rebase -i sessions. Includes practical examples of each subcommand."
 featured_image: ""

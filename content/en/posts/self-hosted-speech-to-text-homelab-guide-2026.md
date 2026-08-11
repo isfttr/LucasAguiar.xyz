@@ -1,6 +1,6 @@
 ---
 date: 2026-07-19T15:06:52-03:00
-draft: true
+draft: false
 title: "Self-Hosted Speech-to-Text in Your Homelab: A Practical Guide [2026]"
 description: "Complete guide to self-hosting speech-to-text in your homelab: Whisper.cpp, Transcribe.cpp, faster-whisper, and Moonshine. Docker setup, GPU acceleration, and integration tips."
 url: ""

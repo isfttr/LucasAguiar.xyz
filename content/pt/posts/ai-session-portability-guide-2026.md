@@ -1,6 +1,6 @@
 ---
 date: 2026-07-31T18:06:04.000Z
-draft: true
+draft: false
 title: 'Portabilidade de Sessões de IA: Por que Suas Conversas com IA Estão se Tornando Lock-In [2026]'
 description: 'Sessões de IA estão caminhando para o aprisionamento: raciocínio criptografado, busca oculta, compactação opaca. Os 5 testes de portabilidade — e como manter suas transcrições sob seu controle.'
 featured_image: ''

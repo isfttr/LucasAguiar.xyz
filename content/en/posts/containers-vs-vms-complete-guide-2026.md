@@ -1,6 +1,6 @@
 ---
 date: 2026-07-23T15:06:28-03:00
-draft: true
+draft: false
 title: "Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]"
 description: "Complete guide comparing Docker containers, LXC containers, and virtual machines (KVM, Proxmox). Performance benchmarks, isolation trade-offs, boot times, resource density, and decision matrix for homelab and production."
 featured_image: ""

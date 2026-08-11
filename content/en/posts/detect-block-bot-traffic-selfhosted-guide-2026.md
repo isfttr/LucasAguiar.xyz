@@ -1,6 +1,6 @@
 ---
 date: 2026-08-07T15:06:52-03:00
-draft: true
+draft: false
 title: "How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]"
 description: "Step-by-step guide to detecting and blocking bot traffic on self-hosted sites: log analysis with GoAccess, nginx rate limiting, fail2ban, CrowdSec, Cloudflare Bot Fight Mode and robots.txt for AI crawlers."
 featured_image: ""
@@ -129,8 +129,8 @@ Stack the layers in order — robots.txt, nginx rate limiting, fail2ban, CrowdSe
 Read also:
 
 - [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
-- [SPF, DKIM, and DMARC: Complete Email Authentication Guide [2026]]({{< relref "posts/spf-dkim-dmarc-email-authentication-guide-2026/" >}})
-- [How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications]({{< relref "posts/how-to-setup-github-secrets/" >}})
+- [LLM API Security in 2026: How to Inspect AI Traffic and Protect Your Keys]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}})
+- [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
 ---
 

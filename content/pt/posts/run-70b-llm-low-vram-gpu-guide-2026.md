@@ -1,6 +1,6 @@
 ---
 date: 2026-08-03T18:06:39.000Z
-draft: true
+draft: false
 title: 'Como Executar LLMs de 70B em uma GPU de 4GB: Guia de Inferência com Baixo VRAM [2026]'
 description: 'Execute LLMs de classe 70B em GPUs de 4-8GB: streaming de camadas, offload parcial com llama.cpp, configuração do AirLLM, quantização e expectativas reais de desempenho. Guia passo a passo.'
 featured_image: ''

@@ -1,6 +1,6 @@
 ---
 date: 2026-08-03T15:06:39-03:00
-draft: true
+draft: false
 title: "How to Run 70B LLMs on a 4GB GPU: Low-VRAM Inference Guide [2026]"
 description: "Run 70B-class LLMs on 4-8GB GPUs: layer streaming, llama.cpp partial offload, AirLLM setup, quantization, and real performance expectations. Step-by-step guide."
 featured_image: ""

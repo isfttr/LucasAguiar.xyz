@@ -1,6 +1,6 @@
 ---
 date: 2026-08-11T18:08:10.000Z
-draft: true
+draft: false
 title: 'Segurança de API de LLM em 2026: Como Inspecionar o Tráfego de IA e Proteger Suas Chaves'
 description: 'Guia prático para segurança de API de LLM em 2026: extração de traces de raciocínio, inspeção MitM do tráfego do Copilot e do Claude Desktop, e uma checklist de defesa em profundidade para chaves de API.'
 featured_image: ''

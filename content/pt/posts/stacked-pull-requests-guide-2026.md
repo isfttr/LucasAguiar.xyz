@@ -1,6 +1,6 @@
 ---
 date: 2026-07-30T18:04:08.000Z
-draft: true
+draft: false
 title: 'Pull Requests Empilhados: Guia Completo e Melhores Práticas [2026]'
 description: Aprenda como funcionam PRs empilhados, por que eles aceleram a revisão de código e como usá-los com o novo suporte nativo do GitHub. Comparações, ferramentas de CLI e workflows do mundo real.
 featured_image: ''
@@ -79,7 +79,7 @@ O suporte nativo do GitHub é novo, mas o conceito tem ferramentas existentes qu
 | **Graphite** | SaaS + CLI | PRs empilhados com fila de mesclagem, análises de equipe |
 | **GitButler** | Aplicativo desktop + CLI | Branches virtuais, PRs empilhados como conceito nativo |
 
-Cobrimos [a CLI e TUI do GitButler]({{< relref "posts/gitbutler-terminal-cli-tui-2026/" >}}) anteriormente — ele implementa branches empilhados por meio de seu modelo de branch virtual, que é uma abordagem diferente de cadeias de branch explícitas. Se você prefere uma GUI desktop, o GitButler continua sendo uma opção forte.
+Cobrimos [o GitButler]({{< relref "posts/one-week-review-gitbutler/" >}}) anteriormente — ele implementa branches empilhados por meio de seu modelo de branch virtual, que é uma abordagem diferente de cadeias de branch explícitas. Se você prefere uma GUI desktop, o GitButler continua sendo uma opção forte.
 
 A principal vantagem do `gh-stack` sobre ferramentas de terceiros é que ele vive dentro da própria UI de revisão do GitHub — o mapa da pilha, o botão de mesclagem e as regras de proteção de branch funcionam sem sair do github.com.
 
@@ -144,7 +144,7 @@ gh stack --help
 
 Leia também:
 
-- [GitButler no Terminal]({{< relref "posts/gitbutler-terminal-cli-tui-2026/" >}})
+- [Histórico do Git em 2026: Guia Completo para os Comandos fixup, reword e split]({{< relref "posts/mastering-git-log-history-guide-2026/" >}})
 - [GitLost [2026]: Como a Injeção de Prompt no Agente de IA do GitHub Vaza Repositórios Privados]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
 - [Duas Semanas com GitButler: Simplificando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
 

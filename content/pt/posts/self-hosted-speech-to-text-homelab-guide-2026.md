@@ -1,6 +1,6 @@
 ---
 date: 2026-07-19T18:06:52.000Z
-draft: true
+draft: false
 title: 'Auto-hospedagem de Fala para Texto no Seu Homelab: Um Guia Prático [2026]'
 description: 'Guia completo para auto-hospedar reconhecimento de fala no seu homelab: Whisper.cpp, Transcribe.cpp, faster-whisper e Moonshine. Configuração Docker, aceleração por GPU e dicas de integração.'
 url: ''

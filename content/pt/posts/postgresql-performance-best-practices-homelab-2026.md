@@ -1,6 +1,6 @@
 ---
 date: 2026-07-22T18:08:20.000Z
-draft: true
+draft: false
 title: Melhores Práticas de Desempenho do PostgreSQL para Homelab e Auto-hospedado [2026]
 description: 'Guia completo para ajustar o PostgreSQL em ambientes homelab e auto-hospedados: memória, armazenamento, indexação, pool de conexões, vacuum e benchmarking com exemplos de configuração reais.'
 featured_image: ''
@@ -329,7 +329,7 @@ Uma melhoria típica de homelab: de ~300 TPS para ~900 TPS em uma máquina com 6
 
 Leia também:
 
-- [Desempenho e Melhores Práticas do SQLite: Um Guia Prático para Desenvolvedores e Usuários de Homelab [2026]]({{< relref "posts/sqlite-performance-best-practices-guide-2026/" >}})
+- [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 - [Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
 - [Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático para Homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
 

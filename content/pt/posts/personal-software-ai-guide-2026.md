@@ -1,6 +1,6 @@
 ---
 date: 2026-08-01T18:05:33.000Z
-draft: true
+draft: false
 title: 'Software Pessoal na Era da IA: Como Qualquer Pessoa Pode Criar Apps para um Público de Um'
 description: Ferramentas de codificação com IA transformaram o software para um único usuário em uma realidade prática. A história dos aplicativos caseiros, a stack que os torna possíveis e por que seu próximo aplicativo pode ter uma audiência de um.
 featured_image: ''
@@ -31,7 +31,7 @@ O software pessoal existia antes dos LLMs. Sloan criou o BoopSnoop em 2020 — m
 
 Esse custo desabou. Seis anos depois, o ensaio de Waxman ressurgiu no X com a observação de que "o software pessoal era um pouco prematuro em 2020, mas em 2026 ele pode realmente ser tão pessoal quanto uma refeição caseira, ou uma carta escrita à mão". O que mudou nesse meio-tempo é algo óbvio: os assistentes de programação com IA (Claude Code, Cursor, Windsurf e outros) que transformam uma descrição em linguagem natural em um app funcional, iteram nele e o depuram junto com você.
 
-A consequência econômica merece ser dita com clareza. Quando o tempo de engenharia era caro, qualquer software precisava ser amortizado por milhares de usuários para valer a pena ser construído. Essa restrição acabou. Um app que poupa uma família uma hora por dia agora vale a única noite necessária para construí-lo. Como argumentei no meu post sobre [como a IA muda a economia de reescritas de software]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}}), o custo marginal de produzir software caiu tanto que categorias inteiramente novas se tornam racionais. O software pessoal é o exemplo mais claro.
+A consequência econômica merece ser dita com clareza. Quando o tempo de engenharia era caro, qualquer software precisava ser amortizado por milhares de usuários para valer a pena ser construído. Essa restrição acabou. Um app que poupa uma família uma hora por dia agora vale a única noite necessária para construí-lo. Como argumentei no meu post sobre [como a IA muda a economia do desenvolvimento de software]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}}), o custo marginal de produzir software caiu tanto que categorias inteiramente novas se tornam racionais. O software pessoal é o exemplo mais claro.
 
 ## Como é a stack de um software pessoal
 
@@ -64,9 +64,9 @@ Se você tem um incômodo recorrente na sua vida — uma agenda familiar, um pla
 
 Leia também:
 
-- [Como a IA Muda a Economia das Reescrevaturas de Software [2026]: Por que a Consistência do Código-Fonte é Sua Nova Vantagem Competitiva]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
 - [Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático para Homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
-- [Como a IA Muda a Economia das Reescrevaturas de Software [2026]: Por que a Consistência do Código-Fonte é Sua Nova Vantagem Competitiva]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [Portabilidade de Sessões de IA: Por que Suas Conversas com IA Estão se Tornando Lock-In [2026]]({{< relref "posts/ai-session-portability-guide-2026/" >}})
 
 ---
 

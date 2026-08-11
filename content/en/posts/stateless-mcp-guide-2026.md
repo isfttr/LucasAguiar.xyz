@@ -1,6 +1,6 @@
 ---
 date: 2026-08-05T15:10:00-03:00
-draft: true
+draft: false
 title: "Stateless MCP Guide [2026]: What Changed in the Model Context Protocol 2.0"
 description: "Stateless MCP explained: what the 2026-07-28 Model Context Protocol 2.0 spec changed, why single-request servers matter, and how to build and probe your own MCP server."
 featured_image: ""

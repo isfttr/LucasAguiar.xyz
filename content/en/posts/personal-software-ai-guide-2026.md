@@ -1,6 +1,6 @@
 ---
 date: 2026-08-01T15:05:33-03:00
-draft: true
+draft: false
 title: "Personal Software in the AI Era: How Anyone Can Build Apps for an Audience of One"
 description: "AI coding tools turned software for a single user into a practical reality. The story of home-cooked apps, the stack that makes them possible, and why your next app may have an audience of one."
 featured_image: ""
@@ -30,7 +30,7 @@ Personal software existed before LLMs. Sloan built BoopSnoop in 2020 — but he 
 
 That cost collapsed. Six years later, Waxman's essay resurfaced on X with the observation that "personal software was a bit early in 2020 but in 2026, it really can be as personal as a home cooked meal, or a handwritten letter." What changed in between is the obvious thing: AI coding assistants (Claude Code, Cursor, Windsurf, and the rest) that turn a natural-language description into a working app, iterate on it, and debug it alongside you.
 
-The economic consequence is worth stating plainly. When engineering time was expensive, any piece of software had to be amortized across thousands of users to be worth building. That constraint is gone. An app that saves one family one hour a day is now worth the single evening it takes to build. As I argued in my post on [how AI changes the economics of software rewrites]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}}), the marginal cost of producing software has fallen so far that entirely new categories become rational. Personal software is the clearest example.
+The economic consequence is worth stating plainly. When engineering time was expensive, any piece of software had to be amortized across thousands of users to be worth building. That constraint is gone. An app that saves one family one hour a day is now worth the single evening it takes to build. As I argued in my post on [how AI changes the economics of software development]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}}), the marginal cost of producing software has fallen so far that entirely new categories become rational. Personal software is the clearest example.
 
 ## What a personal software stack looks like
 
@@ -63,9 +63,9 @@ If you have a recurring annoyance in your life — a family schedule, a diet pla
 
 Read also:
 
-- [How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [How AI Coding Agents Actually Work: An Architectural Guide [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
 - [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
-- [How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage]({{< relref "posts/ai-changes-software-rewrite-economics-2026/" >}})
+- [AI Session Portability: Why Your AI Conversations Are Becoming Lock-In [2026]]({{< relref "posts/ai-session-portability-guide-2026/" >}})
 
 ---
 

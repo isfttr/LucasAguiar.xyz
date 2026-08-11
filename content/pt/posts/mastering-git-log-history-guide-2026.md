@@ -1,6 +1,6 @@
 ---
 date: 2026-07-14T18:05:22.000Z
-draft: true
+draft: false
 title: 'Histórico do Git em 2026: Guia Completo para os Comandos fixup, reword e split'
 description: Guia passo a passo para o histórico do git — o comando experimental que permite corrigir commits antigos, reescrever mensagens e dividir alterações sem as assustadoras sessões de rebase -i. Inclui exemplos práticos de cada subcomando.
 featured_image: ''

@@ -1,6 +1,6 @@
 ---
 date: 2026-07-15T18:05:00.000Z
-draft: true
+draft: false
 title: 'Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático para Homelab [2026]'
 description: Guia passo a passo para executar LLMs modernos em servidores empresariais antigos/usados sem GPU. Escolhas de hardware, pilha de software, desempenho esperado e comparação de custos com APIs de nuvem.
 featured_image: ''

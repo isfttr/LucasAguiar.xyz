@@ -1,6 +1,6 @@
 ---
 date: 2026-07-13T15:05:20-03:00
-draft: true
+draft: false
 title: "How to Safely Run AI Coding Agents: A Practical Sandboxing Guide [2026]"
 description: "Step-by-step guide to sandboxing AI coding agents like Claude Code, Codex, and Cursor. Prevent data leaks, restrict network access, and run agents safely with Docker, VMs, and permission scoping."
 categories:
