@@ -72,11 +72,13 @@ Seeing the traffic is step one. Locking it down is step two. This checklist work
 
 The August 2026 stories are not vulnerabilities to patch — they are properties of how cloud AI works today. Encrypted reasoning blocks are portable by design; Electron harnesses attach context by design; keys are the single point of failure by design. None of this means you should stop using Copilot or Claude. It means you should use them with the same threat model you apply to any other third-party service that handles your source code: know what leaves the building, protect the credentials, and keep the truly sensitive workloads local.
 
-Leia também / Also read:
+Leia também /
 
-- [How to Sandbox AI Coding Agents: A Practical Guide]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
-- [GitLost and Prompt Injection in Agentic Workflows]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
-- [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
+Read also:
+
+- [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
+- [How to Run 70B LLMs on a 4GB GPU: Low-VRAM Inference Guide [2026]]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}})
+- [How to Safely Run AI Coding Agents: A Practical Sandboxing Guide [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
 
 ---
 

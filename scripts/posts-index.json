@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T14:16:35.919Z",
+  "last_updated": "2026-08-11T18:09:37.834Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3685,7 +3685,7 @@
     },
     "modulo-servicos-patentes-inpi-guia-acesso-testes-2026": {
       "slug": "modulo-servicos-patentes-inpi-guia-acesso-testes-2026",
-      "title_en": "Módulo de Serviços de Patentes do INPI: guia prático de acesso, testes e migração",
+      "title_en": "INPI Patent Services Module: practical guide to access, testing, and migration",
       "title_pt": "Módulo de Serviços de Patentes do INPI: guia prático de acesso, testes e migração",
       "tags": [
         "patentes",
@@ -3697,13 +3697,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia prático do novo Módulo de Serviços de Patentes do INPI: como acessar a plataforma de homologação, solicitar credenciais de teste, o que muda com o uso exclusivo a partir de 19/8 e como evitar erros na transição.",
-      "content_hash_en": null,
-      "content_hash_pt": "99ab55d009bb8c89b5c1f8bdeb78a559333fb0e9ef5c5e83d18f6188c630d869",
+      "description_en": "Practical guide to INPI's new Patent Services Module: how to access the homologation platform, request test credentials, what changes with exclusive use from August 19, and how to avoid errors in the transition.",
+      "content_hash_en": "4835e7ab2b3138891a72b2d5ff07ce5b586c672c61fc1cfbe7feb62c8fd67682",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
         "inpi-automation-roadmap-2025-2029"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "llm-api-security-inspect-traffic-guide-2026": {
+      "slug": "llm-api-security-inspect-traffic-guide-2026",
+      "title_en": "LLM API Security in 2026: How to Inspect AI Traffic and Protect Your Keys",
+      "title_pt": "LLM API Security in 2026: How to Inspect AI Traffic and Protect Your Keys",
+      "tags": [
+        "llm",
+        "security",
+        "privacy",
+        "api",
+        "devops"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Practical guide to LLM API security in 2026: reasoning-trace extraction, MitM inspection of Copilot and Claude Desktop traffic, and a defense-in-depth checklist for API keys.",
+      "content_hash_en": "6d1e2a110ab9e26a3fa4c0f865126972cf36b2257d8b65a8e49ffd03cc15c203",
+      "backlinks": [
+        "run-llms-old-server-homelab-guide-2026",
+        "run-70b-llm-low-vram-gpu-guide-2026",
+        "sandboxing-ai-coding-agents-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
