@@ -89,7 +89,7 @@ Leia também:
 
 - [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [INPI esgota cotas de trâmite prioritário para marcas no comércio eletrônico — e agora?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
-- [INPI Abre Bolsa de R$ 6 Mil para Pesquisa em Divergências Técnicas em Marcas [2026]]({{< relref "posts/inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 
 ---
 

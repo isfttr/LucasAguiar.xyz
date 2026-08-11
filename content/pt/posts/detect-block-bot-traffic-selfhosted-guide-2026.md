@@ -130,7 +130,7 @@ Empilhe as camadas em ordem — robots.txt, limitação de taxa no nginx, fail2b
 Leia também:
 
 - [Oracle Cloud Free Tier 2026: Ainda Vale a Pena? Guia Completo + Alternativas]({{< relref "posts/oracle_cloud_vps/" >}})
-- [Segurança de API de LLM em 2026: Como Inspecionar o Tráfego de IA e Proteger Suas Chaves]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}})
+- [Segurança de API LLM em 2026: Como inspecionar o tráfego de IA e proteger suas chaves]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}})
 - [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
 ---

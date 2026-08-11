@@ -90,7 +90,7 @@ Read also:
 
 - [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [INPI exhausts priority processing quotas for e-commerce trademarks — what now?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
-- [INPI Opens Scholarship of R$ 6 Thousand for Research on Technical Divergences in Trademarks [2026]]({{< relref "posts/inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026/" >}})
+- [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 
 ---
 

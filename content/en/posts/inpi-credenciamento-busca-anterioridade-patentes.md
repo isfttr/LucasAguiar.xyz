@@ -94,7 +94,7 @@ Read also:
 
 - [INPI launches call for proposals to select Intellectual Property success stories [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
 - [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [ADI 5.529: the STF's decision that shortened drug patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
 
 ---
 

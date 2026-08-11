@@ -86,7 +86,7 @@ Leia também:
 
 - [INPI lança edital para selecionar casos de sucesso em Propriedade Intelectual [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
 - [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
+- [ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
 
 ---
 

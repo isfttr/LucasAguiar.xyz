@@ -181,7 +181,7 @@ computação para a demanda pelos seus serviços.
 
 Leia também:
 
-- [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
 - [Duas Semanas com GitButler: Simplificando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
 

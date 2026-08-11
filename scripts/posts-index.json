@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T21:03:27.953Z",
+  "last_updated": "2026-08-11T21:31:15.986Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -373,11 +373,11 @@
         "article"
       ],
       "description_en": "The increasing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
-      "content_hash_en": "6a46a5a37e204e68c328f81e4838b2b6d7cd085e27a6602a5391955053eaba73",
+      "content_hash_en": "dd656ce97b75356f7a3d3829d9643bb10e8c279a9d65963c280149c9c544fae9",
       "backlinks": [
+        "wipo-lanca-artificial-intelligence-infrastructure-interchange",
         "ai-copy-paste-problem",
-        "experience-with-cursor-and-windsurf",
-        "vibe-coding-pitfalls"
+        "experience-with-cursor-and-windsurf"
       ],
       "backlink_source": "file",
       "last_processed": "2026-05-03T22:36:16.514Z"
@@ -911,10 +911,10 @@
         "article"
       ],
       "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
-      "content_hash_en": "06dfcbcc12e8cc9f81526632c878af1bb900c4cfd7a192689faac7687f2b6b79",
+      "content_hash_en": "34697b911c4727aa7e9f0ea17a0acfc630af8140debc15a94ca1869895179a2d",
       "backlinks": [
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
-        "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
+        "adi-5529-patentes-farmaceuticas",
         "lpi-30-anos-propostas-aperfeicoamento-inpi"
       ],
       "backlink_source": "file",
@@ -1037,9 +1037,9 @@
         "article"
       ],
       "description_en": "INPI published on June 23, 2026, the update to the Trademark Manual, with significant changes in the recognition of well-known trademarks and new guidelines for international registration via the Madrid Protocol through the Madrid e-Filing system.",
-      "content_hash_en": "4965184a2497b9cd386b28bac1c62c769bb15d735fe3690316dc3c4406730c0c",
+      "content_hash_en": "5f217dcd442d52d57ed8b98d1da7a29be7ef3478ad3c69ac5bd11b70174c3455",
       "backlinks": [
-        "novo-nordisk-ozivy-anulacao-marca-semaglutida",
+        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "trf2-decisao-abpi-fortalecimento-inpi"
       ],
@@ -1189,11 +1189,11 @@
         "article"
       ],
       "description_en": "Analysis of PCT 2025 international patent data: China surges, US recedes, semiconductors grow — and where does Brazil fit into this scenario?",
-      "content_hash_en": "d8e4cdf717e57496f398c49b9c59309c7e33389f80358e1503681e725ecc2c28",
+      "content_hash_en": "8943262eb7b0e3c08cc75275336d5e6d2c2b12de09c04cc6b4ac59967de6c6f5",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
-        "glp-1-revolucao-farmaceutica-patentes-brasil",
-        "nova-industria-brasil-saude-patentes"
+        "adi-5529-patentes-farmaceuticas",
+        "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude"
       ],
       "backlink_source": "file",
       "last_processed": "2026-06-25T14:40:12.163Z"
@@ -1317,9 +1317,9 @@
         "article"
       ],
       "description_en": "Complete guide to searching for patent, trademark, and industrial design processes at INPI. Learn how to use e-INPI, the search system, and interpret status codes.",
-      "content_hash_en": "3efb98c1518faea7794abbb398d7b258d85ac27d27158f64a56f80c7de249d73",
+      "content_hash_en": "b8134288168d1de2e6a2a8ffa941dfb2eaed4f6739a8542f6bd1df393174b5f5",
       "backlinks": [
-        "quanto-custa-registrar-marca-inpi-2026",
+        "inpi-manual-marcas-alto-renome-protocolo-madri",
         "inpi-automation-roadmap-2025-2029",
         "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce"
       ],
@@ -1366,9 +1366,9 @@
         "article"
       ],
       "description_en": "INPI's Public Call nº 01/2026 seeks Brazilian experiences that demonstrate strategic use of IP — applications until July 31, 2026.",
-      "content_hash_en": "a722c8b76d9ec24692251ae93b3c144190a48889cd5df7aa9192b704beec1541",
+      "content_hash_en": "852debceb2df1c0be4d5e38abbf4e4c9e0bb694475304fa00172933401a0e3ee",
       "backlinks": [
-        "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
+        "adi-5529-patentes-farmaceuticas",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi"
       ],
@@ -1440,11 +1440,11 @@
         "article"
       ],
       "description_en": "INPI published a call for applications to accredit professionals who will perform prior art searches in patent applications. Learn the requirements, deadlines, and how to apply.",
-      "content_hash_en": "81f55d49f219569b3f3d507534c8787e94d672dd0c6661674259083ebd1f41f1",
+      "content_hash_en": "fd397a0855fd2cc4c40f9a6475a4a8ce7632ed4ac051dff0bc1164589fb87e8e",
       "backlinks": [
         "edital-casos-sucesso-pi-inpi-2026",
         "como-consultar-andamento-processo-inpi",
-        "inpi-diretrizes-segundo-uso-medico-patentes-quimica"
+        "adi-5529-patentes-farmaceuticas"
       ],
       "backlink_source": "file",
       "last_processed": "2026-06-30T14:06:34.824Z"
@@ -1466,11 +1466,11 @@
         "article"
       ],
       "description_en": "Anthropic introduced Claude Science, an integrated research environment with over 60 pre-configured scientific skills, reproducible artifacts, and HPC computing support — in public beta for Pro, Max, Team, and Enterprise users starting today.",
-      "content_hash_en": "3e7c9afe6774514ee4c501f6fe9a2d617f69aa278dcdf309d7ab4f0bbd30952c",
+      "content_hash_en": "c0c21308e99c3a0ee84517d30d772814b60808da387864fdbf6d828120b03c09",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "claude-tag-propriedade-intelectual-empresarial",
-        "ai-powered-protein-sequencing"
+        "wipo-lanca-artificial-intelligence-infrastructure-interchange"
       ],
       "backlink_source": "file",
       "last_processed": "2026-06-30T19:25:19.160Z"
@@ -1540,11 +1540,11 @@
         "article"
       ],
       "description_en": "The bill establishing the National Health Strategy as a permanent state policy to reduce external dependence on medicines, vaccines, and medical supplies goes for presidential sanction after six years of deliberation.",
-      "content_hash_en": "5d99978ca25c00f5497e64ac7ca9738c67b62435b9a94a01359d502eec58179d",
+      "content_hash_en": "edbb1b0bd71e708ff9532ab33ae1af13319441de7c61ec531fc9e347d2bc367d",
       "backlinks": [
-        "nova-industria-brasil-saude-patentes",
+        "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude",
         "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
-        "glp-1-revolucao-farmaceutica-patentes-brasil"
+        "adi-5529-patentes-farmaceuticas"
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-02T11:21:54.496Z"
@@ -1933,14 +1933,14 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "170e3d922d22c97b1dfd8c292b54fbc677d02013769b9102cc92b14f5289091f",
+      "content_hash_en": "65f8b1ee7e9f21022e5c898bcc4a664935944b9e5272df4543e9a014b27577f7",
       "backlinks": [
-        "quanto-custa-registrar-marca-inpi-2026",
-        "inpi-credenciamento-busca-patentes",
-        "inpi-credenciamento-busca-patentes"
+        "consulta-publica-marcas-posicao-inpi-2026",
+        "inpi-manual-marcas-alto-renome-protocolo-madri",
+        "novo-nordisk-ozivy-anulacao-marca-semaglutida"
       ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-07T18:17:05.880Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-08-11T21:31:15.985Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1961,11 +1961,11 @@
         "article"
       ],
       "description_en": "GM/MS Ordinance No. 11,921 creates the PNIRS to accelerate the transformation of scientific knowledge into products and services for SUS, with Anchor Centers and interministerial coordination.",
-      "content_hash_en": "2ef79955e4f09100760522a5c9b92dad60c41c690fa50e16932c4071b4c8efe9",
+      "content_hash_en": "53fa8e796e748a69c084ca19386b97f08911527d75ca9ae90b5af24013516b9d",
       "backlinks": [
-        "inpi-medidas-eleicoes-2026",
-        "nova-industria-brasil-300-bilhoes",
-        "inpi-medidas-eleicoes-2026"
+        "inpi-automation-roadmap-2025-2029",
+        "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude",
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026"
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-07T18:28:07.468Z"
@@ -1988,11 +1988,11 @@
         "article"
       ],
       "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
-      "content_hash_en": "357c854e78e8010b4bfe5123279095fe6fdd66a97a6322798f643e1e366986b4",
+      "content_hash_en": "f89a2adcf71e3a3ea71e06fa4e73143fa77984b5436870e78f7348fceba948e2",
       "backlinks": [
-        "claude-code-review-cli-ia",
-        "gitbutler-gerenciador-branchs-review",
-        "claude-code-review-cli-ia"
+        "anthropic-thinking-process-paper",
+        "one-week-review-gitbutler",
+        "ai-coding-agents-architectural-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-07T22:30:43.787Z"
@@ -2038,11 +2038,11 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "7d08ef687df5215e60d24cb9b9f31904ee8d463db0aafca8c5811dac42da6d1a",
+      "content_hash_en": "5d788029357346bf411cf5f098e3a1cf52cff88c9dc8f927e36787037d83be4d",
       "backlinks": [
-        "quanto-custa-registrar-marca-inpi-2026",
+        "inpi-manual-marcas-alto-renome-protocolo-madri",
         "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
-        "quanto-custa-registrar-marca-inpi-2026"
+        "inpi-manual-marcas-alto-renome-protocolo-madri"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2230,9 +2230,9 @@
         "article"
       ],
       "description_en": "Complete guide to Geographical Indications in Brazil: types (indication of source vs denomination of origin), step-by-step registration at INPI, costs, legislation, and benefits for producers.",
-      "content_hash_en": "d1917a7e8d022a856add4c07c8d16041bcaee17185e7232fd1336dc4e610b841",
+      "content_hash_en": "372447aef40ed7bfe706e77c72d43e5638340b772896b3f5236ea1cf5b4ab193",
       "backlinks": [
-        "quanto-custa-registrar-marca-inpi-2026",
+        "inpi-manual-marcas-alto-renome-protocolo-madri",
         "inpi-credenciamento-busca-anterioridade-patentes",
         "lpi-30-anos-propostas-aperfeicoamento-inpi"
       ],
@@ -2376,7 +2376,7 @@
         "article"
       ],
       "description_en": "AI coding agents explained from first principles: the tool-calling loop, agent architectures (single vs multi-agent, MCP), and practical tips for using them effectively in real projects.",
-      "content_hash_en": "64dce374fae74ec7c55edfbb9f8dc75f2a35a45b70534cf33b85602096426b2d",
+      "content_hash_en": "52d533627ebc55cfb89954659b16db99a93bc3f32587549479e258a45a4034a5",
       "backlinks": [
         "personal-software-ai-guide-2026",
         "vibe-coding-pitfalls",
@@ -3362,7 +3362,7 @@
         "article"
       ],
       "description_en": "AI coding tools turned software for a single user into a practical reality. The story of home-cooked apps, the stack that makes them possible, and why your next app may have an audience of one.",
-      "content_hash_en": "fadf80d20ea35b009a488243ec6172a9dc71ff846cd265715ca62dc1a8016c2a",
+      "content_hash_en": "647e641b1b303b5eb69d5b1ffbf70cde0f4ab5ffe67e109cd56cb946c4c4de5d",
       "backlinks": [
         "ai-coding-agents-architectural-guide-2026",
         "run-llms-old-server-homelab-guide-2026",
@@ -3710,7 +3710,7 @@
     "llm-api-security-inspect-traffic-guide-2026": {
       "slug": "llm-api-security-inspect-traffic-guide-2026",
       "title_en": "LLM API Security in 2026: How to Inspect AI Traffic and Protect Your Keys",
-      "title_pt": "Segurança de API de LLM em 2026: Como Inspecionar o Tráfego de IA e Proteger Suas Chaves",
+      "title_pt": "Segurança de API LLM em 2026: Como inspecionar o tráfego de IA e proteger suas chaves",
       "tags": [
         "llm",
         "security",

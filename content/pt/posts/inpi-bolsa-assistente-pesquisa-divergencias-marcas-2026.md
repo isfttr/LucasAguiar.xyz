@@ -53,6 +53,12 @@ A pesquisa será vinculada à CGREC, unidade responsável por recursos e process
 - [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 
+Leia também:
+
+- [INPI abre consulta pública sobre marcas de posição [2026]: novas regras e como participar]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+
 ---
 
 Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>

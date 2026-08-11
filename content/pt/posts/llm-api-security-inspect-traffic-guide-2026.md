@@ -75,9 +75,9 @@ As histórias de agosto de 2026 não são vulnerabilidades a corrigir — são p
 
 Leia também:
 
-- [Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático de Homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
-- [Como Executar LLMs de 70B em uma GPU de 4GB: Guia de Inferência com Pouca VRAM [2026]]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}})
-- [Como Executar Agentes de Codificação de IA com Segurança: Um Guia Prático de Sandboxing [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
+- [Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático para Homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
+- [Como Executar LLMs de 70B em uma GPU de 4GB: Guia de Inferência com Baixo VRAM [2026]]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}})
+- [Como Executar com Segurança Agentes de Codificação de IA: Um Guia Prático de Sandboxing [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
 
 ---
 

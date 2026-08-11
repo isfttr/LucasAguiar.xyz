@@ -53,9 +53,9 @@ A inteligência artificial tem sido um tema de interesse para mim e já comentei
 
 Leia também:
 
+- [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 - [O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software & Por Que a Portabilidade de Dados é Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})
 - [Cursor vs Windsurf vs Zed 2026: Qual Editor de Código com IA é o Melhor?]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 
 ---
 

@@ -102,7 +102,7 @@ vantagem estratégica.
 Leia também:
 
 - [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
-- [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
+- [ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
 - [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---
