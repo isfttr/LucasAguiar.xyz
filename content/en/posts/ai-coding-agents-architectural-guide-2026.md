@@ -123,7 +123,7 @@ Read also:
 
 - [Personal Software in the AI Era: How Anyone Can Build Apps for an Audience of One]({{< relref "posts/personal-software-ai-guide-2026/" >}})
 - [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [AI Session Portability: Why Your AI Conversations Are Becoming Lock-In [2026]]({{< relref "posts/ai-session-portability-guide-2026/" >}})
+- [Personal Software in the AI Era: How Anyone Can Build Apps for an Audience of One]({{< relref "posts/personal-software-ai-guide-2026/" >}})
 
 ---
 

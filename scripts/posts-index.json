@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T18:09:37.834Z",
+  "last_updated": "2026-08-11T21:03:27.953Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2376,11 +2376,11 @@
         "article"
       ],
       "description_en": "AI coding agents explained from first principles: the tool-calling loop, agent architectures (single vs multi-agent, MCP), and practical tips for using them effectively in real projects.",
-      "content_hash_en": "32b50929e80c43bc3c97b2a79d0d7581a9353f7fcbe3fda01a499ab690954362",
+      "content_hash_en": "64dce374fae74ec7c55edfbb9f8dc75f2a35a45b70534cf33b85602096426b2d",
       "backlinks": [
-        "ai-changes-software-rewrite-economics-2026",
+        "personal-software-ai-guide-2026",
         "vibe-coding-pitfalls",
-        "ai-changes-software-rewrite-economics-2026"
+        "personal-software-ai-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2452,7 +2452,7 @@
         "article"
       ],
       "description_en": "Step-by-step guide to sandboxing AI coding agents like Claude Code, Codex, and Cursor. Prevent data leaks, restrict network access, and run agents safely with Docker, VMs, and permission scoping.",
-      "content_hash_en": "e8f9c97cf7292f32e9f978beda5979e69043aab15df67c3dbd053f4083e1c597",
+      "content_hash_en": "c0b2bee4e20e4ade4f9e660e70afe56c4067067d3e4bc94ff0f1f1aa39053800",
       "backlinks": [
         "kvm-virsh-linux-virtualization-guide-2026",
         "kvm-virsh-linux-virtualization-guide-2026",
@@ -2502,7 +2502,7 @@
         "article"
       ],
       "description_en": "Step-by-step guide to git history — the experimental command that lets you fix old commits, rewrite messages, and split changes without scary rebase -i sessions. Includes practical examples of each subcommand.",
-      "content_hash_en": "f686963714ab01fa25c8fe1f92a63332a4ec5b3f57c7a24d77ab0711f92ed71d",
+      "content_hash_en": "b98bd77a7d28e34d92e4f9d33322128d3c2407a0e13fe0932693c5eac2187226",
       "backlinks": [
         "one-week-review-gitbutler",
         "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -2551,7 +2551,7 @@
         "article"
       ],
       "description_en": "Step-by-step guide to running modern LLMs on old/used enterprise servers with no GPU. Hardware picks, software stack, expected performance, and cost comparison vs cloud APIs.",
-      "content_hash_en": "36ea0ceb5e2d81239cbeded8e2398764fb90296e8b583a6bb09536da3162fa5d",
+      "content_hash_en": "8c9619dbdc738bf97fed170beee147c2ffde3d453cf55ccb310f2a928a9c9ca2",
       "backlinks": [
         "proxmox-mac-mini-2018-t2",
         "script-update-open_webui-lxc",
@@ -2794,7 +2794,7 @@
         "article"
       ],
       "description_en": "Complete guide to self-hosting speech-to-text in your homelab: Whisper.cpp, Transcribe.cpp, faster-whisper, and Moonshine. Docker setup, GPU acceleration, and integration tips.",
-      "content_hash_en": "38251773e4bf512a8f792486ccf85ee7ac11611fe696f6b94dc1708808249687",
+      "content_hash_en": "47bb9bbfcbc20e2c81cfd3d3663fb997cf176a7222b3c264c69a2e9d921a31ec",
       "backlinks": [
         "run-llms-old-server-homelab-guide-2026",
         "creating-my-ai-assistant-locally",
@@ -2993,9 +2993,9 @@
         "article"
       ],
       "description_en": "Complete guide to tuning PostgreSQL for homelab and self-hosted environments: memory, storage, indexing, connection pooling, vacuuming, and benchmarking with real config examples.",
-      "content_hash_en": "82851cb80d18fb35e6436a20271fba7ad813657698dc521d6997787726035abe",
+      "content_hash_en": "b30ea759b6b4aaa761f48d9b80f99bdde0f373aefd5478f3b7b4c870ec555b65",
       "backlinks": [
-        "sqlite-performance-best-practices-guide-2026",
+        "containers-vs-vms-complete-guide-2026",
         "proxmox-mac-mini-2018-t2",
         "run-llms-old-server-homelab-guide-2026"
       ],
@@ -3042,7 +3042,7 @@
         "article"
       ],
       "description_en": "Complete guide comparing Docker containers, LXC containers, and virtual machines (KVM, Proxmox). Performance benchmarks, isolation trade-offs, boot times, resource density, and decision matrix for homelab and production.",
-      "content_hash_en": "c4400f61838ce58d75e4d7c5adf4b8257fb36d80785fd0bbde926f9a519a3336",
+      "content_hash_en": "905e6aaf103c079c5a38b2b13056ae4b56d9641c853e555b3594f843556779d8",
       "backlinks": [
         "kvm-virsh-linux-virtualization-guide-2026",
         "proxmox-backup-server-community-scripts-2026",
@@ -3242,7 +3242,7 @@
         "article"
       ],
       "description_en": "Learn how stacked PRs work, why they speed up code review, and how to use them with GitHub's new native support. Comparisons, CLI tools, and real-world workflows.",
-      "content_hash_en": "915b909cf091ccf9d2591042dacdfbbd7943ca7e28047b65390cf9fcbb13fa58",
+      "content_hash_en": "47f3d43415ca72998697ef86d946e3f9f2c5322067aad53c4c4cb0ea04d123b2",
       "backlinks": [
         "gitbutler-terminal-cli-tui-2026",
         "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -3314,7 +3314,7 @@
         "article"
       ],
       "description_en": "AI sessions are drifting into lock-in: encrypted reasoning, hidden search, opaque compaction. The 5 portability tests — and how to keep your transcripts yours.",
-      "content_hash_en": "fe13cb38486d8ae5a4a66d3e1796a50ce54e2de9f03e4f2b4f13bc60cea26338",
+      "content_hash_en": "95af30119403d4ad488f6577f5d7e01566d5c8091186d40032ebe1fe3937eb88",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
@@ -3362,11 +3362,11 @@
         "article"
       ],
       "description_en": "AI coding tools turned software for a single user into a practical reality. The story of home-cooked apps, the stack that makes them possible, and why your next app may have an audience of one.",
-      "content_hash_en": "42d7e9a20644b265ef077c36723b767f3c596b15c8a7079d14571ca203eb38c9",
+      "content_hash_en": "fadf80d20ea35b009a488243ec6172a9dc71ff846cd265715ca62dc1a8016c2a",
       "backlinks": [
-        "ai-changes-software-rewrite-economics-2026",
+        "ai-coding-agents-architectural-guide-2026",
         "run-llms-old-server-homelab-guide-2026",
-        "ai-changes-software-rewrite-economics-2026"
+        "ai-coding-agents-architectural-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3434,7 +3434,7 @@
         "article"
       ],
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
-      "content_hash_en": "c4603514f8d6d03f3e0bf035d6bd407bcdf64ef0acf397ddcbfbadf7f6ea35cf",
+      "content_hash_en": "5e00ff374b596be1fe9b32e259636869fd211052b546e58ff7432b963adda2a1",
       "backlinks": [
         "vibe-coding-pitfalls",
         "hugo-content-file-structure",
@@ -3482,7 +3482,7 @@
         "article"
       ],
       "description_en": "Run 70B-class LLMs on 4-8GB GPUs: layer streaming, llama.cpp partial offload, AirLLM setup, quantization, and real performance expectations. Step-by-step guide.",
-      "content_hash_en": "5f3411cd0d7ee53c716d354a1f4cece931815bce7557c3475e96461f90668775",
+      "content_hash_en": "466b1de03fa3f2f4fcd221a144bb54779089b3d41f4b341e34c66c5ad208ec56",
       "backlinks": [
         "kvm-virsh-linux-virtualization-guide-2026",
         "kvm-virsh-linux-virtualization-guide-2026",
@@ -3506,7 +3506,7 @@
         "article"
       ],
       "description_en": "Fine-tune 7-8B LLMs on 4-8GB GPUs with LoRA and QLoRA: memory math, tools (PEFT, TRL, Unsloth), step-by-step training, and realistic expectations for consumer hardware.",
-      "content_hash_en": "5c84eca69638023fb61e8589f5ed4022e265aa71f9e59c4e0f3eeeda9bc162d3",
+      "content_hash_en": "28582d3e7b66cbe604708fe7513b429b95f6e08477e99228ab05aeec0356a898",
       "backlinks": [
         "vibe-coding-pitfalls",
         "kvm-virsh-linux-virtualization-guide-2026",
@@ -3578,7 +3578,7 @@
         "article"
       ],
       "description_en": "Stateless MCP explained: what the 2026-07-28 Model Context Protocol 2.0 spec changed, why single-request servers matter, and how to build and probe your own MCP server.",
-      "content_hash_en": "34e48fa74be4f57f59c3f44e54223e8ba298fb146b96dd7103f7f7d7d9387ba1",
+      "content_hash_en": "c5bb13775429ccb434b824beb48ec0f979ec2cca852bc191bab0afb913d59996",
       "backlinks": [
         "creating-my-ai-assistant-locally",
         "google-search-console-agente-hermes",
@@ -3674,11 +3674,11 @@
         "article"
       ],
       "description_en": "Step-by-step guide to detecting and blocking bot traffic on self-hosted sites: log analysis with GoAccess, nginx rate limiting, fail2ban, CrowdSec, Cloudflare Bot Fight Mode and robots.txt for AI crawlers.",
-      "content_hash_en": "afef41d060a56abb6d9aa15e72e413ebd86fc1df8c5caa147ff43d8b3bdcfd53",
+      "content_hash_en": "edd1bd38d76c7ecad40b1323acf6b744b85d60581ca99c1663b4f6f04178158a",
       "backlinks": [
         "oracle_cloud_vps",
-        "spf-dkim-dmarc-email-authentication-guide-2026",
-        "how-to-setup-github-secrets"
+        "llm-api-security-inspect-traffic-guide-2026",
+        "containers-vs-vms-complete-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": "2026-08-07T18:09:42.283Z"
@@ -3698,7 +3698,7 @@
         "article"
       ],
       "description_en": "Practical guide to INPI's new Patent Services Module: how to access the homologation platform, request test credentials, what changes with exclusive use from August 19, and how to avoid errors in the transition.",
-      "content_hash_en": "4835e7ab2b3138891a72b2d5ff07ce5b586c672c61fc1cfbe7feb62c8fd67682",
+      "content_hash_en": "db95d4ccbd24d9f8f9c541378ee0a39d12afde9b1fa08dca2639a39e8b64a08a",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
@@ -3710,7 +3710,7 @@
     "llm-api-security-inspect-traffic-guide-2026": {
       "slug": "llm-api-security-inspect-traffic-guide-2026",
       "title_en": "LLM API Security in 2026: How to Inspect AI Traffic and Protect Your Keys",
-      "title_pt": "LLM API Security in 2026: How to Inspect AI Traffic and Protect Your Keys",
+      "title_pt": "Segurança de API de LLM em 2026: Como Inspecionar o Tráfego de IA e Proteger Suas Chaves",
       "tags": [
         "llm",
         "security",
@@ -3722,7 +3722,7 @@
         "article"
       ],
       "description_en": "Practical guide to LLM API security in 2026: reasoning-trace extraction, MitM inspection of Copilot and Claude Desktop traffic, and a defense-in-depth checklist for API keys.",
-      "content_hash_en": "6d1e2a110ab9e26a3fa4c0f865126972cf36b2257d8b65a8e49ffd03cc15c203",
+      "content_hash_en": "cc2a844d8ae5703307620560c843da5881bbadbdfbf93b0fb56c9365606a0841",
       "backlinks": [
         "run-llms-old-server-homelab-guide-2026",
         "run-70b-llm-low-vram-gpu-guide-2026",

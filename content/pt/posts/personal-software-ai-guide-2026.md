@@ -66,7 +66,7 @@ Leia também:
 
 - [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
 - [Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático para Homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
-- [Portabilidade de Sessões de IA: Por que Suas Conversas com IA Estão se Tornando Lock-In [2026]]({{< relref "posts/ai-session-portability-guide-2026/" >}})
+- [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
 
 ---
 
