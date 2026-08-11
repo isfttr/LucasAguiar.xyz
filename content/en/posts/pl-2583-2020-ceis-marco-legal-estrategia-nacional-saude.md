@@ -110,9 +110,9 @@ Brazil has already demonstrated, in critical moments like the pandemic, that the
 
 Read also:
 
-- [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
+- [Bill 2.583/2020 is approved in the Senate and creates a legal framework for the Health Industrial Complex [2026]]({{< relref "posts/pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude/" >}})
 - [PL 5810/2025: The Ministry of Health Study That Projects R$ 3 Billion in Additional Costs to SUS]({{< relref "posts/pl-5810-2025-estudo-ministerio-saude-patentes-sus/" >}})
-- [The GLP-1 revolution in Brazil: how patents, biosimilars, and competition are transforming the pharmaceutical market]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
+- [ADI 5.529: the STF's decision that shortened drug patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
 
 ---
 

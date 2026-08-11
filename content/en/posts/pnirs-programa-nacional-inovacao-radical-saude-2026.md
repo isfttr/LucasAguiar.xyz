@@ -74,9 +74,9 @@ The governance structure of PNIRS is composed of:
 
 Read also:
 
-- [inpi-medidas-eleicoes-2026]({{< relref "posts/inpi-medidas-eleicoes-2026/" >}})
-- [nova-industria-brasil-300-bilhoes]({{< relref "posts/nova-industria-brasil-300-bilhoes/" >}})
-- [inpi-medidas-eleicoes-2026]({{< relref "posts/inpi-medidas-eleicoes-2026/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Bill 2.583/2020 is approved in the Senate and creates a legal framework for the Health Industrial Complex [2026]]({{< relref "posts/pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude/" >}})
+- [INPI launches new version of the Patents Module: what changes in 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
 
 ---
 

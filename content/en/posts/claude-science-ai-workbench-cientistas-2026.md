@@ -91,7 +91,7 @@ Read also:
 
 - [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
 - [Claude Tag and the Risk to Companies' Intellectual Property]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
-- [What Are Proteins and Why is AI-Powered Protein Sequencing a Game Changer?]({{< relref "posts/ai-powered-protein-sequencing/" >}})
+- [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 
 ---
 

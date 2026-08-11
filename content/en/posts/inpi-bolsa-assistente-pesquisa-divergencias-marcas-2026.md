@@ -52,15 +52,8 @@ The research will be linked to CGREC, the unit responsible for appeals and nulli
 
 ## Read also
 
-- [How Much Does It Cost to Register a Trademark with INPI in 2026?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [INPI Accreditation for Patent Search: Complete Guide 2026]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
-- [inpi-credenciamento-busca-patentes]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
-
-Read also:
-
-- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [inpi-credenciamento-busca-patentes]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
-- [inpi-credenciamento-busca-patentes]({{< relref "posts/inpi-credenciamento-busca-patentes/" >}})
+- [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 
 ---
 

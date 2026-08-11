@@ -91,7 +91,7 @@ For companies that have built competitive advantages from IP, this is an opportu
 
 Read also:
 
-- [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
+- [ADI 5.529: the STF's decision that shortened drug patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
 - [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 - [Copyright in the AI era: INPI brings together international experts to debate the challenges of artificial intelligence]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
 

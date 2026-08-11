@@ -135,8 +135,8 @@ trajetória?
 Leia também:
 
 - [Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [A revolução do GLP-1 no Brasil: como patentes, biossimilares e a concorrência estão transformando o mercado farmacêutico]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
-- [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
+- [ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
+- [PL 2.583/2020 é aprovado no Senado e cria marco legal do Complexo Industrial da Saúde [2026]]({{< relref "posts/pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude/" >}})
 
 ---
 

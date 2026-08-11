@@ -49,7 +49,7 @@ Sistemas tecnológicos mais intrincados do que os atuais tendem a se tornar prat
 A inteligência artificial tem sido um tema de interesse para mim e já comentei sobre o assuntos em outros posts:
 
 - [Usando Obsidian com uma IA]({{< ref "posts/10-obsidian-copilot.md">}})
-- [Sequenciamento de proteínas usando IA]({{< ref "posts/ai-powered-protein-sequencing.md">}})
+- [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 
 Leia também:
 

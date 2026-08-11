@@ -76,8 +76,7 @@ achievements:
 
 - The **[LPI improvement proposals report]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})** (June/2026), which
   consolidates internal suggestions to modernize Law 9.279/1996
-- The **[public consultation on patents for new uses in the chemistry area]({{< relref
-  "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})**
+- The **[ADI 5.529 decision, which shortened drug patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})**
   (2025-2026)
 - The **2025–2029 automation roadmap**, which promises to digitally transform patent
   examination
@@ -103,7 +102,7 @@ changes. Companies that monitor these developments gain a strategic advantage.
 Read also:
 
 - [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
-- [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
+- [ADI 5.529: the STF's decision that shortened drug patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
 - [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---

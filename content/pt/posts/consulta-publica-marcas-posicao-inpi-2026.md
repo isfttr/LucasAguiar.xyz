@@ -83,13 +83,13 @@ A consulta pública representa uma oportunidade para a comunidade de PI brasilei
 
 A participação ativa da sociedade na regulação da PI fortalece a segurança jurídica e a previsibilidade das decisões do INPI — dois pilares fundamentais para a competitividade do sistema de inovação brasileiro.
 
-Se você ainda não conhece os custos envolvidos no registro de marcas no Brasil, veja nosso guia completo sobre [quanto custa registrar uma marca no INPI em 2026]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}}). Para entender o impacto do esgotamento das cotas de trâmite prioritário para marcas no comércio eletrônico, leia também [INPI esgota cotas de trâmite prioritário para marcas no e-commerce]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}}).
+Se você ainda não conhece os custos envolvidos no registro de marcas no Brasil, veja nosso guia completo sobre [as novas regras do Manual de Marcas do INPI]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}}). Para entender o impacto do esgotamento das cotas de trâmite prioritário para marcas no comércio eletrônico, leia também [INPI esgota cotas de trâmite prioritário para marcas no e-commerce]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}}).
 
 Leia também:
 
-- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [INPI esgota cotas de trâmite prioritário para marcas no comércio eletrônico — e agora?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
-- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI Abre Bolsa de R$ 6 Mil para Pesquisa em Divergências Técnicas em Marcas [2026]]({{< relref "posts/inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026/" >}})
 
 ---
 

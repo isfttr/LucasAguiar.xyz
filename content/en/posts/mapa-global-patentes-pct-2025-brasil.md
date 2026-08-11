@@ -80,8 +80,8 @@ For Brazil, the question remains: what will be necessary for the country to brea
 Read also:
 
 - [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [The GLP-1 revolution in Brazil: how patents, biosimilars, and competition are transforming the pharmaceutical market]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
-- [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
+- [ADI 5.529: the STF's decision that shortened drug patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
+- [Bill 2.583/2020 is approved in the Senate and creates a legal framework for the Health Industrial Complex [2026]]({{< relref "posts/pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude/" >}})
 
 ---
 

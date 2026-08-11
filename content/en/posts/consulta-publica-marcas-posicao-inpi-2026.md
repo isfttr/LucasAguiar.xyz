@@ -84,13 +84,13 @@ The public consultation represents an opportunity for the Brazilian IP community
 
 Active participation of society in IP regulation strengthens legal certainty and predictability of INPI decisions — two fundamental pillars for the competitiveness of the Brazilian innovation system.
 
-If you are not yet familiar with the costs involved in trademark registration in Brazil, check out our complete guide on [how much it costs to register a trademark with the INPI in 2026]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}}). To understand the impact of the exhaustion of priority processing quotas for trademarks in e-commerce, also read [INPI exhausts priority processing quotas for trademarks in e-commerce]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}}).
+If you are not yet familiar with the costs involved in trademark registration in Brazil, check out our complete guide on [the new rules of INPI's Trademark Manual]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}}). To understand the impact of the exhaustion of priority processing quotas for trademarks in e-commerce, also read [INPI exhausts priority processing quotas for trademarks in e-commerce]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}}).
 
 Read also:
 
-- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [INPI exhausts priority processing quotas for e-commerce trademarks — what now?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
-- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI Opens Scholarship of R$ 6 Thousand for Research on Technical Divergences in Trademarks [2026]]({{< relref "posts/inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026/" >}})
 
 ---
 

@@ -88,7 +88,7 @@ Leia também:
 
 - [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
 - [Claude Tag e o risco à propriedade intelectual das empresas]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
-- [O Que São Proteínas e Por Que o Sequenciamento de Proteínas por IA é um Divisor de Águas?]({{< relref "posts/ai-powered-protein-sequencing/" >}})
+- [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 
 ---
 

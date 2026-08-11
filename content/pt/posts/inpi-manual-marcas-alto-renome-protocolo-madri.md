@@ -118,7 +118,7 @@ de alto renome pode ser aplicada para fortalecer a proteção da marca.
 
 Leia também:
 
-- [Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
+- [INPI esgota cotas de trâmite prioritário para marcas no comércio eletrônico — e agora?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
 - [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 - [TRF-2 Obriga União a Reestruturar o INPI: O que Isso Significa para suas Patentes?]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
 

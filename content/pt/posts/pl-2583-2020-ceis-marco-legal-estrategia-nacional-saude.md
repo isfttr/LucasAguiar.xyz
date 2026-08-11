@@ -107,9 +107,9 @@ O Brasil já demonstrou, em momentos críticos como a pandemia, que a capacidade
 
 Leia também:
 
-- [Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica]({{< relref "posts/nova-industria-brasil-saude-patentes/" >}})
+- [PL 2.583/2020 é aprovado no Senado e cria marco legal do Complexo Industrial da Saúde [2026]]({{< relref "posts/pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude/" >}})
 - [PL 5810/2025: o Estudo do Ministério da Saúde Que Projeta R$ 3 Bilhões em Custos Adicionais ao SUS]({{< relref "posts/pl-5810-2025-estudo-ministerio-saude-patentes-sus/" >}})
-- [A revolução do GLP-1 no Brasil: como patentes, biossimilares e a concorrência estão transformando o mercado farmacêutico]({{< relref "posts/glp-1-revolucao-farmaceutica-patentes-brasil/" >}})
+- [ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
 
 ---
 

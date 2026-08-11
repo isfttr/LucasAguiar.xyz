@@ -72,9 +72,9 @@ A estrutura de governança do PNIRS é composta por:
 
 Leia também:
 
-- [inpi-medidas-eleicoes-2026]({{< relref "posts/inpi-medidas-eleicoes-2026/" >}})
-- [nova-industria-brasil-300-bilhoes]({{< relref "posts/nova-industria-brasil-300-bilhoes/" >}})
-- [inpi-medidas-eleicoes-2026]({{< relref "posts/inpi-medidas-eleicoes-2026/" >}})
+- [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [PL 2.583/2020 é aprovado no Senado e cria marco legal do Complexo Industrial da Saúde [2026]]({{< relref "posts/pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude/" >}})
+- [INPI lança nova versão do Módulo de Patentes: o que muda em 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
 
 ---
 

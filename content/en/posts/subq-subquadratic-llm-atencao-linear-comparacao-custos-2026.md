@@ -168,9 +168,9 @@ This new architecture is very exciting, especially because eventually we may hav
 
 Read also:
 
-- [claude-code-review-cli-ia]({{< relref "posts/claude-code-review-cli-ia/" >}})
-- [gitbutler-gerenciador-branchs-review]({{< relref "posts/gitbutler-gerenciador-branchs-review/" >}})
-- [claude-code-review-cli-ia]({{< relref "posts/claude-code-review-cli-ia/" >}})
+- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
+- [Two Weeks with GitButler: Streamlining My Git Workflow]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [How AI Coding Agents Actually Work: An Architectural Guide [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
 
 ---
 

@@ -51,7 +51,7 @@ Technological systems more intricate than current ones tend to become virtually 
 Artificial intelligence has been a topic of interest for me, and I have already commented on the subject in other posts:
 
 - [Using Obsidian with an AI]({{< ref "posts/10-obsidian-copilot.md">}})
-- [Protein sequencing using AI]({{< ref "posts/ai-powered-protein-sequencing.md">}})
+- [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 
 Read also:
 
