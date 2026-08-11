@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T18:09:42.284Z",
+  "last_updated": "2026-08-11T14:16:35.919Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3662,7 +3662,7 @@
     "detect-block-bot-traffic-selfhosted-guide-2026": {
       "slug": "detect-block-bot-traffic-selfhosted-guide-2026",
       "title_en": "How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]",
-      "title_pt": "How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]",
+      "title_pt": "Como Detectar e Bloquear Tráfego de Bots no Seu Site Auto-Hospedado [2026]",
       "tags": [
         "selfhosted",
         "security",
@@ -3674,14 +3674,39 @@
         "article"
       ],
       "description_en": "Step-by-step guide to detecting and blocking bot traffic on self-hosted sites: log analysis with GoAccess, nginx rate limiting, fail2ban, CrowdSec, Cloudflare Bot Fight Mode and robots.txt for AI crawlers.",
-      "content_hash_en": "a35fc23255dcf6094c8fb70be80efaa8739d987ebd281eebc341b1ccc8ae91a9",
+      "content_hash_en": "afef41d060a56abb6d9aa15e72e413ebd86fc1df8c5caa147ff43d8b3bdcfd53",
       "backlinks": [
         "oracle_cloud_vps",
         "spf-dkim-dmarc-email-authentication-guide-2026",
         "how-to-setup-github-secrets"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-08-07T18:09:42.283Z"
+    },
+    "modulo-servicos-patentes-inpi-guia-acesso-testes-2026": {
+      "slug": "modulo-servicos-patentes-inpi-guia-acesso-testes-2026",
+      "title_en": "Módulo de Serviços de Patentes do INPI: guia prático de acesso, testes e migração",
+      "title_pt": "Módulo de Serviços de Patentes do INPI: guia prático de acesso, testes e migração",
+      "tags": [
+        "patentes",
+        "inpi",
+        "inovacao",
+        "tecnologia",
+        "propriedade-intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia prático do novo Módulo de Serviços de Patentes do INPI: como acessar a plataforma de homologação, solicitar credenciais de teste, o que muda com o uso exclusivo a partir de 19/8 e como evitar erros na transição.",
+      "content_hash_en": null,
+      "content_hash_pt": "99ab55d009bb8c89b5c1f8bdeb78a559333fb0e9ef5c5e83d18f6188c630d869",
+      "backlinks": [
+        "inpi-automation-roadmap-2025-2029",
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
+        "inpi-automation-roadmap-2025-2029"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }

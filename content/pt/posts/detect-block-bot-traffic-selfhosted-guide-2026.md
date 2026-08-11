@@ -129,9 +129,9 @@ Empilhe as camadas em ordem — robots.txt, limitação de taxa no nginx, fail2b
 
 Leia também:
 
-- [Usando o nível gratuito do Oracle Cloud]({{< relref "posts/oracle_cloud_vps/" >}})
-- [SPF, DKIM e DMARC: Guia Completo de Autenticação de E-mail [2026]]({{< relref "posts/spf-dkim-dmarc-email-authentication-guide-2026/" >}})
-- [Como configurar e usar GitHub Secrets com Contêineres e Aplicações Voltadas para a Internet]({{< relref "posts/how-to-setup-github-secrets/" >}})
+- [Oracle Cloud Free Tier 2026: Ainda Vale a Pena? Guia Completo + Alternativas]({{< relref "posts/oracle_cloud_vps/" >}})
+- [SPF, DKIM e DMARC: Guia Completo de Autenticação de Email [2026]]({{< relref "posts/spf-dkim-dmarc-email-authentication-guide-2026/" >}})
+- [Como Configurar e Usar GitHub Secrets com Contêineres e Aplicações Voltadas para a Internet]({{< relref "posts/how-to-setup-github-secrets/" >}})
 
 ---
 
