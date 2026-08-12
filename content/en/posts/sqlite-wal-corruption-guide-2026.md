@@ -86,7 +86,7 @@ Read also:
 
 - [PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
 - [How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
-- [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
+- [PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
 
 ---
 

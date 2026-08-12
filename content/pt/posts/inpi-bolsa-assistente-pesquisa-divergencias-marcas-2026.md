@@ -57,7 +57,7 @@ Leia também:
 
 - [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
-- [INPI abre consulta pública sobre marcas de posição [2026]: novas regras e como participar]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 
 ---
 

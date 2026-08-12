@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T14:19:10.562Z",
+  "last_updated": "2026-08-12T18:09:37.124Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -373,11 +373,11 @@
         "article"
       ],
       "description_en": "The increasing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
-      "content_hash_en": "204b55033d0125a3d5bcb64076fd2ee80d2e64fa4aba1ce873d3f4030f06f68a",
+      "content_hash_en": "1c34451527fed9e6bf3299d91a949e9a0f2ad6f4fb7b8b65dcba2913958c4378",
       "backlinks": [
         "wipo-lanca-artificial-intelligence-infrastructure-interchange",
         "wipo-lanca-artificial-intelligence-infrastructure-interchange",
-        "ai-copy-paste-problem"
+        "wipo-lanca-artificial-intelligence-infrastructure-interchange"
       ],
       "backlink_source": "file",
       "last_processed": "2026-05-03T22:36:16.514Z"
@@ -1933,11 +1933,11 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "273ff18402ec3de852dc62cdb748ea1807da972c6b72c3d58f62ce29075ebb1f",
+      "content_hash_en": "70c884a10582675a726e80544a3f5b15d07995d903bc8cb173cb706605a27f64",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "inpi-credenciamento-busca-anterioridade-patentes",
-        "consulta-publica-marcas-posicao-inpi-2026"
+        "inpi-manual-marcas-alto-renome-protocolo-madri"
       ],
       "backlink_source": "file",
       "last_processed": "2026-08-11T21:31:15.985Z"
@@ -3733,7 +3733,7 @@
     },
     "protecao-cultivares-brasil-guia-snpc-mapa": {
       "slug": "protecao-cultivares-brasil-guia-snpc-mapa",
-      "title_en": "Plant Variety Protection in Brazil: Complete Guide (SNPC/MAPA)",
+      "title_en": "Plant Variety Protection in Brazil: Complete Guide to Registration with SNPC/MAPA",
       "title_pt": "Proteção de Cultivares no Brasil: Guia Completo de Registro no SNPC/MAPA",
       "tags": [
         "cultivares",
@@ -3745,12 +3745,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to plant variety protection in Brazil: Law 9.456/97, registration at SNPC/MAPA, DHE requirements, 15 and 18-year protection terms, breeder rights, and the differences from patents.",
-      "content_hash_en": "e55577ec1efe1f0d43627c18443ca995fd92282c3a83a9145dd587e7c6efb880",
+      "description_en": "Complete guide to cultivar protection in Brazil: Law 9.456/97, registration with SNPC/MAPA, DHE requirements, 15- and 18-year terms, breeder's rights and differences from patents.",
+      "content_hash_en": "fd79b6b85c467744bb918691c40039984ce44e89e99611ac1c79bee06cbb464d",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "guia-indicacoes-geograficas-inpi-brasil",
-        "guia-indicacoes-geograficas-inpi-brasil"
+        "brasil-tratado-budapeste-patentes-biotecnologia"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "sqlite-wal-corruption-guide-2026": {
+      "slug": "sqlite-wal-corruption-guide-2026",
+      "title_en": "SQLite WAL Corruption: How to Detect, Fix and Prevent It [2026]",
+      "title_pt": "SQLite WAL Corruption: How to Detect, Fix and Prevent It [2026]",
+      "tags": [
+        "sqlite",
+        "database",
+        "homelab",
+        "troubleshooting",
+        "backups"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to SQLite WAL corruption in 2026: detect it with PRAGMA integrity_check, recover corrupted databases, and prevent the WAL-reset bug. Real case study included.",
+      "content_hash_en": "19e08cc40e90f5859f2f01cb2a2be303ecd6d4796cadc3757d242175727a0bf5",
+      "backlinks": [
+        "postgresql-performance-best-practices-homelab-2026",
+        "detect-block-bot-traffic-selfhosted-guide-2026",
+        "postgresql-performance-best-practices-homelab-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

@@ -99,11 +99,11 @@ In practice, the protection strategy in agribusiness combines: (i) a cultivar ce
 
 The plant variety protection system is the main instrument for appropriating innovation in Brazilian agribusiness — one of the sectors in which the country invests the most in genetic improvement. Understanding the difference between this regime and the patent regime is the first step toward a complete IP strategy, which can be combined with other forms of protection such as [geographical indications]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}}) for agri-food products.
 
-Also read:
+Read also:
 
-- [Brazil Joins the Budapest Treaty: What Changes for Biotechnological Patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [Geographical Indication at the INPI: Complete Guide [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
-- [Geographical Indication at the INPI: Complete Guide [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
+- [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
+- [Geographical Indication at INPI: Complete Guide [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
+- [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
 
 ---
 
