@@ -100,9 +100,9 @@ O sistema de proteção de cultivares é o principal instrumento de apropriaçã
 
 Leia também:
 
-- [Indicações Geográficas no INPI: Guia Completo]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
-- [Tratado de Budapeste e Patentes de Biotecnologia no Brasil]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [Mapa Global de Patentes PCT: onde o Brasil está]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
+- [Indicação Geográfica no INPI: Guia Completo [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
+- [Indicação Geográfica no INPI: Guia Completo [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
 
 ---
 

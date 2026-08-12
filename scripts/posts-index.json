@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T21:31:15.986Z",
+  "last_updated": "2026-08-12T14:19:10.562Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -373,11 +373,11 @@
         "article"
       ],
       "description_en": "The increasing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
-      "content_hash_en": "dd656ce97b75356f7a3d3829d9643bb10e8c279a9d65963c280149c9c544fae9",
+      "content_hash_en": "204b55033d0125a3d5bcb64076fd2ee80d2e64fa4aba1ce873d3f4030f06f68a",
       "backlinks": [
         "wipo-lanca-artificial-intelligence-infrastructure-interchange",
-        "ai-copy-paste-problem",
-        "experience-with-cursor-and-windsurf"
+        "wipo-lanca-artificial-intelligence-infrastructure-interchange",
+        "ai-copy-paste-problem"
       ],
       "backlink_source": "file",
       "last_processed": "2026-05-03T22:36:16.514Z"
@@ -1440,7 +1440,7 @@
         "article"
       ],
       "description_en": "INPI published a call for applications to accredit professionals who will perform prior art searches in patent applications. Learn the requirements, deadlines, and how to apply.",
-      "content_hash_en": "fd397a0855fd2cc4c40f9a6475a4a8ce7632ed4ac051dff0bc1164589fb87e8e",
+      "content_hash_en": "59f5b52ba5e867172af8b5fcc105e37f7ddf8f6a461de0013c585f6f59944349",
       "backlinks": [
         "edital-casos-sucesso-pi-inpi-2026",
         "como-consultar-andamento-processo-inpi",
@@ -1933,13 +1933,13 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "65f8b1ee7e9f21022e5c898bcc4a664935944b9e5272df4543e9a014b27577f7",
+      "content_hash_en": "273ff18402ec3de852dc62cdb748ea1807da972c6b72c3d58f62ce29075ebb1f",
       "backlinks": [
-        "consulta-publica-marcas-posicao-inpi-2026",
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "novo-nordisk-ozivy-anulacao-marca-semaglutida"
+        "inpi-credenciamento-busca-anterioridade-patentes",
+        "consulta-publica-marcas-posicao-inpi-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-08-11T21:31:15.985Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
@@ -2038,7 +2038,7 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "5d788029357346bf411cf5f098e3a1cf52cff88c9dc8f927e36787037d83be4d",
+      "content_hash_en": "a15053b8a007acf4c4ab20880797d7f9c55e6951c0f3e715d5304239a4f9f2c8",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
@@ -3727,6 +3727,30 @@
         "run-llms-old-server-homelab-guide-2026",
         "run-70b-llm-low-vram-gpu-guide-2026",
         "sandboxing-ai-coding-agents-guide-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "protecao-cultivares-brasil-guia-snpc-mapa": {
+      "slug": "protecao-cultivares-brasil-guia-snpc-mapa",
+      "title_en": "Plant Variety Protection in Brazil: Complete Guide (SNPC/MAPA)",
+      "title_pt": "Proteção de Cultivares no Brasil: Guia Completo de Registro no SNPC/MAPA",
+      "tags": [
+        "cultivares",
+        "agro",
+        "propriedade-intelectual",
+        "melhorista",
+        "biotecnologia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to plant variety protection in Brazil: Law 9.456/97, registration at SNPC/MAPA, DHE requirements, 15 and 18-year protection terms, breeder rights, and the differences from patents.",
+      "content_hash_en": "e55577ec1efe1f0d43627c18443ca995fd92282c3a83a9145dd587e7c6efb880",
+      "backlinks": [
+        "brasil-tratado-budapeste-patentes-biotecnologia",
+        "guia-indicacoes-geograficas-inpi-brasil",
+        "guia-indicacoes-geograficas-inpi-brasil"
       ],
       "backlink_source": "file",
       "last_processed": null

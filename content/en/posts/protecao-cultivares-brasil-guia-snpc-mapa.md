@@ -101,9 +101,9 @@ Plant variety protection is the main instrument for appropriating innovation in 
 
 Read also:
 
-- [Geographical Indications at INPI: Complete Guide]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
-- [Budapest Treaty and Biotechnology Patents in Brazil]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [Global PCT Patent Map: Where Brazil Stands]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
+- [Geographical Indication at INPI: Complete Guide [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
+- [Geographical Indication at INPI: Complete Guide [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
 
 ---
 
