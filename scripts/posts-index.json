@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T17:37:33.366Z",
+  "last_updated": "2026-08-13T17:48:25.101Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2302,7 +2302,7 @@
         "article"
       ],
       "description_en": "A practical framework for evaluating developer tools based on whether they disappear into your workflow — avoiding identity traps, puzzle-gaming limitations, and the sunk cost of steep learning curves.",
-      "content_hash_en": "0d44a8e0c13db4018167d626afbb7829dfb90a605025958ace27f7c9cec5141e",
+      "content_hash_en": "7e92316006b7a9588e3e6b440fc4cb7dba95d7793da4bd59cec48e9ff2be4bcd",
       "backlinks": [
         "one-week-review-gitbutler",
         "experience-with-cursor-and-windsurf",
@@ -3698,7 +3698,7 @@
         "article"
       ],
       "description_en": "Practical guide to INPI's new Patent Services Module: how to access the homologation platform, request test credentials, what changes with exclusive use from August 19, and how to avoid errors in the transition.",
-      "content_hash_en": "db95d4ccbd24d9f8f9c541378ee0a39d12afde9b1fa08dca2639a39e8b64a08a",
+      "content_hash_en": "02eeb2c4484d8225fb89e28e11adb82c0a6f22f8d834c3735ef952262759db73",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
@@ -3793,8 +3793,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to trademark prior art search at INPI: access to the pePI system, exact and radical search, Nice classes, interpretation of results and practical tips.",
-      "content_hash_en": "420bac9431269082a1a582a5b3398ab8dea432fe470038eae47e43efdfb3c6d1",
+      "description_en": "Complete guide to conducting trademark prior art searches at INPI: access to the pePI system, exact and radical search, Nice classes, interpretation of results, and practical tips.",
+      "content_hash_en": "b8b81bdd8ccfd03dc1bbbd3e266d714727f788c251751deb34d010bee7921807",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "como-consultar-andamento-processo-inpi",
