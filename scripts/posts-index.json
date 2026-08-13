@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T14:22:01.258Z",
+  "last_updated": "2026-08-13T17:37:33.366Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3746,7 +3746,7 @@
         "article"
       ],
       "description_en": "Complete guide to cultivar protection in Brazil: Law 9.456/97, registration with SNPC/MAPA, DHE requirements, terms of 15 and 18 years, breeder's rights and differences from patents.",
-      "content_hash_en": "011c4f187e2e945bfb3a999d4a138aca6a47c8348cfd7f16d19d992c1442eb64",
+      "content_hash_en": "3558fbdac7563f86a3ceddbc1e6c3ad3c2c9773abe00865c80008b8779ecd350",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "guia-indicacoes-geograficas-inpi-brasil",
@@ -3781,7 +3781,7 @@
     },
     "busca-anterioridade-marcas-inpi-guia-completo": {
       "slug": "busca-anterioridade-marcas-inpi-guia-completo",
-      "title_en": "Busca de Anterioridade de Marcas no INPI: Guia Completo Passo a Passo",
+      "title_en": "Trademark Prior Art Search at INPI: Complete Step-by-Step Guide",
       "title_pt": "Busca de Anterioridade de Marcas no INPI: Guia Completo Passo a Passo",
       "tags": [
         "marcas",
@@ -3793,13 +3793,12 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo para fazer busca de anterioridade de marcas no INPI: acesso ao sistema pePI, busca exata e radical, classes de Nice, interpretação de resultados e dicas práticas.",
-      "content_hash_en": null,
-      "content_hash_pt": "ccc7db39a35f3d34093e49970dbd99aa17b61ba45fe0b78d4df0003f07700e38",
+      "description_en": "Complete guide to trademark prior art search at INPI: access to the pePI system, exact and radical search, Nice classes, interpretation of results and practical tips.",
+      "content_hash_en": "420bac9431269082a1a582a5b3398ab8dea432fe470038eae47e43efdfb3c6d1",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "como-consultar-andamento-processo-inpi",
-        "inpi-manual-marcas-alto-renome-protocolo-madri"
+        "como-consultar-andamento-processo-inpi"
       ],
       "backlink_source": "file",
       "last_processed": null

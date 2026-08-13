@@ -105,11 +105,11 @@ If the search does not indicate a relevant conflict, the filing is done at [e-Ma
 
 The clearance search is the cheapest investment in the entire trademark registration process: it is free, takes minutes, and avoids rejection, rework, and the risk of infringing third-party rights. Mastering pePI — the difference between exact and radical search, the class filter, and reading the status — puts any company in a position to make an informed decision before spending on the filing.
 
-Also read:
+Read also:
 
-- [How to Check the Status of an INPI Process: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [How to Check the Status of an INPI Process: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [INPI Updates Trademark Manual: New Rules for High Renown and Accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
 ---
 
