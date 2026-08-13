@@ -1,6 +1,6 @@
 ---
 date: 2026-08-13T18:07:43.000Z
-draft: true
+draft: false
 title: 'Como Reduzir CVEs nas Suas Imagens Docker: Guia de Segurança de Containers [2026]'
 description: 'Guia prático para reduzir CVEs em imagens de contêineres Docker: varredura com Trivy e Grype, builds multi-estágio e distroless, atualizações seguras de dependências, backporting e SBOMs. Inclui comandos e um checklist para CI.'
 featured_image: ''

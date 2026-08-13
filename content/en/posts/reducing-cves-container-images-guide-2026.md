@@ -1,6 +1,6 @@
 ---
 date: 2026-08-13T15:07:43-03:00
-draft: true
+draft: false
 title: "How to Reduce CVEs in Your Docker Images: Container Security Guide [2026]"
 description: "Practical guide to reducing CVEs in Docker container images: scanning with Trivy and Grype, distroless and multi-stage builds, safe dependency bumps, backporting, and SBOMs. Includes commands and a CI checklist."
 featured_image: ""
