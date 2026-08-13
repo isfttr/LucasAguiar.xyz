@@ -1,6 +1,6 @@
 ---
 date: 2026-08-13T11:00:00-03:00
-draft: true
+draft: false
 title: "Busca de Anterioridade de Marcas no INPI: Guia Completo Passo a Passo"
 description: "Guia completo para fazer busca de anterioridade de marcas no INPI: acesso ao sistema pePI, busca exata e radical, classes de Nice, interpretação de resultados e dicas práticas."
 featured_image: ""
@@ -34,7 +34,7 @@ A consulta à base de marcas não serve apenas para checar se o nome que você e
 
 ## Onde Fazer a Busca: o Sistema pePI
 
-A base oficial de marcas do INPI está no **pePI (Pesquisa em Propriedade Industrial)**, acessível em [busca.inpi.gov.br](https://busca.inpi.gov.br/pePI/jsp/marcas/Pesquisa_num_processo.jsp). O acesso é gratuito e não exige cadastro: basta clicar em **Continuar** na tela de login para pesquisar anonimamente. Criar uma conta (ou entrar com gov.br) dá acesso a serviços adicionais, como a disponibilização de documentos.
+A base oficial de marcas do INPI está no **pePI (Pesquisa em Propriedade Industrial)**, acessível em [busca.inpi.gov.br](https://busca.inpi.gov.br/pePI/jsp/marcas/Pesquisa_num_processo.jsp) (também conhecido como Busca Web). O acesso é gratuito e não exige cadastro: basta clicar em **Continuar** na tela de login para pesquisar anonimamente. Criar uma conta (ou entrar com gov.br) dá acesso a serviços adicionais, como a disponibilização de documentos.
 
 Duas observações importantes sobre a base:
 

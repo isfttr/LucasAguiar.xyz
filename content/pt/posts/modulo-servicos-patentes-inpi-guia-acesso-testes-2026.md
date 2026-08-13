@@ -1,6 +1,6 @@
 ---
 date: 2026-08-11T11:14:50-03:00
-draft: true
+draft: false
 title: "Módulo de Serviços de Patentes do INPI: guia prático de acesso, testes e migração"
 description: "Guia prático do novo Módulo de Serviços de Patentes do INPI: como acessar a plataforma de homologação, solicitar credenciais de teste, o que muda com o uso exclusivo a partir de 19/8 e como evitar erros na transição."
 featured_image: ""
