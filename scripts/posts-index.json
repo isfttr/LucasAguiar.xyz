@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T17:48:25.101Z",
+  "last_updated": "2026-08-13T17:51:17.043Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3757,7 +3757,7 @@
     },
     "sqlite-wal-corruption-guide-2026": {
       "slug": "sqlite-wal-corruption-guide-2026",
-      "title_en": "SQLite WAL Corruption: How to Detect, Fix and Prevent It [2026]",
+      "title_en": "SQLite WAL Corruption: How to Detect, Fix and Prevent It in you Homelab [2026]",
       "title_pt": "Corrupção WAL do SQLite: Como Detectar, Corrigir e Prevenir [2026]",
       "tags": [
         "sqlite",
@@ -3770,7 +3770,7 @@
         "article"
       ],
       "description_en": "Complete guide to SQLite WAL corruption in 2026: detect it with PRAGMA integrity_check, recover corrupted databases, and prevent the WAL-reset bug. Real case study included.",
-      "content_hash_en": "28c25860e990a471fcbf8f2a701f8a4cf2eeada7e34114cc56f416ff99e3db5e",
+      "content_hash_en": "bc80ad0e78641406e3e329a6978152a70aa727b2a2e6ce04912f863f5e10f930",
       "backlinks": [
         "postgresql-performance-best-practices-homelab-2026",
         "detect-block-bot-traffic-selfhosted-guide-2026",
