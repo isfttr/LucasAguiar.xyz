@@ -85,9 +85,9 @@ O bug WAL-reset é um lembrete de que até o software mais testado em batalha te
 
 Leia também:
 
-- [Práticas Recomendadas de Performance do PostgreSQL para Homelab e Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
-- [Como Detectar e Bloquear Tráfego de Bots no Seu Site Self-Hosted [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
-- [Práticas Recomendadas de Performance do PostgreSQL para Homelab e Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
+- [Melhores Práticas de Desempenho do PostgreSQL para Homelab e Auto-hospedado [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
+- [Como Detectar e Bloquear Tráfego de Bots no Seu Site Auto-Hospedado [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
+- [Melhores Práticas de Desempenho do PostgreSQL para Homelab e Auto-hospedado [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
 
 ---
 

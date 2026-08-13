@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T17:51:17.043Z",
+  "last_updated": "2026-08-13T17:57:04.216Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2302,14 +2302,14 @@
         "article"
       ],
       "description_en": "A practical framework for evaluating developer tools based on whether they disappear into your workflow — avoiding identity traps, puzzle-gaming limitations, and the sunk cost of steep learning curves.",
-      "content_hash_en": "7e92316006b7a9588e3e6b440fc4cb7dba95d7793da4bd59cec48e9ff2be4bcd",
+      "content_hash_en": "27ee82bf2bd9f9c1b186fc2dea2788138e349e16856bd959c9757a3bbe82ba6a",
       "backlinks": [
         "one-week-review-gitbutler",
-        "experience-with-cursor-and-windsurf",
-        "gitbutler-terminal-cli-tui-2026"
+        "gitbutler-terminal-cli-tui-2026",
+        "ai-coding-agents-comparison-2026"
       ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-11T18:06:08.398Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-08-13T17:57:04.215Z"
     },
     "industrial-design-registration-brazil-inpi-2026-guide": {
       "slug": "industrial-design-registration-brazil-inpi-2026-guide",
@@ -3242,9 +3242,9 @@
         "article"
       ],
       "description_en": "Learn how stacked PRs work, why they speed up code review, and how to use them with GitHub's new native support. Comparisons, CLI tools, and real-world workflows.",
-      "content_hash_en": "47f3d43415ca72998697ef86d946e3f9f2c5322067aad53c4c4cb0ea04d123b2",
+      "content_hash_en": "35537c88babb81bb80f1bede907bd6abc93610fbfac108dcaece9bfbeec5411b",
       "backlinks": [
-        "gitbutler-terminal-cli-tui-2026",
+        "one-week-review-gitbutler",
         "gitlost-github-agentic-workflows-prompt-injection-2026",
         "one-week-review-gitbutler"
       ],
@@ -3758,7 +3758,7 @@
     "sqlite-wal-corruption-guide-2026": {
       "slug": "sqlite-wal-corruption-guide-2026",
       "title_en": "SQLite WAL Corruption: How to Detect, Fix and Prevent It in you Homelab [2026]",
-      "title_pt": "Corrupção WAL do SQLite: Como Detectar, Corrigir e Prevenir [2026]",
+      "title_pt": "Corrupção do WAL do SQLite: Como Detectar, Corrigir e Prevenir em seu Homelab [2026]",
       "tags": [
         "sqlite",
         "database",

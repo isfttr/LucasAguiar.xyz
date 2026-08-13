@@ -134,7 +134,8 @@ The sign that you've found the right tool is simple: you stop thinking about it.
 Read also:
 
 - [Two Weeks with GitButler: Streamlining My Git Workflow]({{< relref "posts/one-week-review-gitbutler/" >}})
-- [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
+- [GitButler in the Terminal]({{< relref "posts/gitbutler-terminal-cli-tui-2026/" >}})
+- [AI Coding Agents Compared: Claude Code vs Cursor vs GitHub Copilot vs Aider [2026]]({{< relref "posts/ai-coding-agents-comparison-2026/" >}})
 
 ---
 
