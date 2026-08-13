@@ -1,7 +1,7 @@
 ---
 date: 2026-08-12T15:07:50-03:00
-draft: true
-title: "SQLite WAL Corruption: How to Detect, Fix and Prevent It [2026]"
+draft: false
+title: "SQLite WAL Corruption: How to Detect, Fix and Prevent It in you Homelab [2026]"
 description: "Complete guide to SQLite WAL corruption in 2026: detect it with PRAGMA integrity_check, recover corrupted databases, and prevent the WAL-reset bug. Real case study included."
 featured_image: ""
 categories:
