@@ -1,6 +1,6 @@
 ---
 date: 2026-08-11T14:14:50.000Z
-draft: true
+draft: false
 title: 'INPI Patent Services Module: practical guide to access, testing, and migration'
 description: 'Practical guide to INPI''s new Patent Services Module: how to access the homologation platform, request test credentials, what changes with exclusive use from August 19, and how to avoid errors in the transition.'
 featured_image: ''
