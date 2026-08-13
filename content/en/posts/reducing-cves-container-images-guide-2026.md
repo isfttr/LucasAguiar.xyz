@@ -132,11 +132,11 @@ Container security in 2026 is moving toward **policy-as-code for images** (Trivy
 
 If you're still deciding between containers and VMs for your workload, our [Docker Containers vs Virtual Machines comparison guide]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}}) covers the isolation and density trade-offs that interact with security choices. And for the API side of your stack — including inspecting what your AI tools send to LLM providers — see the [LLM API security guide]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}}).
 
-Also read:
+Read also:
 
+- [How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
 - [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 - [LLM API Security in 2026: How to Inspect AI Traffic and Protect Your Keys]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}})
-- [How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
 
 ---
 

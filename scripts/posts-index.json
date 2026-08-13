@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T17:57:04.216Z",
+  "last_updated": "2026-08-13T18:09:10.598Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2302,13 +2302,13 @@
         "article"
       ],
       "description_en": "A practical framework for evaluating developer tools based on whether they disappear into your workflow — avoiding identity traps, puzzle-gaming limitations, and the sunk cost of steep learning curves.",
-      "content_hash_en": "27ee82bf2bd9f9c1b186fc2dea2788138e349e16856bd959c9757a3bbe82ba6a",
+      "content_hash_en": "27632f8f780ad6a105675e221891b678cb6ae6b0196bfe415c3afbbb79b8ecf9",
       "backlinks": [
         "one-week-review-gitbutler",
         "gitbutler-terminal-cli-tui-2026",
         "ai-coding-agents-comparison-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-08-13T17:57:04.215Z"
     },
     "industrial-design-registration-brazil-inpi-2026-guide": {
@@ -3242,7 +3242,7 @@
         "article"
       ],
       "description_en": "Learn how stacked PRs work, why they speed up code review, and how to use them with GitHub's new native support. Comparisons, CLI tools, and real-world workflows.",
-      "content_hash_en": "35537c88babb81bb80f1bede907bd6abc93610fbfac108dcaece9bfbeec5411b",
+      "content_hash_en": "cd6318ab09dc84d72d26b9c8012d769b52b1f198c627bdc127433b1fd4079602",
       "backlinks": [
         "one-week-review-gitbutler",
         "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -3799,6 +3799,30 @@
         "como-consultar-andamento-processo-inpi",
         "como-consultar-andamento-processo-inpi",
         "como-consultar-andamento-processo-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "reducing-cves-container-images-guide-2026": {
+      "slug": "reducing-cves-container-images-guide-2026",
+      "title_en": "How to Reduce CVEs in Your Docker Images: Container Security Guide [2026]",
+      "title_pt": "How to Reduce CVEs in Your Docker Images: Container Security Guide [2026]",
+      "tags": [
+        "containers",
+        "docker",
+        "security",
+        "devops",
+        "homelab"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Practical guide to reducing CVEs in Docker container images: scanning with Trivy and Grype, distroless and multi-stage builds, safe dependency bumps, backporting, and SBOMs. Includes commands and a CI checklist.",
+      "content_hash_en": "bacdce0d7d63e466365350c7a3194feae24b5f664a08f9c9aa240adee46d53e2",
+      "backlinks": [
+        "detect-block-bot-traffic-selfhosted-guide-2026",
+        "containers-vs-vms-complete-guide-2026",
+        "llm-api-security-inspect-traffic-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
