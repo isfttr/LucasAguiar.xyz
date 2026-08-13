@@ -78,7 +78,7 @@ GitHub's native support is new, but the concept has existing tooling worth knowi
 | **Graphite** | SaaS + CLI | Stacked PRs with merge queue, team analytics |
 | **GitButler** | Desktop app + CLI | Virtual branches, stacked PRs as a native concept |
 
-We covered [GitButler's CLI and TUI]({{< relref "posts/gitbutler-terminal-cli-tui-2026/" >}}) earlier — it implements stacked branches through its virtual branch model, which is a different approach from explicit branch chains. If you prefer a desktop GUI, GitButler remains a strong option.
+We covered [GitButler]({{< relref "posts/one-week-review-gitbutler/" >}}) earlier — it implements stacked branches through its virtual branch model, which is a different approach from explicit branch chains. If you prefer a desktop GUI, GitButler remains a strong option.
 
 The main advantage of `gh-stack` over third-party tools is that it lives inside GitHub's own review UI — the stack map, merge button, and branch protection rules all work without leaving github.com.
 
@@ -143,7 +143,6 @@ gh stack --help
 
 Read also:
 
-- [GitButler in the Terminal]({{< relref "posts/gitbutler-terminal-cli-tui-2026/" >}})
 - [GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
 - [Two Weeks with GitButler: Streamlining My Git Workflow]({{< relref "posts/one-week-review-gitbutler/" >}})
 

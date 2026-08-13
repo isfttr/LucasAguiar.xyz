@@ -144,7 +144,6 @@ gh stack --help
 
 Leia também:
 
-- [GitButler no Terminal]({{< relref "posts/gitbutler-terminal-cli-tui-2026/" >}})
 - [GitLost [2026]: Como a Injeção de Prompt no Agente de IA do GitHub Vaza Repositórios Privados]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
 - [Duas Semanas com GitButler: Simplificando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
 

@@ -140,7 +140,6 @@ Leia também:
 
 - [Duas Semanas com GitButler: Simplificando Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [Cursor vs Windsurf vs Zed 2026: Qual Editor de Código com IA é o Melhor?]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [GitButler no Terminal]({{< relref "posts/gitbutler-terminal-cli-tui-2026/" >}})
 
 ---
 
