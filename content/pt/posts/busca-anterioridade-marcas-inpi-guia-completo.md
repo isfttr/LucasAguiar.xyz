@@ -106,9 +106,9 @@ A busca de anterioridade é o investimento mais barato de todo o processo de reg
 
 Leia também:
 
-- [Como consultar o andamento de um processo no INPI]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [INPI atualiza Manual de Marcas: Alto Renome e Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
-- [Trâmite prioritário de marcas: INPI esgota cotas e amplia e-commerce]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
+- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 
 ---
 

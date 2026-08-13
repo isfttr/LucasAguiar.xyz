@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T18:09:37.124Z",
+  "last_updated": "2026-08-13T14:22:01.258Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -373,7 +373,7 @@
         "article"
       ],
       "description_en": "The increasing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
-      "content_hash_en": "1c34451527fed9e6bf3299d91a949e9a0f2ad6f4fb7b8b65dcba2913958c4378",
+      "content_hash_en": "a29c5bbea839773cd725b5457baf639f6b3a7cfb421d4dcaca0e1d6b37916c04",
       "backlinks": [
         "wipo-lanca-artificial-intelligence-infrastructure-interchange",
         "wipo-lanca-artificial-intelligence-infrastructure-interchange",
@@ -1933,7 +1933,7 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "70c884a10582675a726e80544a3f5b15d07995d903bc8cb173cb706605a27f64",
+      "content_hash_en": "ebc7a95d8db2343264b4429680774f7d142dcb2e68d2bd2485226560ee6f747c",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "inpi-credenciamento-busca-anterioridade-patentes",
@@ -3733,7 +3733,7 @@
     },
     "protecao-cultivares-brasil-guia-snpc-mapa": {
       "slug": "protecao-cultivares-brasil-guia-snpc-mapa",
-      "title_en": "Plant Variety Protection in Brazil: Complete Guide to Registration with SNPC/MAPA",
+      "title_en": "Plant Variety Protection in Brazil: Complete Guide to Registration at SNPC/MAPA",
       "title_pt": "Proteção de Cultivares no Brasil: Guia Completo de Registro no SNPC/MAPA",
       "tags": [
         "cultivares",
@@ -3745,8 +3745,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to cultivar protection in Brazil: Law 9.456/97, registration with SNPC/MAPA, DHE requirements, 15- and 18-year terms, breeder's rights and differences from patents.",
-      "content_hash_en": "fd79b6b85c467744bb918691c40039984ce44e89e99611ac1c79bee06cbb464d",
+      "description_en": "Complete guide to cultivar protection in Brazil: Law 9.456/97, registration with SNPC/MAPA, DHE requirements, terms of 15 and 18 years, breeder's rights and differences from patents.",
+      "content_hash_en": "011c4f187e2e945bfb3a999d4a138aca6a47c8348cfd7f16d19d992c1442eb64",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "guia-indicacoes-geograficas-inpi-brasil",
@@ -3758,7 +3758,7 @@
     "sqlite-wal-corruption-guide-2026": {
       "slug": "sqlite-wal-corruption-guide-2026",
       "title_en": "SQLite WAL Corruption: How to Detect, Fix and Prevent It [2026]",
-      "title_pt": "SQLite WAL Corruption: How to Detect, Fix and Prevent It [2026]",
+      "title_pt": "Corrupção WAL do SQLite: Como Detectar, Corrigir e Prevenir [2026]",
       "tags": [
         "sqlite",
         "database",
@@ -3770,11 +3770,36 @@
         "article"
       ],
       "description_en": "Complete guide to SQLite WAL corruption in 2026: detect it with PRAGMA integrity_check, recover corrupted databases, and prevent the WAL-reset bug. Real case study included.",
-      "content_hash_en": "19e08cc40e90f5859f2f01cb2a2be303ecd6d4796cadc3757d242175727a0bf5",
+      "content_hash_en": "28c25860e990a471fcbf8f2a701f8a4cf2eeada7e34114cc56f416ff99e3db5e",
       "backlinks": [
         "postgresql-performance-best-practices-homelab-2026",
         "detect-block-bot-traffic-selfhosted-guide-2026",
         "postgresql-performance-best-practices-homelab-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "busca-anterioridade-marcas-inpi-guia-completo": {
+      "slug": "busca-anterioridade-marcas-inpi-guia-completo",
+      "title_en": "Busca de Anterioridade de Marcas no INPI: Guia Completo Passo a Passo",
+      "title_pt": "Busca de Anterioridade de Marcas no INPI: Guia Completo Passo a Passo",
+      "tags": [
+        "marcas",
+        "inpi",
+        "busca-de-anterioridade",
+        "propriedade-intelectual",
+        "guia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo para fazer busca de anterioridade de marcas no INPI: acesso ao sistema pePI, busca exata e radical, classes de Nice, interpretação de resultados e dicas práticas.",
+      "content_hash_en": null,
+      "content_hash_pt": "ccc7db39a35f3d34093e49970dbd99aa17b61ba45fe0b78d4df0003f07700e38",
+      "backlinks": [
+        "como-consultar-andamento-processo-inpi",
+        "como-consultar-andamento-processo-inpi",
+        "inpi-manual-marcas-alto-renome-protocolo-madri"
       ],
       "backlink_source": "file",
       "last_processed": null
