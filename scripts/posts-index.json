@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T18:09:10.598Z",
+  "last_updated": "2026-08-13T18:26:59.488Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3806,7 +3806,7 @@
     "reducing-cves-container-images-guide-2026": {
       "slug": "reducing-cves-container-images-guide-2026",
       "title_en": "How to Reduce CVEs in Your Docker Images: Container Security Guide [2026]",
-      "title_pt": "How to Reduce CVEs in Your Docker Images: Container Security Guide [2026]",
+      "title_pt": "Como Reduzir CVEs nas Suas Imagens Docker: Guia de Segurança de Containers [2026]",
       "tags": [
         "containers",
         "docker",
@@ -3818,7 +3818,7 @@
         "article"
       ],
       "description_en": "Practical guide to reducing CVEs in Docker container images: scanning with Trivy and Grype, distroless and multi-stage builds, safe dependency bumps, backporting, and SBOMs. Includes commands and a CI checklist.",
-      "content_hash_en": "bacdce0d7d63e466365350c7a3194feae24b5f664a08f9c9aa240adee46d53e2",
+      "content_hash_en": "d4893677f49210868a501aa206e04de4e9025e76a6980577df87f0c9eeb92372",
       "backlinks": [
         "detect-block-bot-traffic-selfhosted-guide-2026",
         "containers-vs-vms-complete-guide-2026",
