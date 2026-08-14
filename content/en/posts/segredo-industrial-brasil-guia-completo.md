@@ -105,9 +105,9 @@ For the company, the practical checklist is short: (i) is the information secret
 
 Read also:
 
-- [INPI will pay R$ 1,025 per patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
-- [Brazil joins the Budapest Treaty: what changes for biotech patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [LPI at 30: INPI releases report with proposals to improve the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
+- [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---
 

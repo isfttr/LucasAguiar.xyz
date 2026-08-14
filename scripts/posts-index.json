@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T14:19:16.009Z",
+  "last_updated": "2026-08-14T18:08:32.246Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3829,7 +3829,7 @@
     },
     "segredo-industrial-brasil-guia-completo": {
       "slug": "segredo-industrial-brasil-guia-completo",
-      "title_en": "Segredo Industrial no Brasil: Guia Completo de Proteção de Know-how sem Patente",
+      "title_en": "Trade Secret in Brazil: Complete Guide to Protecting Know-how without a Patent",
       "title_pt": "Segredo Industrial no Brasil: Guia Completo de Proteção de Know-how sem Patente",
       "tags": [
         "segredo-industrial",
@@ -3841,13 +3841,37 @@
       "categories": [
         "article"
       ],
-      "description_en": "Segredo industrial no Brasil: o que a LPI protege (art. 195), diferenças para patente e medidas práticas para proteger know-how sem registro no INPI.",
-      "content_hash_en": null,
-      "content_hash_pt": "0cba97c254ec8f503c20e7b87d30a639dedd6c7369e4f13d76c4b4d9170c3d26",
+      "description_en": "Industrial secret in Brazil: what the LPI protects (art. 195), differences from patents and practical measures to protect know-how without registration at INPI.",
+      "content_hash_en": "c8a65f18b677b712cf63febfdde412da54ddf101b5d6bb812b8cdc3c5e534856",
       "backlinks": [
         "inpi-credenciamento-busca-anterioridade-patentes",
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "lpi-30-anos-propostas-aperfeicoamento-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "self-host-rustdesk-unattended-remote-access-guide-2026": {
+      "slug": "self-host-rustdesk-unattended-remote-access-guide-2026",
+      "title_en": "Self-Host RustDesk: Unattended Remote Access Guide [2026]",
+      "title_pt": "Self-Host RustDesk: Unattended Remote Access Guide [2026]",
+      "tags": [
+        "rustdesk",
+        "remote-access",
+        "selfhosted",
+        "homelab",
+        "wayland",
+        "docker"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to self-hosting RustDesk with Docker in 2026: hbbs/hbbr setup, firewall ports, Wayland unattended access and secure client config.",
+      "content_hash_en": "c60a344f999537d3d17207c2ebfa6848e0fd0d69e17ce63528006595317bac4c",
+      "backlinks": [
+        "containers-vs-vms-complete-guide-2026",
+        "detect-block-bot-traffic-selfhosted-guide-2026",
+        "proxmox-backup-server-community-scripts-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

@@ -115,11 +115,11 @@ A few things worth knowing before you expose the server:
 
 If you administer more than one Linux machine, or you want remote access to a home server from anywhere, the setup cost is one evening and the payoff is permanent: no session limits, no login-screen dead ends, and now, no Wayland excuse. Pair it with a [Proxmox backup strategy]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}}) and your homelab becomes something you can operate from anywhere.
 
-Also read:
+Read also:
 
-- [Containers vs VMs: A Complete Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
-- [Detect and Block Bot Traffic on Self-Hosted Services [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
-- [Proxmox Backup Server: Community Scripts Guide [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
+- [How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
+- [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
 
 ---
 
