@@ -136,8 +136,8 @@ Se você ainda está decidindo entre contêineres e VMs para sua carga de trabal
 Leia também:
 
 - [Como Detectar e Bloquear Tráfego de Bots no Seu Site Auto-Hospedado [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
-- [Docker Containers vs Virtual Machines: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
-- [Segurança de API para LLM em 2026: Como Inspecionar Tráfego de IA e Proteger Suas Chaves]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}})
+- [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
+- [Segurança de API LLM em 2026: Como inspecionar o tráfego de IA e proteger suas chaves]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}})
 
 ---
 

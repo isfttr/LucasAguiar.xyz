@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T18:26:59.488Z",
+  "last_updated": "2026-08-14T14:19:16.009Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3806,7 +3806,7 @@
     "reducing-cves-container-images-guide-2026": {
       "slug": "reducing-cves-container-images-guide-2026",
       "title_en": "How to Reduce CVEs in Your Docker Images: Container Security Guide [2026]",
-      "title_pt": "Como Reduzir CVEs nas Suas Imagens Docker: Guia de Segurança de Containers [2026]",
+      "title_pt": "Como Reduzir CVEs em Suas Imagens Docker: Guia de Segurança de Contêineres [2026]",
       "tags": [
         "containers",
         "docker",
@@ -3823,6 +3823,31 @@
         "detect-block-bot-traffic-selfhosted-guide-2026",
         "containers-vs-vms-complete-guide-2026",
         "llm-api-security-inspect-traffic-guide-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "segredo-industrial-brasil-guia-completo": {
+      "slug": "segredo-industrial-brasil-guia-completo",
+      "title_en": "Segredo Industrial no Brasil: Guia Completo de Proteção de Know-how sem Patente",
+      "title_pt": "Segredo Industrial no Brasil: Guia Completo de Proteção de Know-how sem Patente",
+      "tags": [
+        "segredo-industrial",
+        "propriedade-intelectual",
+        "inovacao",
+        "concorrencia-desleal",
+        "contratos"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Segredo industrial no Brasil: o que a LPI protege (art. 195), diferenças para patente e medidas práticas para proteger know-how sem registro no INPI.",
+      "content_hash_en": null,
+      "content_hash_pt": "0cba97c254ec8f503c20e7b87d30a639dedd6c7369e4f13d76c4b4d9170c3d26",
+      "backlinks": [
+        "inpi-credenciamento-busca-anterioridade-patentes",
+        "brasil-tratado-budapeste-patentes-biotecnologia",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi"
       ],
       "backlink_source": "file",
       "last_processed": null
