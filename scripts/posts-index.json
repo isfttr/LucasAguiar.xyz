@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T18:08:32.246Z",
+  "last_updated": "2026-08-15T14:26:50.952Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3842,7 +3842,7 @@
         "article"
       ],
       "description_en": "Industrial secret in Brazil: what the LPI protects (art. 195), differences from patents and practical measures to protect know-how without registration at INPI.",
-      "content_hash_en": "c8a65f18b677b712cf63febfdde412da54ddf101b5d6bb812b8cdc3c5e534856",
+      "content_hash_en": "ad1430bee26fe58fe155ac41f81234335bb7f2cf8dac688ebef0242c7cfa91a5",
       "backlinks": [
         "inpi-credenciamento-busca-anterioridade-patentes",
         "brasil-tratado-budapeste-patentes-biotecnologia",
@@ -3854,7 +3854,7 @@
     "self-host-rustdesk-unattended-remote-access-guide-2026": {
       "slug": "self-host-rustdesk-unattended-remote-access-guide-2026",
       "title_en": "Self-Host RustDesk: Unattended Remote Access Guide [2026]",
-      "title_pt": "Self-Host RustDesk: Unattended Remote Access Guide [2026]",
+      "title_pt": "Auto-hospedagem do RustDesk: Guia de Acesso Remoto Não Assistido [2026]",
       "tags": [
         "rustdesk",
         "remote-access",
@@ -3867,11 +3867,37 @@
         "article"
       ],
       "description_en": "Complete guide to self-hosting RustDesk with Docker in 2026: hbbs/hbbr setup, firewall ports, Wayland unattended access and secure client config.",
-      "content_hash_en": "c60a344f999537d3d17207c2ebfa6848e0fd0d69e17ce63528006595317bac4c",
+      "content_hash_en": "9d9bd9d4f02a760604da764a83bb0afcd27d31959f90d6133ae6fd12a12c32cf",
       "backlinks": [
         "containers-vs-vms-complete-guide-2026",
         "detect-block-bot-traffic-selfhosted-guide-2026",
         "proxmox-backup-server-community-scripts-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "inpi-plano-estrategico-2027-2036-guia-completo": {
+      "slug": "inpi-plano-estrategico-2027-2036-guia-completo",
+      "title_en": "Plano Estratégico do INPI 2027-2036: Guia Completo dos 7 Objetivos e o que Muda para Empresas",
+      "title_pt": "Plano Estratégico do INPI 2027-2036: Guia Completo dos 7 Objetivos e o que Muda para Empresas",
+      "tags": [
+        "inpi",
+        "propriedade-intelectual",
+        "planejamento-estrategico",
+        "patentes",
+        "inovacao",
+        "governanca"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo do Plano Estratégico do INPI 2027-2036: os 7 objetivos estratégicos, valoração de ativos de PI, PI como garantia bancária e o que muda para quem usa patentes e marcas.",
+      "content_hash_en": null,
+      "content_hash_pt": "2859739c7946131faec158c2c90dee1ee0a8695b88bedcf7e857eca2a3e54e74",
+      "backlinks": [
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
+        "inpi-automation-roadmap-2025-2029",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi"
       ],
       "backlink_source": "file",
       "last_processed": null

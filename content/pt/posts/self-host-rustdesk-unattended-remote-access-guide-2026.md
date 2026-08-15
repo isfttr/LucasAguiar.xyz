@@ -118,9 +118,9 @@ Se você administra mais de uma máquina Linux, ou quer acesso remoto a um servi
 
 Leia também:
 
-- [Contêineres Docker vs Máquinas Virtuais: Guia de Comparação Completo [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
+- [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 - [Como Detectar e Bloquear Tráfego de Bots no Seu Site Auto-Hospedado [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
-- [Proxmox Backup Server: instalação via community-scripts e configuração de backup [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [Proxmox Backup Server: instalação via community-scripts e configuração de backups [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
 
 ---
 

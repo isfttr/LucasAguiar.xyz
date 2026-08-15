@@ -88,9 +88,9 @@ O plano é orientativo — a execução real virá dos Planos de Ação anuais e
 
 Leia também:
 
+- [INPI lança nova versão do Módulo de Patentes: o que muda em 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
 - [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 - [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
-- [TRF-2 Obriga União a Reestruturar o INPI: O que Isso Significa para suas Patentes?]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
 
 ---
 
