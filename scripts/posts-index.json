@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T14:26:50.952Z",
+  "last_updated": "2026-08-15T18:08:57.212Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3878,7 +3878,7 @@
     },
     "inpi-plano-estrategico-2027-2036-guia-completo": {
       "slug": "inpi-plano-estrategico-2027-2036-guia-completo",
-      "title_en": "Plano Estratégico do INPI 2027-2036: Guia Completo dos 7 Objetivos e o que Muda para Empresas",
+      "title_en": "INPI Strategic Plan 2027-2036: Complete Guide to the 7 Objectives and What Changes for Companies",
       "title_pt": "Plano Estratégico do INPI 2027-2036: Guia Completo dos 7 Objetivos e o que Muda para Empresas",
       "tags": [
         "inpi",
@@ -3891,13 +3891,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo do Plano Estratégico do INPI 2027-2036: os 7 objetivos estratégicos, valoração de ativos de PI, PI como garantia bancária e o que muda para quem usa patentes e marcas.",
-      "content_hash_en": null,
-      "content_hash_pt": "2859739c7946131faec158c2c90dee1ee0a8695b88bedcf7e857eca2a3e54e74",
+      "description_en": "Complete guide to INPI’s Strategic Plan 2027-2036: the 7 strategic objectives, valuation of IP assets, IP as bank collateral, and what changes for those who use patents and trademarks.",
+      "content_hash_en": "f6dbf7789d8f633be577803537d694de8be47d075b12e5a510fe533772b60146",
       "backlinks": [
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
         "inpi-automation-roadmap-2025-2029",
         "lpi-30-anos-propostas-aperfeicoamento-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "how-to-block-ads-trackers-2026-guide": {
+      "slug": "how-to-block-ads-trackers-2026-guide",
+      "title_en": "How to Block Ads and Trackers in 2026: Firefox, uBlock Origin, and DNS Filtering [Guide]",
+      "title_pt": "How to Block Ads and Trackers in 2026: Firefox, uBlock Origin, and DNS Filtering [Guide]",
+      "tags": [
+        "privacy",
+        "firefox",
+        "adblocking",
+        "dns",
+        "homelab"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Block ads and trackers in 2026: uBlock Origin on Firefox, uBO Lite for Chromium, plus DNS-level filtering with Pi-hole or AdGuard Home. Step-by-step guide.",
+      "content_hash_en": "f4fe57286661b8d8cb99cc8fb2ae549acdbda810cd564fe2cd045c2e80acabfb",
+      "backlinks": [
+        "containers-vs-vms-complete-guide-2026",
+        "detect-block-bot-traffic-selfhosted-guide-2026",
+        "containers-vs-vms-complete-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

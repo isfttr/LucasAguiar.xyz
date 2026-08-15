@@ -87,11 +87,11 @@ The plan is guiding — the actual execution will come from the annual Action Pl
 - Concrete proposals to amend the LPI sent to Congress;
 - The speed of unification of electronic systems (patents, trademarks, industrial designs).
 
-Also read:
+Read also:
 
-- [INPI launches new version of the Patent Module: what changes in 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
-- [INPI 4.0: The INPI Automation Plan (2025-2029) and the Future of Patents in Brazil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
-- [LPI at 30 years: INPI releases report with proposals for improving the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [INPI launches new version of the Patents Module: what changes in 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---
 
