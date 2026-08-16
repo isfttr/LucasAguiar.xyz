@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T18:08:57.212Z",
+  "last_updated": "2026-08-16T14:20:20.017Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3892,7 +3892,7 @@
         "article"
       ],
       "description_en": "Complete guide to INPI’s Strategic Plan 2027-2036: the 7 strategic objectives, valuation of IP assets, IP as bank collateral, and what changes for those who use patents and trademarks.",
-      "content_hash_en": "f6dbf7789d8f633be577803537d694de8be47d075b12e5a510fe533772b60146",
+      "content_hash_en": "d299aa766c2bde85ea42124dc7a80a6c496f50065b4994423a338edfa7063c19",
       "backlinks": [
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
         "inpi-automation-roadmap-2025-2029",
@@ -3904,7 +3904,7 @@
     "how-to-block-ads-trackers-2026-guide": {
       "slug": "how-to-block-ads-trackers-2026-guide",
       "title_en": "How to Block Ads and Trackers in 2026: Firefox, uBlock Origin, and DNS Filtering [Guide]",
-      "title_pt": "How to Block Ads and Trackers in 2026: Firefox, uBlock Origin, and DNS Filtering [Guide]",
+      "title_pt": "Como bloquear anúncios e rastreadores em 2026: Firefox, uBlock Origin e filtragem de DNS [Guia]",
       "tags": [
         "privacy",
         "firefox",
@@ -3916,11 +3916,36 @@
         "article"
       ],
       "description_en": "Block ads and trackers in 2026: uBlock Origin on Firefox, uBO Lite for Chromium, plus DNS-level filtering with Pi-hole or AdGuard Home. Step-by-step guide.",
-      "content_hash_en": "f4fe57286661b8d8cb99cc8fb2ae549acdbda810cd564fe2cd045c2e80acabfb",
+      "content_hash_en": "0ff0b321e8b622bb5798a0d642c0176cb305a388f536887090756381f538213c",
       "backlinks": [
         "containers-vs-vms-complete-guide-2026",
         "detect-block-bot-traffic-selfhosted-guide-2026",
         "containers-vs-vms-complete-guide-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "oposicao-marca-inpi-guia-completo-2026": {
+      "slug": "oposicao-marca-inpi-guia-completo-2026",
+      "title_en": "Oposição de Marca no INPI: Guia Completo de Como Opor um Pedido [2026]",
+      "title_pt": "Oposição de Marca no INPI: Guia Completo de Como Opor um Pedido [2026]",
+      "tags": [
+        "marcas",
+        "inpi",
+        "propriedade-intelectual",
+        "guia",
+        "lpi"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo da oposição de marca no INPI: prazo de 60 dias, fundamentos do art. 124 da LPI, como protocolar no e-Marcas, custos (R$ 520), manifestação do depositante e recurso. Passo a passo para opor e para se defender.",
+      "content_hash_en": null,
+      "content_hash_pt": "bb2f127f15656180b6593df353c5555f6cfcfeb6a2620c87f8e431cf34e70e03",
+      "backlinks": [
+        "busca-anterioridade-marcas-inpi-guia-completo",
+        "inpi-manual-marcas-alto-renome-protocolo-madri",
+        "quanto-custa-registrar-marca-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

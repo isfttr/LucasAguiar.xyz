@@ -131,9 +131,9 @@ Do outro lado, o depositante que recebe uma oposição tem 60 dias para apresent
 
 Leia também:
 
+- [Busca de Anterioridade de Marcas no INPI: Guia Completo Passo a Passo]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Busca de Anterioridade de Marcas no INPI: Guia Completo]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
-- [Caducidade de Marca no INPI: Guia de Como Perder e Recuperar o Registro [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
 
 ---
 
