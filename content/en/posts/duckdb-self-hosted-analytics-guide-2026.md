@@ -156,10 +156,11 @@ Run them side by side: Postgres stores your services' data, SQLite stores your a
 
 If you self-host anything, you already have the data — you just lacked a low-friction way to ask questions of it. DuckDB removes the last excuse: no server, no schema, no import pipeline. Download one file, point it at your CSVs and Parquet, and the answer to that Friday-afternoon question is one SQL statement away.
 
-Also read:
+Read also:
 
+- [SQLite WAL Corruption: How to Detect, Fix and Prevent It in you Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
 - [PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
-- [SQLite WAL Corruption: How to Detect, Fix and Prevent It in Your Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
+- [PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
 
 ---
 

@@ -130,11 +130,11 @@ Opposition is the most underutilized tool in the Brazilian trademark system: the
 
 On the other side, the applicant who receives an opposition has 60 days to present a solid response; ignoring the notification is handing the decision to the opponent.
 
-Also read:
+Read also:
 
 - [Trademark Prior Art Search at INPI: Complete Step-by-Step Guide]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
-- [INPI updates Trademark Manual: new rules for Well-Known Marks and adherence to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
-- [How Much Does It Cost to Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 

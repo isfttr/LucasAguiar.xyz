@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T14:20:20.017Z",
+  "last_updated": "2026-08-16T18:09:05.633Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3927,7 +3927,7 @@
     },
     "oposicao-marca-inpi-guia-completo-2026": {
       "slug": "oposicao-marca-inpi-guia-completo-2026",
-      "title_en": "Oposição de Marca no INPI: Guia Completo de Como Opor um Pedido [2026]",
+      "title_en": "Trademark Opposition at INPI: Complete Guide on How to Oppose an Application [2026]",
       "title_pt": "Oposição de Marca no INPI: Guia Completo de Como Opor um Pedido [2026]",
       "tags": [
         "marcas",
@@ -3939,13 +3939,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo da oposição de marca no INPI: prazo de 60 dias, fundamentos do art. 124 da LPI, como protocolar no e-Marcas, custos (R$ 520), manifestação do depositante e recurso. Passo a passo para opor e para se defender.",
-      "content_hash_en": null,
-      "content_hash_pt": "bb2f127f15656180b6593df353c5555f6cfcfeb6a2620c87f8e431cf34e70e03",
+      "description_en": "Complete guide to trademark opposition at INPI: 60-day deadline, grounds of art. 124 of LPI, how to file via e-Marcas, costs (R$ 520), applicant's response and appeal. Step by step to oppose and to defend yourself.",
+      "content_hash_en": "8ffc5150484c8b7c15e685a5437d5d79f5b7da09d368edb02b8a8e0c45e08cbb",
       "backlinks": [
         "busca-anterioridade-marcas-inpi-guia-completo",
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "quanto-custa-registrar-marca-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "duckdb-self-hosted-analytics-guide-2026": {
+      "slug": "duckdb-self-hosted-analytics-guide-2026",
+      "title_en": "DuckDB for Self-Hosted Analytics: Query CSV, Parquet, and JSON in Seconds [2026]",
+      "title_pt": "DuckDB for Self-Hosted Analytics: Query CSV, Parquet, and JSON in Seconds [2026]",
+      "tags": [
+        "duckdb",
+        "database",
+        "analytics",
+        "selfhosted",
+        "homelab"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Practical guide to DuckDB for homelab and self-hosted users: install the single binary, query CSV/Parquet/JSON directly, analyze logs and exports without spinning up a database server. Real examples.",
+      "content_hash_en": "01ef170ef125f9c107e81a4e8f5237ae83e71906586ab8162c0bb98c8ed35ce2",
+      "backlinks": [
+        "sqlite-wal-corruption-guide-2026",
+        "postgresql-performance-best-practices-homelab-2026",
+        "postgresql-performance-best-practices-homelab-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
