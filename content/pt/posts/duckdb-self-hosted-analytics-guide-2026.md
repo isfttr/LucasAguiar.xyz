@@ -159,9 +159,9 @@ Se você usa self-hosting para qualquer coisa, você já tem os dados — só fa
 
 Leia também:
 
-- [Corrupção de WAL no SQLite: Como Detectar, Corrigir e Prevenir no seu Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
-- [Boas Práticas de Performance do PostgreSQL para Homelab e Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
-- [Corrupção de WAL no SQLite: Como Detectar, Corrigir e Prevenir no seu Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
+- [Corrupção do WAL do SQLite: Como Detectar, Corrigir e Prevenir em seu Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
+- [Melhores Práticas de Desempenho do PostgreSQL para Homelab e Auto-hospedado [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
+- [Corrupção do WAL do SQLite: Como Detectar, Corrigir e Prevenir em seu Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
 
 ---
 

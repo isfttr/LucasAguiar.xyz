@@ -104,7 +104,6 @@ Leia também:
 - [Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
 - [Erros de Login na Interface Web do Proxmox: Solução Passo a Passo [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 - [Open WebUI: Modelos Customizados Não Aparecem? Solução Passo a Passo [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
-- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu email **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.

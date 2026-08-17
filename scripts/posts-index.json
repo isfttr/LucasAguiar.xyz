@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T14:20:00.140Z",
+  "last_updated": "2026-08-17T14:25:17.779Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -227,7 +227,7 @@
       ],
       "categories": [],
       "description_en": "For the first time I tried to break with ChatGPT and Copilot to see what I could come up with.",
-      "content_hash_en": "9bb2ae35ab737fd05a15febf3a71004b39819e30116a7974eca2c9139ae8a776",
+      "content_hash_en": "0f27875eab30a32fe27484d512d085e5d7aeaf67f558a1763b0ada2e57c9af1a",
       "backlinks": [
         "10-obsidian-copilot",
         "script-update-open_webui-lxc",
@@ -274,11 +274,11 @@
         "article"
       ],
       "description_en": "Open WebUI custom models not showing? Fix the missing models bug with the right OpenAI API and Direct Connections configuration. Step-by-step guide [2026].",
-      "content_hash_en": "02c27b3ecd8cd5301f0fb901bb12902078379a6f3476b7507de97d20b99cbf9f",
+      "content_hash_en": "26bfce945ebb8263438d5822cde57e4659462ba305abc9559fdebc5e42cfa253",
       "backlinks": [
+        "how-to-update-open-webui-2026",
         "script-update-open_webui-lxc",
-        "creating-my-ai-assistant-locally",
-        "troubleshooting-proxmox-login-interface"
+        "creating-my-ai-assistant-locally"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -325,7 +325,7 @@
         "tutorial"
       ],
       "description_en": "Learn how to securely manage sensitive information in your GitHub projects using Secrets and integrate them with containerized applications and services exposed to the internet.",
-      "content_hash_en": "5410a38e7736e4a446130f6ebbe9d6e7094e60ab9ba0d758d78b3201a5527356",
+      "content_hash_en": "0c99d3b3e53dbd86b1d21aea491420006c51a69acca6e7dca4c30f599c1633c9",
       "backlinks": [
         "oracle_cloud_vps",
         "script-update-open_webui-lxc",
@@ -451,7 +451,7 @@
         "tutorial"
       ],
       "description_en": "Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.",
-      "content_hash_en": "e5c04e40c75bc69f2fa8814aec70634ffe80a89fa7d9a6258a94026f2d74b7d0",
+      "content_hash_en": "e6e0d209a2e1b3ee88d3daea0235fa1a800fa76b432e2619ac7efa79bd345f00",
       "backlinks": [
         "oracle_cloud_vps",
         "troubleshooting-proxmox-login-interface",
@@ -471,7 +471,7 @@
       ],
       "categories": [],
       "description_en": "Correcting the `No internet available` error on NixOS Installation",
-      "content_hash_en": "d587457855e0bef2f774b3ca49ae28fc8c04df3391fedce0972ac7d5f4701171",
+      "content_hash_en": "a2ce2f0ae4d106ce5ff3211c938716f44d1f5870d59c4c460668b59289a2aaac",
       "backlinks": [
         "oracle_cloud_vps",
         "troubleshooting-proxmox-login-interface",
@@ -496,11 +496,11 @@
         "article"
       ],
       "description_en": "My experience using GitButler as a replacement for traditional Git workflow tools, including what works well and a few limitations.",
-      "content_hash_en": "c49d755ef89ad957d7d873f5bebdfd63669e5065de12cc1c0e81909739ad7f10",
+      "content_hash_en": "22969c2992db007cc8db79e642ed08fd13498b098c2db033b886a5c3106a1899",
       "backlinks": [
+        "gitbutler-what-is-review-alternatives-2026",
         "experience-with-cursor-and-windsurf",
-        "vibe-coding-pitfalls",
-        "ai-beats-procrastination"
+        "vibe-coding-pitfalls"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -548,7 +548,7 @@
         "tutorial"
       ],
       "description_en": "Oracle Cloud Free Tier in 2026: step-by-step setup with Tailscale and Docker, what still works on the Always Free tier, and free VPS alternatives.",
-      "content_hash_en": "afe7521b7c7496ca2d103e5dc038dae42716b1cbf0006013dacae5679286dde0",
+      "content_hash_en": "3edf7350d6dde930389bc645b4c044bf23a222059a8645bbc03d80ac4b40ee20",
       "backlinks": [
         "newsletter-beehiiv-cloudflare-github",
         "nixos-vm1",
@@ -624,11 +624,11 @@
         "article"
       ],
       "description_en": "How to update Open WebUI inside a Proxmox LXC with a single bash script: git pull, build and restart. Includes cron setup for automatic updates [2026].",
-      "content_hash_en": "c9e637dee2384a9a068248f47c4b17203133ab339910452d6bde5ea2bdc56af6",
+      "content_hash_en": "9315e0fcbd241d9ad88320c0cbef632c3b726a4b81a1b77de841fbc8b71251f7",
       "backlinks": [
+        "how-to-update-open-webui-2026",
         "troubleshooting-proxmox-login-interface",
-        "fix-custom-models-open-webui",
-        "creating-my-ai-assistant-locally"
+        "fix-custom-models-open-webui"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -673,11 +673,11 @@
         "tutorial"
       ],
       "description_en": "Fix Proxmox 'authentication failure' on login: missing access.cfg, corosync quorum and pveproxy restart. Step-by-step troubleshooting guide [2026].",
-      "content_hash_en": "0ea95ea2b29476c1ff98ee2ffbdf08558ca25dd9c940a23618eb27b9ff5494a3",
+      "content_hash_en": "5a61be2570a21b9c618bac0cfd5e46c0305c498de6dbdf8ce70a133734653b34",
       "backlinks": [
+        "proxmox-401-authentication-failure-fix-2026",
         "oracle_cloud_vps",
-        "newsletter-beehiiv-cloudflare-github",
-        "script-update-open_webui-lxc"
+        "newsletter-beehiiv-cloudflare-github"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -864,7 +864,7 @@
         "tutorial"
       ],
       "description_en": "Transforming a 2018 Mac Mini with a T2 chip into a Proxmox node seems simple, but Secure Boot and the black screen issue stop almost everyone. See the exact settings that made the installation succeed.",
-      "content_hash_en": "49fb27635ed6db60da10e7fc9795767837ef15d2fe523cdfdc4604d9a5e97009",
+      "content_hash_en": "eb8f0e104583c4d01a58c96e865624ea6e34c4882317b4d1b2ff4df1f9f746f2",
       "backlinks": [
         "script-update-open_webui-lxc",
         "troubleshooting-proxmox-login-interface",
@@ -1062,7 +1062,7 @@
         "tutorial"
       ],
       "description_en": "The saga of plugging WhatsApp into a Hermes Agent running in Docker inside an LXC on Proxmox: from EACCES in npm to the ghostly 'disconnected' and the Brazilian ninth digit.",
-      "content_hash_en": "f38cdf8e80bc68ec1e4945a0c11da46ee5d4961f6ad264d77acf76f26b1b424f",
+      "content_hash_en": "a524e97f38cb3c860732f3f80730fe4556886b59cce4d25d98441bdad587d74b",
       "backlinks": [
         "script-update-open_webui-lxc",
         "proxmox-mac-mini-2018-t2",
@@ -1516,7 +1516,7 @@
         "article"
       ],
       "description_en": "Complete guide with the 10 main difficulties to access Google Analytics in 2026: VPN blocking access, third-party cookies, extensions, account permissions, and much more.",
-      "content_hash_en": "bdaec9f8951f5b0f75cbc7210689573f8f6d0d2455a4c1d71e004a059b7f2e3f",
+      "content_hash_en": "a639c7cbb9123707240a3d5014347bec6e3a0e2897594ef49c72c16b0b506ff1",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "configuracao-whatsapp-hermes",
@@ -1614,7 +1614,7 @@
         "article"
       ],
       "description_en": "Complete guide to migrating from Proxmox VE 8 (Debian 12-based) to Proxmox VE 9 (Debian 13 Trixie): repositories, kernel 6.14 upgrade, ZFS 2.3, common pitfalls and post-upgrade verification.",
-      "content_hash_en": "4c5ea636f0cd3f482fec806d34bc5c40762d3a02505e641272ae0944ee30adbf",
+      "content_hash_en": "5810d97d2a4f0092fdea5d3caa2cd94a29c4e61ade17b2914151b8ce0754a4fb",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "proxmox-backup-server-community-scripts-2026",
@@ -1639,7 +1639,7 @@
         "article"
       ],
       "description_en": "Complete guide to installing Proxmox Backup Server (PBS) using community-scripts in an LXC container, configuring datastore, integrating with Proxmox VE, and automating backups with scheduling and integrity verification.",
-      "content_hash_en": "d97bcc9863224b6d0b323062db142c6eddc7ed6f5dc8afeba772b7a0b79dff90",
+      "content_hash_en": "acb0d1dae24a649e471998de5e40e252e07574dff6835e5336aa0537105d3f3d",
       "backlinks": [
         "proxmox-mac-mini-2018-t2",
         "troubleshooting-proxmox-login-interface",
@@ -2254,7 +2254,7 @@
         "article"
       ],
       "description_en": "Complete guide to KVM virtualization on Linux: install, configure, and manage VMs with virsh and virt-install. Covers networking, storage pools, cloud-init, and comparison with Vagrant, VirtualBox, and Proxmox.",
-      "content_hash_en": "e0aed6becfc9355d12c67df35d135d357ee6a1d47d1663b6ce6bf832225ca98d",
+      "content_hash_en": "2287c3fb1b3a906371c422e482ff7001ad11a39b7ac6d6bd5335973c751512e4",
       "backlinks": [
         "proxmox-backup-server-community-scripts-2026",
         "proxmox-mac-mini-2018-t2",
@@ -2551,7 +2551,7 @@
         "article"
       ],
       "description_en": "Step-by-step guide to running modern LLMs on old/used enterprise servers with no GPU. Hardware picks, software stack, expected performance, and cost comparison vs cloud APIs.",
-      "content_hash_en": "8c9619dbdc738bf97fed170beee147c2ffde3d453cf55ccb310f2a928a9c9ca2",
+      "content_hash_en": "0acf0c876842122a8e95c6bea2b6f0900724631d518cd32a491711ac161b84e8",
       "backlinks": [
         "proxmox-mac-mini-2018-t2",
         "script-update-open_webui-lxc",
@@ -3952,7 +3952,7 @@
     "duckdb-self-hosted-analytics-guide-2026": {
       "slug": "duckdb-self-hosted-analytics-guide-2026",
       "title_en": "DuckDB for Self-Hosted Analytics: Query CSV, Parquet, and JSON in Seconds [2026]",
-      "title_pt": "DuckDB para Análises Auto-Hospedadas: Consulte CSV, Parquet e JSON em Segundos [2026]",
+      "title_pt": "DuckDB para Análises Auto-Hospedadas: Consultas a CSV, Parquet e JSON em Segundos [2026]",
       "tags": [
         "duckdb",
         "database",
@@ -3964,7 +3964,7 @@
         "article"
       ],
       "description_en": "Practical guide to DuckDB for homelab and self-hosted users: install the single binary, query CSV/Parquet/JSON directly, analyze logs and exports without spinning up a database server. Real examples.",
-      "content_hash_en": "3a568bbeb1859710d6925b064d93afe8557842597f43774e256d3fcc64dce3c4",
+      "content_hash_en": "868e077be0795db23e5d22f5f2d439ea1f68bbebba35bfcd782feb7f62db3580",
       "backlinks": [
         "sqlite-wal-corruption-guide-2026",
         "postgresql-performance-best-practices-homelab-2026",
@@ -3988,7 +3988,7 @@
         "article"
       ],
       "description_en": "GitButler is a Git client with virtual branches, CLI and TUI. Honest review after months of use, pricing model and the best alternatives in 2026.",
-      "content_hash_en": "c76450927d690dd2c673a0a9dc3b69dfb734a69811a30b5fd913f2b04ca0d374",
+      "content_hash_en": "b1a2125ec673fb35df492a3f8f63077a7e993b31aa2dfc8e8486203fed8145e3",
       "backlinks": [
         "one-week-review-gitbutler",
         "mastering-git-log-history-guide-2026",
@@ -4012,7 +4012,7 @@
         "article"
       ],
       "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and Proxmox LXC. Backup first, avoid post-update bugs, set up auto-updates with Watchtower.",
-      "content_hash_en": "33ba0d82e7f77dd6cc4c3d91b06974434cf84a25af9e5be0bba864673d37b56a",
+      "content_hash_en": "e5a0ab59e4e9c202f665b8f9d67533ab47554b5a3de47775879765a07a21f9f1",
       "backlinks": [
         "script-update-open_webui-lxc",
         "fix-custom-models-open-webui",
@@ -4036,7 +4036,7 @@
         "article"
       ],
       "description_en": "Proxmox returns HTTP 401 'authentication failure' on login or API? Causes: wrong realm, user lockout, expired ticket, clock skew. Step-by-step fixes with pveum.",
-      "content_hash_en": "de7b4f947109248d6bdc379cd02af019e0d4f5e40337ca2fabcb071d7fe5a190",
+      "content_hash_en": "02fcbbd02ba77a03d91d2c2c1baeea1ae07968b31f7de4bcaeb530002bb40457",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "troubleshooting-proxmox-login-interface",
