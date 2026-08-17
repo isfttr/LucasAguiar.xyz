@@ -1,6 +1,6 @@
 ---
 date: 2026-08-14T18:00:00.000Z
-draft: true
+draft: false
 title: "Auto-hospedagem do RustDesk: Guia de Acesso Remoto Não Assistido [2026]"
 description: "Guia completo para auto-hospedar RustDesk com Docker em 2026: configuração do hbbs/hbbr, portas de firewall, acesso não supervisionado via Wayland e configuração segura do cliente."
 featured_image: ""
