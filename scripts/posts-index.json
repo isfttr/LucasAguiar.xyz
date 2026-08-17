@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T19:14:45.601Z",
+  "last_updated": "2026-08-17T19:24:14.500Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4072,7 +4072,7 @@
     "github-alternatives-self-hosted-comparison-2026": {
       "slug": "github-alternatives-self-hosted-comparison-2026",
       "title_en": "GitHub Alternatives in 2026: Self-Hosted and Managed Options Compared",
-      "title_pt": "Alternativas ao GitHub em 2026: Comparação entre Opções Auto-hospedadas e Gerenciadas",
+      "title_pt": "Alternativas ao GitHub em 2026: Opções Auto-hospedadas e Gerenciadas Comparadas",
       "tags": [
         "git",
         "github",
@@ -4084,7 +4084,7 @@
         "article"
       ],
       "description_en": "Compare Gitea, Forgejo, GitLab CE, Codeberg, SourceHut and Radicle in 2026: self-hosted vs managed, resource use, CI/CD, the 2026 outage record driving migration, and a practical checklist.",
-      "content_hash_en": "1a029331788e5411b3f634151d9c80a42ea70c0247f826a47d2c7fa167e6f0e1",
+      "content_hash_en": "b5b277bb9093a522d67c046fb9c38464dd056ec353237b3a8fdc996460edbce7",
       "backlinks": [
         "containers-vs-vms-complete-guide-2026",
         "containers-vs-vms-complete-guide-2026",
