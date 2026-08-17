@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T18:09:49.301Z",
+  "last_updated": "2026-08-17T19:03:47.861Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3386,7 +3386,7 @@
         "article"
       ],
       "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity limits, arbitration clauses, institutions like CSD-ABPI and WIPO AMC, and a practical step-by-step.",
-      "content_hash_en": "cedb95b22de059d3752bebd5aaeb48e9087d552186138e631b61beb6bdcfb057",
+      "content_hash_en": "bc1a4005b5b59744cbc6bedc02aee6795e9f508a0b1382ae5cf222cd0b4970d4",
       "backlinks": [
         "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
         "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
@@ -3410,7 +3410,7 @@
         "article"
       ],
       "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity, arbitration clause, institutions such as CSD-ABPI and WIPO AMC, and practical step-by-step.",
-      "content_hash_en": "baf67ce8527cf290a399883ea08edf2a9f78f12ecc749de815c2dd09769f5068",
+      "content_hash_en": "fd7c10cbf591aec3145f9f14606d70d7c98ace06965062071f87a666633fce27",
       "backlinks": [
         "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
         "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
@@ -4072,7 +4072,7 @@
     "github-alternatives-self-hosted-comparison-2026": {
       "slug": "github-alternatives-self-hosted-comparison-2026",
       "title_en": "GitHub Alternatives in 2026: Self-Hosted and Managed Options Compared",
-      "title_pt": "GitHub Alternatives in 2026: Self-Hosted and Managed Options Compared",
+      "title_pt": "Alternativas ao GitHub em 2026: Opções Auto-Hospedadas e Gerenciadas Comparadas",
       "tags": [
         "git",
         "github",
@@ -4083,12 +4083,12 @@
       "categories": [
         "article"
       ],
-      "description_en": "Compare Gitea, Forgejo, GitLab CE, Codeberg, SourceHut and Radicle in 2026: self-hosted vs managed, resource use, CI/CD, and a practical migration checklist.",
-      "content_hash_en": "e775daae5455a38b84e377091021f2fa2ede87cbe25ac0b4f3200a62aa8462bf",
+      "description_en": "Compare Gitea, Forgejo, GitLab CE, Codeberg, SourceHut and Radicle in 2026: self-hosted vs managed, resource use, CI/CD, the 2026 outage record driving migration, and a practical checklist.",
+      "content_hash_en": "c572487842155139141170bf3bcdbd8adb5f864b1b60f202077a813bd856880b",
       "backlinks": [
         "containers-vs-vms-complete-guide-2026",
-        "gitbutler-what-is-review-alternatives-2026",
-        "stacked-pull-requests-guide-2026"
+        "containers-vs-vms-complete-guide-2026",
+        "gitbutler-what-is-review-alternatives-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
