@@ -33,6 +33,7 @@ And the model list should show your custom models.
 
 Read also:
 
+- [How to Update Open WebUI [2026]: Complete Guide (Docker, pip & LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
 - [Update Open WebUI in a Proxmox LXC: Bash Script + Cron [2026]]({{< relref "posts/script-update-open_webui-lxc/" >}})
 - [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 - [Fix Proxmox Web Interface Login Errors: Missing access.cfg [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})

@@ -104,6 +104,7 @@ crontab -e
 
 Read also:
 
+- [How to Update Open WebUI [2026]: Complete Guide (Docker, pip & LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
 - [Fix Proxmox Web Interface Login Errors: Missing access.cfg [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 - [Open WebUI Missing Custom Models? How to Fix the Bug [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 - [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})

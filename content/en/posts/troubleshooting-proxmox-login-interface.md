@@ -154,6 +154,7 @@ By implementing these preventative measures, you can significantly reduce the ri
 
 Read also:
 
+- [Proxmox 401 'authentication failure': Fix Login and API Errors [2026]]({{< relref "posts/proxmox-401-authentication-failure-fix-2026/" >}})
 - [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
 - [Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
 - [Update Open WebUI in a Proxmox LXC: Bash Script + Cron [2026]]({{< relref "posts/script-update-open_webui-lxc/" >}})

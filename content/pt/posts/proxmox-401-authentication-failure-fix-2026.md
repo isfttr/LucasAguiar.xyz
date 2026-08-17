@@ -1,6 +1,6 @@
 ---
 date: 2026-08-17T11:16:25-03:00
-draft: true
+draft: false
 title: "Proxmox 401 'authentication failure': Corrija Erros de Login e API [2026]"
 description: "O Proxmox retorna HTTP 401 'authentication failure' no login ou na API? Causas: realm errado, usuário bloqueado, ticket expirado, relógio dessincronizado. Correções com pveum."
 featured_image: ""

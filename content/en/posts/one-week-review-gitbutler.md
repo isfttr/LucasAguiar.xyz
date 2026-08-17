@@ -97,6 +97,7 @@ If you frequently work on multiple features in parallel or find yourself frustra
 
 Read also:
 
+- [GitButler: What It Is, Review & Alternatives [2026]]({{< relref "posts/gitbutler-what-is-review-alternatives-2026/" >}})
 - [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
 - [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 - [From Procrastination to Progress: How AI has helped me]({{< relref "posts/ai-beats-procrastination/" >}})

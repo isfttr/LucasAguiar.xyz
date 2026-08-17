@@ -1,9 +1,9 @@
 ---
-date: 2026-08-17T14:16:25.000Z
-draft: true
-title: 'GitButler: What It Is, Review & Alternatives [2026]'
-description: GitButler is a Git client with virtual branches, CLI and TUI. Honest review after months of use, pricing model and the best alternatives in 2026.
-featured_image: ''
+date: 2026-08-17T11:16:25-03:00
+draft: false
+title: "GitButler: What It Is, Review & Alternatives [2026]"
+description: "GitButler is a Git client with virtual branches, CLI and TUI. Honest review after months of use, pricing model and the best alternatives in 2026."
+featured_image: ""
 categories:
   - article
 tags:

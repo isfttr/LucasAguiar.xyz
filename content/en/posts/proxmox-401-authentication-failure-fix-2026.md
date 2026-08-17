@@ -1,9 +1,9 @@
 ---
-date: 2026-08-17T14:16:25.000Z
-draft: true
-title: 'Proxmox 401 ''authentication failure'': Fix Login and API Errors [2026]'
-description: 'Proxmox returns HTTP 401 ''authentication failure'' on login or API? Causes: wrong realm, user lockout, expired ticket, clock skew. Step-by-step fixes with pveum.'
-featured_image: ''
+date: 2026-08-17T11:16:25-03:00
+draft: false
+title: "Proxmox 401 'authentication failure': Fix Login and API Errors [2026]"
+description: "Proxmox returns HTTP 401 'authentication failure' on login or API? Causes: wrong realm, user lockout, expired ticket, clock skew. Step-by-step fixes with pveum."
+featured_image: ""
 categories:
   - article
 tags:

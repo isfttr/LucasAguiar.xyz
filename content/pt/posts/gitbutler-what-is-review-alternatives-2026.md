@@ -1,6 +1,6 @@
 ---
 date: 2026-08-17T11:16:25-03:00
-draft: true
+draft: false
 title: "GitButler: O Que É, Review e Alternativas [2026]"
 description: "GitButler é um cliente Git com virtual branches, CLI e TUI. Review honesto após meses de uso, modelo de preço e as melhores alternativas em 2026."
 featured_image: ""
