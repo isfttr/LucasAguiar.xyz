@@ -17,7 +17,7 @@ translation_source_hash: 09ca74b3746b3806cc9f2ce4810911df55926cce9456e892549bc87
 ---
 Disputas envolvendo patentes, marcas, segredos comerciais e contratos de tecnologia estão entre os casos mais caros e lentos nos tribunais brasileiros. Quando o assunto é técnico — uma patente de biotecnologia, uma cláusula de royalties, um acordo de coexistência de marcas — a arbitragem passou de alternativa de nicho a instrumento estratégico.
 
-O interesse pelo tema está crescendo. Em 2026, a IAM publicou a [quarta edição do Guia de Arbitragem em PI](https://www.iam-media.com/guide/the-guide-ip-arbitration/fourth-edition), o CSD-ABPI (centro brasileiro de resolução de disputas de PI) completou 15 anos de atuação, e o [5º CSD-ABPI Moot]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}}) levou o debate sobre jurisdição arbitral em disputas de marcas e trade dress para estudantes e escritórios de advocacia em todo o país.
+O interesse pelo tema está crescendo. Em 2026, a IAM publicou a [quarta edição do Guia de Arbitragem em PI](https://www.iam-media.com/guide/the-guide-ip-arbitration/fourth-edition), o CSD-ABPI (centro brasileiro de resolução de disputas de PI) completou 15 anos de atuação, e o 5º CSD-ABPI Moot levou o debate sobre jurisdição arbitral em disputas de marcas e trade dress para estudantes e escritórios de advocacia em todo o país.
 
 Este guia cobre o que realmente importa na prática: o que pode e o que não pode ser arbitrado em PI no Brasil, por que usar arbitragem, quais instituições escolher e como estruturar a cláusula arbitral.
 
@@ -53,7 +53,7 @@ O limite mais importante diz respeito à **validade do registro** concedido pelo
 - **Patentes:** a [ação de nulidade (Artigo 56 da Lei de Propriedade Industrial — LPI)](https://www.planalto.gov.br/ccivil_03/leis/l9279.htm) pode ser ajuizada a qualquer momento durante o prazo de vigência da patente, pelo INPI ou por qualquer pessoa com interesse legítimo, e é proposta perante a **Justiça Federal**, com intervenção obrigatória do INPI (Artigo 57).
 - **Marcas:** o registro concedido em desacordo com a lei é nulo (Artigo 165 da LPI), e a nulidade pode ser declarada administrativamente pelo próprio INPI ou judicialmente.
 
-Isso não significa que a validade esteja completamente fora da arbitragem: em **disputas entre particulares**, os árbitros podem analisar a validade como **questão incidental** (por exemplo, para decidir se um licenciado deve pagar royalties por uma patente que alega ser inválida), desde que a decisão produza efeitos apenas entre as partes — nunca erga omnes, como em uma ação de nulidade judicial. Esse é exatamente o tipo de discussão levantada pelo [caso do 5º CSD-ABPI Moot]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}}): até onde vai a jurisdição arbitral quando contrato e registro se cruzam?
+Isso não significa que a validade esteja completamente fora da arbitragem: em **disputas entre particulares**, os árbitros podem analisar a validade como **questão incidental** (por exemplo, para decidir se um licenciado deve pagar royalties por uma patente que alega ser inválida), desde que a decisão produza efeitos apenas entre as partes — nunca erga omnes, como em uma ação de nulidade judicial. Esse é exatamente o tipo de discussão levantada pelo caso do 5º CSD-ABPI Moot: até onde vai a jurisdição arbitral quando contrato e registro se cruzam?
 
 ## Por que arbitrar disputas de PI
 
@@ -119,8 +119,7 @@ Desde a Lei 13.129/2015, universidades, institutos de pesquisa e demais entidade
 
 Leia também:
 
-- [5º CSD-ABPI Moot: Últimos Dias para Inscrição na Competição de Arbitragem em PI [2026]]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}})
-- [5º CSD-ABPI Moot: Últimos Dias para Inscrição na Competição de Arbitragem em PI [2026]]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}})
+- [Arbitragem de PI no Brasil: Guia Completo [2026]]({{< relref "posts/arbitration-ip-brazil-complete-guide-2026/" >}})
 - [Registro de Contratos de Transferência de Tecnologia no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
 
 ---

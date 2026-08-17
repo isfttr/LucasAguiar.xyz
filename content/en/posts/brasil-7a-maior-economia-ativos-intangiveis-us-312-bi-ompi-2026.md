@@ -93,7 +93,6 @@ For those working with IP, innovation, and industrial policy, this is a landmark
 
 Read also:
 
-- [IP in Sport: WIPO Reveals Patent and Trademark Boom [2026]]({{< relref "posts/pi-esporte-dados-ompi-2026/" >}})
 - [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 - [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 

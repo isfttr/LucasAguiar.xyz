@@ -17,7 +17,7 @@ translation_source_hash: fce588f07c73442daabb6ba745c73bd497c87293d14dc2a8d586fe8
 ---
 Disputes involving patents, trademarks, trade secrets, and technology contracts are among the most expensive and time-consuming in the Brazilian Judiciary. When the subject matter is technical — a biotechnology patent, a royalty clause, a trademark coexistence agreement — arbitration has ceased to be a niche alternative and has become a strategic tool.
 
-Interest in the topic is growing: in 2026, IAM published the [fourth edition of the Guide to IP Arbitration](https://www.iam-media.com/guide/the-guide-ip-arbitration/fourth-edition), CSD-ABPI completed 15 years of operation, and the [5th CSD-ABPI Moot]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}}) brought the debate on arbitral jurisdiction in trademark and trade dress disputes to students and law firms across the country.
+Interest in the topic is growing: in 2026, IAM published the [fourth edition of the Guide to IP Arbitration](https://www.iam-media.com/guide/the-guide-ip-arbitration/fourth-edition), CSD-ABPI completed 15 years of operation, and the 5th CSD-ABPI Moot brought the debate on arbitral jurisdiction in trademark and trade dress disputes to students and law firms across the country.
 
 This guide covers what really matters in practice: what can and cannot be arbitrated in IP in Brazil, why to use arbitration, which institutions to choose, and how to structure the arbitration clause.
 
@@ -53,7 +53,7 @@ The most important limit lies in the **validity of the registration** granted by
 - **Patents:** the [nullity action (Article 56 of the LPI)](https://www.planalto.gov.br/ccivil_03/leis/l9279.htm) may be filed at any time during its term, by the INPI or by any person with legitimate interest, and is brought before the **Federal Court**, with mandatory intervention by the INPI (Article 57).
 - **Trademarks:** a registration granted in disagreement with the law is null (Article 165 of the LPI), and nullity may be declared administratively by the INPI itself or judicially.
 
-This does not mean that validity is outside arbitration in all scenarios: in disputes **between private parties**, arbitrators may analyze validity as an **incidental issue** (for example, to decide whether a licensee must pay royalties for a patent that it claims is invalid), provided the decision produces effects only between the parties — never erga omnes, as would occur in judicial nullity ruling. That is exactly the type of discussion that the [case of the 5th CSD-ABPI Moot]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}}) brought to the debate: how far does arbitral jurisdiction go when contract and registration intersect.
+This does not mean that validity is outside arbitration in all scenarios: in disputes **between private parties**, arbitrators may analyze validity as an **incidental issue** (for example, to decide whether a licensee must pay royalties for a patent that it claims is invalid), provided the decision produces effects only between the parties — never erga omnes, as would occur in judicial nullity ruling. That is exactly the type of discussion that the case of the 5th CSD-ABPI Moot brought to the debate: how far does arbitral jurisdiction go when contract and registration intersect.
 
 ## Why arbitrate IP disputes
 
@@ -119,8 +119,7 @@ Since Law 13.129/2015, universities, research institutes, and other entities of 
 
 Read also:
 
-- [5th CSD-ABPI Moot: Last Days for Registration in the IP Arbitration Competition [2026]]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}})
-- [5th CSD-ABPI Moot: Last Days for Registration in the IP Arbitration Competition [2026]]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}})
+- [Intellectual Property Arbitration in Brazil: Complete Guide [2026]]({{< relref "posts/arbitragem-propriedade-intelectual-brasil-guia-2026/" >}})
 - [Registration of Technology Transfer Contracts at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
 
 ---

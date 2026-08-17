@@ -92,7 +92,6 @@ Para quem trabalha com PI, inovação e política industrial, este é um marco d
 
 Leia também:
 
-- [PI no Esporte: OMPI Revela Boom de Patentes e Marcas [2026]]({{< relref "posts/pi-esporte-dados-ompi-2026/" >}})
 - [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 - [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 

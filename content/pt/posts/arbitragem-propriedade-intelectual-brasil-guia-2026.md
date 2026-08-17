@@ -16,7 +16,7 @@ tags:
 
 Disputas envolvendo patentes, marcas, segredos de negócio e contratos de tecnologia estão entre as mais caras e demoradas do Judiciário brasileiro. Quando o objeto é técnico — uma patente de biotecnologia, uma cláusula de royalties, um acordo de coexistência de marcas — a arbitragem deixou de ser alternativa de nicho e virou instrumento estratégico.
 
-O interesse pelo tema cresce: em 2026, a IAM publicou a [quarta edição do Guide to IP Arbitration](https://www.iam-media.com/guide/the-guide-ip-arbitration/fourth-edition), o CSD-ABPI completou 15 anos de operação e o [5º CSD-ABPI Moot]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}}) levou a discussão sobre competência arbitral em disputas de marcas e trade dress para estudantes e escritórios de todo o país.
+O interesse pelo tema cresce: em 2026, a IAM publicou a [quarta edição do Guide to IP Arbitration](https://www.iam-media.com/guide/the-guide-ip-arbitration/fourth-edition), o CSD-ABPI completou 15 anos de operação e o 5º CSD-ABPI Moot levou a discussão sobre competência arbitral em disputas de marcas e trade dress para estudantes e escritórios de todo o país.
 
 Este guia cobre o que realmente importa na prática: o que pode e o que não pode ser arbitrado em PI no Brasil, por que usar arbitragem, quais instituições escolher e como estruturar a cláusula compromissória.
 
@@ -52,7 +52,7 @@ O limite mais importante está na **validade do registro** concedido pelo INPI. 
 - **Patentes:** a [ação de nulidade (art. 56 da LPI)](https://www.planalto.gov.br/ccivil_03/leis/l9279.htm) pode ser proposta a qualquer tempo da vigência, pelo INPI ou por qualquer pessoa com legítimo interesse, e é ajuizada na **Justiça Federal**, com intervenção obrigatória do INPI (art. 57).
 - **Marcas:** o registro concedido em desacordo com a lei é nulo (art. 165 da LPI), e a nulidade pode ser declarada administrativamente pelo próprio INPI ou judicialmente.
 
-Isso não significa que a validade esteja fora da arbitragem em todos os cenários: em disputas **entre particulares**, os árbitros podem analisar a validade como **questão incidental** (por exemplo, para decidir se um licenciado deve royalties por uma patente que ele alega inválida), desde que a decisão produza efeitos apenas entre as partes — nunca erga omnes, como ocorreria na nulidade judicial. Esse é exatamente o tipo de discussão que o [caso do 5º CSD-ABPI Moot]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}}) colocou em debate: até onde vai a competência arbitral quando o contrato e o registro se cruzam.
+Isso não significa que a validade esteja fora da arbitragem em todos os cenários: em disputas **entre particulares**, os árbitros podem analisar a validade como **questão incidental** (por exemplo, para decidir se um licenciado deve royalties por uma patente que ele alega inválida), desde que a decisão produza efeitos apenas entre as partes — nunca erga omnes, como ocorreria na nulidade judicial. Esse é exatamente o tipo de discussão que o caso do 5º CSD-ABPI Moot colocou em debate: até onde vai a competência arbitral quando o contrato e o registro se cruzam.
 
 ## Por que arbitrar disputas de PI
 
@@ -118,8 +118,7 @@ Desde a Lei 13.129/2015, universidades, institutos de pesquisa e demais entidade
 
 Leia também:
 
-- [5º CSD-ABPI Moot: Últimos Dias para Inscrição na Competição de Arbitragem em PI [2026]]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}})
-- [5º CSD-ABPI Moot: Últimos Dias para Inscrição na Competição de Arbitragem em PI [2026]]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}})
+- [Arbitragem em Propriedade Intelectual no Brasil: Guia Completo [2026]]({{< relref "posts/arbitragem-propriedade-intelectual-brasil-guia-2026/" >}})
 - [Registro de Contratos de Transferência de Tecnologia no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
 
 ---

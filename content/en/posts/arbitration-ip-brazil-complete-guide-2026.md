@@ -16,7 +16,7 @@ tags:
 
 Disputes involving patents, trademarks, trade secrets and technology contracts are among the most expensive and slow-moving cases in the Brazilian courts. When the subject matter is technical — a biotech patent, a royalty clause, a trademark coexistence agreement — arbitration has moved from a niche alternative to a strategic instrument.
 
-Interest in the topic is growing. In 2026, IAM published the [fourth edition of the Guide to IP Arbitration](https://www.iam-media.com/guide/the-guide-ip-arbitration/fourth-edition), CSD-ABPI (the Brazilian IP dispute resolution center) marked 15 years of operation, and the [5th CSD-ABPI Moot]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}}) brought the debate on arbitral jurisdiction in trademark and trade dress disputes to students and law firms across the country.
+Interest in the topic is growing. In 2026, IAM published the [fourth edition of the Guide to IP Arbitration](https://www.iam-media.com/guide/the-guide-ip-arbitration/fourth-edition), CSD-ABPI (the Brazilian IP dispute resolution center) marked 15 years of operation, and the 5th CSD-ABPI Moot brought the debate on arbitral jurisdiction in trademark and trade dress disputes to students and law firms across the country.
 
 This guide covers what actually matters in practice: what can and cannot be arbitrated in IP in Brazil, why use arbitration, which institutions to choose, and how to structure the arbitration clause.
 
@@ -52,7 +52,7 @@ The most important limit concerns the **validity of the registration** granted b
 - **Patents:** the [nullity action (Article 56 of the Brazilian Industrial Property Law — LPI)](https://www.planalto.gov.br/ccivil_03/leis/l9279.htm) may be filed at any time during the patent's term, by the INPI or by any person with a legitimate interest, and is brought before the **Federal Courts**, with mandatory intervention by the INPI (Article 57).
 - **Trademarks:** a registration granted contrary to the law is null (Article 165 of the LPI), and nullity may be declared administratively by the INPI itself or judicially.
 
-This does not mean validity is completely outside arbitration: in **disputes between private parties**, arbitrators may analyze validity as an **incidental question** (for example, to decide whether a licensee must pay royalties for a patent it claims is invalid), as long as the decision produces effects only between the parties — never erga omnes, as in a judicial nullity action. This is exactly the type of discussion raised by the [5th CSD-ABPI Moot case]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}}): how far does arbitral jurisdiction go when contract and registration intersect?
+This does not mean validity is completely outside arbitration: in **disputes between private parties**, arbitrators may analyze validity as an **incidental question** (for example, to decide whether a licensee must pay royalties for a patent it claims is invalid), as long as the decision produces effects only between the parties — never erga omnes, as in a judicial nullity action. This is exactly the type of discussion raised by the 5th CSD-ABPI Moot case: how far does arbitral jurisdiction go when contract and registration intersect?
 
 ## Why arbitrate IP disputes
 
@@ -118,8 +118,7 @@ Since Law 13.129/2015, universities, research institutes and other public admini
 
 Read also:
 
-- [5th CSD-ABPI Moot: Last Days for Registration in the IP Arbitration Competition [2026]]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}})
-- [5th CSD-ABPI Moot: Last Days for Registration in the IP Arbitration Competition [2026]]({{< relref "posts/csd-abpi-moot-2026-inscricoes-arbitragem-pi/" >}})
+- [IP Arbitration in Brazil: Complete Guide [2026]]({{< relref "posts/arbitration-ip-brazil-complete-guide-2026/" >}})
 - [Registration of Technology Transfer Contracts at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
 
 ---
