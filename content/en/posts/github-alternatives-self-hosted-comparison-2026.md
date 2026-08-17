@@ -14,8 +14,6 @@ tags:
   - version-control
 ---
 
-It's Sunday night, your deploy window is closing, and GitHub just went down — again. Or maybe nothing dramatic happened: you simply opened your feed and the AI assistant you never asked for was there, waiting to "help", while yet another debate about AI-generated code and content watermarking raged on. So you type the question into Hacker News: "Alternatives to GitHub?" Within hours it has 357 points and nearly 200 comments. You are not alone — and the good news is that in 2026 the answer is better than "just switch to GitLab".
-
 This guide is a practical, decision-oriented tour of the real alternatives: the self-hosted lightweight forges (Gitea, Forgejo, Gogs), the full platform (GitLab CE), the hosted non-profit (Codeberg), the minimalist (SourceHut), and the fully decentralized (Radicle). For each one: what it is, what it costs, what it weighs, and who it's for — plus a migration checklist at the end.
 
 ## The landscape at a glance
