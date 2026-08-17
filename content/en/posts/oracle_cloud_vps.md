@@ -2,7 +2,7 @@
 date: 2024-04-24T22:33:19-03:00
 draft: false
 title: Using Oracle Cloud Free tier
-description:
+description: "Oracle Cloud Free Tier in 2026: step-by-step setup with Tailscale and Docker, what still works on the Always Free tier, and free VPS alternatives."
 url: "/oracle_cloud_free_tier"
 featured_image: "/images/oracle_cloud_vps_thumb.png"
 categories:

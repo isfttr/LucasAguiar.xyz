@@ -1,8 +1,8 @@
 ---
 date: 2025-03-08T03:47:39.000Z
 draft: false
-title: Script for Updating Open WebUI in a Proxmox LXC
-description: null
+title: "Update Open WebUI in a Proxmox LXC: Bash Script + Cron [2026]"
+description: "How to update Open WebUI inside a Proxmox LXC with a single bash script: git pull, build and restart. Includes cron setup for automatic updates [2026]."
 url: ''
 featured_image: /images/open-webui-script-thumb.png
 categories:

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  <head>
+    <title>{{ .Permalink }}</title>
+    <link rel="canonical" href="{{ .Permalink }}">
+    <meta name="robots" content="noindex">
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; url={{ .Permalink }}">
+  </head>
+  <body>
+    <p>This page has moved. Redirecting to <a href="{{ .Permalink }}">the new location</a>.</p>
+  </body>
+</html>

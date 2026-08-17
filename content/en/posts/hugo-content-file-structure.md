@@ -2,7 +2,7 @@
 date: 2024-03-24T13:58:55-03:00
 draft: false
 title: Hugo Content File Structure
-description:
+description: "Hugo content file structure explained: how to organize posts by language, content directories and the role of _index.md files. Beginner guide."
 url: "/hugo-content-file-structure"
 featured_image: "/images/hugo-file-manager.png"
 categories:

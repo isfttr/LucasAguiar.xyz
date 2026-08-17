@@ -2,7 +2,7 @@
 date: 2024-03-24T16:58:55.000Z
 draft: false
 title: Estrutura de Ficheiros de Conteúdo Hugo
-description: null
+description: "Estrutura de arquivos de conteúdo do Hugo explicada: como organizar posts por idioma, diretórios de conteúdo e o papel dos arquivos _index.md. Guia para iniciantes."
 url: /hugo-content-file-structure
 featured_image: /images/hugo-file-manager.png
 categories:

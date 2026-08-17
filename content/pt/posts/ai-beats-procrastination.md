@@ -2,7 +2,7 @@
 date: 2025-04-13T04:39:56.000Z
 draft: false
 title: 'Da Procrastinação ao Progresso: Como a IA me tem ajudado'
-description: ''
+description: "Da procrastinação ao progresso: como usei a IA para vencer a inércia em tarefas criativas e técnicas — métodos práticos e resultados reais."
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-ai-procrastination.png
 categories:

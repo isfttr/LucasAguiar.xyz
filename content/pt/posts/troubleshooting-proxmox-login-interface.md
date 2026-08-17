@@ -1,8 +1,8 @@
 ---
 date: 2025-03-13T23:29:45-03:00
 draft: false
-title: "Corrigindo Erros de Login na Interface Web do Proxmox: Guia Passo a Passo"
-description:
+title: "Erros de Login na Interface Web do Proxmox: Solução Passo a Passo [2026]"
+description: "Corrija o erro 'authentication failure' ao entrar na interface web do Proxmox: access.cfg ausente, quorum do corosync e restart do pveproxy. Guia passo a passo."
 url: ""
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-proxmox-login-error.png
 categories:

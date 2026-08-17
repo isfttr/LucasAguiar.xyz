@@ -2,7 +2,7 @@
 date: 2025-04-13T04:39:56.000Z
 draft: false
 title: 'From Procrastination to Progress: How AI has helped me'
-description: null
+description: "From procrastination to progress: how I used AI to overcome inertia in creative and technical tasks — practical methods and real results."
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-ai-procrastination.png
 categories:

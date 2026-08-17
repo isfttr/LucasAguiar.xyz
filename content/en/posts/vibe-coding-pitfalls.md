@@ -2,7 +2,7 @@
 date: 2025-03-20T16:01:03.000Z
 draft: false
 title: Why I'm Breaking Up With Vibe Coding
-description: null
+description: "Why I'm breaking up with vibe coding: the real pitfalls of letting AI write code without review — and the workflow that started working for me."
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-vibe-coding-v2.png
 categories:

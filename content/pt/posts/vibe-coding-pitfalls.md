@@ -2,7 +2,7 @@
 date: 2025-03-20T13:01:03-03:00
 draft: false
 title: Por Que Estou Terminando Com o Vibe Coding
-description:
+description: "Por que estou terminando com o vibe coding: as armadilhas reais de deixar a IA escrever código sem revisão — e o fluxo de trabalho que passou a funcionar para mim."
 url: ""
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-vibe-coding-v2.png
 categories:
