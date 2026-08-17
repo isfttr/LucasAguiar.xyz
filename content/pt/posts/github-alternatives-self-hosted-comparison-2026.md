@@ -1,6 +1,6 @@
 ---
 date: 2026-08-17T18:10:00.000Z
-draft: true
+draft: false
 title: 'Alternativas ao GitHub em 2026: Comparação entre Opções Auto-hospedadas e Gerenciadas'
 description: 'Compare Gitea, Forgejo, GitLab CE, Codeberg, SourceHut e Radicle em 2026: auto-hospedado vs gerenciado, uso de recursos, CI/CD, o histórico de indisponibilidades de 2026 que impulsiona a migração, e um checklist prático.'
 featured_image: ''
