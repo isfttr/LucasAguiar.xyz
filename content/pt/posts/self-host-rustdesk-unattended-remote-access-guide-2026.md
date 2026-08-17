@@ -1,9 +1,9 @@
 ---
 date: 2026-08-14T18:00:00.000Z
 draft: true
-title: 'Auto-hospedagem do RustDesk: Guia de Acesso Remoto Não Assistido [2026]'
-description: 'Guia completo para auto-hospedar RustDesk com Docker em 2026: configuração do hbbs/hbbr, portas de firewall, acesso não supervisionado via Wayland e configuração segura do cliente.'
-featured_image: ''
+title: "Auto-hospedagem do RustDesk: Guia de Acesso Remoto Não Assistido [2026]"
+description: "Guia completo para auto-hospedar RustDesk com Docker em 2026: configuração do hbbs/hbbr, portas de firewall, acesso não supervisionado via Wayland e configuração segura do cliente."
+featured_image: ""
 categories:
   - article
 tags:
@@ -16,8 +16,6 @@ tags:
 slug: rustdesk-autohospedagem-acesso-remoto-nao-assistido
 translation_source_hash: 9d9bd9d4f02a760604da764a83bb0afcd27d31959f90d6133ae6fd12a12c32cf
 ---
-São 23h de uma quarta-feira e seu servidor doméstico está a mil quilômetros de distância — ou pior, na sala ao lado com uma tela de login morta. Você precisa corrigir uma configuração, pegar um arquivo ou reiniciar um serviço, e a única coisa entre você e a máquina é um cliente de área de trabalho remota que exige que alguém aprove fisicamente a sessão. Se você já ficou trancado para fora do seu próprio hardware porque uma ferramenta remota comercial decidiu que Wayland era "experimental", este guia é para você.
-
 RustDesk é a resposta open-source: uma alternativa ao TeamViewer/AnyDesk que você pode executar inteiramente na sua própria infraestrutura. Este guia aborda por que você deve fazer auto-hospedagem, como implantar o servidor com Docker Compose e como obter acesso verdadeiramente não assistido — incluindo o suporte a Wayland que chegou em agosto de 2026.
 
 ## Por que RustDesk, e por que auto-hospedá-lo
