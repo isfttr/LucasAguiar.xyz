@@ -1,9 +1,9 @@
 ---
-date: 2026-08-17T11:16:25-03:00
+date: 2026-08-17T14:16:25.000Z
 draft: true
-title: "Proxmox 401 'authentication failure': Fix Login and API Errors [2026]"
-description: "Proxmox returns HTTP 401 'authentication failure' on login or API? Causes: wrong realm, user lockout, expired ticket, clock skew. Step-by-step fixes with pveum."
-featured_image: ""
+title: 'Proxmox 401 ''authentication failure'': Fix Login and API Errors [2026]'
+description: 'Proxmox returns HTTP 401 ''authentication failure'' on login or API? Causes: wrong realm, user lockout, expired ticket, clock skew. Step-by-step fixes with pveum.'
+featured_image: ''
 categories:
   - article
 tags:
@@ -12,6 +12,7 @@ tags:
   - linux
   - homelab
   - authentication
+translation_source_hash: a613c06484e14755d0d95ae6cd9978b52a4f77fc98f13ff3562f5197c44e2bc9
 ---
 
 You open the Proxmox web interface, type your credentials, and nothing happens. The browser's dev tools show a red `401` in the network tab. Or worse: your automation script that worked yesterday now fails with the same code. "authentication failure" is the single most common Proxmox login error — and in most cases it's not a server problem, it's a small configuration detail. Here's how to diagnose and fix it.

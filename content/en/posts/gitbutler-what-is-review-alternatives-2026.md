@@ -1,9 +1,9 @@
 ---
-date: 2026-08-17T11:16:25-03:00
+date: 2026-08-17T14:16:25.000Z
 draft: true
-title: "GitButler: What It Is, Review & Alternatives [2026]"
-description: "GitButler is a Git client with virtual branches, CLI and TUI. Honest review after months of use, pricing model and the best alternatives in 2026."
-featured_image: ""
+title: 'GitButler: What It Is, Review & Alternatives [2026]'
+description: GitButler is a Git client with virtual branches, CLI and TUI. Honest review after months of use, pricing model and the best alternatives in 2026.
+featured_image: ''
 categories:
   - article
 tags:
@@ -12,6 +12,7 @@ tags:
   - developer-tools
   - version-control
   - productivity
+translation_source_hash: cf8e2b15834543c7f425ff55af612f4efcdcbf652f971011b9bf0427d75bf7a7
 ---
 
 You are mid-task on a feature, your team lead asks you to hotfix a production bug, and your working tree is a graveyard of half-finished changes. Classic Git. You stash, switch, stash again, and pray you remember which stash was which. This is exactly the problem GitButler set out to kill — and after using it on and off since 2025, I think it mostly succeeds.

@@ -1,9 +1,9 @@
 ---
-date: 2026-08-17T11:16:25-03:00
+date: 2026-08-17T14:16:25.000Z
 draft: true
-title: "How to Update Open WebUI [2026]: Complete Guide (Docker, pip & LXC)"
-description: "How to update Open WebUI in 2026: Docker Compose, pip/uv and Proxmox LXC. Backup first, avoid post-update bugs, set up auto-updates with Watchtower."
-featured_image: ""
+title: 'How to Update Open WebUI [2026]: Complete Guide (Docker, pip & LXC)'
+description: 'How to update Open WebUI in 2026: Docker Compose, pip/uv and Proxmox LXC. Backup first, avoid post-update bugs, set up auto-updates with Watchtower.'
+featured_image: ''
 categories:
   - article
 tags:
@@ -12,6 +12,7 @@ tags:
   - docker
   - proxmox
   - self-hosted
+translation_source_hash: 72c2d966a749493aac3672cdba1ec134ffb552c13d24e2b7e8f90fc27de40ca8
 ---
 
 Open WebUI is one of the most self-hosted AI interfaces out there, but updating it confuses people because there is no single command — the correct update depends entirely on how you installed it. Docker, pip and a Proxmox LXC each have their own flow. This guide consolidates all three, in the order you should think about them: backup, update, verify.
