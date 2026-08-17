@@ -105,9 +105,9 @@ Backup antes de todo update, `WEBUI_SECRET_KEY` estável, versão fixada para qu
 
 Leia também:
 
-- [Script para Atualizar Open WebUI em um LXC Proxmox [2026]]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Script para Atualizar Open WebUI em um LXC Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}})
 - [Open WebUI: Modelos Customizados Não Aparecem? Solução Passo a Passo [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
-- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
 ---
 

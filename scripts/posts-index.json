@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T18:09:05.633Z",
+  "last_updated": "2026-08-17T14:20:00.140Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -84,8 +84,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "",
-      "content_hash_en": "7a91e1a233af0f5294bde2f7f4c4c202d2f95333226563cbfbba9c8b0e582e6c",
+      "description_en": "From procrastination to progress: how I used AI to overcome inertia in creative and technical tasks — practical methods and real results.",
+      "content_hash_en": "483760c91bbaa2aa7bfc066e79952eb536a3983123c1e9c91cf4f1f6dece90c5",
       "backlinks": [
         "experience-with-cursor-and-windsurf",
         "vibe-coding-pitfalls",
@@ -264,7 +264,7 @@
     },
     "fix-custom-models-open-webui": {
       "slug": "fix-custom-models-open-webui",
-      "title_en": "How to fix the Missing Custom Models bug",
+      "title_en": "Open WebUI Missing Custom Models? How to Fix the Bug [2026]",
       "title_pt": "Open WebUI: Modelos Customizados Não Aparecem? Solução Passo a Passo [2026]",
       "tags": [
         "open-webui",
@@ -273,8 +273,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "",
-      "content_hash_en": "497b1977fbefe5e492e847bbe28bef04ae94bdc071dde9329a7b090fc6e6d81d",
+      "description_en": "Open WebUI custom models not showing? Fix the missing models bug with the right OpenAI API and Direct Connections configuration. Step-by-step guide [2026].",
+      "content_hash_en": "02c27b3ecd8cd5301f0fb901bb12902078379a6f3476b7507de97d20b99cbf9f",
       "backlinks": [
         "script-update-open_webui-lxc",
         "creating-my-ai-assistant-locally",
@@ -346,8 +346,8 @@
       "categories": [
         "articles"
       ],
-      "description_en": "",
-      "content_hash_en": "cec107eb4d602ae570556afc9d27e30b216b1609d6b8bb75807490526d51b703",
+      "description_en": "Hugo content file structure explained: how to organize posts by language, content directories and the role of _index.md files. Beginner guide.",
+      "content_hash_en": "2cc52dd08bcb85afbae4e229ec714092ff2962d06bfe87b0edab601471295b1d",
       "backlinks": [
         "newsletter-beehiiv-cloudflare-github",
         "oracle_cloud_vps",
@@ -547,8 +547,8 @@
         "article",
         "tutorial"
       ],
-      "description_en": "",
-      "content_hash_en": "1c58c1cf082f1970868b8ace3aae0cbfb98d2c600c1fd6a4660421dee597cfd3",
+      "description_en": "Oracle Cloud Free Tier in 2026: step-by-step setup with Tailscale and Docker, what still works on the Always Free tier, and free VPS alternatives.",
+      "content_hash_en": "afe7521b7c7496ca2d103e5dc038dae42716b1cbf0006013dacae5679286dde0",
       "backlinks": [
         "newsletter-beehiiv-cloudflare-github",
         "nixos-vm1",
@@ -610,7 +610,7 @@
     },
     "script-update-open_webui-lxc": {
       "slug": "script-update-open_webui-lxc",
-      "title_en": "Script for Updating Open WebUI in a Proxmox LXC",
+      "title_en": "Update Open WebUI in a Proxmox LXC: Bash Script + Cron [2026]",
       "title_pt": "Script para Atualizar Open WebUI em um LXC Proxmox",
       "tags": [
         "Linux",
@@ -623,8 +623,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "",
-      "content_hash_en": "6e8f4a9214e1e2f8d94de2d7b91f686258387dcf38587228adf0fc3a96859acf",
+      "description_en": "How to update Open WebUI inside a Proxmox LXC with a single bash script: git pull, build and restart. Includes cron setup for automatic updates [2026].",
+      "content_hash_en": "c9e637dee2384a9a068248f47c4b17203133ab339910452d6bde5ea2bdc56af6",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "fix-custom-models-open-webui",
@@ -661,8 +661,8 @@
     },
     "troubleshooting-proxmox-login-interface": {
       "slug": "troubleshooting-proxmox-login-interface",
-      "title_en": "Fix Proxmox Web Interface Login Errors; a Step-by-Step Guide",
-      "title_pt": "Corrigindo Erros de Login na Interface Web do Proxmox: Guia Passo a Passo",
+      "title_en": "Fix Proxmox Web Interface Login Errors: Missing access.cfg [2026]",
+      "title_pt": "Erros de Login na Interface Web do Proxmox: Solução Passo a Passo [2026]",
       "tags": [
         "linux",
         "proxmox",
@@ -672,8 +672,8 @@
       "categories": [
         "tutorial"
       ],
-      "description_en": "",
-      "content_hash_en": "88d2d41f76777565e890132b77063d750c153ef5fee4467958fb285adc97a9b0",
+      "description_en": "Fix Proxmox 'authentication failure' on login: missing access.cfg, corosync quorum and pveproxy restart. Step-by-step troubleshooting guide [2026].",
+      "content_hash_en": "0ea95ea2b29476c1ff98ee2ffbdf08558ca25dd9c940a23618eb27b9ff5494a3",
       "backlinks": [
         "oracle_cloud_vps",
         "newsletter-beehiiv-cloudflare-github",
@@ -714,8 +714,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "",
-      "content_hash_en": "a92cede720184c18488e3a5f33f6c17b7eb82e417f384328bb96228796f8b177",
+      "description_en": "Why I'm breaking up with vibe coding: the real pitfalls of letting AI write code without review — and the workflow that started working for me.",
+      "content_hash_en": "d0e34d118ef03bc34db2b18295cfee72c3bfdaffaa57b7d995316bc3cdf97347",
       "backlinks": [
         "experience-with-cursor-and-windsurf",
         "ai-beats-procrastination",
@@ -3940,7 +3940,7 @@
         "article"
       ],
       "description_en": "Complete guide to trademark opposition at INPI: 60-day deadline, grounds of art. 124 of LPI, how to file via e-Marcas, costs (R$ 520), applicant's response and appeal. Step by step to oppose and to defend yourself.",
-      "content_hash_en": "8ffc5150484c8b7c15e685a5437d5d79f5b7da09d368edb02b8a8e0c45e08cbb",
+      "content_hash_en": "a28602e981e7e5daa3fde190c9dfb6a33d61f26f2ac83357b5de33c5876e3c99",
       "backlinks": [
         "busca-anterioridade-marcas-inpi-guia-completo",
         "inpi-manual-marcas-alto-renome-protocolo-madri",
@@ -3952,7 +3952,7 @@
     "duckdb-self-hosted-analytics-guide-2026": {
       "slug": "duckdb-self-hosted-analytics-guide-2026",
       "title_en": "DuckDB for Self-Hosted Analytics: Query CSV, Parquet, and JSON in Seconds [2026]",
-      "title_pt": "DuckDB for Self-Hosted Analytics: Query CSV, Parquet, and JSON in Seconds [2026]",
+      "title_pt": "DuckDB para Análises Auto-Hospedadas: Consulte CSV, Parquet e JSON em Segundos [2026]",
       "tags": [
         "duckdb",
         "database",
@@ -3964,11 +3964,83 @@
         "article"
       ],
       "description_en": "Practical guide to DuckDB for homelab and self-hosted users: install the single binary, query CSV/Parquet/JSON directly, analyze logs and exports without spinning up a database server. Real examples.",
-      "content_hash_en": "01ef170ef125f9c107e81a4e8f5237ae83e71906586ab8162c0bb98c8ed35ce2",
+      "content_hash_en": "3a568bbeb1859710d6925b064d93afe8557842597f43774e256d3fcc64dce3c4",
       "backlinks": [
         "sqlite-wal-corruption-guide-2026",
         "postgresql-performance-best-practices-homelab-2026",
-        "postgresql-performance-best-practices-homelab-2026"
+        "sqlite-wal-corruption-guide-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "gitbutler-what-is-review-alternatives-2026": {
+      "slug": "gitbutler-what-is-review-alternatives-2026",
+      "title_en": "GitButler: What It Is, Review & Alternatives [2026]",
+      "title_pt": "GitButler: O Que É, Review e Alternativas [2026]",
+      "tags": [
+        "git",
+        "gitbutler",
+        "developer-tools",
+        "version-control",
+        "productivity"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "GitButler is a Git client with virtual branches, CLI and TUI. Honest review after months of use, pricing model and the best alternatives in 2026.",
+      "content_hash_en": "c76450927d690dd2c673a0a9dc3b69dfb734a69811a30b5fd913f2b04ca0d374",
+      "backlinks": [
+        "one-week-review-gitbutler",
+        "mastering-git-log-history-guide-2026",
+        "stacked-pull-requests-guide-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "how-to-update-open-webui-2026": {
+      "slug": "how-to-update-open-webui-2026",
+      "title_en": "How to Update Open WebUI [2026]: Complete Guide (Docker, pip & LXC)",
+      "title_pt": "Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)",
+      "tags": [
+        "open-webui",
+        "homelab",
+        "docker",
+        "proxmox",
+        "self-hosted"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and Proxmox LXC. Backup first, avoid post-update bugs, set up auto-updates with Watchtower.",
+      "content_hash_en": "33ba0d82e7f77dd6cc4c3d91b06974434cf84a25af9e5be0bba864673d37b56a",
+      "backlinks": [
+        "script-update-open_webui-lxc",
+        "fix-custom-models-open-webui",
+        "containers-vs-vms-complete-guide-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "proxmox-401-authentication-failure-fix-2026": {
+      "slug": "proxmox-401-authentication-failure-fix-2026",
+      "title_en": "Proxmox 401 'authentication failure': Fix Login and API Errors [2026]",
+      "title_pt": "Proxmox 401 'authentication failure': Corrija Erros de Login e API [2026]",
+      "tags": [
+        "proxmox",
+        "troubleshooting",
+        "linux",
+        "homelab",
+        "authentication"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Proxmox returns HTTP 401 'authentication failure' on login or API? Causes: wrong realm, user lockout, expired ticket, clock skew. Step-by-step fixes with pveum.",
+      "content_hash_en": "de7b4f947109248d6bdc379cd02af019e0d4f5e40337ca2fabcb071d7fe5a190",
+      "backlinks": [
+        "troubleshooting-proxmox-login-interface",
+        "troubleshooting-proxmox-login-interface",
+        "troubleshooting-proxmox-login-interface"
       ],
       "backlink_source": "file",
       "last_processed": null

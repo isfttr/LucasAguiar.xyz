@@ -109,8 +109,8 @@ Se ainda estiver travado, estes tópicos da comunidade cobrem o mesmo erro em pr
 Leia também:
 
 - [Erros de Login na Interface Web do Proxmox: Solução Passo a Passo [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
-- [Proxmox Backup Server: instalação via community-scripts e configuração de backups [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
-- [Como migrar do Proxmox VE 8 para o 9: guia passo a passo [2026]]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
+- [Erros de Login na Interface Web do Proxmox: Solução Passo a Passo [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Erros de Login na Interface Web do Proxmox: Solução Passo a Passo [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
 ---
 

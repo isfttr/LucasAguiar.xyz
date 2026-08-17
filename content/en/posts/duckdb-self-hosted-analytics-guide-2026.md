@@ -160,7 +160,7 @@ Read also:
 
 - [SQLite WAL Corruption: How to Detect, Fix and Prevent It in you Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
 - [PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
-- [PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
+- [SQLite WAL Corruption: How to Detect, Fix and Prevent It in you Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
 
 ---
 

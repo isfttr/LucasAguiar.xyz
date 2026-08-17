@@ -95,8 +95,8 @@ This is a simple setup of a private and open source LLM. I tried other ones, usi
 Read also:
 
 - [Obsidian + Copilot]({{< relref "posts/10-obsidian-copilot/" >}})
-- [Script for Updating Open WebUI in a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [How to fix the Missing Custom Models bug]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [Update Open WebUI in a Proxmox LXC: Bash Script + Cron [2026]]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Open WebUI Missing Custom Models? How to Fix the Bug [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 
 ---
 You can reach out to contact me about this and other topics at my email <contact@lucasaguiar.xyz> or by filling the form below.
