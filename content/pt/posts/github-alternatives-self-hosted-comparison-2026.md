@@ -2,7 +2,7 @@
 date: 2026-08-17T18:10:00.000Z
 draft: true
 title: 'Alternativas ao GitHub em 2026: Opções Auto-Hospedadas e Gerenciadas Comparadas'
-description: 'Compare Gitea, Forgejo, GitLab CE, Codeberg, SourceHut e Radicle em 2026: self-hosted vs gerenciado, uso de recursos, CI/CD e um checklist prático de migração.'
+description: 'Compare Gitea, Forgejo, GitLab CE, Codeberg, SourceHut e Radicle em 2026: self-hosted vs gerenciado, uso de recursos, CI/CD, o histórico de indisponibilidade de 2026 que está impulsionando a migração e um checklist prático.'
 featured_image: ''
 categories:
   - article
@@ -15,7 +15,7 @@ tags:
 slug: alternativas-github-2026-auto-hospedadas-gerenciadas
 translation_source_hash: e23e7b3d5ae4bedc512138e92c31b1eb800d8a9215837817bfe933a32fc16948
 ---
-It's Sunday night, your deploy window is closing, and GitHub just went down — again. Or maybe nothing dramatic happened: you simply opened your feed and the AI assistant you never asked for was there, waiting to "help", while yet another debate about AI-generated code and content watermarking raged on. So you type the question into Hacker News: "Alternatives to GitHub?" Within hours it has nearly 300 points and almost 200 comments. You are not alone — and the good news is that in 2026 the answer is better than "just switch to GitLab".
+É domingo à noite, sua janela de deploy está fechando e o GitHub acabou de cair — de novo. Ou talvez nada dramático tenha acontecido: você abriu seu feed e lá estava o assistente de IA que você nunca pediu, esperando para "ajudar", enquanto mais um debate sobre código gerado por IA e marca d'água de conteúdo fervia. Então você digita a pergunta no Hacker News: "Alternativas ao GitHub?" Em poucas horas, são 357 pontos e quase 200 comentários. Você não está sozinho — e a boa notícia é que em 2026 a resposta é melhor do que "é só trocar para o GitLab".
 
 This guide is a practical, decision-oriented tour of the real alternatives: the self-hosted lightweight forges (Gitea, Forgejo, Gogs), the full platform (GitLab CE), the hosted non-profit (Codeberg), the minimalist (SourceHut), and the fully decentralized (Radicle). For each one: what it is, what it costs, what it weighs, and who it's for — plus a migration checklist at the end.
 
@@ -37,11 +37,31 @@ As motivações aparecem em todo tópico sobre "alternativas" e merecem ser nome
 
 - **Controle e privacidade.** Seus repositórios, issues e atividade vivem na infraestrutura de outra pessoa. Auto-hospedar significa que seu código nunca sai de um servidor que você controla — relevante para donos de homelab que já rodam [Proxmox e containers]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}}).
 - **Recursos de IA empurrados por padrão.** Assistentes no estilo Copilot, bots de revisão de código e debates sobre marca d'água de conteúdo (os mesmos que atingem todos os grandes produtos de IA em 2026) deixaram muitos desenvolvedores desconfortáveis com uma plataforma que decide por você como a "assistência" deve ser.
-- **Interrupções e disponibilidade.** Quando uma plataforma engasga bem na hora do deploy, o valor de um `git push` funcionando contra seu próprio servidor se torna muito concreto.
+- **Interrupções e disponibilidade.** Quando uma plataforma engasga bem na hora do deploy, o valor de um `git push` funcionando contra seu próprio servidor se torna muito concreto. O GitHub registrou **nove incidentes críticos entre meados de junho e meados de agosto de 2026** — incluindo um grande no dia em que este post foi escrito (veja a seção sobre o histórico de indisponibilidade abaixo).
 - **Custo.** Repositórios privados são baratos no GitHub, mas "barato" não é "grátis", e auto-hospedar no hardware que você já opera é efetivamente grátis.
 - **Filosofia.** O Git é descentralizado por design; um único forge é uma escolha, não uma lei.
 
 A nuance importante: o Git em si não é um aprisionamento. Todas as opções abaixo falam Git padrão — seu histórico, branches e tags vão com você. A questão é apenas onde o *forge* (issues, PRs, CI, wiki) vive.
+
+## O histórico de indisponibilidade em 2026: hoje não é exceção
+
+Se você chegou a este post porque o GitHub está tendo um dia ruim, aqui está o contexto que torna o dia ruim significativo. Em **17 de agosto de 2026**, o GitHub registrou um incidente **crítico** — "Incident with GitHub.com" — começando por volta das 13:40 UTC (10:40 no horário de Brasília). Horas depois, a [página de status](https://www.githubstatus.com/) ainda mostrava "Partial System Outage", com requisições de API degradadas, Issues degradados e falhas de autenticação esporádicas; as operações de Git foram eventualmente mitigadas, mas com impacto residual. A Microsoft confirmou uma interrupção global massiva, coberta por Forbes, The Economic Times, DevOps.com e outros, enquanto o Downdetector registrava milhares de relatos de usuários. O Hacker News produziu uma trinca rara no mesmo dia: "[Ask HN: Is GitHub Fried Today?](https://news.ycombinator.com/item?id=49333136)", "[GitHub Has an Availability Problem. Is It Time to Look Elsewhere?](https://news.ycombinator.com/item?id=49333728)" — e, claro, "[Ask HN: Alternatives to GitHub](https://news.ycombinator.com/item?id=49331033)" (357 pontos).
+
+E isso não é um caso isolado. A página de status pública, que hoje lista incidentes desde meados de junho, mostra **nove incidentes críticos em dois meses**:
+
+- 17/08 — GitHub.com (ainda aberto no momento em que escrevo)
+- 06/08 — GitHub Actions
+- 25/07 — falhas e atrasos em execuções do Actions
+- 24/07 — Pull Requests
+- 21/07 — conexões SSH com deploy keys
+- 19/07 — GitHub Actions
+- 16/07 — interrupção geral de serviços
+- 09/07 — atrasos para iniciar execuções do Actions
+- 17/06 — disponibilidade do Copilot
+
+O padrão salta da lista: **GitHub Actions e a superfície de IA/Copilot são os pontos fracos recorrentes**. Quatro dos nove críticos atingiram o Actions, e os incidentes de Copilot/provedores de IA marcados como menores (30/07, 01/08, 03/08, 05/08, 10/08, 13/08) são frequentes demais para enumerar. Um tópico "[GitHub is down again](https://news.ycombinator.com/item?id=46946827)" chegou a 514 pontos em fevereiro de 2026. O histórico não é "o GitHub está sempre fora do ar" — é que, quando quebra, tende a quebrar justamente os componentes de que os desenvolvedores mais dependem, no momento em que dependem deles, e as falhas são **correlacionadas**: push, PRs, CI e autenticação podem cair juntos.
+
+E essa correlação é exatamente o que a auto-hospedagem elimina. Sua própria instância do Gitea pode cair porque você a configurou mal — mas não cai porque a frota de outra pessoa teve uma terça-feira ruim, e não leva seu pipeline de deploy junto. Para times cujo fluxo já é containerizado (veja [containers vs VMs]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})), rodar o forge ao lado das workloads é um passo pequeno com um valor de seguro desproporcional.
 
 ## Gitea: o padrão leve para auto-hospedagem
 
@@ -114,7 +134,7 @@ Também vale a pena revisitar enquanto você faz isso: se sua equipe depende de 
 
 ## O que observar
 
-Duas tendências valem a pena acompanhar em 2026. Primeiro, **federação**: a Forgejo Federation e esforços semelhantes estão lentamente transformando forges de jardins murados em uma rede, da mesma forma que o e-mail e o ActivityPub fizeram em seus domínios. Segundo, **política de IA como motor de migração**: a postura que uma plataforma adota em relação ao treinamento com seu código e à marca d'água em saídas de IA está se tornando um critério de primeira classe — exatamente o que levou tanta gente ao Codeberg este ano.
+Duas tendências valem a pena acompanhar em 2026. Primeiro, **federação**: a Forgejo Federation e esforços semelhantes estão lentamente transformando forges de jardins murados em uma rede, da mesma forma que o e-mail e o ActivityPub fizeram em seus domínios. Segundo, **política de IA como motor de migração**: a postura que uma plataforma adota em relação ao treinamento com seu código e à marca d'água em saídas de IA está se tornando um critério de primeira classe — exatamente o que levou tanta gente ao Codeberg este ano. Terceiro, **confiabilidade como escolha operacional**: depois do histórico de indisponibilidade de 2026, o padrão de espelhamento está ganhando espaço — forge auto-hospedado como principal, GitHub mantido como espelho somente leitura para visibilidade — o que transforma o risco de disponibilidade em algo que você controla, em vez de algo que você absorve.
 
 A versão curta: você não precisa da permissão do GitHub para sair, e não precisa sacrificar recursos para isso. Um único binário Go em um servidor que você controla oferece 90% da experiência, sem nenhuma vigilância — e o Git torna a mudança reversível a qualquer momento.
 

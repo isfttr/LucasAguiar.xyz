@@ -2,7 +2,7 @@
 date: 2026-08-17T15:10:00-03:00
 draft: true
 title: "GitHub Alternatives in 2026: Self-Hosted and Managed Options Compared"
-description: "Compare Gitea, Forgejo, GitLab CE, Codeberg, SourceHut and Radicle in 2026: self-hosted vs managed, resource use, CI/CD, and a practical migration checklist."
+description: "Compare Gitea, Forgejo, GitLab CE, Codeberg, SourceHut and Radicle in 2026: self-hosted vs managed, resource use, CI/CD, the 2026 outage record driving migration, and a practical checklist."
 featured_image: ""
 categories:
   - article
@@ -14,7 +14,7 @@ tags:
   - version-control
 ---
 
-It's Sunday night, your deploy window is closing, and GitHub just went down — again. Or maybe nothing dramatic happened: you simply opened your feed and the AI assistant you never asked for was there, waiting to "help", while yet another debate about AI-generated code and content watermarking raged on. So you type the question into Hacker News: "Alternatives to GitHub?" Within hours it has nearly 300 points and almost 200 comments. You are not alone — and the good news is that in 2026 the answer is better than "just switch to GitLab".
+It's Sunday night, your deploy window is closing, and GitHub just went down — again. Or maybe nothing dramatic happened: you simply opened your feed and the AI assistant you never asked for was there, waiting to "help", while yet another debate about AI-generated code and content watermarking raged on. So you type the question into Hacker News: "Alternatives to GitHub?" Within hours it has 357 points and nearly 200 comments. You are not alone — and the good news is that in 2026 the answer is better than "just switch to GitLab".
 
 This guide is a practical, decision-oriented tour of the real alternatives: the self-hosted lightweight forges (Gitea, Forgejo, Gogs), the full platform (GitLab CE), the hosted non-profit (Codeberg), the minimalist (SourceHut), and the fully decentralized (Radicle). For each one: what it is, what it costs, what it weighs, and who it's for — plus a migration checklist at the end.
 
@@ -36,11 +36,31 @@ The motivations show up in every "alternatives" thread, and they're worth naming
 
 - **Control and privacy.** Your repos, issues, and activity live on someone else's infrastructure. Self-hosting means your code never leaves a server you control — relevant for homelab owners who already run [Proxmox and containers]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}}).
 - **AI features pushed by default.** Copilot-style assistants, code review bots, and content watermarking debates (the same ones hitting every major AI product in 2026) made many developers uncomfortable with a platform that decides for you what "assistance" looks like.
-- **Outages and availability.** When a platform hiccups right at deploy time, the value of `git push` working against your own server becomes very concrete.
+- **Outages and availability.** When a platform hiccups right at deploy time, the value of `git push` working against your own server becomes very concrete. GitHub logged **nine critical incidents between mid-June and mid-August 2026 alone** — including a major one on the day this post was written (see [the 2026 reliability record](#the-2026-reliability-record-today-is-not-an-exception) below).
 - **Cost.** Private repos are cheap on GitHub, but "cheap" is not "free", and self-hosting on hardware you already run is effectively free.
 - **Philosophy.** Git is decentralized by design; a single forge is a choice, not a law.
 
 The important nuance: Git itself is not locked in. Every option below speaks standard Git — your history, branches, and tags move with you. The question is only where the *forge* (issues, PRs, CI, wiki) lives.
+
+## The 2026 reliability record: today is not an exception
+
+If you found this post because GitHub is having a bad day, here is the context that makes the bad day meaningful. On **August 17, 2026**, GitHub logged a **critical** incident — "Incident with GitHub.com" — starting around 13:40 UTC (10:40 BRT). Hours later the [status page](https://www.githubstatus.com/) still showed a "Partial System Outage", with degraded API requests, degraded Issues and sporadic authentication failures; Git operations were eventually mitigated, but with residual impact. Microsoft confirmed a massive global outage, covered by Forbes, The Economic Times, DevOps.com and others, while Downdetector logged thousands of user reports. Hacker News produced a rare same-day trio: "[Ask HN: Is GitHub Fried Today?](https://news.ycombinator.com/item?id=49333136)", "[GitHub Has an Availability Problem. Is It Time to Look Elsewhere?](https://news.ycombinator.com/item?id=49333728)" — and, of course, "[Ask HN: Alternatives to GitHub](https://news.ycombinator.com/item?id=49331033)" (357 points).
+
+And this is not a one-off. The public status page, which currently lists incidents going back to mid-June, shows **nine critical incidents in two months**:
+
+- Aug 17 — GitHub.com (still open at the time of writing)
+- Aug 06 — GitHub Actions
+- Jul 25 — Actions run failures and delays
+- Jul 24 — Pull Requests
+- Jul 21 — SSH connections using deploy keys
+- Jul 19 — GitHub Actions
+- Jul 16 — general service disruption
+- Jul 09 — delays starting Actions runs
+- Jun 17 — Copilot availability
+
+The pattern jumps out of the list: **GitHub Actions and the AI/Copilot surface are the recurring weak spots**. Four of the nine criticals hit Actions, and the Copilot/AI-model incidents marked as minor (Jul 30, Aug 1, Aug 3, Aug 5, Aug 10, Aug 13) are too frequent to enumerate. A "[GitHub is down again](https://news.ycombinator.com/item?id=46946827)" thread even hit 514 points back in February 2026. The record is not "GitHub is always down" — it's that when it breaks, it tends to break the components developers depend on most, at the moment they depend on them, and the failures are **correlated**: push, PRs, CI and authentication can all go down together.
+
+That correlation is exactly what self-hosting eliminates. Your own Gitea instance can go down because you misconfigured it — but it won't go down because someone else's fleet had a bad Tuesday, and it won't take your deploy pipeline with it. For teams whose workflow is already containerized (see [containers vs VMs]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})), running the forge next to the workloads is a small step with outsized insurance value.
 
 ## Gitea: the lightweight default for self-hosting
 
@@ -113,7 +133,7 @@ Also worth revisiting while you're at it: if your team relies on stacked-PR work
 
 ## What to watch
 
-Two trends are worth following in 2026. First, **federation**: Forgejo Federation and similar efforts are slowly turning forges from walled gardens into a network, the same way email and ActivityPub did for their domains. Second, **AI policy as a migration driver**: the stance a platform takes on training on your code and watermarking AI output is becoming a first-class criterion — exactly what pushed so many people to Codeberg this year.
+Two trends are worth following in 2026. First, **federation**: Forgejo Federation and similar efforts are slowly turning forges from walled gardens into a network, the same way email and ActivityPub did for their domains. Second, **AI policy as a migration driver**: the stance a platform takes on training on your code and watermarking AI output is becoming a first-class criterion — exactly what pushed so many people to Codeberg this year. Third, **reliability as an operational choice**: after 2026's outage record, the mirror pattern is gaining ground — self-hosted forge as primary, GitHub kept as a read-only mirror for discoverability — which turns availability risk into something you control rather than something you absorb.
 
 The short version: you don't need GitHub's permission to leave, and you don't need to sacrifice features to do it. A single Go binary on a server you control gives you 90% of the experience with none of the surveillance — and Git makes the move reversible at any time.
 
