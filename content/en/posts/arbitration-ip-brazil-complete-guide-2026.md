@@ -120,7 +120,7 @@ Read also:
 
 - [Registration of Technology Transfer Contracts at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
 - [Registration of Technology Transfer Contracts at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
-- [IP Arbitration in Brazil: Complete Guide [2026]]({{< relref "posts/arbitration-ip-brazil-complete-guide-2026/" >}})
+- [Registration of Technology Transfer Contracts at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
 
 ---
 

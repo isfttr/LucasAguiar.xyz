@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T17:53:31.751Z",
+  "last_updated": "2026-08-17T18:09:49.301Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3386,11 +3386,11 @@
         "article"
       ],
       "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity limits, arbitration clauses, institutions like CSD-ABPI and WIPO AMC, and a practical step-by-step.",
-      "content_hash_en": "227e901abd9e3a0348818f99b34e43361ccc50f79436d4d33926fa2e199701a9",
+      "content_hash_en": "cedb95b22de059d3752bebd5aaeb48e9087d552186138e631b61beb6bdcfb057",
       "backlinks": [
         "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
         "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
-        "arbitration-ip-brazil-complete-guide-2026"
+        "guia-registro-contratos-transferencia-tecnologia-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3410,11 +3410,11 @@
         "article"
       ],
       "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity, arbitration clause, institutions such as CSD-ABPI and WIPO AMC, and practical step-by-step.",
-      "content_hash_en": "89272b8b74a4c1a64006fefe734b93b51a493729b6a609d12e45461b76715877",
+      "content_hash_en": "baf67ce8527cf290a399883ea08edf2a9f78f12ecc749de815c2dd09769f5068",
       "backlinks": [
         "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
         "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
-        "arbitragem-propriedade-intelectual-brasil-guia-2026"
+        "guia-registro-contratos-transferencia-tecnologia-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -4048,7 +4048,7 @@
     "stock-price-duration-survivorship-ai-capex-2026": {
       "slug": "stock-price-duration-survivorship-ai-capex-2026",
       "title_en": "How Many Years of Cash Flow Is a Stock Price? Duration, Survivorship, and the AI Capex Boom",
-      "title_pt": "How Many Years of Cash Flow Is a Stock Price? Duration, Survivorship, and the AI Capex Boom",
+      "title_pt": "Quantos Anos de Fluxo de Caixa Representa o Preço de uma Ação? Duração, Sobrevivência e o Boom de Capex de IA",
       "tags": [
         "ai",
         "valuation",
@@ -4060,11 +4060,35 @@
         "opinion"
       ],
       "description_en": "A stock price is the present value of decades of future cash flows — but most companies never survive that long. What that old finance math says about the AI investment boom and the growing skepticism around it.",
-      "content_hash_en": "c548abbcd748ece6c798dbef8bd3102363bdc479c0c4bc2604b3cf6da34f9495",
+      "content_hash_en": "5dfb182b986ad0a5e835c8181311fb1bd969809641c5ea0bab9194b48b702fce",
       "backlinks": [
         "ia-desenvolvimento-software-complexidade-codigo",
         "ai-beats-procrastination",
         "ia-desenvolvimento-software-complexidade-codigo"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "github-alternatives-self-hosted-comparison-2026": {
+      "slug": "github-alternatives-self-hosted-comparison-2026",
+      "title_en": "GitHub Alternatives in 2026: Self-Hosted and Managed Options Compared",
+      "title_pt": "GitHub Alternatives in 2026: Self-Hosted and Managed Options Compared",
+      "tags": [
+        "git",
+        "github",
+        "self-hosting",
+        "devops",
+        "version-control"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Compare Gitea, Forgejo, GitLab CE, Codeberg, SourceHut and Radicle in 2026: self-hosted vs managed, resource use, CI/CD, and a practical migration checklist.",
+      "content_hash_en": "e775daae5455a38b84e377091021f2fa2ede87cbe25ac0b4f3200a62aa8462bf",
+      "backlinks": [
+        "containers-vs-vms-complete-guide-2026",
+        "gitbutler-what-is-review-alternatives-2026",
+        "stacked-pull-requests-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

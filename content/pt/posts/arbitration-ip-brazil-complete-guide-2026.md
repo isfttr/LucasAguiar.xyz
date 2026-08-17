@@ -121,7 +121,7 @@ Leia também:
 
 - [Registro de Contratos de Transferência de Tecnologia no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
 - [Registro de Contratos de Transferência de Tecnologia no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
-- [Arbitragem de PI no Brasil: Guia Completo [2026]]({{< relref "posts/arbitration-ip-brazil-complete-guide-2026/" >}})
+- [Registro de Contratos de Transferência de Tecnologia no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
 
 ---
 

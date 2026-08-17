@@ -89,9 +89,9 @@ Vencer para a sociedade e vencer para os acionistas não são o mesmo evento, e 
 
 Leia também:
 
-- [De Desenvolvedores a Cientistas: Como a IA está Transformando a Complexidade do Código]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
-- [Da Procrastinação ao Progresso: Como a IA me ajudou]({{< relref "posts/ai-beats-procrastination/" >}})
-- [De Desenvolvedores a Cientistas: Como a IA está Transformando a Complexidade do Código]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
+- [De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
+- [Da Procrastinação ao Progresso: Como a IA me tem ajudado]({{< relref "posts/ai-beats-procrastination/" >}})
+- [De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
 
 ---
 
