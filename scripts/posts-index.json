@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T16:50:12.735Z",
+  "last_updated": "2026-08-17T17:53:31.751Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -274,7 +274,7 @@
         "article"
       ],
       "description_en": "Open WebUI custom models not showing? Fix the missing models bug with the right OpenAI API and Direct Connections configuration. Step-by-step guide [2026].",
-      "content_hash_en": "81e37c35297d40412e8a518d0e2b1107fb8dd066648d298d846d923115aca09d",
+      "content_hash_en": "01ab88aca4d1376bf487155ea534315a229ec8e772ab9732f7601dae9f3a3c86",
       "backlinks": [
         "how-to-update-open-webui-2026",
         "script-update-open_webui-lxc",
@@ -496,7 +496,7 @@
         "article"
       ],
       "description_en": "My experience using GitButler as a replacement for traditional Git workflow tools, including what works well and a few limitations.",
-      "content_hash_en": "b85f6924d2570e50298ee7e9ec84e84519b1659a84a3b16d42cfad7bbb12f2ac",
+      "content_hash_en": "970d38be9d95427641060e36b14ae9b0374af01c50dd562395bdb17e9a65936f",
       "backlinks": [
         "gitbutler-what-is-review-alternatives-2026",
         "experience-with-cursor-and-windsurf",
@@ -624,7 +624,7 @@
         "article"
       ],
       "description_en": "How to update Open WebUI inside a Proxmox LXC with a single bash script: git pull, build and restart. Includes cron setup for automatic updates [2026].",
-      "content_hash_en": "032b8e03dd67561f304526f361f25f7d1a82f3e13ad29c5690e97d91e76f8850",
+      "content_hash_en": "beb8fc882a13df34784a372bdb0a44966bc49b07f733242ef378ef602a0d293c",
       "backlinks": [
         "how-to-update-open-webui-2026",
         "troubleshooting-proxmox-login-interface",
@@ -2110,13 +2110,13 @@
         "article"
       ],
       "description_en": "Brazil invested US$ 312 billion in intangible assets in 2023 (7.6% of GDP) and is among the top 7 in the world. Brands, software, R&D and data: understand the unprecedented report from INPI and WIPO.",
-      "content_hash_en": "73836f789464035d2616f4523ecfe2544ccefbbc1e2675f21b650f957343800a",
+      "content_hash_en": "a88dbe30509fe293546fd125eb4b0ea68850d8ee8592a1eca787f2841786e94c",
       "backlinks": [
         "brazil-7th-largest-intangible-investment-us-312b-wipo-2026",
         "mapa-global-patentes-pct-2025-brasil",
         "inpi-plano-estrategico-2027-2036-guia-completo"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-08-17T16:50:12.735Z"
     },
     "gpt-5-6-openai-sol-terra-luna-2026": {
@@ -3386,11 +3386,11 @@
         "article"
       ],
       "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity limits, arbitration clauses, institutions like CSD-ABPI and WIPO AMC, and a practical step-by-step.",
-      "content_hash_en": "d5b0bf5b0ee2ed3e53b05b87cb8ddae453b9db6ee805b85c21876a3c92a4202d",
+      "content_hash_en": "227e901abd9e3a0348818f99b34e43361ccc50f79436d4d33926fa2e199701a9",
       "backlinks": [
         "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
-        "arbitration-ip-brazil-complete-guide-2026",
-        "guia-registro-contratos-transferencia-tecnologia-inpi-2026"
+        "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
+        "arbitration-ip-brazil-complete-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3410,11 +3410,11 @@
         "article"
       ],
       "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity, arbitration clause, institutions such as CSD-ABPI and WIPO AMC, and practical step-by-step.",
-      "content_hash_en": "cf66565e38805656741a6e11bb24bf8aa3f88abaa3b72344993b2c65cda325b5",
+      "content_hash_en": "89272b8b74a4c1a64006fefe734b93b51a493729b6a609d12e45461b76715877",
       "backlinks": [
         "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
-        "arbitragem-propriedade-intelectual-brasil-guia-2026",
-        "guia-registro-contratos-transferencia-tecnologia-inpi-2026"
+        "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
+        "arbitragem-propriedade-intelectual-brasil-guia-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3988,7 +3988,7 @@
         "article"
       ],
       "description_en": "GitButler is a Git client with virtual branches, CLI, and TUI. Honest review after months of use, pricing model, and the best alternatives in 2026.",
-      "content_hash_en": "f2d739553d5c9ec5dd624aa4053f79a2f17fbda672e9d783df0cafff1c97bd86",
+      "content_hash_en": "e608a37717c0674aa5ac9503185257e45b40fd951576fcd4555240063180ea4f",
       "backlinks": [
         "one-week-review-gitbutler",
         "mastering-git-log-history-guide-2026",
@@ -4012,7 +4012,7 @@
         "article"
       ],
       "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and LXC on Proxmox. Make a backup before, avoid post-update bugs and automate with Watchtower.",
-      "content_hash_en": "0f0767e7c51204c6c4b93e2ea155f6837dfbd3d80139910c570d656320b1f924",
+      "content_hash_en": "06a96de85d33a1f59364d470f819dfe320d29ab2803d0d46bdb6bc0e0fa177fc",
       "backlinks": [
         "script-update-open_webui-lxc",
         "fix-custom-models-open-webui",
@@ -4036,11 +4036,35 @@
         "article"
       ],
       "description_en": "Does Proxmox return HTTP 401 'authentication failure' on login or API? Causes: wrong realm, blocked user, expired ticket, unsynchronized clock. Fixes with pveum.",
-      "content_hash_en": "48b58570e454a2b764d503ec3def99df497971516b20ca3d49dd6f39a627b8f4",
+      "content_hash_en": "a9988eea570a23600382ffa127e40c25ddc8d8fc31d501e1d787df76f30f4f39",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "troubleshooting-proxmox-login-interface",
         "troubleshooting-proxmox-login-interface"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "stock-price-duration-survivorship-ai-capex-2026": {
+      "slug": "stock-price-duration-survivorship-ai-capex-2026",
+      "title_en": "How Many Years of Cash Flow Is a Stock Price? Duration, Survivorship, and the AI Capex Boom",
+      "title_pt": "How Many Years of Cash Flow Is a Stock Price? Duration, Survivorship, and the AI Capex Boom",
+      "tags": [
+        "ai",
+        "valuation",
+        "investing",
+        "ai-bubble",
+        "markets"
+      ],
+      "categories": [
+        "opinion"
+      ],
+      "description_en": "A stock price is the present value of decades of future cash flows — but most companies never survive that long. What that old finance math says about the AI investment boom and the growing skepticism around it.",
+      "content_hash_en": "c548abbcd748ece6c798dbef8bd3102363bdc479c0c4bc2604b3cf6da34f9495",
+      "backlinks": [
+        "ia-desenvolvimento-software-complexidade-codigo",
+        "ai-beats-procrastination",
+        "ia-desenvolvimento-software-complexidade-codigo"
       ],
       "backlink_source": "file",
       "last_processed": null
