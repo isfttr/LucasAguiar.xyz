@@ -1,6 +1,6 @@
 ---
 date: 2026-08-06T11:18:31-03:00
-draft: true
+draft: false
 title: "INPI fora do ar: guia de contingência quando os sistemas eletrônicos ficam indisponíveis"
 description: "O que fazer quando o e-Patentes, e-Marcas ou o peticionamento do INPI ficam fora do ar: prazos, Relatório de Indisponibilidade Técnica, recuperação de protocolo via GRU e canais oficiais."
 featured_image: ""
