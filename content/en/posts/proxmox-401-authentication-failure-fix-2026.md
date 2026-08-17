@@ -109,9 +109,9 @@ If you're still stuck, these community threads cover the same error in depth: [a
 
 Read also:
 
-- [Proxmox Web Interface Login Errors: Step-by-Step Solution [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
-- [Proxmox Web Interface Login Errors: Step-by-Step Solution [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
-- [Proxmox Web Interface Login Errors: Step-by-Step Solution [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Fix Proxmox Web Interface Login Errors: Missing access.cfg [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Fix Proxmox Web Interface Login Errors: Missing access.cfg [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Fix Proxmox Web Interface Login Errors: Missing access.cfg [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
 ---
 

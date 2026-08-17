@@ -63,10 +63,10 @@ If you want to stay 100% terminal and open source, **lazygit** or **Jujutsu** ar
 
 GitButler isn't "Git with a GUI" — it's a real rethink of how branches should work, and the 2026 bet on CLI/TUI/agents makes it relevant even for hardcore terminal users. It's free, keeps your repository standard, and the operations log alone justifies the download. Try virtual branches for two weeks; if you still miss `git stash`, the alternatives table above has you covered.
 
-Also read:
+Read also:
 
-- [Two Weeks with GitButler: Simplifying My Git Workflow]({{< relref "posts/one-week-review-gitbutler/" >}})
-- [Git History in 2026: Complete Guide to the fixup, reword, and split Commands]({{< relref "posts/mastering-git-log-history-guide-2026/" >}})
+- [Two Weeks with GitButler: Streamlining My Git Workflow]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [Git History in 2026: Complete Guide to fixup, reword, and split Commands]({{< relref "posts/mastering-git-log-history-guide-2026/" >}})
 - [Stacked Pull Requests: Complete Guide and Best Practices [2026]]({{< relref "posts/stacked-pull-requests-guide-2026/" >}})
 
 ---

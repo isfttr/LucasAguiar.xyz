@@ -104,10 +104,10 @@ The project also ships `tools/pve/update-apps.sh`, a per-container updater with 
 
 Back up before every update, keep `WEBUI_SECRET_KEY` stable, pin a version for anything shared, and after the update always hard-refresh and check the logs. If you're still deciding between running Open WebUI in a [container or a VM]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}}), this guide also helps.
 
-Also read:
+Read also:
 
-- [Script to Update Open WebUI on a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [Open WebUI: Custom Models Not Showing Up? Step-by-Step Solution [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [Update Open WebUI in a Proxmox LXC: Bash Script + Cron [2026]]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Open WebUI Missing Custom Models? How to Fix the Bug [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 - [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
 ---

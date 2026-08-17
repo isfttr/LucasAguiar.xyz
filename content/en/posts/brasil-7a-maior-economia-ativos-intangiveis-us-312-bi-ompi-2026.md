@@ -93,8 +93,9 @@ For those working with IP, innovation, and industrial policy, this is a landmark
 
 Read also:
 
-- [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
-- [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [Brazil Is the 7th Largest Intangible Investor at US$ 312 Billion: What WIPO's Report Reveals [2026]]({{< relref "posts/brazil-7th-largest-intangible-investment-us-312b-wipo-2026/" >}})
+- [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [INPI Strategic Plan 2027-2036: Complete Guide to the 7 Objectives and What Changes for Companies]({{< relref "posts/inpi-plano-estrategico-2027-2036-guia-completo/" >}})
 
 ---
 

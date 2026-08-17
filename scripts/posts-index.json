@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T14:25:17.779Z",
+  "last_updated": "2026-08-17T16:50:12.735Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -274,7 +274,7 @@
         "article"
       ],
       "description_en": "Open WebUI custom models not showing? Fix the missing models bug with the right OpenAI API and Direct Connections configuration. Step-by-step guide [2026].",
-      "content_hash_en": "26bfce945ebb8263438d5822cde57e4659462ba305abc9559fdebc5e42cfa253",
+      "content_hash_en": "81e37c35297d40412e8a518d0e2b1107fb8dd066648d298d846d923115aca09d",
       "backlinks": [
         "how-to-update-open-webui-2026",
         "script-update-open_webui-lxc",
@@ -496,7 +496,7 @@
         "article"
       ],
       "description_en": "My experience using GitButler as a replacement for traditional Git workflow tools, including what works well and a few limitations.",
-      "content_hash_en": "22969c2992db007cc8db79e642ed08fd13498b098c2db033b886a5c3106a1899",
+      "content_hash_en": "b85f6924d2570e50298ee7e9ec84e84519b1659a84a3b16d42cfad7bbb12f2ac",
       "backlinks": [
         "gitbutler-what-is-review-alternatives-2026",
         "experience-with-cursor-and-windsurf",
@@ -624,7 +624,7 @@
         "article"
       ],
       "description_en": "How to update Open WebUI inside a Proxmox LXC with a single bash script: git pull, build and restart. Includes cron setup for automatic updates [2026].",
-      "content_hash_en": "9315e0fcbd241d9ad88320c0cbef632c3b726a4b81a1b77de841fbc8b71251f7",
+      "content_hash_en": "032b8e03dd67561f304526f361f25f7d1a82f3e13ad29c5690e97d91e76f8850",
       "backlinks": [
         "how-to-update-open-webui-2026",
         "troubleshooting-proxmox-login-interface",
@@ -673,7 +673,7 @@
         "tutorial"
       ],
       "description_en": "Fix Proxmox 'authentication failure' on login: missing access.cfg, corosync quorum and pveproxy restart. Step-by-step troubleshooting guide [2026].",
-      "content_hash_en": "5a61be2570a21b9c618bac0cfd5e46c0305c498de6dbdf8ce70a133734653b34",
+      "content_hash_en": "32e6aecc2341aae3d42406bb4b5dbf2b845b90918c1690e3fb83fc1c90faee43",
       "backlinks": [
         "proxmox-401-authentication-failure-fix-2026",
         "oracle_cloud_vps",
@@ -2110,14 +2110,14 @@
         "article"
       ],
       "description_en": "Brazil invested US$ 312 billion in intangible assets in 2023 (7.6% of GDP) and is among the top 7 in the world. Brands, software, R&D and data: understand the unprecedented report from INPI and WIPO.",
-      "content_hash_en": "4e78abbfbc6bde5ed6f248072634dfd3bd32bc32f64ce0d0876193eb31d4b164",
+      "content_hash_en": "73836f789464035d2616f4523ecfe2544ccefbbc1e2675f21b650f957343800a",
       "backlinks": [
-        "pi-esporte-dados-ompi-2026",
-        "wipo-lanca-artificial-intelligence-infrastructure-interchange",
-        "inpi-credenciamento-busca-anterioridade-patentes"
+        "brazil-7th-largest-intangible-investment-us-312b-wipo-2026",
+        "mapa-global-patentes-pct-2025-brasil",
+        "inpi-plano-estrategico-2027-2036-guia-completo"
       ],
-      "backlink_source": "file",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-08-17T16:50:12.735Z"
     },
     "gpt-5-6-openai-sol-terra-luna-2026": {
       "slug": "gpt-5-6-openai-sol-terra-luna-2026",
@@ -3386,10 +3386,10 @@
         "article"
       ],
       "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity limits, arbitration clauses, institutions like CSD-ABPI and WIPO AMC, and a practical step-by-step.",
-      "content_hash_en": "09ca74b3746b3806cc9f2ce4810911df55926cce9456e892549bc87ad36d5878",
+      "content_hash_en": "d5b0bf5b0ee2ed3e53b05b87cb8ddae453b9db6ee805b85c21876a3c92a4202d",
       "backlinks": [
-        "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
-        "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
+        "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
+        "arbitration-ip-brazil-complete-guide-2026",
         "guia-registro-contratos-transferencia-tecnologia-inpi-2026"
       ],
       "backlink_source": "file",
@@ -3410,10 +3410,10 @@
         "article"
       ],
       "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity, arbitration clause, institutions such as CSD-ABPI and WIPO AMC, and practical step-by-step.",
-      "content_hash_en": "87e8a872788311cd5c5e3a4c3e36915f337f65eaaa011d856b5dbc8776716636",
+      "content_hash_en": "cf66565e38805656741a6e11bb24bf8aa3f88abaa3b72344993b2c65cda325b5",
       "backlinks": [
-        "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
-        "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
+        "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
+        "arbitragem-propriedade-intelectual-brasil-guia-2026",
         "guia-registro-contratos-transferencia-tecnologia-inpi-2026"
       ],
       "backlink_source": "file",
@@ -3975,20 +3975,20 @@
     },
     "gitbutler-what-is-review-alternatives-2026": {
       "slug": "gitbutler-what-is-review-alternatives-2026",
-      "title_en": "GitButler: What It Is, Review & Alternatives [2026]",
+      "title_en": "GitButler: What It Is, Review and Alternatives [2026]",
       "title_pt": "GitButler: O Que É, Review e Alternativas [2026]",
       "tags": [
         "git",
         "gitbutler",
-        "developer-tools",
-        "version-control",
-        "productivity"
+        "ferramentas-de-desenvolvimento",
+        "controle-de-versao",
+        "produtividade"
       ],
       "categories": [
         "article"
       ],
-      "description_en": "GitButler is a Git client with virtual branches, CLI and TUI. Honest review after months of use, pricing model and the best alternatives in 2026.",
-      "content_hash_en": "b1a2125ec673fb35df492a3f8f63077a7e993b31aa2dfc8e8486203fed8145e3",
+      "description_en": "GitButler is a Git client with virtual branches, CLI, and TUI. Honest review after months of use, pricing model, and the best alternatives in 2026.",
+      "content_hash_en": "f2d739553d5c9ec5dd624aa4053f79a2f17fbda672e9d783df0cafff1c97bd86",
       "backlinks": [
         "one-week-review-gitbutler",
         "mastering-git-log-history-guide-2026",
@@ -3999,20 +3999,20 @@
     },
     "how-to-update-open-webui-2026": {
       "slug": "how-to-update-open-webui-2026",
-      "title_en": "How to Update Open WebUI [2026]: Complete Guide (Docker, pip & LXC)",
+      "title_en": "How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)",
       "title_pt": "Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)",
       "tags": [
         "open-webui",
         "homelab",
         "docker",
         "proxmox",
-        "self-hosted"
+        "auto-hospedagem"
       ],
       "categories": [
         "article"
       ],
-      "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and Proxmox LXC. Backup first, avoid post-update bugs, set up auto-updates with Watchtower.",
-      "content_hash_en": "e5a0ab59e4e9c202f665b8f9d67533ab47554b5a3de47775879765a07a21f9f1",
+      "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and LXC on Proxmox. Make a backup before, avoid post-update bugs and automate with Watchtower.",
+      "content_hash_en": "0f0767e7c51204c6c4b93e2ea155f6837dfbd3d80139910c570d656320b1f924",
       "backlinks": [
         "script-update-open_webui-lxc",
         "fix-custom-models-open-webui",
@@ -4027,16 +4027,16 @@
       "title_pt": "Proxmox 401 'authentication failure': Corrija Erros de Login e API [2026]",
       "tags": [
         "proxmox",
-        "troubleshooting",
+        "solucao-de-problemas",
         "linux",
         "homelab",
-        "authentication"
+        "autenticacao"
       ],
       "categories": [
         "article"
       ],
-      "description_en": "Proxmox returns HTTP 401 'authentication failure' on login or API? Causes: wrong realm, user lockout, expired ticket, clock skew. Step-by-step fixes with pveum.",
-      "content_hash_en": "02fcbbd02ba77a03d91d2c2c1baeea1ae07968b31f7de4bcaeb530002bb40457",
+      "description_en": "Does Proxmox return HTTP 401 'authentication failure' on login or API? Causes: wrong realm, blocked user, expired ticket, unsynchronized clock. Fixes with pveum.",
+      "content_hash_en": "48b58570e454a2b764d503ec3def99df497971516b20ca3d49dd6f39a627b8f4",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "troubleshooting-proxmox-login-interface",

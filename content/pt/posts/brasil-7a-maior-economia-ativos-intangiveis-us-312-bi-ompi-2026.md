@@ -92,8 +92,9 @@ Para quem trabalha com PI, inovação e política industrial, este é um marco d
 
 Leia também:
 
-- [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
-- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [Brasil é o 7º Maior Investidor Intangível com US$ 312 Bilhões: O que o Relatório da OMPI Revela [2026]]({{< relref "posts/brazil-7th-largest-intangible-investment-us-312b-wipo-2026/" >}})
+- [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [Plano Estratégico do INPI 2027-2036: Guia Completo dos 7 Objetivos e o que Muda para Empresas]({{< relref "posts/inpi-plano-estrategico-2027-2036-guia-completo/" >}})
 
 ---
 

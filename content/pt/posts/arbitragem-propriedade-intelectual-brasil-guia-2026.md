@@ -118,6 +118,7 @@ Desde a Lei 13.129/2015, universidades, institutos de pesquisa e demais entidade
 
 Leia também:
 
+- [Registro de Contratos de Transferência de Tecnologia no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
 - [Arbitragem em Propriedade Intelectual no Brasil: Guia Completo [2026]]({{< relref "posts/arbitragem-propriedade-intelectual-brasil-guia-2026/" >}})
 - [Registro de Contratos de Transferência de Tecnologia no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
 
