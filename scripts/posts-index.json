@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T13:39:29.602Z",
+  "last_updated": "2026-08-18T13:45:41.570Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3554,7 +3554,7 @@
         "article"
       ],
       "description_en": "Differences between invention patent (PI) and utility model (MU) at INPI: legal requirements of LPI, protection terms, 2026 costs, practical examples, and how to choose the right type.",
-      "content_hash_en": "e047e667c8c6bfb062aa0802ae9b324887cf6eec2af84ae94119e6fde6626273",
+      "content_hash_en": "806230c86f56bbad781b96ea95f6d9bc9cb1464e3425515488b71136b8130e60",
       "backlinks": [
         "tipos-protecao-intelectual-brasil-guia-completo",
         "guia-registro-desenho-industrial-inpi-2026",
@@ -4089,6 +4089,31 @@
         "containers-vs-vms-complete-guide-2026",
         "containers-vs-vms-complete-guide-2026",
         "gitbutler-what-is-review-alternatives-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "protocolo-nagoya-reparticao-beneficios-recursos-geneticos": {
+      "slug": "protocolo-nagoya-reparticao-beneficios-recursos-geneticos",
+      "title_en": "Protocolo de Nagoya e a Lei 13.123/2015: como o Brasil regula o acesso a recursos genéticos e conhecimentos tradicionais [2026]",
+      "title_pt": "Protocolo de Nagoya e a Lei 13.123/2015: como o Brasil regula o acesso a recursos genéticos e conhecimentos tradicionais [2026]",
+      "tags": [
+        "propriedade-intelectual",
+        "biodiversidade",
+        "biotecnologia",
+        "regulacao",
+        "inovacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Entenda o Protocolo de Nagoya, a repartição de benefícios do uso de recursos genéticos e conhecimentos tradicionais e como a Lei 13.123/2015 e o SisGen funcionam no Brasil.",
+      "content_hash_en": null,
+      "content_hash_pt": "b7f3769e1b7bac5f5a24fe8f487bc83fc3e42b2d755859c21719cc1ec843ca83",
+      "backlinks": [
+        "brasil-tratado-budapeste-patentes-biotecnologia",
+        "brasil-tratado-budapeste-patentes-biotecnologia",
+        "inpi-manual-marcas-alto-renome-protocolo-madri"
       ],
       "backlink_source": "file",
       "last_processed": null
