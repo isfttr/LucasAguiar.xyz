@@ -1,6 +1,6 @@
 ---
 date: 2026-08-06T11:18:31-03:00
-draft: true
+draft: false
 title: "INPI fora do ar: guia de contingência quando os sistemas eletrônicos ficam indisponíveis"
 description: "O que fazer quando o e-Patentes, e-Marcas ou o peticionamento do INPI ficam fora do ar: prazos, Relatório de Indisponibilidade Técnica, recuperação de protocolo via GRU e canais oficiais."
 featured_image: ""
@@ -13,10 +13,7 @@ tags:
   - marcas
   - guia
 ---
-
-Na segunda-feira, 3 de agosto de 2026, os serviços eletrônicos do INPI ficaram indisponíveis durante boa parte do dia por uma ocorrência técnica. Quem precisava depositar uma patente, protocolar um recurso ou acompanhar um processo encontrou sistemas fora do ar — e a dúvida que sempre aparece nessa hora é: *e os meus prazos?*
-
-Essa não foi uma situação isolada. Em junho de 2026, o sistema de peticionamento de programa de computador ficou instável por mais de uma semana (20 a 30 de junho). Indisponibilidades, manutenções e instabilidades são recorrentes na infraestrutura digital do INPI — e saber como agir antes, durante e depois delas protege direitos que podem ser perdidos por alguns minutos de sistema fora do ar.
+Indisponibilidades, manutenções e instabilidades são recorrentes na infraestrutura digital do INPI — e saber como agir antes, durante e depois delas protege direitos que podem ser perdidos por alguns minutos de sistema fora do ar.
 
 Este guia consolida o que o INPI faz oficialmente quando os sistemas caem, como os prazos são tratados e o passo a passo para recuperar protocolos e minimizar riscos.
 
