@@ -1,6 +1,6 @@
 ---
 date: 2026-08-06T14:18:31.000Z
-draft: true
+draft: false
 title: 'INPI down: contingency guide when electronic systems become unavailable'
 description: 'What to do when e-Patentes, e-Marcas, or INPI''s e-filing goes down: deadlines, Technical Unavailability Report, protocol recovery via GRU, and official channels.'
 featured_image: ''
