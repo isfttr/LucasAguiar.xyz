@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T13:45:41.570Z",
+  "last_updated": "2026-08-18T14:16:14.350Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4095,7 +4095,7 @@
     },
     "protocolo-nagoya-reparticao-beneficios-recursos-geneticos": {
       "slug": "protocolo-nagoya-reparticao-beneficios-recursos-geneticos",
-      "title_en": "Protocolo de Nagoya e a Lei 13.123/2015: como o Brasil regula o acesso a recursos genéticos e conhecimentos tradicionais [2026]",
+      "title_en": "Nagoya Protocol and Law 13.123/2015: how Brazil regulates access to genetic resources and traditional knowledge [2026]",
       "title_pt": "Protocolo de Nagoya e a Lei 13.123/2015: como o Brasil regula o acesso a recursos genéticos e conhecimentos tradicionais [2026]",
       "tags": [
         "propriedade-intelectual",
@@ -4107,13 +4107,37 @@
       "categories": [
         "article"
       ],
-      "description_en": "Entenda o Protocolo de Nagoya, a repartição de benefícios do uso de recursos genéticos e conhecimentos tradicionais e como a Lei 13.123/2015 e o SisGen funcionam no Brasil.",
-      "content_hash_en": null,
-      "content_hash_pt": "b7f3769e1b7bac5f5a24fe8f487bc83fc3e42b2d755859c21719cc1ec843ca83",
+      "description_en": "Understand the Nagoya Protocol, the benefit-sharing of the use of genetic resources and traditional knowledge, and how Law 13.123/2015 and SisGen work in Brazil.",
+      "content_hash_en": "c9255520410af9893d5714ccc23dcbd3da0ac049c41ba59e3aaece3f228b3387",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "brasil-tratado-budapeste-patentes-biotecnologia",
-        "inpi-manual-marcas-alto-renome-protocolo-madri"
+        "brasil-tratado-budapeste-patentes-biotecnologia"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "classificacao-nice-marcas-inpi-guia-completo": {
+      "slug": "classificacao-nice-marcas-inpi-guia-completo",
+      "title_en": "Classificação de Nice: como escolher a classe certa para registrar sua marca no INPI [2026]",
+      "title_pt": "Classificação de Nice: como escolher a classe certa para registrar sua marca no INPI [2026]",
+      "tags": [
+        "marcas",
+        "inpi",
+        "classificacao-nice",
+        "propriedade-intelectual",
+        "registro-de-marca"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo da Classificação de Nice para registro de marcas no INPI: as 45 classes, como escolher a classe certa, listas auxiliares, especificação livre e erros comuns. Tabela atualizada com a 13ª edição (2026).",
+      "content_hash_en": null,
+      "content_hash_pt": "e282faa341c84c43ed40e9018f1388d9476eeb0d943f72104b59ce5520de7997",
+      "backlinks": [
+        "busca-anterioridade-marcas-inpi-guia-completo",
+        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
+        "como-consultar-andamento-processo-inpi"
       ],
       "backlink_source": "file",
       "last_processed": null
