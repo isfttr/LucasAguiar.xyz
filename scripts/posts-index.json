@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T14:16:14.350Z",
+  "last_updated": "2026-08-18T18:07:46.582Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4107,8 +4107,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Understand the Nagoya Protocol, the benefit-sharing of the use of genetic resources and traditional knowledge, and how Law 13.123/2015 and SisGen work in Brazil.",
-      "content_hash_en": "c9255520410af9893d5714ccc23dcbd3da0ac049c41ba59e3aaece3f228b3387",
+      "description_en": "Understand the Nagoya Protocol, the sharing of benefits from the use of genetic resources and traditional knowledge, and how Law 13.123/2015 and SisGen work in Brazil.",
+      "content_hash_en": "9e04ba472b8a924dfcff175e26f6d8277a613b13127cb90d429e091686de8053",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "brasil-tratado-budapeste-patentes-biotecnologia",
@@ -4119,7 +4119,7 @@
     },
     "classificacao-nice-marcas-inpi-guia-completo": {
       "slug": "classificacao-nice-marcas-inpi-guia-completo",
-      "title_en": "Classificação de Nice: como escolher a classe certa para registrar sua marca no INPI [2026]",
+      "title_en": "Nice Classification: how to choose the right class to register your trademark with INPI [2026]",
       "title_pt": "Classificação de Nice: como escolher a classe certa para registrar sua marca no INPI [2026]",
       "tags": [
         "marcas",
@@ -4131,13 +4131,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo da Classificação de Nice para registro de marcas no INPI: as 45 classes, como escolher a classe certa, listas auxiliares, especificação livre e erros comuns. Tabela atualizada com a 13ª edição (2026).",
-      "content_hash_en": null,
-      "content_hash_pt": "e282faa341c84c43ed40e9018f1388d9476eeb0d943f72104b59ce5520de7997",
+      "description_en": "Complete guide to the Nice Classification for trademark registration at INPI: the 45 classes, how to choose the right class, auxiliary lists, free specification, and common mistakes. Updated table with the 13th edition (2026).",
+      "content_hash_en": "aad017fa72415976ee4625972d5e9eb30f8e1a381719ec6302f772cadccef5e7",
       "backlinks": [
         "busca-anterioridade-marcas-inpi-guia-completo",
         "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
         "como-consultar-andamento-processo-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "how-to-split-git-commit-guide-2026": {
+      "slug": "how-to-split-git-commit-guide-2026",
+      "title_en": "How to Split a Git Commit: Step-by-Step Guide [2026]",
+      "title_pt": "How to Split a Git Commit: Step-by-Step Guide [2026]",
+      "tags": [
+        "git",
+        "version-control",
+        "developer-tools",
+        "workflows",
+        "command-line"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Step-by-step guide to split a git commit into multiple commits with plain git: git reset --soft, git add -p, and interactive rebase. Works on any git version.",
+      "content_hash_en": "9675c9518a641ba97ab8a6eb98283af17897d981718a20b214c7c25c13056b72",
+      "backlinks": [
+        "mastering-git-log-history-guide-2026",
+        "stacked-pull-requests-guide-2026",
+        "gitbutler-what-is-review-alternatives-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
