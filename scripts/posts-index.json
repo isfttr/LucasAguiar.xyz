@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T11:40:06.503Z",
+  "last_updated": "2026-08-18T13:39:29.602Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3602,7 +3602,7 @@
         "article"
       ],
       "description_en": "What to do when e-Patentes, e-Marcas, or INPI's e-filing goes down: deadlines, Technical Unavailability Report, protocol recovery via GRU, and official channels.",
-      "content_hash_en": "90695caccd1a2e3185d9de326adb00e6823fa5b830bb94177485f377465985d1",
+      "content_hash_en": "db2abfb7e38b5805211fa37868161edf0f0e8ab1d385c5c00970a7451c69385c",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "guia-deposito-patente-inpi-2026",
