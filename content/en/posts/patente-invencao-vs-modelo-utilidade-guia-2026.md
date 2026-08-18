@@ -1,6 +1,6 @@
 ---
 date: 2026-08-05T14:00:00.000Z
-draft: true
+draft: false
 title: 'Invention Patent vs Utility Model: Differences, Terms and Costs [2026]'
 description: 'Differences between invention patent (PI) and utility model (MU) at INPI: legal requirements of LPI, protection terms, 2026 costs, practical examples, and how to choose the right type.'
 featured_image: ''
