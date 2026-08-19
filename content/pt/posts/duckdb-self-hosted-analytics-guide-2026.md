@@ -1,6 +1,6 @@
 ---
 date: 2026-08-16T18:07:52.000Z
-draft: true
+draft: false
 title: "DuckDB para Análises Auto-Hospedadas: Consultas a CSV, Parquet e JSON em Segundos [2026]"
 description: "Guia prático de DuckDB para usuários de homelab e self-hosted: instale o binário único, consulte CSV/Parquet/JSON diretamente, analise logs e exportações sem subir um servidor de banco de dados. Exemplos reais."
 featured_image: ""
