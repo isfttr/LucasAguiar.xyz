@@ -100,9 +100,9 @@ To start down this path without jumping straight into a full cluster, [K3s](http
 
 The hierarchy is simple: `docker run` packages, Docker Compose organizes a host, Kubernetes orchestrates a cluster. Each step solves a real problem, but the problem of the next step only exists if you've grown to that point. For your setup with Compose + Traefik + tunnel, Kubernetes would add operational complexity without solving any problem you have today — and if you ever need multi-host or auto-scaling, K3s allows that transition incrementally, reusing the YAML knowledge you already have from Compose.
 
-Also read:
+Read also:
 
-- [Kubernetes Health Probes Explained: Liveness, Readiness, and Startup [2026]]({{< relref "posts/kubernetes-probes-liveness-readiness-startup-guide-2026/" >}})
+- [Kubernetes Health Probes Explained: Liveness, Readiness & Startup [2026]]({{< relref "posts/kubernetes-probes-liveness-readiness-startup-guide-2026/" >}})
 - [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 - [How to Reduce CVEs in Your Docker Images: Container Security Guide [2026]]({{< relref "posts/reducing-cves-container-images-guide-2026/" >}})
 

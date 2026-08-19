@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T19:52:54.732Z",
+  "last_updated": "2026-08-19T19:54:47.714Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4217,7 +4217,7 @@
     },
     "kubernetes-vs-docker-compose-guia-2026": {
       "slug": "kubernetes-vs-docker-compose-guia-2026",
-      "title_en": "Kubernetes vs Docker Compose: Quando Você Precisa de Orquestração? [2026]",
+      "title_en": "Kubernetes vs Docker Compose: When Do You Need Orchestration? [2026]",
       "title_pt": "Kubernetes vs Docker Compose: Quando Você Precisa de Orquestração? [2026]",
       "tags": [
         "kubernetes",
@@ -4229,15 +4229,14 @@
       "categories": [
         "article"
       ],
-      "description_en": "Entenda o que o Kubernetes resolve que containers e Docker Compose não resolvem, as diferenças práticas e quando faz sentido (ou não) migrar seu setup.",
-      "content_hash_en": null,
-      "content_hash_pt": "f2e659d230168c8c155120e6fe26372f8bb39965bf65c8944550c46a0736ee3c",
+      "description_en": "Understand what Kubernetes solves that containers and Docker Compose don't solve, the practical differences, and when it makes sense (or not) to migrate your setup.",
+      "content_hash_en": "70c64aa51c564707a607195f8f217e7602702adae2d2f07f1b9fad027ee752d2",
       "backlinks": [
         "kubernetes-probes-liveness-readiness-startup-guide-2026",
         "containers-vs-vms-complete-guide-2026",
         "reducing-cves-container-images-guide-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-08-19T19:52:54.732Z"
     }
   }
