@@ -1,6 +1,6 @@
 ---
 date: 2026-06-26T13:00:00.000Z
-draft: true
+draft: false
 title: How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]
 description: 'Complete guide with all trademark registration costs at INPI in 2026: fees by class, discounts for MEI/ME, power of attorney, extension, and official links. Updated table.'
 featured_image: ''
