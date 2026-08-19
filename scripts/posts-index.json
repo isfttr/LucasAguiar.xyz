@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T18:02:35.738Z",
+  "last_updated": "2026-08-19T18:09:31.680Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4181,12 +4181,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "IP monetization guide in Brazil: assignment, licensing and recordal at INPI, valuation of intangible assets and how to use patents and trademarks as credit collateral.",
-      "content_hash_en": "5524541e635232f5338892842b4f6d5325485d330e477d426c4faa4306ad7681",
+      "description_en": "IP Monetization in Brazil: assignment, licensing and recordal with INPI, valuation of intangibles, and use of patents and trademarks as credit collateral.",
+      "content_hash_en": "e6ddd8eb130dcfdcb2cc267d847f51059e5573ea785a59a43c50c49ecfbdace9",
       "backlinks": [
         "inpi-plano-estrategico-2027-2036-guia-completo",
         "como-consultar-andamento-processo-inpi",
         "lpi-30-anos-propostas-aperfeicoamento-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "kubernetes-probes-liveness-readiness-startup-guide-2026": {
+      "slug": "kubernetes-probes-liveness-readiness-startup-guide-2026",
+      "title_en": "Kubernetes Health Probes Explained: Liveness, Readiness & Startup [2026]",
+      "title_pt": "Kubernetes Health Probes Explained: Liveness, Readiness & Startup [2026]",
+      "tags": [
+        "kubernetes",
+        "devops",
+        "homelab",
+        "containers",
+        "observability"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to Kubernetes health probes: liveness vs readiness vs startup, real YAML examples, common misconfigurations, and how probes prevent restart loops and dropped traffic during rollouts.",
+      "content_hash_en": "ed2a1540ab8f43fa17e5af79ea9b2a137c65ef8dd6ab28f5769b51665f7052b1",
+      "backlinks": [
+        "containers-vs-vms-complete-guide-2026",
+        "run-llms-old-server-homelab-guide-2026",
+        "containers-vs-vms-complete-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

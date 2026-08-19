@@ -111,11 +111,11 @@ If you run Kubernetes alongside other [containers and virtual machines on the sa
 - Set `periodSeconds` consciously: 10s is the default for good reason; 1s is almost never justified.
 - Verify with `kubectl describe pod` and `kubectl get events` — probe failures show up there immediately.
 
-Also read:
+Read also:
 
 - [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
-- [PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
 - [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
+- [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
 ---
 
