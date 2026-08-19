@@ -1,6 +1,6 @@
 ---
 date: 2026-08-19T11:17:57-03:00
-draft: true
+draft: false
 title: "Patentes e Marcas como Garantia de Crédito no Brasil: Guia Completo de Monetização de Ativos de PI"
 description: "Monetização de PI no Brasil: cessão, licenciamento e averbação no INPI, valoração de intangíveis e uso de patentes e marcas como garantia de crédito."
 featured_image: ""
@@ -15,7 +15,6 @@ tags:
   - financas
   - propriedade-intelectual
 ---
-
 O investimento global em ativos intangíveis — software, dados, marcas, P&D e capital organizacional — ultrapassou US$ 10 trilhões pela primeira vez em 2025, crescendo mais de três vezes mais rápido que o investimento em ativos tangíveis, segundo a [OMPI/WIPO](https://www.wipo.int/pressroom/en/articles/2026/article_0011.html). O Brasil é a 7ª maior economia nesse ranking, com US$ 312 bilhões investidos em intangíveis em 2023 (7,6% do PIB), conforme relatório do INPI em parceria com a WIPO e a Luiss Business School.
 
 O paradoxo brasileiro, porém, é conhecido de quem lida com propriedade industrial: o ativo intangível mais valioso de uma empresa é, na prática, um dos mais difíceis de transformar em crédito. Bancos aceitam imóveis, máquinas e recebíveis como garantia, mas raramente patentes ou marcas. Foi para mudar esse cenário que o [Plano Estratégico do INPI 2027-2036](https://www.gov.br/inpi/pt-br/governanca/planejamento-estrategico/plano-estrategico) elevou a monetização de ativos de PI à condição de objetivo estratégico formal, com uma estratégia específica para viabilizar o uso de PI como garantia bancária.
