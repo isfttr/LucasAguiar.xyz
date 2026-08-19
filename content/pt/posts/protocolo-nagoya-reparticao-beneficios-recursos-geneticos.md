@@ -1,8 +1,8 @@
 ---
 date: 2026-08-18T10:43:51-03:00
-draft: true
+draft: false
 title: "Protocolo de Nagoya e a Lei 13.123/2015: como o Brasil regula o acesso a recursos genéticos e conhecimentos tradicionais [2026]"
-description: "Entenda o Protocolo de Nagoya, a repartição de benefícios do uso de recursos genéticos e conhecimentos tradicionais e como a Lei 13.123/2015 e o SisGen funcionam no Brasil."
+description: Entenda o Protocolo de Nagoya, a repartição de benefícios do uso de recursos genéticos e conhecimentos tradicionais e como a Lei 13.123/2015 e o SisGen funcionam no Brasil.
 featured_image: ""
 categories:
   - article
@@ -13,7 +13,6 @@ tags:
   - regulacao
   - inovacao
 ---
-
 O Brasil é o país com a maior biodiversidade do planeta e detém entre 15% e 20% de toda a diversidade biológica mundial. Essa riqueza, porém, só gera valor se for acessada, estudada e explorada dentro de regras claras — que garantam ao mesmo tempo inovação e repartição justa dos benefícios com quem protege esse patrimônio. Esse é o objeto do Protocolo de Nagoia e, no Brasil, da Lei 13.123/2015 (Lei da Biodiversidade). Este artigo explica o que é o Protocolo, por que ele importa para um país megadiverso e como a legislação brasileira o implementa na prática, do cadastro no SisGen à repartição de benefícios.
 
 ## O que é o Protocolo de Nagoia
