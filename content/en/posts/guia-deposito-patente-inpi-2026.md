@@ -1,6 +1,6 @@
 ---
 date: 2026-07-21T14:00:00.000Z
-draft: true
+draft: false
 title: 'How to File a Patent at INPI: Complete Step-by-Step Guide [2026]'
 description: 'Complete guide to filing a patent at the INPI in 2026: required documentation, access to e-Patentes and the new Patent Services Module, costs per type of applicant, deadlines, and illustrated step-by-step.'
 featured_image: ''
