@@ -1,7 +1,7 @@
 ---
 date: 2026-06-26T10:00:00-03:00
-draft: true
-title: "Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]"
+draft: false
+title: Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]
 description: "Guia completo com todos os custos de registro de marca no INPI em 2026: taxas por classe, descontos para MEI/ME, procuração, prorrogação e links oficiais. Tabela atualizada."
 featured_image: ""
 categories:
@@ -13,7 +13,6 @@ tags:
   - guia
   - custos
 ---
-
 Registrar uma marca no INPI é mais acessível do que muita gente imagina — especialmente para microempreendedores e pequenas empresas, que pagam metade do valor. Este guia traz todos os custos atualizados com base na **Portaria GM/MDIC nº 110/2025** (em vigor desde agosto de 2025).
 
 > ⚠️ **Nota importante:** Os valores abaixo são da tabela vigente em junho/2026. O INPI atualiza as taxas periodicamente. Consulte sempre a [página oficial de custos](https://www.gov.br/inpi/pt-br/servicos/custos-e-pagamento) antes de pagar.
