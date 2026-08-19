@@ -1,6 +1,6 @@
 ---
 date: 2026-07-29T14:10:00.000Z
-draft: true
+draft: false
 title: 'International Patent Search: Complete Guide to PATENTSCOPE, Espacenet and Google Patents [2026]'
 description: 'Complete guide to international patent search: PATENTSCOPE from WIPO, Espacenet from EPO, and Google Patents. Comparison of tools, search strategies, and practical tips.'
 featured_image: ''
