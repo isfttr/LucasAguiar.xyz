@@ -1,6 +1,6 @@
 ---
 date: 2026-07-21T11:00:00-03:00
-draft: true
+draft: false
 title: "Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]"
 description: "Guia completo para depositar uma patente no INPI em 2026: documentação necessária, acesso ao e-Patentes e ao novo Módulo de Serviços de Patentes, custos por tipo de depositante, prazos e passo a passo ilustrado."
 featured_image: ""
@@ -13,10 +13,7 @@ tags:
   - propriedade-intelectual
   - inovacao
 ---
-
-Em 27 de julho de 2026, o INPI disponibilizou a plataforma de testes do **Módulo de Serviços de Patentes**, uma nova interface que promete transformar a forma como depositantes, procuradores e titulares acompanham seus processos de patente. Embora o depósito propriamente dito ainda seja feito pelo sistema legado **e-Patentes**, o novo módulo já oferece uma área de trabalho personalizada, notificações automáticas e compartilhamento de acesso — um passo concreto na [automação dos serviços do INPI]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}}).
-
-Mas como funciona, na prática, o depósito de uma patente no Brasil em 2026? Este guia cobre todo o processo, do cadastro inicial à publicação do pedido, incluindo as novidades trazidas pelo novo módulo.
+Como funciona, na prática, o depósito de uma patente no Brasil em 2026? Este guia cobre todo o processo, do cadastro inicial à publicação do pedido, incluindo as novidades trazidas pelo novo módulo.
 
 ## O que é uma patente e o que ela protege?
 
@@ -49,7 +46,7 @@ Antes de abrir o sistema, reúna estes documentos e informações:
 
 Antes de depositar, é altamente recomendável fazer uma busca de anterioridade para verificar se sua invenção já é conhecida. O próprio INPI oferece ferramentas de busca — veja nosso [guia prático de busca de patentes no INPI]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}}).
 
-A busca evita desperdício de taxas e ajuda a redigir reivindicações mais precisas. O INPI aceita pedidos mesmo sem busca prévia, mas a taxa de indeferimento por falta de novidade é alta.
+A busca evita desperdício de taxas e ajuda a redigir reivindicações mais precisas. Importante entender que o INPI aceita pedidos mesmo sem busca prévia, já que não é um documento separado que é depositado. A busca prévia tem objetivo de subsidiar a redação do relatório descritivo, que é parte obrigatório do pedido de patente de invenção.
 
 ### Passo 2: Acessar o e-Patentes
 
@@ -80,7 +77,7 @@ O sistema aceita arquivos nos formatos PDF, ODT, DOCX e TXT. Os documentos obrig
 | Reivindicações | Define o escopo da proteção | PDF/ODT |
 | Resumo | Síntese do conteúdo técnico (até 200 palavras) | PDF/ODT |
 | Desenhos (se houver) | Figuras, fluxogramas, diagramas | PDF/TIF |
-| Listagem de sequências (biotec) | Para invenções biotecnológicas | TXT |
+| Listagem de sequências | Para invenções biotecnológicas | TXT |
 
 Dica importante: as **reivindicações** são a parte mais crítica do pedido — delimitam o que você quer proteger. Redija-as com cuidado, preferencialmente com auxílio de um agente de propriedade industrial credenciado. Veja [como funciona o credenciamento de busca de anterioridade]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}}).
 
@@ -178,9 +175,10 @@ O tempo médio de exame no INPI varia por área tecnológica. Em 2026, o backlog
 
 Leia também:
 
+- [Guia Completo de Anuidades de Patentes no INPI: Prazos, Valores e Como Pagar [2026]]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
+- [Patente vs Modelo de Utilidade no Brasil: Diferenças, Prazos e Custos [2026]]({{< relref "posts/patente-vs-modelo-utilidade-brasil/" >}})
 - [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 - [Tipos de Proteção Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
-- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
 
 ---
 
