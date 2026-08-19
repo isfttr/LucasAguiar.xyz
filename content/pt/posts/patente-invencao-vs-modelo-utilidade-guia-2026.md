@@ -1,6 +1,6 @@
 ---
 date: 2026-08-05T11:00:00-03:00
-draft: true
+draft: false
 title: "Patente de Invenção vs Modelo de Utilidade: Diferenças, Prazos e Custos [2026]"
 description: "Diferenças entre patente de invenção (PI) e modelo de utilidade (MU) no INPI: requisitos legais da LPI, prazos de proteção, custos 2026, exemplos práticos e como escolher o tipo certo."
 featured_image: ""
@@ -13,7 +13,6 @@ tags:
   - propriedade-intelectual
   - guia
 ---
-
 Você criou um produto ou uma melhoria em algo que já existe — e agora precisa decidir: depositar como **patente de invenção (PI)** ou como **modelo de utilidade (MU)**? A escolha errada pode significar 5 anos a menos de proteção, custos desnecessariamente maiores ou um pedido indeferido por exigir um grau de inventividade que o seu objeto não tem.
 
 A boa notícia: a Lei de Propriedade Industrial (Lei nº 9.279/96 — LPI) define os dois institutos com clareza, e a decisão depende de poucas perguntas objetivas. Este guia compara os dois tipos de patente com base na lei, nos valores vigentes do INPI em 2026 e em exemplos práticos — para você depositar o tipo certo na primeira tentativa.
@@ -74,6 +73,7 @@ A vigência é o trade-off final: 20 anos (PI) contra 15 anos (MU), ambos contad
 | Método de fabricação de um componente | PI | Processo — MU não protege processos |
 | Circuito eletrônico com arquitetura inédita | PI | Solução técnica radicalmente nova |
 
+
 Um mesmo produto pode combinar várias proteções: uma garrafa pode ter **MU** (tampa funcional), **desenho industrial** (formato ornamental) e **marca** (nome). A confusão mais comum é entre MU e desenho industrial: o DI protege a **aparência estética**, o MU protege a **funcionalidade** da forma. Veja nosso [guia de registro de desenho industrial no INPI]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}}) para a distinção completa.
 
 ## Custos em 2026: quanto custa cada caminho?
@@ -86,6 +86,8 @@ Os valores abaixo seguem a Tabela de Retribuições dos Serviços de Patentes do
 | Depósito (demais PJ) | R$ 285 | R$ 220 |
 | Anuidades totais (PF/ME/EPP) | ~R$ 9.800 | ~R$ 4.900 |
 | Anuidades totais (demais PJ) | ~R$ 19.600 | ~R$ 9.800 |
+
+**Importante** ressaltar que as anuidades totais aqui serão pagos ao longo de 20 anos, no caso de PI, e de 15 anos para MU, e que não são pagos todos de uma vez, mas sim anualmente.
 
 A diferença de anuidades é o maior peso da decisão: manter um MU custa **metade** do que manter uma PI ao longo da vida útil. Como as anuidades começam a ser devidas já no 3º ano do depósito (art. 84 da LPI), mesmo que o pedido ainda esteja na fila de exame, vale projetar esse custo desde o início. Detalhes de prazos, códigos GRU e restauração no nosso [guia completo de anuidades de patentes]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}}).
 
