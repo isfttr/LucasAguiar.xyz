@@ -2,7 +2,7 @@
 date: 2026-08-19T11:17:57-03:00
 draft: true
 title: "Patentes e Marcas como Garantia de Crédito no Brasil: Guia Completo de Monetização de Ativos de PI"
-description: "Guia de monetização de PI no Brasil: cessão, licenciamento e averbação no INPI, valoração de ativos intangíveis e como usar patentes e marcas como garantia de crédito."
+description: "Guia de monetização de PI no Brasil: cessão, licenciamento e averbação no INPI, valoração de ativos intangíveis e uso de patentes e marcas como garantia de crédito."
 featured_image: ""
 categories:
   - article
@@ -66,6 +66,17 @@ O [Plano Estratégico 2027-2036]({{< relref "posts/inpi-plano-estrategico-2027-2
 
 Se cumpridas, essas estratégias atacam exatamente as quatro barreiras da tabela acima: valoração padronizada, indicadores de risco, educação do mercado e enquadramento regulatório junto ao Banco Central e à CMN. A articulação com o sistema financeiro, porém, depende de fôlego de longo prazo — o plano tem vigência decenal e o horizonte de implementação é de anos, não de meses.
 
+## O GIPI e o Grupo de Trabalho de PI e Financiamento
+
+A estratégia 6.5 não opera no vácuo: o principal fórum interministerial de política de PI já começou a executar a pauta de acesso ao crédito. O [Grupo Interministerial de Propriedade Intelectual (GIPI)](https://www.gov.br/mdic/pt-br/assuntos/propriedade-intelectual), presidido pelo MDIC por meio da Secretaria de Competitividade e Política Regulatória e integrado por 13 ministérios, pelo INPI e por representantes da sociedade, é o órgão responsável por promover e implementar a [Estratégia Nacional de Propriedade Intelectual (ENPI)](https://www.gov.br/mdic/pt-br/assuntos/propriedade-intelectual), vigente até 2030.
+
+Em abril de 2026, o GIPI aprovou a criação do **Grupo de Trabalho sobre Propriedade Intelectual e Financiamento**, com mandato explícito de mapear, formular, propor e articular iniciativas para estruturar e viabilizar o uso da propriedade intelectual como instrumento de acesso ao financiamento — a tradução institucional, em escala interministerial, da estratégia 6.5 do Plano Estratégico do INPI, segundo a [cobertura da reunião](https://jornalismorondonia.com.br/acoes-para-promocao-da-propriedade-intelectual-sao-destaque-em-reuniao-do-gipi/) (a fonte original é o MDIC). Na mesma reunião, o balanço do primeiro ano do Plano de Ação 2025-2027 do GIPI listou entregas diretamente relacionadas à monetização: mentorias especializadas em gestão e comercialização de ativos de PI, iniciativas de valoração e uso econômico de ativos de PI — incluindo o acesso ao crédito — e o fortalecimento da transferência de tecnologia entre ICTs e o setor produtivo. A orientação da secretaria foi concluir as entregas mais avançadas ainda no primeiro semestre de 2026.
+
+Dois desdobramentos do mesmo eixo merecem registro para quem acompanha o tema:
+
+- **Reinventa.BR** — programa de aceleração da inovação aberta que aproxima indústrias de médio e grande porte das ICTs, integrado à ENPI, com expansão em escala nacional prevista para o período 2027-2028.
+- **Registro e mensuração de ativos de ICTs** — MDIC e Controladoria-Geral da União (CGU) passaram a atuar em conjunto no fortalecimento do registro e da mensuração de ativos de PI produzidos por Instituições Científicas, Tecnológicas e de Inovação, com evento conjunto realizado em maio de 2026. É um pré-requisito contábil para que intangíveis públicos entrem no balanço e possam, no futuro, lastrear operações.
+
 ## Passo a passo prático para monetizar PI no Brasil
 
 Enquanto o ecossistema amadurece, a empresa que quer usar PI como ativo financeiro pode começar hoje:
@@ -78,11 +89,11 @@ Enquanto o ecossistema amadurece, a empresa que quer usar PI como ativo financei
 
 **4. Use os recebíveis como lastro.** Com o contrato de licença averbado gerando royalties previsíveis, é possível estruturar cessão fiduciária de recebíveis e apresentar o fluxo como garantia acessória em operações de crédito, complementando garantias tradicionais.
 
-**5. Monitore os marcos regulatórios.** Acompanhe a implementação do serviço de valoração do INPI, as consultas públicas sobre o tema e eventuais projetos de lei sobre garantias de intangíveis — as discussões sobre o [aperfeiçoamento da LPI]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}}) podem trazer previsão expressa para esses instrumentos.
+**5. Monitore os marcos regulatórios.** Acompanhe a implementação do serviço de valoração do INPI, as entregas do Grupo de Trabalho sobre Propriedade Intelectual e Financiamento do GIPI (criado em abril de 2026 para estruturar o uso de PI como instrumento de acesso a crédito) e eventuais projetos de lei sobre garantias de intangíveis — as discussões sobre o [aperfeiçoamento da LPI]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}}) podem trazer previsão expressa para esses instrumentos.
 
 ## O que observar
 
-A monetização de PI no Brasil tem três sinais de maturação para acompanhar: (1) a efetiva implantação do serviço de valoração do INPI e das calculadoras prometidas; (2) a articulação com o Banco Central, CMN e bancos para reconhecer ativos de PI como garantia — a estratégia 6.5 do plano; e (3) o movimento de fundos e bancos de desenvolvimento em linhas de crédito lastreadas em intangíveis.
+A monetização de PI no Brasil tem quatro sinais de maturação para acompanhar: (1) a efetiva implantação do serviço de valoração do INPI e das calculadoras prometidas; (2) as primeiras entregas do Grupo de Trabalho sobre Propriedade Intelectual e Financiamento do GIPI — que tipo de instrumento será proposto e quais instituições financeiras aderirem; (3) a articulação com o Banco Central, CMN e bancos para reconhecer ativos de PI como garantia — a estratégia 6.5 do plano; e (4) o movimento de fundos e bancos de desenvolvimento em linhas de crédito lastreadas em intangíveis.
 
 Para a empresa média brasileira, o caminho realista não é "dar a patente ao banco", mas transformar a patente em receita contratual e usar essa receita como garantia. O Plano Estratégico 2027-2036 sinaliza que o INPI quer construir a infraestrutura — valoração, certificação, regulação — para que esse caminho deixe de ser exceção. Empresas que já tiverem contratos averbados e valoração documentada estarão na frente quando o crédito com lastro em PI se tornar realidade.
 
