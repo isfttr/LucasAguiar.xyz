@@ -1,6 +1,6 @@
 ---
 date: 2026-08-15T14:25:52.000Z
-draft: true
+draft: false
 title: 'INPI Strategic Plan 2027-2036: Complete Guide to the 7 Objectives and What Changes for Companies'
 description: 'Complete guide to INPI’s Strategic Plan 2027-2036: the 7 strategic objectives, valuation of IP assets, IP as bank collateral, and what changes for those who use patents and trademarks.'
 featured_image: ''
