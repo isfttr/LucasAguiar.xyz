@@ -77,11 +77,11 @@ The late promulgation of the Nagoya Protocol (Decree 11.865/2023) closes a cycle
 
 For a country that holds the world's greatest biodiversity, the biodiversity law is at once an instrument for protecting national heritage and for providing legal certainty for innovation. The Nagoya Protocol and Law 13.123/2015 form the framework that allows Brazil to charge for what nature offers—and the productive sector to innovate without risk.
 
-Also read:
+Read also:
 
-- [Brazil Joins the Budapest Treaty: What Changes for Biotechnology Patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [Brazil Joins the Budapest Treaty: What Changes for Biotechnology Patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [Brazil Joins the Budapest Treaty: What Changes for Biotechnology Patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
+- [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
+- [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
+- [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
 
 ---
 

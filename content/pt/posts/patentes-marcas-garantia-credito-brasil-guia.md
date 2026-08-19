@@ -88,9 +88,9 @@ Para a empresa média brasileira, o caminho realista não é "dar a patente ao b
 
 Leia também:
 
-- [Plano Estratégico do INPI 2027-2036: Guia Completo dos 7 Objetivos]({{< relref "posts/inpi-plano-estrategico-2027-2036-guia-completo/" >}})
-- [LPI aos 30 anos: propostas de aperfeiçoamento]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
-- [Como consultar o andamento de um processo no INPI]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Plano Estratégico do INPI 2027-2036: Guia Completo dos 7 Objetivos e o que Muda para Empresas]({{< relref "posts/inpi-plano-estrategico-2027-2036-guia-completo/" >}})
+- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T01:59:51.257Z",
+  "last_updated": "2026-08-19T14:19:16.434Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4108,7 +4108,7 @@
         "article"
       ],
       "description_en": "Understand the Nagoya Protocol, the sharing of benefits from the use of genetic resources and traditional knowledge, and how Law 13.123/2015 and SisGen work in Brazil.",
-      "content_hash_en": "34fb6921dc822e3a2f0f016d51a5254d2fd2287866f2a24866717d21e9ba8452",
+      "content_hash_en": "e3773742b59f896ca84d122d734dc833583d4faf6b4509eb2cdaefaac5851095",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "brasil-tratado-budapeste-patentes-biotecnologia",
@@ -4161,6 +4161,33 @@
         "mastering-git-log-history-guide-2026",
         "stacked-pull-requests-guide-2026",
         "gitbutler-what-is-review-alternatives-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "patentes-marcas-garantia-credito-brasil-guia": {
+      "slug": "patentes-marcas-garantia-credito-brasil-guia",
+      "title_en": "Patentes e Marcas como Garantia de Crédito no Brasil: Guia Completo de Monetização de Ativos de PI",
+      "title_pt": "Patentes e Marcas como Garantia de Crédito no Brasil: Guia Completo de Monetização de Ativos de PI",
+      "tags": [
+        "patentes",
+        "marcas",
+        "inpi",
+        "ativos-intangiveis",
+        "inovacao",
+        "financas",
+        "propriedade-intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia de monetização de PI no Brasil: cessão, licenciamento e averbação no INPI, valoração de ativos intangíveis e como usar patentes e marcas como garantia de crédito.",
+      "content_hash_en": null,
+      "content_hash_pt": "8b8f9e01ae4ff8964c9841992ffa760a044572e31f4f79ff473427b6f9fe6532",
+      "backlinks": [
+        "inpi-plano-estrategico-2027-2036-guia-completo",
+        "como-consultar-andamento-processo-inpi",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi"
       ],
       "backlink_source": "file",
       "last_processed": null
