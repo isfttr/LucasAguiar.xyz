@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T14:19:16.434Z",
+  "last_updated": "2026-08-19T18:02:35.738Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4108,7 +4108,7 @@
         "article"
       ],
       "description_en": "Understand the Nagoya Protocol, the sharing of benefits from the use of genetic resources and traditional knowledge, and how Law 13.123/2015 and SisGen work in Brazil.",
-      "content_hash_en": "e3773742b59f896ca84d122d734dc833583d4faf6b4509eb2cdaefaac5851095",
+      "content_hash_en": "f0805b68ccc9b16ec6a3db62c8c3b3c6fa4c93fc766b81db0777ac1cf77ef46f",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "brasil-tratado-budapeste-patentes-biotecnologia",
@@ -4167,7 +4167,7 @@
     },
     "patentes-marcas-garantia-credito-brasil-guia": {
       "slug": "patentes-marcas-garantia-credito-brasil-guia",
-      "title_en": "Patentes e Marcas como Garantia de Crédito no Brasil: Guia Completo de Monetização de Ativos de PI",
+      "title_en": "Patents and Trademarks as Credit Collateral in Brazil: Complete Guide to Monetizing IP Assets",
       "title_pt": "Patentes e Marcas como Garantia de Crédito no Brasil: Guia Completo de Monetização de Ativos de PI",
       "tags": [
         "patentes",
@@ -4181,9 +4181,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia de monetização de PI no Brasil: cessão, licenciamento e averbação no INPI, valoração de ativos intangíveis e como usar patentes e marcas como garantia de crédito.",
-      "content_hash_en": null,
-      "content_hash_pt": "8b8f9e01ae4ff8964c9841992ffa760a044572e31f4f79ff473427b6f9fe6532",
+      "description_en": "IP monetization guide in Brazil: assignment, licensing and recordal at INPI, valuation of intangible assets and how to use patents and trademarks as credit collateral.",
+      "content_hash_en": "5524541e635232f5338892842b4f6d5325485d330e477d426c4faa4306ad7681",
       "backlinks": [
         "inpi-plano-estrategico-2027-2036-guia-completo",
         "como-consultar-andamento-processo-inpi",

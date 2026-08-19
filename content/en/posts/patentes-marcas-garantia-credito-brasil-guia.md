@@ -90,8 +90,8 @@ For the average Brazilian company, the realistic path is not "handing the patent
 Read also:
 
 - [INPI Strategic Plan 2027-2036: Complete Guide to the 7 Objectives and What Changes for Companies]({{< relref "posts/inpi-plano-estrategico-2027-2036-guia-completo/" >}})
-- [How to Check the Status of an INPI Proceeding: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [LPI at 30 years: INPI publishes report with proposals to improve the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---
 
