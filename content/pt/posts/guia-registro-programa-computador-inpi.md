@@ -160,9 +160,10 @@ Registrar um programa de computador no INPI é um processo simples, de custo bai
 Desenvolvedores, startups e empresas de tecnologia que ainda não registraram seus softwares estão expostos a riscos desnecessários em disputas de titularidade. O investimento é pequeno comparado ao custo de uma ação judicial sem prova documental robusta.
 
 Leia também:
-- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Como Dividir um Commit do Git: Guia Passo a Passo [2026]]({{< relref "posts/dividir-commit-git-guia/" >}})
-- [GitButler: O Que É, Review e Alternativas [2026]]({{< relref "posts/gitbutler-what-is-review-alternatives-2026/" >}})
+
+- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
 
 ---
 

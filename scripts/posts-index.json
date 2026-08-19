@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T19:54:47.714Z",
+  "last_updated": "2026-08-19T19:58:44.867Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1341,7 +1341,7 @@
         "article"
       ],
       "description_en": "Complete guide with all trademark registration costs at INPI in 2026: fees by class, discounts for MEI/ME, power of attorney, extension, and official links. Updated table.",
-      "content_hash_en": "1adf1ff4603650b99ead9c703aa37106d437f8acae06cb2341c76ed9c37d4b4b",
+      "content_hash_en": "f10a1569ecbc0f8c8913fb569ea4c6650a4968d705c9c2a126c7316be3017cc1",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "como-consultar-andamento-processo-inpi",
@@ -4230,7 +4230,7 @@
         "article"
       ],
       "description_en": "Understand what Kubernetes solves that containers and Docker Compose don't solve, the practical differences, and when it makes sense (or not) to migrate your setup.",
-      "content_hash_en": "70c64aa51c564707a607195f8f217e7602702adae2d2f07f1b9fad027ee752d2",
+      "content_hash_en": "a149ffaa11946fbf49a7dc3d13e69349953c3ef26e53ce9994069b29e8d94999",
       "backlinks": [
         "kubernetes-probes-liveness-readiness-startup-guide-2026",
         "containers-vs-vms-complete-guide-2026",
