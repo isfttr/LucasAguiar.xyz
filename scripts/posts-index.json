@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T18:07:46.582Z",
+  "last_updated": "2026-08-19T00:16:50.012Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4108,7 +4108,7 @@
         "article"
       ],
       "description_en": "Understand the Nagoya Protocol, the sharing of benefits from the use of genetic resources and traditional knowledge, and how Law 13.123/2015 and SisGen work in Brazil.",
-      "content_hash_en": "9e04ba472b8a924dfcff175e26f6d8277a613b13127cb90d429e091686de8053",
+      "content_hash_en": "34fb6921dc822e3a2f0f016d51a5254d2fd2287866f2a24866717d21e9ba8452",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "brasil-tratado-budapeste-patentes-biotecnologia",
@@ -4132,7 +4132,7 @@
         "article"
       ],
       "description_en": "Complete guide to the Nice Classification for trademark registration at INPI: the 45 classes, how to choose the right class, auxiliary lists, free specification, and common mistakes. Updated table with the 13th edition (2026).",
-      "content_hash_en": "aad017fa72415976ee4625972d5e9eb30f8e1a381719ec6302f772cadccef5e7",
+      "content_hash_en": "0ea43ee1deef1c1810907734ba10fbfb126ed3c468528c8bceefe91a36504be6",
       "backlinks": [
         "busca-anterioridade-marcas-inpi-guia-completo",
         "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
@@ -4144,7 +4144,7 @@
     "how-to-split-git-commit-guide-2026": {
       "slug": "how-to-split-git-commit-guide-2026",
       "title_en": "How to Split a Git Commit: Step-by-Step Guide [2026]",
-      "title_pt": "How to Split a Git Commit: Step-by-Step Guide [2026]",
+      "title_pt": "Como Dividir um Commit do Git: Guia Passo a Passo [2026]",
       "tags": [
         "git",
         "version-control",
@@ -4156,7 +4156,7 @@
         "article"
       ],
       "description_en": "Step-by-step guide to split a git commit into multiple commits with plain git: git reset --soft, git add -p, and interactive rebase. Works on any git version.",
-      "content_hash_en": "9675c9518a641ba97ab8a6eb98283af17897d981718a20b214c7c25c13056b72",
+      "content_hash_en": "74ae46f2ff6300e6ee2a8ec679aa5cd6a6a823070d640966480aa4c8cfe0d1b7",
       "backlinks": [
         "mastering-git-log-history-guide-2026",
         "stacked-pull-requests-guide-2026",
