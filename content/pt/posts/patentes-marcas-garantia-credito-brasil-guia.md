@@ -2,7 +2,7 @@
 date: 2026-08-19T11:17:57-03:00
 draft: true
 title: "Patentes e Marcas como Garantia de Crédito no Brasil: Guia Completo de Monetização de Ativos de PI"
-description: "Guia de monetização de PI no Brasil: cessão, licenciamento e averbação no INPI, valoração de ativos intangíveis e uso de patentes e marcas como garantia de crédito."
+description: "Monetização de PI no Brasil: cessão, licenciamento e averbação no INPI, valoração de intangíveis e uso de patentes e marcas como garantia de crédito."
 featured_image: ""
 categories:
   - article
