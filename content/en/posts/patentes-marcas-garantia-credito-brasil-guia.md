@@ -98,11 +98,11 @@ IP monetization in Brazil has four signs of maturation to follow: (1) the effect
 
 For the average Brazilian company, the realistic path is not "giving the patent to the bank" but turning the patent into contractual revenue and using that revenue as collateral. The 2027-2036 Strategic Plan signals that INPI wants to build the infrastructure — valuation, certification, regulation — so that this path ceases to be the exception. Companies that already have recorded contracts and documented valuations will be ahead when IP-backed credit becomes a reality.
 
-Also read:
+Read also:
 
-- [INPI 2027-2036 Strategic Plan: Complete Guide to the 7 Objectives and What Changes for Companies]({{< relref "posts/inpi-plano-estrategico-2027-2036-guia-completo/" >}})
-- [How to Check the Status of a Proceeding at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [LPI at 30 Years: INPI Publishes Report with Proposals to Improve the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
+- [INPI Strategic Plan 2027-2036: Complete Guide to the 7 Objectives and What Changes for Companies]({{< relref "posts/inpi-plano-estrategico-2027-2036-guia-completo/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---
 
