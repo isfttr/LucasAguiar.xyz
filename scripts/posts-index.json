@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T18:09:31.680Z",
+  "last_updated": "2026-08-19T19:26:38.618Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4182,7 +4182,7 @@
         "article"
       ],
       "description_en": "IP Monetization in Brazil: assignment, licensing and recordal with INPI, valuation of intangibles, and use of patents and trademarks as credit collateral.",
-      "content_hash_en": "e6ddd8eb130dcfdcb2cc267d847f51059e5573ea785a59a43c50c49ecfbdace9",
+      "content_hash_en": "c50f928bfc8621473be2b043c26fbe652c4ea7747aec195674e5f5f3b127d82f",
       "backlinks": [
         "inpi-plano-estrategico-2027-2036-guia-completo",
         "como-consultar-andamento-processo-inpi",
@@ -4194,7 +4194,7 @@
     "kubernetes-probes-liveness-readiness-startup-guide-2026": {
       "slug": "kubernetes-probes-liveness-readiness-startup-guide-2026",
       "title_en": "Kubernetes Health Probes Explained: Liveness, Readiness & Startup [2026]",
-      "title_pt": "Kubernetes Health Probes Explained: Liveness, Readiness & Startup [2026]",
+      "title_pt": "Sondas de Saúde do Kubernetes Explicadas: Liveness, Readiness e Startup [2026]",
       "tags": [
         "kubernetes",
         "devops",
@@ -4206,7 +4206,7 @@
         "article"
       ],
       "description_en": "Complete guide to Kubernetes health probes: liveness vs readiness vs startup, real YAML examples, common misconfigurations, and how probes prevent restart loops and dropped traffic during rollouts.",
-      "content_hash_en": "ed2a1540ab8f43fa17e5af79ea9b2a137c65ef8dd6ab28f5769b51665f7052b1",
+      "content_hash_en": "0347c1ef27a160c4f51edd1199234e11c246c3fb814603c1b8c47f0144bd627e",
       "backlinks": [
         "containers-vs-vms-complete-guide-2026",
         "run-llms-old-server-homelab-guide-2026",
