@@ -1,9 +1,9 @@
 ---
 date: 2026-08-18T18:06:55.000Z
-draft: true
-title: 'Como Dividir um Commit do Git: Guia Passo a Passo [2026]'
-description: 'Guia passo a passo para dividir um commit git em vários commits com git puro: git reset --soft, git add -p e rebase interativo. Funciona em qualquer versão do git.'
-featured_image: ''
+draft: false
+title: "Como Dividir um Commit do Git: Guia Passo a Passo [2026]"
+description: "Guia passo a passo para dividir um commit git em vários commits com git puro: git reset --soft, git add -p e rebase interativo. Funciona em qualquer versão do git."
+featured_image: ""
 categories:
   - article
 tags:
@@ -15,8 +15,6 @@ tags:
 slug: dividir-commit-git-guia
 translation_source_hash: 74ae46f2ff6300e6ee2a8ec679aa5cd6a6a823070d640966480aa4c8cfe0d1b7
 ---
-Você fez commit demais de uma vez: duas alterações não relacionadas, um refactor misturado com uma correção de bug, ou uma funcionalidade que deveria ter sido dois commits. A boa notícia é que dividir um commit do git é um problema já resolvido — e você não precisa de nenhum comando experimental ou ferramenta de terceiros para fazer isso. Tudo neste guia funciona com git puro, em qualquer versão, em qualquer plataforma.
-
 Este guia aborda os dois casos que você realmente vai enfrentar: dividir o commit mais recente (o caminho rápido) e dividir um commit mais antigo enterrado no histórico (o caminho do rebase interativo). Ambos produzem commits atômicos — do tipo que torna `git log`, code review e `git bisect` muito mais úteis.
 
 ## Por que dividir um commit?
