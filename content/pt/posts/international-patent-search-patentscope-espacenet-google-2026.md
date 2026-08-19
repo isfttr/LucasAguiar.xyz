@@ -1,9 +1,9 @@
 ---
 date: 2026-07-29T14:10:00.000Z
-draft: true
-title: 'Guia de Pesquisa Internacional de Patentes: PATENTSCOPE, Espacenet e Google Patents [2026]'
-description: 'Guia completo para ferramentas gratuitas de pesquisa internacional de patentes: WIPO PATENTSCOPE, EPO Espacenet e Google Patents. Comparação, estratégias de pesquisa e dicas práticas para buscas de estado da técnica.'
-featured_image: ''
+draft: false
+title: "Guia de Pesquisa Internacional de Patentes: PATENTSCOPE, Espacenet e Google Patents [2026]"
+description: "Guia completo para ferramentas gratuitas de pesquisa internacional de patentes: WIPO PATENTSCOPE, EPO Espacenet e Google Patents. Comparação, estratégias de pesquisa e dicas práticas para buscas de estado da técnica."
+featured_image: ""
 categories:
   - article
 tags:
@@ -16,8 +16,6 @@ tags:
 slug: guia-pesquisa-internacional-patentes
 translation_source_hash: caf17c3aac177b1f6960b72cfba68fd58d7043e76d11179950a01fba0e7ca399
 ---
-Você já sabe como pesquisar patentes na base do INPI. Mas você sabia que as bases internacionais contêm mais de **120 milhões de documentos de patentes** — incluindo pedidos depositados nos Estados Unidos, Europa, China, Japão, Coreia e pelo sistema PCT — e que a maioria deles é de acesso gratuito?
-
 Estima-se que **70% das informações técnicas encontradas em patentes nunca são publicadas em nenhum outro lugar** — nem em periódicos, livros ou anais de conferências. Ignorar as bases internacionais significa perder uma parcela significativa do estado da técnica global. Dependendo do seu setor tecnológico, você pode depositar um pedido de patente que já foi antecipado por um documento publicado do outro lado do mundo.
 
 Este guia aborda as **três principais ferramentas gratuitas de busca internacional de patentes**: PATENTSCOPE (OMPI), Espacenet (EPO) e Google Patentes. Você aprenderá quando usar cada uma, como realizar buscas avançadas e quais estratégias trazem os resultados que você realmente precisa.
