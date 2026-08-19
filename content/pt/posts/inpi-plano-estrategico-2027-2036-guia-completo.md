@@ -1,6 +1,6 @@
 ---
 date: 2026-08-15T11:25:52-03:00
-draft: true
+draft: false
 title: "Plano Estratégico do INPI 2027-2036: Guia Completo dos 7 Objetivos e o que Muda para Empresas"
 description: "Guia completo do Plano Estratégico do INPI 2027-2036: os 7 objetivos estratégicos, valoração de ativos de PI, PI como garantia bancária e o que muda para quem usa patentes e marcas."
 featured_image: ""
@@ -14,7 +14,6 @@ tags:
   - inovacao
   - governanca
 ---
-
 Em 14 de agosto de 2026, o INPI divulgou seu Plano Estratégico para o período de 2027 a 2036 — o primeiro ciclo decenal de planejamento da autarquia, aprovado pelo Comitê de Governança Interna (CGI) em julho de 2026. O documento substitui o ciclo quadrienal 2023-2026 e define sete Objetivos Estratégicos que vão orientar a atuação do Instituto pelos próximos dez anos.
 
 Para empresas, startups e escritórios de PI, o plano importa por três motivos: ele sinaliza os rumos do exame de patentes e marcas, anuncia serviços novos (como valoração de ativos de PI) e define prioridades regulatórias que podem chegar à Lei de Propriedade Industrial (LPI). Este guia explica o que o plano contém, objetivo por objetivo, e o que muda na prática.
