@@ -1,9 +1,9 @@
 ---
 date: 2026-08-16T18:07:52.000Z
 draft: true
-title: 'DuckDB para Análises Auto-Hospedadas: Consultas a CSV, Parquet e JSON em Segundos [2026]'
-description: 'Guia prático de DuckDB para usuários de homelab e self-hosted: instale o binário único, consulte CSV/Parquet/JSON diretamente, analise logs e exportações sem subir um servidor de banco de dados. Exemplos reais.'
-featured_image: ''
+title: "DuckDB para Análises Auto-Hospedadas: Consultas a CSV, Parquet e JSON em Segundos [2026]"
+description: "Guia prático de DuckDB para usuários de homelab e self-hosted: instale o binário único, consulte CSV/Parquet/JSON diretamente, analise logs e exportações sem subir um servidor de banco de dados. Exemplos reais."
+featured_image: ""
 categories:
   - article
 tags:
@@ -15,19 +15,9 @@ tags:
 slug: duckdb-analises-autohospedadas-csv-parquet-json
 translation_source_hash: 868e077be0795db23e5d22f5f2d439ea1f68bbebba35bfcd782feb7f62db3580
 ---
-É sexta-feira à tarde. Seu homelab está rodando há meses e você finalmente precisa de uma resposta: quantas tentativas de login SSH falharam em todos os seus serviços no último trimestre? Você tem os logs — CSVs exportados do Proxmox, dumps JSON dos seus dashboards, alguns arquivos Parquet de um job de backup. Os dados estão bem ali. Mas, para responder a uma pergunta, você teria que carregar tudo em uma planilha que trava com 200 mil linhas, ou subir um servidor de banco de dados inteiro, criar tabelas, importar arquivos e escrever comandos INSERT como se estivéssemos em 2010.
-
-Existe um jeito melhor, e é um único arquivo de ~60 MB, sem servidor, sem daemon e sem arquivo de configuração. Conheça o [DuckDB](https://duckdb.org/).
-
-## O que o DuckDB realmente é
-
 DuckDB é um mecanismo de banco de dados analítico (OLAP) em processo, frequentemente descrito como o "SQLite para análises". Assim como o SQLite, ele roda dentro do seu aplicativo ou do processo CLI — não há servidor para instalar, nem portas para abrir, nem daemon para monitorar. Mas, em vez de ser otimizado para cargas de trabalho transacionais (muitas leituras e gravações pequenas), o DuckDB é colunar e feito para consultas analíticas: agregações, junções e varreduras sobre grandes volumes de dados.
 
-Essa distinção importa para quem usa self-hosting. Seu host Proxmox, sua stack de mídia, seus dashboards de monitoramento — eles geram montanhas de dados de eventos que você raramente precisa *gravar*, mas que constantemente quer *agregar*. O DuckDB é a ferramenta para essa segunda tarefa.
-
-A versão atual é a [v1.5.5](https://github.com/duckdb/duckdb/releases) (julho de 2026), com a v2.0 programada para o outono de 2026 — uma versão que, entre outras coisas, traz [I/O assíncrono para leituras remotas de Parquet e CSV](https://duckdb.org/2026/07/31/asynchronous-io), tornando ainda mais rápida a consulta a dados que estão em object storage em vez de um SSD local.
-
-## Instalando: uma linha
+## Instalação
 
 Como não há servidor, "instalação" significa baixar um binário:
 
@@ -79,30 +69,7 @@ SELECT * FROM read_csv_auto('logs/*.csv');
 
 Sem etapa de importação. O arquivo *é* a tabela.
 
-## Parquet: o formato para o qual você deveria converter
-
-Se você vai consultar o mesmo conjunto de dados mais de uma vez, converta-o para Parquet uma única vez e nunca mais olhe para trás. Parquet é um formato de armazenamento colunar: as consultas leem apenas as colunas de que precisam, e os row groups de cada coluna carregam estatísticas de mínimo/máximo que permitem ao DuckDB pular blocos inteiros de dados com uma simples cláusula `WHERE`. Em conjuntos de dados de log reais, essa costuma ser a diferença entre uma varredura que leva segundos e uma que leva milissegundos.
-
-Converter é uma linha:
-
-```sql
-COPY (SELECT * FROM 'visits.csv') TO 'visits.parquet' (FORMAT PARQUET);
-```
-
-E consultar segue o mesmo padrão sem importação:
-
-```sql
-SELECT * FROM read_parquet('visits.parquet');
-```
-
-Arquivos Parquet também são menores que seus equivalentes CSV (compressão colunar), o que importa quando o disco do seu homelab é um SSD de 256 GB que já tem três backups do Proxmox. As extensões `parquet` e `json` acompanham a CLI — elas aparecem como instaladas e carregadas por padrão, então você não precisa fazer nada para arquivos locais. Para [S3 e outros armazenamentos remotos](https://duckdb.org/docs/stable/extensions/httpfs/overview), você adiciona a extensão `httpfs`:
-
-```sql
-INSTALL httpfs;
-LOAD httpfs;
-```
-
-## JSON: porque seus dashboards não falam CSV
+## JSON
 
 A maioria dos serviços self-hosted exporta JSON, não CSVs organizados. O DuckDB lê JSON aninhado diretamente, incluindo arrays de objetos e campos aninhados, sem que você precise achatar nada manualmente:
 
