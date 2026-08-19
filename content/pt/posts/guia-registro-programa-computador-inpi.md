@@ -1,6 +1,6 @@
 ---
 date: 2026-07-11T11:11:29-03:00
-draft: true
+draft: false
 title: "Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]"
 description: "Guia completo para registro de software no INPI: taxas, documentos necessários, certificado digital ICP-Brasil, GRU, e-Software e prazos. Passo a passo para pessoa física e jurídica."
 featured_image: ""
@@ -13,10 +13,11 @@ tags:
   - propriedade-intelectual
   - guia
 ---
-
 Registrar um programa de computador no INPI é o equivalente, para o desenvolvedor de software, a registrar uma marca ou patentear uma invenção. O registro confere segurança jurídica ao titular e serve como prova de autoria e titularidade em casos de disputa judicial ou comercial.
 
 Diferente do que muitos desenvolvedores imaginam, o INPI **não examina o código-fonte** — o registro é declaratório, não concessivo. O que o INPI faz é armazenar um resumo digital (hash) do código e publicar o registro na Revista da Propriedade Industrial (RPI), criando um marco temporal que prova a existência do software naquela data.
+
+Portanto, o registro de software tem mais elementos em comum com o registro de um novo livro junto à Biblioteca Nacional do que com uma patente de invenção, já que não é examinado o conteúdo do software, apenas registra-se a autoria.
 
 Este guia cobre todo o processo, da geração do hash à obtenção do certificado, com base na Instrução Normativa INPI nº 99/2019 e na Lei de Software (Lei 9.609/98).
 
@@ -159,10 +160,9 @@ Registrar um programa de computador no INPI é um processo simples, de custo bai
 Desenvolvedores, startups e empresas de tecnologia que ainda não registraram seus softwares estão expostos a riscos desnecessários em disputas de titularidade. O investimento é pequeno comparado ao custo de uma ação judicial sem prova documental robusta.
 
 Leia também:
-
-- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
-- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
-- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [Como Dividir um Commit do Git: Guia Passo a Passo [2026]]({{< relref "posts/dividir-commit-git-guia/" >}})
+- [GitButler: O Que É, Review e Alternativas [2026]]({{< relref "posts/gitbutler-what-is-review-alternatives-2026/" >}})
 
 ---
 
