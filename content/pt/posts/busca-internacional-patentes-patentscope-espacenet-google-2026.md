@@ -1,6 +1,6 @@
 ---
 date: 2026-07-29T11:10:00-03:00
-draft: true
+draft: false
 title: "Busca Internacional de Patentes: Guia Completo de PATENTSCOPE, Espacenet e Google Patentes [2026]"
 description: "Guia completo para fazer busca internacional de patentes: PATENTSCOPE da WIPO, Espacenet do EPO e Google Patentes. Comparativo de ferramentas, estratégias de busca e dicas práticas."
 featured_image: ""
@@ -14,7 +14,6 @@ tags:
   - guia
   - inovacao
 ---
-
 Você já sabe como fazer busca de patentes na base do INPI. Mas sabia que as bases internacionais têm mais de **120 milhões de documentos de patentes** — incluindo pedidos depositados nos Estados Unidos, Europa, China, Japão, Coreia e pelo sistema PCT — e que a maioria deles pode ser consultada gratuitamente?
 
 Estima-se que **70% da informação técnica contida em patentes não seja publicada em nenhum outro meio**. Ignorar as bases internacionais significa perder acesso a uma fração expressiva do estado da técnica global — e, dependendo do setor tecnológico, correr o risco de depositar um pedido de patente que já estava antecipado por um documento publicado no outro lado do mundo.
