@@ -1,6 +1,6 @@
 ---
 date: 2026-07-11T14:11:29.000Z
-draft: true
+draft: false
 title: 'How to Register a Computer Program at the INPI: Complete Step-by-Step Guide [2026]'
 description: 'Complete guide for software registration at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software and deadlines. Step by step for individuals and legal entities.'
 featured_image: ''
