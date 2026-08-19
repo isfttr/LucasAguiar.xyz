@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T19:51:47.423Z",
+  "last_updated": "2026-08-19T19:52:54.732Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4182,7 +4182,7 @@
         "article"
       ],
       "description_en": "IP Monetization in Brazil: assignment, licensing and recordal with INPI, valuation of intangibles and use of patents and trademarks as collateral for credit.",
-      "content_hash_en": "c3f8273fbd122e9a433edae5d43af29b266253b474c3c585088c2b874ff94e10",
+      "content_hash_en": "1dca14ca002845bc3a2a169c8889e234068a2b5eee069c1ba9db933d4a3c4e55",
       "backlinks": [
         "inpi-plano-estrategico-2027-2036-guia-completo",
         "como-consultar-andamento-processo-inpi",
@@ -4214,6 +4214,31 @@
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "kubernetes-vs-docker-compose-guia-2026": {
+      "slug": "kubernetes-vs-docker-compose-guia-2026",
+      "title_en": "Kubernetes vs Docker Compose: Quando Você Precisa de Orquestração? [2026]",
+      "title_pt": "Kubernetes vs Docker Compose: Quando Você Precisa de Orquestração? [2026]",
+      "tags": [
+        "kubernetes",
+        "docker",
+        "containers",
+        "devops",
+        "homelab"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Entenda o que o Kubernetes resolve que containers e Docker Compose não resolvem, as diferenças práticas e quando faz sentido (ou não) migrar seu setup.",
+      "content_hash_en": null,
+      "content_hash_pt": "f2e659d230168c8c155120e6fe26372f8bb39965bf65c8944550c46a0736ee3c",
+      "backlinks": [
+        "kubernetes-probes-liveness-readiness-startup-guide-2026",
+        "containers-vs-vms-complete-guide-2026",
+        "reducing-cves-container-images-guide-2026"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-08-19T19:52:54.732Z"
     }
   }
 }

@@ -101,7 +101,9 @@ A hierarquia é simples: `docker run` empacota, Docker Compose organiza um host,
 
 Leia também:
 
-- [Containers vs VMs: Guia Completo de Virtualização e Containerização [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
+- [Sondas de Saúde do Kubernetes Explicadas: Liveness, Readiness e Startup [2026]]({{< relref "posts/kubernetes-probes-liveness-readiness-startup-guide-2026/" >}})
+- [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
+- [Como Reduzir CVEs em Suas Imagens Docker: Guia de Segurança de Contêineres [2026]]({{< relref "posts/reducing-cves-container-images-guide-2026/" >}})
 
 ---
 
