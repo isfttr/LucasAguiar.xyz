@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T13:03:55.183Z",
+  "last_updated": "2026-08-20T13:05:25.912Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4230,7 +4230,7 @@
         "article"
       ],
       "description_en": "Understand what Kubernetes solves that containers and Docker Compose don't solve, the practical differences, and when it makes sense (or not) to migrate your setup.",
-      "content_hash_en": "7fc9ab955fa8ab4b48992a1f0f2760a67f43783bb4cf2b46434dcdfe13c4fa12",
+      "content_hash_en": "224a1f891b310de8055e40c50ebc3c6cd014cfa7574d30bf6596937128ceedb6",
       "backlinks": [
         "kubernetes-probes-liveness-readiness-startup-guide-2026",
         "containers-vs-vms-complete-guide-2026",
