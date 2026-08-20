@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T13:09:47.032Z",
+  "last_updated": "2026-08-20T14:19:39.637Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2696,7 +2696,7 @@
         "article"
       ],
       "description_en": "Complete guide comparing computer-implemented invention patent and computer program registration at INPI. When to use each, costs, deadlines, legal requirements, and practical decision for startups and developers.",
-      "content_hash_en": "431434070840c947b0793249c20b6529d94626624063c997225ef3d37c4fab6f",
+      "content_hash_en": "45e87f2cef7cc7452a528163dd01b249c20667fbfd24b40ef4fd1c79daef7422",
       "backlinks": [
         "patentes-inteligencia-artificial-generativa-brasil-guia-2026",
         "guia-registro-programa-computador-inpi",
@@ -4238,6 +4238,31 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-08-19T19:52:54.732Z"
+    },
+    "acao-infracao-patente-brasil-guia-completo": {
+      "slug": "acao-infracao-patente-brasil-guia-completo",
+      "title_en": "Ação de Infração de Patente no Brasil: Guia Completo de Execução e Defesa",
+      "title_pt": "Ação de Infração de Patente no Brasil: Guia Completo de Execução e Defesa",
+      "tags": [
+        "patentes",
+        "inpi",
+        "lpi",
+        "propriedade-intelectual",
+        "litigio"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo da ação de infração de patente no Brasil: direitos do titular (art. 42 da LPI), limites legais, tutela provisória, perícia técnica, indenização (art. 210) e nulidade como defesa.",
+      "content_hash_en": null,
+      "content_hash_pt": "703bad4675076386a9064b7c5622d6ee00c27592b6612cf216b450106f645b33",
+      "backlinks": [
+        "guia-deposito-patente-inpi-2026",
+        "guia-deposito-patente-inpi-2026",
+        "patente-invencao-vs-modelo-utilidade-guia-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }

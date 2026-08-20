@@ -114,10 +114,9 @@ O recado final é simétrico: para o titular, a patente só tem valor se houver 
 
 Leia também:
 
-- [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
-- [Patente de Invenção vs Modelo de Utilidade: Diferenças, Prazos e Custos]({{< relref "posts/patente-invencao-vs-modelo-utilidade-guia-2026/" >}})
-- [Quanto Custa Registrar uma Marca no INPI em 2026?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [TRF-2 Obriga União a Reestruturar o INPI: o que Isso Significa para suas Patentes?]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [Patente de Invenção vs Modelo de Utilidade: Diferenças, Prazos e Custos [2026]]({{< relref "posts/patente-invencao-vs-modelo-utilidade-guia-2026/" >}})
 
 ---
 
