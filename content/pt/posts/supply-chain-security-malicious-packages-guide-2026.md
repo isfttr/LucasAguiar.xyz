@@ -100,8 +100,8 @@ O incidente do arrayref mostra que até mesmo um crate conhecido com centenas de
 
 Leia também:
 
-- [Como Reduzir CVEs nas Suas Imagens Docker: Guia de Segurança de Containers [2026]]({{< relref "posts/reducing-cves-container-images-guide-2026/" >}})
-- [Como Configurar e Usar Segredos do GitHub com Containers e Aplicações Expostas à Internet]({{< relref "posts/how-to-setup-github-secrets/" >}})
+- [Como Reduzir CVEs em Suas Imagens Docker: Guia de Segurança de Contêineres [2026]]({{< relref "posts/reducing-cves-container-images-guide-2026/" >}})
+- [Como Configurar e Usar GitHub Secrets com Contêineres e Aplicações Voltadas para a Internet]({{< relref "posts/how-to-setup-github-secrets/" >}})
 - [GitLost [2026]: Como a Injeção de Prompt no Agente de IA do GitHub Vaza Repositórios Privados]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
 
 ---

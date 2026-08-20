@@ -113,11 +113,11 @@ Strategic point: crimes against patents are **private criminal action (criminal 
 
 The final message is symmetrical: for the holder, a patent only has value if there is an enforcement plan; for those who produce with third-party technology, the freedom-to-operate audit (*freedom to operate*) is cheaper than any judicial defense. On both sides, knowledge of art. 42 to art. 225 of the LPI is the first asset.
 
-Also read:
+Read also:
 
-- [How to File a Patent with the INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
-- [How to File a Patent with the INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
-- [How to File a Patent with the INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T18:07:40.017Z",
+  "last_updated": "2026-08-20T18:44:02.365Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4253,8 +4253,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to patent infringement action in Brazil: rights of the holder (art. 42 of the LPI), legal limits, provisional remedies, technical expert examination, damages (art. 210), and nullity as defense.",
-      "content_hash_en": "597b95670414dec6e39d04dce6475a6119f789ce7580d7bb8bf908809b6d1566",
+      "description_en": "Complete guide to patent infringement action in Brazil: rights of the holder (art. 42 of the LPI), legal limits, preliminary injunction, technical expert examination, damages (art. 210), and nullity as a defense.",
+      "content_hash_en": "91600b6a095de5fa1beee599a8237a8b8175f3d7563c6f96755ebd9803efad48",
       "backlinks": [
         "guia-deposito-patente-inpi-2026",
         "guia-deposito-patente-inpi-2026",
@@ -4266,7 +4266,7 @@
     "supply-chain-security-malicious-packages-guide-2026": {
       "slug": "supply-chain-security-malicious-packages-guide-2026",
       "title_en": "How to Protect Against Malicious Packages: npm, PyPI, and Cargo Supply Chain Security [2026]",
-      "title_pt": "How to Protect Against Malicious Packages: npm, PyPI, and Cargo Supply Chain Security [2026]",
+      "title_pt": "Como Proteger contra Pacotes Maliciosos: Segurança da Cadeia de Suprimentos para npm, PyPI e Cargo [2026]",
       "tags": [
         "supply-chain",
         "security",
@@ -4279,13 +4279,13 @@
         "article"
       ],
       "description_en": "Complete guide to defending against malicious packages in npm, PyPI and crates.io: typosquatting, account takeover, build-time payloads, audit tools and lockfile hygiene. Includes the August 2026 arrayref incident.",
-      "content_hash_en": "08eb9de1e3a1a9173ee6e7d142eb9a20ab296752802b901baad99ced973e635a",
+      "content_hash_en": "15fc5c37b589275814c3930fdca50014c1478272b9ce669ea23a2c270280b95d",
       "backlinks": [
         "reducing-cves-container-images-guide-2026",
         "how-to-setup-github-secrets",
         "gitlost-github-agentic-workflows-prompt-injection-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-08-20T18:07:40.017Z"
     }
   }
