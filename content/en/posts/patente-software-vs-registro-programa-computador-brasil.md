@@ -1,6 +1,6 @@
 ---
 date: 2026-07-18T14:09:25.000Z
-draft: true
+draft: false
 title: 'Software Patent vs Computer Program Registration in Brazil: What''s the Difference? [2026]'
 description: Complete guide comparing computer-implemented invention patent and computer program registration at INPI. When to use each, costs, deadlines, legal requirements, and practical decision for startups and developers.
 featured_image: ''
