@@ -1,8 +1,8 @@
 ---
 date: 2026-08-19T16:51:28-03:00
-draft: true
+draft: false
 title: "Kubernetes vs Docker Compose: Quando Você Precisa de Orquestração? [2026]"
-description: "Entenda o que o Kubernetes resolve que containers e Docker Compose não resolvem, as diferenças práticas e quando faz sentido (ou não) migrar seu setup."
+description: Entenda o que o Kubernetes resolve que containers e Docker Compose não resolvem, as diferenças práticas e quando faz sentido (ou não) migrar seu setup.
 featured_image: ""
 categories:
   - article
@@ -13,7 +13,6 @@ tags:
   - devops
   - homelab
 ---
-
 Se você roda seus serviços com Docker Compose, um reverse proxy como Traefik e um túnel para expô-los à internet, provavelmente já se perguntou: "será que eu deveria estar usando Kubernetes?" A resposta curta: se você tem um servidor e alguns containers, provavelmente não — e este guia explica por quê, com precisão.
 
 A confusão é normal porque o Kubernetes resolve um problema diferente do que o Docker Compose resolve. Não é um "Docker Compose melhor": é uma ferramenta para um problema que só aparece quando você tem muitos containers rodando em várias máquinas. Entender essa distinção evita migrar para uma infraestrutura muito mais complexa sem ganho real.
