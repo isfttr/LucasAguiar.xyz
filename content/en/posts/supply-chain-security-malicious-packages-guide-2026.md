@@ -97,10 +97,11 @@ If an incident touches your dependency tree:
 
 The arrayref incident shows that even a well-known crate with hundreds of millions of downloads can ship malware through a compromised maintainer account. The defenses that matter are the boring ones: committed lockfiles, blocking audit gates in CI, 2FA and trusted publishers on registry accounts, and a habit of checking who actually published the packages you depend on. Supply chain security is not a tool you install once — it's a review step you repeat on every dependency you add, forever.
 
-Also read:
+Read also:
 
-- [Reducing CVEs in Container Images: A Practical Guide [2026]]({{< relref "posts/reducing-cves-container-images-guide-2026/" >}})
-- [Sandboxing AI Coding Agents: A Practical Guide [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
+- [How to Reduce CVEs in Your Docker Images: Container Security Guide [2026]]({{< relref "posts/reducing-cves-container-images-guide-2026/" >}})
+- [How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications]({{< relref "posts/how-to-setup-github-secrets/" >}})
+- [GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
 
 ---
 

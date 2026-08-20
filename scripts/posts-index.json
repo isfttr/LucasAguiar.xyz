@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T14:19:39.637Z",
+  "last_updated": "2026-08-20T18:07:40.017Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4241,7 +4241,7 @@
     },
     "acao-infracao-patente-brasil-guia-completo": {
       "slug": "acao-infracao-patente-brasil-guia-completo",
-      "title_en": "Ação de Infração de Patente no Brasil: Guia Completo de Execução e Defesa",
+      "title_en": "Patent Infringement Action in Brazil: Complete Guide to Enforcement and Defense",
       "title_pt": "Ação de Infração de Patente no Brasil: Guia Completo de Execução e Defesa",
       "tags": [
         "patentes",
@@ -4253,16 +4253,40 @@
       "categories": [
         "article"
       ],
-      "description_en": "Guia completo da ação de infração de patente no Brasil: direitos do titular (art. 42 da LPI), limites legais, tutela provisória, perícia técnica, indenização (art. 210) e nulidade como defesa.",
-      "content_hash_en": null,
-      "content_hash_pt": "703bad4675076386a9064b7c5622d6ee00c27592b6612cf216b450106f645b33",
+      "description_en": "Complete guide to patent infringement action in Brazil: rights of the holder (art. 42 of the LPI), legal limits, provisional remedies, technical expert examination, damages (art. 210), and nullity as defense.",
+      "content_hash_en": "597b95670414dec6e39d04dce6475a6119f789ce7580d7bb8bf908809b6d1566",
       "backlinks": [
         "guia-deposito-patente-inpi-2026",
         "guia-deposito-patente-inpi-2026",
-        "patente-invencao-vs-modelo-utilidade-guia-2026"
+        "guia-deposito-patente-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
+    },
+    "supply-chain-security-malicious-packages-guide-2026": {
+      "slug": "supply-chain-security-malicious-packages-guide-2026",
+      "title_en": "How to Protect Against Malicious Packages: npm, PyPI, and Cargo Supply Chain Security [2026]",
+      "title_pt": "How to Protect Against Malicious Packages: npm, PyPI, and Cargo Supply Chain Security [2026]",
+      "tags": [
+        "supply-chain",
+        "security",
+        "npm",
+        "python",
+        "rust",
+        "devops"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to defending against malicious packages in npm, PyPI and crates.io: typosquatting, account takeover, build-time payloads, audit tools and lockfile hygiene. Includes the August 2026 arrayref incident.",
+      "content_hash_en": "08eb9de1e3a1a9173ee6e7d142eb9a20ab296752802b901baad99ced973e635a",
+      "backlinks": [
+        "reducing-cves-container-images-guide-2026",
+        "how-to-setup-github-secrets",
+        "gitlost-github-agentic-workflows-prompt-injection-2026"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-08-20T18:07:40.017Z"
     }
   }
 }
