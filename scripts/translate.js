@@ -193,6 +193,69 @@ function collectExistingSlugs(dir, excludePath) {
   return set;
 }
 
+// Normalise a front matter `aliases` value (string | array | undefined) into a
+// plain array so it can be merged/extended without special-casing.
+function toAliasArray(aliases) {
+  if (!aliases) return [];
+  return Array.isArray(aliases) ? aliases.slice() : [aliases];
+}
+
+// URL base for the `posts` section in the target file's language, matching how
+// Hugo actually serves it: EN (the default language) at the site root
+// ('/posts/'), PT under its subdir ('/pt/posts/'). Hugo writes aliases verbatim
+// (no automatic language prefixing — verified against the built site), so the
+// alias path must already carry the correct prefix.
+function sectionUrlBase(targetPath) {
+  const abs = path.resolve(targetPath);
+  const isPt = abs.startsWith(path.resolve(PT_DIR) + path.sep);
+  const langDir = isPt ? PT_DIR : EN_DIR;
+  const relDir = path.dirname(path.relative(langDir, targetPath)); // 'posts' | '.'
+  const parts = [isPt ? 'pt' : null, relDir === '.' ? null : relDir].filter(Boolean);
+  return `/${parts.join('/')}/`.replace(/\/{2,}/g, '/');
+}
+
+// Pure decision for a translated post's URL identity, kept LLM-free so it can be
+// unit-tested. Returns the { slug?, url?, aliases? } to apply to the target front
+// matter. Inputs:
+//   targetData    – the existing translation's front matter, or null on the first
+//                   translation.
+//   targetBase    – the target filename without extension (the fallback slug).
+//   urlBase       – section URL base incl. language prefix ('/posts/' | '/pt/posts/').
+//   generatedSlug – a freshly minted native-language slug, used only when there is
+//                   no existing translation.
+//   forceSlug     – an intentional reslug that overrides the freeze (e.g. a future
+//                   --reslug mode); the previous URL is kept as an alias.
+//
+// Rules: an existing translation keeps its current URL — freeze the slug, or honor
+// a pinned `url:` — so routine re-translations never churn the address (and never
+// orphan the post's accumulated views). Only a first translation takes the
+// generated slug. Whenever the effective URL differs from what the target was
+// already published under, the old URL is retained as an alias (a Hugo redirect),
+// and any aliases the target already had are carried forward — never the source's,
+// which belong to the other language.
+function resolveTargetUrl({ targetData, targetBase, urlBase, generatedSlug, forceSlug }) {
+  const aliasSet = new Set(targetData ? toAliasArray(targetData.aliases) : []);
+  const oldSlug = targetData ? (targetData.slug || targetBase) : null;
+  const oldUrl = targetData && !targetData.url && oldSlug ? `${urlBase}${oldSlug}/` : null;
+
+  const out = {};
+  if (forceSlug) {
+    out.slug = forceSlug;                     // intentional reslug (overrides freeze)
+  } else if (targetData && targetData.url) {
+    out.url = targetData.url;                 // explicit permalink — respect verbatim
+  } else if (targetData) {
+    if (targetData.slug) out.slug = targetData.slug; // freeze existing slug
+    // else: filename-based URL, leave slug unset to keep it that way
+  } else if (generatedSlug) {
+    out.slug = generatedSlug;                 // first translation → native slug
+  }
+
+  const newSlug = out.url ? null : (out.slug || targetBase);
+  if (oldUrl && newSlug && `${urlBase}${newSlug}/` !== oldUrl) aliasSet.add(oldUrl);
+  if (aliasSet.size) out.aliases = [...aliasSet];
+  return out;
+}
+
 async function translateFile(sourcePath, targetPath, targetLang) {
   console.log(`Translating: ${sourcePath} -> ${targetLang}`);
   
@@ -212,20 +275,39 @@ async function translateFile(sourcePath, targetPath, targetLang) {
     data.description = stripHeadingPrefix(await translateContent(data.description, targetLang));
   }
 
-  // Generate a slug in the target language so the translated post gets a
-  // native-language URL, even though it keeps the source's filename (the shared
-  // filename stays the cross-language translation key that Hugo's .Translations
-  // and the backlinks relrefs rely on). Overwrites any slug inherited from the
-  // source, which would otherwise be in the source language.
-  if (data.title) {
+  // ── Slug + aliases: per-language URLs that stay STABLE across re-translations ──
+  // The translated post gets a native-language slug (EN slug for EN, PT for PT)
+  // so its URL reads naturally, while keeping the source's filename (the shared
+  // filename is the cross-language translation key that Hugo's .Translations and
+  // the backlinks relrefs rely on).
+  //
+  // generateSlug() is LLM-backed and non-deterministic, so regenerating on every
+  // update would churn the URL and orphan the post's accumulated PostHog views
+  // (the home ranking sums views by URL — see func/post-views.html). So we mint a
+  // slug only on the FIRST translation; on re-translation we reuse the target's
+  // existing slug. If a slug ever does change, the old URL is preserved as an
+  // alias (a Hugo redirect) so no inbound link or view count is lost.
+  const targetData = fs.existsSync(targetPath)
+    ? (() => { try { return matter(fs.readFileSync(targetPath, 'utf8')).data; } catch { return null; } })()
+    : null;
+  const targetBase = path.basename(targetPath).replace(/\.md$/, '');
+  const urlBase = sectionUrlBase(targetPath); // '/posts/' (EN) | '/pt/posts/' (PT)
+
+  // Mint a native-language slug only when there is no existing translation to
+  // keep stable — this is the sole place the (non-deterministic) LLM slug runs.
+  let generatedSlug = null;
+  if (!targetData && data.title) {
     const year = data.date ? new Date(data.date).getFullYear() : new Date().getFullYear();
     const existingSlugs = collectExistingSlugs(path.dirname(targetPath), targetPath);
-    data.slug = ensureUniqueSlug(await generateSlug(data.title, targetLang), existingSlugs, year);
+    generatedSlug = ensureUniqueSlug(await generateSlug(data.title, targetLang), existingSlugs, year);
   }
 
-  // Aliases inherited from the source point at the source language's old URLs
-  // and would be wrong for a post with a different slug — drop them on the target.
-  if ('aliases' in data) delete data.aliases;
+  // Clear any source-derived url/slug/aliases, then apply the resolved identity.
+  delete data.url; delete data.slug; delete data.aliases;
+  const resolved = resolveTargetUrl({ targetData, targetBase, urlBase, generatedSlug });
+  if (resolved.url) data.url = resolved.url;
+  if (resolved.slug) data.slug = resolved.slug;
+  if (resolved.aliases) data.aliases = resolved.aliases;
 
   // Translate Body
   let translatedBody = body;
@@ -422,4 +504,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { syncNeutralFrontMatter, stringifyPost, NEUTRAL_FM_FIELDS };
+module.exports = { syncNeutralFrontMatter, stringifyPost, NEUTRAL_FM_FIELDS, toAliasArray, sectionUrlBase, resolveTargetUrl };
