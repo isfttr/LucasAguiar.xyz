@@ -1,9 +1,9 @@
 ---
 date: 2026-08-15T18:07:40.000Z
-draft: true
-title: 'Como bloquear anúncios e rastreadores em 2026: Firefox, uBlock Origin e filtragem de DNS [Guia]'
-description: 'Bloqueie anúncios e rastreadores em 2026: uBlock Origin no Firefox, uBO Lite para Chromium, além de filtragem em nível de DNS com Pi-hole ou AdGuard Home. Guia passo a passo.'
-featured_image: ''
+draft: false
+title: "Como bloquear anúncios e rastreadores em 2026: Firefox, uBlock Origin e filtragem de DNS [Guia]"
+description: "Bloqueie anúncios e rastreadores em 2026: uBlock Origin no Firefox, uBO Lite para Chromium, além de filtragem em nível de DNS com Pi-hole ou AdGuard Home. Guia passo a passo."
+featured_image: ""
 categories:
   - article
 tags:
@@ -82,6 +82,7 @@ Bloquear anúncios em 2026 é uma stack em camadas, não uma extensão única: F
 Leia também:
 
 - [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
+- [Kubernetes vs Docker Compose: Quando Você Precisa de Orquestração? [2026]]({{< relref "posts/kubernetes-vs-docker-compose-guia-2026/" >}})
 - [Como Detectar e Bloquear Tráfego de Bots no Seu Site Auto-Hospedado [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
 - [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
