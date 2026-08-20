@@ -1,9 +1,9 @@
 ---
 date: 2026-07-12T14:11:25.000Z
-draft: true
-title: 'Registro de Desenho Industrial no Brasil: Guia Completo Passo a Passo [2026]'
-description: 'Guia completo para registro de desenho industrial no INPI brasileiro: taxas atualizadas, documentos necessários, etapas de depósito e-DI, prazos de validade, via internacional pelo Acordo de Haia e diferenças em relação a patentes e marcas.'
-featured_image: ''
+draft: false
+title: "Registro de Desenho Industrial no Brasil: Guia Completo Passo a Passo [2026]"
+description: "Guia completo para registro de desenho industrial no INPI brasileiro: taxas atualizadas, documentos necessários, etapas de depósito e-DI, prazos de validade, via internacional pelo Acordo de Haia e diferenças em relação a patentes e marcas."
+featured_image: ""
 categories:
   - article
 tags:
@@ -199,9 +199,11 @@ A atualização do Manual de junho de 2026 mostra que o INPI está ajustando pro
 
 Leia também:
 
+- [Patente de Invenção vs Modelo de Utilidade: Diferenças, Prazos e Custos [2026]]({{< relref "posts/patente-invencao-vs-modelo-utilidade-guia-2026/" >}})
 - [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [INPI atualiza Manual de Desenhos Industriais: o que muda para empresas e designers [2026]]({{< relref "posts/inpi-atualiza-manual-de-desenhos-industriais/" >}})
 - [Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
+
 
 ---
 
