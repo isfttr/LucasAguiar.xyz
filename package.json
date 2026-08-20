@@ -45,5 +45,8 @@
   "devDependencies": {
     "husky": "^9.1.7",
     "release-it": "^20.0.1"
+  },
+  "overrides": {
+    "undici": "^7.29.0"
   }
 }
