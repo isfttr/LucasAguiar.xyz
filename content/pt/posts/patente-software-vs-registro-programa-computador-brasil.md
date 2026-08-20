@@ -1,8 +1,8 @@
 ---
 date: 2026-07-18T11:09:25-03:00
-draft: true
+draft: false
 title: "Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]"
-description: "Guia completo comparando patente de invenção implementada por computador e registro de programa de computador no INPI. Quando usar cada um, custos, prazos, requisitos legais e decisão prática para startups e desenvolvedores."
+description: Guia completo comparando patente de invenção implementada por computador e registro de programa de computador no INPI. Quando usar cada um, custos, prazos, requisitos legais e decisão prática para startups e desenvolvedores.
 featured_image: ""
 categories:
   - article
@@ -13,7 +13,6 @@ tags:
   - propriedade-intelectual
   - software
 ---
-
 Desenvolvedores e startups brasileiras enfrentam uma dúvida recorrente ao proteger seu software: devo registrar o programa de computador no INPI ou tentar patentear minha invenção? A confusão é compreensível — as duas formas de proteção coexistem no sistema jurídico brasileiro, mas operam sob regimes completamente diferentes.
 
 O registro de programa de computador (Lei 9.609/98) protege o software como obra autoral, enquanto a patente de invenção implementada por computador (Lei 9.279/96 — LPI) protege a solução técnica que o software executa. Escolher o caminho errado pode significar desperdiçar tempo e recursos — ou, pior, perder o direito de proteger sua criação.
