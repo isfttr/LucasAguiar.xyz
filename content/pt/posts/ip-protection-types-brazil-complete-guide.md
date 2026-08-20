@@ -157,8 +157,7 @@ O tempo de tramitação varia muito entre as modalidades:
 
 Leia também:
 
-- [Patente de Invenção vs Modelo de Utilidade: Diferenças, Prazos e Custos [2026]]({{< relref "posts/patente-invencao-vs-modelo-utilidade-guia-2026/" >}})
-- [Patentes e Marcas como Garantia de Crédito no Brasil: Guia Completo de Monetização de Ativos de PI]({{< relref "posts/patentes-marcas-garantia-credito-brasil-guia/" >}})
+- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 - [Registro de Desenho Industrial no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
 - [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
