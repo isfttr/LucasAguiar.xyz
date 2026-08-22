@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T19:15:42.352Z",
+  "last_updated": "2026-08-22T19:24:30.685Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4304,11 +4304,11 @@
         "opinion"
       ],
       "description_en": "It rose 439% with 4x leverage and was liquidated in weeks: what the collapse of the Situational Awareness fund teaches about expected return and duration.",
-      "content_hash_en": "cd3c5d43cc67603670fb49ec08c0a304a58a201b53c36876949952adc8080817",
+      "content_hash_en": "50c5511e59c03b2b57df50cc27546684dab4d140e6a2de5df2c97eadb44f729e",
       "backlinks": [
         "stock-price-duration-survivorship-ai-capex-2026",
-        "stock-price-duration-survivorship-ai-capex-2026",
-        "stock-price-duration-survivorship-ai-capex-2026"
+        "dawkins-claude-consciencia-ia",
+        "linux-windows-macos-qual-usar-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

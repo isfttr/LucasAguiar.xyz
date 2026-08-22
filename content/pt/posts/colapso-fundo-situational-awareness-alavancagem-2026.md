@@ -68,8 +68,8 @@ Nada disso prova que a IA é uma bolha — o próprio Damodaran diz que a histó
 Leia também:
 
 - [Quantos Anos de Fluxo de Caixa Representa o Preço de uma Ação? Duração, Sobrevivência e o Boom de Capex de IA]({{< relref "posts/stock-price-duration-survivorship-ai-capex-2026/" >}})
-- [Quantos Anos de Fluxo de Caixa Representa o Preço de uma Ação? Duração, Sobrevivência e o Boom de Capex de IA]({{< relref "posts/stock-price-duration-survivorship-ai-capex-2026/" >}})
-- [Quantos Anos de Fluxo de Caixa Representa o Preço de uma Ação? Duração, Sobrevivência e o Boom de Capex de IA]({{< relref "posts/stock-price-duration-survivorship-ai-capex-2026/" >}})
+- [Dawkins, Claude e o Mito da Consciência na Inteligência Artificial]({{< relref "posts/dawkins-claude-consciencia-ia/" >}})
+- [Linux vs Windows vs macOS 2026: Comparação Completa e Qual Escolher]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
 
 ---
 
