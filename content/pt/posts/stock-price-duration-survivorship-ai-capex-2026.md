@@ -89,10 +89,9 @@ Vencer para a sociedade e vencer para os acionistas não são o mesmo evento, e 
 
 Leia também:
 
-- [O que Acontece Quando Você Alavanca uma Tese de 166 Anos? O Colapso do Fundo Situational Awareness [2026]]({{< relref "posts/colapso-fundo-situational-awareness-alavancagem-2026/" >}})
 - [De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
-- [Dawkins, Claude e o Mito da Consciência na Inteligência Artificial]({{< relref "posts/dawkins-claude-consciencia-ia/" >}})
-- [Linux vs Windows vs macOS 2026: Comparação Completa e Qual Escolher]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
+- [Da Procrastinação ao Progresso: Como a IA me tem ajudado]({{< relref "posts/ai-beats-procrastination/" >}})
+- [De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
 
 ---
 
