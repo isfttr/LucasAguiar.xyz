@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T15:40:48.447Z",
+  "last_updated": "2026-08-22T15:51:22.588Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -4290,7 +4290,7 @@
     },
     "colapso-fundo-situational-awareness-alavancagem-2026": {
       "slug": "colapso-fundo-situational-awareness-alavancagem-2026",
-      "title_en": "O que Acontece Quando Você Alavanca uma Tese de 166 Anos? O Colapso do Fundo Situational Awareness [2026]",
+      "title_en": "What Happens When You Leverage a 166-Year-Old Thesis? The Collapse of the Situational Awareness Fund [2026]",
       "title_pt": "O que Acontece Quando Você Alavanca uma Tese de 166 Anos? O Colapso do Fundo Situational Awareness [2026]",
       "tags": [
         "ai",
@@ -4303,13 +4303,12 @@
       "categories": [
         "opinion"
       ],
-      "description_en": "Subiu 439% com alavancagem de 4x e foi liquidado em semanas: o que o colapso do fundo Situational Awareness ensina sobre retorno esperado e duração.",
-      "content_hash_en": null,
-      "content_hash_pt": "a570806910944257930785324b9d6fd8a91ad6c80893c42bc8f8f3b6cca09da2",
+      "description_en": "Rose 439% with 4x leverage and was liquidated in weeks: what the collapse of the Situational Awareness fund teaches about expected return and duration.",
+      "content_hash_en": "22c6605831080478d1d00d6d985bf25705c49471a95756337b7cdaa3b22f6323",
       "backlinks": [
         "stock-price-duration-survivorship-ai-capex-2026",
         "stock-price-duration-survivorship-ai-capex-2026",
-        "ai-beats-procrastination"
+        "stock-price-duration-survivorship-ai-capex-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

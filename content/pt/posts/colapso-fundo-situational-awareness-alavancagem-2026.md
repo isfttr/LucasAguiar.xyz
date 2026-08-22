@@ -78,7 +78,7 @@ Leia também:
 
 - [Quantos Anos de Fluxo de Caixa Representa o Preço de uma Ação? Duração, Sobrevivência e o Boom de Capex de IA]({{< relref "posts/stock-price-duration-survivorship-ai-capex-2026/" >}})
 - [Quantos Anos de Fluxo de Caixa Representa o Preço de uma Ação? Duração, Sobrevivência e o Boom de Capex de IA]({{< relref "posts/stock-price-duration-survivorship-ai-capex-2026/" >}})
-- [Da Procrastinação ao Progresso: Como a IA me tem ajudado]({{< relref "posts/ai-beats-procrastination/" >}})
+- [Quantos Anos de Fluxo de Caixa Representa o Preço de uma Ação? Duração, Sobrevivência e o Boom de Capex de IA]({{< relref "posts/stock-price-duration-survivorship-ai-capex-2026/" >}})
 
 ---
 

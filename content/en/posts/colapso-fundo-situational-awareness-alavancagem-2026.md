@@ -71,11 +71,11 @@ None of this proves that AI is a bubble — Damodaran himself says the macro sto
 
 *This is a personal analysis for a general audience, not investment advice. I am not a financial advisor; do your own research and consider your own situation.*
 
-Also read:
+Read also:
 
-- [How Many Years of Cash Flow Does a Stock Price Represent? Duration, Survivorship, and the AI Capex Boom]({{< relref "posts/stock-price-duration-survivorship-ai-capex-2026/" >}})
-- [How Many Years of Cash Flow Does a Stock Price Represent? Duration, Survivorship, and the AI Capex Boom]({{< relref "posts/stock-price-duration-survivorship-ai-capex-2026/" >}})
-- [From Procrastination to Progress: How AI Has Helped Me]({{< relref "posts/ai-beats-procrastination/" >}})
+- [How Many Years of Cash Flow Is a Stock Price? Duration, Survivorship, and the AI Capex Boom]({{< relref "posts/stock-price-duration-survivorship-ai-capex-2026/" >}})
+- [How Many Years of Cash Flow Is a Stock Price? Duration, Survivorship, and the AI Capex Boom]({{< relref "posts/stock-price-duration-survivorship-ai-capex-2026/" >}})
+- [How Many Years of Cash Flow Is a Stock Price? Duration, Survivorship, and the AI Capex Boom]({{< relref "posts/stock-price-duration-survivorship-ai-capex-2026/" >}})
 
 ---
 
