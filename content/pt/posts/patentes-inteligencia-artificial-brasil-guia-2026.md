@@ -1,6 +1,6 @@
 ---
 date: 2026-07-30T11:00:00-03:00
-draft: true
+draft: false
 title: "Patentes de Inteligência Artificial no Brasil: Guia Completo sobre Proteção de Invenções de IA [2026]"
 description: "Guia completo sobre patentear inteligência artificial no Brasil: o que é patenteável, requisitos do INPI, classificações IPC, como redigir o pedido e diferenças entre software, algoritmo e invenção de IA. Inclui dados WIPO 2026."
 featured_image: ""
@@ -15,11 +15,6 @@ tags:
   - guia
   - tecnologia
 ---
-
-As invenções baseadas em inteligência artificial representam a fronteira mais dinâmica da propriedade industrial na atualidade. Segundo dados da WIPO publicados em julho de 2026, o número de famílias de patentes de IA generativa (GenAI) saltou de aproximadamente 14 mil em 2023 para mais de 37,8 mil em 2025 — um crescimento médio de 64% ao ano. Mais de 56 mil novas famílias de patentes GenAI foram publicadas apenas em 2024 e 2025, superando o acumulado de toda a década anterior (2014-2023).
-
-Este crescimento coloca uma questão prática para inventores, startups e empresas no Brasil: **como proteger legalmente uma invenção de inteligência artificial?** A resposta não é trivial, porque o direito de patentes foi desenhado para invenções tangíveis, e a IA apresenta desafios específicos de enquadramento.
-
 Este guia aborda os requisitos legais, as posições do INPI, as classificações internacionais relevantes, o passo a passo do depósito e as diferenças entre proteger um algoritmo, um modelo de IA e uma aplicação concreta.
 
 ---
@@ -28,15 +23,15 @@ Este guia aborda os requisitos legais, as posições do INPI, as classificaçõe
 
 A Lei da Propriedade Industrial (Lei nº 9.279/96) não menciona explicitamente inteligência artificial — o que é esperado, dado que a lei é de 1996. Mas define no Art. 10 o que **não** é considerado invenção:
 
-> Art. 10. Não se considera invenção nem modelo de utilidade:
-> I — descobertas, teorias científicas e métodos matemáticos;
-> II — concepções puramente abstratas;
-> III — esquemas, planos, princípios ou métodos comerciais, contábeis, financeiros, educativos, publicitários, de sorteio e de fiscalização;
-> IV — as obras literárias, arquitetônicas, artísticas e científicas ou qualquer criação estética;
-> V — programas de computação em si;
-> VI — a apresentação de informações;
-> VII — regras de jogo;
-> VIII — técnicas e métodos operatórios ou cirúrgicos, bem como métodos terapêuticos ou de diagnóstico, para aplicação no corpo humano ou animal;
+> Art. 10. Não se considera invenção nem modelo de utilidade: \
+> I — descobertas, teorias científicas e métodos matemáticos; \
+> II — concepções puramente abstratas;\
+> III — esquemas, planos, princípios ou métodos comerciais, contábeis, financeiros, educativos, publicitários, de sorteio e de fiscalização;\
+> IV — as obras literárias, arquitetônicas, artísticas e científicas ou qualquer criação estética;\
+> V — programas de computação em si;\
+> VI — a apresentação de informações;\
+> VII — regras de jogo;\
+> VIII — técnicas e métodos operatórios ou cirúrgicos, bem como métodos terapêuticos ou de diagnóstico, para aplicação no corpo humano ou animal;\
 > IX — o todo ou parte de seres vivos naturais e materiais biológicos encontrados na natureza, ou ainda dela isolados, inclusive o genoma ou germoplasma de qualquer ser vivo natural e os processos biológicos naturais.
 
 Os dois incisos mais relevantes para IA são:
@@ -104,7 +99,7 @@ O INPI exige que o pedido descreva a invenção de forma suficientemente clara e
 
 ## Classificação IPC de patentes de IA
 
-A Classificação Internacional de Patentes (IPC) é o sistema usado pelo INPI para categorizar os pedidos. Invenções de IA geralmente se enquadram nas seguintes seções:
+A Classificação Internacional de Patentes (IPC) é o [sistema usado pelo INPI](https://ipc.inpi.gov.br/classifications/ipc/ipcpub/?notion=scheme&version=20260101&symbol=none&menulang=pt&lang=pt&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=A&cwid=none&tree=no&searchmode=smart) para categorizar os pedidos. Invenções de IA geralmente se enquadram nas seguintes seções:
 
 | Código IPC | Descrição | Exemplo de aplicação |
 |-----------|-----------|---------------------|
@@ -158,9 +153,9 @@ A estrutura do pedido segue o formato padrão do INPI, mas com atenção especia
 
 **Exemplo de reivindicação de método (bem redigida):**
 
-> "Método de inspeção de qualidade em linha de produção, caracterizado por compreender: (a) capturar imagens de produtos em uma esteira transportadora por meio de uma câmera industrial; (b) aplicar uma rede neural convolutional treinada para classificar cada imagem em uma de N classes de defeito; (c) gerar um sinal de rejeição quando a classe predita for diferente de 'sem defeito'; e (d) atuar um atuador pneumático para remover o produto classificado como defeituoso da esteira."
+> "Método de inspeção de qualidade em linha de produção, caracterizado por compreender: (a) capturar imagens de produtos em uma esteira transportadora por meio de uma câmera industrial; (b) aplicar uma rede neural convolucional treinada para classificar cada imagem em uma de N classes de defeito; (c) gerar um sinal de rejeição quando a classe predita for diferente de 'sem defeito'; e (d) atuar um atuador pneumático para remover o produto classificado como defeituoso da esteira."
 
-Note que a reivindicação vincula o método a hardware específico (câmera, atuador) e a um problema técnico concreto (inspeção industrial).
+Esse será o método que terá que passar requisitos de patenteabilidade de novidade e atividade inventiva, além da aplicação industrial.
 
 ### 3. Depósito
 
@@ -176,8 +171,6 @@ O depósito é feito exclusivamente pelo [sistema e-Patentes do INPI](https://ww
 Consulte a [página oficial de patentes do INPI](https://www.gov.br/inpi/pt-br/servicos/patentes) para instruções atualizadas sobre o depósito eletrônico.
 
 ### 4. Acompanhamento
-
-O prazo médio de exame de patentes no INPI tem melhorado significativamente — o backlog caiu de mais de 80 mil pedidos em 2023 para cerca de 15 mil em 2026 — mas pedidos de IA podem enfrentar maior escrutínio devido à complexidade técnica.
 
 Acompanhe o andamento pela RPI (Revista da Propriedade Industrial) e pelo sistema e-Patentes. Consulte o guia [Como Consultar o Andamento de um Processo no INPI]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}}) para instruções detalhadas.
 
@@ -239,8 +232,7 @@ A dica mais importante: **não tente patentear o algoritmo abstrato.** Patentee 
 Leia também:
 
 - [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
-- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Patente de Invenção vs Modelo de Utilidade: Diferenças, Prazos e Custos [2026]]({{< relref "posts/patente-invencao-vs-modelo-utilidade-guia-2026/" >}})
 
 ---
 
