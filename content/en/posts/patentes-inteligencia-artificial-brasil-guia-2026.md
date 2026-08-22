@@ -1,6 +1,6 @@
 ---
 date: 2026-07-30T14:00:00.000Z
-draft: true
+draft: false
 title: 'Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI Inventions [2026]'
 description: 'Complete guide to patenting artificial intelligence in Brazil: what is patentable, INPI requirements, IPC classifications, how to draft the application, and differences between software, algorithm, and AI invention. Includes WIPO 2026 data.'
 featured_image: ''
