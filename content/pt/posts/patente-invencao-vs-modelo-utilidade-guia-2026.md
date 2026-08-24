@@ -73,7 +73,6 @@ A vigência é o trade-off final: 20 anos (PI) contra 15 anos (MU), ambos contad
 | Método de fabricação de um componente | PI | Processo — MU não protege processos |
 | Circuito eletrônico com arquitetura inédita | PI | Solução técnica radicalmente nova |
 
-
 Um mesmo produto pode combinar várias proteções: uma garrafa pode ter **MU** (tampa funcional), **desenho industrial** (formato ornamental) e **marca** (nome). A confusão mais comum é entre MU e desenho industrial: o DI protege a **aparência estética**, o MU protege a **funcionalidade** da forma. Veja nosso [guia de registro de desenho industrial no Brasil]({{< relref "posts/industrial-design-registration-brazil-inpi-2026-guide/" >}}) para a distinção completa.
 
 ## Custos em 2026: quanto custa cada caminho?
