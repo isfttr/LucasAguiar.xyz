@@ -102,6 +102,7 @@ Leia também:
 
 - [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 - [Como Reduzir CVEs em Suas Imagens Docker: Guia de Segurança de Contêineres [2026]]({{< relref "posts/reducing-cves-container-images-guide-2026/" >}})
+- [Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
 
 ---
 

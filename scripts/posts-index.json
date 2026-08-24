@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T14:32:02.947Z",
+  "last_updated": "2026-08-24T14:37:22.792Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -137,31 +137,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "ai-powered-protein-sequencing": {
-      "slug": "ai-powered-protein-sequencing",
-      "title_en": "What Are Proteins and Why is AI-Powered Protein Sequencing a Game Changer?",
-      "title_pt": "O Que São Proteínas e Por Que o Sequenciamento de Proteínas por IA é um Divisor de Águas?",
-      "tags": [
-        "artificial-intelligence",
-        "biotechnology",
-        "protein-sequencing",
-        "science",
-        "medicine",
-        "research"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Learn how artificial intelligence is revolutionizing our understanding of proteins - the workhorses of life - and transforming medicine, agriculture, and environmental science along the way.",
-      "content_hash_en": "abec9344d4c18a0446400f93d3fa888d086a9e3aa9d78897c131dafdef884a9a",
-      "backlinks": [
-        "ia-desenvolvimento-software-complexidade-codigo",
-        "backlog-inpi-patentes-farmaceuticas",
-        "anthropic-thinking-process-paper"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-05-03T22:35:12.015Z"
-    },
     "anthropic-thinking-process-paper": {
       "slug": "anthropic-thinking-process-paper",
       "title_en": "Inside AI Brains: How Anthropic Decoded Claude's Thinking Process",
@@ -282,57 +257,6 @@
       ],
       "backlink_source": "file",
       "last_processed": null
-    },
-    "flask-progress-bars-and-beyond": {
-      "slug": "flask-progress-bars-and-beyond",
-      "title_en": "Building Interactive Flask Web Apps: Progress Bars and Beyond",
-      "title_pt": "Construindo Aplicativos Web Flask Interativos: Barras de Progresso e Além",
-      "tags": [
-        "python",
-        "flask",
-        "web development",
-        "javascript",
-        "ajax",
-        "socketio"
-      ],
-      "categories": [
-        "tutorial"
-      ],
-      "description_en": "A practical guide to implementing progress bars, real-time updates, and other interactive features in your Flask web applications.",
-      "content_hash_en": "e93e425206b2acfa74352c919b75c8d51f34410c20a46b1516119b3c69e95b81",
-      "backlinks": [
-        "python-modules-guide",
-        "oracle_cloud_vps",
-        "how-to-setup-github-secrets"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-05-03T22:35:29.123Z"
-    },
-    "how-to-setup-github-secrets": {
-      "slug": "how-to-setup-github-secrets",
-      "title_en": "How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications",
-      "title_pt": "Como Configurar e Usar GitHub Secrets com Contêineres e Aplicações Voltadas para a Internet",
-      "tags": [
-        "github",
-        "security",
-        "containers",
-        "docker",
-        "devops",
-        "ci-cd",
-        "secrets-management"
-      ],
-      "categories": [
-        "tutorial"
-      ],
-      "description_en": "Learn how to securely manage sensitive information in your GitHub projects using Secrets and integrate them with containerized applications and services exposed to the internet.",
-      "content_hash_en": "4ada63808e8f9fead267a731ef0deca0e89a9230db0dbe82e165b250b0846ae7",
-      "backlinks": [
-        "oracle_cloud_vps",
-        "script-update-open_webui-lxc",
-        "one-week-review-gitbutler"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-05-03T22:35:53.034Z"
     },
     "hugo-content-file-structure": {
       "slug": "hugo-content-file-structure",
@@ -505,30 +429,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "open-science-collaboration": {
-      "slug": "open-science-collaboration",
-      "title_en": "How to Collaborate Effectively in Open Science Projects: Best Practices for Researchers",
-      "title_pt": "Como Colaborar Eficazmente em Projetos de Ciência Aberta: Melhores Práticas para Pesquisadores",
-      "tags": [
-        "open-science",
-        "collaboration",
-        "research",
-        "data-management",
-        "scientific-communication"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "A comprehensive guide to successful collaboration in open science initiatives, covering essential practices from communication strategies to data management and credit attribution.",
-      "content_hash_en": "effec6598abdf8dca536695473a300ce988a9407908b64515fa2164fadb1697d",
-      "backlinks": [
-        "propostas_pta_patentes_2026",
-        "backlog-inpi-patentes-farmaceuticas",
-        "anthropic-thinking-process-paper"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-05-03T22:36:35.740Z"
-    },
     "oracle_cloud_vps": {
       "slug": "oracle_cloud_vps",
       "title_en": "Using Oracle Cloud Free tier",
@@ -584,30 +484,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "python-modules-guide": {
-      "slug": "python-modules-guide",
-      "title_en": "Python Modules: A Beginner's Guide to Organizing Your Code",
-      "title_pt": "Módulos Python: Um Guia para Iniciantes para Organizar Seu Código",
-      "tags": [
-        "python",
-        "programming",
-        "modules",
-        "code-organization",
-        "best-practices"
-      ],
-      "categories": [
-        "tutorial"
-      ],
-      "description_en": "Learn how to effectively use Python modules to organize your code, import functionality, and build more maintainable projects. This guide covers everything from basic imports to creating your own modules and packages.",
-      "content_hash_en": "eb3215b938b3f3e160210e4b2cc4a03e552dccbe405fa433860c48d05f9d4709",
-      "backlinks": [
-        "flask-progress-bars-and-beyond",
-        "one-week-review-gitbutler",
-        "experience-with-cursor-and-windsurf"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-05-03T22:36:52.940Z"
-    },
     "script-update-open_webui-lxc": {
       "slug": "script-update-open_webui-lxc",
       "title_en": "Update Open WebUI in a Proxmox LXC: Bash Script + Cron [2026]",
@@ -632,32 +508,6 @@
       ],
       "backlink_source": "file",
       "last_processed": null
-    },
-    "setup-blob-storage-amazon-s3": {
-      "slug": "setup-blob-storage-amazon-s3",
-      "title_en": "Understanding Blob Storage: Azure, AWS S3, and Alternatives",
-      "title_pt": "Compreendendo o Armazenamento de Blob: Azure, AWS S3, e Alternativas",
-      "tags": [
-        "cloud",
-        "storage",
-        "azure",
-        "aws",
-        "object-storage",
-        "blob-storage"
-      ],
-      "categories": [
-        "article",
-        "tutorial"
-      ],
-      "description_en": "A comprehensive guide to blob storage solutions, including Azure Blob Storage and Amazon S3, their history, use cases, costs, and alternatives for efficient cloud-based object storage.",
-      "content_hash_en": "c692622c3e1471d18ffd9b64053235be7979a5f9a9d9faff0b4f2c76b34a3ea1",
-      "backlinks": [
-        "oracle_cloud_vps",
-        "introduction",
-        "how-to-setup-github-secrets"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-05-03T22:37:07.490Z"
     },
     "troubleshooting-proxmox-login-interface": {
       "slug": "troubleshooting-proxmox-login-interface",
@@ -824,32 +674,6 @@
       "backlink_source": "file",
       "last_processed": "2026-05-14T18:51:24.090Z"
     },
-    "nova-industria-brasil-saude-patentes": {
-      "slug": "nova-industria-brasil-saude-patentes",
-      "title_en": "Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica",
-      "title_pt": "Nova Indústria Brasil: R$ 57 bilhões e a aposta na soberania farmacêutica",
-      "tags": [
-        "nova-industria-brasil",
-        "saude",
-        "inovacao",
-        "patentes",
-        "bndes",
-        "politica-industrial"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "O maior pacote de política industrial da última década inclui meta de produzir 70% das necessidades do SUS até 2033. Mas o que ele tem a ver com patentes?",
-      "content_hash_en": null,
-      "content_hash_pt": "30f8ae0576afe38b52d5ebdb2b6954cbf9682ca8d02aa8c7445bf7859a30f5f0",
-      "backlinks": [
-        "backlog-inpi-patentes-farmaceuticas",
-        "propostas_pta_patentes_2026",
-        "inpi-automation-roadmap-2025-2029"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "proxmox-mac-mini-2018-t2": {
       "slug": "proxmox-mac-mini-2018-t2",
       "title_en": "How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked",
@@ -919,32 +743,6 @@
       ],
       "backlink_source": "file",
       "last_processed": null
-    },
-    "novo-nordisk-ozivy-anulacao-marca-semaglutida": {
-      "slug": "novo-nordisk-ozivy-anulacao-marca-semaglutida",
-      "title_en": "Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding",
-      "title_pt": "Novo Nordisk contra EMS na Justiça: a disputa pela marca Ozivy e o valor do branding farmacêutico",
-      "tags": [
-        "marcas",
-        "inpi",
-        "farmaceuticos",
-        "semaglutida",
-        "propriedade-intelectual",
-        "concorrencia",
-        "direito-marcario"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "The Danish Novo Nordisk requests the annulment of the registration of EMS's Ozivy brand, alleging confusion with Ozempic and Wegovy. Understand the arguments from each side and what is at stake for the GLP-1 market in Brazil.",
-      "content_hash_en": "c98f7edfad05be223178630d5bfdc2af7844372b15b5bc9191fd1098798e745c",
-      "backlinks": [
-        "propostas_pta_patentes_2026",
-        "lpi-30-anos-propostas-aperfeicoamento-inpi",
-        "adi-5529-patentes-farmaceuticas"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-06-22T20:18:03.297Z"
     },
     "brasil-tratado-budapeste-patentes-biotecnologia": {
       "slug": "brasil-tratado-budapeste-patentes-biotecnologia",
@@ -1071,32 +869,6 @@
       "backlink_source": "file",
       "last_processed": "2026-06-24T11:57:46.983Z"
     },
-    "anvisa-veoza-fezolinetanto-menopausa-novo-medicamento": {
-      "slug": "anvisa-veoza-fezolinetanto-menopausa-novo-medicamento",
-      "title_en": "ANVISA approves Veoza (fezolinetant): the first non-hormonal treatment for menopausal hot flashes arrives in Brazil",
-      "title_pt": "ANVISA aprova Veoza (fezolinetanto): o primeiro tratamento não-hormonal para fogachos da menopausa chega ao Brasil",
-      "tags": [
-        "anvisa",
-        "medicamentos",
-        "regulacao",
-        "farmaceuticos",
-        "saude-da-mulher",
-        "inovacao",
-        "propriedade-intelectual"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "ANVISA approved the registration of Veoza (fezolinetant), the first non-hormonal medication for vasomotor symptoms of menopause. Understand the mechanism, the history of global approval, and the regulatory implications for the Brazilian pharmaceutical market.",
-      "content_hash_en": "ba279201ccfc97404e01c344a0a027fce1e631c464fed46c3a619663cb1af7e6",
-      "backlinks": [
-        "backlog-inpi-patentes-farmaceuticas",
-        "backlog-inpi-patentes-farmaceuticas",
-        "backlog-inpi-patentes-farmaceuticas"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce": {
       "slug": "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
       "title_en": "INPI exhausts priority processing quotas for e-commerce trademarks — what now?",
@@ -1117,57 +889,6 @@
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "backlog-inpi-patentes-farmaceuticas",
         "inpi-automation-roadmap-2025-2029"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "nib-r140-bilhoes-ia-historico-politica-industrial": {
-      "slug": "nib-r140-bilhoes-ia-historico-politica-industrial",
-      "title_en": "New Brazil Industry receives an additional R$ 140 billion and includes artificial intelligence among priority sectors",
-      "title_pt": "Nova Indústria Brasil ganha mais R$ 140 bilhões e inclui inteligência artificial entre setores prioritários",
-      "tags": [
-        "nova-industria-brasil",
-        "politica-industrial",
-        "inteligencia-artificial",
-        "bndes",
-        "finep",
-        "inovacao"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "BNDES and Finep expand industrial policy resources to R$ 750 billion in the 2023-2026 period. AI officially becomes a strategic sector. An analysis of the 22-year trajectory that led to this decision.",
-      "content_hash_en": "46bb4ff064f6aa0032a11f21dc393efd8c699c8b4bb9a75e9c4994ccda84d1af",
-      "backlinks": [
-        "nova-industria-brasil-saude-patentes",
-        "pi-em-questao-direito-autoral-inteligencia-artificial-inpi",
-        "inpi-automation-roadmap-2025-2029"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-06-24T14:49:46.285Z"
-    },
-    "glp-1-revolucao-farmaceutica-patentes-brasil": {
-      "slug": "glp-1-revolucao-farmaceutica-patentes-brasil",
-      "title_en": "The GLP-1 revolution in Brazil: how patents, biosimilars, and competition are transforming the pharmaceutical market",
-      "title_pt": "A revolução do GLP-1 no Brasil: como patentes, biossimilares e a concorrência estão transformando o mercado farmacêutico",
-      "tags": [
-        "glp-1",
-        "medicamentos",
-        "patentes",
-        "farmaceuticos",
-        "inovacao",
-        "acesso-a-saude",
-        "regulacao"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "With a market projected to jump from US$1.8 billion to US$9 billion by 2030, the GLP-1 patent ecosystem is redefining access, consumption, and competition in Brazil",
-      "content_hash_en": "64162bb1f64da066d7415f64a9207bfcbbe59ba6771aab93349def0ab1f48f31",
-      "backlinks": [
-        "novo-nordisk-ozivy-anulacao-marca-semaglutida",
-        "novo-nordisk-ozivy-anulacao-marca-semaglutida",
-        "novo-nordisk-ozivy-anulacao-marca-semaglutida"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -1276,31 +997,6 @@
       "backlink_source": "file",
       "last_processed": "2026-06-26T14:03:49.223Z"
     },
-    "peter-dirk-siemsen-legado-propriedade-intelectual": {
-      "slug": "peter-dirk-siemsen-legado-propriedade-intelectual",
-      "title_en": "Peter Dirk Siemsen (1943–2026): The legacy of the only Brazilian in the Intellectual Property Hall of Fame",
-      "title_pt": "Peter Dirk Siemsen (1943–2026): O legado do único brasileiro no Hall da Fama da Propriedade Intelectual",
-      "tags": [
-        "propriedade-intelectual",
-        "abpi",
-        "inpi",
-        "homenagem",
-        "legislacao",
-        "biografia"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Founder of ABPI, former president of AIPPI, and the only Brazilian in the IP Hall of Fame, Peter Dirk Siemsen leaves a legacy that shaped intellectual property in Brazil and worldwide.",
-      "content_hash_en": "1072878bd7d0e32a5c7e14a31f7964fbfb6f19950ae2231a5b56955c070fe1bc",
-      "backlinks": [
-        "trf2-decisao-abpi-fortalecimento-inpi",
-        "lpi-30-anos-propostas-aperfeicoamento-inpi",
-        "brasil-tratado-budapeste-patentes-biotecnologia"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-06-26T19:23:57.191Z"
-    },
     "como-consultar-andamento-processo-inpi": {
       "slug": "como-consultar-andamento-processo-inpi",
       "title_en": "How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]",
@@ -1375,56 +1071,6 @@
       "backlink_source": "file",
       "last_processed": "2026-06-27T00:53:42.847Z"
     },
-    "inpi-atualiza-manual-de-desenhos-industriais": {
-      "slug": "inpi-atualiza-manual-de-desenhos-industriais",
-      "title_en": "INPI updates Manual of Industrial Designs: what changes for companies and designers [2026]",
-      "title_pt": "INPI atualiza Manual de Desenhos Industriais: o que muda para empresas e designers [2026]",
-      "tags": [
-        "desenhos-industriais",
-        "inpi",
-        "design",
-        "propriedade-intelectual",
-        "regulacao",
-        "haia"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "The INPI published on 06/26/2026 the latest update to the Industrial Designs Manual. The changes affect document copies, unionist priority, and petitions for compliance with requirements. Understand the impact for applicants.",
-      "content_hash_en": "4488f73989328e8705cdb4dd1dab4002839218f787678fa97d0b84d9f51e2c4a",
-      "backlinks": [
-        "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "lpi-30-anos-propostas-aperfeicoamento-inpi",
-        "inpi-diretrizes-segundo-uso-medico-patentes-quimica"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-06-27T14:09:28.168Z"
-    },
-    "wipo-ip-sports-booming-2026": {
-      "slug": "wipo-ip-sports-booming-2026",
-      "title_en": "IP in Sports is Booming: 65,000+ Patents, 1.25M Trademarks, and What It Means [2026]",
-      "title_pt": "IP nos Esportes está em Expansão: Mais de 65.000 Patentes, 1,25 Milhão de Marcas Registradas e O Que Isso Significa [2026]",
-      "tags": [
-        "wipo",
-        "patents",
-        "trademarks",
-        "industrial-designs",
-        "inovacao",
-        "esportes"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "WIPO data reveals sports-related IP is growing at nearly 2x the global average. Golf, swimming, and racket sports lead in patent filings, while Disney and Apple dominate trademarks. A data-driven look at the IP-sports economy.",
-      "content_hash_en": "0dab21238becebd95ddbc1f566236b52bebb49a850aeeb0bd9b59da8f4c8f51f",
-      "backlinks": [
-        "mapa-global-patentes-pct-2025-brasil",
-        "wipo-lanca-artificial-intelligence-infrastructure-interchange",
-        "glp-1-revolucao-farmaceutica-patentes-brasil"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-06-28T14:10:35.570Z"
-    },
     "inpi-credenciamento-busca-anterioridade-patentes": {
       "slug": "inpi-credenciamento-busca-anterioridade-patentes",
       "title_en": "INPI will pay R$ 1.025 for patent search: accreditation guide [2026]",
@@ -1474,32 +1120,6 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-06-30T19:25:19.160Z"
-    },
-    "pi-esporte-dados-ompi-2026": {
-      "slug": "pi-esporte-dados-ompi-2026",
-      "title_en": "IP in Sport: WIPO Reveals Patent and Trademark Boom [2026]",
-      "title_pt": "PI no Esporte: OMPI Revela Boom de Patentes e Marcas [2026]",
-      "tags": [
-        "propriedade-intelectual",
-        "esporte",
-        "inovacao",
-        "ompi",
-        "dados",
-        "marcas",
-        "patentes"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "New WIPO data shows that the use of IP in sports is growing far above the global average. Patents rise 7.6% annually. See the numbers and leading sectors.",
-      "content_hash_en": "2eaef8caaf6dceac1cdd4ccb0941b94cb71eaff4fed3e2be0dba35c72947216e",
-      "backlinks": [
-        "wipo-ip-sports-booming-2026",
-        "mapa-global-patentes-pct-2025-brasil",
-        "wipo-lanca-artificial-intelligence-infrastructure-interchange"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-01T14:06:04.356Z"
     },
     "dificuldades-acessar-google-analytics-2026": {
       "slug": "dificuldades-acessar-google-analytics-2026",
@@ -1573,31 +1193,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "inpi-radar-pi-espirito-santo-2026": {
-      "slug": "inpi-radar-pi-espirito-santo-2026",
-      "title_en": "INPI maps IP in ES: 519 patents, 68 thousand trademarks and 11 GIs [2026]",
-      "title_pt": "INPI mapeia PI no ES: 519 patentes, 68 mil marcas e 11 IGs [2026]",
-      "tags": [
-        "inpi",
-        "patentes",
-        "marcas",
-        "indicacoes-geograficas",
-        "inovacao",
-        "propriedade-intelectual"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "The INPI Technological Radar reveals the complete profile of industrial property use in Espírito Santo: who files, in which areas, and how the state positions itself in innovation.",
-      "content_hash_en": "6cb84980c7193f0371472a798f758861308ab1cdf65b63cd365de06bcdd95d74",
-      "backlinks": [
-        "mapa-global-patentes-pct-2025-brasil",
-        "mapa-global-patentes-pct-2025-brasil",
-        "mapa-global-patentes-pct-2025-brasil"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-03T14:09:42.457Z"
-    },
     "migracao-proxmox-8-9-2026": {
       "slug": "migracao-proxmox-8-9-2026",
       "title_en": "How to migrate from Proxmox VE 8 to 9: step-by-step guide [2026]",
@@ -1648,81 +1243,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "inpi-eleicoes-2026-canais-comunicacao-guia": {
-      "slug": "inpi-eleicoes-2026-canais-comunicacao-guia",
-      "title_en": "INPI in the 2026 Elections: Restricted Channels, Services Maintained — Complete Guide",
-      "title_pt": "INPI nas Eleições 2026: Canais Restritos, Serviços Mantidos — Guia Completo",
-      "tags": [
-        "inpi",
-        "eleicoes",
-        "regulacao",
-        "propriedade-intelectual",
-        "servicos-publicos"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Starting July 4, INPI restricted its communication channels to comply with electoral legislation. Instagram, Facebook, and LinkedIn were deactivated until October 25. But essential services continue to operate. See what changes and how to continue following INPI.",
-      "content_hash_en": "7aafc3c3a97ddf5b24f4d600b826a17c55b33dea3b20a12696fb2c1fc8f2c452",
-      "backlinks": [
-        "como-consultar-andamento-processo-inpi",
-        "inpi-credenciamento-busca-anterioridade-patentes",
-        "como-consultar-andamento-processo-inpi"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "gitbutler-terminal-cli-tui-2026": {
-      "slug": "gitbutler-terminal-cli-tui-2026",
-      "title_en": "GitButler in the Terminal",
-      "title_pt": "GitButler no Terminal",
-      "tags": [
-        "git",
-        "gitbutler",
-        "cli",
-        "terminal",
-        "developer-tools",
-        "productivity",
-        "versao-controle"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Exploring GitButler's new CLI and TUI — how 'but' is transforming Git workflow directly from the terminal, without leaving the editor. Comparison with the Desktop and command tips.",
-      "content_hash_en": "2612093d84de2e37a7b572fdb6ce4e0e6472f8866c3ed23f9935c92171e90912",
-      "backlinks": [
-        "one-week-review-gitbutler",
-        "experience-with-cursor-and-windsurf",
-        "ai-beats-procrastination"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-05T13:24:19.785Z"
-    },
-    "abpi-concurso-trabalhos-academicos-pi-2026": {
-      "slug": "abpi-concurso-trabalhos-academicos-pi-2026",
-      "title_en": "ABPI Launches 1st Academic Paper Competition in IP: Submissions Open Until July 22 [2026]",
-      "title_pt": "ABPI Lança 1º Concurso de Trabalhos Acadêmicos em PI: Inscrições Abertas até 22 de Julho [2026]",
-      "tags": [
-        "abpi",
-        "intellectual-property",
-        "innovation",
-        "research",
-        "competition",
-        "academia"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "The Brazilian Intellectual Property Association (ABPI) opened submissions for its 1st Academic Papers and Abstracts Competition in IP, innovation, and technology. Deadline: July 22, 2026. Learn how to apply and what prizes are offered.",
-      "content_hash_en": "ee463f989c1f7fe2a52d86e367bea93fa0ec2b48100194cd9e3a472d570f1ac3",
-      "backlinks": [
-        "trf2-decisao-abpi-fortalecimento-inpi",
-        "mapa-global-patentes-pct-2025-brasil",
-        "trf2-decisao-abpi-fortalecimento-inpi"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "como-ter-dois-hermes-gateways": {
       "slug": "como-ter-dois-hermes-gateways",
       "title_en": "How to Run Two Hermes Gateways: One Remote and One Local",
@@ -1747,31 +1267,6 @@
       ],
       "backlink_source": "file",
       "last_processed": "2026-07-06T01:05:08.987Z"
-    },
-    "csd-abpi-moot-2026-inscricoes-arbitragem-pi": {
-      "slug": "csd-abpi-moot-2026-inscricoes-arbitragem-pi",
-      "title_en": "5th CSD-ABPI Moot: Last Days for Registration in the IP Arbitration Competition [2026]",
-      "title_pt": "5º CSD-ABPI Moot: Últimos Dias para Inscrição na Competição de Arbitragem em PI [2026]",
-      "tags": [
-        "abpi",
-        "arbitragem",
-        "marcas",
-        "propriedade-intelectual",
-        "concurso",
-        "direito"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Registrations for the 5th CSD-ABPI Moot close on July 8, 2026. The arbitration competition focused on Intellectual Property addresses a dispute between cosmetics companies involving trademarks, trade dress, and unfair competition.",
-      "content_hash_en": "33cb622e25f6214e8f0a8478761c637fca50f582ce86de2523532378cdc33187",
-      "backlinks": [
-        "abpi-concurso-trabalhos-academicos-pi-2026",
-        "trf2-decisao-abpi-fortalecimento-inpi",
-        "peter-dirk-siemsen-legado-propriedade-intelectual"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-06T14:17:56.361Z"
     },
     "claude-sonnet-5-2026": {
       "slug": "claude-sonnet-5-2026",
@@ -1843,76 +1338,6 @@
         "creating-my-ai-assistant-locally",
         "creating-my-ai-assistant-locally",
         "creating-my-ai-assistant-locally"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "inpi-acesso-cnpj-conta-govbr-guia-2026": {
-      "slug": "inpi-acesso-cnpj-conta-govbr-guia-2026",
-      "title_en": "INPI Clarifies Access with CNPJ on Gov.br: Guide to Link Your Company [2026]",
-      "title_pt": "INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]",
-      "tags": [
-        "inpi",
-        "govbr",
-        "guia",
-        "servicos-publicos",
-        "propriedade-intelectual"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "INPI published clarification on how to access its services using CNPJ linked to the gov.br account. Step-by-step guide to link your company, manage collaborators, and access patent and trademark services.",
-      "content_hash_en": "9ed5fc6ddd0cc243faa25266509342fb4e8ee36237b9c79f94b525d5ebd941a9",
-      "backlinks": [
-        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
-        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
-        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "making-of-claude-code-origin-story-2026": {
-      "slug": "making-of-claude-code-origin-story-2026",
-      "title_en": "The Making of Claude Code: From Internal CLI to Anthropic's Coding Agent [2026]",
-      "title_pt": "A Criação do Claude Code: Da CLI Interna ao Agente de Codificação da Anthropic [2026]",
-      "tags": [
-        "ai",
-        "dev",
-        "dev-tools",
-        "open-source"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "The inside story of how Claude Code evolved from a two-day experiment to the coding agent that transformed software development. Told by the people who built it.",
-      "content_hash_en": "9e8dc84e6dcb83f9ae7e07234668b15dacdc848e07a0b9b882d42bf7acf8f7a8",
-      "backlinks": [
-        "experience-with-cursor-and-windsurf",
-        "claude-sonnet-5-2026",
-        "experience-with-cursor-and-windsurf"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-07T18:11:03.060Z"
-    },
-    "making-of-claude-code-historia-origem-2026": {
-      "slug": "making-of-claude-code-historia-origem-2026",
-      "title_en": "The Making of Claude Code: From Internal CLI to Anthropic's Coding Agent [2026]",
-      "title_pt": "A História do Claude Code: Como um CLI Interno Virou o Agente de Código da Anthropic [2026]",
-      "tags": [
-        "ai",
-        "dev",
-        "dev-tools",
-        "open-source"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "The inside story of how Claude Code evolved from a two-day experiment to the coding agent that transformed software development. Told by the people who built it.",
-      "content_hash_en": "905d3b7817436b0360114e523df5b755afb1e969d16ffe117ebb979636a7f3f2",
-      "backlinks": [
-        "experience-with-cursor-and-windsurf",
-        "vibe-coding-pitfalls",
-        "claude-sonnet-5-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -1997,32 +1422,6 @@
       "backlink_source": "file",
       "last_processed": "2026-07-07T22:30:43.787Z"
     },
-    "android-google-alerta-terremoto-venezuela-2026": {
-      "slug": "android-google-alerta-terremoto-venezuela-2026",
-      "title_en": "How Google Alerted 11 Million Android Users Before the Venezuela Earthquake [2026]",
-      "title_pt": "Como o Google Alertou 11 Milhões de Android Antes do Terremoto da Venezuela [2026]",
-      "tags": [
-        "android",
-        "google",
-        "terremoto",
-        "venezuela",
-        "tecnologia",
-        "alerta-sismico",
-        "inovacao"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Android seismic alert system used phone accelerometers as seismometers to alert 11.4 million people seconds before the M7.5 earthquake in Venezuela.",
-      "content_hash_en": "0d584d9ede17b04779008bf38bd2a545a54c7f96731a28481609c64f0dc14398",
-      "backlinks": [
-        "dificuldades-acessar-google-analytics-2026",
-        "google-search-console-agente-hermes",
-        "busca-internacional-patentes-patentscope-espacenet-google-2026"
-      ],
-      "backlink_source": "ai",
-      "last_processed": "2026-08-24T14:31:48.005Z"
-    },
     "consulta-publica-marcas-posicao-inpi-2026": {
       "slug": "consulta-publica-marcas-posicao-inpi-2026",
       "title_en": "INPI opens public consultation on position marks [2026]: new rules and how to participate",
@@ -2067,150 +1466,6 @@
         "vibe-coding-pitfalls",
         "claude-sonnet-5-2026",
         "vibe-coding-pitfalls"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "brazil-7th-largest-intangible-investment-us-312b-wipo-2026": {
-      "slug": "brazil-7th-largest-intangible-investment-us-312b-wipo-2026",
-      "title_en": "Brazil Is the 7th Largest Intangible Investor at US$ 312 Billion: What WIPO's Report Reveals [2026]",
-      "title_pt": "Brasil é o 7º Maior Investidor Intangível com US$ 312 Bilhões: O que o Relatório da OMPI Revela [2026]",
-      "tags": [
-        "inpi",
-        "wipo",
-        "innovation",
-        "intangible-assets",
-        "intellectual-property"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Brazil invested US$ 312 billion in intangible assets in 2023 (7.6% of GDP), ranking 7th globally. Brands, software, R&D and data — the INPI-WIPO report explained.",
-      "content_hash_en": "392a79e0d66249eaf906d38709e3122ec830a7565107851d8b593c401eb58e20",
-      "backlinks": [
-        "brasil-7a-maior-economia-ativos-intangiveis-us-312-bi-ompi-2026",
-        "mapa-global-patentes-pct-2025-brasil",
-        "wipo-lanca-artificial-intelligence-infrastructure-interchange"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-09T14:15:00.410Z"
-    },
-    "brasil-7a-maior-economia-ativos-intangiveis-us-312-bi-ompi-2026": {
-      "slug": "brasil-7a-maior-economia-ativos-intangiveis-us-312-bi-ompi-2026",
-      "title_en": "Brazil is the 7th Largest Economy in Intangible Assets with US$ 312 Bi: What the WIPO Report Reveals [2026]",
-      "title_pt": "Brasil é a 7ª Maior Economia em Ativos Intangíveis com US$ 312 Bi: O que o Relatório da OMPI Revela [2026]",
-      "tags": [
-        "inpi",
-        "ompi",
-        "inovacao",
-        "ativos-intangiveis",
-        "propriedade-intelectual"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Brazil invested US$ 312 billion in intangible assets in 2023 (7.6% of GDP) and is among the top 7 in the world. Brands, software, R&D and data: understand the unprecedented report from INPI and WIPO.",
-      "content_hash_en": "a88dbe30509fe293546fd125eb4b0ea68850d8ee8592a1eca787f2841786e94c",
-      "backlinks": [
-        "brazil-7th-largest-intangible-investment-us-312b-wipo-2026",
-        "mapa-global-patentes-pct-2025-brasil",
-        "inpi-plano-estrategico-2027-2036-guia-completo"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-08-17T16:50:12.735Z"
-    },
-    "gpt-5-6-openai-sol-terra-luna-2026": {
-      "slug": "gpt-5-6-openai-sol-terra-luna-2026",
-      "title_en": "GPT-5.6 [2026]: Sol, Terra, Luna — OpenAI's Three-Tier Frontier Model Family",
-      "title_pt": "GPT-5.6 [2026]: Sol, Terra, Luna — Família de Modelos de Fronteira de Três Camadas da OpenAI",
-      "tags": [
-        "ai",
-        "openai",
-        "llm",
-        "gpt",
-        "benchmarks"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "OpenAI launches GPT-5.6 with Sol, Terra, and Luna variants — the first frontier model to beat ARC-AGI-3. Performance, benchmarks, and what this means.",
-      "content_hash_en": "958aee98d38446b8a619b00d41d7b1fd08b4981161d1cbb001d3d5ef514f609e",
-      "backlinks": [
-        "claude-sonnet-5-2026",
-        "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
-        "anthropic-thinking-process-paper"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-09T18:08:54.674Z"
-    },
-    "ai-changes-software-rewrite-economics-2026": {
-      "slug": "ai-changes-software-rewrite-economics-2026",
-      "title_en": "How AI Changes the Economics of Software Rewrites [2026]: Why Codebase Consistency Is Your New Competitive Advantage",
-      "title_pt": "Como a IA Muda a Economia das Reescrevaturas de Software [2026]: Por que a Consistência do Código-Fonte é Sua Nova Vantagem Competitiva",
-      "tags": [
-        "ai",
-        "software-engineering",
-        "best-practices",
-        "dev",
-        "productivity"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "AI has flipped the cost-benefit analysis of codebase rewrites. Consistent patterns get 10x more leverage from LLMs than proprietary, messy codebases. Here's what that means for your tech stack decisions.",
-      "content_hash_en": "272ac95774a34e66e36e23b558dc6d3b16de58695aaba1cf2e49aa65ff5255e1",
-      "backlinks": [
-        "ai-copy-paste-problem",
-        "experience-with-cursor-and-windsurf",
-        "making-of-claude-code-origin-story-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-09T19:51:46.557Z"
-    },
-    "abpi-ustr-section-301-brazilian-ip-system-2026": {
-      "slug": "abpi-ustr-section-301-brazilian-ip-system-2026",
-      "title_en": "ABPI Defends Brazilian IP System Before USTR: Understanding the Section 301 Investigation and Its Impacts [2026]",
-      "title_pt": "ABPI Defende o Sistema de PI Brasileiro Perante o USTR: Entendendo a Investigação da Seção 301 e Seus Impactos [2026]",
-      "tags": [
-        "intellectual-property",
-        "abpi",
-        "ustr",
-        "inpi",
-        "international-trade"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "ABPI submitted formal comments to the USTR contesting preliminary findings of a Section 301 investigation recommending 25% tariffs on Brazilian products based on alleged IP system deficiencies.",
-      "content_hash_en": "9f7b1bbf2d860390d0cf2db243137c376737ae65eb0bf76eaa9da49de07ac321",
-      "backlinks": [
-        "abpi-ustr-secao-301-sistema-brasileiro-pi-2026",
-        "trf2-decisao-abpi-fortalecimento-inpi",
-        "backlog-inpi-patentes-farmaceuticas"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-09T19:53:14.202Z"
-    },
-    "abpi-ustr-secao-301-sistema-brasileiro-pi-2026": {
-      "slug": "abpi-ustr-secao-301-sistema-brasileiro-pi-2026",
-      "title_en": "ABPI Defends Brazilian IP System at USTR: Understand the Section 301 Investigation and the Impacts [2026]",
-      "title_pt": "ABPI Defende Sistema Brasileiro de PI no USTR: Entenda a Investigação Seção 301 e os Impactos [2026]",
-      "tags": [
-        "propriedade-intelectual",
-        "abpi",
-        "ustr",
-        "inpi",
-        "comercio-internacional"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "ABPI presented a statement to the USTR in Washington contesting preliminary conclusions of the Section 301 investigation that recommend 25% tariffs on Brazilian products based on alleged deficiencies in the IP system.",
-      "content_hash_en": "95935183cf8a032daa4b2900a92fa5b7997bde6b504772b58bbaedf451246105",
-      "backlinks": [
-        "trf2-decisao-abpi-fortalecimento-inpi",
-        "inpi-automation-roadmap-2025-2029",
-        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2278,38 +1533,14 @@
         "article"
       ],
       "description_en": "Complete guide for software registration at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software and deadlines. Step by step for individuals and legal entities.",
-      "content_hash_en": "d5f61676bd510ea1b6b803068db230b6ba755114af4482b6efb56fcd3ba4e7b8",
+      "content_hash_en": "2ee438cea461c1f9f71b8948cbd9b2ef69c59181df46ef9f4833d05d7dc7a584",
       "backlinks": [
         "modulo-servicos-patentes-inpi-guia-acesso-testes-2026",
         "modulo-servicos-patentes-inpi-guia-acesso-testes-2026",
-        "patente-software-vs-registro-programa-computador-brasil"
+        "modulo-servicos-patentes-inpi-guia-acesso-testes-2026"
       ],
       "backlink_source": "file",
       "last_processed": "2026-08-24T14:19:53.317Z"
-    },
-    "developer-tools-invisible-framework-2026": {
-      "slug": "developer-tools-invisible-framework-2026",
-      "title_en": "How to Choose Developer Tools That Last: The Invisible Tools Framework [2026]",
-      "title_pt": "Como Escolher Ferramentas para Desenvolvedores que Duram: O Framework das Ferramentas Invisíveis [2026]",
-      "tags": [
-        "developer-tools",
-        "productivity",
-        "workflow",
-        "editors",
-        "cli"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "A practical framework for evaluating developer tools based on whether they disappear into your workflow — avoiding identity traps, puzzle-gaming limitations, and the sunk cost of steep learning curves.",
-      "content_hash_en": "1c10c1d7867133dc7d256ce8026361e21c7c7afe30cec8478bd61181193394a0",
-      "backlinks": [
-        "one-week-review-gitbutler",
-        "gitbutler-terminal-cli-tui-2026",
-        "ai-coding-agents-comparison-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-08-13T17:57:04.215Z"
     },
     "industrial-design-registration-brazil-inpi-2026-guide": {
       "slug": "industrial-design-registration-brazil-inpi-2026-guide",
@@ -2332,31 +1563,6 @@
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "guia-registro-programa-computador-inpi"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "guia-registro-desenho-industrial-inpi-2026": {
-      "slug": "guia-registro-desenho-industrial-inpi-2026",
-      "title_en": "Industrial Design Registration at INPI: Complete Step-by-Step Guide [2026]",
-      "title_pt": "Registro de Desenho Industrial no INPI: Guia Completo Passo a Passo [2026]",
-      "tags": [
-        "desenhos-industriais",
-        "inpi",
-        "propriedade-intelectual",
-        "design",
-        "guia",
-        "haia"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to industrial design registration at INPI: updated fees, required documents, step-by-step e-DI, validity periods, Hague Agreement, and differences from patents and trademarks.",
-      "content_hash_en": "45dddcdf3789a8707ecc7530a0a986d04d8859b7bb1cce4af08b96e6debe1b55",
-      "backlinks": [
-        "inpi-acesso-cnpj-conta-govbr-guia-2026",
-        "inpi-acesso-cnpj-conta-govbr-guia-2026",
-        "inpi-acesso-cnpj-conta-govbr-guia-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2411,32 +1617,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "tipos-protecao-intelectual-brasil-guia-completo": {
-      "slug": "tipos-protecao-intelectual-brasil-guia-completo",
-      "title_en": "Types of Intellectual Protection in Brazil: Complete Comparative Guide [2026]",
-      "title_pt": "Tipos de Proteção Intelectual no Brasil: Guia Comparativo Completo [2026]",
-      "tags": [
-        "propriedade-intelectual",
-        "patentes",
-        "marcas",
-        "inpi",
-        "guia",
-        "direito-autoral",
-        "inovacao"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide comparing the types of intellectual protection in Brazil: invention patent, utility model, industrial design, trademark, geographical indication, computer program, and plant variety. Costs, deadlines, legislation, and when to use each one.",
-      "content_hash_en": "03ec3154a9989de248aea02b4c19a4d6572345bcf9e78a652c27c982a54a5e58",
-      "backlinks": [
-        "inpi-credenciamento-busca-anterioridade-patentes",
-        "guia-registro-desenho-industrial-inpi-2026",
-        "quanto-custa-registrar-marca-inpi-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "sandboxing-ai-coding-agents-guide-2026": {
       "slug": "sandboxing-ai-coding-agents-guide-2026",
       "title_en": "How to Safely Run AI Coding Agents: A Practical Sandboxing Guide [2026]",
@@ -2457,32 +1637,6 @@
         "kvm-virsh-linux-virtualization-guide-2026",
         "kvm-virsh-linux-virtualization-guide-2026",
         "kvm-virsh-linux-virtualization-guide-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "patentes-inteligencia-artificial-generativa-brasil-guia-2026": {
-      "slug": "patentes-inteligencia-artificial-generativa-brasil-guia-2026",
-      "title_en": "Generative AI Patents in Brazil: Complete Guide to Patenting AI Inventions [2026]",
-      "title_pt": "Patentes de Inteligência Artificial Generativa no Brasil: Guia Completo [2026]",
-      "tags": [
-        "patents",
-        "artificial-intelligence",
-        "inpi",
-        "intellectual-property",
-        "innovation",
-        "generative-ai",
-        "wipo"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to patenting generative AI inventions in Brazil: patentability requirements under the Brazilian IP Law (LPI), IPC/CPC classification codes for AI, WIPO global data, patent application drafting strategies, and filing at the INPI.",
-      "content_hash_en": "45dd1c2285f9708c9428e493ddbeaaa769ee3cab5d29f28723b1eaed826ccd63",
-      "backlinks": [
-        "mapa-global-patentes-pct-2025-brasil",
-        "backlog-inpi-patentes-farmaceuticas",
-        "brasil-tratado-budapeste-patentes-biotecnologia"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2511,31 +1665,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "guia-tramite-prioritario-patentes-inpi-2026": {
-      "slug": "guia-tramite-prioritario-patentes-inpi-2026",
-      "title_en": "Complete Guide to Priority Patent Processing at INPI: Modalities, Costs, and How to Apply [2026]",
-      "title_pt": "Guia Completo de Trâmite Prioritário de Patentes no INPI: Modalidades, Custos e Como Solicitar [2026]",
-      "tags": [
-        "inpi",
-        "patentes",
-        "tramite-prioritario",
-        "propriedade-intelectual",
-        "guia",
-        "inovacao"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide with all 17 modalities of priority patent processing at INPI in 2026: who can request, costs per modality, required documents, and step by step. Includes news from the H04 program and PPH.",
-      "content_hash_en": "5cab3c2c5be0ca57a748d5650be5030e96e2f4ebcc164c687b96b2d7e1a14e7c",
-      "backlinks": [
-        "como-consultar-andamento-processo-inpi",
-        "tipos-protecao-intelectual-brasil-guia-completo",
-        "quanto-custa-registrar-marca-inpi-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-15T14:14:58.831Z"
-    },
     "run-llms-old-server-homelab-guide-2026": {
       "slug": "run-llms-old-server-homelab-guide-2026",
       "title_en": "How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]",
@@ -2560,127 +1689,6 @@
       "backlink_source": "file",
       "last_processed": "2026-07-15T18:08:12.067Z"
     },
-    "classificacao-internacional-patentes-ipc-guia-brasil": {
-      "slug": "classificacao-internacional-patentes-ipc-guia-brasil",
-      "title_en": "International Patent Classification (IPC): Practical Guide to Understanding and Using Patent Codes in Brazil [2026]",
-      "title_pt": "Classificação Internacional de Patentes (IPC): Guia Prático para Entender e Usar Códigos de Patentes no Brasil [2026]",
-      "tags": [
-        "patentes",
-        "inpi",
-        "propriedade-intelectual",
-        "wipo",
-        "guia",
-        "classificacao"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to the International Patent Classification (IPC): structure of sections A to H, subclasses and groups, difference between IPC and CPC, how to consult patent classifications at INPI and practical examples.",
-      "content_hash_en": "fff014af6618fb98b4b40b27f020095d20cbd7279354172db2d5a77eec175c03",
-      "backlinks": [
-        "guia-tramite-prioritario-patentes-inpi-2026",
-        "patentes-inteligencia-artificial-generativa-brasil-guia-2026",
-        "inpi-credenciamento-busca-anterioridade-patentes"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "rust-vs-zig-systems-programming-2026": {
-      "slug": "rust-vs-zig-systems-programming-2026",
-      "title_en": "Rust vs Zig for Systems Programming in 2026: A Practical Comparison",
-      "title_pt": "Rust vs Zig para Programação de Sistemas em 2026: Uma Comparação Prática",
-      "tags": [
-        "rust",
-        "zig",
-        "systems-programming",
-        "programming-languages",
-        "dev"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Comparing Rust and Zig for systems programming in 2026 — memory safety, build times, memory control, ecosystem, and real-world data from the Roc and Bun rewrites. Includes benchmarks and decision guide.",
-      "content_hash_en": "fec6b4c8718bdc8535a809516473e0eb61e9a6fb640098c64e18f305592b20d8",
-      "backlinks": [
-        "ai-changes-software-rewrite-economics-2026",
-        "linux-windows-macos-qual-usar-2026",
-        "developer-tools-invisible-framework-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-16T18:08:30.712Z"
-    },
-    "trademark-cancellation-non-use-brazil-inpi-guide": {
-      "slug": "trademark-cancellation-non-use-brazil-inpi-guide",
-      "title_en": "Trademark Cancellation for Non-Use in Brazil: Complete Guide [2026]",
-      "title_pt": "Cancelamento de Marca por Não Uso no Brasil: Guia Completo [2026]",
-      "tags": [
-        "trademarks",
-        "inpi",
-        "brazil",
-        "intellectual-property",
-        "guide"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to trademark cancellation (caducidade) for non-use before the Brazilian Patent and Trademark Office (INPI): deadlines, legal requirements, costs per class, procedure, and how to defend your registration.",
-      "content_hash_en": "5db72bb002995e82df4184b91ed134a2e9918ada2d48e25599d8641aabd52292",
-      "backlinks": [
-        "caducidade-marca-inpi-guia-2026",
-        "novo-nordisk-ozivy-anulacao-marca-semaglutida",
-        "inpi-manual-marcas-alto-renome-protocolo-madri"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-17T14:14:00.875Z"
-    },
-    "caducidade-marca-inpi-guia-2026": {
-      "slug": "caducidade-marca-inpi-guia-2026",
-      "title_en": "Trademark Lapse at INPI: Complete Guide on Loss and Defense of Registration [2026]",
-      "title_pt": "Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]",
-      "tags": [
-        "marcas",
-        "inpi",
-        "caducidade",
-        "propriedade-intelectual",
-        "guia"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide on trademark registration cancellation at INPI: deadlines, legal requirements, costs per class, step-by-step procedure, and how to defend the registration against the cancellation request.",
-      "content_hash_en": "39519202c21901a042a7b8af619eab4de1426ed923d5df8fbd8df00bd81be34a",
-      "backlinks": [
-        "quanto-custa-registrar-marca-inpi-2026",
-        "como-consultar-andamento-processo-inpi",
-        "quanto-custa-registrar-marca-inpi-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-17T14:14:16.295Z"
-    },
-    "ai-coding-agents-comparison-2026": {
-      "slug": "ai-coding-agents-comparison-2026",
-      "title_en": "AI Coding Agents Compared: Claude Code vs Cursor vs GitHub Copilot vs Aider [2026]",
-      "title_pt": "Agentes de Codificação de IA Comparados: Claude Code vs Cursor vs GitHub Copilot vs Aider [2026]",
-      "tags": [
-        "ai",
-        "coding-agents",
-        "dev-tools",
-        "comparison",
-        "claude"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Head-to-head comparison of the four major AI coding agents available in 2026. Covers architecture, pricing, security, workflow fit, and when to choose each tool — with updated data on Claude Code's recent controversy and the rise of competitive agents.",
-      "content_hash_en": "88eec548cbff42d3121c2ea400351fd0f59472e12deb2af2c7d99b3ce8a893fd",
-      "backlinks": [
-        "ai-coding-agents-architectural-guide-2026",
-        "sandboxing-ai-coding-agents-guide-2026",
-        "ai-coding-agents-architectural-guide-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "patente-software-vs-registro-programa-computador-brasil": {
       "slug": "patente-software-vs-registro-programa-computador-brasil",
       "title_en": "Software Patent vs Computer Program Registration in Brazil: What's the Difference? [2026]",
@@ -2701,80 +1709,6 @@
         "patentes-inteligencia-artificial-brasil-guia-2026",
         "guia-registro-programa-computador-inpi",
         "inpi-credenciamento-busca-anterioridade-patentes"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "sqlite-performance-best-practices-guide-2026": {
-      "slug": "sqlite-performance-best-practices-guide-2026",
-      "title_en": "SQLite Performance and Best Practices: A Practical Guide for Developers and Homelab Users [2026]",
-      "title_pt": "Desempenho e Melhores Práticas do SQLite: Um Guia Prático para Desenvolvedores e Usuários de Homelab [2026]",
-      "tags": [
-        "sqlite",
-        "database",
-        "homelab",
-        "performance",
-        "linux"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Comprehensive guide to running SQLite in production-like environments: WAL mode, ANALYZE, VACUUM, concurrency strategies, backup, and performance tuning for self-hosted projects.",
-      "content_hash_en": "80642431532347f1747378dba54c3dd75bab859bf5ba98189496bd441b73c8b0",
-      "backlinks": [
-        "proxmox-backup-server-community-scripts-2026",
-        "proxmox-mac-mini-2018-t2",
-        "migracao-proxmox-8-9-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-18T18:08:16.035Z"
-    },
-    "pct-national-phase-brazil-guide-2026": {
-      "slug": "pct-national-phase-brazil-guide-2026",
-      "title_en": "PCT National Phase Entry in Brazil: Complete Guide [2026]",
-      "title_pt": "Entrada da Fase Nacional PCT no Brasil: Guia Completo [2026]",
-      "tags": [
-        "patents",
-        "pct",
-        "inpi",
-        "wipo",
-        "guide",
-        "intellectual-property"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to entering the PCT national phase in Brazil: deadlines, documents, fees, GRU payments, and step-by-step procedures at the INPI for international patent applicants.",
-      "content_hash_en": "b5d15c35ed2809b1e9bac3168c13a721dfe73a30d95e1a5ad05645d7a98d7e4a",
-      "backlinks": [
-        "mapa-global-patentes-pct-2025-brasil",
-        "ip-protection-types-brazil-complete-guide",
-        "guia-tramite-prioritario-patentes-inpi-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "entrada-fase-nacional-pct-brasil-guia-2026": {
-      "slug": "entrada-fase-nacional-pct-brasil-guia-2026",
-      "title_en": "Entry into the PCT National Phase in Brazil: Complete Guide [2026]",
-      "title_pt": "Entrada na Fase Nacional do PCT no Brasil: Guia Completo [2026]",
-      "tags": [
-        "patentes",
-        "pct",
-        "inpi",
-        "wipo",
-        "guia",
-        "propriedade-intelectual"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide on how to enter the national phase of the PCT in Brazil: deadlines, documents, costs, GRU and step-by-step procedures at INPI for foreigners to file patents in the country.",
-      "content_hash_en": "7ea9c87c5aa7cf70ed2b5d9d46901b4a7e57b5bffbed2cbdbdbd3dd96f09d4fd",
-      "backlinks": [
-        "mapa-global-patentes-pct-2025-brasil",
-        "classificacao-internacional-patentes-ipc-guia-brasil",
-        "guia-tramite-prioritario-patentes-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2803,79 +1737,6 @@
       "backlink_source": "file",
       "last_processed": "2026-07-19T18:08:29.884Z"
     },
-    "busca-patentes-inpi-guia-pratico": {
-      "slug": "busca-patentes-inpi-guia-pratico",
-      "title_en": "Patent Search at INPI: Practical Step-by-Step Guide [2026]",
-      "title_pt": "Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]",
-      "tags": [
-        "patentes",
-        "inpi",
-        "guia",
-        "busca-de-anterioridade",
-        "propriedade-intelectual",
-        "classificacao-ipc"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to conducting patent searches in the INPI database: system access, basic and advanced search, IPC classification, interpreting results, and tips for finding prior art.",
-      "content_hash_en": "219e49cc88f1e9b4420927a8dea91e75da04d203d8a9b2a6292b07917213017a",
-      "backlinks": [
-        "classificacao-internacional-patentes-ipc-guia-brasil",
-        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
-        "inpi-credenciamento-busca-anterioridade-patentes"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "controlling-reasoning-effort-llms-guide": {
-      "slug": "controlling-reasoning-effort-llms-guide",
-      "title_en": "How to Control Reasoning Effort in LLMs: A Practical Guide [2026]",
-      "title_pt": "Como Controlar o Esforço de Raciocínio em LLMs: Um Guia Prático [2026]",
-      "tags": [
-        "llm",
-        "prompt-engineering",
-        "ai",
-        "dev",
-        "optimization"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Practical guide to controlling reasoning depth in LLMs — from API parameters and prompt techniques to cost optimization across GPT-5.6, Claude, and open-source models.",
-      "content_hash_en": "cd75696953eab000d74f5403273695ed535fb985ade33f9b7e845f37382fdd90",
-      "backlinks": [
-        "anthropic-thinking-process-paper",
-        "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
-        "gpt-5-6-openai-sol-terra-luna-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-20T18:08:51.284Z"
-    },
-    "how-to-file-patent-inpi-2026-guide": {
-      "slug": "how-to-file-patent-inpi-2026-guide",
-      "title_en": "How to File a Patent at INPI: Complete Step-by-Step Guide [2026]",
-      "title_pt": "Como Depositar uma Patente no INPI: Guia Completo Passo a Passo [2026]",
-      "tags": [
-        "patents",
-        "inpi",
-        "brazil",
-        "intellectual-property",
-        "guide"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete step-by-step guide to filing a patent application at the Brazilian Patent Office (INPI) in 2026: documentation, costs, the new Patents Services Module, PAG registration, and post-filing management.",
-      "content_hash_en": "51a21eb59e4871fa55b0496e580e4f16a6f0568f7d568db743f46a9a645bc480",
-      "backlinks": [
-        "inpi-automation-roadmap-2025-2029",
-        "ip-protection-types-brazil-complete-guide",
-        "busca-patentes-inpi-guia-pratico"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "guia-deposito-patente-inpi-2026": {
       "slug": "guia-deposito-patente-inpi-2026",
       "title_en": "How to File a Patent at INPI: Complete Step-by-Step Guide [2026]",
@@ -2896,84 +1757,6 @@
         "inpi-automation-roadmap-2025-2029",
         "patente-invencao-vs-modelo-utilidade-guia-2026",
         "modulo-servicos-patentes-inpi-guia-acesso-testes-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "python-profiling-315-jit-tachyon-guide": {
-      "slug": "python-profiling-315-jit-tachyon-guide",
-      "title_en": "How to Profile Python Code in 2026: A Guide to Python 3.15's JIT Compiler and Tachyon Profiler",
-      "title_pt": "Como Perfilhar Código Python em 2026: Um Guia para o Compilador JIT do Python 3.15 e o Tachyon Profiler",
-      "tags": [
-        "python",
-        "profiling",
-        "performance",
-        "JIT",
-        "developer-tools"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to Python 3.15's new profiling ecosystem: the upgraded JIT compiler with ultra-low overhead tracing, Tachyon statistical sampling profiler, migration from cProfile, and practical code examples. [2026]",
-      "content_hash_en": "de987b86b1039ae93bb403596854ef4239316c0c69dc13c77a2b4a5852d233de",
-      "backlinks": [
-        "python-modules-guide",
-        "sqlite-performance-best-practices-guide-2026",
-        "one-week-review-gitbutler"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-21T18:08:59.868Z"
-    },
-    "patent-opposition-nullity-brazil-inpi-guide-2026": {
-      "slug": "patent-opposition-nullity-brazil-inpi-guide-2026",
-      "title_en": "Patent Opposition and Nullity in Brazil: Complete Guide to Challenging Patents at the INPI [2026]",
-      "title_pt": "Oposição e Nulidade de Patentes no Brasil: Guia Completo para Contestar Patentes no INPI [2026]",
-      "tags": [
-        "inpi",
-        "patents",
-        "nullity",
-        "patent-opposition",
-        "intellectual-property",
-        "guide",
-        "brazil-ip",
-        "appeal"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to challenging patents in Brazil: pre-grant submissions (Art. 31), administrative nullity (Arts. 50-55), judicial nullity actions (Arts. 56-57), and appeals. Deadlines, costs, legal grounds, and step-by-step procedures.",
-      "content_hash_en": "fe9361072b70fc0f80b3b767a14635d7b5b5c6c3ae80fdf9c6e21d4afc51e951",
-      "backlinks": [
-        "how-to-file-patent-inpi-2026-guide",
-        "como-consultar-andamento-processo-inpi",
-        "guia-tramite-prioritario-patentes-inpi-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "subsidio-exame-nulidade-patentes-inpi-guia-2026": {
-      "slug": "subsidio-exame-nulidade-patentes-inpi-guia-2026",
-      "title_en": "Examination Subsidy and Patent Nullity at INPI: Complete Guide on How to Contest [2026]",
-      "title_pt": "Subsídio ao Exame e Nulidade de Patentes no INPI: Guia Completo de Como Contestar [2026]",
-      "tags": [
-        "inpi",
-        "patentes",
-        "nulidade",
-        "subsídio-exame",
-        "propriedade-intelectual",
-        "guia",
-        "inovacao",
-        "recurso"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide on how third parties can challenge patents at the INPI: subsidy to technical examination (Art. 31), administrative nullity, judicial nullity, appeals and counterarguments. Deadlines, costs, legal grounds and step by step.",
-      "content_hash_en": "d3478bbeb70773144a5cc98f1f6844e816124d5e2a3592922ffe5dd8258d4e2a",
-      "backlinks": [
-        "guia-deposito-patente-inpi-2026",
-        "como-consultar-andamento-processo-inpi",
-        "guia-tramite-prioritario-patentes-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3002,31 +1785,6 @@
       "backlink_source": "file",
       "last_processed": "2026-07-22T18:10:35.737Z"
     },
-    "guia-anuidades-patentes-inpi-prazos-valores-2026": {
-      "slug": "guia-anuidades-patentes-inpi-prazos-valores-2026",
-      "title_en": "Complete Guide to Patent Annuities at INPI: Deadlines, Amounts and How to Pay [2026]",
-      "title_pt": "Guia Completo de Anuidades de Patentes no INPI: Prazos, Valores e Como Pagar [2026]",
-      "tags": [
-        "patentes",
-        "inpi",
-        "anuidades",
-        "propriedade-intelectual",
-        "guia",
-        "custos"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide on patent annuities at INPI: when to pay, 2026 fee table by patent type and age group, how to issue the GRU, grace periods, restoration and the new Patent Services Module.",
-      "content_hash_en": "2ca7ed485674137d07b4c0136aba810a257b803b01da5d2d8a4b0962619e6cbb",
-      "backlinks": [
-        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
-        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
-        "guia-deposito-patente-inpi-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "containers-vs-vms-complete-guide-2026": {
       "slug": "containers-vs-vms-complete-guide-2026",
       "title_en": "Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]",
@@ -3051,82 +1809,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "technology-transfer-contracts-registration-inpi-2026-guide": {
-      "slug": "technology-transfer-contracts-registration-inpi-2026-guide",
-      "title_en": "Technology Transfer Contract Registration at Brazil's INPI: Complete Step-by-Step Guide [2026]",
-      "title_pt": "Registro de Contrato de Transferência de Tecnologia no INPI do Brasil: Guia Completo Passo a Passo [2026]",
-      "tags": [
-        "technology-transfer",
-        "inpi",
-        "intellectual-property",
-        "licensing",
-        "franchising",
-        "brazil",
-        "patent-licensing",
-        "trademark-licensing"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to registering and averting technology transfer contracts at Brazil's INPI: contract types, modalities, 2026 fee table, 70% SME discount, required documents, step-by-step e-Contratos process, and new rules from December 2025.",
-      "content_hash_en": "8243eb99fd7fe0af88d343654499b499dc6e039b5d7f93270155ff27ecc5bbfc",
-      "backlinks": [
-        "trademark-cancellation-non-use-brazil-inpi-guide",
-        "trademark-cancellation-non-use-brazil-inpi-guide",
-        "trademark-cancellation-non-use-brazil-inpi-guide"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "guia-registro-contratos-transferencia-tecnologia-inpi-2026": {
-      "slug": "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
-      "title_en": "Registration of Technology Transfer Contracts at INPI: Complete Step-by-Step Guide [2026]",
-      "title_pt": "Registro de Contratos de Transferência de Tecnologia no INPI: Guia Completo Passo a Passo [2026]",
-      "tags": [
-        "contratos",
-        "transferencia-de-tecnologia",
-        "inpi",
-        "propriedade-intelectual",
-        "licenciamento",
-        "franquia"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide on registration and recording of technology transfer contracts at INPI: types of contracts, modalities, costs with updated table, 70% discount for SMEs, documents, step-by-step on e-Contratos and new 2025 rules.",
-      "content_hash_en": "e5a2053492c765a78d6d54abbe5518b3f7c185b56f374c47b7dd6c0e78a7e8a5",
-      "backlinks": [
-        "caducidade-marca-inpi-guia-2026",
-        "caducidade-marca-inpi-guia-2026",
-        "caducidade-marca-inpi-guia-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "spf-dkim-dmarc-email-authentication-guide-2026": {
-      "slug": "spf-dkim-dmarc-email-authentication-guide-2026",
-      "title_en": "SPF, DKIM, and DMARC: Complete Email Authentication Guide [2026]",
-      "title_pt": "SPF, DKIM e DMARC: Guia Completo de Autenticação de Email [2026]",
-      "tags": [
-        "email",
-        "security",
-        "linux",
-        "homelab",
-        "devops"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Step-by-step guide to configuring SPF, DKIM, and DMARC for your domain in 2026. Includes DNS record examples, troubleshooting common failures, and understanding DMARC reports. With 68% of domains still not enforcing DMARC, secure your email today.",
-      "content_hash_en": "6e9148650b287bd5e1408cf457e7199d8367f1dae917c499481c59af39388b7f",
-      "backlinks": [
-        "how-to-setup-github-secrets",
-        "containers-vs-vms-complete-guide-2026",
-        "how-to-setup-github-secrets"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-28T18:07:53.272Z"
-    },
     "international-patent-search-patentscope-espacenet-google-2026": {
       "slug": "international-patent-search-patentscope-espacenet-google-2026",
       "title_en": "International Patent Search Guide: PATENTSCOPE, Espacenet, and Google Patents [2026]",
@@ -3146,11 +1828,11 @@
       "content_hash_en": "adeec4aadbbd297cb9ec38b4ad8f26896efcfad23fdf7f97a43f65e637eef368",
       "backlinks": [
         "busca-internacional-patentes-patentscope-espacenet-google-2026",
-        "busca-patentes-inpi-guia-pratico",
-        "classificacao-internacional-patentes-ipc-guia-brasil"
+        "inpi-credenciamento-busca-anterioridade-patentes",
+        "mapa-global-patentes-pct-2025-brasil"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-08-24T14:32:02.947Z"
+      "last_processed": "2026-08-24T14:36:35.289Z"
     },
     "busca-internacional-patentes-patentscope-espacenet-google-2026": {
       "slug": "busca-internacional-patentes-patentscope-espacenet-google-2026",
@@ -3176,30 +1858,6 @@
       ],
       "backlink_source": "file",
       "last_processed": null
-    },
-    "ai-agent-infrastructure-practical-guide-2026": {
-      "slug": "ai-agent-infrastructure-practical-guide-2026",
-      "title_en": "AI Agent Infrastructure: A Practical Guide to Building Reliable Agent Systems [2026]",
-      "title_pt": "Infraestrutura de Agentes de IA: Um Guia Prático para Construir Sistemas de Agentes Confiáveis [2026]",
-      "tags": [
-        "artificial-intelligence",
-        "agents",
-        "infrastructure",
-        "architecture",
-        "devops"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Step-by-step guide to production-ready AI agent infrastructure: tool-calling loop, memory management, security sandboxing, multi-agent coordination, observability, and deployment patterns.",
-      "content_hash_en": "02fdd5e08914dcd2bfc89125506fbba67ec3121ea4de9b440e23012c9dd56728",
-      "backlinks": [
-        "ai-coding-agents-architectural-guide-2026",
-        "sandboxing-ai-coding-agents-guide-2026",
-        "ai-coding-agents-comparison-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-29T18:06:52.575Z"
     },
     "patentes-inteligencia-artificial-brasil-guia-2026": {
       "slug": "patentes-inteligencia-artificial-brasil-guia-2026",
@@ -3251,54 +1909,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "combating-trademark-counterfeiting-brazil-guide-2026": {
-      "slug": "combating-trademark-counterfeiting-brazil-guide-2026",
-      "title_en": "Combating Trademark Counterfeiting in Brazil: Complete Guide to Administrative, Civil and Criminal Measures [2026]",
-      "title_pt": "Combate à Falsificação de Marcas no Brasil: Guia Completo sobre Medidas Administrativas, Cíveis e Criminais [2026]",
-      "tags": [
-        "trademarks",
-        "counterfeiting",
-        "intellectual-property",
-        "inpi",
-        "brazil"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to fighting trademark counterfeiting in Brazil: customs seizure, injunctions, search and seizure, criminal complaint and marketplace takedowns.",
-      "content_hash_en": "9b9445ebfc959697ece66f88c5ca058562ce34e090bdad515873f2019833ca62",
-      "backlinks": [
-        "quanto-custa-registrar-marca-inpi-2026",
-        "consulta-publica-marcas-posicao-inpi-2026",
-        "inpi-manual-marcas-alto-renome-protocolo-madri"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "combate-contrafacao-marcas-brasil-guia-2026": {
-      "slug": "combate-contrafacao-marcas-brasil-guia-2026",
-      "title_en": "Combating Trademark Counterfeiting in Brazil: Complete Guide to Administrative, Civil and Criminal Measures [2026]",
-      "title_pt": "Combate à Contrafação de Marcas no Brasil: Guia Completo de Medidas Administrativas, Cíveis e Criminais [2026]",
-      "tags": [
-        "marcas",
-        "contrafacao",
-        "propriedade-intelectual",
-        "inpi",
-        "judiciario"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to combating trademark counterfeiting in Brazil: customs detention, search and seizure, civil action, criminal complaint, and removal from marketplaces.",
-      "content_hash_en": "6c7345079f3362d0f3c2775c65861ef64a1df9dd2efa552a79ea5357ed622b06",
-      "backlinks": [
-        "quanto-custa-registrar-marca-inpi-2026",
-        "consulta-publica-marcas-posicao-inpi-2026",
-        "inpi-manual-marcas-alto-renome-protocolo-madri"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "ai-session-portability-guide-2026": {
       "slug": "ai-session-portability-guide-2026",
       "title_en": "AI Session Portability: Why Your AI Conversations Are Becoming Lock-In [2026]",
@@ -3319,30 +1929,6 @@
         "anthropic-thinking-process-paper",
         "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
         "anthropic-thinking-process-paper"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "marcas-de-posicao-brasil-guia-completo-2026": {
-      "slug": "marcas-de-posicao-brasil-guia-completo-2026",
-      "title_en": "Position Marks in Brazil: Complete Guide to Registration with INPI [2026]",
-      "title_pt": "Marcas de Posição no Brasil: Guia Completo de Registro no INPI [2026]",
-      "tags": [
-        "marcas",
-        "inpi",
-        "propriedade-intelectual",
-        "guia",
-        "regulacao"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to position marks in Brazil: what they are, how they differ from three-dimensional marks, INPI registrability criteria, real examples, costs, and step-by-step registration.",
-      "content_hash_en": "727662015bf80f5ac52074924e46a5175caccd7a31bbf7572e5326b7cf283311",
-      "backlinks": [
-        "como-consultar-andamento-processo-inpi",
-        "quanto-custa-registrar-marca-inpi-2026",
-        "como-consultar-andamento-processo-inpi"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3371,54 +1957,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "arbitration-ip-brazil-complete-guide-2026": {
-      "slug": "arbitration-ip-brazil-complete-guide-2026",
-      "title_en": "IP Arbitration in Brazil: Complete Guide [2026]",
-      "title_pt": "Arbitragem de PI no Brasil: Guia Completo [2026]",
-      "tags": [
-        "arbitration",
-        "intellectual-property",
-        "patents",
-        "trademarks",
-        "dispute-resolution"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity limits, arbitration clauses, institutions like CSD-ABPI and WIPO AMC, and a practical step-by-step.",
-      "content_hash_en": "bc1a4005b5b59744cbc6bedc02aee6795e9f508a0b1382ae5cf222cd0b4970d4",
-      "backlinks": [
-        "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
-        "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
-        "guia-registro-contratos-transferencia-tecnologia-inpi-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "arbitragem-propriedade-intelectual-brasil-guia-2026": {
-      "slug": "arbitragem-propriedade-intelectual-brasil-guia-2026",
-      "title_en": "Intellectual Property Arbitration in Brazil: Complete Guide [2026]",
-      "title_pt": "Arbitragem em Propriedade Intelectual no Brasil: Guia Completo [2026]",
-      "tags": [
-        "arbitragem",
-        "propriedade-intelectual",
-        "patentes",
-        "marcas",
-        "resolucao-de-disputas"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "What can and cannot be arbitrated in IP in Brazil: legal basis (Law 9.307/96), patent and trademark nullity, arbitration clause, institutions such as CSD-ABPI and WIPO AMC, and practical step-by-step.",
-      "content_hash_en": "fd7c10cbf591aec3145f9f14606d70d7c98ace06965062071f87a666633fce27",
-      "backlinks": [
-        "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
-        "guia-registro-contratos-transferencia-tecnologia-inpi-2026",
-        "guia-registro-contratos-transferencia-tecnologia-inpi-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "diataxis-technical-documentation-guide-2026": {
       "slug": "diataxis-technical-documentation-guide-2026",
       "title_en": "How to Structure Technical Documentation: A Diátaxis Guide [2026]",
@@ -3439,30 +1977,6 @@
         "vibe-coding-pitfalls",
         "hugo-content-file-structure",
         "vibe-coding-pitfalls"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "ig-cachaca-brasil-guia-produtores-2026": {
-      "slug": "ig-cachaca-brasil-guia-produtores-2026",
-      "title_en": "Geographical Indication of Cachaça in Brazil: Complete Guide for Producers [2026]",
-      "title_pt": "Indicação Geográfica da Cachaça no Brasil: Guia Completo para Produtores [2026]",
-      "tags": [
-        "indicacao-geografica",
-        "inpi",
-        "agro",
-        "marcas",
-        "propriedade-intelectual"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to geographical indication (GI) for cachaça: difference between IP and DO, the 5 cachaça GIs registered at INPI, step-by-step registration on e-IG, costs and benefits for producers.",
-      "content_hash_en": "8d56d51ab25376f88d09bb929576edccf77caea549f96c926d58be4ede6191bc",
-      "backlinks": [
-        "guia-indicacoes-geograficas-inpi-brasil",
-        "tipos-protecao-intelectual-brasil-guia-completo",
-        "guia-indicacoes-geograficas-inpi-brasil"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3511,30 +2025,6 @@
         "vibe-coding-pitfalls",
         "kvm-virsh-linux-virtualization-guide-2026",
         "vibe-coding-pitfalls"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "patent-invention-vs-utility-model-brazil-guide-2026": {
-      "slug": "patent-invention-vs-utility-model-brazil-guide-2026",
-      "title_en": "Patent vs Utility Model in Brazil: Differences, Terms and Costs [2026]",
-      "title_pt": "Patente vs Modelo de Utilidade no Brasil: Diferenças, Prazos e Custos [2026]",
-      "tags": [
-        "patents",
-        "inpi",
-        "utility-model",
-        "intellectual-property",
-        "guide"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Patent of invention (PI) vs utility model (MU) at Brazil's INPI: legal requirements under the LPI, protection terms, 2026 fees, practical examples and how to choose the right filing type.",
-      "content_hash_en": "fa137d2472faaabc0de4b3938d887427035c653e18d7244f6b5a70c2cda8899a",
-      "backlinks": [
-        "ip-protection-types-brazil-complete-guide",
-        "industrial-design-registration-brazil-inpi-2026-guide",
-        "guia-anuidades-patentes-inpi-prazos-valores-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3611,54 +2101,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "proxmox-ve-arm64-homelab-guide-2026": {
-      "slug": "proxmox-ve-arm64-homelab-guide-2026",
-      "title_en": "Proxmox VE on ARM64: Complete Homelab Guide [2026]",
-      "title_pt": "Proxmox VE em ARM64: Guia Completo de Homelab [2026]",
-      "tags": [
-        "proxmox",
-        "arm64",
-        "homelab",
-        "virtualization",
-        "linux"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Proxmox VE 9.2 now officially supports ARM64: supported hardware (NVIDIA Grace, Vera), best-effort SBCs, UEFI-only boot, limitations and what it means for homelabs.",
-      "content_hash_en": "dfdb2401187b64a37f23a545320804e0d6186a7fec1da2dc61acbbf02dc8a18e",
-      "backlinks": [
-        "proxmox-backup-server-community-scripts-2026",
-        "migracao-proxmox-8-9-2026",
-        "troubleshooting-proxmox-login-interface"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "restituicao-taxas-inpi-guia-completo-2026": {
-      "slug": "restituicao-taxas-inpi-guia-completo-2026",
-      "title_en": "INPI Fee Refunds: Complete Guide to Recovering Payments Made by Mistake [2026]",
-      "title_pt": "Restituição de Taxas no INPI: Guia Completo para Recuperar Valores Pagos Indevidamente [2026]",
-      "tags": [
-        "inpi",
-        "fees",
-        "intellectual-property",
-        "patents",
-        "trademarks"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to INPI fee refunds in Brazil: cases covered by Resolution 204/2017, step-by-step electronic filing, required documents, deadlines and how to track your request in the RPI.",
-      "content_hash_en": "16b97909d8c42d53c930ae3e2cf02308b4ffc9050afe567f7f9184fced72e61f",
-      "backlinks": [
-        "quanto-custa-registrar-marca-inpi-2026",
-        "guia-anuidades-patentes-inpi-prazos-valores-2026",
-        "como-consultar-andamento-processo-inpi"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "detect-block-bot-traffic-selfhosted-guide-2026": {
       "slug": "detect-block-bot-traffic-selfhosted-guide-2026",
       "title_en": "How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]",
@@ -3727,30 +2169,6 @@
         "run-llms-old-server-homelab-guide-2026",
         "run-70b-llm-low-vram-gpu-guide-2026",
         "sandboxing-ai-coding-agents-guide-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "protecao-cultivares-brasil-guia-snpc-mapa": {
-      "slug": "protecao-cultivares-brasil-guia-snpc-mapa",
-      "title_en": "Plant Variety Protection in Brazil: Complete Guide to Registration at SNPC/MAPA",
-      "title_pt": "Proteção de Cultivares no Brasil: Guia Completo de Registro no SNPC/MAPA",
-      "tags": [
-        "cultivares",
-        "agro",
-        "propriedade-intelectual",
-        "melhorista",
-        "biotecnologia"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to cultivar protection in Brazil: Law 9.456/97, registration with SNPC/MAPA, DHE requirements, terms of 15 and 18 years, breeder's rights and differences from patents.",
-      "content_hash_en": "3558fbdac7563f86a3ceddbc1e6c3ad3c2c9773abe00865c80008b8779ecd350",
-      "backlinks": [
-        "brasil-tratado-budapeste-patentes-biotecnologia",
-        "guia-indicacoes-geograficas-inpi-brasil",
-        "brasil-tratado-budapeste-patentes-biotecnologia"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3827,30 +2245,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "segredo-industrial-brasil-guia-completo": {
-      "slug": "segredo-industrial-brasil-guia-completo",
-      "title_en": "Trade Secret in Brazil: Complete Guide to Protecting Know-how without a Patent",
-      "title_pt": "Segredo Industrial no Brasil: Guia Completo de Proteção de Know-how sem Patente",
-      "tags": [
-        "segredo-industrial",
-        "propriedade-intelectual",
-        "inovacao",
-        "concorrencia-desleal",
-        "contratos"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Industrial secret in Brazil: what the LPI protects (art. 195), differences from patents and practical measures to protect know-how without registration at INPI.",
-      "content_hash_en": "ad1430bee26fe58fe155ac41f81234335bb7f2cf8dac688ebef0242c7cfa91a5",
-      "backlinks": [
-        "inpi-credenciamento-busca-anterioridade-patentes",
-        "brasil-tratado-budapeste-patentes-biotecnologia",
-        "lpi-30-anos-propostas-aperfeicoamento-inpi"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "self-host-rustdesk-unattended-remote-access-guide-2026": {
       "slug": "self-host-rustdesk-unattended-remote-access-guide-2026",
       "title_en": "Self-Host RustDesk: Unattended Remote Access Guide [2026]",
@@ -3921,30 +2315,6 @@
         "containers-vs-vms-complete-guide-2026",
         "detect-block-bot-traffic-selfhosted-guide-2026",
         "containers-vs-vms-complete-guide-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "oposicao-marca-inpi-guia-completo-2026": {
-      "slug": "oposicao-marca-inpi-guia-completo-2026",
-      "title_en": "Trademark Opposition at INPI: Complete Guide on How to Oppose an Application [2026]",
-      "title_pt": "Oposição de Marca no INPI: Guia Completo de Como Opor um Pedido [2026]",
-      "tags": [
-        "marcas",
-        "inpi",
-        "propriedade-intelectual",
-        "guia",
-        "lpi"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to trademark opposition at INPI: 60-day deadline, grounds of art. 124 of LPI, how to file via e-Marcas, costs (R$ 520), applicant's response and appeal. Step by step to oppose and to defend yourself.",
-      "content_hash_en": "a28602e981e7e5daa3fde190c9dfb6a33d61f26f2ac83357b5de33c5876e3c99",
-      "backlinks": [
-        "busca-anterioridade-marcas-inpi-guia-completo",
-        "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "quanto-custa-registrar-marca-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -4117,30 +2487,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "classificacao-nice-marcas-inpi-guia-completo": {
-      "slug": "classificacao-nice-marcas-inpi-guia-completo",
-      "title_en": "Nice Classification: how to choose the right class to register your trademark with INPI [2026]",
-      "title_pt": "Classificação de Nice: como escolher a classe certa para registrar sua marca no INPI [2026]",
-      "tags": [
-        "marcas",
-        "inpi",
-        "classificacao-nice",
-        "propriedade-intelectual",
-        "registro-de-marca"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to the Nice Classification for trademark registration at INPI: the 45 classes, how to choose the right class, auxiliary lists, free specification, and common mistakes. Updated table with the 13th edition (2026).",
-      "content_hash_en": "0ea43ee1deef1c1810907734ba10fbfb126ed3c468528c8bceefe91a36504be6",
-      "backlinks": [
-        "busca-anterioridade-marcas-inpi-guia-completo",
-        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
-        "como-consultar-andamento-processo-inpi"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "how-to-split-git-commit-guide-2026": {
       "slug": "how-to-split-git-commit-guide-2026",
       "title_en": "How to Split a Git Commit: Step-by-Step Guide [2026]",
@@ -4191,30 +2537,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "kubernetes-probes-liveness-readiness-startup-guide-2026": {
-      "slug": "kubernetes-probes-liveness-readiness-startup-guide-2026",
-      "title_en": "Kubernetes Health Probes Explained: Liveness, Readiness & Startup [2026]",
-      "title_pt": "Sondas de Saúde do Kubernetes Explicadas: Liveness, Readiness e Startup [2026]",
-      "tags": [
-        "kubernetes",
-        "devops",
-        "homelab",
-        "containers",
-        "observability"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to Kubernetes health probes: liveness vs readiness vs startup, real YAML examples, common misconfigurations, and how probes prevent restart loops and dropped traffic during rollouts.",
-      "content_hash_en": "0347c1ef27a160c4f51edd1199234e11c246c3fb814603c1b8c47f0144bd627e",
-      "backlinks": [
-        "containers-vs-vms-complete-guide-2026",
-        "run-llms-old-server-homelab-guide-2026",
-        "containers-vs-vms-complete-guide-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "kubernetes-vs-docker-compose-guia-2026": {
       "slug": "kubernetes-vs-docker-compose-guia-2026",
       "title_en": "Kubernetes vs Docker Compose: When Do You Need Orchestration? [2026]",
@@ -4232,61 +2554,12 @@
       "description_en": "Understand what Kubernetes solves that containers and Docker Compose don't solve, the practical differences, and when it makes sense (or not) to migrate your setup.",
       "content_hash_en": "050f95c4b1f770d4b2bfa803840e1cf23ccf53819fb92c72038a43465d1fd05c",
       "backlinks": [
-        "kubernetes-probes-liveness-readiness-startup-guide-2026",
         "containers-vs-vms-complete-guide-2026",
-        "reducing-cves-container-images-guide-2026"
+        "reducing-cves-container-images-guide-2026",
+        "how-to-update-open-webui-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-08-24T14:20:43.754Z"
-    },
-    "acao-infracao-patente-brasil-guia-completo": {
-      "slug": "acao-infracao-patente-brasil-guia-completo",
-      "title_en": "Patent Infringement Action in Brazil: Complete Guide to Enforcement and Defense",
-      "title_pt": "Ação de Infração de Patente no Brasil: Guia Completo de Execução e Defesa",
-      "tags": [
-        "patentes",
-        "inpi",
-        "lpi",
-        "propriedade-intelectual",
-        "litigio"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to patent infringement action in Brazil: rights of the holder (art. 42 of the LPI), legal limits, preliminary injunction, technical expert examination, damages (art. 210), and nullity as a defense.",
-      "content_hash_en": "ff7661c428393be0267e2babeaeed8b3a18e601c6ccedc2cc5517cf7307961d4",
-      "backlinks": [
-        "guia-deposito-patente-inpi-2026",
-        "guia-deposito-patente-inpi-2026",
-        "guia-deposito-patente-inpi-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "supply-chain-security-malicious-packages-guide-2026": {
-      "slug": "supply-chain-security-malicious-packages-guide-2026",
-      "title_en": "How to Protect Against Malicious Packages: npm, PyPI, and Cargo Supply Chain Security [2026]",
-      "title_pt": "Como Proteger contra Pacotes Maliciosos: Segurança da Cadeia de Suprimentos para npm, PyPI e Cargo [2026]",
-      "tags": [
-        "supply-chain",
-        "security",
-        "npm",
-        "python",
-        "rust",
-        "devops"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Complete guide to defending against malicious packages in npm, PyPI and crates.io: typosquatting, account takeover, build-time payloads, audit tools and lockfile hygiene. Includes the August 2026 arrayref incident.",
-      "content_hash_en": "15fc5c37b589275814c3930fdca50014c1478272b9ce669ea23a2c270280b95d",
-      "backlinks": [
-        "reducing-cves-container-images-guide-2026",
-        "how-to-setup-github-secrets",
-        "gitlost-github-agentic-workflows-prompt-injection-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": "2026-08-20T18:07:40.017Z"
+      "last_processed": "2026-08-24T14:37:22.792Z"
     },
     "colapso-fundo-situational-awareness-alavancagem-2026": {
       "slug": "colapso-fundo-situational-awareness-alavancagem-2026",

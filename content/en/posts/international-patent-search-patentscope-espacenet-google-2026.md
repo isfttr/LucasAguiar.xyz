@@ -200,6 +200,7 @@ Read also:
 
 - [International Patent Search: Complete Guide to PATENTSCOPE, Espacenet and Google Patents [2026]]({{< relref "posts/busca-internacional-patentes-patentscope-espacenet-google-2026/" >}})
 - [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
 
 ---
 

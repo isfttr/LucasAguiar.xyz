@@ -163,7 +163,7 @@ Leia também:
 
 - [Módulo de Serviços de Patentes do INPI: guia prático de acesso, testes e migração]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
 - [Módulo de Serviços de Patentes do INPI: guia prático de acesso, testes e migração]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
-- [Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
+- [Módulo de Serviços de Patentes do INPI: guia prático de acesso, testes e migração]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
 
 ---
 
