@@ -67,11 +67,11 @@ None of this proves that AI is a bubble—Damodaran himself says the macro story
 ]({{< relref "posts/dawkins-claude-consciencia-ia/" >}})
 - [Linux vs Windows vs macOS 2026: Complete Comparison and Which to Choose]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
 
-Also read:
+Read also:
 
-- [How Many Years of Cash Flow Does a Stock Price Represent? Duration, Survivorship, and the AI Capex Boom]({{< relref "posts/stock-price-duration-survivorship-ai-capex-2026/" >}})
-- [Dawkins, Claude, and the Myth of Consciousness in Artificial Intelligence]({{< relref "posts/dawkins-claude-consciencia-ia/" >}})
-- [Linux vs Windows vs macOS 2026: Complete Comparison and Which to Choose]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
+- [How Many Years of Cash Flow Is a Stock Price? Duration, Survivorship, and the AI Capex Boom]({{< relref "posts/stock-price-duration-survivorship-ai-capex-2026/" >}})
+- [Dawkins, Claude and the Myth of Consciousness in Artificial Intelligence]({{< relref "posts/dawkins-claude-consciencia-ia/" >}})
+- [Windows vs Linux vs macOS [2026]: Comparison Table & Verdict]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
 
 ---
 

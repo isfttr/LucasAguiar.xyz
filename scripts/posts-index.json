@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T19:24:30.685Z",
+  "last_updated": "2026-08-24T14:10:37.902Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -273,8 +273,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Open WebUI custom models not showing? Fix the missing models bug with the right OpenAI API and Direct Connections configuration. Step-by-step guide [2026].",
-      "content_hash_en": "01ab88aca4d1376bf487155ea534315a229ec8e772ab9732f7601dae9f3a3c86",
+      "description_en": "Open WebUI missing custom models after an update on Proxmox? Fix the bug with the right OpenAI API and Direct Connections config. Guide [2026].",
+      "content_hash_en": "7cbaf97c35a6e9180038eb3e398601e0fe7a710b2eeb9932cdc0a4256a03a9f5",
       "backlinks": [
         "how-to-update-open-webui-2026",
         "script-update-open_webui-lxc",
@@ -482,8 +482,8 @@
     },
     "one-week-review-gitbutler": {
       "slug": "one-week-review-gitbutler",
-      "title_en": "Two Weeks with GitButler: Streamlining My Git Workflow",
-      "title_pt": "Duas Semanas com GitButler: Simplificando Meu Fluxo de Trabalho Git",
+      "title_en": "GitButler Review 2026: Two Weeks Replacing My Git Workflow (Honest)",
+      "title_pt": "GitButler Review 2026: Duas Semanas Substituindo Meu Fluxo de Trabalho Git",
       "tags": [
         "git",
         "workflow",
@@ -495,8 +495,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "My experience using GitButler as a replacement for traditional Git workflow tools, including what works well and a few limitations.",
-      "content_hash_en": "970d38be9d95427641060e36b14ae9b0374af01c50dd562395bdb17e9a65936f",
+      "description_en": "Honest GitButler review 2026 after two weeks replacing my Git workflow: virtual branches, GitButler vs jujutsu and worktrees, what works and what doesn't.",
+      "content_hash_en": "42b976aeac983e39be3891e94ef8fbcc4296ed2b8b6715142f2c223101c36e3e",
       "backlinks": [
         "gitbutler-what-is-review-alternatives-2026",
         "experience-with-cursor-and-windsurf",
@@ -611,7 +611,7 @@
     "script-update-open_webui-lxc": {
       "slug": "script-update-open_webui-lxc",
       "title_en": "Update Open WebUI in a Proxmox LXC: Bash Script + Cron [2026]",
-      "title_pt": "Script para Atualizar Open WebUI em um LXC Proxmox",
+      "title_pt": "Script para Atualizar Open WebUI em LXC Proxmox: Bash + Cron [2026]",
       "tags": [
         "Linux",
         "Proxmox",
@@ -624,7 +624,7 @@
         "article"
       ],
       "description_en": "How to update Open WebUI inside a Proxmox LXC with a single bash script: git pull, build and restart. Includes cron setup for automatic updates [2026].",
-      "content_hash_en": "beb8fc882a13df34784a372bdb0a44966bc49b07f733242ef378ef602a0d293c",
+      "content_hash_en": "c08c90f5664360c7ced28d7a4026b1041085b45d5c7be7dab61eaa260c371e25",
       "backlinks": [
         "how-to-update-open-webui-2026",
         "troubleshooting-proxmox-login-interface",
@@ -672,8 +672,8 @@
       "categories": [
         "tutorial"
       ],
-      "description_en": "Fix Proxmox 'authentication failure' on login: missing access.cfg, corosync quorum and pveproxy restart. Step-by-step troubleshooting guide [2026].",
-      "content_hash_en": "32e6aecc2341aae3d42406bb4b5dbf2b845b90918c1690e3fb83fc1c90faee43",
+      "description_en": "Can't login to Proxmox web interface? Fix 'authentication failure 401': missing access.cfg, corosync quorum, pveproxy restart. Guide [2026].",
+      "content_hash_en": "c6333cfb7d37d52a44481a841693435dceb8bf1a2ce0634bf0d36c138ac239b4",
       "backlinks": [
         "proxmox-401-authentication-failure-fix-2026",
         "oracle_cloud_vps",
@@ -726,7 +726,7 @@
     },
     "linux-windows-macos-qual-usar-2026": {
       "slug": "linux-windows-macos-qual-usar-2026",
-      "title_en": "Linux, Windows or macOS: Which Operating System to Use in 2026?",
+      "title_en": "Windows vs Linux vs macOS [2026]: Comparison Table & Verdict",
       "title_pt": "Linux vs Windows vs macOS 2026: Comparação Completa e Qual Escolher",
       "tags": [
         "linux",
@@ -740,8 +740,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Honest perspective from someone who used all three systems for years — why I chose macOS, when Linux is really worth it, and what still bothers me about Windows.",
-      "content_hash_en": "01aedd29bec3fb938a9e06a892171f95df170b2a1fba9cd4b0258830cf7d1e77",
+      "description_en": "Windows vs Linux vs macOS comparison in 2026: table with performance, software, privacy and cost — plus my verdict after years using all three daily.",
+      "content_hash_en": "88aaf12628096b89e781cd356e3cb82fc3bc8ad6e6814f22541125abfec0f757",
       "backlinks": [
         "10-years-of-macbook-pro",
         "introduction",
@@ -3218,7 +3218,7 @@
         "article"
       ],
       "description_en": "Complete guide to patenting artificial intelligence in Brazil: what is patentable, INPI requirements, IPC classifications, how to draft the application, and differences between software, algorithm, and AI invention. Includes WIPO 2026 data.",
-      "content_hash_en": "4d07bb158ee2827cb8e88f7c2be1788fcbd0da470eed23a534e5cf5ab9ac5bf7",
+      "content_hash_en": "565c0cacf7216131bd3da6497df465981261f01eb6c83113aa08f291c390e43e",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
         "wipo-lanca-artificial-intelligence-infrastructure-interchange",
@@ -4012,7 +4012,7 @@
         "article"
       ],
       "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and LXC on Proxmox. Make a backup before, avoid post-update bugs and automate with Watchtower.",
-      "content_hash_en": "06a96de85d33a1f59364d470f819dfe320d29ab2803d0d46bdb6bc0e0fa177fc",
+      "content_hash_en": "c07c0405af760ba88bdd315289852629ab81e00c38f6947dc17db9652431299b",
       "backlinks": [
         "script-update-open_webui-lxc",
         "fix-custom-models-open-webui",
@@ -4303,8 +4303,8 @@
       "categories": [
         "opinion"
       ],
-      "description_en": "It rose 439% with 4x leverage and was liquidated in weeks: what the collapse of the Situational Awareness fund teaches about expected return and duration.",
-      "content_hash_en": "50c5511e59c03b2b57df50cc27546684dab4d140e6a2de5df2c97eadb44f729e",
+      "description_en": "Rose 439% with 4x leverage and was liquidated in weeks: what the collapse of the Situational Awareness fund teaches about expected return and duration.",
+      "content_hash_en": "7774072d9c1e43b952763985819af442f073b976af46ec57d319e46e063a1236",
       "backlinks": [
         "stock-price-duration-survivorship-ai-capex-2026",
         "dawkins-claude-consciencia-ia",
