@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T14:10:37.902Z",
+  "last_updated": "2026-08-24T14:19:53.317Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -253,7 +253,7 @@
         "article"
       ],
       "description_en": "A personal review of my experiences with Cursor, Windsurf, and other modern code editors, including their AI capabilities, extension support, and overall user experience.",
-      "content_hash_en": "c8926aee7667844223e916c2356dfc7addbe92a692d73143223ad2f32b9eb24f",
+      "content_hash_en": "5ee18b378921b494de0af0febf877d161727d8b535c52c16f29e42adfb5b56b9",
       "backlinks": [
         "vibe-coding-pitfalls",
         "one-week-review-gitbutler",
@@ -325,7 +325,7 @@
         "tutorial"
       ],
       "description_en": "Learn how to securely manage sensitive information in your GitHub projects using Secrets and integrate them with containerized applications and services exposed to the internet.",
-      "content_hash_en": "0c99d3b3e53dbd86b1d21aea491420006c51a69acca6e7dca4c30f599c1633c9",
+      "content_hash_en": "4ada63808e8f9fead267a731ef0deca0e89a9230db0dbe82e165b250b0846ae7",
       "backlinks": [
         "oracle_cloud_vps",
         "script-update-open_webui-lxc",
@@ -599,7 +599,7 @@
         "tutorial"
       ],
       "description_en": "Learn how to effectively use Python modules to organize your code, import functionality, and build more maintainable projects. This guide covers everything from basic imports to creating your own modules and packages.",
-      "content_hash_en": "61a34d917d82d44558ec840e57694745ba2901801ed08b949bf227af85b174b5",
+      "content_hash_en": "eb3215b938b3f3e160210e4b2cc4a03e552dccbe405fa433860c48d05f9d4709",
       "backlinks": [
         "flask-progress-bars-and-beyond",
         "one-week-review-gitbutler",
@@ -815,7 +815,7 @@
         "article"
       ],
       "description_en": "The ESR 6C006 Geo Digital Pencil does not have auto shutoff (sleep mode). Understand the technical reason, its relationship with Apple Find My, and if it's possible to modify the firmware.",
-      "content_hash_en": "8de17fa4baf3441ddd39b2dba277c54eeab2657d004145ce3190ed3f66837ac8",
+      "content_hash_en": "e8c0487d5d8e327c59a88091656f48374287d41782a95153f262704dbcf90eb5",
       "backlinks": [
         "10-years-of-macbook-pro",
         "linux-windows-macos-qual-usar-2026",
@@ -1988,7 +1988,7 @@
         "article"
       ],
       "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
-      "content_hash_en": "f89a2adcf71e3a3ea71e06fa4e73143fa77984b5436870e78f7348fceba948e2",
+      "content_hash_en": "e39a18c17f1d5c309ac52cc8549c4b9aa06af6ac12850019a45ba03492f34d5f",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "one-week-review-gitbutler",
@@ -2278,14 +2278,14 @@
         "article"
       ],
       "description_en": "Complete guide for software registration at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software and deadlines. Step by step for individuals and legal entities.",
-      "content_hash_en": "67b256033159b0e21fa1748103717c5fd706be6a9c358db165dbe2f7488447ad",
+      "content_hash_en": "04823795bc86f10fdcfdc3b6dccd054637a7495c7ee2392e021d8dacf412bb60",
       "backlinks": [
-        "inpi-acesso-cnpj-conta-govbr-guia-2026",
-        "inpi-acesso-cnpj-conta-govbr-guia-2026",
-        "inpi-acesso-cnpj-conta-govbr-guia-2026"
+        "patente-software-vs-registro-programa-computador-brasil",
+        "tipos-protecao-intelectual-brasil-guia-completo",
+        "ip-protection-types-brazil-complete-guide"
       ],
-      "backlink_source": "file",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-08-24T14:19:53.317Z"
     },
     "developer-tools-invisible-framework-2026": {
       "slug": "developer-tools-invisible-framework-2026",
@@ -2302,7 +2302,7 @@
         "article"
       ],
       "description_en": "A practical framework for evaluating developer tools based on whether they disappear into your workflow — avoiding identity traps, puzzle-gaming limitations, and the sunk cost of steep learning curves.",
-      "content_hash_en": "27632f8f780ad6a105675e221891b678cb6ae6b0196bfe415c3afbbb79b8ecf9",
+      "content_hash_en": "1c10c1d7867133dc7d256ce8026361e21c7c7afe30cec8478bd61181193394a0",
       "backlinks": [
         "one-week-review-gitbutler",
         "gitbutler-terminal-cli-tui-2026",
@@ -2327,10 +2327,10 @@
         "article"
       ],
       "description_en": "Complete guide to industrial design registration at the Brazilian INPI: updated fees, required documents, e-DI filing steps, validity terms, Hague Agreement international route, and differences from patents and trademarks.",
-      "content_hash_en": "12c1c6189085b9e77e837f7c330dabcc90d4c815ba7f89d28de442754fe3bfe7",
+      "content_hash_en": "68657ba657adedb2f7412dddd3da0a260e4ccc60e4513a35d0f287043e1edb39",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
-        "inpi-atualiza-manual-de-desenhos-industriais",
+        "inpi-manual-marcas-alto-renome-protocolo-madri",
         "guia-registro-programa-computador-inpi"
       ],
       "backlink_source": "file",
@@ -2502,7 +2502,7 @@
         "article"
       ],
       "description_en": "Step-by-step guide to git history — the experimental command that lets you fix old commits, rewrite messages, and split changes without scary rebase -i sessions. Includes practical examples of each subcommand.",
-      "content_hash_en": "b98bd77a7d28e34d92e4f9d33322128d3c2407a0e13fe0932693c5eac2187226",
+      "content_hash_en": "bdae77ef4ec45e11da98fbc1b48919f13d789147b826793a8ce4a7612b509cd5",
       "backlinks": [
         "one-week-review-gitbutler",
         "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -2696,9 +2696,9 @@
         "article"
       ],
       "description_en": "Complete guide comparing computer-implemented invention patent and computer program registration at INPI. When to use each, costs, deadlines, legal requirements, and practical decision for startups and developers.",
-      "content_hash_en": "45e87f2cef7cc7452a528163dd01b249c20667fbfd24b40ef4fd1c79daef7422",
+      "content_hash_en": "63c3cd2a9114f59c655d26f24a41e13793237a14f750cd5f33317dc3d106749e",
       "backlinks": [
-        "patentes-inteligencia-artificial-generativa-brasil-guia-2026",
+        "patentes-inteligencia-artificial-brasil-guia-2026",
         "guia-registro-programa-computador-inpi",
         "inpi-credenciamento-busca-anterioridade-patentes"
       ],
@@ -2891,11 +2891,11 @@
         "article"
       ],
       "description_en": "Complete guide to filing a patent at the INPI in 2026: required documentation, access to e-Patentes and the new Patent Services Module, costs per type of applicant, deadlines, and illustrated step-by-step.",
-      "content_hash_en": "ea00ca5574c67b61805524a172fcf57735fd4751b901b5c693f123b9ef3a2442",
+      "content_hash_en": "6d11a7419999fafefddb0f7f6ae1947dd0d0fa0d2699a2cbe6859682e921dee4",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
-        "tipos-protecao-intelectual-brasil-guia-completo",
-        "inpi-acesso-cnpj-conta-govbr-guia-2026"
+        "patente-invencao-vs-modelo-utilidade-guia-2026",
+        "modulo-servicos-patentes-inpi-guia-acesso-testes-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3168,10 +3168,10 @@
         "article"
       ],
       "description_en": "Complete guide to international patent search: PATENTSCOPE from WIPO, Espacenet from EPO, and Google Patents. Comparison of tools, search strategies, and practical tips.",
-      "content_hash_en": "cc60148557ce2be0b4a8d75e76a1f0d6767f53fe6e1f5a3bc645b8f671cbceef",
+      "content_hash_en": "b603ba5c8b52b7cbed1513ba543189421a45734585743d938b64ced8ff1f512f",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
-        "busca-patentes-inpi-guia-pratico",
+        "inpi-credenciamento-busca-anterioridade-patentes",
         "mapa-global-patentes-pct-2025-brasil"
       ],
       "backlink_source": "file",
@@ -3242,7 +3242,7 @@
         "article"
       ],
       "description_en": "Learn how stacked PRs work, why they speed up code review, and how to use them with GitHub's new native support. Comparisons, CLI tools, and real-world workflows.",
-      "content_hash_en": "cd6318ab09dc84d72d26b9c8012d769b52b1f198c627bdc127433b1fd4079602",
+      "content_hash_en": "98cad913fcb82ccfaadb4ad5bed33c3fa825d61ac6d48a982d654d61e7a00f59",
       "backlinks": [
         "one-week-review-gitbutler",
         "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -3554,11 +3554,11 @@
         "article"
       ],
       "description_en": "Differences between invention patent (PI) and utility model (MU) at INPI: legal requirements of LPI, protection terms, 2026 costs, practical examples, and how to choose the right type.",
-      "content_hash_en": "806230c86f56bbad781b96ea95f6d9bc9cb1464e3425515488b71136b8130e60",
+      "content_hash_en": "124c4d5474953b32555b0b55e8d930e14c3f65eca32c11e1a391f230d3793de9",
       "backlinks": [
-        "tipos-protecao-intelectual-brasil-guia-completo",
-        "guia-registro-desenho-industrial-inpi-2026",
-        "guia-anuidades-patentes-inpi-prazos-valores-2026"
+        "patente-software-vs-registro-programa-computador-brasil",
+        "patente-software-vs-registro-programa-computador-brasil",
+        "guia-deposito-patente-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -3988,7 +3988,7 @@
         "article"
       ],
       "description_en": "GitButler is a Git client with virtual branches, CLI, and TUI. Honest review after months of use, pricing model, and the best alternatives in 2026.",
-      "content_hash_en": "e608a37717c0674aa5ac9503185257e45b40fd951576fcd4555240063180ea4f",
+      "content_hash_en": "296cbe3d0878202cec08dcb451b48f57d6b725320df8af48b6368f9702566c74",
       "backlinks": [
         "one-week-review-gitbutler",
         "mastering-git-log-history-guide-2026",
@@ -4230,9 +4230,9 @@
         "article"
       ],
       "description_en": "Understand what Kubernetes solves that containers and Docker Compose don't solve, the practical differences, and when it makes sense (or not) to migrate your setup.",
-      "content_hash_en": "224a1f891b310de8055e40c50ebc3c6cd014cfa7574d30bf6596937128ceedb6",
+      "content_hash_en": "293d65ff7e70349821605f4f6a973f8757e05a23a199c9dd853e2d2588c10bba",
       "backlinks": [
-        "kubernetes-probes-liveness-readiness-startup-guide-2026",
+        "containers-vs-vms-complete-guide-2026",
         "containers-vs-vms-complete-guide-2026",
         "reducing-cves-container-images-guide-2026"
       ],
@@ -4304,7 +4304,7 @@
         "opinion"
       ],
       "description_en": "Rose 439% with 4x leverage and was liquidated in weeks: what the collapse of the Situational Awareness fund teaches about expected return and duration.",
-      "content_hash_en": "7774072d9c1e43b952763985819af442f073b976af46ec57d319e46e063a1236",
+      "content_hash_en": "a7970d7a99cc678402d0a0b36f72b85dffbf67a21c447456dbd6a09d93910843",
       "backlinks": [
         "stock-price-duration-survivorship-ai-capex-2026",
         "dawkins-claude-consciencia-ia",

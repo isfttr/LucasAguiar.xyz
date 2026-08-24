@@ -111,8 +111,8 @@ A escolha entre patente de invenção e modelo de utilidade se resume a três pe
 
 Leia também:
 
-- [Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
-- [Registro de Desenho Industrial no Brasil: Guia Completo Passo a Passo [2026]]({{< relref "posts/industrial-design-registration-brazil-inpi-2026-guide/" >}})
+- [Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
+- [Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
 - [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
 
 ---
