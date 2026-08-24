@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T14:20:43.754Z",
+  "last_updated": "2026-08-24T14:32:02.947Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2016,12 +2016,12 @@
       "description_en": "Android seismic alert system used phone accelerometers as seismometers to alert 11.4 million people seconds before the M7.5 earthquake in Venezuela.",
       "content_hash_en": "0d584d9ede17b04779008bf38bd2a545a54c7f96731a28481609c64f0dc14398",
       "backlinks": [
-        "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
-        "claude-code-review-cli-ia",
-        "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026"
+        "dificuldades-acessar-google-analytics-2026",
+        "google-search-console-agente-hermes",
+        "busca-internacional-patentes-patentscope-espacenet-google-2026"
       ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-07T22:44:06.902Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-08-24T14:31:48.005Z"
     },
     "consulta-publica-marcas-posicao-inpi-2026": {
       "slug": "consulta-publica-marcas-posicao-inpi-2026",
@@ -2278,11 +2278,11 @@
         "article"
       ],
       "description_en": "Complete guide for software registration at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software and deadlines. Step by step for individuals and legal entities.",
-      "content_hash_en": "aa9786bddcf1919688d65298bc498e432f820f8bbbc3cdb0e82812720391812c",
+      "content_hash_en": "d5f61676bd510ea1b6b803068db230b6ba755114af4482b6efb56fcd3ba4e7b8",
       "backlinks": [
         "modulo-servicos-patentes-inpi-guia-acesso-testes-2026",
-        "patente-software-vs-registro-programa-computador-brasil",
-        "tipos-protecao-intelectual-brasil-guia-completo"
+        "modulo-servicos-patentes-inpi-guia-acesso-testes-2026",
+        "patente-software-vs-registro-programa-computador-brasil"
       ],
       "backlink_source": "file",
       "last_processed": "2026-08-24T14:19:53.317Z"
@@ -2327,7 +2327,7 @@
         "article"
       ],
       "description_en": "Complete guide to industrial design registration at the Brazilian INPI: updated fees, required documents, e-DI filing steps, validity terms, Hague Agreement international route, and differences from patents and trademarks.",
-      "content_hash_en": "68657ba657adedb2f7412dddd3da0a260e4ccc60e4513a35d0f287043e1edb39",
+      "content_hash_en": "61b243b24f1473d89d896265eec9ea99942d314948c3adc0543d4c30bcb3618b",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "inpi-manual-marcas-alto-renome-protocolo-madri",
@@ -2402,10 +2402,10 @@
         "article"
       ],
       "description_en": "Complete guide comparing all types of IP protection in Brazil: invention patent, utility model, industrial design, trademark, geographical indication, software and plant variety. Costs, terms, legislation and when to use each.",
-      "content_hash_en": "b291279df8c00c349fd2980bd188210b9f7384923f593674a316bc394d5ac842",
+      "content_hash_en": "45674e472a861ecc78f93b43405e38422aa359126d164fa441ac6cf13ea86470",
       "backlinks": [
         "inpi-credenciamento-busca-anterioridade-patentes",
-        "guia-registro-desenho-industrial-inpi-2026",
+        "industrial-design-registration-brazil-inpi-2026-guide",
         "quanto-custa-registrar-marca-inpi-2026"
       ],
       "backlink_source": "file",
@@ -3143,14 +3143,14 @@
         "article"
       ],
       "description_en": "Complete guide to free international patent search tools: WIPO PATENTSCOPE, EPO Espacenet, and Google Patents. Comparison, search strategies, and practical tips for prior art searches.",
-      "content_hash_en": "caf17c3aac177b1f6960b72cfba68fd58d7043e76d11179950a01fba0e7ca399",
+      "content_hash_en": "adeec4aadbbd297cb9ec38b4ad8f26896efcfad23fdf7f97a43f65e637eef368",
       "backlinks": [
         "busca-internacional-patentes-patentscope-espacenet-google-2026",
         "busca-patentes-inpi-guia-pratico",
         "classificacao-internacional-patentes-ipc-guia-brasil"
       ],
-      "backlink_source": "file",
-      "last_processed": "2026-07-29T14:13:02.784Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-08-24T14:32:02.947Z"
     },
     "busca-internacional-patentes-patentscope-espacenet-google-2026": {
       "slug": "busca-internacional-patentes-patentscope-espacenet-google-2026",
@@ -3867,7 +3867,7 @@
         "article"
       ],
       "description_en": "Complete guide to self-hosting RustDesk with Docker in 2026: hbbs/hbbr setup, firewall ports, Wayland unattended access and secure client config.",
-      "content_hash_en": "9d9bd9d4f02a760604da764a83bb0afcd27d31959f90d6133ae6fd12a12c32cf",
+      "content_hash_en": "161eddc1c23f7e7e0ccf553a4943e48a8677f786e7129125344ad52b115a8857",
       "backlinks": [
         "containers-vs-vms-complete-guide-2026",
         "detect-block-bot-traffic-selfhosted-guide-2026",
@@ -3916,7 +3916,7 @@
         "article"
       ],
       "description_en": "Block ads and trackers in 2026: uBlock Origin on Firefox, uBO Lite for Chromium, plus DNS-level filtering with Pi-hole or AdGuard Home. Step-by-step guide.",
-      "content_hash_en": "0ff0b321e8b622bb5798a0d642c0176cb305a388f536887090756381f538213c",
+      "content_hash_en": "3751c5650ad6ca6a7968a0b80f26ad2deebaac57e13c3ca61cdf775dfd4c69cc",
       "backlinks": [
         "containers-vs-vms-complete-guide-2026",
         "detect-block-bot-traffic-selfhosted-guide-2026",
@@ -3964,7 +3964,7 @@
         "article"
       ],
       "description_en": "Practical guide to DuckDB for homelab and self-hosted users: install the single binary, query CSV/Parquet/JSON directly, analyze logs and exports without spinning up a database server. Real examples.",
-      "content_hash_en": "868e077be0795db23e5d22f5f2d439ea1f68bbebba35bfcd782feb7f62db3580",
+      "content_hash_en": "fe2265c68a664e257712112ae2c086217062de05d51f234585247467e7413222",
       "backlinks": [
         "sqlite-wal-corruption-guide-2026",
         "postgresql-performance-best-practices-homelab-2026",
@@ -4156,7 +4156,7 @@
         "article"
       ],
       "description_en": "Step-by-step guide to split a git commit into multiple commits with plain git: git reset --soft, git add -p, and interactive rebase. Works on any git version.",
-      "content_hash_en": "74ae46f2ff6300e6ee2a8ec679aa5cd6a6a823070d640966480aa4c8cfe0d1b7",
+      "content_hash_en": "700297ab492070401b3aa7ae42324c4dd0d954e2a79b34dc99c83275bdd1da00",
       "backlinks": [
         "mastering-git-log-history-guide-2026",
         "stacked-pull-requests-guide-2026",

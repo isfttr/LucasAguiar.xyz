@@ -198,7 +198,8 @@ Depois de dominar as ferramentas internacionais, você pode retornar à base do 
 Leia também:
 
 - [Busca Internacional de Patentes: Guia Completo de PATENTSCOPE, Espacenet e Google Patentes [2026]]({{< relref "posts/busca-internacional-patentes-patentscope-espacenet-google-2026/" >}})
-- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
+- [Classificação Internacional de Patentes (IPC): Guia Prático para Entender e Usar Códigos de Patentes no Brasil [2026]]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
 
 ---
 
