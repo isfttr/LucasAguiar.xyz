@@ -33,6 +33,16 @@ function getHash(content) {
   return crypto.createHash('sha256').update(content).digest('hex');
 }
 
+// Posts com `draft: true` não existem no site publicado: devem ficar fora do
+// índice de backlinks e nunca receber/fornecer links (evita REF_NOT_FOUND).
+function isDraft(raw) {
+  try {
+    return matter(raw).data.draft === true;
+  } catch {
+    return false;
+  }
+}
+
 // Returns the character index where frontmatter ends (after closing ---)
 function frontmatterEnd(raw) {
   const match = raw.match(/^---\n[\s\S]*?\n---\n?/);
@@ -203,6 +213,7 @@ function scanPosts(index) {
 
     const enRaw = fs.readFileSync(enPath, 'utf8');
     const enParsed = matter(enRaw);
+    if (isDraft(enRaw)) continue; // drafts não entram no índice de backlinks
     const enHash = getHash(enRaw);
 
     const prev = index.posts[slug] || {};
@@ -260,6 +271,7 @@ function scanPosts(index) {
     const ptPath = path.join(PT_DIR, file);
     const ptRaw = fs.readFileSync(ptPath, 'utf8');
     const ptParsed = matter(ptRaw);
+    if (isDraft(ptRaw)) continue; // drafts não entram no índice de backlinks
     const ptHash = getHash(ptRaw);
 
     const prev = index.posts[slug] || {};
@@ -310,6 +322,13 @@ async function run() {
   const updatedIndex = scanPosts(index);
   saveIndex(updatedIndex);
   console.log(`Scanned ${Object.keys(updatedIndex.posts).length} posts.`);
+
+  // Sanitize: remove backlinks que apontam para posts que não estão no índice
+  // (drafts ficaram de fora do scan — refs para eles virariam REF_NOT_FOUND).
+  for (const post of Object.values(updatedIndex.posts)) {
+    post.backlinks = (post.backlinks || []).filter((s) => updatedIndex.posts[s]);
+    if (post.backlinks.length < MIN_BACKLINKS) post.backlink_source = 'pending';
+  }
 
   // PHASE 3: AI matching for posts that need backlinks
   const pending = Object.values(updatedIndex.posts).filter(
