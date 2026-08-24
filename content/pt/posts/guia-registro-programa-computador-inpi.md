@@ -42,7 +42,7 @@ A proteção por direito autoral do software é automática desde a criação (C
 Antes de iniciar o pedido, você precisa de:
 
 1. **Certificado digital qualificado ICP-Brasil** — obrigatório. O sistema do INPI **não aceita** assinaturas avançadas, incluindo Gov.br e ACOAB. Apenas certificados A1 ou A3 emitidos por Autoridade Certificadora credenciada pela ICP-Brasil (ex: Certisign, Soluti, Serasa).
-2. **Cadastro no e-INPI** — necessário para acessar os sistemas de peticionamento. Veja nosso [guia de acesso ao INPI com CNPJ e conta Gov.br]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}}).
+2. **Cadastro no e-INPI** — necessário para acessar os sistemas de peticionamento. Veja nosso [guia de acesso ao Módulo de Serviços de Patentes do INPI]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}}).
 3. **Código-fonte do software** — para gerar o resumo hash.
 4. **GRU paga** — Guia de Recolhimento da União, código 730 (R$ 210,00).
 
@@ -161,9 +161,7 @@ Desenvolvedores, startups e empresas de tecnologia que ainda não registraram se
 
 Leia também:
 
-- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
-- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
-- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [Módulo de Serviços de Patentes do INPI: guia prático de acesso, testes e migração]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
 
 ---
 

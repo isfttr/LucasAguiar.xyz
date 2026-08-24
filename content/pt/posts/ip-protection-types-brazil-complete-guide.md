@@ -60,7 +60,7 @@ Protege a **aparência ornamental** de um objeto — o conjunto de linhas, forma
 - **Requisitos:** novidade e originalidade (não exige atividade inventiva)
 - **Prazo:** 10 anos a partir do depósito, renovável por 3 períodos de 5 anos (máx. 25 anos)
 - **Processo:** registro mais rápido que patentes (média de 6–12 meses no INPI)
-- Veja o [guia completo de registro de desenho industrial]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
+- Veja o [guia completo de registro de desenho industrial]({{< relref "posts/industrial-design-registration-brazil-inpi-2026-guide/" >}})
 
 ## Marca
 
@@ -158,7 +158,7 @@ O tempo de tramitação varia muito entre as modalidades:
 Leia também:
 
 - [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
-- [Registro de Desenho Industrial no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
+- [Registro de Desenho Industrial no Brasil: Guia Completo Passo a Passo [2026]]({{< relref "posts/industrial-design-registration-brazil-inpi-2026-guide/" >}})
 - [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---

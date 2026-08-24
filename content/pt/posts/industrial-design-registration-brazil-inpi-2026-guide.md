@@ -200,7 +200,7 @@ A atualização do Manual de junho de 2026 mostra que o INPI está ajustando pro
 Leia também:
 
 - [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [INPI atualiza Manual de Desenhos Industriais: o que muda para empresas e designers [2026]]({{< relref "posts/inpi-atualiza-manual-de-desenhos-industriais/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
 
 ---

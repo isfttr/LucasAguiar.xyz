@@ -193,12 +193,12 @@ Complemente a busca no PATENTSCOPE, especialmente se sua tecnologia tiver potenc
 
 A busca de patentes não é uma atividade de ferramenta única. Cada base tem seus pontos fortes, e a melhor estratégia é **combiná-las de forma complementar**. O Google Patentes é o ponto de partida mais rápido, o Espacenet é a base mais completa para aprofundamento técnico e legal, e o PATENTSCOPE é indispensável para quem está no sistema PCT e para áreas como biotecnologia.
 
-Depois de dominar as ferramentas internacionais, você pode voltar ao INPI para verificar a situação local — veja o {{< relref "posts/busca-patentes-inpi-guia-pratico/" >}} para o passo a passo completo na base brasileira.
+Depois de dominar as ferramentas internacionais, você pode voltar ao INPI para verificar a situação local — veja o {{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}} para o passo a passo na base brasileira.
 
 Leia também:
 
 - [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
+- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 - [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
 
 ---

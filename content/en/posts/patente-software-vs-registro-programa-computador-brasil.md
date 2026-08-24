@@ -63,7 +63,7 @@ For a computer-implemented invention to be patentable at INPI, three conditions 
 
 3. **Do not claim the program per se** — the claims must be directed to the method, system, or use, never to the source code.
 
-The [generative AI patents blog guide]({{< relref "posts/patentes-inteligencia-artificial-generativa-brasil-guia-2026/" >}}) details how these criteria apply specifically to artificial intelligence inventions.
+The [AI patents blog guide]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}}) details how these criteria apply specifically to artificial intelligence inventions.
 
 ## When to use each type of protection
 
@@ -115,7 +115,7 @@ In July 2026, the INPI computer program filing system experienced instability an
 
 7. **Decision** — grant or rejection
 
-The average grant time at INPI is **5 to 10 years**, although the [priority procedure]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}}) can speed up the process in some situations.
+The average grant time at INPI is **5 to 10 years**, although the [priority procedure]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}}) can speed up the process in some situations.
 
 ## Comparative costs (INPI fees 2026)
 
@@ -157,11 +157,11 @@ For most developers and startups, computer program registration is the first ste
 
 The decision depends on what you created: if it's a **product**, register the code; if it's a **technical solution**, seek the patent.
 
-For more details on each type of intellectual property protection in Brazil, see the [complete comparative guide to intellectual property types]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}}).
+For more details on each type of intellectual property protection in Brazil, see the [complete comparative guide between invention patent and utility model]({{< relref "posts/patente-invencao-vs-modelo-utilidade-guia-2026/" >}}).
 
 Read also:
 
-- [Generative AI Patents in Brazil: Complete Guide to Patenting AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-generativa-brasil-guia-2026/" >}})
+- [Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
 - [How to Register a Computer Program at the INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
 - [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 

@@ -195,12 +195,12 @@ Supplement the search on PATENTSCOPE, especially if your technology has potentia
 
 Patent search is not a single-tool activity. Each database has its strengths, and the best strategy is to **combine them complementarily**. Google Patents is the fastest starting point, Espacenet is the most complete database for technical and legal deep dives, and PATENTSCOPE is indispensable for those in the PCT system and for areas like biotechnology.
 
-After mastering international tools, you can return to INPI to check the local situation — see the {{< relref "posts/busca-patentes-inpi-guia-pratico/" >}} for the complete step-by-step guide in the Brazilian database.
+After mastering international tools, you can return to INPI to check the local situation — see the {{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}} for the step-by-step guide in the Brazilian database.
 
 Read also:
 
 - [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [Patent Search at INPI: Practical Step-by-Step Guide [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
+- [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 - [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
 
 ---

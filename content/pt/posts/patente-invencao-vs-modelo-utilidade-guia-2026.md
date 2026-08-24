@@ -27,7 +27,7 @@ O ponto de partida é o texto da LPI:
 
 Repare na diferença central: a invenção protege **produtos e processos** novos, com **atividade inventiva** (não óbvia para um especialista no assunto). O modelo de utilidade protege apenas **a forma ou disposição** de um objeto de uso prático — e exige apenas **ato inventivo**, um grau de inventividade menor, desde que resulte em **melhoria funcional** no uso ou na fabricação.
 
-Na prática, o MU é a proteção clássica do "melhoramento": o objeto já existe, mas você encontrou uma nova forma ou disposição que o torna mais funcional. Para um panorama dos demais tipos de proteção (desenho industrial, marca, software, cultivar), veja nosso guia de [tipos de proteção intelectual no Brasil]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}}).
+Na prática, o MU é a proteção clássica do "melhoramento": o objeto já existe, mas você encontrou uma nova forma ou disposição que o torna mais funcional. Para um panorama dos demais tipos de proteção (desenho industrial, marca, software, cultivar), veja nosso guia de [tipos de proteção intelectual no Brasil]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}}).
 
 ## Tabela comparativa: PI vs MU
 
@@ -74,7 +74,7 @@ A vigência é o trade-off final: 20 anos (PI) contra 15 anos (MU), ambos contad
 | Circuito eletrônico com arquitetura inédita | PI | Solução técnica radicalmente nova |
 
 
-Um mesmo produto pode combinar várias proteções: uma garrafa pode ter **MU** (tampa funcional), **desenho industrial** (formato ornamental) e **marca** (nome). A confusão mais comum é entre MU e desenho industrial: o DI protege a **aparência estética**, o MU protege a **funcionalidade** da forma. Veja nosso [guia de registro de desenho industrial no INPI]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}}) para a distinção completa.
+Um mesmo produto pode combinar várias proteções: uma garrafa pode ter **MU** (tampa funcional), **desenho industrial** (formato ornamental) e **marca** (nome). A confusão mais comum é entre MU e desenho industrial: o DI protege a **aparência estética**, o MU protege a **funcionalidade** da forma. Veja nosso [guia de registro de desenho industrial no Brasil]({{< relref "posts/industrial-design-registration-brazil-inpi-2026-guide/" >}}) para a distinção completa.
 
 ## Custos em 2026: quanto custa cada caminho?
 
@@ -89,13 +89,13 @@ Os valores abaixo seguem a Tabela de Retribuições dos Serviços de Patentes do
 
 **Importante** ressaltar que as anuidades totais aqui serão pagos ao longo de 20 anos, no caso de PI, e de 15 anos para MU, e que não são pagos todos de uma vez, mas sim anualmente.
 
-A diferença de anuidades é o maior peso da decisão: manter um MU custa **metade** do que manter uma PI ao longo da vida útil. Como as anuidades começam a ser devidas já no 3º ano do depósito (art. 84 da LPI), mesmo que o pedido ainda esteja na fila de exame, vale projetar esse custo desde o início. Detalhes de prazos, códigos GRU e restauração no nosso [guia completo de anuidades de patentes]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}}).
+A diferença de anuidades é o maior peso da decisão: manter um MU custa **metade** do que manter uma PI ao longo da vida útil. Como as anuidades começam a ser devidas já no 3º ano do depósito (art. 84 da LPI), mesmo que o pedido ainda esteja na fila de exame, vale projetar esse custo desde o início. Detalhes de prazos, códigos GRU e restauração no nosso [guia de depósito de patente no INPI]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}}).
 
 ## O processo de depósito é o mesmo
 
 O fluxo de depósito é idêntico para PI e MU: busca de anterioridade → preenchimento do pedido no **e-Patentes** → pagamento da GRU → publicação → exame técnico → concessão. A diferença está no formulário (tipo de pedido) e no conteúdo técnico — as reivindicações de MU precisam demonstrar a melhoria funcional da forma, enquanto as de PI precisam demonstrar atividade inventiva plena.
 
-O passo a passo completo está no nosso [guia de depósito de patente no INPI]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}}). Antes de depositar, faça a busca de anterioridade — o MU também exige novidade, e a falta dela é causa frequente de indeferimento. Veja como contratar ou fazer [buscas de anterioridade de patentes]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}}) e como usar a [classificação internacional de patentes (IPC)]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}}) no seu pedido.
+O passo a passo completo está no nosso [guia de depósito de patente no INPI]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}}). Antes de depositar, faça a busca de anterioridade — o MU também exige novidade, e a falta dela é causa frequente de indeferimento. Veja como contratar ou fazer [buscas de anterioridade de patentes]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}}) e como usar a [classificação internacional de patentes (IPC)]({{< relref "posts/busca-internacional-patentes-patentscope-espacenet-google-2026/" >}}) no seu pedido.
 
 ## Erros comuns na escolha
 
@@ -111,9 +111,9 @@ A escolha entre patente de invenção e modelo de utilidade se resume a três pe
 
 Leia também:
 
-- [Tipos de Proteção Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
-- [Registro de Desenho Industrial no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
-- [Guia Completo de Anuidades de Patentes no INPI: Prazos, Valores e Como Pagar [2026]]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
+- [Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [Registro de Desenho Industrial no Brasil: Guia Completo Passo a Passo [2026]]({{< relref "posts/industrial-design-registration-brazil-inpi-2026-guide/" >}})
+- [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
 
 ---
 

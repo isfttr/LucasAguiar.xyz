@@ -199,7 +199,7 @@ The June 2026 Manual update shows INPI is fine-tuning procedures to keep pace wi
 Read also:
 
 - [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [INPI updates Manual of Industrial Designs: what changes for companies and designers [2026]]({{< relref "posts/inpi-atualiza-manual-de-desenhos-industriais/" >}})
+- [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [How to Register a Computer Program at the INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
 
 ---

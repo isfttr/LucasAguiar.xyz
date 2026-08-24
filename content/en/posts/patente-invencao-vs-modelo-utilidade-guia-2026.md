@@ -29,7 +29,7 @@ The starting point is the text of the LPI:
 
 Notice the central difference: the invention protects new **products and processes**, with **inventive activity** (non-obvious to a person skilled in the art). The utility model protects only **the shape or arrangement** of an object of practical use — and requires only an **inventive act**, a lower level of inventiveness, as long as it results in a **functional improvement** in use or manufacture.
 
-In practice, the MU is the classic protection for "improvements": the object already exists, but you found a new shape or arrangement that makes it more functional. For an overview of the other types of protection (industrial design, trademark, software, plant variety), see our guide to [types of intellectual protection in Brazil]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}}).
+In practice, the MU is the classic protection for "improvements": the object already exists, but you found a new shape or arrangement that makes it more functional. For an overview of the other types of protection (industrial design, trademark, software, plant variety), see our guide comparing [software patent vs computer program registration]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}}).
 
 ## Comparative table: PI vs MU
 
@@ -75,7 +75,7 @@ The term is the final trade-off: 20 years (PI) vs 15 years (MU), both counted fr
 | Method of manufacturing a component | PI | Process — MU does not protect processes |
 | Electronic circuit with unprecedented architecture | PI | Radically new technical solution |
 
-A single product can combine several protections: a bottle can have an **MU** (functional cap), **industrial design** (ornamental shape), and **trademark** (name). The most common confusion is between MU and industrial design: the DI protects **aesthetic appearance**, while the MU protects the **functionality** of the shape. See our [guide to industrial design registration at the INPI]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}}) for the full distinction.
+A single product can combine several protections: a bottle can have an **MU** (functional cap), **industrial design** (ornamental shape), and **trademark** (name). The most common confusion is between MU and industrial design: the DI protects **aesthetic appearance**, while the MU protects the **functionality** of the shape. See how [software patent vs computer program registration]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}}) work for another common distinction.
 
 ## Costs in 2026: how much does each path cost?
 
@@ -88,13 +88,13 @@ The values below follow the INPI Patent Services Fee Schedule (INPI/PR Ordinance
 | Total annuities (PF/ME/EPP) | ~R$ 9,800 | ~R$ 4,900 |
 | Total annuities (other PJ) | ~R$ 19,600 | ~R$ 9,800 |
 
-The annuity difference is the biggest weight in the decision: maintaining an MU costs **half** of what it costs to maintain a PI over its lifetime. Since annuities become due as early as the 3rd year from filing (Art. 84 of the LPI), even while the application is still in the examination queue, it is worth projecting this cost from the start. Details on deadlines, GRU codes, and restoration are in our [complete patent annuity guide]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}}).
+The annuity difference is the biggest weight in the decision: maintaining an MU costs **half** of what it costs to maintain a PI over its lifetime. Since annuities become due as early as the 3rd year from filing (Art. 84 of the LPI), even while the application is still in the examination queue, it is worth projecting this cost from the start. Details on deadlines, GRU codes, and restoration are in our [guide to filing a patent at the INPI]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}}).
 
 ## The filing process is the same
 
 The filing flow is identical for PI and MU: prior art search → filling out the application in the **e-Patentes** system → paying the GRU → publication → technical examination → grant. The difference lies in the form (application type) and the technical content — MU claims must demonstrate the functional improvement of the shape, while PI claims must demonstrate full inventive activity.
 
-The complete step-by-step process is in our [guide to filing a patent at the INPI]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}}). Before filing, do a prior art search — the MU also requires novelty, and its absence is a frequent cause of rejection. See how to hire or conduct [patent prior art searches]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}}) and how to use the [International Patent Classification (IPC)]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}}) in your application.
+The complete step-by-step process is in our [guide to filing a patent at the INPI]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}}). Before filing, do a prior art search — the MU also requires novelty, and its absence is a frequent cause of rejection. See how to hire or conduct [patent prior art searches]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}}) and how to use the [International Patent Classification (IPC)]({{< relref "posts/busca-internacional-patentes-patentscope-espacenet-google-2026/" >}}) in your application.
 
 ## Common mistakes in the choice
 
@@ -110,9 +110,8 @@ The choice between an invention patent and a utility model boils down to three q
 
 Read also:
 
-- [Types of Intellectual Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
-- [Industrial Design Registration at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
-- [Complete Guide to Patent Annuities at INPI: Deadlines, Amounts and How to Pay [2026]]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
+- [Software Patent vs Computer Program Registration in Brazil: What's the Difference? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
+- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
 
 ---
 

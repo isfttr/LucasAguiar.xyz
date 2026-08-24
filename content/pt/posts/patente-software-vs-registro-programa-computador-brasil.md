@@ -61,7 +61,7 @@ Para que uma invenção implementada por computador seja patenteável no INPI, t
 
 3. **Não reivindicar o programa em si** — as reivindicações devem ser dirigidas ao método, sistema ou uso, nunca ao código-fonte.
 
-O [guia de patentes de IA generativa do blog]({{< relref "posts/patentes-inteligencia-artificial-generativa-brasil-guia-2026/" >}}) detalha como esses critérios se aplicam especificamente a invenções de inteligência artificial.
+O [guia de patentes de IA do blog]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}}) detalha como esses critérios se aplicam especificamente a invenções de inteligência artificial.
 
 ## Quando usar cada tipo de proteção
 
@@ -113,7 +113,7 @@ Em julho de 2026, o sistema de peticionamento de programa de computador do INPI 
 
 7. **Decisão** — concessão ou indeferimento
 
-O prazo médio de concessão no INPI é de **5 a 10 anos**, embora o [trâmite prioritário]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}}) possa acelerar o processo em algumas situações.
+O prazo médio de concessão no INPI é de **5 a 10 anos**, embora o [trâmite prioritário]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}}) possa acelerar o processo em algumas situações.
 
 ## Custos comparativos (taxas INPI 2026)
 
@@ -155,11 +155,11 @@ Para a maioria dos desenvolvedores e startups, o registro de programa de computa
 
 A decisão depende do que você criou: se é um **produto**, registre o código; se é uma **solução técnica**, busque a patente.
 
-Para mais detalhes sobre cada modalidade de proteção intelectual no Brasil, consulte o [guia comparativo completo de tipos de proteção intelectual]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}}).
+Para mais detalhes sobre cada modalidade de proteção intelectual no Brasil, consulte o [guia comparativo completo de tipos de proteção intelectual]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}}).
 
 Leia também:
 
-- [Patentes de Inteligência Artificial Generativa no Brasil: Guia Completo [2026]]({{< relref "posts/patentes-inteligencia-artificial-generativa-brasil-guia-2026/" >}})
+- [Patentes de Inteligência Artificial no Brasil: Guia Completo sobre Proteção de Invenções de IA [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
 - [Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
 - [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 

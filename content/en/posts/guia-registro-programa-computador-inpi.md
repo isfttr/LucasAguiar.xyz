@@ -42,7 +42,7 @@ Software copyright protection is automatic from creation (Berne Convention, whic
 Before starting the application, you need:
 
 1. **Qualified ICP-Brasil digital certificate** — mandatory. The INPI system **does not accept** advanced signatures, including Gov.br and ACOAB. Only A1 or A3 certificates issued by a Certification Authority accredited by ICP-Brasil (e.g., Certisign, Soluti, Serasa).
-2. **Registration in e-INPI** — required to access the petitioning systems. See our [guide to accessing INPI with CNPJ and Gov.br account]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}}).
+2. **Registration in e-INPI** — required to access the petitioning systems. See our [guide to accessing the INPI Patent Services Module]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}}).
 3. **Software source code** — to generate the hash digest.
 4. **Paid GRU** — Federal Collection Guide, code 730 (R$ 210.00).
 
@@ -161,9 +161,7 @@ Developers, startups, and technology companies that have not yet registered thei
 
 Read also:
 
-- [INPI Clarifies Access with CNPJ on Gov.br: Guide to Link Your Company [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
-- [INPI Clarifies Access with CNPJ on Gov.br: Guide to Link Your Company [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
-- [INPI Clarifies Access with CNPJ on Gov.br: Guide to Link Your Company [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [INPI Patent Services Module: practical guide to access, testing, and migration]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
 
 ---
 

@@ -26,13 +26,13 @@ Existem dois tipos principais:
 | **Patente de Invenção (PI)** | Produto ou processo novo, inventivo e com aplicação industrial | 20 anos da data de depósito | Novo composto químico, método de produção |
 | **Modelo de Utilidade (MU)** | Melhoria funcional no uso ou fabricação de um objeto conhecido | 15 anos da data de depósito | Novo formato de ferramenta que melhora ergonomia |
 
-Para uma comparação detalhada entre os dois tipos, veja nosso guia sobre [tipos de proteção intelectual no Brasil]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}}).
+Para uma comparação detalhada entre os dois tipos, veja nosso guia sobre [tipos de proteção intelectual no Brasil]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}}).
 
 ## Pré-requisitos: o que ter em mãos antes de começar
 
 Antes de abrir o sistema, reúna estes documentos e informações:
 
-1. **Cadastro no PAG (Sistema de Cadastro do INPI)** — obrigatório para acessar qualquer sistema do INPI. Se ainda não tem, veja o [guia de acesso ao CNPJ e conta gov.br]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}}).
+1. **Cadastro no PAG (Sistema de Cadastro do INPI)** — obrigatório para acessar qualquer sistema do INPI. Se ainda não tem, veja o [guia de acesso ao Módulo de Serviços de Patentes do INPI]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}}).
 2. **Documentação técnica da invenção**: relatório descritivo, reivindicações, resumo, desenhos (se aplicável)
 3. **Comprovante de pagamento da GRU** (Guia de Recolhimento da União) — depósito inicial
 4. **Procuração** (se o depósito for feito por procurador)
@@ -44,7 +44,7 @@ Antes de abrir o sistema, reúna estes documentos e informações:
 
 ### Passo 1: Busca de anterioridade
 
-Antes de depositar, é altamente recomendável fazer uma busca de anterioridade para verificar se sua invenção já é conhecida. O próprio INPI oferece ferramentas de busca — veja nosso [guia prático de busca de patentes no INPI]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}}).
+Antes de depositar, é altamente recomendável fazer uma busca de anterioridade para verificar se sua invenção já é conhecida. O próprio INPI oferece ferramentas de busca — veja nosso [guia de busca de patentes no INPI]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}}).
 
 A busca evita desperdício de taxas e ajuda a redigir reivindicações mais precisas. Importante entender que o INPI aceita pedidos mesmo sem busca prévia, já que não é um documento separado que é depositado. A busca prévia tem objetivo de subsidiar a redação do relatório descritivo, que é parte obrigatório do pedido de patente de invenção.
 
@@ -64,7 +64,7 @@ O formulário eletrônico solicita:
 - **Dados do inventor**: nome e qualificação do(s) inventor(es)
 - **Título da invenção**: claro e descritivo, em português
 - **Tipo de pedido**: Patente de Invenção (PI) ou Modelo de Utilidade (MU)
-- **Classificação IPC**: você pode inserir a classificação internacional ou deixar para o INPI classificar — veja o [guia de classificação IPC]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
+- **Classificação IPC**: você pode inserir a classificação internacional ou deixar para o INPI classificar — veja o [guia de busca internacional de patentes]({{< relref "posts/busca-internacional-patentes-patentscope-espacenet-google-2026/" >}}), onde a classificação IPC é usada na prática
 - **Prioridade**: se houver, informe o país, número e data do depósito anterior
 
 ### Passo 4: Anexar os documentos técnicos
@@ -122,7 +122,7 @@ O pedido é publicado automaticamente na **Revista da Propriedade Industrial (RP
 
 ### Exame técnico
 
-O exame de mérito é feito por um examinador de patentes do INPI. O backlog é significativo — veja nosso guia sobre o [trâmite prioritário de patentes]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}}) para acelerar o processo.
+O exame de mérito é feito por um examinador de patentes do INPI. O backlog é significativo — veja como o INPI trata o [trâmite prioritário]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}}) para acelerar o processo.
 
 O examinador avalia:
 - **Novidade** (art. 11 da LPI)
@@ -163,7 +163,7 @@ Não é obrigatório para pessoa física depositar diretamente, mas é **altamen
 
 ### Posso depositar uma patente via PCT?
 
-Sim. O depósito internacional via **Patent Cooperation Treaty (PCT)** permite solicitar proteção em mais de 150 países com um único pedido. A entrada na fase nacional brasileira segue regras específicas — veja o [guia completo de entrada na fase nacional PCT no Brasil]({{< relref "posts/entrada-fase-nacional-pct-brasil-guia-2026/" >}}).
+Sim. O depósito internacional via **Patent Cooperation Treaty (PCT)** permite solicitar proteção em mais de 150 países com um único pedido. A entrada na fase nacional brasileira segue regras específicas — veja quem mais deposita via PCT no [mapa global da inovação]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}}).
 
 ### Software pode ser patenteado no Brasil?
 
@@ -176,8 +176,8 @@ O tempo médio de exame no INPI varia por área tecnológica. Em 2026, o backlog
 Leia também:
 
 - [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
-- [Tipos de Proteção Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
-- [INPI Esclarece Acesso com CNPJ no Gov.br: Guia para Vincular sua Empresa [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [Módulo de Serviços de Patentes do INPI: guia prático de acesso, testes e migração]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
 
 ---
 

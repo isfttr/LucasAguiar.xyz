@@ -30,13 +30,13 @@ There are two main types:
 | **Invention Patent (PI)** | New product or process that is inventive and has industrial application | 20 years from filing date | New chemical compound, production method |
 | **Utility Model (MU)** | Functional improvement in the use or manufacture of a known object | 15 years from filing date | New tool shape that improves ergonomics |
 
-For a detailed comparison between the two types, see our guide on [types of intellectual protection in Brazil]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}}).
+For a detailed comparison between the two types, see our guide comparing [invention patent vs utility model]({{< relref "posts/patente-invencao-vs-modelo-utilidade-guia-2026/" >}}).
 
 ## Prerequisites: what to have on hand before starting
 
 Before opening the system, gather these documents and information:
 
-1. **Registration in PAG (INPI Registration System)** — mandatory to access any INPI system. If you don't have one yet, see the [guide to CNPJ and gov.br account access]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}}).
+1. **Registration in PAG (INPI Registration System)** — mandatory to access any INPI system. If you don't have one yet, see the [guide to accessing the INPI Patent Services Module]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}}).
 2. **Technical documentation of the invention**: descriptive report, claims, abstract, drawings (if applicable)
 3. **Payment receipt for the GRU** (Federal Collection Guide) — initial filing fee
 4. **Power of attorney** (if filing is done by an attorney)
@@ -48,7 +48,7 @@ Before opening the system, gather these documents and information:
 
 ### Step 1: Prior art search
 
-Before filing, it is highly recommended to conduct a prior art search to check if your invention is already known. The INPI itself offers search tools — see our [practical guide to patent searches at the INPI]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}}).
+Before filing, it is highly recommended to conduct a prior art search to check if your invention is already known. The INPI itself offers search tools — see our [guide to accredited patent searches at the INPI]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}}).
 
 The search avoids wasting fees and helps draft more precise claims. The INPI accepts applications even without a prior search, but the rejection rate for lack of novelty is high.
 
@@ -68,7 +68,7 @@ The electronic form requests:
 - **Inventor data**: name and qualification of the inventor(s)
 - **Title of the invention**: clear and descriptive, in Portuguese
 - **Type of application**: Invention Patent (PI) or Utility Model (MU)
-- **IPC classification**: you can enter the international classification or leave it for the INPI to classify — see the [IPC classification guide]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
+- **IPC classification**: you can enter the international classification or leave it for the INPI to classify — see the [international patent search guide]({{< relref "posts/busca-internacional-patentes-patentscope-espacenet-google-2026/" >}}), where IPC codes are used in practice
 - **Priority**: if any, provide the country, number, and date of the previous filing
 
 ### Step 4: Attach the technical documents
@@ -126,7 +126,7 @@ The application is automatically published in the **Industrial Property Journal 
 
 ### Technical examination
 
-The merit examination is carried out by an INPI patent examiner. The backlog is significant — see our guide on [priority patent processing]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}}) to speed up the process.
+The merit examination is carried out by an INPI patent examiner. The backlog is significant — see how INPI handles [priority processing]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}}) to speed up the process.
 
 The examiner evaluates:
 - **Novelty** (Art. 11 of the LPI)
@@ -167,7 +167,7 @@ It is not mandatory for an individual to file directly, but it is **highly recom
 
 ### Can I file a patent via the PCT?
 
-Yes. International filing via the **Patent Cooperation Treaty (PCT)** allows you to seek protection in over 150 countries with a single application. Entry into the Brazilian national phase follows specific rules — see the [complete guide to PCT national phase entry in Brazil]({{< relref "posts/entrada-fase-nacional-pct-brasil-guia-2026/" >}}).
+Yes. International filing via the **Patent Cooperation Treaty (PCT)** allows you to seek protection in over 150 countries with a single application. Entry into the Brazilian national phase follows specific rules — see who else is filing via PCT in the [global innovation map]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}}).
 
 ### Can software be patented in Brazil?
 
@@ -180,8 +180,8 @@ The average examination time at the INPI varies by technological field. In 2026,
 Read also:
 
 - [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
-- [Types of Intellectual Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
-- [INPI Clarifies Access with CNPJ on Gov.br: Guide to Link Your Company [2026]]({{< relref "posts/inpi-acesso-cnpj-conta-govbr-guia-2026/" >}})
+- [Invention Patent vs Utility Model: Differences, Terms and Costs [2026]]({{< relref "posts/patente-invencao-vs-modelo-utilidade-guia-2026/" >}})
+- [INPI Patent Services Module: practical guide to access, testing, and migration]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
 
 ---
 
