@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T14:19:53.317Z",
+  "last_updated": "2026-08-24T14:20:43.754Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2278,13 +2278,13 @@
         "article"
       ],
       "description_en": "Complete guide for software registration at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software and deadlines. Step by step for individuals and legal entities.",
-      "content_hash_en": "04823795bc86f10fdcfdc3b6dccd054637a7495c7ee2392e021d8dacf412bb60",
+      "content_hash_en": "aa9786bddcf1919688d65298bc498e432f820f8bbbc3cdb0e82812720391812c",
       "backlinks": [
+        "modulo-servicos-patentes-inpi-guia-acesso-testes-2026",
         "patente-software-vs-registro-programa-computador-brasil",
-        "tipos-protecao-intelectual-brasil-guia-completo",
-        "ip-protection-types-brazil-complete-guide"
+        "tipos-protecao-intelectual-brasil-guia-completo"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-08-24T14:19:53.317Z"
     },
     "developer-tools-invisible-framework-2026": {
@@ -3554,7 +3554,7 @@
         "article"
       ],
       "description_en": "Differences between invention patent (PI) and utility model (MU) at INPI: legal requirements of LPI, protection terms, 2026 costs, practical examples, and how to choose the right type.",
-      "content_hash_en": "124c4d5474953b32555b0b55e8d930e14c3f65eca32c11e1a391f230d3793de9",
+      "content_hash_en": "3519b08964e5494408eae52c413f0a5228044d7d05dca1bd60e227c0e375165a",
       "backlinks": [
         "patente-software-vs-registro-programa-computador-brasil",
         "patente-software-vs-registro-programa-computador-brasil",
@@ -4230,14 +4230,14 @@
         "article"
       ],
       "description_en": "Understand what Kubernetes solves that containers and Docker Compose don't solve, the practical differences, and when it makes sense (or not) to migrate your setup.",
-      "content_hash_en": "293d65ff7e70349821605f4f6a973f8757e05a23a199c9dd853e2d2588c10bba",
+      "content_hash_en": "050f95c4b1f770d4b2bfa803840e1cf23ccf53819fb92c72038a43465d1fd05c",
       "backlinks": [
-        "containers-vs-vms-complete-guide-2026",
+        "kubernetes-probes-liveness-readiness-startup-guide-2026",
         "containers-vs-vms-complete-guide-2026",
         "reducing-cves-container-images-guide-2026"
       ],
-      "backlink_source": "file",
-      "last_processed": "2026-08-19T19:52:54.732Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-08-24T14:20:43.754Z"
     },
     "acao-infracao-patente-brasil-guia-completo": {
       "slug": "acao-infracao-patente-brasil-guia-completo",
