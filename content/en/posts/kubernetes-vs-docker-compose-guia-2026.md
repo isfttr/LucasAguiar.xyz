@@ -102,7 +102,6 @@ The hierarchy is simple: `docker run` packages, Docker Compose organizes a host,
 
 Read also:
 
-- [Kubernetes Health Probes Explained: Liveness, Readiness & Startup [2026]]({{< relref "posts/kubernetes-probes-liveness-readiness-startup-guide-2026/" >}})
 - [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 - [How to Reduce CVEs in Your Docker Images: Container Security Guide [2026]]({{< relref "posts/reducing-cves-container-images-guide-2026/" >}})
 

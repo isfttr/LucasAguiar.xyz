@@ -323,6 +323,21 @@ async function run() {
   saveIndex(updatedIndex);
   console.log(`Scanned ${Object.keys(updatedIndex.posts).length} posts.`);
 
+  // PRUNE: remove do índice posts que não existem mais ou que estão em draft
+  // (em QUALQUER idioma). O scanPosts só ignora drafts novos, mas o índice
+  // persistente pode guardar entradas antigas de posts que viraram draft — sem
+  // este prune elas continuam no allPosts e a IA volta a sugeri-las.
+  for (const slug of Object.keys(updatedIndex.posts)) {
+    const enPath = path.join(EN_DIR, `${slug}.md`);
+    const ptPath = path.join(PT_DIR, `${slug}.md`);
+    const enRaw = fs.existsSync(enPath) ? fs.readFileSync(enPath, 'utf8') : null;
+    const ptRaw = fs.existsSync(ptPath) ? fs.readFileSync(ptPath, 'utf8') : null;
+    if ((!enRaw && !ptRaw) || (enRaw && isDraft(enRaw)) || (ptRaw && isDraft(ptRaw))) {
+      delete updatedIndex.posts[slug];
+    }
+  }
+  console.log(`After prune: ${Object.keys(updatedIndex.posts).length} posts.`);
+
   // Sanitize: remove backlinks que apontam para posts que não estão no índice
   // (drafts ficaram de fora do scan — refs para eles virariam REF_NOT_FOUND).
   for (const post of Object.values(updatedIndex.posts)) {
