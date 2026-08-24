@@ -1,6 +1,6 @@
 ---
 date: 2026-07-12T14:11:25.000Z
-draft: true
+draft: false
 title: 'Registro de Desenho Industrial no Brasil: Guia Completo Passo a Passo [2026]'
 description: 'Guia completo para registro de desenho industrial no INPI brasileiro: taxas atualizadas, documentos necessários, etapas de depósito e-DI, prazos de validade, via internacional pelo Acordo de Haia e diferenças em relação a patentes e marcas.'
 featured_image: ''
