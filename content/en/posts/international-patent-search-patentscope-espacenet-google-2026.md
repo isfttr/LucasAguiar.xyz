@@ -1,6 +1,6 @@
 ---
 date: 2026-07-29T11:10:00-03:00
-draft: true
+draft: false
 title: "International Patent Search Guide: PATENTSCOPE, Espacenet, and Google Patents [2026]"
 description: "Complete guide to free international patent search tools: WIPO PATENTSCOPE, EPO Espacenet, and Google Patents. Comparison, search strategies, and practical tips for prior art searches."
 featured_image: ""
@@ -199,8 +199,7 @@ Once you've mastered the international tools, you can return to the INPI databas
 Read also:
 
 - [International Patent Search: Complete Guide to PATENTSCOPE, Espacenet and Google Patents [2026]]({{< relref "posts/busca-internacional-patentes-patentscope-espacenet-google-2026/" >}})
-- [Patent Search at INPI: Practical Step-by-Step Guide [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
-- [International Patent Classification (IPC): Practical Guide to Understanding and Using Patent Codes in Brazil [2026]]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
+- [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 
 ---
 

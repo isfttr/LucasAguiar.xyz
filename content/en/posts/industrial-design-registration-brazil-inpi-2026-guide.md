@@ -1,6 +1,6 @@
 ---
 date: 2026-07-12T11:11:25-03:00
-draft: true
+draft: false
 title: "Industrial Design Registration in Brazil: Complete Step-by-Step Guide [2026]"
 description: "Complete guide to industrial design registration at the Brazilian INPI: updated fees, required documents, e-DI filing steps, validity terms, Hague Agreement international route, and differences from patents and trademarks."
 featured_image: ""

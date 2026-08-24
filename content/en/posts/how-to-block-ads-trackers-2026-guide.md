@@ -1,6 +1,6 @@
 ---
 date: 2026-08-15T15:07:40-03:00
-draft: true
+draft: false
 title: "How to Block Ads and Trackers in 2026: Firefox, uBlock Origin, and DNS Filtering [Guide]"
 description: "Block ads and trackers in 2026: uBlock Origin on Firefox, uBO Lite for Chromium, plus DNS-level filtering with Pi-hole or AdGuard Home. Step-by-step guide."
 featured_image: ""

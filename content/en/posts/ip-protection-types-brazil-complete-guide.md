@@ -1,6 +1,6 @@
 ---
 date: 2026-07-13T11:10:54-03:00
-draft: true
+draft: false
 title: "Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]"
 description: "Complete guide comparing all types of IP protection in Brazil: invention patent, utility model, industrial design, trademark, geographical indication, software and plant variety. Costs, terms, legislation and when to use each."
 featured_image: ""
@@ -59,7 +59,7 @@ Protects the **ornamental appearance** of an object — the set of lines, shapes
 - **Requirements:** novelty and originality (no inventive step required)
 - **Term:** 10 years from filing date, renewable for 3 periods of 5 years (max. 25 years)
 - **Process:** faster registration than patents (average 6–12 months at INPI)
-- See the [complete industrial design registration guide]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
+- See the [complete industrial design registration guide]({{< relref "posts/industrial-design-registration-brazil-inpi-2026-guide/" >}})
 
 ## Trademark
 
@@ -157,7 +157,7 @@ Processing time varies greatly between modalities:
 Read also:
 
 - [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
-- [Industrial Design Registration at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-desenho-industrial-inpi-2026/" >}})
+- [Industrial Design Registration in Brazil: Complete Step-by-Step Guide [2026]]({{< relref "posts/industrial-design-registration-brazil-inpi-2026-guide/" >}})
 - [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---

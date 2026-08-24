@@ -1,6 +1,6 @@
 ---
 date: 2026-08-18T15:06:55-03:00
-draft: true
+draft: false
 title: "How to Split a Git Commit: Step-by-Step Guide [2026]"
 description: "Step-by-step guide to split a git commit into multiple commits with plain git: git reset --soft, git add -p, and interactive rebase. Works on any git version."
 featured_image: ""

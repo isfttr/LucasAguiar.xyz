@@ -1,6 +1,6 @@
 ---
 date: 2026-08-14T15:00:00-03:00
-draft: true
+draft: false
 title: "Self-Host RustDesk: Unattended Remote Access Guide [2026]"
 description: "Complete guide to self-hosting RustDesk with Docker in 2026: hbbs/hbbr setup, firewall ports, Wayland unattended access and secure client config."
 featured_image: ""
