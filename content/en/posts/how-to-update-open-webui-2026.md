@@ -15,7 +15,7 @@ tags:
 slug: open-webui-update-guide-docker-pip-lxc
 translation_source_hash: b5f0bcdcd4715f0680bcda91fd0c2b71ebfa43b74859d6b4e894fb321eb25577
 ---
-Open WebUI is one of the most widely used self-hosted AI interfaces out there, but updating it confuses many people because there is no single command — the correct update depends entirely on how you installed it. Docker, pip, and an LXC on Proxmox have different flows. This guide consolidates the three, in the order you should think about: backup, update, verification.
+Open WebUI is one of the most widely used self-hosted AI interfaces out there, but figuring out how to update Open WebUI confuses many people because there is no single command — the correct update depends entirely on how you installed it. Docker, pip, and an LXC on Proxmox have different flows. This guide consolidates the three, in the order you should think about: backup, update, verification.
 
 ## Before updating: backup and secrets
 

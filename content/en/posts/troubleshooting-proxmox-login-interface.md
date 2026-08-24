@@ -2,7 +2,7 @@
 date: 2025-03-14T02:29:45.000Z
 draft: false
 title: "Fix Proxmox Web Interface Login Errors: Missing access.cfg [2026]"
-description: "Fix Proxmox 'authentication failure' on login: missing access.cfg, corosync quorum and pveproxy restart. Step-by-step troubleshooting guide [2026]."
+description: "Can't login to Proxmox web interface? Fix 'authentication failure 401': missing access.cfg, corosync quorum, pveproxy restart. Guide [2026]."
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-proxmox-login-error.png
 categories:

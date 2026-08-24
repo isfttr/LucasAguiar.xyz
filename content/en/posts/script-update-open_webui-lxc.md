@@ -19,7 +19,7 @@ aliases:
   - /posts/script-update-open_webui-lxc/
 ---
 
-A really simple script for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.
+A really simple script to update Open WebUI for those that, for some odd reason, decided to run the Open WebUI server from inside a LXC.
 
 ## The problem
 

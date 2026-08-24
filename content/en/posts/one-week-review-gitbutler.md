@@ -1,8 +1,8 @@
 ---
 date: 2025-04-10T16:36:59.000Z
 draft: false
-title: 'Two Weeks with GitButler: Streamlining My Git Workflow'
-description: My experience using GitButler as a replacement for traditional Git workflow tools, including what works well and a few limitations.
+title: 'GitButler Review 2026: Two Weeks Replacing My Git Workflow (Honest)'
+description: 'Honest GitButler review 2026 after two weeks replacing my Git workflow: virtual branches, GitButler vs jujutsu and worktrees, what works and what doesn''t.'
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-gitbutler.png
 categories:

@@ -2,7 +2,7 @@
 date: 2025-03-12T01:32:27.000Z
 draft: false
 title: Open WebUI Missing Custom Models? How to Fix the Bug [2026]
-description: "Open WebUI custom models not showing? Fix the missing models bug with the right OpenAI API and Direct Connections configuration. Step-by-step guide [2026]."
+description: "Open WebUI missing custom models after an update on Proxmox? Fix the bug with the right OpenAI API and Direct Connections config. Guide [2026]."
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-custom-model-fix.png
 categories:
