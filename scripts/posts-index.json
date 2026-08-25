@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T14:37:22.792Z",
+  "last_updated": "2026-08-25T14:13:01.253Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1533,7 +1533,7 @@
         "article"
       ],
       "description_en": "Complete guide for software registration at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software and deadlines. Step by step for individuals and legal entities.",
-      "content_hash_en": "2ee438cea461c1f9f71b8948cbd9b2ef69c59181df46ef9f4833d05d7dc7a584",
+      "content_hash_en": "e0d574c5561305f82f3f20294f5e7978778a32954edc4f23899cf6163c8a0789",
       "backlinks": [
         "modulo-servicos-patentes-inpi-guia-acesso-testes-2026",
         "modulo-servicos-patentes-inpi-guia-acesso-testes-2026",
@@ -1825,13 +1825,13 @@
         "article"
       ],
       "description_en": "Complete guide to free international patent search tools: WIPO PATENTSCOPE, EPO Espacenet, and Google Patents. Comparison, search strategies, and practical tips for prior art searches.",
-      "content_hash_en": "adeec4aadbbd297cb9ec38b4ad8f26896efcfad23fdf7f97a43f65e637eef368",
+      "content_hash_en": "b7e4bbfd3a0c54aac97e41b38f308c4e11809297986320a95651d03284a92938",
       "backlinks": [
         "busca-internacional-patentes-patentscope-espacenet-google-2026",
         "inpi-credenciamento-busca-anterioridade-patentes",
         "mapa-global-patentes-pct-2025-brasil"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-08-24T14:36:35.289Z"
     },
     "busca-internacional-patentes-patentscope-espacenet-google-2026": {
@@ -2552,13 +2552,13 @@
         "article"
       ],
       "description_en": "Understand what Kubernetes solves that containers and Docker Compose don't solve, the practical differences, and when it makes sense (or not) to migrate your setup.",
-      "content_hash_en": "050f95c4b1f770d4b2bfa803840e1cf23ccf53819fb92c72038a43465d1fd05c",
+      "content_hash_en": "48c60ca49319ffa726cd0a8f0a62a3ee6508a2b795786cfe62853d62098e94fa",
       "backlinks": [
         "containers-vs-vms-complete-guide-2026",
         "reducing-cves-container-images-guide-2026",
         "how-to-update-open-webui-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "file",
       "last_processed": "2026-08-24T14:37:22.792Z"
     },
     "colapso-fundo-situational-awareness-alavancagem-2026": {
