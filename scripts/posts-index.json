@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T11:09:38.310Z",
+  "last_updated": "2026-08-27T11:10:49.218Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2582,6 +2582,29 @@
         "stock-price-duration-survivorship-ai-capex-2026",
         "dawkins-claude-consciencia-ia",
         "linux-windows-macos-qual-usar-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "modelos-ia-abertos-vs-fronteira-dados-2026": {
+      "slug": "modelos-ia-abertos-vs-fronteira-dados-2026",
+      "title_en": "Open AI vs. frontier models: the hidden cost of your data [2026]",
+      "title_pt": "IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]",
+      "tags": [
+        "ia",
+        "software-livre",
+        "privacidade",
+        "tecnologia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "DeepSeek costs US$ 0.18 per million tokens; Claude, US$ 50. Understand why corporate data risk will keep large companies away from the premium AI frontier.",
+      "content_hash_en": "953e0641c2ec514c8bbc3edcc1700d18ab6a5daea0cf20cf13ba64558ac392d9",
+      "backlinks": [
+        "fable-5-vending-bench-alinhamento-ia",
+        "run-70b-llm-low-vram-gpu-guide-2026",
+        "patentes-inteligencia-artificial-brasil-guia-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

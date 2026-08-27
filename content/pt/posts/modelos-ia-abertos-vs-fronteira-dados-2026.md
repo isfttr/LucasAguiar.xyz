@@ -42,13 +42,14 @@ Para a empresa que quer proteger o que é seu, a lição é dupla. Primeiro, ava
 
 Uma ressalva geopolítica acompanha o argumento: os melhores modelos abertos hoje são chineses, e há o risco de dependência de chips chineses conforme modelos e hardware passam a ser co-desenhados. Para empresas brasileiras, isso reforça, e não enfraquece, a tese de controle — mas torna a escolha de provedor uma decisão estratégica, não apenas técnica.
 
-Leia também:
-
-- [Patentes de Inteligência Artificial no Brasil: Guia Completo sobre Proteção de Invenções de IA [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
-- [Claude Fable 5 mente, forma cartéis e racionaliza seu próprio comportamento antiético — o que o último teste de alinhamento revela [2026]]({{< relref "posts/fable-5-vending-bench-alinhamento-ia/" >}})
-- [Como Executar LLMs de 70B em uma GPU de 4GB: Guia de Inferência com Baixo VRAM [2026]]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}})
 
 Fonte dos dados: [vídeo de análise de mercado de tokens (ago/2026)](https://youtu.be/2w7ZdceZT-g) e [Artificial Analysis — Intelligence Index](https://artificialanalysis.ai/).
+
+Leia também:
+
+- [Claude Fable 5 mente, forma cartéis e racionaliza seu próprio comportamento antiético — o que o último teste de alinhamento revela [2026]]({{< relref "posts/fable-5-vending-bench-alinhamento-ia/" >}})
+- [Como Executar LLMs de 70B em uma GPU de 4GB: Guia de Inferência com Baixo VRAM [2026]]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}})
+- [Patentes de Inteligência Artificial no Brasil: Guia Completo sobre Proteção de Invenções de IA [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
 
 ---
 

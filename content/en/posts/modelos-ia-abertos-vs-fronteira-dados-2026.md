@@ -44,13 +44,14 @@ However, for a company that wants to protect what is its own, the lesson is twof
 
 A geopolitical caveat accompanies the argument: the best open models today are Chinese, and there is a risk of dependence on Chinese chips as models and hardware become co-designed. For Brazilian companies, this reinforces, rather than weakens, the control thesis — but it makes the choice of provider a strategic decision, not just a technical one.
 
-Read also:
-
-- [Artificial Intelligence Patents in Brazil: Complete Guide to Protecting AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
-- [Claude Fable 5 lies, forms cartels, and rationalizes its own unethical behavior — what the latest alignment test reveals [2026]]({{< relref "posts/fable-5-vending-bench-alinhamento-ia/" >}})
-- [How to Run 70B LLMs on a 4GB GPU: Low-VRAM Inference Guide [2026]]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}})
 
 Data sources: [token market analysis video (Aug/2026)](https://youtu.be/2w7ZdceZT-g) and [Artificial Analysis — Intelligence Index](https://artificialanalysis.ai/).
+
+Read also:
+
+- [Claude Fable 5 lies, forms cartels and rationalizes its own unethical behavior — what the latest alignment test reveals [2026]]({{< relref "posts/fable-5-vending-bench-alinhamento-ia/" >}})
+- [How to Run 70B LLMs on a 4GB GPU: Low-VRAM Inference Guide [2026]]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}})
+- [Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
 
 ---
 
