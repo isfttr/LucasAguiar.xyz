@@ -1,6 +1,6 @@
 ---
 date: 2026-08-25T11:11:34-03:00
-draft: true
+draft: false
 title: "Como Proteger um Jogo Eletrônico no Brasil: Guia Completo de Propriedade Intelectual"
 description: "Guia completo de PI para game developers no Brasil: registro de software, marca, desenho industrial, direito autoral e patentes. Custos, prazos e passo a passo no INPI."
 featured_image: ""
@@ -14,7 +14,6 @@ tags:
   - marcas
   - guia
 ---
-
 Um jogo eletrônico é, juridicamente, uma obra complexa: código-fonte, arte, música, narrativa e marca convivem no mesmo produto, e cada um desses elementos é protegido por uma modalidade diferente de propriedade intelectual. Não existe um "registro de jogo" único no Brasil — e é exatamente essa lacuna que o INPI começou a discutir em agosto de 2026, com a [Tomada Pública de Subsídios nº 02/2026 sobre o registro de jogos eletrônicos](https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias/inpi-abre-tomada-publica-de-subsidios-sobre-registro-de-jogos-eletronicos).
 
 Enquanto a consulta não vira norma, game developers brasileiros precisam saber montar a estratégia de proteção com as ferramentas que já existem. Este guia mostra, modalidade por modalidade, o que proteger, como fazer e quanto custa — do registro do software ao depósito de patente.
