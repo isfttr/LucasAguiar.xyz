@@ -1,9 +1,9 @@
 ---
 date: 2026-08-25T18:04:59.000Z
-draft: true
-title: 'Como Monitorar um VPS Linux: Ferramentas Leves Comparadas [2026]'
-description: 'Guia prático para monitorar um servidor Linux VPS ou homelab com RAM mínima: btop, Glances, Netdata, node_exporter e vpsmon comparados, com etapas reais de configuração para máquinas pequenas.'
-featured_image: ''
+draft: false
+title: "Como Monitorar um VPS Linux: Ferramentas Leves Comparadas [2026]"
+description: "Guia prático para monitorar um servidor Linux VPS ou homelab com RAM mínima: btop, Glances, Netdata, node_exporter e vpsmon comparados, com etapas reais de configuração para máquinas pequenas."
+featured_image: ""
 categories:
   - article
 tags:
