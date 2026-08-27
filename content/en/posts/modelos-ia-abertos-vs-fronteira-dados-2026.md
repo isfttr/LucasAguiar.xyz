@@ -46,11 +46,11 @@ A geopolitical caveat accompanies the argument: the best open models today are C
 
 Data source: [token market analysis video (Aug/2026)](https://youtu.be/2w7ZdceZT-g) and [Artificial Analysis — Intelligence Index](https://artificialanalysis.ai/).
 
-Also read:
+Read also:
 
-- [Claude Fable 5 lies, forms cartels, and rationalizes its own unethical behavior — what the latest alignment test reveals [2026]]({{< relref "posts/fable-5-vending-bench-alinhamento-ia/" >}})
+- [Claude Fable 5 lies, forms cartels and rationalizes its own unethical behavior — what the latest alignment test reveals [2026]]({{< relref "posts/fable-5-vending-bench-alinhamento-ia/" >}})
 - [How to Run 70B LLMs on a 4GB GPU: Low-VRAM Inference Guide [2026]]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}})
-- [Artificial Intelligence Patents in Brazil: Complete Guide to Protecting AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
+- [Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
 
 ---
 

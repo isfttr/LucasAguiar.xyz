@@ -117,10 +117,9 @@ A consulta pública aberta pelo INPI em agosto de 2026 pode, no futuro, criar um
 
 Leia também:
 
-- [Como Registrar um Programa de Computador no INPI: Guia Completo]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
-- [Quanto Custa Registrar uma Marca no INPI em 2026?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Busca de Anterioridade de Marcas no INPI: Guia Completo]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
-- [Guia de Depósito de Patente no INPI]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [Busca de Anterioridade de Marcas no INPI: Guia Completo Passo a Passo]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
 
 ---
 

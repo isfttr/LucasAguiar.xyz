@@ -119,10 +119,9 @@ The public consultation opened by the INPI in August 2026 may, in the future, cr
 
 Read also:
 
-- [How to Register a Computer Program at the INPI: Complete Guide]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
-- [How Much Does It Cost to Register a Trademark at the INPI in 2026?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Trademark Prior-Art Search at the INPI: Complete Guide]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
-- [Patent Filing Guide at the INPI]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [How to Register a Computer Program at the INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [Trademark Prior Art Search at INPI: Complete Step-by-Step Guide]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
 
 ---
 
