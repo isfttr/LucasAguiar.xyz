@@ -1,8 +1,8 @@
 ---
 date: 2026-08-26T19:04:28-03:00
-draft: true
+draft: false
 title: "IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]"
-description: "DeepSeek custa US$ 0,18 por milhão de tokens; Claude, US$ 50. Entenda por que o risco com dados corporativos vai afastar grandes empresas do premium da fronteira de IA."
+description: DeepSeek custa US$ 0,18 por milhão de tokens; Claude, US$ 50. Entenda por que o risco com dados corporativos vai afastar grandes empresas do premium da fronteira de IA.
 featured_image: ""
 categories:
   - article
@@ -12,7 +12,6 @@ tags:
   - privacidade
   - tecnologia
 ---
-
 O mercado de IA se dividiu em dois: modelos de pesos abertos (open weights) vencem em volume de uso, e os modelos fechados de fronteira (OpenAI, Anthropic) vencem em receita. Os dados de uso de junho a agosto de 2026, compilados pela Vercel e analisados em um vídeo de grande circulação, mostram a DeepSeek ultrapassando a Anthropic em participação de tokens (25,2% contra 24,5%) — enquanto a Anthropic ainda captura 64,6% do dinheiro gasto em tokens, contra 2,8% da DeepSeek. A conclusão que interessa a empresas: **as grandes organizações vão parar de pagar o prêmio dos modelos de fronteira, porque o risco que eles representam para os seus dados pesa mais do que o ganho marginal de inteligência.**
 
 ## Volume e dinheiro: a divisão do mercado
