@@ -1,9 +1,9 @@
 ---
 date: 2026-08-26T22:04:28.000Z
-draft: true
-title: 'Open AI vs. frontier models: the hidden cost of your data [2026]'
+draft: false
+title: "Open AI vs. frontier models: the hidden cost of your data [2026]"
 description: DeepSeek costs US$ 0.18 per million tokens; Claude, US$ 50. Understand why corporate data risk will keep large companies away from the premium AI frontier.
-featured_image: ''
+featured_image: ""
 categories:
   - article
 tags:
@@ -38,9 +38,9 @@ There is also the argument of cost per task, not per token: Kimi K3 cost half th
 
 For most companies, a frontier model solves the same problem as an open model fine-tuned with internal data — and the open model also gives control back: you own the data, you choose from dozens of inference providers (rather than a duopoly), and you can customize until you get more intelligence for the same price. The cost of the frontier, measured in data exposure, outweighs the benefit of a few percentage points on benchmarks.
 
-OpenAI is already reacting by aggressively cutting prices (GPT-5.6 Luna dropped 80%; GPT-5.6 Soul, 20% to 33% in recent days) — a sign that pressure from open models has reached revenue. The likely scenario is the one described by economist Cristian Catalini: a three-tier market, with cheap generic open models dominating volume, state-of-the-art specialists (open and tunable) capturing most enterprise spending, and the closed absolute frontier maintaining high revenue, but in a niche — tasks where the absolute best is worth billions.
+OpenAI is already reacting by aggressively cutting prices (GPT-5.6 Luna dropped 80%; GPT-5.6 Soul, 20% to 33% in recent days) — a sign that pressure from open models has reached revenue. A possible scenario is the one described by economist Cristian Catalini: a three-tier market, with cheap generic open models dominating volume, state-of-the-art specialists (open and tunable) capturing most enterprise spending, and the closed absolute frontier maintaining high revenue, but in a niche — tasks where the absolute best is worth billions.
 
-For a company that wants to protect what is its own, the lesson is twofold. First, evaluate open models as a strategic asset — the infrastructure to run them locally is already accessible, as we showed in the [guide to running LLMs on modest hardware]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}}). Second, treat data as the asset it is: if your competitive advantage lies in it, handing it to a closed model is the cost that does not appear on the invoice. Those who choose the open model trade the frontier premium for a more valuable currency: control over their own operation. And, ultimately, the legal protection of these decisions also matters — it is worth knowing [how to protect AI innovations in Brazil]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}}) before choosing where your model runs.
+However, for a company that wants to protect what is its own, the lesson is twofold. First, evaluate open models as a strategic asset — the infrastructure to run them locally is already accessible, as we showed in the [guide to running LLMs on modest hardware]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}}). Second, treat data as the asset it is: if your competitive advantage lies in it, handing it to a closed model is the cost that does not appear on the invoice. Those who choose the open model trade the frontier premium for a more valuable currency: control over their own operation. And, ultimately, the legal protection of these decisions also matters — it is worth knowing [how to protect AI innovations in Brazil]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}}) before choosing where your model runs.
 
 A geopolitical caveat accompanies the argument: the best open models today are Chinese, and there is a risk of dependence on Chinese chips as models and hardware become co-designed. For Brazilian companies, this reinforces, rather than weakens, the control thesis — but it makes the choice of provider a strategic decision, not just a technical one.
 
