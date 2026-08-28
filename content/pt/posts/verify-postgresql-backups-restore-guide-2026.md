@@ -1,9 +1,9 @@
 ---
-date: 2026-08-27T18:04:56.000Z
+date: 2026-08-28T18:04:00.000Z
 draft: true
 title: Como verificar se seus backups do PostgreSQL realmente podem ser restaurados [2026]
-description: 'Guia passo a passo para testar backups do PostgreSQL: validar arquivos pg_dump, restaurar em bancos de dados temporários, automatizar simulações de restauração com cron e acompanhar RPO/RTO. Inclui pgBackRest e restoredrill.'
-featured_image: ''
+description: "Guia passo a passo para testar backups do PostgreSQL: validar arquivos pg_dump, restaurar em bancos de dados temporários, automatizar simulações de restauração com cron e acompanhar RPO/RTO. Inclui pgBackRest e restoredrill."
+featured_image: ""
 categories:
   - article
 tags:
@@ -14,6 +14,7 @@ tags:
   - devops
 slug: como-verificar-backups-postgresql-restaurados
 translation_source_hash: 686b06ca1bc8dfce488fe4160b3bcc1920206a518a8cd3c6c35e69311589b9d2
+scheduledAt: 2026-08-29T00:05:24.411Z
 ---
 Um backup que você nunca restaurou é um palpite, não uma garantia. Todo administrador PostgreSQL conhece o ritual: `pg_dump` roda todas as noites, o log diz sucesso, e a primeira restauração de verdade acontece durante uma indisponibilidade — exatamente quando você descobre que o dump está corrompido há três semanas, o arquivamento WAL parou de ser enviado, ou a restauração falha por causa de um tablespace ausente. Este guia mostra como verificar se os backups do PostgreSQL realmente restauram, com comandos concretos para backups lógicos e físicos, e como automatizar a verificação para que ela rode sem você.
 
