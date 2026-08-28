@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T18:05:50.655Z",
+  "last_updated": "2026-08-28T00:06:02.767Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2600,7 +2600,7 @@
         "article"
       ],
       "description_en": "DeepSeek costs US$ 0.18 per million tokens; Claude, US$ 50. Understand why the risk with corporate data will keep large companies away from the AI frontier premium.",
-      "content_hash_en": "d528fe75aba301da6080129e4a6293acbdbf15ee2f5489c95357ad46f91a3b7f",
+      "content_hash_en": "0c8a9baf2e811b620ff0eb73965ddba0727b18187ea0461a8e4e136a9979cbf4",
       "backlinks": [
         "fable-5-vending-bench-alinhamento-ia",
         "run-70b-llm-low-vram-gpu-guide-2026",
@@ -2625,7 +2625,7 @@
         "article"
       ],
       "description_en": "Complete IP guide for game developers in Brazil: software registration, trademark, industrial design, copyright, and patents. Costs, deadlines, and step-by-step at INPI.",
-      "content_hash_en": "3c2e28e5deb727c072df0b7b208f7b65d4c7e5c4f028d80e98c28d51c5b00042",
+      "content_hash_en": "4d7d638bea1fe69679b33800bf9caea4a01f491f994d0703cfbcadb611bc7937",
       "backlinks": [
         "guia-registro-programa-computador-inpi",
         "quanto-custa-registrar-marca-inpi-2026",
