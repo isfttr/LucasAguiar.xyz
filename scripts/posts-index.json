@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T02:24:19.858Z",
+  "last_updated": "2026-08-29T00:06:01.940Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2630,6 +2630,30 @@
         "guia-registro-programa-computador-inpi",
         "quanto-custa-registrar-marca-inpi-2026",
         "busca-anterioridade-marcas-inpi-guia-completo"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "grok-bot-agentes-ciclo-ferramentas-produtividade": {
+      "slug": "grok-bot-agentes-ciclo-ferramentas-produtividade",
+      "title_en": "Grok Bot: the cycle of productivity tools repeats itself in AI",
+      "title_pt": "Grok Bot: o ciclo das ferramentas de produtividade se repete na IA",
+      "tags": [
+        "ia",
+        "agentes",
+        "produtividade",
+        "xai",
+        "tecnologia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Grok Bot promises a team of AI agents that work 24/7 and talk to each other — but the cycle of hype, adoption by competitors, and oblivion repeats.",
+      "content_hash_en": "95bd2be445549ccbf989ccd9152551da40c1b141957ab2fb755997aa2fd7d382",
+      "backlinks": [
+        "modelos-ia-abertos-vs-fronteira-dados-2026",
+        "ai-pin",
+        "ai-session-portability-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

@@ -23,8 +23,9 @@ Nada disso significa que o Grok Bot seja ruim — agentes especializados com com
 
 Leia também:
 
+- [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
 - [Pensamentos sobre o hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})
-- [Portabilidade de Sessões de IA: Por que Suas Conversas com IA Estão se Tornando Lock-In]({{< relref "posts/ai-session-portability-guide-2026/" >}})
+- [Portabilidade de Sessões de IA: Por que Suas Conversas com IA Estão se Tornando Lock-In [2026]]({{< relref "posts/ai-session-portability-guide-2026/" >}})
 
 ---
 
