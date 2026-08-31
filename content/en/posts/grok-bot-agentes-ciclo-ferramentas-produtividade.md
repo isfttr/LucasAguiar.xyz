@@ -23,11 +23,11 @@ The risk of Grok Bot is not technical; it's strategic. If the pattern repeats, w
 
 None of this means Grok Bot is bad — specialized agents with their own computer are a genuine advance. But the question worth asking before adopting it is the same one we should have asked with productivity tools: does this solve a problem that will still exist two years from now, or am I just jumping to the tool of the moment? Today's AI market pattern is yesterday's productivity tools pattern: lots of promise, quick incorporation by competitors, and oblivion. In the end, sometimes it makes more sense to wait and receive the implementation in what you already use. The cost of incorporating these features is very low.
 
-Also read:
+Read also:
 
 - [Open AI vs. frontier models: the hidden cost of your data [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
+- [Open AI vs. frontier models: the hidden cost of your data [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
 - [Thoughts on the hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})
-- [AI Session Portability: Why Your Conversations with AI Are Becoming Lock-In [2026]]({{< relref "posts/ai-session-portability-guide-2026/" >}})
 
 ---
 

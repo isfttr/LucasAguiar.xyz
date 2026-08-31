@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T00:06:01.940Z",
+  "last_updated": "2026-08-31T16:37:38.631Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -202,10 +202,10 @@
       ],
       "categories": [],
       "description_en": "For the first time I tried to break with ChatGPT and Copilot to see what I could come up with.",
-      "content_hash_en": "0f27875eab30a32fe27484d512d085e5d7aeaf67f558a1763b0ada2e57c9af1a",
+      "content_hash_en": "7c15be9280da8f72e084bb7c2094b2676364e85095889075497904bd0672697e",
       "backlinks": [
         "10-obsidian-copilot",
-        "script-update-open_webui-lxc",
+        "how-to-update-open-webui-2026",
         "fix-custom-models-open-webui"
       ],
       "backlink_source": "file",
@@ -228,7 +228,7 @@
         "article"
       ],
       "description_en": "A personal review of my experiences with Cursor, Windsurf, and other modern code editors, including their AI capabilities, extension support, and overall user experience.",
-      "content_hash_en": "5ee18b378921b494de0af0febf877d161727d8b535c52c16f29e42adfb5b56b9",
+      "content_hash_en": "9bab5c8266142df6cbbde82efd8c9bc5e0b4de6535ecd49939a5ee579f936671",
       "backlinks": [
         "vibe-coding-pitfalls",
         "one-week-review-gitbutler",
@@ -239,8 +239,8 @@
     },
     "fix-custom-models-open-webui": {
       "slug": "fix-custom-models-open-webui",
-      "title_en": "Open WebUI Missing Custom Models? How to Fix the Bug [2026]",
-      "title_pt": "Open WebUI: Modelos Customizados Não Aparecem? Solução Passo a Passo [2026]",
+      "title_en": "Open WebUI Models Not Showing? Step-by-Step Fix [2026]",
+      "title_pt": "Open WebUI: Modelos Não Aparecem? Solução Passo a Passo [2026]",
       "tags": [
         "open-webui",
         "fix"
@@ -248,11 +248,11 @@
       "categories": [
         "article"
       ],
-      "description_en": "Open WebUI missing custom models after an update on Proxmox? Fix the bug with the right OpenAI API and Direct Connections config. Guide [2026].",
-      "content_hash_en": "7cbaf97c35a6e9180038eb3e398601e0fe7a710b2eeb9932cdc0a4256a03a9f5",
+      "description_en": "Open WebUI models not showing after an update? Fix the missing custom models bug: replicate your OpenAI API config instead of Direct Connections. Guide [2026].",
+      "content_hash_en": "f23898ec0ca0f9d02a1fe6d149e7b5a4bcb9b6682562f4decf4634887560051a",
       "backlinks": [
         "how-to-update-open-webui-2026",
-        "script-update-open_webui-lxc",
+        "how-to-update-open-webui-2026",
         "creating-my-ai-assistant-locally"
       ],
       "backlink_source": "file",
@@ -375,7 +375,7 @@
         "tutorial"
       ],
       "description_en": "Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.",
-      "content_hash_en": "e6e0d209a2e1b3ee88d3daea0235fa1a800fa76b432e2619ac7efa79bd345f00",
+      "content_hash_en": "ca3931e295a4c6d3cfedca24fa8f9b5e016708aabd04fad055ed86d0cbfc31ad",
       "backlinks": [
         "oracle_cloud_vps",
         "troubleshooting-proxmox-login-interface",
@@ -395,19 +395,19 @@
       ],
       "categories": [],
       "description_en": "Correcting the `No internet available` error on NixOS Installation",
-      "content_hash_en": "a2ce2f0ae4d106ce5ff3211c938716f44d1f5870d59c4c460668b59289a2aaac",
+      "content_hash_en": "07caa0df1c171c5a468e65a72dfa61de12f4983529da83c5867938a285b404de",
       "backlinks": [
         "oracle_cloud_vps",
         "troubleshooting-proxmox-login-interface",
-        "script-update-open_webui-lxc"
+        "how-to-update-open-webui-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
     },
     "one-week-review-gitbutler": {
       "slug": "one-week-review-gitbutler",
-      "title_en": "GitButler Review 2026: Two Weeks Replacing My Git Workflow (Honest)",
-      "title_pt": "GitButler Review 2026: Duas Semanas Substituindo Meu Fluxo de Trabalho Git",
+      "title_en": "GitButler Review 2026: My Honest Verdict After 2 Weeks",
+      "title_pt": "GitButler Review 2026: Meu Veredito Honesto Após 2 Semanas",
       "tags": [
         "git",
         "workflow",
@@ -419,8 +419,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Honest GitButler review 2026 after two weeks replacing my Git workflow: virtual branches, GitButler vs jujutsu and worktrees, what works and what doesn't.",
-      "content_hash_en": "42b976aeac983e39be3891e94ef8fbcc4296ed2b8b6715142f2c223101c36e3e",
+      "description_en": "Honest GitButler review 2026 after two weeks replacing my Git workflow: virtual branches, GitButler vs jujutsu and worktrees, what works and what doesn't. Verdict inside.",
+      "content_hash_en": "b2bda8a8e36274238a66b788ec78cdd49a5db9ec7e80da6233d3af0bdff1d2fd",
       "backlinks": [
         "gitbutler-what-is-review-alternatives-2026",
         "experience-with-cursor-and-windsurf",
@@ -448,7 +448,7 @@
         "tutorial"
       ],
       "description_en": "Oracle Cloud Free Tier in 2026: step-by-step setup with Tailscale and Docker, what still works on the Always Free tier, and free VPS alternatives.",
-      "content_hash_en": "3edf7350d6dde930389bc645b4c044bf23a222059a8645bbc03d80ac4b40ee20",
+      "content_hash_en": "c8f7ec5eca96d205e9081d0d9330201c454d68acff2d99d7fe30447cc642b59b",
       "backlinks": [
         "newsletter-beehiiv-cloudflare-github",
         "nixos-vm1",
@@ -484,50 +484,26 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "script-update-open_webui-lxc": {
-      "slug": "script-update-open_webui-lxc",
-      "title_en": "Update Open WebUI in a Proxmox LXC: Bash Script + Cron [2026]",
-      "title_pt": "Script para Atualizar Open WebUI em LXC Proxmox: Bash + Cron [2026]",
-      "tags": [
-        "Linux",
-        "Proxmox",
-        "LXC",
-        "script",
-        "Docker",
-        "open-webui"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "How to update Open WebUI inside a Proxmox LXC with a single bash script: git pull, build and restart. Includes cron setup for automatic updates [2026].",
-      "content_hash_en": "c08c90f5664360c7ced28d7a4026b1041085b45d5c7be7dab61eaa260c371e25",
-      "backlinks": [
-        "how-to-update-open-webui-2026",
-        "troubleshooting-proxmox-login-interface",
-        "fix-custom-models-open-webui"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "troubleshooting-proxmox-login-interface": {
       "slug": "troubleshooting-proxmox-login-interface",
-      "title_en": "Fix Proxmox Web Interface Login Errors: Missing access.cfg [2026]",
-      "title_pt": "Erros de Login na Interface Web do Proxmox: Solução Passo a Passo [2026]",
+      "title_en": "Proxmox Login Failed? Fix 'authentication failure' 401 [2026]",
+      "title_pt": "Proxmox Login Falhou? Corrija o Erro 'authentication failure' 401 [2026]",
       "tags": [
         "linux",
         "proxmox",
         "troubleshooting",
-        "tutorial"
+        "tutorial",
+        "autenticacao"
       ],
       "categories": [
         "tutorial"
       ],
-      "description_en": "Can't login to Proxmox web interface? Fix 'authentication failure 401': missing access.cfg, corosync quorum, pveproxy restart. Guide [2026].",
-      "content_hash_en": "c6333cfb7d37d52a44481a841693435dceb8bf1a2ce0634bf0d36c138ac239b4",
+      "description_en": "Proxmox login failed with 'authentication failure 401'? Fix wrong realm, blocked user, expired ticket, unsynced clock or missing access.cfg. Step-by-step [2026].",
+      "content_hash_en": "e51a17f03db2bd76a64d56b208b19675bc021d98e69aace0849b0d1655a95cfe",
       "backlinks": [
-        "proxmox-401-authentication-failure-fix-2026",
-        "oracle_cloud_vps",
-        "newsletter-beehiiv-cloudflare-github"
+        "migracao-proxmox-8-9-2026",
+        "proxmox-backup-server-community-scripts-2026",
+        "proxmox-mac-mini-2018-t2"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -576,7 +552,7 @@
     },
     "linux-windows-macos-qual-usar-2026": {
       "slug": "linux-windows-macos-qual-usar-2026",
-      "title_en": "Windows vs Linux vs macOS [2026]: Comparison Table & Verdict",
+      "title_en": "Linux vs Windows vs macOS 2026: Which OS to Use? [Table]",
       "title_pt": "Linux vs Windows vs macOS 2026: Comparação Completa e Qual Escolher",
       "tags": [
         "linux",
@@ -590,8 +566,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Windows vs Linux vs macOS comparison in 2026: table with performance, software, privacy and cost — plus my verdict after years using all three daily.",
-      "content_hash_en": "88aaf12628096b89e781cd356e3cb82fc3bc8ad6e6814f22541125abfec0f757",
+      "description_en": "Linux vs Windows vs macOS in 2026: comparison table covering performance, software, privacy and cost — plus my verdict after years using all three daily.",
+      "content_hash_en": "3c6cbb6a26845fdfde9a95691aff28d642d2f6165b71beee7ed23fca63c94ff4",
       "backlinks": [
         "10-years-of-macbook-pro",
         "introduction",
@@ -665,7 +641,7 @@
         "article"
       ],
       "description_en": "The ESR 6C006 Geo Digital Pencil does not have auto shutoff (sleep mode). Understand the technical reason, its relationship with Apple Find My, and if it's possible to modify the firmware.",
-      "content_hash_en": "e8c0487d5d8e327c59a88091656f48374287d41782a95153f262704dbcf90eb5",
+      "content_hash_en": "e76fd8ef1724653d5359ceb6670aa29e03377bde22674116e94743736361e234",
       "backlinks": [
         "10-years-of-macbook-pro",
         "linux-windows-macos-qual-usar-2026",
@@ -688,9 +664,9 @@
         "tutorial"
       ],
       "description_en": "Transforming a 2018 Mac Mini with a T2 chip into a Proxmox node seems simple, but Secure Boot and the black screen issue stop almost everyone. See the exact settings that made the installation succeed.",
-      "content_hash_en": "eb8f0e104583c4d01a58c96e865624ea6e34c4882317b4d1b2ff4df1f9f746f2",
+      "content_hash_en": "0797df37aa93ec60afb79d9df1c619ad260ad5e01a8eb88325722261320eca2f",
       "backlinks": [
-        "script-update-open_webui-lxc",
+        "how-to-update-open-webui-2026",
         "troubleshooting-proxmox-login-interface",
         "10-years-of-macbook-pro"
       ],
@@ -860,9 +836,9 @@
         "tutorial"
       ],
       "description_en": "The saga of plugging WhatsApp into a Hermes Agent running in Docker inside an LXC on Proxmox: from EACCES in npm to the ghostly 'disconnected' and the Brazilian ninth digit.",
-      "content_hash_en": "a524e97f38cb3c860732f3f80730fe4556886b59cce4d25d98441bdad587d74b",
+      "content_hash_en": "000358c87a725b3e5014c0a001302c721496f2dcf17c2c4e46b7ce3396c84317",
       "backlinks": [
-        "script-update-open_webui-lxc",
+        "how-to-update-open-webui-2026",
         "proxmox-mac-mini-2018-t2",
         "creating-my-ai-assistant-locally"
       ],
@@ -1136,7 +1112,7 @@
         "article"
       ],
       "description_en": "Complete guide with the 10 main difficulties to access Google Analytics in 2026: VPN blocking access, third-party cookies, extensions, account permissions, and much more.",
-      "content_hash_en": "a639c7cbb9123707240a3d5014347bec6e3a0e2897594ef49c72c16b0b506ff1",
+      "content_hash_en": "09377a48b2cae556fa14e075c91cb34ac41d958c430926a97e659d78bb7ce112",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "configuracao-whatsapp-hermes",
@@ -1209,7 +1185,7 @@
         "article"
       ],
       "description_en": "Complete guide to migrating from Proxmox VE 8 (Debian 12-based) to Proxmox VE 9 (Debian 13 Trixie): repositories, kernel 6.14 upgrade, ZFS 2.3, common pitfalls and post-upgrade verification.",
-      "content_hash_en": "5810d97d2a4f0092fdea5d3caa2cd94a29c4e61ade17b2914151b8ce0754a4fb",
+      "content_hash_en": "a1dfc0799516e647c606345f532f993005e98db3e0f03905abe2332ea257edcc",
       "backlinks": [
         "troubleshooting-proxmox-login-interface",
         "proxmox-backup-server-community-scripts-2026",
@@ -1234,11 +1210,11 @@
         "article"
       ],
       "description_en": "Complete guide to installing Proxmox Backup Server (PBS) using community-scripts in an LXC container, configuring datastore, integrating with Proxmox VE, and automating backups with scheduling and integrity verification.",
-      "content_hash_en": "acb0d1dae24a649e471998de5e40e252e07574dff6835e5336aa0537105d3f3d",
+      "content_hash_en": "d1c77f0ec96222a0d1d8ee053304cc9ee0f9606d3bd1992a4180112c3c2f1e0c",
       "backlinks": [
         "proxmox-mac-mini-2018-t2",
         "troubleshooting-proxmox-login-interface",
-        "script-update-open_webui-lxc"
+        "how-to-update-open-webui-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -1413,7 +1389,7 @@
         "article"
       ],
       "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
-      "content_hash_en": "e39a18c17f1d5c309ac52cc8549c4b9aa06af6ac12850019a45ba03492f34d5f",
+      "content_hash_en": "b763b4127b314116fcc3d6f10ef01a17c6715e0c704ba47e5e5895907d6a5d48",
       "backlinks": [
         "anthropic-thinking-process-paper",
         "one-week-review-gitbutler",
@@ -1509,7 +1485,7 @@
         "article"
       ],
       "description_en": "Complete guide to KVM virtualization on Linux: install, configure, and manage VMs with virsh and virt-install. Covers networking, storage pools, cloud-init, and comparison with Vagrant, VirtualBox, and Proxmox.",
-      "content_hash_en": "2287c3fb1b3a906371c422e482ff7001ad11a39b7ac6d6bd5335973c751512e4",
+      "content_hash_en": "51f38536f0b07c922cc063aad4519eda9ba4196112db60756b6ba6b57297c13e",
       "backlinks": [
         "proxmox-backup-server-community-scripts-2026",
         "proxmox-mac-mini-2018-t2",
@@ -1656,7 +1632,7 @@
         "article"
       ],
       "description_en": "Step-by-step guide to git history — the experimental command that lets you fix old commits, rewrite messages, and split changes without scary rebase -i sessions. Includes practical examples of each subcommand.",
-      "content_hash_en": "bdae77ef4ec45e11da98fbc1b48919f13d789147b826793a8ce4a7612b509cd5",
+      "content_hash_en": "87bde81d6b4141c2d71a76c954d81fc4550cf5b68d0335642071a10d9706b856",
       "backlinks": [
         "one-week-review-gitbutler",
         "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1680,10 +1656,10 @@
         "article"
       ],
       "description_en": "Step-by-step guide to running modern LLMs on old/used enterprise servers with no GPU. Hardware picks, software stack, expected performance, and cost comparison vs cloud APIs.",
-      "content_hash_en": "0acf0c876842122a8e95c6bea2b6f0900724631d518cd32a491711ac161b84e8",
+      "content_hash_en": "c5af12d13cffcfa3559e15a7664f11910e713c052f606572598914f1220e1a7f",
       "backlinks": [
         "proxmox-mac-mini-2018-t2",
-        "script-update-open_webui-lxc",
+        "how-to-update-open-webui-2026",
         "configuracao-whatsapp-hermes"
       ],
       "backlink_source": "file",
@@ -1900,7 +1876,7 @@
         "article"
       ],
       "description_en": "Learn how stacked PRs work, why they speed up code review, and how to use them with GitHub's new native support. Comparisons, CLI tools, and real-world workflows.",
-      "content_hash_en": "98cad913fcb82ccfaadb4ad5bed33c3fa825d61ac6d48a982d654d61e7a00f59",
+      "content_hash_en": "af8ef7865caca6e2898bad3905ff6f3354a49a9d4fc08751e07beaf889391de4",
       "backlinks": [
         "one-week-review-gitbutler",
         "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -2358,7 +2334,7 @@
         "article"
       ],
       "description_en": "GitButler is a Git client with virtual branches, CLI, and TUI. Honest review after months of use, pricing model, and the best alternatives in 2026.",
-      "content_hash_en": "296cbe3d0878202cec08dcb451b48f57d6b725320df8af48b6368f9702566c74",
+      "content_hash_en": "8468910e485bb1e03b9bfb05653628730d213cb323c2e589031a25e765087d15",
       "backlinks": [
         "one-week-review-gitbutler",
         "mastering-git-log-history-guide-2026",
@@ -2382,35 +2358,11 @@
         "article"
       ],
       "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and LXC on Proxmox. Make a backup before, avoid post-update bugs and automate with Watchtower.",
-      "content_hash_en": "c07c0405af760ba88bdd315289852629ab81e00c38f6947dc17db9652431299b",
+      "content_hash_en": "28daf9c799371962b315103b48bb2741c34690d1d01322cd6b25f6ca46695488",
       "backlinks": [
-        "script-update-open_webui-lxc",
         "fix-custom-models-open-webui",
-        "containers-vs-vms-complete-guide-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
-    "proxmox-401-authentication-failure-fix-2026": {
-      "slug": "proxmox-401-authentication-failure-fix-2026",
-      "title_en": "Proxmox 401 'authentication failure': Fix Login and API Errors [2026]",
-      "title_pt": "Proxmox 401 'authentication failure': Corrija Erros de Login e API [2026]",
-      "tags": [
-        "proxmox",
-        "solucao-de-problemas",
-        "linux",
-        "homelab",
-        "autenticacao"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "Does Proxmox return HTTP 401 'authentication failure' on login or API? Causes: wrong realm, blocked user, expired ticket, unsynchronized clock. Fixes with pveum.",
-      "content_hash_en": "a9988eea570a23600382ffa127e40c25ddc8d8fc31d501e1d787df76f30f4f39",
-      "backlinks": [
-        "troubleshooting-proxmox-login-interface",
-        "troubleshooting-proxmox-login-interface",
-        "troubleshooting-proxmox-login-interface"
+        "containers-vs-vms-complete-guide-2026",
+        "fix-custom-models-open-webui"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2577,7 +2529,7 @@
         "opinion"
       ],
       "description_en": "Rose 439% with 4x leverage and was liquidated in weeks: what the collapse of the Situational Awareness fund teaches about expected return and duration.",
-      "content_hash_en": "a7970d7a99cc678402d0a0b36f72b85dffbf67a21c447456dbd6a09d93910843",
+      "content_hash_en": "f56beb64183115b0185246d7d447db44a482be5b114af0a331b8ade91a71b650",
       "backlinks": [
         "stock-price-duration-survivorship-ai-capex-2026",
         "dawkins-claude-consciencia-ia",
@@ -2636,7 +2588,7 @@
     },
     "grok-bot-agentes-ciclo-ferramentas-produtividade": {
       "slug": "grok-bot-agentes-ciclo-ferramentas-produtividade",
-      "title_en": "Grok Bot: the cycle of productivity tools repeats itself in AI",
+      "title_en": "Grok Bot: The cycle of productivity tools repeats itself in AI",
       "title_pt": "Grok Bot: o ciclo das ferramentas de produtividade se repete na IA",
       "tags": [
         "ia",
@@ -2648,12 +2600,61 @@
       "categories": [
         "article"
       ],
-      "description_en": "Grok Bot promises a team of AI agents that work 24/7 and talk to each other — but the cycle of hype, adoption by competitors, and oblivion repeats.",
-      "content_hash_en": "95bd2be445549ccbf989ccd9152551da40c1b141957ab2fb755997aa2fd7d382",
+      "description_en": "Grok Bot promises a team of AI agents that work 24/7 and talk to each other — but the cycle of hype, adoption by competitors, and being forgotten repeats itself.",
+      "content_hash_en": "86f05dae13877171bf0c3388e388e73fc2646719c64430cbef3d16e05b38c7ab",
       "backlinks": [
         "modelos-ia-abertos-vs-fronteira-dados-2026",
-        "ai-pin",
-        "ai-session-portability-guide-2026"
+        "modelos-ia-abertos-vs-fronteira-dados-2026",
+        "ai-pin"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "lightweight-linux-vps-monitoring-guide-2026": {
+      "slug": "lightweight-linux-vps-monitoring-guide-2026",
+      "title_en": "How to Monitor a Linux VPS: Lightweight Tools Compared [2026]",
+      "title_pt": "Como Monitorar um VPS Linux: Ferramentas Leves Comparadas [2026]",
+      "tags": [
+        "linux",
+        "monitoring",
+        "vps",
+        "selfhosted",
+        "homelab",
+        "devops"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Practical guide to monitoring a Linux VPS or homelab server with minimal RAM: btop, Glances, Netdata, node_exporter and vpsmon compared, with real setup steps for small machines.",
+      "content_hash_en": "5e2a4dbba6a3c251060fc0045241f030e033cbee57b210f7457dac1189f5d549",
+      "backlinks": [
+        "detect-block-bot-traffic-selfhosted-guide-2026",
+        "containers-vs-vms-complete-guide-2026",
+        "postgresql-performance-best-practices-homelab-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "verify-postgresql-backups-restore-guide-2026": {
+      "slug": "verify-postgresql-backups-restore-guide-2026",
+      "title_en": "How to Verify Your PostgreSQL Backups Actually Restore [2026]",
+      "title_pt": "Como verificar se seus backups do PostgreSQL realmente podem ser restaurados [2026]",
+      "tags": [
+        "postgresql",
+        "backups",
+        "homelab",
+        "self-hosted",
+        "devops"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Step-by-step guide to testing PostgreSQL backups: validate pg_dump files, restore into scratch databases, automate restore drills with cron, and track RPO/RTO. Includes pgBackRest and restoredrill.",
+      "content_hash_en": "9c529fa7ba2982996898b3a6e43e9c05c1e46a90fa491ad9d971ec0f38937438",
+      "backlinks": [
+        "proxmox-backup-server-community-scripts-2026",
+        "postgresql-performance-best-practices-homelab-2026",
+        "sqlite-wal-corruption-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

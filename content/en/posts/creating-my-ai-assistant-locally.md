@@ -96,7 +96,7 @@ Read also:
 
 - [Obsidian + Copilot]({{< relref "posts/10-obsidian-copilot/" >}})
 - [How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
-- [Open WebUI Missing Custom Models? How to Fix the Bug [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [Open WebUI Models Not Showing? Step-by-Step Fix [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 
 ---
 You can reach out to contact me about this and other topics at my email <contact@lucasaguiar.xyz> or by filling the form below.

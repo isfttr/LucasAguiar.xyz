@@ -173,9 +173,9 @@ If you're still stuck, these community threads cover the same error in depth: [a
 
 Read also:
 
-- [How to migrate from Proxmox VE 8 to 9: step-by-step guide]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
-- [Proxmox Backup Server: installation via community-scripts]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
-- [How to install Proxmox VE on Mac Mini 2018 (T2 chip)]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [How to migrate from Proxmox VE 8 to 9: step-by-step guide [2026]]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
+- [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
 
 ---
 

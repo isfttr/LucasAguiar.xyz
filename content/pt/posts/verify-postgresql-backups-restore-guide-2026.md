@@ -121,8 +121,9 @@ Uma restauração que você testou ontem é um backup. Uma restauração que voc
 
 Leia também:
 
-- [Melhores práticas de desempenho do PostgreSQL para Homelab e Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
-- [Corrupção de WAL no SQLite: como detectar, corrigir e prevenir no seu Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
+- [Proxmox Backup Server: instalação via community-scripts e configuração de backups [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [Melhores Práticas de Desempenho do PostgreSQL para Homelab e Auto-hospedado [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
+- [Corrupção do WAL do SQLite: Como Detectar, Corrigir e Prevenir em seu Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
 
 ---
 

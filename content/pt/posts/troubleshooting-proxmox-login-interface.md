@@ -172,9 +172,9 @@ Se ainda estiver travado, estes tópicos da comunidade cobrem o mesmo erro em pr
 
 Leia também:
 
-- [Como migrar do Proxmox VE 8 para 9: passo a passo]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
-- [Proxmox Backup Server: instalação via community-scripts]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
-- [Como instalar o Proxmox VE no Mac Mini 2018 (T2 chip)]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [Como migrar do Proxmox VE 8 para o 9: guia passo a passo [2026]]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
+- [Proxmox Backup Server: instalação via community-scripts e configuração de backups [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
 
 ---
 

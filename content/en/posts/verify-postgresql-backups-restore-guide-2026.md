@@ -119,10 +119,11 @@ For homelab setups, combine this with a proper backup server: see our guide on [
 
 A restore you tested yesterday is a backup. A restore you tested last year is a hope. Automate the drill, log the evidence, and make the failure loud.
 
-Also read:
+Read also:
 
+- [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
 - [PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
-- [SQLite WAL Corruption: How to Detect, Fix and Prevent It in Your Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
+- [SQLite WAL Corruption: How to Detect, Fix and Prevent It in you Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
 
 ---
 

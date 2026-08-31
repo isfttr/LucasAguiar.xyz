@@ -108,8 +108,9 @@ Back up before every update, keep `WEBUI_SECRET_KEY` stable, pin a version for a
 
 Read also:
 
-- [Open WebUI Missing Custom Models? Step-by-Step Fix [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [Open WebUI Models Not Showing? Step-by-Step Fix [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 - [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
+- [Open WebUI Models Not Showing? Step-by-Step Fix [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 
 ---
 
