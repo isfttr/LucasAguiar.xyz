@@ -65,7 +65,7 @@ GitButler isn't "Git with a GUI" — it's a real rethink of how branches should 
 
 Read also:
 
-- [GitButler Review 2026: Two Weeks Replacing My Git Workflow (Honest)]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [GitButler Review 2026: My Honest Verdict After 2 Weeks]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [Git History in 2026: Complete Guide to fixup, reword, and split Commands]({{< relref "posts/mastering-git-log-history-guide-2026/" >}})
 - [Stacked Pull Requests: Complete Guide and Best Practices [2026]]({{< relref "posts/stacked-pull-requests-guide-2026/" >}})
 

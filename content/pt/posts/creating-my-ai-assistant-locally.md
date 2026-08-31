@@ -96,7 +96,7 @@ Esta é uma configuração simples de um LLM privado e de código aberto. Tentei
 Leia também:
 
 - [Obsidian Copilot + Ollama + OpenRouter: Setup Completo e Gratuito [2026]]({{< relref "posts/10-obsidian-copilot/" >}})
-- [Script para Atualizar Open WebUI em LXC Proxmox: Bash + Cron [2026]]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
 - [Open WebUI: Modelos Customizados Não Aparecem? Solução Passo a Passo [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 
 ---

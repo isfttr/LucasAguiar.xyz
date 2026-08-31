@@ -1,8 +1,8 @@
 ---
 date: 2025-03-12T01:32:27.000Z
 draft: false
-title: Open WebUI Missing Custom Models? How to Fix the Bug [2026]
-description: "Open WebUI missing custom models after an update on Proxmox? Fix the bug with the right OpenAI API and Direct Connections config. Guide [2026]."
+title: "Open WebUI Models Not Showing? Step-by-Step Fix [2026]"
+description: "Open WebUI models not showing after an update? Fix the missing custom models bug: replicate your OpenAI API config instead of Direct Connections. Guide [2026]."
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-custom-model-fix.png
 categories:
@@ -34,7 +34,7 @@ And the model list should show your custom models.
 Read also:
 
 - [How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
-- [Update Open WebUI in a Proxmox LXC: Bash Script + Cron [2026]]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
 - [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 
 ---

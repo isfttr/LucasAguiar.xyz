@@ -158,7 +158,7 @@ Users get stuck in an authentication loop or receive an error after entering the
 
 Read also:
 
-- [Fix Proxmox Web Interface Login Errors: Missing access.cfg [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Proxmox Login Failed? Fix 'authentication failure' 401 [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 - [Enabling WhatsApp on Hermes Agent self-hosted: three pitfalls (and how I overcame them)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
 - [Claude Tag and the Risk to Companies' Intellectual Property]({{< relref "posts/claude-tag-propriedade-intelectual-empresarial/" >}})
 

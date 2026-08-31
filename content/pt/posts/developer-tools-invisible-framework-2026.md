@@ -138,7 +138,7 @@ O sinal de que você encontrou a ferramenta certa é simples: você para de pens
 
 Leia também:
 
-- [GitButler Review 2026: Duas Semanas Substituindo Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [GitButler Review 2026: Meu Veredito Honesto Após 2 Semanas]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [GitButler no Terminal]({{< relref "posts/gitbutler-terminal-cli-tui-2026/" >}})
 - [Agentes de Codificação de IA Comparados: Claude Code vs Cursor vs GitHub Copilot vs Aider [2026]]({{< relref "posts/ai-coding-agents-comparison-2026/" >}})
 

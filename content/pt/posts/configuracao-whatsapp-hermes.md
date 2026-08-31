@@ -214,6 +214,6 @@ funcionar](https://www.lucasaguiar.xyz/posts/troubleshooting-proxmox-login-inter
 
 Leia também:
 
-- [Script para Atualizar Open WebUI em LXC Proxmox: Bash + Cron [2026]]({{< relref "posts/script-update-open_webui-lxc/" >}})
+- [Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
 - [Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
 - [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})

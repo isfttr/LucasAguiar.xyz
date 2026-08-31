@@ -13,6 +13,8 @@ tags:
   - proxmox
   - auto-hospedagem
 slug: open-webui-update-guide-docker-pip-lxc
+aliases:
+  - /posts/how-to-update-open-webui-2026/
 translation_source_hash: b5f0bcdcd4715f0680bcda91fd0c2b71ebfa43b74859d6b4e894fb321eb25577
 ---
 Open WebUI is one of the most widely used self-hosted AI interfaces out there, but figuring out how to update Open WebUI confuses many people because there is no single command — the correct update depends entirely on how you installed it. Docker, pip, and an LXC on Proxmox have different flows. This guide consolidates the three, in the order you should think about: backup, update, verification.
@@ -86,7 +88,7 @@ uv tool install --force --python 3.12 open-webui[all]
 systemctl restart open-webui
 ```
 
-The project also ships `tools/pve/update-apps.sh`, a per-container updater with optional backup before the update. My [old bash script for updating Open WebUI on a Proxmox LXC]({{< relref "posts/script-update-open_webui-lxc/" >}}) still works for legacy source installations, but for new containers the uv path above is the supported one.
+The project also ships `tools/pve/update-apps.sh`, a per-container updater with optional backup before the update. My old bash script for updating Open WebUI on a Proxmox LXC still works for legacy source installations, but for new containers the uv path above is the supported one.
 
 ## After updating: verify
 
@@ -106,8 +108,7 @@ Back up before every update, keep `WEBUI_SECRET_KEY` stable, pin a version for a
 
 Read also:
 
-- [Update Open WebUI in a Proxmox LXC: Bash Script + Cron [2026]]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [Open WebUI Missing Custom Models? How to Fix the Bug [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [Open WebUI Missing Custom Models? Step-by-Step Fix [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 - [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
 ---

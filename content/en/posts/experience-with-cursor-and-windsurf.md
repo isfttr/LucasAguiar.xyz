@@ -131,7 +131,7 @@ I suspect this journey isn't over, as the landscape of development tools continu
 Read also:
 
 - [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [GitButler Review 2026: Two Weeks Replacing My Git Workflow (Honest)]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [GitButler Review 2026: My Honest Verdict After 2 Weeks]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [From Procrastination to Progress: How AI has helped me]({{< relref "posts/ai-beats-procrastination/" >}})
 
 ---

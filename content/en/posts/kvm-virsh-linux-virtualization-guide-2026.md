@@ -368,7 +368,7 @@ Read also:
 
 - [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
 - [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
-- [Fix Proxmox Web Interface Login Errors: Missing access.cfg [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Proxmox Login Failed? Fix 'authentication failure' 401 [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
 ---
 

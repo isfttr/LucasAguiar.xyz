@@ -182,7 +182,7 @@ computação para a demanda pelos seus serviços.
 Leia também:
 
 - [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [GitButler Review 2026: Duas Semanas Substituindo Meu Fluxo de Trabalho Git]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [GitButler Review 2026: Meu Veredito Honesto Após 2 Semanas]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
 
 ---

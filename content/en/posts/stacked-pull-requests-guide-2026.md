@@ -143,9 +143,9 @@ gh stack --help
 
 Read also:
 
-- [GitButler Review 2026: Two Weeks Replacing My Git Workflow (Honest)]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [GitButler Review 2026: My Honest Verdict After 2 Weeks]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
-- [GitButler Review 2026: Two Weeks Replacing My Git Workflow (Honest)]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [GitButler Review 2026: My Honest Verdict After 2 Weeks]({{< relref "posts/one-week-review-gitbutler/" >}})
 
 ---
 

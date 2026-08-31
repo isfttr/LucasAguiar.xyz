@@ -447,7 +447,7 @@ The next time you find yourself writing a Python script that's growing too large
 Read also:
 
 - [Building Interactive Flask Web Apps: Progress Bars and Beyond]({{< relref "posts/flask-progress-bars-and-beyond/" >}})
-- [GitButler Review 2026: Two Weeks Replacing My Git Workflow (Honest)]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [GitButler Review 2026: My Honest Verdict After 2 Weeks]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
 
 ---

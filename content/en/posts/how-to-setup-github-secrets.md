@@ -545,8 +545,8 @@ Remember, security is an ongoing process. Regularly audit your secrets usage, ro
 Read also:
 
 - [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
-- [Update Open WebUI in a Proxmox LXC: Bash Script + Cron [2026]]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [GitButler Review 2026: Two Weeks Replacing My Git Workflow (Honest)]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
+- [GitButler Review 2026: My Honest Verdict After 2 Weeks]({{< relref "posts/one-week-review-gitbutler/" >}})
 
 ---
 You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.

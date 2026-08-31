@@ -85,7 +85,7 @@ uv tool install --force --python 3.12 open-webui[all]
 systemctl restart open-webui
 ```
 
-O projeto também entrega `tools/pve/update-apps.sh`, um atualizador por container com backup opcional antes do update. Meu [script bash antigo para atualizar o Open WebUI em um LXC Proxmox]({{< relref "posts/script-update-open_webui-lxc/" >}}) ainda funciona para instalações source legadas, mas para containers novos o caminho uv acima é o suportado.
+O projeto também entrega `tools/pve/update-apps.sh`, um atualizador por container com backup opcional antes do update. Meu script bash antigo para atualizar o Open WebUI em um LXC Proxmox ainda funciona para instalações source legadas, mas para containers novos o caminho uv acima é o suportado.
 
 ## Depois de atualizar: verifique
 
@@ -105,8 +105,7 @@ Backup antes de todo update, `WEBUI_SECRET_KEY` estável, versão fixada para qu
 
 Leia também:
 
-- [Script para Atualizar Open WebUI em LXC Proxmox: Bash + Cron [2026]]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [Open WebUI: Modelos Customizados Não Aparecem? Solução Passo a Passo [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [Open WebUI: Modelos Não Aparecem? Solução Passo a Passo [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 - [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
 ---

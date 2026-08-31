@@ -1,6 +1,6 @@
 ---
 date: 2026-08-17T11:16:25-03:00
-draft: false
+draft: true
 title: "Proxmox 401 'authentication failure': Corrija Erros de Login e API [2026]"
 description: "O Proxmox retorna HTTP 401 'authentication failure' no login ou na API? Causas: realm errado, usuário bloqueado, ticket expirado, relógio dessincronizado. Correções com pveum."
 featured_image: ""
@@ -108,9 +108,9 @@ Se ainda estiver travado, estes tópicos da comunidade cobrem o mesmo erro em pr
 
 Leia também:
 
-- [Erros de Login na Interface Web do Proxmox: Solução Passo a Passo [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
-- [Erros de Login na Interface Web do Proxmox: Solução Passo a Passo [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
-- [Erros de Login na Interface Web do Proxmox: Solução Passo a Passo [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Proxmox Login Falhou? Corrija o Erro 'authentication failure' 401 [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Proxmox Login Falhou? Corrija o Erro 'authentication failure' 401 [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Proxmox Login Falhou? Corrija o Erro 'authentication failure' 401 [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
 ---
 

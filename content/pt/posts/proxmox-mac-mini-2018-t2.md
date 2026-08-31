@@ -142,8 +142,8 @@ Se você está decidindo entre sistemas para reaproveitar hardware Apple, talvez
 
 Leia também:
 
-- [Script para Atualizar Open WebUI em LXC Proxmox: Bash + Cron [2026]]({{< relref "posts/script-update-open_webui-lxc/" >}})
-- [Erros de Login na Interface Web do Proxmox: Solução Passo a Passo [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
+- [Proxmox Login Falhou? Corrija o Erro 'authentication failure' 401 [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 - [10 anos usando o MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
 
 ---

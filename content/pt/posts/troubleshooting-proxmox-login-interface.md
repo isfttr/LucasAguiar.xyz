@@ -1,8 +1,8 @@
 ---
 date: 2025-03-13T23:29:45-03:00
 draft: false
-title: "Erros de Login na Interface Web do Proxmox: Solução Passo a Passo [2026]"
-description: "Não consegue logar na interface web do Proxmox? Corrija o 'authentication failure 401': access.cfg ausente, quorum do corosync e restart do pveproxy. Guia [2026]."
+title: "Proxmox Login Falhou? Corrija o Erro 'authentication failure' 401 [2026]"
+description: "Proxmox login falhou com 'authentication failure 401'? Corrija realm errado, usuário bloqueado, ticket expirado, relógio dessincronizado ou access.cfg ausente. Guia [2026]."
 url: ""
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-proxmox-login-error.png
 categories:
@@ -12,74 +12,136 @@ tags:
 - proxmox
 - troubleshooting
 - tutorial
+- autenticacao
+aliases:
+  - /pt/posts/fix-proxmox-web-interface-login-errors/
 ---
 
+Você abre a interface web do Proxmox, digita suas credenciais e nada acontece. O dev tools do navegador mostra um `401` vermelho na aba de rede. Ou pior: seu script de automação que funcionava ontem agora falha com o mesmo código. "authentication failure" é o erro de login mais comum do Proxmox — e na maioria dos casos não é problema de servidor, é um detalhe pequeno de configuração. Este guia cobre todas as causas comuns, de um realm errado a um arquivo de cluster ausente.
 
-Este artigo detalha o processo de diagnóstico de uma falha de autenticação em um cluster Proxmox que impedia os usuários de acessar a interface web. A causa raiz foi identificada como um arquivo `/etc/pve/access.cfg` ausente, essencial para a autenticação de usuários, provavelmente devido a problemas de comunicação no `corosync`. O problema foi resolvido reiniciando o serviço `pve-cluster`, forçando quórum, criando manualmente um arquivo `access.cfg` mínimo e reiniciando o serviço `pveproxy`. As medidas preventivas incluem verificações regulares de integridade do cluster, backups automatizados de arquivos de configuração, garantia de procedimentos adequados de desligamento, manutenção da estabilidade da rede, monitoramento de integridade do armazenamento, aplicação de atualizações do Proxmox e gerenciamento cuidadoso de permissões.
+## O que significa "authentication failure (401)"
 
-## Investigação Inicial
+A API do Proxmox retorna **HTTP 401** com o corpo **`authentication failure`** sempre que o endpoint de login rejeita suas credenciais. Você vai vê-lo em três lugares:
+
+- **Interface web**: a tela de login mostra `Login failed. Please try again` (versões antigas) ou `Login failed: authentication failure` (versões novas) — a mensagem do servidor embutida na caixa vermelha de erro.
+- **Chamadas de API**: `curl` e SDKs recebem `401` com o corpo cru `authentication failure`.
+- **Sessões/console**: com cookie ou ticket expirado, a API responde `permission denied - invalid PVE ticket` (e `invalid PVEVNC ticket` para noVNC/console).
+
+A parte frustrante: o servidor entrega deliberadamente a mesma mensagem genérica para senha errada, usuário inexistente e conta bloqueada — então você precisa checar cada causa em ordem.
+
+## Causas mais comuns (por ordem)
+
+| # | Causa | Pista |
+|---|---|---|
+| 1 | Senha / usuário errados | Troca recente de senha, layout de teclado, caps lock |
+| 2 | Usuário não existe no **realm** selecionado | Logar como `root@pve` quando o usuário só existe como `root@pam` (instalações novas criam o root no realm PAM) |
+| 3 | Usuário bloqueado após tentativas repetidas | Proxmox 8.x bloqueia automaticamente usuários do realm PVE após muitas falhas |
+| 4 | Ticket expirado/inválido | `PVEAuthCookie` velho, restart de serviços, cookie copiado entre máquinas |
+| 5 | Relógio dessincronizado (NTP quebrado) | Tickets são assinados com timestamp; relógio errado invalida todos os tickets imediatamente |
+| 6 | Token de API mal configurado | Formato de header errado, token expirado, `user@realm` errado |
+| 7 | `/etc/pve/access.cfg` ausente/corrompido | Quebra de autenticação no cluster inteiro — veja o caso de cluster abaixo |
+
+## Como corrigir
+
+**1. Confirme o usuário e o realm**
+
+```bash
+pveum user list
+```
+
+Instalações novas do Proxmox autenticam `root` via **Linux PAM standard authentication** (`root@pam`). O usuário `root@pve` é um usuário interno separado, que só existe se alguém o criou. No menu suspenso do login, escolha o realm correto — ou entre como `root@pam`.
+
+**2. Desbloqueie um usuário bloqueado**
+
+```bash
+pveum user unlock root@pve
+```
+
+**3. Redefina a senha de um usuário do realm PVE**
+
+```bash
+pveum passwd root@pve
+```
+
+**4. Reinicie os frontends web** depois de qualquer mudança de autenticação/configuração:
+
+```bash
+systemctl restart pveproxy pvedaemon
+```
+
+**5. Corrija o relógio**
+
+O Proxmox 8 usa chrony por padrão. Se o relógio do servidor estiver com offset maior que a validade do ticket, todo login falha:
+
+```bash
+systemctl enable --now chrony
+systemctl restart chrony
+chronyc tracking      # veja o offset
+chronyc makestep      # se o offset for grande
+```
+
+**6. Tokens de API: confira o formato do header**
+
+O header correto é `Authorization: PVEAPITOKEN=user@realm!tokenid=SECRET`. Erro comum é omitir o realm ou o separador `!`:
+
+```bash
+pveum user token add root@pam mytoken --privsep 0
+# imprime o segredo — guarde agora
+
+curl -H "Authorization: PVEAPITOKEN=root@pam!mytoken=SECRET" \
+     https://<host>:8006/api2/json/version
+```
+
+**7. Acompanhe o log de autenticação ao vivo** enquanto reproduz a falha:
+
+```bash
+journalctl -u pveproxy -f | grep -i authentication
+```
+
+## O caso raro de cluster: /etc/pve/access.cfg ausente
+
+Se nenhum dos comandos acima resolver, a causa raiz pode ser um arquivo `/etc/pve/access.cfg` ausente — essencial para a autenticação de usuários, provavelmente devido a problemas de comunicação no `corosync`. É raro, mas catastrófico, e quebra o login de todo o cluster.
+
+### Investigação
 
 1. **Status dos Serviços:** Verificado o status dos serviços `pve-cluster` e `pveproxy`, que estavam em execução.
 2. **Logs:** Examinados logs para erros relacionados a atualizações do banco de dados RRD.
 3. **Configuração de Autenticação:** Verificado `/etc/pve/user.cfg`.
 4. **Arquivo de Configuração Ausente:** Descoberto que `/etc/pve/access.cfg` estava ausente.
-5. **Interferência do Firewall:** Suspeita de que regras de firewall do Tailscale pudessem estar interferindo. Tentativa de ajuste do iptables.
-
-Aqui estão os comandos usados durante a investigação:
 
 ```bash
-# 1. Verificar status dos serviços
+# 1. Verifique o status dos serviços
 systemctl status pve-cluster
 systemctl status pveproxy
 
-# 2. Verificar logs para erros
+# 2. Verifique os logs em busca de erros
 journalctl -u pveproxy -n 100
 journalctl -u pve-cluster -n 100
-tail -n 100 /var/log/pveproxy/access.log
 
-# 3. Verificar configuração de autenticação
+# 3. Verifique a configuração de autenticação
 cat /etc/pve/user.cfg
 ls -la /etc/pve/user.cfg
 
-# 4. Verificar access.cfg ausente
+# 4. Verifique se o access.cfg está ausente
 ls -la /etc/pve/access.cfg
-file /etc/pve/access.cfg
-
-# 5. Verificar regras de firewall e status do Tailscale
-iptables -L -n -v
-tailscale status
-systemctl status tailscaled
 ```
 
-## Análise da Causa Raiz
+### Solução
 
-A causa principal do problema de login foi a ausência do arquivo `/etc/pve/access.cfg`. Esse arquivo é essencial para a autenticação de usuários no Proxmox. Sua ausência indicava um problema potencial com a configuração do cluster Proxmox, possivelmente relacionado ao serviço `corosync`.
-
-Uma investigação mais aprofundada revelou problemas com conectividade do `corosync` e permissões relacionadas ao `pve-ha-lrm`. Embora o `corosync` estivesse em execução, erros indicavam problemas de comunicação dentro do cluster. O arquivo `/etc/pve/access.cfg` não estava sendo gerado ou preenchido automaticamente, levando a falhas de autenticação.
-
-A verificação do sistema de arquivos em `/etc/pve` mostrou ser um sistema de arquivos FUSE, tornando problemas de armazenamento subjacentes menos prováveis e concentrando a investigação na própria configuração do cluster.
-
-## Solução
-
-As seguintes etapas foram tomadas para resolver o problema:
-
-1. **Reiniciado o serviço `pve-cluster`:** Parado e iniciado o serviço `pve-cluster` para tentar restabelecer a conectividade do cluster.
-2. **Forçado o Quórum:** Esta etapa potencialmente ajudou a restabelecer a liderança do cluster.
-3. **Criado o arquivo `access.cfg`:** Criado manualmente o arquivo `/etc/pve/access.cfg` com conteúdo mínimo.
-4. **Reiniciado o serviço `pveproxy`:** Reiniciado o serviço `pveproxy` para forçá-lo a reconhecer o arquivo `access.cfg` recém-criado.
-
-Aqui estão os comandos usados para implementar a solução:
+1. **Reiniciou o serviço `pve-cluster`:** parou e iniciou para tentar restabelecer a conectividade do cluster.
+2. **Forçou quórum:** `pvecm expected 1` em configuração de nó único restabelece a liderança do cluster.
+3. **Criou o `access.cfg`:** criou manualmente o arquivo com conteúdo mínimo.
+4. **Reiniciou o `pveproxy`:** forçou o reconhecimento do novo arquivo.
 
 ```bash
-# 1. Reiniciar o serviço pve-cluster
+# 1. Reinicie o serviço pve-cluster
 systemctl stop pve-cluster
 systemctl start pve-cluster
-systemctl status pve-cluster
 
-# 2. Forçar quórum em uma configuração de nó único
+# 2. Force o quórum em configuração de nó único
 pvecm expected 1
 
-# 3. Criar arquivo access.cfg mínimo
+# 3. Crie um access.cfg mínimo
 cat > /etc/pve/access.cfg << 'EOF'
 acl:1
 path /
@@ -90,67 +152,30 @@ EOF
 chmod 0640 /etc/pve/access.cfg
 chown root:www-data /etc/pve/access.cfg
 
-# 4. Reiniciar o serviço pveproxy
+# 4. Reinicie o serviço pveproxy
 systemctl restart pveproxy
-systemctl status pveproxy
 ```
 
-Após essas etapas, os usuários conseguiram fazer login na interface web do Proxmox com sucesso.
+Depois desses passos, os usuários conseguiram acessar a interface web do Proxmox com sucesso.
 
-## Notas Adicionais
+## Prevenção
 
-- Se o login ainda falhar após essas etapas, pode ser necessária uma investigação adicional sobre as permissões de usuário e o conteúdo do `access.cfg`. As ferramentas de linha de comando `pveum` podem ser usadas para gerenciar usuários e permissões.
+- **Use tokens de API para automação** em vez do endpoint de ticket — tokens são revogáveis e não expiram como tickets. Veja a [documentação oficial de API](https://pve.proxmox.com/wiki/Proxmox_VE_API) e a [man page do pveum](https://pve.proxmox.com/pve-docs/pveum.1.html).
+- **Mantenha o NTP funcionando** (`chronyc tracking` no seu monitoramento).
+- **Documente a qual realm cada usuário pertence** — a maioria dos mistérios de "authentication failure" é confusão de realm.
+- **Monitore os logs do `pveproxy`** em busca de tentativas repetidas (gatilho de bloqueio).
+- **Faça backup do `/etc/pve` regularmente** para que um `access.cfg` ausente possa ser restaurado rapidamente.
+- **Desligue os nós de forma graciosa** — queda abrupta de energia pode corromper a configuração do cluster.
+- **Mantenha o Proxmox atualizado** e revise permissões em `/etc/pve` com cuidado.
 
-## Medidas Preventivas
-
-Prevenir o erro de "Falha de Autenticação do Proxmox por Ausência de Arquivo de Configuração do Cluster" envolve garantir a estabilidade e o funcionamento adequado do cluster Proxmox e seus arquivos de configuração. Aqui estão algumas estratégias:
-
-1. **Verificações Regulares de Integridade do Cluster:**
-
-  - Implemente monitoramento automatizado da integridade do cluster Proxmox, incluindo verificações de:
-  - Status de quórum do Corosync: Garanta que o cluster mantenha um quórum para evitar inconsistências de configuração.
-  - Status dos serviços: Monitore o status de serviços críticos como `pve-cluster`, `pveproxy`, `corosync`, `pve-ha-lrm` e `pve-ha-crm`.
-  - Análise de logs: Verifique regularmente os logs para erros ou avisos relacionados à comunicação do cluster, autenticação e armazenamento.
-
-2. **Backups de Arquivos de Configuração:**
-
-  - Automatize backups regulares do diretório `/etc/pve`. Isso permite a restauração rápida dos arquivos de configuração em caso de exclusão acidental ou corrupção.
-
-3. **Procedimentos Adequados de Desligamento:**
-
-  - Garanta que todos os nós do Proxmox sejam desligados adequadamente. Evite desligamentos abruptos ou quedas de energia, pois podem levar à corrupção de dados ou inconsistências de configuração.
-
-4. **Estabilidade da Rede:**
-
-  - Mantenha uma conexão de rede estável e confiável entre os nós do Proxmox. Interrupções na rede podem levar à instabilidade do cluster e problemas de configuração.
-
-5. **Monitoramento de Integridade do Armazenamento:**
-
-  - Monitore a integridade do armazenamento subjacente usado pelo cluster Proxmox. Falhas de armazenamento podem levar à perda de dados e corrupção de configuração.
-
-6. **Atualizações e Patches do Proxmox:**
-
-  - Mantenha a instalação do Proxmox atualizada com as últimas atualizações e patches de segurança.
-
-7. **Gerenciamento de Permissões:**
-
-  - Revise e gerencie as permissões de arquivos dentro do diretório `/etc/pve`. Garanta que os usuários e grupos corretos tenham as permissões necessárias.
-
-8. **Consciência do Cluster durante a Manutenção:**
-
-  - Ao realizar manutenção em qualquer nó do cluster, garanta que os outros nós estejam cientes da manutenção e possam manter o quórum.
-
-9. **Implementar Redundância**
-
-  - Considere ter múltiplos nós. Se `/etc/pve/access.cfg` estiver ausente em um nó, ele pode ser copiado de outro.
-
-Implementando essas medidas preventivas, você pode reduzir significativamente o risco de encontrar o erro de "Falha de Autenticação do Proxmox por Ausência de Arquivo de Configuração do Cluster" e garantir a estabilidade e confiabilidade do seu cluster Proxmox.
+Se ainda estiver travado, estes tópicos da comunidade cobrem o mesmo erro em profundidade: [authentication failure](https://forum.proxmox.com/threads/authentication-failure.178081/) e [API ticket 401 authentication failure](https://forum.proxmox.com/threads/api-ticket-401-authentication-failure.106758/).
 
 Leia também:
 
-- [Proxmox 401 'authentication failure': Corrija Erros de Login e API [2026]]({{< relref "posts/proxmox-401-authentication-failure-fix-2026/" >}})
-- [Oracle Cloud Free Tier 2026: Ainda Vale a Pena? Guia Completo + Alternativas]({{< relref "posts/oracle_cloud_vps/" >}})
-- [Guia Completo: Como Integrar o Beehiiv ao Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+- [Como migrar do Proxmox VE 8 para 9: passo a passo]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
+- [Proxmox Backup Server: instalação via community-scripts]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [Como instalar o Proxmox VE no Mac Mini 2018 (T2 chip)]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
 
 ---
-Você pode me contatar sobre este e outros tópicos pelo e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.
+
+Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>

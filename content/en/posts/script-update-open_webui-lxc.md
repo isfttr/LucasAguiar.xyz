@@ -1,6 +1,6 @@
 ---
 date: 2025-03-08T03:47:39.000Z
-draft: false
+draft: true
 title: "Update Open WebUI in a Proxmox LXC: Bash Script + Cron [2026]"
 description: "How to update Open WebUI inside a Proxmox LXC with a single bash script: git pull, build and restart. Includes cron setup for automatic updates [2026]."
 url: ''
@@ -105,7 +105,7 @@ crontab -e
 Read also:
 
 - [How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
-- [Fix Proxmox Web Interface Login Errors: Missing access.cfg [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Proxmox Login Failed? Fix 'authentication failure' 401 [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 - [Open WebUI Missing Custom Models? How to Fix the Bug [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 
 ---

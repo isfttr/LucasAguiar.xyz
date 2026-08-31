@@ -1,8 +1,8 @@
 ---
 date: 2025-03-14T02:29:45.000Z
 draft: false
-title: "Fix Proxmox Web Interface Login Errors: Missing access.cfg [2026]"
-description: "Can't login to Proxmox web interface? Fix 'authentication failure 401': missing access.cfg, corosync quorum, pveproxy restart. Guide [2026]."
+title: "Proxmox Login Failed? Fix 'authentication failure' 401 [2026]"
+description: "Proxmox login failed with 'authentication failure 401'? Fix wrong realm, blocked user, expired ticket, unsynced clock or missing access.cfg. Step-by-step [2026]."
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-proxmox-login-error.png
 categories:
@@ -12,24 +12,103 @@ tags:
   - proxmox
   - troubleshooting
   - tutorial
+  - autenticacao
 translation_source_hash: 3144fa007970f019b49e826e2575534226424bf042c94bc85029dfa6a5355be0
-slug: fix-proxmox-web-interface-login-errors
 aliases:
-  - /posts/troubleshooting-proxmox-login-interface/
+  - /posts/fix-proxmox-web-interface-login-errors/
 ---
 
+You open the Proxmox web interface, enter your credentials, and nothing happens. The browser's dev tools show a red `401` in the network tab. Or worse: your automation script that worked yesterday now fails with the same code. "authentication failure" is Proxmox's most common login error — and in most cases it's not a server problem, it's a small configuration detail. This guide covers every common cause, from a wrong realm to a missing cluster file.
 
-This article details a troubleshooting process for a Proxmox cluster authentication failure that prevented users from logging into the web interface. The root cause was identified as a missing `/etc/pve/access.cfg` file, crucial for user authentication, likely due to `corosync` communication issues. The problem was resolved by restarting the `pve-cluster` service, forcing quorum, manually creating a minimal `access.cfg` file, and restarting the `pveproxy` service. Preventative measures include regular cluster health checks, automated configuration file backups, ensuring proper shutdown procedures, maintaining network stability, monitoring storage health, applying Proxmox updates, and careful permissions management.
+## What "authentication failure (401)" means
 
-## Initial Investigation
+The Proxmox API returns **HTTP 401** with the body **`authentication failure`** whenever the login endpoint rejects your credentials. You'll see it in three places:
+
+- **Web interface**: the login screen shows `Login failed. Please try again` (old versions) or `Login failed: authentication failure` (new versions) — the server message embedded in the red error box.
+- **API calls**: `curl` and SDKs receive `401` with the raw body `authentication failure`.
+- **Sessions/console**: with an expired cookie or ticket, the API responds `permission denied - invalid PVE ticket` (and `invalid PVEVNC ticket` for noVNC/console).
+
+The frustrating part: the server deliberately returns the same generic message for wrong password, nonexistent user, and blocked account — so you need to check each cause in order.
+
+## Most common causes (in order)
+
+| # | Cause | Clue |
+|---|---|---|
+| 1 | Wrong password / user | Recent password change, keyboard layout, caps lock |
+| 2 | User does not exist in the selected **realm** | Logging in as `root@pve` when the user only exists as `root@pam` (new installs create root in the PAM realm) |
+| 3 | User blocked after repeated attempts | Proxmox 8.x automatically blocks users from the PVE realm after too many failures |
+| 4 | Expired/invalid ticket | Old `PVEAuthCookie`, service restart, cookie copied between machines |
+| 5 | Unsynchronized clock (broken NTP) | Tickets are signed with a timestamp; wrong clock invalidates all tickets immediately |
+| 6 | Misconfigured API token | Wrong header format, expired token, wrong `user@realm` |
+| 7 | `/etc/pve/access.cfg` missing/corrupted | Breaks authentication on the entire cluster — see the cluster case below |
+
+## How to fix it
+
+**1. Confirm the user and the realm**
+
+```bash
+pveum user list
+```
+
+New Proxmox installs authenticate `root` via **Linux PAM standard authentication** (`root@pam`). The `root@pve` user is a separate internal user that only exists if someone created it. In the login dropdown, choose the correct realm — or log in as `root@pam`.
+
+**2. Unlock a blocked user**
+
+```bash
+pveum user unlock root@pve
+```
+
+**3. Reset the password of a PVE realm user**
+
+```bash
+pveum passwd root@pve
+```
+
+**4. Restart the web frontends** after any authentication/configuration change:
+
+```bash
+systemctl restart pveproxy pvedaemon
+```
+
+**5. Fix the clock**
+
+Proxmox 8 uses chrony by default. If the server clock has an offset greater than the ticket's validity, every login fails:
+
+```bash
+systemctl enable --now chrony
+systemctl restart chrony
+chronyc tracking      # check the offset
+chronyc makestep      # if the offset is large
+```
+
+**6. API tokens: check the header format**
+
+The correct header is `Authorization: PVEAPITOKEN=user@realm!tokenid=SECRET`. A common mistake is omitting the realm or the `!` separator:
+
+```bash
+pveum user token add root@pam mytoken --privsep 0
+# prints the secret — save it now
+
+curl -H "Authorization: PVEAPITOKEN=root@pam!mytoken=SECRET" \
+     https://<host>:8006/api2/json/version
+```
+
+**7. Track the authentication log live** while reproducing the failure:
+
+```bash
+journalctl -u pveproxy -f | grep -i authentication
+```
+
+## The rare cluster case: missing /etc/pve/access.cfg
+
+If none of the commands above fix it, the root cause may be a missing `/etc/pve/access.cfg` file — crucial for user authentication, likely due to `corosync` communication issues. It's rare but catastrophic, and it breaks login for the entire cluster.
+
+### Investigation
 
 1. **Service Status:** Checked the status of `pve-cluster` and `pveproxy` services, which were running.
 2. **Logs:** Examined logs for errors related to RRD database updates.
 3. **Authentication Configuration:** Verified `/etc/pve/user.cfg`.
 4. **Missing Configuration File:** Discovered that `/etc/pve/access.cfg` was missing.
-5. **Firewall Interference:** Suspected Tailscale firewall rules might be interfering. Attempted to adjust iptables.
-
-Here are the commands used during the investigation:
 
 ```bash
 # 1. Check service status
@@ -39,7 +118,6 @@ systemctl status pveproxy
 # 2. Check logs for errors
 journalctl -u pveproxy -n 100
 journalctl -u pve-cluster -n 100
-tail -n 100 /var/log/pveproxy/access.log
 
 # 3. Verify authentication configuration
 cat /etc/pve/user.cfg
@@ -47,38 +125,19 @@ ls -la /etc/pve/user.cfg
 
 # 4. Check for missing access.cfg
 ls -la /etc/pve/access.cfg
-file /etc/pve/access.cfg
-
-# 5. Check firewall rules and Tailscale status
-iptables -L -n -v
-tailscale status
-systemctl status tailscaled
 ```
 
-## Root Cause Analysis
+### Solution
 
-The primary cause of the login issue was the absence of the `/etc/pve/access.cfg` file. This file is crucial for user authentication in Proxmox. Its absence indicated a potential problem with the Proxmox cluster configuration, possibly related to the `corosync` service.
-
-Further investigation revealed issues with `corosync` connectivity and permissions related to `pve-ha-lrm`. Although `corosync` was running, errors indicated communication problems within the cluster. The `/etc/pve/access.cfg` file wasn't being automatically generated or populated, leading to authentication failures.
-
-The filesystem check on `/etc/pve` showed it was a FUSE filesystem, making underlying storage issues less likely, focusing the investigation on the cluster configuration itself.
-
-## Solution
-
-The following steps were taken to resolve the issue:
-
-1. **Restarted `pve-cluster` service:** Stopped and started the `pve-cluster` service to attempt to re-establish cluster connectivity.
-2. **Forced Quorum:** This step potentially helped to re-establish cluster leadership.
-3. **Created `access.cfg` file:** Manually created the `/etc/pve/access.cfg` file with minimal content.
-4. **Restarted `pveproxy` service:** Restarted the `pveproxy` service to force it to recognize the newly created `access.cfg` file.
-
-Here are the commands used to implement the solution:
+1. **Restarted `pve-cluster` service:** stopped and started it to attempt to re-establish cluster connectivity.
+2. **Forced Quorum:** `pvecm expected 1` in a single-node setup re-establishes cluster leadership.
+3. **Created `access.cfg`:** manually created the file with minimal content.
+4. **Restarted `pveproxy`:** forced it to recognize the new file.
 
 ```bash
 # 1. Restart pve-cluster service
 systemctl stop pve-cluster
 systemctl start pve-cluster
-systemctl status pve-cluster
 
 # 2. Force quorum in a single-node setup
 pvecm expected 1
@@ -96,67 +155,28 @@ chown root:www-data /etc/pve/access.cfg
 
 # 4. Restart pveproxy service
 systemctl restart pveproxy
-systemctl status pveproxy
 ```
 
 After these steps, users were able to log in to the Proxmox web interface successfully.
 
-## Additional Notes
+## Prevention
 
-- If the login still fails after these steps, further investigation into user permissions and the contents of `access.cfg` may be required. The `pveum` command-line tools can be used to manage users and permissions.
+- **Use API tokens for automation** instead of the ticket endpoint — tokens are revocable and do not expire like tickets. See the [official API documentation](https://pve.proxmox.com/wiki/Proxmox_VE_API) and the [pveum man page](https://pve.proxmox.com/pve-docs/pveum.1.html).
+- **Keep NTP working** (`chronyc tracking` in your monitoring).
+- **Document which realm each user belongs to** — most "authentication failure" mysteries are realm confusion.
+- **Monitor `pveproxy` logs** for repeated attempts (blocking trigger).
+- **Back up `/etc/pve` regularly** so a missing `access.cfg` can be restored quickly.
+- **Shut down nodes gracefully** — abrupt power loss can corrupt cluster config.
+- **Keep Proxmox updated** and review permissions in `/etc/pve` carefully.
 
-## Prevention measures
-
-Preventing the "Proxmox Authentication Failure due to Missing Cluster Configuration File" error involves ensuring the stability and proper functioning of the Proxmox cluster and its configuration files. Here are several strategies:
-
-1. **Regular Cluster Health Checks:**
-
-  - Implement automated monitoring of the Proxmox cluster's health. This should include checks for:
-
-  - Corosync quorum status: Ensure the cluster maintains a quorum to prevent configuration inconsistencies.
-  - Service status: Monitor the status of critical services like `pve-cluster`, `pveproxy`, `corosync`, `pve-ha-lrm`, and `pve-ha-crm`.
-  - Log analysis: Regularly scan logs for errors or warnings related to cluster communication, authentication, and storage.
-
-2. **Configuration File Backups:**
-
-  - Automate regular backups of the `/etc/pve` directory. This allows for quick restoration of configuration files in case of accidental deletion or corruption.
-
-3. **Proper Shutdown Procedures:**
-
-  - Ensure that all Proxmox nodes are shut down gracefully. Avoid abrupt shutdowns or power outages, as these can lead to data corruption or configuration inconsistencies.
-
-4. **Network Stability:**
-
-  - Maintain a stable and reliable network connection between the Proxmox nodes. Network disruptions can lead to cluster instability and configuration issues.
-
-5. **Storage Health Monitoring:**
-
-  - Monitor the health of the underlying storage used by the Proxmox cluster. Storage failures can lead to data loss and configuration corruption.
-
-6. **Proxmox Updates and Patches:**
-
-  - Keep the Proxmox installation up to date with the latest updates and security patches. These updates often include bug fixes and improvements that can enhance cluster stability.
-
-7. **Permissions Management:**
-
-  - Review and manage file permissions within the `/etc/pve` directory. Ensure that the correct users and groups have the necessary permissions to access and modify configuration files.
-  - Avoid making manual changes to files in `/etc/pve` unless absolutely necessary, and always back up the original file before making any changes.
-
-8. **Cluster Awareness during Maintenance:**
-
-  - When performing maintenance on any node in the cluster, ensure that the other nodes are aware of the maintenance and can maintain quorum. Consider using Proxmox's built-in maintenance mode.
-
-9. **Implement redundancy**
-
-  - Consider having multiple nodes. If `/etc/pve/access.cfg` is missing on one node, it can be copied over from another.
-
-By implementing these preventative measures, you can significantly reduce the risk of encountering the "Proxmox Authentication Failure due to Missing Cluster Configuration File" error and ensure the stability and reliability of your Proxmox cluster.
+If you're still stuck, these community threads cover the same error in depth: [authentication failure](https://forum.proxmox.com/threads/authentication-failure.178081/) and [API ticket 401 authentication failure](https://forum.proxmox.com/threads/api-ticket-401-authentication-failure.106758/).
 
 Read also:
 
-- [Proxmox 401 'authentication failure': Fix Login and API Errors [2026]]({{< relref "posts/proxmox-401-authentication-failure-fix-2026/" >}})
-- [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
-- [Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+- [How to migrate from Proxmox VE 8 to 9: step-by-step guide]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
+- [Proxmox Backup Server: installation via community-scripts]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [How to install Proxmox VE on Mac Mini 2018 (T2 chip)]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
 
 ---
-You can reach out to contact me about this and other topics at my email **<contact@lucasaguiar.xyz>** or by filling the form below.
+
+Feel free to get in touch to talk about this and other topics via email <contact@lucasaguiar.xyz>

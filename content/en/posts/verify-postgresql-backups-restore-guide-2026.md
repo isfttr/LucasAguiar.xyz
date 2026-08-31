@@ -1,6 +1,6 @@
 ---
 date: 2026-08-27T15:04:56-03:00
-draft: true
+draft: false
 title: "How to Verify Your PostgreSQL Backups Actually Restore [2026]"
 description: "Step-by-step guide to testing PostgreSQL backups: validate pg_dump files, restore into scratch databases, automate restore drills with cron, and track RPO/RTO. Includes pgBackRest and restoredrill."
 url: ""

@@ -1,6 +1,6 @@
 ---
 date: 2026-08-25T15:04:59-03:00
-draft: true
+draft: false
 title: "How to Monitor a Linux VPS: Lightweight Tools Compared [2026]"
 description: "Practical guide to monitoring a Linux VPS or homelab server with minimal RAM: btop, Glances, Netdata, node_exporter and vpsmon compared, with real setup steps for small machines."
 featured_image: ""

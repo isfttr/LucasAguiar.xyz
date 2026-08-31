@@ -1,8 +1,8 @@
 ---
 date: 2025-04-10T16:36:59.000Z
 draft: false
-title: 'GitButler Review 2026: Duas Semanas Substituindo Meu Fluxo de Trabalho Git'
-description: 'Review honesto do GitButler em 2026 após duas semanas substituindo meu fluxo de trabalho Git: virtual branches, GitButler vs jujutsu, o que funciona e o que não.'
+title: 'GitButler Review 2026: Meu Veredito Honesto Após 2 Semanas'
+description: 'Review honesto do GitButler em 2026 após duas semanas substituindo meu fluxo de trabalho Git: virtual branches, GitButler vs jujutsu, o que funciona e o que não. Veredito no final.'
 url: ''
 featured_image: 'https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-gitbutler.png'
 categories:
