@@ -27,7 +27,7 @@ Read also:
 
 - [Open AI vs. frontier models: the hidden cost of your data [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
 - [Open AI vs. frontier models: the hidden cost of your data [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
-- [Thoughts on the hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})
+- [Open AI vs. frontier models: the hidden cost of your data [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
 
 ---
 

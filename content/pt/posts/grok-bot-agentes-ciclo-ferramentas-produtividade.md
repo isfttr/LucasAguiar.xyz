@@ -25,7 +25,7 @@ Leia também:
 
 - [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
 - [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
-- [Pensamentos sobre o hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})
+- [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T16:37:38.631Z",
+  "last_updated": "2026-09-01T14:06:03.697Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -202,7 +202,7 @@
       ],
       "categories": [],
       "description_en": "For the first time I tried to break with ChatGPT and Copilot to see what I could come up with.",
-      "content_hash_en": "7c15be9280da8f72e084bb7c2094b2676364e85095889075497904bd0672697e",
+      "content_hash_en": "a5ed8b84a52a39b8bdce99157d2efee2d9266c377df23b15fdd74a510b53401e",
       "backlinks": [
         "10-obsidian-copilot",
         "how-to-update-open-webui-2026",
@@ -499,7 +499,7 @@
         "tutorial"
       ],
       "description_en": "Proxmox login failed with 'authentication failure 401'? Fix wrong realm, blocked user, expired ticket, unsynced clock or missing access.cfg. Step-by-step [2026].",
-      "content_hash_en": "e51a17f03db2bd76a64d56b208b19675bc021d98e69aace0849b0d1655a95cfe",
+      "content_hash_en": "98df9b8a35fe6023d03d2bc66e199512dd3da31bb532b10c3e7f9ca97fb600c5",
       "backlinks": [
         "migracao-proxmox-8-9-2026",
         "proxmox-backup-server-community-scripts-2026",
@@ -2358,7 +2358,7 @@
         "article"
       ],
       "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and LXC on Proxmox. Make a backup before, avoid post-update bugs and automate with Watchtower.",
-      "content_hash_en": "28daf9c799371962b315103b48bb2741c34690d1d01322cd6b25f6ca46695488",
+      "content_hash_en": "194355c1b9b6ee47cbe31509e695c917c04d9f72718c6276d12c189014ca0271",
       "backlinks": [
         "fix-custom-models-open-webui",
         "containers-vs-vms-complete-guide-2026",
@@ -2601,11 +2601,11 @@
         "article"
       ],
       "description_en": "Grok Bot promises a team of AI agents that work 24/7 and talk to each other — but the cycle of hype, adoption by competitors, and being forgotten repeats itself.",
-      "content_hash_en": "86f05dae13877171bf0c3388e388e73fc2646719c64430cbef3d16e05b38c7ab",
+      "content_hash_en": "36596d82c212a2591d34905211e343f13bb941368bb5ea735ff93aa018b27042",
       "backlinks": [
         "modelos-ia-abertos-vs-fronteira-dados-2026",
         "modelos-ia-abertos-vs-fronteira-dados-2026",
-        "ai-pin"
+        "modelos-ia-abertos-vs-fronteira-dados-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2626,7 +2626,7 @@
         "article"
       ],
       "description_en": "Practical guide to monitoring a Linux VPS or homelab server with minimal RAM: btop, Glances, Netdata, node_exporter and vpsmon compared, with real setup steps for small machines.",
-      "content_hash_en": "5e2a4dbba6a3c251060fc0045241f030e033cbee57b210f7457dac1189f5d549",
+      "content_hash_en": "4acb0e4e7f1ff2c940d578506fd58a8f6ef0303fc1d6368ac39de47ada814c1b",
       "backlinks": [
         "detect-block-bot-traffic-selfhosted-guide-2026",
         "containers-vs-vms-complete-guide-2026",
@@ -2650,11 +2650,11 @@
         "article"
       ],
       "description_en": "Step-by-step guide to testing PostgreSQL backups: validate pg_dump files, restore into scratch databases, automate restore drills with cron, and track RPO/RTO. Includes pgBackRest and restoredrill.",
-      "content_hash_en": "9c529fa7ba2982996898b3a6e43e9c05c1e46a90fa491ad9d971ec0f38937438",
+      "content_hash_en": "450bcb324aff68d2684849da6839530e2f243b0472f5305970eb474235cc5ce5",
       "backlinks": [
         "proxmox-backup-server-community-scripts-2026",
-        "postgresql-performance-best-practices-homelab-2026",
-        "sqlite-wal-corruption-guide-2026"
+        "proxmox-backup-server-community-scripts-2026",
+        "postgresql-performance-best-practices-homelab-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
