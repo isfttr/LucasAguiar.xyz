@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T14:06:03.697Z",
+  "last_updated": "2026-09-01T18:04:15.557Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2601,7 +2601,7 @@
         "article"
       ],
       "description_en": "Grok Bot promises a team of AI agents that work 24/7 and talk to each other — but the cycle of hype, adoption by competitors, and being forgotten repeats itself.",
-      "content_hash_en": "36596d82c212a2591d34905211e343f13bb941368bb5ea735ff93aa018b27042",
+      "content_hash_en": "48e3514136a3b0b2b01042aeb0a2ad6a486138ad529a1bfc82f5dac6dc0d220b",
       "backlinks": [
         "modelos-ia-abertos-vs-fronteira-dados-2026",
         "modelos-ia-abertos-vs-fronteira-dados-2026",
@@ -2650,11 +2650,11 @@
         "article"
       ],
       "description_en": "Step-by-step guide to testing PostgreSQL backups: validate pg_dump files, restore into scratch databases, automate restore drills with cron, and track RPO/RTO. Includes pgBackRest and restoredrill.",
-      "content_hash_en": "450bcb324aff68d2684849da6839530e2f243b0472f5305970eb474235cc5ce5",
+      "content_hash_en": "c1f283efb3dae34d3024338c56fee8458c945f8fb8bd612f162d54df71274da4",
       "backlinks": [
         "proxmox-backup-server-community-scripts-2026",
         "proxmox-backup-server-community-scripts-2026",
-        "postgresql-performance-best-practices-homelab-2026"
+        "proxmox-backup-server-community-scripts-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
