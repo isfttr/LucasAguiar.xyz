@@ -14,7 +14,7 @@ tags:
   - guide
 slug: patente-vs-modelo-utilidade-brasil
 translation_source_hash: fa137d2472faaabc0de4b3938d887427035c653e18d7244f6b5a70c2cda8899a
-scheduledAt: 2026-09-03T13:14:42.032Z
+scheduledAt: 2026-09-03T14:14:00.000Z
 ---
 Você construiu um produto — ou uma melhoria em algo que já existe — e agora precisa decidir: depositar como **patente de invenção (PI)** ou como **modelo de utilidade (MU)**? Escolher errado pode custar 5 anos de proteção, taxas desnecessárias ou um pedido indeferido que exigia um nível de inventividade que o seu objeto simplesmente não possui.
 
