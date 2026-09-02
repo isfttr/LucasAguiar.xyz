@@ -1,6 +1,6 @@
 ---
 date: 2026-09-01T11:00:00-03:00
-draft: true
+draft: false
 title: "Radares Tecnológicos do INPI: Guia Completo de Inteligência de Patentes Gratuita"
 description: "Guia completo dos Radares Tecnológicos do INPI: estudos gratuitos de prospecção de patentes por setor. Saiba onde acessar, como interpretar os dados e usar na estratégia."
 featured_image: ""
@@ -13,7 +13,6 @@ tags:
   - inteligencia-competitiva
   - inovacao
 ---
-
 Em agosto de 2026, o INPI divulgou um estudo com um número que pouca gente de fora do mundo de patentes consegue dimensionar: **6,3 mil pedidos de patente relacionados a agricultura sustentável depositados no Brasil desde 2012**. O levantamento faz parte dos Radares Tecnológicos, uma série de estudos públicos e gratuitos do Instituto que mapeia o patenteamento por setor — e que continua sendo uma das ferramentas de inteligência competitiva mais subutilizadas do ecossistema brasileiro de inovação.
 
 Este guia explica o que são os Radares Tecnológicos, o que o acervo cobre, como interpretar os dados e como usá-los na prática para orientar decisões de P&D, investimento e estratégia de PI.
