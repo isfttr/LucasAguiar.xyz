@@ -1,9 +1,9 @@
 ---
-date: 2026-08-05T14:00:00.000Z
+date: 2026-09-03T14:00:00.000Z
 draft: true
-title: 'Patente vs Modelo de Utilidade no Brasil: Diferenças, Prazos e Custos [2026]'
-description: 'Patente de invenção (PI) vs modelo de utilidade (MU) no INPI do Brasil: requisitos legais de acordo com a LPI, prazos de proteção, taxas de 2026, exemplos práticos e como escolher o tipo de depósito adequado.'
-featured_image: ''
+title: "Patente vs Modelo de Utilidade no Brasil: Diferenças, Prazos e Custos [2026]"
+description: "Patente de invenção (PI) vs modelo de utilidade (MU) no INPI do Brasil: requisitos legais de acordo com a LPI, prazos de proteção, taxas de 2026, exemplos práticos e como escolher o tipo de depósito adequado."
+featured_image: ""
 categories:
   - article
 tags:
@@ -14,6 +14,7 @@ tags:
   - guide
 slug: patente-vs-modelo-utilidade-brasil
 translation_source_hash: fa137d2472faaabc0de4b3938d887427035c653e18d7244f6b5a70c2cda8899a
+scheduledAt: 2026-09-03T13:14:42.032Z
 ---
 Você construiu um produto — ou uma melhoria em algo que já existe — e agora precisa decidir: depositar como **patente de invenção (PI)** ou como **modelo de utilidade (MU)**? Escolher errado pode custar 5 anos de proteção, taxas desnecessárias ou um pedido indeferido que exigia um nível de inventividade que o seu objeto simplesmente não possui.
 
