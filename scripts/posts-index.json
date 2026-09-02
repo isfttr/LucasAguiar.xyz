@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T13:13:55.658Z",
+  "last_updated": "2026-09-02T13:16:22.463Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2655,6 +2655,30 @@
         "proxmox-backup-server-community-scripts-2026",
         "proxmox-backup-server-community-scripts-2026",
         "proxmox-backup-server-community-scripts-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "radares-tecnologicos-inpi-guia-completo": {
+      "slug": "radares-tecnologicos-inpi-guia-completo",
+      "title_en": "INPI Technology Radars: Complete Guide to Free Patent Intelligence",
+      "title_pt": "Radares Tecnológicos do INPI: Guia Completo de Inteligência de Patentes Gratuita",
+      "tags": [
+        "inpi",
+        "patentes",
+        "prospeccao-tecnologica",
+        "inteligencia-competitiva",
+        "inovacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to INPI's Technological Radars: free patent prospecting studies by sector. Learn where to access, how to interpret the data and use it in your strategy.",
+      "content_hash_en": "86c2d31e94f82c526a7dd236fb1b2acc188006f34f3fe3783cbcc3c21f8e5659",
+      "backlinks": [
+        "busca-internacional-patentes-patentscope-espacenet-google-2026",
+        "mapa-global-patentes-pct-2025-brasil",
+        "inpi-credenciamento-busca-anterioridade-patentes"
       ],
       "backlink_source": "file",
       "last_processed": null
