@@ -1,7 +1,7 @@
 ---
-date: 2026-09-03T11:07:31-03:00
+date: 2026-09-07T14:07:00.000Z
 draft: true
-title: "Quanto Tempo Demora para Registrar uma Marca no INPI? Etapas e Prazos [2026]"
+title: Quanto Tempo Demora para Registrar uma Marca no INPI? Etapas e Prazos [2026]
 description: "Guia: quanto tempo demora para registrar uma marca no INPI em 2026. Etapas do exame, prazos legais de oposição, exigência e recurso e a reforma do fluxo."
 featured_image: ""
 categories:
@@ -12,8 +12,8 @@ tags:
   - propriedade-intelectual
   - guia
   - lpi
+scheduledAt: 2026-09-07T18:43:00.000Z
 ---
-
 Não existe resposta única para "quanto tempo demora para registrar uma marca no INPI": o prazo total depende de quantas etapas o seu pedido vai atravessar — e de dois fatores que você não controla (oposições de terceiros e a fila do próprio Instituto). O que dá para responder com precisão é o desenho do processo: são etapas bem definidas, com prazos legais fixos para cada ato. Este guia percorre o fluxo completo, da busca de anterioridade ao certificado, e explica a reforma que o INPI apresentou em agosto de 2026 para mudar esse desenho.
 
 > **Aviso de contexto (set/2026):** em 19/08/2026 o INPI apresentou às partes interessadas uma **proposta de alteração do fluxo de exame** de marcas (nova etapa antes da oposição). Ainda é proposta — o cronograma oficial prevê AIR e consulta pública em 2027. O fluxo descrito abaixo é o que está **em vigor hoje**; a seção final detalha o que pode mudar.
