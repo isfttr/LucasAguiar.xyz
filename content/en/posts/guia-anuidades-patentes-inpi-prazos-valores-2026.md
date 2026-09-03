@@ -1,9 +1,9 @@
 ---
 date: 2026-09-04T14:00:00.000Z
-draft: true
-title: 'Complete Guide to Patent Annuities at INPI: Deadlines, Fees, and How to Pay [2026]'
-description: 'Complete guide to patent annuities at INPI: when to pay, 2026 fee table by patent type and age range, how to issue the GRU, grace periods, restoration, and the new Patent Services Module.'
-featured_image: ''
+draft: false
+title: "Complete Guide to Patent Annuities at INPI: Deadlines, Fees, and How to Pay [2026]"
+description: "Complete guide to patent annuities at INPI: when to pay, 2026 fee table by patent type and age range, how to issue the GRU, grace periods, restoration, and the new Patent Services Module."
+featured_image: ""
 categories:
   - article
 tags:
@@ -13,7 +13,6 @@ tags:
   - propriedade-intelectual
   - guia
   - custos
-scheduledAt: 2026-09-03T13:15:47.400Z
 slug: patent-annuities-inpi-deadlines-amounts-pay
 translation_source_hash: 0d149b4e5b85adb16507d205ed15fb038b3909457f738a42896c3f20c30c907a
 ---
