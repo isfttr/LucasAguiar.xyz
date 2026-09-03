@@ -93,11 +93,11 @@ INPI's Technological Radars are probably the best free patent intelligence resou
 
 For those who work with innovation, the recommended move is simple: find the radar for your sector, read the executive summary, explore the data dashboard, and turn the numbers into decisions — for R&D, partnerships, or positioning. The next radar may be closer to your market than you imagine.
 
-Also read:
+Read also:
 
-- [International Patent Search: Complete Guide to PATENTSCOPE, Espacenet, and Google Patents [2026]]({{< relref "posts/busca-internacional-patentes-patentscope-espacenet-google-2026/" >}})
+- [International Patent Search: Complete Guide to PATENTSCOPE, Espacenet and Google Patents [2026]]({{< relref "posts/busca-internacional-patentes-patentscope-espacenet-google-2026/" >}})
 - [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [INPI will pay R$ 1,025 for patent searches: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 
 ---
 
