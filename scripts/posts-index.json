@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T18:43:49.041Z",
+  "last_updated": "2026-09-04T14:15:25.230Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2679,6 +2679,31 @@
         "busca-internacional-patentes-patentscope-espacenet-google-2026",
         "mapa-global-patentes-pct-2025-brasil",
         "inpi-credenciamento-busca-anterioridade-patentes"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "guia-anuidades-patentes-inpi-prazos-valores-2026": {
+      "slug": "guia-anuidades-patentes-inpi-prazos-valores-2026",
+      "title_en": "Complete Guide to Patent Annuities at INPI: Deadlines, Fees, and How to Pay [2026]",
+      "title_pt": "Guia Completo de Anuidades de Patentes no INPI: Prazos, Valores e Como Pagar [2026]",
+      "tags": [
+        "patentes",
+        "inpi",
+        "anuidades",
+        "propriedade-intelectual",
+        "guia",
+        "custos"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to patent annuities at INPI: when to pay, 2026 fee table by patent type and age range, how to issue the GRU, grace periods, restoration, and the new Patent Services Module.",
+      "content_hash_en": "1bc1bceaa8e5cb331e5c7db4b64146ab066a6d6b474ce10306817a242d35713d",
+      "backlinks": [
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
+        "guia-deposito-patente-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
