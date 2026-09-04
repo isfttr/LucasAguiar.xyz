@@ -1,6 +1,6 @@
 ---
 date: 2026-09-04T14:00:00.000Z
-draft: true
+draft: false
 title: "Guia Completo de Anuidades de Patentes no INPI: Prazos, Valores e Como Pagar [2026]"
 description: "Guia completo sobre anuidades de patentes no INPI: quando pagar, tabela de valores 2026 por tipo de patente e faixa etária, como emitir a GRU, prazos de graça, restauração e o novo Módulo de Serviços de Patentes."
 featured_image: ""
@@ -13,7 +13,6 @@ tags:
   - propriedade-intelectual
   - guia
   - custos
-scheduledAt: 2026-09-03T13:15:47.400Z
 ---
 Manter uma patente viva no Brasil custa dinheiro todo ano. A anuidade (ou retribuição anual) é a taxa de manutenção que o titular deve pagar ao INPI para evitar a extinção do pedido ou da patente concedida. O não pagamento é a causa número 1 de extinção de patentes no Brasil — e é também a mais evitável.
 
