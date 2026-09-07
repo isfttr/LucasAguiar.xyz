@@ -124,9 +124,9 @@ Se aprovada, a reforma muda o jogo para os dois lados: para **depositantes**, a 
 
 Leia também:
 
-- [Quanto Custa Registrar uma Marca no INPI em 2026? Tabela Completa]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Busca de Anterioridade de Marcas no INPI: Guia Completo]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
-- [Como Consultar o Andamento de um Processo no INPI]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Busca de Anterioridade de Marcas no INPI: Guia Completo Passo a Passo]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
 ---
 

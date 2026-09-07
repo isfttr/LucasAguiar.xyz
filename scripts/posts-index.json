@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T14:15:25.230Z",
+  "last_updated": "2026-09-07T18:44:08.015Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2698,12 +2698,36 @@
       "categories": [
         "article"
       ],
-      "description_en": "Complete guide to patent annuities at INPI: when to pay, 2026 fee table by patent type and age range, how to issue the GRU, grace periods, restoration, and the new Patent Services Module.",
-      "content_hash_en": "1bc1bceaa8e5cb331e5c7db4b64146ab066a6d6b474ce10306817a242d35713d",
+      "description_en": "Complete guide to patent annuities at INPI: when to pay, 2026 fee schedule by patent type and age bracket, how to issue the GRU, grace periods, restoration, and the new Patent Services Module.",
+      "content_hash_en": "744f0d96f373d267d987a0fe6b32aaa5beb11f67b748dcb61e5e4eed7d422991",
       "backlinks": [
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
         "guia-deposito-patente-inpi-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "quanto-tempo-demora-para-registrar-marca-inpi-2026": {
+      "slug": "quanto-tempo-demora-para-registrar-marca-inpi-2026",
+      "title_en": "How Long Does It Take to Register a Trademark with the INPI? Steps and Deadlines [2026]",
+      "title_pt": "Quanto Tempo Demora para Registrar uma Marca no INPI? Etapas e Prazos [2026]",
+      "tags": [
+        "marcas",
+        "inpi",
+        "propriedade-intelectual",
+        "guia",
+        "lpi"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guide: how long it takes to register a trademark at INPI in 2026. Examination stages, legal deadlines for opposition, office action and appeal, and the process reform.",
+      "content_hash_en": "90f0c7fd8dbdeda354b622b6a53ea4c8d6b29be55069178d29e05579655a4258",
+      "backlinks": [
+        "busca-anterioridade-marcas-inpi-guia-completo",
+        "quanto-custa-registrar-marca-inpi-2026",
+        "como-consultar-andamento-processo-inpi"
       ],
       "backlink_source": "file",
       "last_processed": null

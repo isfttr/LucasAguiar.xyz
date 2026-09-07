@@ -126,9 +126,9 @@ If approved, the reform changes the game for both sides: for **applicants**, the
 
 Read also:
 
-- [How Much Does It Cost to Register a Trademark at INPI in 2026? Complete Chart]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Trademark Prior Art Search at INPI: Complete Guide]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
-- [How to Check the Status of a Case at INPI]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Trademark Prior Art Search at INPI: Complete Step-by-Step Guide]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
 ---
 

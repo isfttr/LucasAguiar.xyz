@@ -192,11 +192,11 @@ No. The new Patent Services Module is a digital platform — the fees (GRU) are 
 - [Complete Guide to Filing a Patent at the INPI [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
 - [How to check the status of an application at the INPI]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
-Also read:
+Read also:
 
 - [INPI launches new version of the Patents Module: what changes in 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
 - [INPI launches new version of the Patents Module: what changes in 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
-- [How to File a Patent at the INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
 
 ---
 
