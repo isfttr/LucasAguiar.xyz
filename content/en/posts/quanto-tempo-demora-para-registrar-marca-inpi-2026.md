@@ -1,9 +1,9 @@
 ---
 date: 2026-09-07T14:07:00.000Z
-draft: true
+draft: false
 title: How Long Does It Take to Register a Trademark with the INPI? Steps and Deadlines [2026]
-description: 'Guide: how long it takes to register a trademark at INPI in 2026. Examination stages, legal deadlines for opposition, office action and appeal, and the process reform.'
-featured_image: ''
+description: "Guide: how long it takes to register a trademark at INPI in 2026. Examination stages, legal deadlines for opposition, office action and appeal, and the process reform."
+featured_image: ""
 categories:
   - article
 tags:
@@ -12,7 +12,6 @@ tags:
   - propriedade-intelectual
   - guia
   - lpi
-scheduledAt: 2026-09-07T18:43:00.000Z
 slug: trademark-registration-time-inpi-steps-deadlines
 translation_source_hash: 13b8ecb0b5f19a7da49d67a94d991bf488cfab7dc933e889f5fb01a1a2246d26
 ---
