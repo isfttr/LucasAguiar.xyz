@@ -124,10 +124,10 @@ If approved, the reform changes the game for both sides: for **applicants**, the
 5. Respond to **any office action within 60 days** — silence leads to definitive shelving.
 6. If refused, consider an appeal within 60 days — and remember that a third party that lost the opposition has no administrative appeal against the grant.
 
-Also read:
+Read also:
 
 - [Trademark Prior Art Search at INPI: Complete Step-by-Step Guide]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
-- [How Much Does It Cost to Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
 ---
