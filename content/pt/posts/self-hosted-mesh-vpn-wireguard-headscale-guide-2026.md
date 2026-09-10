@@ -1,9 +1,9 @@
 ---
 date: 2026-09-10T18:00:00.000Z
-draft: true
-title: 'VPN Mesh Auto-Hospedada em 2026: Guia Completo de WireGuard e Headscale'
-description: 'Crie uma VPN mesh auto-hospedada com WireGuard e Headscale em 2026: instale, registre nós, roteadores de sub-rede, nós de saída e políticas de acesso. Guia completo.'
-featured_image: ''
+draft: false
+title: "VPN Mesh Auto-Hospedada em 2026: Guia Completo de WireGuard e Headscale"
+description: "Crie uma VPN mesh auto-hospedada com WireGuard e Headscale em 2026: instale, registre nós, roteadores de sub-rede, nós de saída e políticas de acesso. Guia completo."
+featured_image: ""
 categories:
   - article
 tags:
