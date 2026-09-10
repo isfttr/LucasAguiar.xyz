@@ -12,8 +12,8 @@ tags:
   - propriedade-intelectual
   - prorrogacao
   - guia
+scheduledAt: 2026-09-11T18:29:23.660Z
 ---
-
 O registro de marca no INPI não é definitivo. Ele vale **10 anos** contados da concessão e, para continuar produzindo efeitos, precisa ser **prorrogado pelo titular** — a cada novo decênio. Quem deixa a janela passar perde o registro: a marca é extinta e volta a ficar disponível para pedidos de terceiros.
 
 O problema é que a maior parte dos titulares descobre o prazo tarde demais, porque a contagem não começa na data do depósito (e sim na concessão, que pode vir anos depois) e a prorrogação não acontece automaticamente: depende de pagamento, por classe, dentro de uma janela específica.
