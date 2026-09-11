@@ -1,9 +1,9 @@
 ---
 date: 2026-09-10T14:00:00.000Z
-draft: true
-title: 'Trademark Renewal at INPI: Complete Guide to Renewing the Registration Every 10 Years'
-description: 'Deadlines, costs and step-by-step for trademark renewal at INPI: last-year window, 6-month extraordinary term, fees per class and how to avoid extinction.'
-featured_image: ''
+draft: false
+title: "Trademark Renewal at INPI: Complete Guide to Renewing the Registration Every 10 Years"
+description: "Deadlines, costs and step-by-step for trademark renewal at INPI: last-year window, 6-month extraordinary term, fees per class and how to avoid extinction."
+featured_image: ""
 categories:
   - article
 tags:
@@ -12,7 +12,6 @@ tags:
   - propriedade-intelectual
   - prorrogacao
   - guia
-scheduledAt: 2026-09-11T18:29:23.660Z
 slug: trademark-renewal-inpi-10-years
 translation_source_hash: 97a1c5cb8f73d15d937c97633ae07a7e997ca24a3ea81095a7071e503e0f29ef
 ---

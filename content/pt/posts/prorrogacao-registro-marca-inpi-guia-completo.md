@@ -1,6 +1,6 @@
 ---
 date: 2026-09-10T11:00:00-03:00
-draft: true
+draft: false
 title: "Prorrogação de Marca no INPI: Guia Completo para Renovar o Registro a Cada 10 Anos"
 description: "Prazos, custos e passo a passo da prorrogação de marca no INPI: janela do último ano, 6 meses de prazo extraordinário, taxas por classe e como evitar a extinção."
 featured_image: ""
@@ -12,7 +12,6 @@ tags:
   - propriedade-intelectual
   - prorrogacao
   - guia
-scheduledAt: 2026-09-11T18:29:23.660Z
 ---
 O registro de marca no INPI não é definitivo. Ele vale **10 anos** contados da concessão e, para continuar produzindo efeitos, precisa ser **prorrogado pelo titular** — a cada novo decênio. Quem deixa a janela passar perde o registro: a marca é extinta e volta a ficar disponível para pedidos de terceiros.
 
