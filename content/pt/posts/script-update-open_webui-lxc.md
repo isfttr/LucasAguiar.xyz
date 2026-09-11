@@ -3,7 +3,7 @@ date: 2025-03-08T03:47:39.000Z
 draft: true
 title: "Script para Atualizar Open WebUI em LXC Proxmox: Bash + Cron [2026]"
 description: "Como atualizar o Open WebUI em um LXC no Proxmox com um único script bash: git pull, build e restart. Inclui agendamento via cron para atualização automática [2026]."
-url: ''
+url: ""
 featured_image: /images/open-webui-script-thumb.png
 categories:
   - article
@@ -15,6 +15,7 @@ tags:
   - Docker
   - open-webui
 translation_source_hash: 7c6b25e151c5603bbef85ef44fd93c0e533e1ba719eba4cb59ecdf626245d25f
+scheduledAt: 2026-09-13T16:16:00.000Z
 ---
 Um script muito simples para aqueles que, por alguma razão estranha, decidiram executar o servidor Open WebUI de dentro de um LXC.
 
