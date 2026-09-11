@@ -12,8 +12,8 @@ tags:
   - classificacao-nice
   - propriedade-intelectual
   - registro-de-marca
+scheduledAt: 2026-09-18T16:23:00.000Z
 ---
-
 Escolher a classe errada (ou esquecer uma classe) é um dos erros mais caros no registro de marca no INPI: a proteção vale apenas para os produtos e serviços indicados no pedido, e cada classe tem custo próprio de petição. Este guia explica como funciona a Classificação Internacional de Nice, como identificar a classe certa para o seu caso e quais ferramentas o INPI oferece para reduzir o risco de erro na especificação.
 
 ## O que é a Classificação de Nice
