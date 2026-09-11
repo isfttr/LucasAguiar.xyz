@@ -1,10 +1,10 @@
 ---
 date: 2026-07-19T14:15:00.000Z
 draft: true
-title: 'Entrada da Fase Nacional PCT no Brasil: Guia Completo [2026]'
-description: 'Guia completo para entrar na fase nacional PCT no Brasil: prazos, documentos, taxas, pagamentos de GRU e procedimentos passo a passo no INPI para requerentes de patentes internacionais.'
-url: ''
-featured_image: ''
+title: "Entrada da Fase Nacional PCT no Brasil: Guia Completo [2026]"
+description: "Guia completo para entrar na fase nacional PCT no Brasil: prazos, documentos, taxas, pagamentos de GRU e procedimentos passo a passo no INPI para requerentes de patentes internacionais."
+url: ""
+featured_image: ""
 categories:
   - article
 tags:
@@ -16,6 +16,7 @@ tags:
   - intellectual-property
 slug: entrada-fase-nacional-pct-brasil-guia-completo
 translation_source_hash: b5d15c35ed2809b1e9bac3168c13a721dfe73a30d95e1a5ad05645d7a98d7e4a
+scheduledAt: 2026-09-17T16:21:00.000Z
 ---
 Em 2025, os pedidos internacionais de patente depositados por meio do Tratado de Cooperação em Matéria de Patentes (PCT) da WIPO cresceram 0,7%, totalizando 275.900 depósitos no mundo. Comunicação digital (+6,1%) e semicondutores (+6,1%) registraram as maiores taxas de crescimento entre os dez principais campos tecnológicos, de acordo com dados da WIPO divulgados em março de 2026.
 
