@@ -1,10 +1,10 @@
 ---
 date: 2026-07-31T14:13:54.000Z
 draft: true
-title: 'Combate à Falsificação de Marcas no Brasil: Guia Completo sobre Medidas Administrativas, Cíveis e Criminais [2026]'
-description: 'Guia completo para combater a falsificação de marcas no Brasil: apreensão aduaneira, medidas liminares, busca e apreensão, queixa-crime e remoção de anúncios em marketplaces.'
-url: ''
-featured_image: ''
+title: "Combate à Falsificação de Marcas no Brasil: Guia Completo sobre Medidas Administrativas, Cíveis e Criminais [2026]"
+description: "Guia completo para combater a falsificação de marcas no Brasil: apreensão aduaneira, medidas liminares, busca e apreensão, queixa-crime e remoção de anúncios em marketplaces."
+url: ""
+featured_image: ""
 categories:
   - article
 tags:
@@ -15,6 +15,7 @@ tags:
   - brazil
 slug: combate-falsificacao-marcas-brasil
 translation_source_hash: 9b9445ebfc959697ece66f88c5ca058562ce34e090bdad515873f2019833ca62
+scheduledAt: 2026-09-15T16:19:00.000Z
 ---
 O mercado ilegal do Brasil custou ao país mais de **R$ 473 bilhões em 2025** — contrabando, falsificação e pirataria combinados, segundo o Fórum Nacional Contra a Pirataria e a Ilegalidade (FNCP). Desse total, R$ 326,3 bilhões foram perdas diretas para a indústria e R$ 146,8 bilhões em sonegação fiscal, em 15 setores. Em 2020, o prejuízo era de R$ 288 bilhões. Para o titular de uma marca registrada, isso não é estatística: é um concorrente desleal vendendo produtos falsificados, anúncios ilegais em marketplaces e remessas retidas — ou não — na alfândega.
 
@@ -63,26 +64,6 @@ Na prática, isso significa que o titular precisa ter um canal ativo com a Recei
 No plano institucional, o **CNCP** (Decreto 9.875/2019) é o fórum que coordena governo e sociedade civil: produz estudos, mantém estatísticas vinculadas ao sistema nacional de segurança pública, propõe fiscalizações em portos, aeroportos e fronteiras e coordena campanhas de conscientização. A entrada da ABPI no Conselho (julho de 2026) fortalece a contribuição técnica do setor privado para essas políticas.
 
 Unidades policiais especializadas também importam — como a Delegacia de Repressão aos Crimes contra a Propriedade Imaterial (DRCPIM), do Deic de São Paulo — além de operações da Polícia Federal deflagradas a partir da notícia-crime do titular.
-
-## Medidas cíveis: velocidade é tudo
-
-Quando a infração é localizada (loja física, depósito, marketplace), o titular pode:
-
-1. **Notificação extrajudicial** — geralmente resolve casos contra pequenos varejistas de boa-fé, mas raramente contra falsificadores organizados.
-2. **Liminar / antecipação de tutela** — o art. 209, § 1 da LPI permite ao juiz determinar, em caráter urgente, a **suspensão da violação** para evitar dano irreparável ou de difícil reparação. É a ferramenta mais usada contra marketplaces e sites que seguem vendendo após a notificação.
-3. **Busca e apreensão** — com base nos arts. 200-201 da LPI, regidos pelo Código de Processo Penal, inclusive em procedimento preparatório para colher provas antes da ação principal.
-4. **Ação de indenização** — os arts. 209-210 garantem reparação, com lucros cessantes calculados pelo **critério mais favorável à parte lesada**, entre: (i) o que o titular deixou de ganhar sem a violação; (ii) os lucros do infrator; ou (iii) um valor de licença hipotético.
-
-O ponto crítico na via cível é a **preservação de provas**: compras de teste com notas fiscais, capturas de tela com data e hora, fotos do produto falso ao lado do original e amostras lacradas. Sem isso, uma liminar tem base fraca.
-
-## Medidas criminais: ação penal privada e peculiaridades brasileiras
-
-Os crimes de falsificação de marca têm duas peculiaridades que surpreendem quem vem de outras jurisdições:
-
-- **Ação penal privada**: nos termos do art. 199 da LPI, os crimes do Título (incluindo os arts. 189-190) são processados **somente mediante queixa do ofendido** — o titular lesado deve oferecer a queixa-crime. A exceção é o art. 191 (uso indevido de armas, brasões e insígnias oficiais), que é de ação penal pública.
-- **Penas baixas**: detenção de 3 meses a 1 ano (art. 189) e de 1 a 3 meses (art. 190). Por serem infrações de menor potencial ofensivo, aplica-se a Lei 9.099/95, com possibilidade de **transação penal** — o que, na prática, transforma o caso criminal em um instrumento de negociação e registro formal mais do que de punição efetiva.
-
-Ainda assim, a via criminal tem valor estratégico: a queixa viabiliza busca e apreensão preliminar, pressiona o infrator a um acordo e constrói um histórico judicial útil em ações cíveis repetidas. Para titulares estrangeiros, a [proteção internacional de marcas pelo Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}}) assegura o registro brasileiro com base no pedido internacional — pré-requisito para qualquer medida local de enforcement.
 
 ## E-commerce e mídias sociais
 
