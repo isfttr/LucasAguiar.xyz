@@ -120,9 +120,9 @@ Renewing is one of the cheapest and least glamorous operations in IP management 
 
 Read also:
 
-- [How to Check the Status of a Case at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [How Much Does It Cost to Register a Trademark with INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [How Much Does It Cost to Register a Trademark with INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
 ---
 
