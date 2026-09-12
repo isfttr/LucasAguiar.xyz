@@ -1,6 +1,6 @@
 ---
 date: 2026-09-08T18:01:30.000Z
-draft: true
+draft: false
 title: "Guia de Quantização de LLM 2026: Formatos GGUF, Q4 vs Q8 e Como Escolher"
 description: "Como escolher a quantização de LLMs em 2026: formatos GGUF explicados (Q8_0, Q4_K_M, Q2, IQ1), quedas abruptas de qualidade, cálculo de VRAM e regras práticas para modelos locais."
 featured_image: ""
@@ -14,7 +14,6 @@ tags:
   - machine-learning
 slug: guia-quantizacao-llm-2026-gguf-q4-q8
 translation_source_hash: 5c55927a0dd73e0fcb95e74fa9e19b81f54b65198f87a27c2fdd7ec75deb9fb4
-scheduledAt: 2026-09-12T18:47:00.000Z
 ---
 Baixar um modelo é apenas metade da batalha. A outra metade é escolher qual arquivo baixar: um modelo de 27B pode ser distribuído como um arquivo BF16 de 55 GB, um Q8_0 de 29 GB, um Q4_K_M de 17 GB ou um arquivo de 1 bit de 6 GB — e a diferença de qualidade entre esses extremos é a diferença entre um assistente de codificação e um modelo que responde ao acaso. A quantização é a compressão que torna os LLMs locais possíveis, e escolher o formato errado desperdiça VRAM que você não tem ou prejudica silenciosamente o modelo que você pagou para rodar. Este guia explica como funciona a quantização GGUF, o que significam os nomes dos formatos e como escolher o formato certo para o seu hardware em 2026.
 
