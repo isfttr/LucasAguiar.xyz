@@ -102,7 +102,6 @@ Read also:
 
 - [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 - [INPI launches new version of the Patents Module: what changes in 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
-- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 
 ---
 

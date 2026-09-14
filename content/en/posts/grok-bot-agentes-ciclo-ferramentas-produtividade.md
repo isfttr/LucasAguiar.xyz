@@ -26,8 +26,6 @@ None of this means Grok Bot is bad — specialized agents with their own compute
 Read also:
 
 - [Open AI vs. frontier models: the hidden cost of your data [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
-- [Open AI vs. frontier models: the hidden cost of your data [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
-- [Open AI vs. frontier models: the hidden cost of your data [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
 
 ---
 

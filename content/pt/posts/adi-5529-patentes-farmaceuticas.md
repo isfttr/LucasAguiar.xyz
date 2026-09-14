@@ -53,7 +53,6 @@ Leia também:
 
 - [PTA Patentes 2026: STJ Negou Extensão, Mas o Debate Chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})
 - [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [PTA Patentes 2026: STJ Negou Extensão, Mas o Debate Chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})
 
 ---
 

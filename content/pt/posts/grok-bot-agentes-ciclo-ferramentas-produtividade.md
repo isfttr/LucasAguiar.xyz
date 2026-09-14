@@ -24,8 +24,6 @@ Nada disso significa que o Grok Bot seja ruim — agentes especializados com com
 Leia também:
 
 - [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
-- [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
-- [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
 
 ---
 

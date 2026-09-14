@@ -134,5 +134,3 @@ You can contact me about this or other topics at <contact@lucasaguiar.xyz>.
 Read also:
 
 - [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})

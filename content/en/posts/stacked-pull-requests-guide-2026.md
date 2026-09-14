@@ -145,7 +145,6 @@ Read also:
 
 - [GitButler 2026: Review, Pricing and Alternatives [Tested]]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
-- [GitButler 2026: Review, Pricing and Alternatives [Tested]]({{< relref "posts/one-week-review-gitbutler/" >}})
 
 ---
 

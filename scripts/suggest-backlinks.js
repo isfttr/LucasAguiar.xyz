@@ -61,18 +61,24 @@ function frontmatterEnd(raw) {
 const BACKLINKS_BLOCK_RE =
   /(?:Leia também|Read also|Also read)\s*:\n+(?:[ \t]*[-*] \[[\s\S]*?\]\([\s\S]*?\)[ \t]*\n?)+/gi;
 
-// Extracts slugs from existing "Read also / Leia também" section
+// Extracts slugs from existing "Read also / Leia também" section.
+// The existing backlinks block is stripped first: extracting from a body that
+// still contains the block re-counts the same slugs on every run, so the
+// regenerated section grew duplicates (97 posts affected before this fix,
+// 14/09/2026). The result is deduped (first occurrence wins).
 function extractBacklinkSlugs(body) {
+  const cleaned = body.replace(BACKLINKS_BLOCK_RE, '');
   const slugs = [];
   const re = /\{\{<\s*relref\s+"posts\/([^"/]+)\/?"\s*>\}\}/g;
   let m;
-  while ((m = re.exec(body)) !== null) slugs.push(m[1]);
-  return slugs;
+  while ((m = re.exec(cleaned)) !== null) slugs.push(m[1]);
+  return [...new Set(slugs)];
 }
 
 function buildSection(slugs, allPosts, lang) {
   const header = lang === 'pt' ? 'Leia também' : 'Read also';
-  const lines = slugs.map((slug) => {
+  const unique = [...new Set(slugs)];
+  const lines = unique.map((slug) => {
     const post = allPosts[slug];
     const title =
       lang === 'pt' ? post?.title_pt || post?.title_en || slug : post?.title_en || slug;

@@ -132,5 +132,3 @@ Você pode entrar em contato comigo sobre este ou outros tópicos pelo meu e-mai
 Leia também:
 
 - [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})

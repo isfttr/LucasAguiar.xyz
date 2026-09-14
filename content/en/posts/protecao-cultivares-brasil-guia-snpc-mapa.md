@@ -109,7 +109,6 @@ Read also:
 
 - [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
 - [Geographical Indication at INPI: Complete Guide [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
-- [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
 
 ---
 

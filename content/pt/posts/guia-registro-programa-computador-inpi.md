@@ -162,8 +162,6 @@ Desenvolvedores, startups e empresas de tecnologia que ainda não registraram se
 Leia também:
 
 - [Módulo de Serviços de Patentes do INPI: guia prático de acesso, testes e migração]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
-- [Módulo de Serviços de Patentes do INPI: guia prático de acesso, testes e migração]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
-- [Módulo de Serviços de Patentes do INPI: guia prático de acesso, testes e migração]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
 
 ---
 

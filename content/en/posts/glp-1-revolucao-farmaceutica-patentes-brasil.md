@@ -83,8 +83,6 @@ The challenge — and the opportunity — lies in transforming this clinical rev
 Read also:
 
 - [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
-- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
-- [Novo Nordisk vs. EMS in Court: The dispute over the Ozivy brand and the value of pharmaceutical branding]({{< relref "posts/novo-nordisk-ozivy-anulacao-marca-semaglutida/" >}})
 
 ---
 

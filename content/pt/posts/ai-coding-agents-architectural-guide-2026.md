@@ -124,7 +124,6 @@ Leia também:
 
 - [Software Pessoal na Era da IA: Como Qualquer Pessoa Pode Criar Apps para um Público de Um]({{< relref "posts/personal-software-ai-guide-2026/" >}})
 - [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [Software Pessoal na Era da IA: Como Qualquer Pessoa Pode Criar Apps para um Público de Um]({{< relref "posts/personal-software-ai-guide-2026/" >}})
 
 ---
 

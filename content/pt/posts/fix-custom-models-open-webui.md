@@ -31,7 +31,6 @@ E a lista de modelos deve mostrar os seus modelos personalizados.
 Leia também:
 
 - [Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
-- [Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
 - [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 
 ---

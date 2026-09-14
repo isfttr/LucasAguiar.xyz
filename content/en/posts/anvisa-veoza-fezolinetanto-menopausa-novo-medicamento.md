@@ -77,8 +77,6 @@ We will closely follow the next steps — pricing, incorporation, and the unfold
 Read also:
 
 - [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
 
 ---
 

@@ -115,8 +115,6 @@ O recado final é simétrico: para o titular, a patente só tem valor se houver 
 Leia também:
 
 - [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
-- [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
-- [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
 
 ---
 

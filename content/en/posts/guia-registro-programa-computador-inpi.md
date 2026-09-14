@@ -162,8 +162,6 @@ Developers, startups, and technology companies that have not yet registered thei
 Read also:
 
 - [INPI Patent Services Module: practical guide to access, testing, and migration]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
-- [INPI Patent Services Module: practical guide to access, testing, and migration]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
-- [INPI Patent Services Module: practical guide to access, testing, and migration]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
 
 ---
 

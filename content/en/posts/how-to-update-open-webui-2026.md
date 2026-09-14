@@ -110,7 +110,6 @@ Read also:
 
 - [Open WebUI Models Not Showing? Step-by-Step Fix [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 - [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
-- [Open WebUI Models Not Showing? Step-by-Step Fix [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 
 ---
 

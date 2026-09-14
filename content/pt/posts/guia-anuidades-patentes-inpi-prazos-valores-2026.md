@@ -193,7 +193,6 @@ Não. O novo Módulo de Serviços de Patentes é uma plataforma digital — as t
 Leia também:
 
 - [INPI lança nova versão do Módulo de Patentes: o que muda em 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
-- [INPI lança nova versão do Módulo de Patentes: o que muda em 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
 - [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
 
 ---

@@ -202,8 +202,6 @@ A principal recomendação: **registre o contrato antes do primeiro pagamento de
 Leia também:
 
 - [Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
-- [Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
-- [Caducidade de Marca no INPI: Guia Completo sobre Perda e Defesa do Registro [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
 
 ---
 

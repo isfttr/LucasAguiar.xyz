@@ -146,7 +146,6 @@ Leia também:
 
 - [GitButler 2026: Review, Preço e Alternativas [Testado]]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [GitLost [2026]: Como a Injeção de Prompt no Agente de IA do GitHub Vaza Repositórios Privados]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
-- [GitButler 2026: Review, Preço e Alternativas [Testado]]({{< relref "posts/one-week-review-gitbutler/" >}})
 
 ---
 

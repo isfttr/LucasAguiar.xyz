@@ -87,7 +87,6 @@ Leia também:
 
 - [Melhores Práticas de Desempenho do PostgreSQL para Homelab e Auto-hospedado [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
 - [Como Detectar e Bloquear Tráfego de Bots no Seu Site Auto-Hospedado [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
-- [Melhores Práticas de Desempenho do PostgreSQL para Homelab e Auto-hospedado [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
 
 ---
 

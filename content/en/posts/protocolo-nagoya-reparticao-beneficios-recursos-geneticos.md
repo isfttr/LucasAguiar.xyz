@@ -80,8 +80,6 @@ For a country that holds the world's greatest biodiversity, the biodiversity law
 Read also:
 
 - [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
 
 ---
 

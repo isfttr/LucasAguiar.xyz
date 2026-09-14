@@ -91,7 +91,6 @@ Leia também:
 
 - [De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
 - [Da Procrastinação ao Progresso: Como a IA me tem ajudado]({{< relref "posts/ai-beats-procrastination/" >}})
-- [De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
 
 ---
 

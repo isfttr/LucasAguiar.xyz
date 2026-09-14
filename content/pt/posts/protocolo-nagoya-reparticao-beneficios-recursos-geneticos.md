@@ -78,8 +78,6 @@ Para um país que concentra a maior biodiversidade do mundo, a lei de biodiversi
 Leia também:
 
 - [Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
 
 ---
 

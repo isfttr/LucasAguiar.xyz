@@ -120,8 +120,6 @@ Since Law 13.129/2015, universities, research institutes, and other entities of 
 Read also:
 
 - [Registration of Technology Transfer Contracts at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
-- [Registration of Technology Transfer Contracts at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
-- [Registration of Technology Transfer Contracts at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-contratos-transferencia-tecnologia-inpi-2026/" >}})
 
 ---
 

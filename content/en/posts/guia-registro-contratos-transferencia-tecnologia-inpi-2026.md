@@ -203,8 +203,6 @@ The main recommendation: **register the contract before the first royalty paymen
 Read also:
 
 - [Trademark Lapse at INPI: Complete Guide on Loss and Defense of Registration [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
-- [Trademark Lapse at INPI: Complete Guide on Loss and Defense of Registration [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
-- [Trademark Lapse at INPI: Complete Guide on Loss and Defense of Registration [2026]]({{< relref "posts/caducidade-marca-inpi-guia-2026/" >}})
 
 ---
 

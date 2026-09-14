@@ -71,13 +71,6 @@ Leia também:
 - [O Backlog do INPI acabou — mas não para as patentes farmacêuticas]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
 - [Roadmap de Automação do INPI 2025-2029]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 - [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
-
-Leia também:
-
-- [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
-- [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
-- [Introdução ao meu novo espaço na internet]({{< relref "posts/introduction/" >}})
-
 ---
 
 Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>

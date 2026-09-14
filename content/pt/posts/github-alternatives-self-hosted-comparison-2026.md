@@ -139,7 +139,6 @@ A versão curta: você não precisa da permissão do GitHub para sair, e não pr
 Leia também:
 
 - [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
-- [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 - [GitButler 2026: Review, Preço e Alternativas [Testado]]({{< relref "posts/one-week-review-gitbutler/" >}})
 
 ---

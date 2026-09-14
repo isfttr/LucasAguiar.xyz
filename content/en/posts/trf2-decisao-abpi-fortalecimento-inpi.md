@@ -103,7 +103,6 @@ Read also:
 
 - [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 - [ADI 5.529: the STF's decision that shortened drug patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
-- [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---
 
