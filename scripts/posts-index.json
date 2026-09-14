@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T18:01:05.889Z",
+  "last_updated": "2026-09-14T18:08:40.252Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -228,14 +228,14 @@
         "article"
       ],
       "description_en": "A personal review of my experiences with Cursor, Windsurf, and other modern code editors, including their AI capabilities, extension support, and overall user experience.",
-      "content_hash_en": "9bab5c8266142df6cbbde82efd8c9bc5e0b4de6535ecd49939a5ee579f936671",
+      "content_hash_en": "649b766dc971918e4c646ec7b5295e03e8c5256c966874b06bbfebed34ce04d6",
       "backlinks": [
+        "ai-beats-procrastination",
         "vibe-coding-pitfalls",
-        "one-week-review-gitbutler",
-        "ai-beats-procrastination"
+        "ai-coding-agents-architectural-guide-2026"
       ],
-      "backlink_source": "file",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-14T18:04:43.226Z"
     },
     "fix-custom-models-open-webui": {
       "slug": "fix-custom-models-open-webui",
@@ -249,14 +249,14 @@
         "article"
       ],
       "description_en": "Open WebUI models not showing after an update? Fix the missing custom models bug: replicate your OpenAI API config instead of Direct Connections. Guide [2026].",
-      "content_hash_en": "f23898ec0ca0f9d02a1fe6d149e7b5a4bcb9b6682562f4decf4634887560051a",
+      "content_hash_en": "ff7c3f0e46723746c5eb4c7f29927a3feb8e9187d278f826f99fc80756f86132",
       "backlinks": [
         "how-to-update-open-webui-2026",
-        "how-to-update-open-webui-2026",
+        "run-llms-old-server-homelab-guide-2026",
         "creating-my-ai-assistant-locally"
       ],
-      "backlink_source": "file",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-14T18:05:27.369Z"
     },
     "hugo-content-file-structure": {
       "slug": "hugo-content-file-structure",
@@ -297,14 +297,14 @@
         "article"
       ],
       "description_en": "The increasing use of Artificial Intelligence in software development is creating systems so complex that, in the future, programmers will act as scientists.",
-      "content_hash_en": "a29c5bbea839773cd725b5457baf639f6b3a7cfb421d4dcaca0e1d6b37916c04",
+      "content_hash_en": "b2e7b8d9dc0fadd85325696c5dd6ea440bfccdc0eb5b79d4f7ee95df38b40194",
       "backlinks": [
-        "wipo-lanca-artificial-intelligence-infrastructure-interchange",
-        "wipo-lanca-artificial-intelligence-infrastructure-interchange",
-        "wipo-lanca-artificial-intelligence-infrastructure-interchange"
+        "ai-coding-agents-architectural-guide-2026",
+        "vibe-coding-pitfalls",
+        "personal-software-ai-guide-2026"
       ],
-      "backlink_source": "file",
-      "last_processed": "2026-05-03T22:36:16.514Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-09-14T18:05:45.074Z"
     },
     "inpi-automation-roadmap-2025-2029": {
       "slug": "inpi-automation-roadmap-2025-2029",
@@ -420,14 +420,14 @@
         "article"
       ],
       "description_en": "GitButler review 2026: how virtual branches work, free client vs paid Cloud, the but CLI and TUI, and GitButler vs jujutsu, worktrees, lazygit and Graphite.",
-      "content_hash_en": "00931578e1ee74de2ef4e4ec3582f2a6fca9656287296252ecf0a7776d6a6251",
+      "content_hash_en": "03e2ff6c776cc15b3966389b5bb44e2786aafc4ed1d093c993723a8893f0e32c",
       "backlinks": [
-        "stacked-pull-requests-guide-2026",
         "mastering-git-log-history-guide-2026",
-        "stacked-pull-requests-guide-2026"
+        "stacked-pull-requests-guide-2026",
+        "how-to-split-git-commit-guide-2026"
       ],
-      "backlink_source": "file",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-14T18:05:51.912Z"
     },
     "oracle_cloud_vps": {
       "slug": "oracle_cloud_vps",
@@ -617,14 +617,14 @@
         "article"
       ],
       "description_en": "In 2021, the STF (Supreme Federal Court) struck down the provision that guaranteed a minimum 10-year validity period after patent grants. Understand what changed, which patents were affected, and the impact on drug prices.",
-      "content_hash_en": "6b3a8cc4058955bd749ec339b774c90a2ad95dfc86a66e4f06638e55558b318b",
+      "content_hash_en": "73444a8f9453189020e033dc1e6d416e73aea90e9c3789dfa1358fd5cb248305",
       "backlinks": [
         "propostas_pta_patentes_2026",
-        "backlog-inpi-patentes-farmaceuticas",
-        "propostas_pta_patentes_2026"
+        "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
+        "backlog-inpi-patentes-farmaceuticas"
       ],
-      "backlink_source": "file",
-      "last_processed": "2026-05-11T00:51:18.450Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-09-14T18:06:02.386Z"
     },
     "review-esr-6c006-geo-pencil": {
       "slug": "review-esr-6c006-geo-pencil",
@@ -641,14 +641,14 @@
         "article"
       ],
       "description_en": "The ESR 6C006 Geo Digital Pencil does not have auto shutoff (sleep mode). Understand the technical reason, its relationship with Apple Find My, and if it's possible to modify the firmware.",
-      "content_hash_en": "e76fd8ef1724653d5359ceb6670aa29e03377bde22674116e94743736361e234",
+      "content_hash_en": "111a6472f4e24f5b4784fba27ab3b45e56773864f5a84de95dc5446503db0cba",
       "backlinks": [
         "10-years-of-macbook-pro",
-        "linux-windows-macos-qual-usar-2026",
-        "ai-pin"
+        "ai-pin",
+        "proxmox-mac-mini-2018-t2"
       ],
-      "backlink_source": "file",
-      "last_processed": "2026-05-14T18:51:24.090Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-09-14T18:06:49.062Z"
     },
     "proxmox-mac-mini-2018-t2": {
       "slug": "proxmox-mac-mini-2018-t2",
@@ -711,14 +711,14 @@
         "article"
       ],
       "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
-      "content_hash_en": "34697b911c4727aa7e9f0ea17a0acfc630af8140debc15a94ca1869895179a2d",
+      "content_hash_en": "22abc62499884f6273d54e606e617cc8373cd8c5cd18da985c691ac5fab220b5",
       "backlinks": [
+        "inpi-plano-estrategico-2027-2036-guia-completo",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
-        "adi-5529-patentes-farmaceuticas",
-        "lpi-30-anos-propostas-aperfeicoamento-inpi"
+        "inpi-automation-roadmap-2025-2029"
       ],
-      "backlink_source": "file",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-14T18:07:53.352Z"
     },
     "brasil-tratado-budapeste-patentes-biotecnologia": {
       "slug": "brasil-tratado-budapeste-patentes-biotecnologia",
@@ -913,14 +913,14 @@
         "article"
       ],
       "description_en": "Analysis of the technical opinion from CGPR/MS on the Bill that creates a mechanism for patent term adjustment and its fiscal impact on the public health system.",
-      "content_hash_en": "87aacc2e6110c19c9d15482d57d5c8c3d95e09cae721f6689b79d579e408f486",
+      "content_hash_en": "634a8bb11c57284ff2cc9a40a268ce0e36e8ee303a9a919a6bfe7adc42bb678c",
       "backlinks": [
+        "propostas_pta_patentes_2026",
         "backlog-inpi-patentes-farmaceuticas",
-        "backlog-inpi-patentes-farmaceuticas",
-        "backlog-inpi-patentes-farmaceuticas"
+        "adi-5529-patentes-farmaceuticas"
       ],
-      "backlink_source": "file",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-14T18:08:07.629Z"
     },
     "claude-tag-propriedade-intelectual-empresarial": {
       "slug": "claude-tag-propriedade-intelectual-empresarial",
@@ -1160,14 +1160,14 @@
         "article"
       ],
       "description_en": "INPI announces new features for the Patent Services Module: exclusive application filing, integrated annuities, and the end of Electronic Petitioning for patents.",
-      "content_hash_en": "ca5280c3462e310c324fe89b435ce35a6c9ed6fca3b65577848e86cdb2b6c103",
+      "content_hash_en": "250a0c0d99777be70ee6c995e394191f6a9f9ca0f9ad3b1cf5b92a09cbe2902a",
       "backlinks": [
-        "inpi-automation-roadmap-2025-2029",
-        "inpi-automation-roadmap-2025-2029",
-        "inpi-automation-roadmap-2025-2029"
+        "modulo-servicos-patentes-inpi-guia-acesso-testes-2026",
+        "guia-deposito-patente-inpi-2026",
+        "guia-anuidades-patentes-inpi-prazos-valores-2026"
       ],
-      "backlink_source": "file",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-14T18:08:18.212Z"
     },
     "migracao-proxmox-8-9-2026": {
       "slug": "migracao-proxmox-8-9-2026",
@@ -1309,14 +1309,14 @@
         "tutorial"
       ],
       "description_en": "Step by step to connect Google Search Console to the Hermes agent via MCP: service account, the gsc-mcp server and the necessary adjustments to run inside Docker.",
-      "content_hash_en": "080e2f2432f7476d0c76d50ca68c2787c8032b9b210dcb01bf95a21b7c087779",
+      "content_hash_en": "df2340ed6e13d706af548291afa7e592166884742f91f37f659b992ed5c002c1",
       "backlinks": [
-        "creating-my-ai-assistant-locally",
-        "creating-my-ai-assistant-locally",
-        "creating-my-ai-assistant-locally"
+        "configuracao-whatsapp-hermes",
+        "stateless-mcp-guide-2026",
+        "como-ter-dois-hermes-gateways"
       ],
-      "backlink_source": "file",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-14T18:08:40.252Z"
     },
     "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026": {
       "slug": "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026",
@@ -1334,13 +1334,12 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "ebc7a95d8db2343264b4429680774f7d142dcb2e68d2bd2485226560ee6f747c",
+      "content_hash_en": "3d8f78bce570e629c9e00924df9ac84739359122e372fc3a1ba64a666257c8ff",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "inpi-credenciamento-busca-anterioridade-patentes",
-        "inpi-manual-marcas-alto-renome-protocolo-madri"
+        "inpi-credenciamento-busca-anterioridade-patentes"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": "2026-08-11T21:31:15.985Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
@@ -1389,13 +1388,9 @@
         "article"
       ],
       "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
-      "content_hash_en": "b763b4127b314116fcc3d6f10ef01a17c6715e0c704ba47e5e5895907d6a5d48",
-      "backlinks": [
-        "anthropic-thinking-process-paper",
-        "one-week-review-gitbutler",
-        "ai-coding-agents-architectural-guide-2026"
-      ],
-      "backlink_source": "file",
+      "content_hash_en": "3fd1b3e067d9c6f8bca4adbd6feae2e6a71751918bb78eb1a7c89c9396264b07",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": "2026-07-07T22:30:43.787Z"
     },
     "consulta-publica-marcas-posicao-inpi-2026": {
@@ -1413,13 +1408,12 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "a15053b8a007acf4c4ab20880797d7f9c55e6951c0f3e715d5304239a4f9f2c8",
+      "content_hash_en": "116c01d9b983370e1a84d8da67cdfa4347dfb2d9974412a24695a66d20df3fa1",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
-        "inpi-manual-marcas-alto-renome-protocolo-madri"
+        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
@@ -1437,13 +1431,9 @@
         "article"
       ],
       "description_en": "GitLost vulnerability lets attackers silently leak private repos via prompt injection in GitHub Agentic Workflows. Full technical breakdown and what it means for AI security.",
-      "content_hash_en": "4f6afcaee1f5305820f9beaac545f4e0cbdb6982663103cb3a1cfeb27000a1f0",
-      "backlinks": [
-        "vibe-coding-pitfalls",
-        "claude-sonnet-5-2026",
-        "vibe-coding-pitfalls"
-      ],
-      "backlink_source": "file",
+      "content_hash_en": "bf8cacbb2bd40177387ad791fdebb5976f7b92287aa4b2401123f862ebc32072",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": null
     },
     "guia-indicacoes-geograficas-inpi-brasil": {
@@ -1509,13 +1499,11 @@
         "article"
       ],
       "description_en": "Complete guide for software registration at INPI: fees, required documents, ICP-Brasil digital certificate, GRU, e-Software and deadlines. Step by step for individuals and legal entities.",
-      "content_hash_en": "e0d574c5561305f82f3f20294f5e7978778a32954edc4f23899cf6163c8a0789",
+      "content_hash_en": "04823795bc86f10fdcfdc3b6dccd054637a7495c7ee2392e021d8dacf412bb60",
       "backlinks": [
-        "modulo-servicos-patentes-inpi-guia-acesso-testes-2026",
-        "modulo-servicos-patentes-inpi-guia-acesso-testes-2026",
         "modulo-servicos-patentes-inpi-guia-acesso-testes-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": "2026-08-24T14:19:53.317Z"
     },
     "industrial-design-registration-brazil-inpi-2026-guide": {
@@ -1558,13 +1546,12 @@
         "article"
       ],
       "description_en": "AI coding agents explained from first principles: the tool-calling loop, agent architectures (single vs multi-agent, MCP), and practical tips for using them effectively in real projects.",
-      "content_hash_en": "52d533627ebc55cfb89954659b16db99a93bc3f32587549479e258a45a4034a5",
+      "content_hash_en": "76bb6319f28ec3c79d882eeedf6679eabe375400524ea0b087f05e33e72c4eba",
       "backlinks": [
         "personal-software-ai-guide-2026",
-        "vibe-coding-pitfalls",
-        "personal-software-ai-guide-2026"
+        "vibe-coding-pitfalls"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "ip-protection-types-brazil-complete-guide": {
@@ -1608,13 +1595,11 @@
         "article"
       ],
       "description_en": "Step-by-step guide to sandboxing AI coding agents like Claude Code, Codex, and Cursor. Prevent data leaks, restrict network access, and run agents safely with Docker, VMs, and permission scoping.",
-      "content_hash_en": "c0b2bee4e20e4ade4f9e660e70afe56c4067067d3e4bc94ff0f1f1aa39053800",
+      "content_hash_en": "6c946179e33cb44c4f74e4df4fea6deeca3ac349f41759e58b533ee4caaf9cbc",
       "backlinks": [
-        "kvm-virsh-linux-virtualization-guide-2026",
-        "kvm-virsh-linux-virtualization-guide-2026",
         "kvm-virsh-linux-virtualization-guide-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "mastering-git-log-history-guide-2026": {
@@ -1632,13 +1617,12 @@
         "article"
       ],
       "description_en": "Step-by-step guide to git history — the experimental command that lets you fix old commits, rewrite messages, and split changes without scary rebase -i sessions. Includes practical examples of each subcommand.",
-      "content_hash_en": "87bde81d6b4141c2d71a76c954d81fc4550cf5b68d0335642071a10d9706b856",
+      "content_hash_en": "733245b88ce1955e20a762def21e19aae0620c434f998c40a869aca6dbd129dc",
       "backlinks": [
         "one-week-review-gitbutler",
-        "gitlost-github-agentic-workflows-prompt-injection-2026",
-        "one-week-review-gitbutler"
+        "gitlost-github-agentic-workflows-prompt-injection-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "run-llms-old-server-homelab-guide-2026": {
@@ -1776,13 +1760,12 @@
         "article"
       ],
       "description_en": "Complete guide comparing Docker containers, LXC containers, and virtual machines (KVM, Proxmox). Performance benchmarks, isolation trade-offs, boot times, resource density, and decision matrix for homelab and production.",
-      "content_hash_en": "905e6aaf103c079c5a38b2b13056ae4b56d9641c853e555b3594f843556779d8",
+      "content_hash_en": "965709506a8b7d385026508536094db0b7050e15cf07895bad5073d7e22ff7e5",
       "backlinks": [
         "kvm-virsh-linux-virtualization-guide-2026",
-        "proxmox-backup-server-community-scripts-2026",
-        "kvm-virsh-linux-virtualization-guide-2026"
+        "proxmox-backup-server-community-scripts-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "international-patent-search-patentscope-espacenet-google-2026": {
@@ -1826,13 +1809,12 @@
         "article"
       ],
       "description_en": "Complete guide to international patent search: PATENTSCOPE from WIPO, Espacenet from EPO, and Google Patents. Comparison of tools, search strategies, and practical tips.",
-      "content_hash_en": "b603ba5c8b52b7cbed1513ba543189421a45734585743d938b64ced8ff1f512f",
+      "content_hash_en": "a0331263c9534c873a7a62435cc09e67b803654340f545f02b239d15d4505ba3",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
-        "inpi-credenciamento-busca-anterioridade-patentes",
-        "mapa-global-patentes-pct-2025-brasil"
+        "inpi-credenciamento-busca-anterioridade-patentes"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "patentes-inteligencia-artificial-brasil-guia-2026": {
@@ -1852,13 +1834,12 @@
         "article"
       ],
       "description_en": "Complete guide to patenting artificial intelligence in Brazil: what is patentable, INPI requirements, IPC classifications, how to draft the application, and differences between software, algorithm, and AI invention. Includes WIPO 2026 data.",
-      "content_hash_en": "565c0cacf7216131bd3da6497df465981261f01eb6c83113aa08f291c390e43e",
+      "content_hash_en": "60c7bc5bea3ec22d2d81fbaa1042f42a76e7960a9eaaf4b90e4183aaa07e5fb0",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
-        "wipo-lanca-artificial-intelligence-infrastructure-interchange",
-        "como-consultar-andamento-processo-inpi"
+        "wipo-lanca-artificial-intelligence-infrastructure-interchange"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "stacked-pull-requests-guide-2026": {
@@ -1876,13 +1857,12 @@
         "article"
       ],
       "description_en": "Learn how stacked PRs work, why they speed up code review, and how to use them with GitHub's new native support. Comparisons, CLI tools, and real-world workflows.",
-      "content_hash_en": "af8ef7865caca6e2898bad3905ff6f3354a49a9d4fc08751e07beaf889391de4",
+      "content_hash_en": "d306a0c0b1e13c95026bcbb67a556048e83c2d558941af3278f6b14f72c70b29",
       "backlinks": [
         "one-week-review-gitbutler",
-        "gitlost-github-agentic-workflows-prompt-injection-2026",
-        "one-week-review-gitbutler"
+        "gitlost-github-agentic-workflows-prompt-injection-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "ai-session-portability-guide-2026": {
@@ -1900,13 +1880,12 @@
         "article"
       ],
       "description_en": "AI sessions are drifting into lock-in: encrypted reasoning, hidden search, opaque compaction. The 5 portability tests — and how to keep your transcripts yours.",
-      "content_hash_en": "95af30119403d4ad488f6577f5d7e01566d5c8091186d40032ebe1fe3937eb88",
+      "content_hash_en": "f26b53ad8c595ad5d7b049a26673d30724ed3d22896709ce7ed028a0a84e468b",
       "backlinks": [
         "anthropic-thinking-process-paper",
-        "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026",
-        "anthropic-thinking-process-paper"
+        "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "personal-software-ai-guide-2026": {
@@ -1924,13 +1903,12 @@
         "article"
       ],
       "description_en": "AI coding tools turned software for a single user into a practical reality. The story of home-cooked apps, the stack that makes them possible, and why your next app may have an audience of one.",
-      "content_hash_en": "647e641b1b303b5eb69d5b1ffbf70cde0f4ab5ffe67e109cd56cb946c4c4de5d",
+      "content_hash_en": "2f9b158c825b9e7a9c568de1319ab4018232bc2eb54220bdf4db13fe22434ba3",
       "backlinks": [
         "ai-coding-agents-architectural-guide-2026",
-        "run-llms-old-server-homelab-guide-2026",
-        "ai-coding-agents-architectural-guide-2026"
+        "run-llms-old-server-homelab-guide-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "diataxis-technical-documentation-guide-2026": {
@@ -1948,13 +1926,12 @@
         "article"
       ],
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
-      "content_hash_en": "5e00ff374b596be1fe9b32e259636869fd211052b546e58ff7432b963adda2a1",
+      "content_hash_en": "3ef7c88308656d391dceeff4cbf7efa91fab67792b6b4e39fa97d4f6a39c7413",
       "backlinks": [
         "vibe-coding-pitfalls",
-        "hugo-content-file-structure",
-        "vibe-coding-pitfalls"
+        "hugo-content-file-structure"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "run-70b-llm-low-vram-gpu-guide-2026": {
@@ -1972,13 +1949,11 @@
         "article"
       ],
       "description_en": "Run 70B-class LLMs on 4-8GB GPUs: layer streaming, llama.cpp partial offload, AirLLM setup, quantization, and real performance expectations. Step-by-step guide.",
-      "content_hash_en": "466b1de03fa3f2f4fcd221a144bb54779089b3d41f4b341e34c66c5ad208ec56",
+      "content_hash_en": "27c5dbe2b64cf0caaa74d5d8d4cebba5aa56bcc9e7543d2cb13bb54725ee0892",
       "backlinks": [
-        "kvm-virsh-linux-virtualization-guide-2026",
-        "kvm-virsh-linux-virtualization-guide-2026",
         "kvm-virsh-linux-virtualization-guide-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "fine-tune-llm-consumer-gpu-guide-2026": {
@@ -1996,13 +1971,12 @@
         "article"
       ],
       "description_en": "Fine-tune 7-8B LLMs on 4-8GB GPUs with LoRA and QLoRA: memory math, tools (PEFT, TRL, Unsloth), step-by-step training, and realistic expectations for consumer hardware.",
-      "content_hash_en": "28582d3e7b66cbe604708fe7513b429b95f6e08477e99228ab05aeec0356a898",
+      "content_hash_en": "ae8f866a136132bb162469a3185fe4bcfafa7ba31fd16a17a49b23e49329a97d",
       "backlinks": [
         "vibe-coding-pitfalls",
-        "kvm-virsh-linux-virtualization-guide-2026",
-        "vibe-coding-pitfalls"
+        "kvm-virsh-linux-virtualization-guide-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "patente-invencao-vs-modelo-utilidade-guia-2026": {
@@ -2020,11 +1994,11 @@
         "article"
       ],
       "description_en": "Differences between invention patent (PI) and utility model (MU) at INPI: legal requirements of LPI, protection terms, 2026 costs, practical examples, and how to choose the right type.",
-      "content_hash_en": "676e07908f0cbbb2674a64a5ba8ee00f32cca084efd2f30438372d12353d9639",
+      "content_hash_en": "a3fd489405ca5ff99ff7128f013bf7ffba9a2a2b192b8ff669e3e620b02a4047",
       "backlinks": [
         "patente-software-vs-registro-programa-computador-brasil",
-        "patente-software-vs-registro-programa-computador-brasil",
-        "guia-deposito-patente-inpi-2026"
+        "guia-deposito-patente-inpi-2026",
+        "inpi-credenciamento-busca-anterioridade-patentes"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2116,13 +2090,12 @@
         "article"
       ],
       "description_en": "Practical guide to INPI's new Patent Services Module: how to access the homologation platform, request test credentials, what changes with exclusive use from August 19, and how to avoid errors in the transition.",
-      "content_hash_en": "02eeb2c4484d8225fb89e28e11adb82c0a6f22f8d834c3735ef952262759db73",
+      "content_hash_en": "3cb58378cdcd1d0eb1684c520dd0f46b9c3b174379fcf4d869eabf1da9864d07",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
-        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
-        "inpi-automation-roadmap-2025-2029"
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "llm-api-security-inspect-traffic-guide-2026": {
@@ -2164,13 +2137,12 @@
         "article"
       ],
       "description_en": "Complete guide to SQLite WAL corruption in 2026: detect it with PRAGMA integrity_check, recover corrupted databases, and prevent the WAL-reset bug. Real case study included.",
-      "content_hash_en": "bc80ad0e78641406e3e329a6978152a70aa727b2a2e6ce04912f863f5e10f930",
+      "content_hash_en": "5cf845dd232f547be09f5f1ba663209ea823f47d44676f66269f4b6b6ec5b0d9",
       "backlinks": [
         "postgresql-performance-best-practices-homelab-2026",
-        "detect-block-bot-traffic-selfhosted-guide-2026",
-        "postgresql-performance-best-practices-homelab-2026"
+        "detect-block-bot-traffic-selfhosted-guide-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "busca-anterioridade-marcas-inpi-guia-completo": {
@@ -2188,13 +2160,11 @@
         "article"
       ],
       "description_en": "Complete guide to conducting trademark prior art searches at INPI: access to the pePI system, exact and radical search, Nice classes, interpretation of results, and practical tips.",
-      "content_hash_en": "b8b81bdd8ccfd03dc1bbbd3e266d714727f788c251751deb34d010bee7921807",
+      "content_hash_en": "fe08237f8b436daac2e6d17706d2126aa368766bad727b4a99bcf4f834913fe8",
       "backlinks": [
-        "como-consultar-andamento-processo-inpi",
-        "como-consultar-andamento-processo-inpi",
         "como-consultar-andamento-processo-inpi"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "reducing-cves-container-images-guide-2026": {
@@ -2286,13 +2256,12 @@
         "article"
       ],
       "description_en": "Block ads and trackers in 2026: uBlock Origin on Firefox, uBO Lite for Chromium, plus DNS-level filtering with Pi-hole or AdGuard Home. Step-by-step guide.",
-      "content_hash_en": "3751c5650ad6ca6a7968a0b80f26ad2deebaac57e13c3ca61cdf775dfd4c69cc",
+      "content_hash_en": "ab58c228d38a0671890a8b4ef53ed1d97029f6595964206257fdfe9712f16287",
       "backlinks": [
         "containers-vs-vms-complete-guide-2026",
-        "detect-block-bot-traffic-selfhosted-guide-2026",
-        "containers-vs-vms-complete-guide-2026"
+        "detect-block-bot-traffic-selfhosted-guide-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "duckdb-self-hosted-analytics-guide-2026": {
@@ -2310,13 +2279,12 @@
         "article"
       ],
       "description_en": "Practical guide to DuckDB for homelab and self-hosted users: install the single binary, query CSV/Parquet/JSON directly, analyze logs and exports without spinning up a database server. Real examples.",
-      "content_hash_en": "fe2265c68a664e257712112ae2c086217062de05d51f234585247467e7413222",
+      "content_hash_en": "3a88e286e32058d0dc1359faa3e29514930d044c58cadfe4970d5d32f8d70810",
       "backlinks": [
         "sqlite-wal-corruption-guide-2026",
-        "postgresql-performance-best-practices-homelab-2026",
-        "sqlite-wal-corruption-guide-2026"
+        "postgresql-performance-best-practices-homelab-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "how-to-update-open-webui-2026": {
@@ -2334,13 +2302,12 @@
         "article"
       ],
       "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and LXC on Proxmox. Make a backup before, avoid post-update bugs and automate with Watchtower.",
-      "content_hash_en": "194355c1b9b6ee47cbe31509e695c917c04d9f72718c6276d12c189014ca0271",
+      "content_hash_en": "b7af0e29f8ee5bf89ec642f54f5d8e2705982742de2629ea53ef16dc58f4c321",
       "backlinks": [
         "fix-custom-models-open-webui",
-        "containers-vs-vms-complete-guide-2026",
-        "fix-custom-models-open-webui"
+        "containers-vs-vms-complete-guide-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "stock-price-duration-survivorship-ai-capex-2026": {
@@ -2358,13 +2325,12 @@
         "opinion"
       ],
       "description_en": "A stock price is the present value of decades of future cash flows — but most companies never survive that long. What that old finance math says about the AI investment boom and the growing skepticism around it.",
-      "content_hash_en": "5dfb182b986ad0a5e835c8181311fb1bd969809641c5ea0bab9194b48b702fce",
+      "content_hash_en": "c548abbcd748ece6c798dbef8bd3102363bdc479c0c4bc2604b3cf6da34f9495",
       "backlinks": [
         "ia-desenvolvimento-software-complexidade-codigo",
-        "ai-beats-procrastination",
-        "ia-desenvolvimento-software-complexidade-codigo"
+        "ai-beats-procrastination"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "github-alternatives-self-hosted-comparison-2026": {
@@ -2382,11 +2348,11 @@
         "article"
       ],
       "description_en": "Compare Gitea, Forgejo, GitLab CE, Codeberg, SourceHut and Radicle in 2026: self-hosted vs managed, resource use, CI/CD, the 2026 outage record driving migration, and a practical checklist.",
-      "content_hash_en": "bb57ec7b760528f4ebc73f0906a0022921e18abc2ed49fe4c6eaa119a42ccd05",
+      "content_hash_en": "9362866db53d6ee80c428c18730d2219046d162c8ff3127605a49eedc0ebb479",
       "backlinks": [
         "containers-vs-vms-complete-guide-2026",
-        "containers-vs-vms-complete-guide-2026",
-        "one-week-review-gitbutler"
+        "one-week-review-gitbutler",
+        "stacked-pull-requests-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2406,13 +2372,11 @@
         "article"
       ],
       "description_en": "Understand the Nagoya Protocol, the sharing of benefits from the use of genetic resources and traditional knowledge, and how Law 13.123/2015 and SisGen work in Brazil.",
-      "content_hash_en": "f0805b68ccc9b16ec6a3db62c8c3b3c6fa4c93fc766b81db0777ac1cf77ef46f",
+      "content_hash_en": "6206e70cac30bcca67b9b24c9d4e6d115a1d2d077850b73b475301cceb2de7af",
       "backlinks": [
-        "brasil-tratado-budapeste-patentes-biotecnologia",
-        "brasil-tratado-budapeste-patentes-biotecnologia",
         "brasil-tratado-budapeste-patentes-biotecnologia"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "how-to-split-git-commit-guide-2026": {
@@ -2505,7 +2469,7 @@
         "opinion"
       ],
       "description_en": "Rose 439% with 4x leverage and was liquidated in weeks: what the collapse of the Situational Awareness fund teaches about expected return and duration.",
-      "content_hash_en": "f56beb64183115b0185246d7d447db44a482be5b114af0a331b8ade91a71b650",
+      "content_hash_en": "abf59da4c00a19fcb51e6420e8406a4170f58addf09abdcb1ac03cb4a19080e1",
       "backlinks": [
         "stock-price-duration-survivorship-ai-capex-2026",
         "dawkins-claude-consciencia-ia",
@@ -2577,13 +2541,11 @@
         "article"
       ],
       "description_en": "Grok Bot promises a team of AI agents that work 24/7 and talk to each other — but the cycle of hype, adoption by competitors, and being forgotten repeats itself.",
-      "content_hash_en": "48e3514136a3b0b2b01042aeb0a2ad6a486138ad529a1bfc82f5dac6dc0d220b",
+      "content_hash_en": "ac9253d1c359bb1dc8bda597256ebcfb7e5a8d5a9284411b099fd0a6023afac2",
       "backlinks": [
-        "modelos-ia-abertos-vs-fronteira-dados-2026",
-        "modelos-ia-abertos-vs-fronteira-dados-2026",
         "modelos-ia-abertos-vs-fronteira-dados-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "lightweight-linux-vps-monitoring-guide-2026": {
@@ -2626,13 +2588,11 @@
         "article"
       ],
       "description_en": "Step-by-step guide to testing PostgreSQL backups: validate pg_dump files, restore into scratch databases, automate restore drills with cron, and track RPO/RTO. Includes pgBackRest and restoredrill.",
-      "content_hash_en": "ca20f1e0265448dde92f9934efb70c12a25f0feb8fdc89f467749f0054021457",
+      "content_hash_en": "5cabad785e3d526bec8d423c4b1e7cb741844a1410ac7163b4aa0e1bd854c9e7",
       "backlinks": [
-        "proxmox-backup-server-community-scripts-2026",
-        "proxmox-backup-server-community-scripts-2026",
         "proxmox-backup-server-community-scripts-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "radares-tecnologicos-inpi-guia-completo": {
@@ -2675,11 +2635,11 @@
         "article"
       ],
       "description_en": "Complete guide to patent annuities at INPI: when to pay, 2026 fee schedule by patent type and age bracket, how to issue the GRU, grace periods, restoration, and the new Patent Services Module.",
-      "content_hash_en": "9a62f6c3ab14df1305ff6d96f9189f3451dddb5a849bd9256be8c0f2da20c797",
+      "content_hash_en": "09f584398514d1115187719e619b6d0c0b113995345d07965bdc26de8e7cfc21",
       "backlinks": [
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
-        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
-        "guia-deposito-patente-inpi-2026"
+        "guia-deposito-patente-inpi-2026",
+        "como-consultar-andamento-processo-inpi"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2723,13 +2683,12 @@
         "article"
       ],
       "description_en": "Deadlines, costs and step-by-step for trademark renewal at INPI: the final-year window, 6-month extraordinary period, fees per class and how to avoid lapse.",
-      "content_hash_en": "4ba6b8ef7e38316f9f279787d8be0ec5f437ed1cea0e7eb32ce7540c674d6447",
+      "content_hash_en": "ff5ea44192ff2fd3ba4911be144f4069bf6b70ee2bf13d086b0c59bbca16e7fd",
       "backlinks": [
         "como-consultar-andamento-processo-inpi",
-        "quanto-custa-registrar-marca-inpi-2026",
-        "como-consultar-andamento-processo-inpi"
+        "quanto-custa-registrar-marca-inpi-2026"
       ],
-      "backlink_source": "file",
+      "backlink_source": "pending",
       "last_processed": null
     },
     "llm-quantization-guide-gguf-2026": {
@@ -2772,7 +2731,7 @@
         "article"
       ],
       "description_en": "Build a self-hosted mesh VPN with WireGuard and Headscale in 2026: install, register nodes, subnet routers, exit nodes and access policies. Full guide.",
-      "content_hash_en": "dfa8981a9b93880b10dbb7bc25c03a8f2e0f7e86c5f516976dd29fd728222f1b",
+      "content_hash_en": "c3599cc65b62dfc0196f7b693caf47656cc432b4edacabf51179132faa70da9e",
       "backlinks": [
         "verify-postgresql-backups-restore-guide-2026",
         "detect-block-bot-traffic-selfhosted-guide-2026",

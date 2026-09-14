@@ -53,7 +53,9 @@ A inteligência artificial tem sido um tema de interesse para mim e já comentei
 
 Leia também:
 
-- [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
+- [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
+- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Software Pessoal na Era da IA: Como Qualquer Pessoa Pode Criar Apps para um Público de Um]({{< relref "posts/personal-software-ai-guide-2026/" >}})
 
 ---
 

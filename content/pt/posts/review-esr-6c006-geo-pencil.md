@@ -52,8 +52,8 @@ Aqui estão os principais bloqueios técnicos que tornam essa modificação invi
 Leia também:
 
 - [10 anos usando o MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
-- [Linux vs Windows vs macOS em 2026: Qual Sistema Usar? [Tabela]]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
 - [Pensamentos sobre o hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})
+- [Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
 
 ---
 

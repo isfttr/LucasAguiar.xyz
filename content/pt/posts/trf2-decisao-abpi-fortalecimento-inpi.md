@@ -101,8 +101,9 @@ vantagem estratégica.
 
 Leia também:
 
+- [Plano Estratégico do INPI 2027-2036: Guia Completo dos 7 Objetivos e o que Muda para Empresas]({{< relref "posts/inpi-plano-estrategico-2027-2036-guia-completo/" >}})
 - [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
-- [ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
+- [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 
 ---
 

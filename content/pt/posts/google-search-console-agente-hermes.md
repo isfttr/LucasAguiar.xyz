@@ -131,4 +131,6 @@ Você pode entrar em contato comigo sobre este ou outros tópicos pelo meu e-mai
 
 Leia também:
 
-- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Habilitando o WhatsApp no Hermes Agent self-hosted: três armadilhas (e como passei por elas)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
+- [Guia Stateless do MCP [2026]: O que mudou no Model Context Protocol 2.0]({{< relref "posts/stateless-mcp-guide-2026/" >}})
+- [Como Rodar Dois Hermes Gateways: Um Remoto e Um Local]({{< relref "posts/como-ter-dois-hermes-gateways/" >}})

@@ -55,6 +55,7 @@ The underlying issue remains the same that motivated the ADI: as long as the INP
 Read also:
 
 - [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [PL 5810/2025: The Ministry of Health Study That Projects R$ 3 Billion in Additional Costs to SUS]({{< relref "posts/pl-5810-2025-estudo-ministerio-saude-patentes-sus/" >}})
 - [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
 
 ---

@@ -55,7 +55,9 @@ Artificial intelligence has been a topic of interest for me, and I have already 
 
 Read also:
 
-- [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
+- [How AI Coding Agents Actually Work: An Architectural Guide [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
+- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Personal Software in the AI Era: How Anyone Can Build Apps for an Audience of One]({{< relref "posts/personal-software-ai-guide-2026/" >}})
 
 ---
 

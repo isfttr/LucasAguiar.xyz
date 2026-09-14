@@ -52,6 +52,7 @@ A questão subjacente permanece a mesma que motivou a ADI: enquanto o INPI demor
 Leia também:
 
 - [PTA Patentes 2026: STJ Negou Extensão, Mas o Debate Chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [PL 5810/2025: o Estudo do Ministério da Saúde Que Projeta R$ 3 Bilhões em Custos Adicionais ao SUS]({{< relref "posts/pl-5810-2025-estudo-ministerio-saude-patentes-sus/" >}})
 - [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
 
 ---

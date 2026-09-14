@@ -133,4 +133,6 @@ You can contact me about this or other topics at <contact@lucasaguiar.xyz>.
 
 Read also:
 
-- [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Enabling WhatsApp on Hermes Agent self-hosted: three pitfalls (and how I overcame them)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
+- [Stateless MCP Guide [2026]: What Changed in the Model Context Protocol 2.0]({{< relref "posts/stateless-mcp-guide-2026/" >}})
+- [How to Run Two Hermes Gateways: One Remote and One Local]({{< relref "posts/como-ter-dois-hermes-gateways/" >}})

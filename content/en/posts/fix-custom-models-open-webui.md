@@ -34,6 +34,7 @@ And the model list should show your custom models.
 Read also:
 
 - [How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
+- [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
 - [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
 
 ---
