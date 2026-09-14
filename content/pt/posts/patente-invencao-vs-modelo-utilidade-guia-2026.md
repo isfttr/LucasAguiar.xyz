@@ -5,7 +5,7 @@ title: "Patente de Invenção vs Modelo de Utilidade: Diferenças, Prazos e Cust
 description: "Diferenças entre patente de invenção (PI) e modelo de utilidade (MU) no INPI: requisitos legais da LPI, prazos de proteção, custos 2026, exemplos práticos e como escolher o tipo certo."
 featured_image: ""
 aliases:
-  - /pt/posts/patente-vs-modelo-utilidade-brasil/
+  - /posts/patente-vs-modelo-utilidade-brasil/
 categories:
   - article
 tags:

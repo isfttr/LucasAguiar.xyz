@@ -15,7 +15,7 @@ tags:
   - productivity
   - version-control
 aliases:
-  - /pt/posts/gitbutler-what-is-review-alternatives-2026/
+  - /posts/gitbutler-what-is-review-alternatives-2026/
 translation_source_hash: a9a04e1c49efe2c1b05840e4319adc86eae28496249ab5d985c090febf34837b
 ---
 
