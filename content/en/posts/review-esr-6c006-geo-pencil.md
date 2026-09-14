@@ -41,7 +41,7 @@ Whether this was the best design choice is debatable. For a use scenario focused
 Read also:
 
 - [10 years using the MacBook Pro 9,2]({{< relref "posts/10-years-of-macbook-pro/" >}})
-- [Linux vs Windows vs macOS 2026: Which OS to Use? [Table]]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
+- [Linux vs Windows vs macOS in 2026: Which One Wins? [Table]]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
 - [Thoughts on the hu.ma.ne AI Pin]({{< relref "posts/ai-pin/" >}})
 
 ---

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T16:17:19.962Z",
+  "last_updated": "2026-09-14T18:01:05.889Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -406,8 +406,8 @@
     },
     "one-week-review-gitbutler": {
       "slug": "one-week-review-gitbutler",
-      "title_en": "GitButler Review 2026: My Honest Verdict After 2 Weeks",
-      "title_pt": "GitButler Review 2026: Meu Veredito Honesto Após 2 Semanas",
+      "title_en": "GitButler 2026: Review, Pricing and Alternatives [Tested]",
+      "title_pt": "GitButler 2026: Review, Preço e Alternativas [Testado]",
       "tags": [
         "git",
         "workflow",
@@ -419,12 +419,12 @@
       "categories": [
         "article"
       ],
-      "description_en": "Honest GitButler review 2026 after two weeks replacing my Git workflow: virtual branches, GitButler vs jujutsu and worktrees, what works and what doesn't. Verdict inside.",
-      "content_hash_en": "b2bda8a8e36274238a66b788ec78cdd49a5db9ec7e80da6233d3af0bdff1d2fd",
+      "description_en": "GitButler review 2026: how virtual branches work, free client vs paid Cloud, the but CLI and TUI, and GitButler vs jujutsu, worktrees, lazygit and Graphite.",
+      "content_hash_en": "00931578e1ee74de2ef4e4ec3582f2a6fca9656287296252ecf0a7776d6a6251",
       "backlinks": [
-        "gitbutler-what-is-review-alternatives-2026",
-        "experience-with-cursor-and-windsurf",
-        "vibe-coding-pitfalls"
+        "stacked-pull-requests-guide-2026",
+        "mastering-git-log-history-guide-2026",
+        "stacked-pull-requests-guide-2026"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -498,8 +498,8 @@
       "categories": [
         "tutorial"
       ],
-      "description_en": "Proxmox login failed with 'authentication failure 401'? Fix wrong realm, blocked user, expired ticket, unsynced clock or missing access.cfg. Step-by-step [2026].",
-      "content_hash_en": "98df9b8a35fe6023d03d2bc66e199512dd3da31bb532b10c3e7f9ca97fb600c5",
+      "description_en": "Login failed: authentication failure (401) in Proxmox? Fix wrong realm, blocked user, expired or invalid PVE ticket, clock skew or missing access.cfg — with FAQ.",
+      "content_hash_en": "4bd43ed12aeec438c279dc58b55c22084313680a93d5782f6f37d75e9d9fec5b",
       "backlinks": [
         "migracao-proxmox-8-9-2026",
         "proxmox-backup-server-community-scripts-2026",
@@ -552,8 +552,8 @@
     },
     "linux-windows-macos-qual-usar-2026": {
       "slug": "linux-windows-macos-qual-usar-2026",
-      "title_en": "Linux vs Windows vs macOS 2026: Which OS to Use? [Table]",
-      "title_pt": "Linux vs Windows vs macOS 2026: Comparação Completa e Qual Escolher",
+      "title_en": "Linux vs Windows vs macOS in 2026: Which One Wins? [Table]",
+      "title_pt": "Linux vs Windows vs macOS em 2026: Qual Sistema Usar? [Tabela]",
       "tags": [
         "linux",
         "macos",
@@ -566,8 +566,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "Linux vs Windows vs macOS in 2026: comparison table covering performance, software, privacy and cost — plus my verdict after years using all three daily.",
-      "content_hash_en": "3c6cbb6a26845fdfde9a95691aff28d642d2f6165b71beee7ed23fca63c94ff4",
+      "description_en": "Tested all three for years: Linux vs Windows vs macOS in 2026 compared on performance, software, privacy, hardware support and cost — with table and verdict.",
+      "content_hash_en": "b1bd9b54cc6c4f5b5efab94afd9473a825f770745536d5cae06f2e2723b96fc8",
       "backlinks": [
         "10-years-of-macbook-pro",
         "introduction",
@@ -2020,7 +2020,7 @@
         "article"
       ],
       "description_en": "Differences between invention patent (PI) and utility model (MU) at INPI: legal requirements of LPI, protection terms, 2026 costs, practical examples, and how to choose the right type.",
-      "content_hash_en": "3519b08964e5494408eae52c413f0a5228044d7d05dca1bd60e227c0e375165a",
+      "content_hash_en": "676e07908f0cbbb2674a64a5ba8ee00f32cca084efd2f30438372d12353d9639",
       "backlinks": [
         "patente-software-vs-registro-programa-computador-brasil",
         "patente-software-vs-registro-programa-computador-brasil",
@@ -2319,30 +2319,6 @@
       "backlink_source": "file",
       "last_processed": null
     },
-    "gitbutler-what-is-review-alternatives-2026": {
-      "slug": "gitbutler-what-is-review-alternatives-2026",
-      "title_en": "GitButler: What It Is, Review and Alternatives [2026]",
-      "title_pt": "GitButler: O Que É, Review e Alternativas [2026]",
-      "tags": [
-        "git",
-        "gitbutler",
-        "ferramentas-de-desenvolvimento",
-        "controle-de-versao",
-        "produtividade"
-      ],
-      "categories": [
-        "article"
-      ],
-      "description_en": "GitButler is a Git client with virtual branches, CLI, and TUI. Honest review after months of use, pricing model, and the best alternatives in 2026.",
-      "content_hash_en": "8468910e485bb1e03b9bfb05653628730d213cb323c2e589031a25e765087d15",
-      "backlinks": [
-        "one-week-review-gitbutler",
-        "mastering-git-log-history-guide-2026",
-        "stacked-pull-requests-guide-2026"
-      ],
-      "backlink_source": "file",
-      "last_processed": null
-    },
     "how-to-update-open-webui-2026": {
       "slug": "how-to-update-open-webui-2026",
       "title_en": "How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)",
@@ -2406,11 +2382,11 @@
         "article"
       ],
       "description_en": "Compare Gitea, Forgejo, GitLab CE, Codeberg, SourceHut and Radicle in 2026: self-hosted vs managed, resource use, CI/CD, the 2026 outage record driving migration, and a practical checklist.",
-      "content_hash_en": "b5b277bb9093a522d67c046fb9c38464dd056ec353237b3a8fdc996460edbce7",
+      "content_hash_en": "bb57ec7b760528f4ebc73f0906a0022921e18abc2ed49fe4c6eaa119a42ccd05",
       "backlinks": [
         "containers-vs-vms-complete-guide-2026",
         "containers-vs-vms-complete-guide-2026",
-        "gitbutler-what-is-review-alternatives-2026"
+        "one-week-review-gitbutler"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2454,11 +2430,11 @@
         "article"
       ],
       "description_en": "Step-by-step guide to split a git commit into multiple commits with plain git: git reset --soft, git add -p, and interactive rebase. Works on any git version.",
-      "content_hash_en": "700297ab492070401b3aa7ae42324c4dd0d954e2a79b34dc99c83275bdd1da00",
+      "content_hash_en": "c9ec3d5dc36c68acc373f7db8ebbc3ad70cc156bef6b134e6ba748586f5bf693",
       "backlinks": [
         "mastering-git-log-history-guide-2026",
         "stacked-pull-requests-guide-2026",
-        "gitbutler-what-is-review-alternatives-2026"
+        "one-week-review-gitbutler"
       ],
       "backlink_source": "file",
       "last_processed": null
@@ -2752,6 +2728,55 @@
         "como-consultar-andamento-processo-inpi",
         "quanto-custa-registrar-marca-inpi-2026",
         "como-consultar-andamento-processo-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "llm-quantization-guide-gguf-2026": {
+      "slug": "llm-quantization-guide-gguf-2026",
+      "title_en": "LLM Quantization Guide 2026: GGUF Formats, Q4 vs Q8, and How to Choose",
+      "title_pt": "Guia de Quantização de LLM 2026: Formatos GGUF, Q4 vs Q8 e Como Escolher",
+      "tags": [
+        "llm",
+        "quantization",
+        "gguf",
+        "llama-cpp",
+        "machine-learning"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "How to choose LLM quantization in 2026: GGUF formats explained (Q8_0, Q4_K_M, Q2, IQ1), quality cliffs, VRAM math, and practical rules for local models.",
+      "content_hash_en": "51d5b57a383cf39542c2888059a805b3d5586c95c4d59583b8c757763df7cc08",
+      "backlinks": [
+        "run-70b-llm-low-vram-gpu-guide-2026",
+        "run-llms-old-server-homelab-guide-2026",
+        "fine-tune-llm-consumer-gpu-guide-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "self-hosted-mesh-vpn-wireguard-headscale-guide-2026": {
+      "slug": "self-hosted-mesh-vpn-wireguard-headscale-guide-2026",
+      "title_en": "Self-Hosted Mesh VPN in 2026: WireGuard and Headscale Complete Guide",
+      "title_pt": "VPN Mesh Auto-Hospedada em 2026: Guia Completo de WireGuard e Headscale",
+      "tags": [
+        "wireguard",
+        "headscale",
+        "vpn",
+        "homelab",
+        "self-hosted",
+        "networking"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Build a self-hosted mesh VPN with WireGuard and Headscale in 2026: install, register nodes, subnet routers, exit nodes and access policies. Full guide.",
+      "content_hash_en": "dfa8981a9b93880b10dbb7bc25c03a8f2e0f7e86c5f516976dd29fd728222f1b",
+      "backlinks": [
+        "verify-postgresql-backups-restore-guide-2026",
+        "detect-block-bot-traffic-selfhosted-guide-2026",
+        "github-alternatives-self-hosted-comparison-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

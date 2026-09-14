@@ -128,7 +128,7 @@ Suspeito que esta jornada não terminou, pois o cenário das ferramentas de dese
 Leia também:
 
 - [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [GitButler Review 2026: Meu Veredito Honesto Após 2 Semanas]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [GitButler 2026: Review, Preço e Alternativas [Testado]]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [Da Procrastinação ao Progresso: Como a IA me tem ajudado]({{< relref "posts/ai-beats-procrastination/" >}})
 
 ---

@@ -198,8 +198,9 @@ Se você já expõe serviços, combine isto com o checklist em [como detectar e 
 
 Leia também:
 
-- [Auto-hospedar RustDesk: Guia de acesso remoto não assistido [2026]]({{< relref "posts/self-host-rustdesk-unattended-remote-access-guide-2026/" >}})
-- [Alternativas ao GitHub em 2026: opções auto-hospedadas e gerenciadas comparadas]({{< relref "posts/github-alternatives-self-hosted-comparison-2026/" >}})
+- [Como verificar se seus backups do PostgreSQL realmente podem ser restaurados [2026]]({{< relref "posts/verify-postgresql-backups-restore-guide-2026/" >}})
+- [Como Detectar e Bloquear Tráfego de Bots no Seu Site Auto-Hospedado [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
+- [Alternativas ao GitHub em 2026: comparação entre opções auto-hospedadas e gerenciadas]({{< relref "posts/github-alternatives-self-hosted-comparison-2026/" >}})
 
 ---
 

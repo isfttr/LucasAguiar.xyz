@@ -195,9 +195,10 @@ For a homelab, the combination is hard to beat: WireGuard gives you a fast, audi
 
 If you are already exposing services, pair this with the checklist in [how to detect and block bot traffic on a self-hosted website]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}}) and, if you self-host your own infrastructure, with the options in [GitHub alternatives in 2026]({{< relref "posts/github-alternatives-self-hosted-comparison-2026/" >}}). And for the remote-desktop layer on top of the tunnel, see [self-hosting RustDesk for unattended access]({{< relref "posts/self-host-rustdesk-unattended-remote-access-guide-2026/" >}}).
 
-Also read:
+Read also:
 
-- [Self-Host RustDesk: Unattended Remote Access Guide [2026]]({{< relref "posts/self-host-rustdesk-unattended-remote-access-guide-2026/" >}})
+- [How to Verify Your PostgreSQL Backups Actually Restore [2026]]({{< relref "posts/verify-postgresql-backups-restore-guide-2026/" >}})
+- [How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
 - [GitHub Alternatives in 2026: Self-Hosted and Managed Options Compared]({{< relref "posts/github-alternatives-self-hosted-comparison-2026/" >}})
 
 ---

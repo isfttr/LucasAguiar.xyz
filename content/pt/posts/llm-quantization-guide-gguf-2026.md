@@ -68,9 +68,9 @@ A quantização em 2026 é um problema resolvido com uma resposta entediante: us
 
 Leia também:
 
-- [Como Rodar LLMs de 70B em uma GPU de 4GB: Guia de Inferência com Baixo VRAM [2026]]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}})
-- [Como Rodar LLMs em Hardware de Servidor Antigo: Um Guia Prático de Homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
-- [Como Fazer Fine-Tuning em um LLM em uma GPU de Consumo: Guia de LoRA e QLoRA [2026]]({{< relref "posts/fine-tune-llm-consumer-gpu-guide-2026/" >}})
+- [Como Executar LLMs de 70B em uma GPU de 4GB: Guia de Inferência com Baixo VRAM [2026]]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}})
+- [Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático para Homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
+- [Como Fazer Fine-Tuning de um LLM em uma GPU de Consumidor: Guia de LoRA e QLoRA [2026]]({{< relref "posts/fine-tune-llm-consumer-gpu-guide-2026/" >}})
 
 ---
 
