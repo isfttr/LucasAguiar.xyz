@@ -1,8 +1,8 @@
 ---
 date: 2025-04-10T16:36:59.000Z
 draft: false
-title: 'GitButler Review 2026: Meu Veredito Honesto Após 2 Semanas'
-description: 'Review honesto do GitButler em 2026 após duas semanas substituindo meu fluxo de trabalho Git: virtual branches, GitButler vs jujutsu, o que funciona e o que não. Veredito no final.'
+title: 'GitButler 2026: Review, Preço e Alternativas [Testado]'
+description: 'Review do GitButler em 2026: como funcionam as virtual branches, cliente grátis vs Cloud pago, CLI e TUI, e GitButler vs jujutsu, worktrees, lazygit e Graphite.'
 url: ''
 featured_image: 'https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-gitbutler.png'
 categories:
@@ -14,89 +14,106 @@ tags:
   - developer-tools
   - productivity
   - version-control
+aliases:
+  - /pt/posts/gitbutler-what-is-review-alternatives-2026/
 translation_source_hash: a9a04e1c49efe2c1b05840e4319adc86eae28496249ab5d985c090febf34837b
 ---
-Tenho usado o [GitButler](https://docs.gitbutler.com/) há cerca de duas semanas e ele já transformou a forma como interajo com o Git. Como alguém que regularmente lida com múltiplas branches de features e alterna entre tarefas, eu estava procurando uma ferramenta que pudesse simplificar meu fluxo de trabalho Git. O GitButler chamou minha atenção com sua promessa de virtual branches e recursos de colaboração simplificados.
 
-Meu interesse foi ainda mais despertado depois de assistir a apresentações de Scott Chacon, um dos criadores do GitButler e também cofundador do GitHub. Seu profundo conhecimento de Git é evidente em palestras como [esta](https://www.youtube.com/watch?v=Md44rcw13k4&t=1032s), e isso se reflete na forma como o GitButler conseguiu criar uma experiência Git quase sem atritos.
+Você está no meio de uma feature, o time pede um hotfix urgente em produção, e sua working tree é um cemitério de mudanças pela metade. Git clássico: stash, troca de branch, stash de novo, e uma reza para lembrar qual stash era qual. Esse é exatamente o problema que o [GitButler](https://gitbutler.com) nasceu para resolver — e depois de usá-lo desde 2025, posso dizer que ele resolve isso na maior parte do tempo.
+
+Este review cobre o que é o GitButler em 2026, como as virtual branches se comportam no uso diário, o que o cliente gratuito inclui e como ele se compara com jujutsu, git worktrees, lazygit e os outros clientes Git que valem consideração.
 
 ## O que é o GitButler?
 
-Para aqueles que não estão familiarizados, o GitButler é um aplicativo de desktop projetado para modernizar os fluxos de trabalho do Git. Ele introduz o conceito de "virtual branches" que permitem trabalhar em múltiplos recursos simultaneamente sem a sobrecarga do gerenciamento de branches tradicional do Git. Ele também fornece uma interface visual para operações Git comuns e visa otimizar a colaboração por meio de mensagens de commit automatizadas e geração de PRs.
+O GitButler é um cliente Git moderno (aplicativo desktop, CLI `but` e TUI de terminal) construído sobre o Git padrão, criado por [Scott Chacon](https://github.com/schacon) — um dos cofundadores do GitHub. Ele não faz fork do Git nem inventa um novo formato de armazenamento: seu repositório continua sendo um repositório Git normal e cada branch criada nele é uma branch real. O projeto cresceu rápido: **21,5 mil estrelas no GitHub**, com a versão estável **0.22.0 "Catch 22"** (julho/2026), depois de um ano que incluiu uma **Série A de US$ 17 milhões liderada pela a16z** ([anúncio](https://blog.gitbutler.com/series-a/)).
 
-Curiosamente, algumas das ideias do GitButler parecem ser influenciadas por sistemas de controle de versão alternativos, como o Jujutsu, que foi construído por engenheiros do Google. Recentemente, assisti a um [episódio do podcast Bits and Booze sobre Jujutsu](https://www.youtube.com/watch?v=dwyMlLYIrPk) que mostrava um fluxo de trabalho diferente do Git tradicional. Por exemplo, no Jujutsu, você pode iniciar um novo "commit" e tudo o que é feito entre aquele ponto e o próximo início é automaticamente commitado — um conceito que parece ter inspirado parte da abordagem do GitButler para gerenciar mudanças. Eu recomendo muito assistir ao episódio se você estiver interessado na evolução dos sistemas de controle de versão.
+A ideia central são as **virtual branches**: em vez de uma branch ativa e uma pilha de stashes, você mantém várias branches "abertas" ao mesmo tempo no mesmo diretório de trabalho. As mudanças são atribuídas a uma branch virtual — manualmente ou por regras automáticas (por exemplo, uma branch por arquivo). Cada branch virtual pode ser commitada e enviada (push) de forma independente para sua branch de destino. Acabou o vai-e-vem de `git checkout`. Quando você quer pausar o trabalho em uma branch, basta "unapply": as mudanças saem da working tree, mas continuam armazenadas com segurança no Git como commits ocultos. Conflitos são tratados como cidadãos de primeira classe — rebases sempre funcionam e os commits em conflito ficam guardados até você resolvê-los, em qualquer ordem.
+
+Parte dessas ideias vem claramente de sistemas de controle de versão alternativos, como o [Jujutsu](https://jj-vcs.github.io/jj/), criado por engenheiros do Google. No Jujutsu, tudo o que acontece entre um ponto e o próximo é commitado automaticamente — conceito que o GitButler trouxe para uma ferramenta compatível com Git e com interface gráfica, e é justamente por isso que ele é mais fácil de adotar.
 
 ## Como é usar o GitButler
 
-Assim que você instala o GitButler pela primeira vez, você precisará configurar seu primeiro repositório local. Você terá algumas opções para fazer isso:
+Depois de instalar o GitButler, você configura seu primeiro repositório local. Você tem duas opções:
 
 1. Criar um novo repositório do zero.
-2. Clonar um repositório existente de um local remoto.
+2. Clonar um repositório existente de um remoto.
 
-Além disso, o GitButler oferece uma ótima integração com o GitHub, principalmente para criar pull requests, e recursos de IA para criar mensagens de commit e pull requests. Esses recursos foram particularmente úteis para mim.
+O GitButler também oferece uma ótima integração com o GitHub, principalmente para criar pull requests, além de recursos de IA para gerar mensagens de commit e descrições de PR. Esses recursos foram particularmente úteis para mim.
 
 ![Screenshot of GitButler Repository Setup](https://lucasaguiarxyzstorage.blob.core.windows.net/images/screenshot-gitbutler-repo-setup.png)
 
-Depois de escolher seu repositório local, você será recebido por uma interface limpa que exibe seu repositório atual e suas branches. A barra lateral esquerda fornece uma lista de suas branches virtuais, que você pode criar, excluir e alternar. A barra lateral direita exibe o status do seu repositório, incluindo quaisquer alterações não commitadas. Além disso, você também pode mover os arquivos alterados para uma nova branch ou para outra branch existente. Cada mudança que você faz será colocada na "lane" padrão, e se você tiver mais de uma branch ("lane") aplicada, você pode definir as "lanes" ativas para receber automaticamente essas mudanças. Esse recurso me deixou um pouco confuso no início, mas depois de um tempo, tornou-se algo natural.
+Depois de escolher o repositório, você recebe um workspace limpo: a barra lateral esquerda lista suas branches virtuais (criar, excluir, alternar), a direita mostra o status do repositório e as alterações não commitadas, e você pode mover arquivos alterados entre branches. Toda mudança cai na lane padrão, e se você tiver mais de uma lane aplicada pode definir quais recebem as novas mudanças automaticamente. Levei um tempo para internalizar isso, mas virou algo natural.
 
 ![Screenshot of GitButler Workspace](https://lucasaguiarxyzstorage.blob.core.windows.net/images/screenshot-gitbutler-workspace.png)
 
-As mensagens de commit podem ser geradas por IA depois que você seleciona os arquivos ou trechos de código alterados que deseja commitar. O GitButler analisará as alterações e sugerirá uma mensagem de commit com base nas alterações feitas, e é realmente útil quando algo dá errado. Costumo usá-lo e adicionar outras informações que podem ser úteis para o futuro.
+As mensagens de commit podem ser geradas por IA depois que você seleciona os arquivos ou trechos que quer commitar: o GitButler lê o diff e sugere a mensagem, o que ajuda de verdade quando você volta a uma alteração horas depois. Normalmente aceito a sugestão e acrescento o contexto que vou precisar no futuro.
 
 ![Screenshot of GitButler Commit message](https://lucasaguiarxyzstorage.blob.core.windows.net/images/screenshot-gitbutler-commit.png)
 
-## Minha experiência até agora
+## O que mudou desde o primeiro review
 
-Após duas semanas de uso consistente, o GitButler substituiu completamente meu uso do Git na linha de comando e dentro do meu editor de código. O gerenciamento visual de branches tem sido particularmente útil, permitindo-me alternar rapidamente entre diferentes tarefas sem a sobrecarga mental de "stashing" ou commitar alterações em andamento.
+Escrevi sobre o GitButler pela primeira vez depois de duas semanas de uso diário (2025). Um ano depois, o que mudou são justamente as partes que importam para quem avalia a ferramenta em 2026:
 
-### O que está funcionando bem
+- **A CLI e a TUI `but`** (série 0.19+) levam o mesmo motor para o terminal, com saída `--json` para scripts. O `but land` faz merge direto na main e branches empilhadas são tratadas nativamente — essencial para quem trabalha com [pull requests empilhados]({{< relref "posts/stacked-pull-requests-guide-2026/" >}}).
+- **O log de operações é o recurso matador.** Toda operação é registrada, e `but undo` / `but redo` / `but oplog` dão uma rede de segurança de undo/redo que o Git puro não tem. Commitou na branch errada por acidente? Desfaz.
+- **Editar histórico sem terror de `rebase -i`:** squash, reword, split, amend e mover commits por drag-and-drop ou CLI. Se você ainda está começando com [fluxos de histórico interativos]({{< relref "posts/mastering-git-log-history-guide-2026/" >}}), esta é uma porta de entrada mais suave.
+- **IA onde ela ajuda:** mensagens de commit, nomes de branch, descrições de PR e, desde a 0.22, resolução assistida de conflitos (`but resolve --ai`). No primeiro review, a integração com modelos locais via Ollama estava quebrada e os recursos de IA dependiam da nuvem — as versões de 2026 estão bem mais confiáveis.
+- **PRs empilhados nativos** (0.22) no GitHub.
 
-1. **Virtual Branches**: A capacidade de trabalhar em múltiplos recursos simultaneamente sem a troca tradicional de branches tem sido um divisor de águas. Posso alternar facilmente o contexto entre diferentes tarefas sem me preocupar em "stashing" alterações ou criar commits confusos.
+## O que funciona e o que não funciona
 
-2. **Interface Visual**: A UI é intuitiva e torna as operações Git mais acessíveis. Ser capaz de ver exatamente quais arquivos foram alterados em cada branch virtual me ajudou a evitar incluir acidentalmente alterações não relacionadas em commits.
+Depois de meses de uso, a lista honesta:
 
-3. **Integração Perfeita**: Apesar de ser um aplicativo separado, o GitButler se integra bem ao meu fluxo de trabalho existente. Não tive que mudar significativamente a forma como trabalho para acomodar a ferramenta.
+**O que funciona bem**
 
-4. **Gerenciamento de Commits**: Criar commits granulares e significativos é muito mais fácil com a interface visual, permitindo-me selecionar alterações específicas para incluir.
+- **Virtual branches** eliminam de fato o custo da troca de contexto. Mantenho uma branch de feature, uma de tarefas e uma de experimentos abertas ao mesmo tempo, e os commits caem no lugar certo sem eu pensar nisso.
+- **O histórico de undo/redo** acabou com meu medo de erro irreversível. É o recurso mais subestimado da ferramenta.
+- **Commits granulares**: selecionar trechos específicos visualmente é melhor que `git add -p` para quem pensa em arquivos e telas.
+- **Continua sendo Git padrão.** Se o GitButler desaparecer amanhã, `git log` e `git push` seguem funcionando exatamente igual. Sem lock-in.
 
-### Limitações Atuais
+**Limitações atuais**
 
-Apesar da experiência geral positiva, encontrei algumas limitações:
+- **É um modelo mental diferente.** Se você vive de `git checkout` + stash por reflexo, a primeira semana parece mais lenta, não mais rápida.
+- **Evolui rápido** (0.19 → 0.22 em seis meses) e a CLI mudou nomes de comandos no caminho. A [documentação](https://docs.gitbutler.com/cli-overview) acompanha, mas não é a estabilidade do Git.
+- **A integração com forges é GitHub-first.** GitLab e Bitbucket funcionam, mas o capricho está no GitHub.
+- **O cliente gratuito** é o que a maioria dos desenvolvedores solo precisa, mas os recursos de equipe estão no Cloud.
 
-1. **Problemas com o Modelo Local do Ollama**: Tenho estado ansioso para experimentar os recursos de geração de mensagens de commit e pull request alimentados por IA usando os modelos locais do Ollama. Infelizmente, essa funcionalidade não parece estar funcionando corretamente no momento. Pelo que entendi, este é um problema conhecido que ainda não foi corrigido.
+## Preço em 2026
 
-2. **Convenções de Nomenclatura de Branches**: As convenções de nomenclatura padrão para branches não são as minhas favoritas. No entanto, como as branches virtuais no GitButler são tão efêmeras, isso não me incomodou o suficiente para realmente alterá-las. A facilidade de criar e gerenciar branches supera o pequeno incômodo de seus nomes gerados automaticamente.
+O cliente — aplicativo desktop, CLI `but` e TUI — é **gratuito**, distribuído sob a [licença Fair Source](https://github.com/gitbutlerapp/gitbutler): você pode ver, usar e contribuir, só não pode construir um produto concorrente em cima, e ele passa a MIT depois de dois anos. O plano pago é o **GitButler Cloud** (app.gitbutler.com), uma plataforma por assinatura com programa de "preço travado" para apoiadores iniciais; não há tabela pública de preços no site e o pagamento é gerenciado dentro do aplicativo. Para desenvolvedores solo e homelab, o cliente gratuito basta.
 
-3. **Curva de Aprendizagem**: Embora a interface seja intuitiva, ainda há uma pequena curva de aprendizagem ao se adaptar pela primeira vez ao conceito de branch virtual, especialmente se você estiver profundamente enraigado nos fluxos de trabalho Git tradicionais.
+## Alternativas ao GitButler em 2026
 
-## Olhando para o futuro
+| Ferramenta | Melhor para | Licença / Preço |
+|---|---|---|
+| [GitButler](https://gitbutler.com) | Virtual branches, undo, Git com IA | Cliente grátis + Cloud pago |
+| [Jujutsu (jj)](https://jj-vcs.github.io/jj/) | VCS baseado em mudanças, edição de histórico, compatível com Git | Grátis, open source |
+| [Git worktrees](https://git-scm.com/docs/git-worktree) | Várias branches em paralelo, sem ferramenta nova | Incluído no Git |
+| [lazygit](https://github.com/jesseduffield/lazygit) | TUI de terminal rápida para Git | Grátis, open source |
+| [Fork](https://git-fork.com) | GUI desktop polida para macOS/Windows | Grátis (doação) |
+| [Sublime Merge](https://www.sublimemerge.com) | Cliente desktop focado em performance e diff | Pago |
+| [Tower](https://www.git-tower.com) | Cliente desktop para iniciantes, com bom material de aprendizado | Pago (teste) |
+| [GitKraken](https://www.gitkraken.com) | GUI com grafo de commits, LFS e ferramentas de time | Freemium + pago |
+| [Graphite](https://graphite.dev) | Fluxo de PRs empilhados para trunk-based em escala | Grátis + pago |
 
-Estou particularmente interessado em ver como a integração do Ollama se desenvolverá uma vez que os [problemas](https://github.com/gitbutlerapp/gitbutler/issues/5862#issuecomment-2756082477) forem corrigidos. Ter mensagens de commit e descrições de PRs geradas localmente e contextualmente sem enviar código para serviços externos seria uma vantagem significativa.
+Se você quer ficar 100% no terminal e em open source, **lazygit** e **Jujutsu** são as melhores escolhas. Se quer GUI + CLI sem aprender um novo modelo de VCS, o GitButler é a opção mais inovadora hoje. E se você não troca de branch mais de duas vezes por dia, [git worktrees]({{< relref "posts/stacked-pull-requests-guide-2026/" >}}) pode ser tudo o que você precisa.
 
-Vale a pena notar que, com a vasta experiência de Scott Chacon em Git (como demonstrado em suas [apresentações técnicas](https://www.youtube.com/watch?v=Md44rcw13k4&t=1032s)), há boas razões para ser otimista quanto ao desenvolvimento futuro do GitButler. O aplicativo já demonstra um profundo entendimento do que torna o Git poderoso, ao mesmo tempo em que aborda muitos de seus pontos problemáticos.
+## Veredito
 
-Também estou curioso para ver como o GitButler continuará a incorporar ideias inovadoras de sistemas de controle de versão alternativos como o Jujutsu. Como o [podcast sobre Jujutsu](https://www.youtube.com/watch?v=dwyMlLYIrPk) revelou, existem algumas abordagens fascinantes para o controle de versão que diferem significativamente do modelo do Git, e o GitButler parece estar unindo alguns desses conceitos em uma ferramenta mais acessível.
-
-Mesmo com as limitações atuais, o GitButler já se provou valioso o suficiente para se tornar minha interface Git principal. Os ganhos de produtividade com o gerenciamento simplificado de branches, por si só, justificam a mudança.
-
-## Conclusão
-
-Após duas semanas de uso, posso afirmar com confiança que o GitButler melhorou meu fluxo de trabalho Git. O conceito de branches virtuais resolve elegantemente muitos dos pontos problemáticos associados à troca de contexto entre tarefas, e a interface visual torna as operações Git complexas mais acessíveis.
-
-Embora ainda existam alguns recursos que precisam de refinamento (principalmente a integração do Ollama para mensagens de commit e pull requests automáticas), o aplicativo tem sido estável e confiável para meu uso diário. Não encontrei nenhuma experiência negativa que me fizesse considerar retornar ao meu fluxo de trabalho anterior.
-
-Se você trabalha frequentemente em múltiplos recursos em paralelo ou se sente frustrado com o gerenciamento tradicional de branches Git, o GitButler definitivamente vale a pena explorar. A equipe por trás dele parece receptiva ao feedback, e estou otimista sobre como a ferramenta continuará a evoluir.
+O GitButler não é "Git com interface gráfica" — é uma releitura real de como as branches deveriam funcionar, e a aposta de 2026 em CLI, TUI e agentes o torna relevante até para quem vive no terminal. É gratuito, mantém seu repositório padrão, e o log de operações sozinho já justifica o download. Teste as virtual branches por duas semanas; se ainda sentir falta do `git stash`, a tabela de alternativas acima resolve.
 
 ## Referências
 
-- [Jujutsu - A Git-compatible VCS](https://www.youtube.com/watch?v=LV0JzI8IcCY) - Apresentação de Martin von Zweigbergk na GitMerge 2024 explicando os princípios de design e recursos do Jujutsu.
-- [GitButler Product Demo](https://www.youtube.com/watch?v=agfyTN3HpRM) - Uma visão geral e demonstração dos recursos principais e melhorias de fluxo de trabalho do GitButler.
+- [Jujutsu - A Git-compatible VCS](https://www.youtube.com/watch?v=LV0JzI8IcCY) - apresentação de Martin von Zweigbergk no GitMerge 2024 sobre os princípios de design do Jujutsu.
+- [GitButler Product Demo](https://www.youtube.com/watch?v=agfyTN3HpRM) - visão geral das funcionalidades centrais e do fluxo de trabalho do GitButler.
+- [Scott Chacon sobre internals do Git](https://www.youtube.com/watch?v=Md44rcw13k4&t=1032s) - a palestra que me convenceu de que o GitButler entendia o problema.
 
 Leia também:
 
-- [GitButler: O Que É, Review e Alternativas [2026]]({{< relref "posts/gitbutler-what-is-review-alternatives-2026/" >}})
-- [Cursor vs Windsurf vs Zed 2026: Qual Editor de Código com IA é o Melhor?]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
-- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Histórico do Git em 2026: Guia Completo de fixup, reword e split]({{< relref "posts/mastering-git-log-history-guide-2026/" >}})
+- [Pull Requests Empilhados: Guia Completo e Boas Práticas [2026]]({{< relref "posts/stacked-pull-requests-guide-2026/" >}})
+- [De Cursor a Windsurf a Zed: Minha Jornada por Editores de Código com IA]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
 
 ---
-Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.
+
+Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>

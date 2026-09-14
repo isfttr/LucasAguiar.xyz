@@ -67,6 +67,55 @@ function stringifyPost(content, data) {
 // touched.
 const NEUTRAL_FM_FIELDS = ['draft'];
 
+// `draft` propagation is intentionally one-way: publishing (false) flows to the
+// translation so both languages go live together, but a stale `draft: true` on
+// the source NEVER takes a live translation offline. That asymmetry exists
+// because of a real incident (13/09/2026): the scheduler published
+// `script-update-open_webui-lxc` (draft:true -> false) and the next i18n run
+// copied the source's `draft: true` back over it 60 seconds later, re-drafting a
+// post that had just gone live. Un-publishing a translation now requires an
+// explicit edit in the target file itself.
+function resolveDraft(sourceDraft, targetDraft, targetPath) {
+  if (sourceDraft === undefined) return targetDraft;
+  // First translation (no target yet) or a publish: propagate the source value.
+  if (targetDraft === undefined || sourceDraft === false) return sourceDraft;
+  if (targetDraft === false && sourceDraft === true) {
+    console.log(`Guard: refusing to un-publish ${targetPath} (source draft:true, target draft:false)`);
+    return false;
+  }
+  return sourceDraft;
+}
+
+// Slugs consolidated as permanent redirects: `static/posts/<slug>/index.html`
+// holds a canonical + noindex stub pointing at the survivor post. Files whose
+// effective slug is one of these are leftovers of an already-consolidated
+// duplicate, so the i18n chain must never translate or revive them.
+let aliasSlugCache = null;
+function collectAliasSlugs() {
+  if (aliasSlugCache) return aliasSlugCache;
+  const dir = path.join(__dirname, '../static/posts');
+  const set = new Set();
+  if (fs.existsSync(dir)) {
+    for (const entry of fs.readdirSync(dir)) {
+      if (fs.existsSync(path.join(dir, entry, 'index.html'))) set.add(entry);
+    }
+  }
+  aliasSlugCache = set;
+  return set;
+}
+
+function isConsolidatedAlias(filePath) {
+  if (!filePath) return false;
+  const aliases = collectAliasSlugs();
+  if (aliases.has(path.basename(filePath).replace(/\.md$/, ''))) return true;
+  try {
+    const { data } = matter(fs.readFileSync(filePath, 'utf8'));
+    return !!data.slug && aliases.has(data.slug);
+  } catch {
+    return false;
+  }
+}
+
 // Copy language-neutral front matter from `sourceData` onto the target file,
 // preserving the target's body and its localized fields. When
 // `sourceHashToStamp` is provided, also stamp it as the target's
@@ -79,8 +128,12 @@ function syncNeutralFrontMatter(sourceData, targetPath, sourceHashToStamp = null
   let changed = false;
 
   for (const field of NEUTRAL_FM_FIELDS) {
-    if (field in sourceData && data[field] !== sourceData[field]) {
-      data[field] = sourceData[field];
+    if (!(field in sourceData)) continue;
+    const next = field === 'draft'
+      ? resolveDraft(sourceData[field], data[field], targetPath)
+      : sourceData[field];
+    if (data[field] !== next) {
+      data[field] = next;
       changed = true;
     }
   }
@@ -293,6 +346,12 @@ async function translateFile(sourcePath, targetPath, targetLang) {
   const targetBase = path.basename(targetPath).replace(/\.md$/, '');
   const urlBase = sectionUrlBase(targetPath); // '/posts/' (EN) | '/pt/posts/' (PT)
 
+  // Publishing flows to the translation; a stale `draft: true` on the source
+  // never un-publishes a live target (see resolveDraft).
+  if ('draft' in data) {
+    data.draft = resolveDraft(parsed.data.draft, targetData ? targetData.draft : undefined, targetPath);
+  }
+
   // Mint a native-language slug only when there is no existing translation to
   // keep stable — this is the sole place the (non-deterministic) LLM slug runs.
   let generatedSlug = null;
@@ -371,6 +430,14 @@ async function syncDirectories() {
 
   for (const [relPath, files] of fileMap.entries()) {
     if (!relPath.endsWith('.md')) continue;
+    // Consolidation leftovers: files whose slug already redirects to a canonical
+    // post must never be translated or revived (that is how
+    // script-update-open_webui-lxc and proxmox-401-authentication-failure-fix-2026
+    // kept coming back to life).
+    if (isConsolidatedAlias(files.en) || isConsolidatedAlias(files.pt)) {
+      console.log(`Skipped (consolidated alias): ${relPath}`);
+      continue;
+    }
     if (!files.en || !files.pt) {
       missing.push([relPath, files]);
     } else {

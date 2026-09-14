@@ -159,7 +159,7 @@ If you are on git 2.54+ (April 2026), there is now an experimental built-in that
 
 ## When splitting fits your workflow
 
-Splitting is the cleanup step that makes everything downstream easier: [stacked pull requests]({{< relref "posts/stacked-pull-requests-guide-2026/" >}}) work best when each commit in the stack is atomic, and tools like [GitButler]({{< relref "posts/gitbutler-what-is-review-alternatives-2026/" >}}) exist largely to avoid the "one big commit" problem at the source. Even so, knowing the plain-git routine is the baseline skill — it works on a fresh checkout, in CI containers, and on servers where no fancy tooling is installed.
+Splitting is the cleanup step that makes everything downstream easier: [stacked pull requests]({{< relref "posts/stacked-pull-requests-guide-2026/" >}}) work best when each commit in the stack is atomic, and tools like [GitButler]({{< relref "posts/one-week-review-gitbutler/" >}}) exist largely to avoid the "one big commit" problem at the source. Even so, knowing the plain-git routine is the baseline skill — it works on a fresh checkout, in CI containers, and on servers where no fancy tooling is installed.
 
 The rule to take away: commit small, commit often, and when you slip, split.
 
@@ -167,7 +167,7 @@ Read also:
 
 - [Git History in 2026: Complete Guide to fixup, reword, and split Commands]({{< relref "posts/mastering-git-log-history-guide-2026/" >}})
 - [Stacked Pull Requests: Complete Guide and Best Practices [2026]]({{< relref "posts/stacked-pull-requests-guide-2026/" >}})
-- [GitButler: What It Is, Review and Alternatives [2026]]({{< relref "posts/gitbutler-what-is-review-alternatives-2026/" >}})
+- [GitButler 2026: Review, Pricing and Alternatives [Tested]]({{< relref "posts/one-week-review-gitbutler/" >}})
 
 ---
 

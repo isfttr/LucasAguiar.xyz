@@ -74,7 +74,7 @@ But there are important limits:
 - The GI **does not protect the formula** or the production process — that is the domain of patents.
 - Improper use by those who do not comply with the rules is subject to administrative and judicial actions, but enforcement depends largely on the owner entity itself.
 
-To understand where the GI fits within the set of protection instruments (patent, trademark, industrial design, copyright), see the [comparative guide to types of intellectual protection in Brazil]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}}).
+To understand where the GI fits within the set of protection instruments (patent, trademark, industrial design, copyright), see the [comparative guide to types of intellectual protection in Brazil]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}}).
 
 ## What to watch in the coming years
 
@@ -85,7 +85,7 @@ For producers, the central message is this: the reputation built over generation
 Read also:
 
 - [Geographical Indication at INPI: Complete Guide [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
-- [Types of Intellectual Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
+- [Types of Intellectual Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
 - [Geographical Indication at INPI: Complete Guide [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
 
 ---

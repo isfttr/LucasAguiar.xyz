@@ -128,7 +128,7 @@ Mudar para uma nova forja é quase mecânico — essa é a feliz consequência d
 5. **Atualize os remotes para a equipe.** `git remote set-url origin <new-url>` e reemita tokens/chaves SSH.
 6. **Mantenha o GitHub como um espelho somente leitura** (opcional). Faça push para sua forja e espelhe no GitHub para visibilidade — muitos projetos funcionam assim permanentemente.
 
-Também vale a pena revisar enquanto você faz isso: se sua equipe depende de fluxos de trabalho com PRs empilhados, ferramentas como [GitButler]({{< relref "posts/gitbutler-what-is-review-alternatives-2026/" >}}) ou uma configuração de [pull requests empilhados]({{< relref "posts/stacked-pull-requests-guide-2026/" >}}) são agnósticas em relação à forja — funcionam da mesma forma tanto se o remote for GitHub, Gitea ou um servidor bare.
+Também vale a pena revisar enquanto você faz isso: se sua equipe depende de fluxos de trabalho com PRs empilhados, ferramentas como [GitButler]({{< relref "posts/one-week-review-gitbutler/" >}}) ou uma configuração de [pull requests empilhados]({{< relref "posts/stacked-pull-requests-guide-2026/" >}}) são agnósticas em relação à forja — funcionam da mesma forma tanto se o remote for GitHub, Gitea ou um servidor bare.
 
 ## O que observar
 
@@ -140,7 +140,7 @@ Leia também:
 
 - [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 - [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
-- [GitButler: O Que É, Review e Alternativas [2026]]({{< relref "posts/gitbutler-what-is-review-alternatives-2026/" >}})
+- [GitButler 2026: Review, Preço e Alternativas [Testado]]({{< relref "posts/one-week-review-gitbutler/" >}})
 
 ---
 

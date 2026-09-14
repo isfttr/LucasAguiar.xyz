@@ -158,7 +158,7 @@ Se você estiver no git 2.54+ (abril de 2026), agora existe um recurso experimen
 
 ## Quando dividir se encaixa no seu fluxo de trabalho
 
-Dividir é a etapa de limpeza que torna tudo a jusante mais fácil: [pull requests empilhadas]({{< relref "posts/stacked-pull-requests-guide-2026/" >}}) funcionam melhor quando cada commit na pilha é atômico, e ferramentas como [GitButler]({{< relref "posts/gitbutler-what-is-review-alternatives-2026/" >}}) existem em grande parte para evitar o problema do "commit único grande" na origem. Mesmo assim, conhecer a rotina com git puro é a habilidade básica — ela funciona em um checkout limpo, em containers de CI e em servidores onde nenhuma ferramenta sofisticada está instalada.
+Dividir é a etapa de limpeza que torna tudo a jusante mais fácil: [pull requests empilhadas]({{< relref "posts/stacked-pull-requests-guide-2026/" >}}) funcionam melhor quando cada commit na pilha é atômico, e ferramentas como [GitButler]({{< relref "posts/one-week-review-gitbutler/" >}}) existem em grande parte para evitar o problema do "commit único grande" na origem. Mesmo assim, conhecer a rotina com git puro é a habilidade básica — ela funciona em um checkout limpo, em containers de CI e em servidores onde nenhuma ferramenta sofisticada está instalada.
 
 A regra para levar com você: commite pequeno, commite com frequência, e quando escorregar, divida.
 
@@ -166,7 +166,7 @@ Leia também:
 
 - [Histórico do Git em 2026: Guia Completo para os Comandos fixup, reword e split]({{< relref "posts/mastering-git-log-history-guide-2026/" >}})
 - [Pull Requests Empilhados: Guia Completo e Melhores Práticas [2026]]({{< relref "posts/stacked-pull-requests-guide-2026/" >}})
-- [GitButler: O Que É, Review e Alternativas [2026]]({{< relref "posts/gitbutler-what-is-review-alternatives-2026/" >}})
+- [GitButler 2026: Review, Preço e Alternativas [Testado]]({{< relref "posts/one-week-review-gitbutler/" >}})
 
 ---
 

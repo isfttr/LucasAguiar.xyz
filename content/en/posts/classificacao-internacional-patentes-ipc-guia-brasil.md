@@ -146,7 +146,7 @@ The **G06** classification (Computing; Data Processing) is where most artificial
 | G06V | Image and video recognition |
 | G06F 40/00 | Natural language processing |
 
-WIPO data released in July 2026 shows that generative AI patent families more than doubled in two years. Most of these patents are classified in G06, with significant growth in G06N (neural models) and G06F 40 (language processing). For a complete guide on AI patents in Brazil, see the [guide to generative artificial intelligence patents]({{< relref "posts/patentes-inteligencia-artificial-generativa-brasil-guia-2026/" >}}).
+WIPO data released in July 2026 shows that generative AI patent families more than doubled in two years. Most of these patents are classified in G06, with significant growth in G06N (neural models) and G06F 40 (language processing). For a complete guide on AI patents in Brazil, see the [guide to generative artificial intelligence patents]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}}).
 
 ### A01 — Agriculture
 
@@ -213,7 +213,7 @@ With the resumption of priority processing for H04 and the explosion of generati
 Read also:
 
 - [Complete Guide to Priority Patent Processing at INPI: Modalities, Costs, and How to Apply [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
-- [Generative AI Patents in Brazil: Complete Guide to Patenting AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-generativa-brasil-guia-2026/" >}})
+- [Generative AI Patents in Brazil: Complete Guide to Patenting AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
 - [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 
 ---

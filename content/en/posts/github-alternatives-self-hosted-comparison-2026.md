@@ -127,7 +127,7 @@ Moving to a new forge is mostly mechanical — this is the happy consequence of 
 5. **Update remotes for the team.** `git remote set-url origin <new-url>` and re-issue tokens/SSH keys.
 6. **Keep GitHub as a read-only mirror** (optional). Push to your forge, mirror to GitHub for discoverability — many projects run this way permanently.
 
-Also worth revisiting while you're at it: if your team relies on stacked-PR workflows, tools like [GitButler]({{< relref "posts/gitbutler-what-is-review-alternatives-2026/" >}}) or a [stacked pull requests]({{< relref "posts/stacked-pull-requests-guide-2026/" >}}) setup are forge-agnostic — they work identically whether the remote is GitHub, Gitea, or a bare server.
+Also worth revisiting while you're at it: if your team relies on stacked-PR workflows, tools like [GitButler]({{< relref "posts/one-week-review-gitbutler/" >}}) or a [stacked pull requests]({{< relref "posts/stacked-pull-requests-guide-2026/" >}}) setup are forge-agnostic — they work identically whether the remote is GitHub, Gitea, or a bare server.
 
 ## What to watch
 
@@ -139,7 +139,7 @@ Read also:
 
 - [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 - [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
-- [GitButler: What It Is, Review and Alternatives [2026]]({{< relref "posts/gitbutler-what-is-review-alternatives-2026/" >}})
+- [GitButler 2026: Review, Pricing and Alternatives [Tested]]({{< relref "posts/one-week-review-gitbutler/" >}})
 
 ---
 

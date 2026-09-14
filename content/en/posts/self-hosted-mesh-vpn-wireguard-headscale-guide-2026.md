@@ -1,6 +1,6 @@
 ---
 date: 2026-09-10T15:00:00-03:00
-draft: true
+draft: false
 title: "Self-Hosted Mesh VPN in 2026: WireGuard and Headscale Complete Guide"
 description: "Build a self-hosted mesh VPN with WireGuard and Headscale in 2026: install, register nodes, subnet routers, exit nodes and access policies. Full guide."
 featured_image: ""

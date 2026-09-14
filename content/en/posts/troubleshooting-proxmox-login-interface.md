@@ -2,7 +2,7 @@
 date: 2025-03-14T02:29:45.000Z
 draft: false
 title: "Proxmox Login Failed? Fix 'authentication failure' 401 [2026]"
-description: "Proxmox login failed with 'authentication failure 401'? Fix wrong realm, blocked user, expired ticket, unsynced clock or missing access.cfg. Step-by-step [2026]."
+description: "Login failed: authentication failure (401) in Proxmox? Fix wrong realm, blocked user, expired or invalid PVE ticket, clock skew or missing access.cfg — with FAQ."
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-proxmox-login-error.png
 categories:
@@ -13,7 +13,7 @@ tags:
   - troubleshooting
   - tutorial
   - autenticacao
-translation_source_hash: 3144fa007970f019b49e826e2575534226424bf042c94bc85029dfa6a5355be0
+translation_source_hash: d939c12402ef58c56ca974f596bbaf0bcbf5c36bb83a260fedbfbe3903ef68a9
 aliases:
   - /posts/fix-proxmox-web-interface-login-errors/
 ---
@@ -158,6 +158,39 @@ systemctl restart pveproxy
 ```
 
 After these steps, users were able to log in to the Proxmox web interface successfully.
+
+## Frequently Asked Questions
+
+### Why do I see "Login failed: authentication failure (401) please try again"?
+
+That is the message the web interface shows when the login endpoint (`POST /api2/json/access/ticket`) answers **HTTP 401**. Proxmox deliberately hides the real reason — a wrong password, a nonexistent user, a blocked account and a wrong realm all produce the same red box. Check in this order: keyboard layout/caps lock, `pveum user list`, the correct realm (`root@pam` vs `root@pve`), and unblock with `pveum user unlock`.
+
+### "Proxmox login failed" with the right password: what is it usually?
+
+After a wrong password, the two causes that show up most are a **wrong realm** and **clock skew**. The authentication ticket is signed with a timestamp: if NTP broke and the offset exceeds the ticket validity, every login fails even with valid credentials. Check with `chronyc tracking` and fix with `chronyc makestep`.
+
+### What does "authentication failure: 401 permission denied - invalid pve ticket" mean?
+
+It is not a wrong password — it is the **session**. The `permission denied - invalid pve ticket` body appears when the `PVEAuthCookie` expired (two-hour default), when `pveproxy` was restarted, or when the cookie was copied from another machine. Log in again; in scripts, request a fresh ticket on every run instead of reusing the old cookie. For noVNC consoles the rule is the same, with the message `invalid PVEVNC ticket`.
+
+### Why does "authentication failure 401 proxmox" only happen on the API, not in the web UI?
+
+When web login works and only the API fails, the suspect is an **API token** with a malformed header. The correct format is `Authorization: PVEAPIToken=user@realm!tokenid=secret` — omitting the realm or the `!` separator returns 401 immediately. Also check whether the token was revoked (`pveum user token list <user>`) and whether the owning user is not blocked.
+
+### Why did every credential stop working at once after touching the cluster?
+
+That is the classic symptom of a missing or corrupted `/etc/pve/access.cfg`. The file lives in `pmxcfs`, so it disappears when `corosync` communication breaks or the node loses quorum. Run `pvecm status` and `systemctl status pve-cluster`, force quorum on a single-node setup, and recreate a minimal `access.cfg` — the full procedure is in the previous section.
+
+### How do I confirm the problem is Proxmox and not my browser?
+
+Test the login straight against the API:
+
+```bash
+curl -k -d "username=root@pam&password=YOUR_PASSWORD" \
+     https://<host>:8006/api2/json/access/ticket
+```
+
+If the answer is `authentication failure`, the problem is on the server (work through the causes above). If you get JSON with `ticket` and `CSRFPreventionToken`, the server is fine and the problem is client-side: stale cache/cookie, a browser extension, or a slow local clock. To follow the failure live, use `journalctl -u pveproxy -f | grep -i authentication`.
 
 ## Prevention
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-09-08T15:01:30-03:00
-draft: true
+draft: false
 title: "LLM Quantization Guide 2026: GGUF Formats, Q4 vs Q8, and How to Choose"
 description: "How to choose LLM quantization in 2026: GGUF formats explained (Q8_0, Q4_K_M, Q2, IQ1), quality cliffs, VRAM math, and practical rules for local models."
 featured_image: ""

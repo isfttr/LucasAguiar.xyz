@@ -170,14 +170,14 @@ In 2019, the INPI had approximately **150 thousand pending patent applications**
 
 The system of 17 modalities seeks to balance two objectives: to expedite technologies of public interest and to offer accelerated paths for applicants who demonstrate a specific need. As we saw in the case of the quota exhaustion for trademarks in e-commerce, the limit of slots per period is real and can impact those who do not plan ahead.
 
-For a complete overview of all types of intellectual protection in Brazil, see the [guide to types of intellectual protection]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}}). And to understand trademark registration costs, consult the [guide to trademark registration costs at the INPI]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}}).
+For a complete overview of all types of intellectual protection in Brazil, see the [guide to types of intellectual protection]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}}). And to understand trademark registration costs, consult the [guide to trademark registration costs at the INPI]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}}).
 
 ---
 
 Read also:
 
 - [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
-- [Types of Intellectual Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/tipos-protecao-intelectual-brasil-guia-completo/" >}})
+- [Types of Intellectual Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
 - [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
