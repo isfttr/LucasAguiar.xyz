@@ -122,7 +122,8 @@ A principal conclusão da discussão desta semana no HN — o blog do Tao, o exp
 
 Leia também:
 
-- [Software Pessoal na Era da IA: Como Qualquer Pessoa Pode Criar Apps para um Público de Um]({{< relref "posts/personal-software-ai-guide-2026/" >}})
+- [Guia Stateless do MCP [2026]: O que mudou no Model Context Protocol 2.0]({{< relref "posts/stateless-mcp-guide-2026/" >}})
+- [Como Executar com Segurança Agentes de Codificação de IA: Um Guia Prático de Sandboxing [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
 - [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 
 ---
