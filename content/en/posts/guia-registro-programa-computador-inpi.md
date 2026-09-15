@@ -161,7 +161,9 @@ Developers, startups, and technology companies that have not yet registered thei
 
 Read also:
 
-- [INPI Patent Services Module: practical guide to access, testing, and migration]({{< relref "posts/modulo-servicos-patentes-inpi-guia-acesso-testes-2026/" >}})
+- [Software Patent vs Computer Program Registration in Brazil: What's the Difference? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
+- [How to Protect a Video Game in Brazil: Complete Guide to Intellectual Property]({{< relref "posts/guia-protecao-pi-jogos-eletronicos-brasil/" >}})
+- [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
 
 ---
 

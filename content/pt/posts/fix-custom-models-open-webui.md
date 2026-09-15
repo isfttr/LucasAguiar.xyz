@@ -31,8 +31,8 @@ E a lista de modelos deve mostrar os seus modelos personalizados.
 Leia também:
 
 - [Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
-- [Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático para Homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
 - [Habilitando o WhatsApp no Hermes Agent self-hosted: três armadilhas (e como passei por elas)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
+- [Como configurar o Google Search Console junto ao seu agente Hermes]({{< relref "posts/google-search-console-agente-hermes/" >}})
 
 ---
 Pode contactar-me sobre este e outros tópicos através do meu email **<contact@lucasaguiar.xyz>** ou preenchendo o formulário abaixo.
