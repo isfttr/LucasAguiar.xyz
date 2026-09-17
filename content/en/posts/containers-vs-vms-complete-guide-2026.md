@@ -147,7 +147,8 @@ The question is no longer "containers or VMs" — it's "how much isolation does 
 Read also:
 
 - [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
-- [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [Kubernetes vs Docker Compose: When Do You Need Orchestration? [2026]]({{< relref "posts/kubernetes-vs-docker-compose-guia-2026/" >}})
+- [Enabling WhatsApp on Hermes Agent self-hosted: three pitfalls (and how I overcame them)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
 
 ---
 

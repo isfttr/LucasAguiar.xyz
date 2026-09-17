@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T18:09:22.816Z",
+  "last_updated": "2026-09-17T14:10:57.284Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -249,14 +249,14 @@
         "article"
       ],
       "description_en": "Open WebUI models not showing after an update? Fix the missing custom models bug: replicate your OpenAI API config instead of Direct Connections. Guide [2026].",
-      "content_hash_en": "05bd730a3938823f95e346a399b9482e2ff8716e3a58bb220c30eac9d7ce98b5",
+      "content_hash_en": "ec857d127577a6120f7e88f4f3d37faae38522bde8cef7b95aefc844d7c9391a",
       "backlinks": [
         "how-to-update-open-webui-2026",
         "creating-my-ai-assistant-locally",
         "run-llms-old-server-homelab-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-15T18:04:03.508Z"
+      "last_processed": "2026-09-17T14:06:55.734Z"
     },
     "hugo-content-file-structure": {
       "slug": "hugo-content-file-structure",
@@ -420,14 +420,14 @@
         "article"
       ],
       "description_en": "GitButler review 2026: how virtual branches work, free client vs paid Cloud, the but CLI and TUI, and GitButler vs jujutsu, worktrees, lazygit and Graphite.",
-      "content_hash_en": "d0c1c65f6b948a8029f9cdbe417cc85601de3e5bcb93aa5ee572f68f12b69736",
+      "content_hash_en": "f282a820742f85d842117d72a5a636abd260fbb96a6080c6103057b2a22f8ac0",
       "backlinks": [
         "mastering-git-log-history-guide-2026",
-        "stacked-pull-requests-guide-2026",
-        "how-to-split-git-commit-guide-2026"
+        "how-to-split-git-commit-guide-2026",
+        "stacked-pull-requests-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-15T18:04:13.905Z"
+      "last_processed": "2026-09-17T14:07:18.004Z"
     },
     "oracle_cloud_vps": {
       "slug": "oracle_cloud_vps",
@@ -711,14 +711,14 @@
         "article"
       ],
       "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
-      "content_hash_en": "1dda27d88113f3057ecfcd312c6949cc3f92396b71740dfd86e36fb5e81af87e",
+      "content_hash_en": "802d51787cf8a75e680eb4fa756207c9d98c63288118d29a551eb01964945381",
       "backlinks": [
         "inpi-plano-estrategico-2027-2036-guia-completo",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
-        "propostas_pta_patentes_2026"
+        "inpi-automation-roadmap-2025-2029"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-15T18:05:20.200Z"
+      "last_processed": "2026-09-17T14:07:54.722Z"
     },
     "brasil-tratado-budapeste-patentes-biotecnologia": {
       "slug": "brasil-tratado-budapeste-patentes-biotecnologia",
@@ -1334,14 +1334,14 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "a002d12fdfff73271e1be39050d9d5b5d4007ac4e259e6e23b597a8605561036",
+      "content_hash_en": "6824021890730d8a4d7016a787b20ce31dc589d76c7f16af5e0e6a74e56cc259",
       "backlinks": [
-        "consulta-publica-marcas-posicao-inpi-2026",
         "inpi-manual-marcas-alto-renome-protocolo-madri",
+        "consulta-publica-marcas-posicao-inpi-2026",
         "quanto-tempo-demora-para-registrar-marca-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-15T18:06:26.230Z"
+      "last_processed": "2026-09-17T14:08:36.404Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1389,14 +1389,14 @@
         "article"
       ],
       "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
-      "content_hash_en": "905e097415328e678e1e78e188adf71cbac5fd21bc0d04b32162a00f8e816af1",
+      "content_hash_en": "8430bfb05bccbc6aa318c3997cfa0010250b300af67502e82b5be80957016654",
       "backlinks": [
+        "run-llms-old-server-homelab-guide-2026",
         "modelos-ia-abertos-vs-fronteira-dados-2026",
-        "claude-sonnet-5-2026",
-        "run-llms-old-server-homelab-guide-2026"
+        "llm-quantization-guide-gguf-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-15T18:06:57.073Z"
+      "last_processed": "2026-09-17T14:08:57.445Z"
     },
     "consulta-publica-marcas-posicao-inpi-2026": {
       "slug": "consulta-publica-marcas-posicao-inpi-2026",
@@ -1413,14 +1413,14 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "ef38dccc5ec7291faea6f4311df1ea139cbce83f31e87ae2dad9b716cc794ef1",
+      "content_hash_en": "0a221f4a9aca39409d8bd2786452366ea45950ee5ff06415c02a2542307140e9",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
-        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce"
+        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
+        "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-15T18:07:45.645Z"
+      "last_processed": "2026-09-17T14:09:21.646Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1558,14 +1558,14 @@
         "article"
       ],
       "description_en": "AI coding agents explained from first principles: the tool-calling loop, agent architectures (single vs multi-agent, MCP), and practical tips for using them effectively in real projects.",
-      "content_hash_en": "76bb6319f28ec3c79d882eeedf6679eabe375400524ea0b087f05e33e72c4eba",
+      "content_hash_en": "18f0bf108d32fd858b896418c7f4514ec26ab3100fc8c379291b71740d459964",
       "backlinks": [
         "stateless-mcp-guide-2026",
         "sandboxing-ai-coding-agents-guide-2026",
-        "vibe-coding-pitfalls"
+        "claude-sonnet-5-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-15T18:09:09.310Z"
+      "last_processed": "2026-09-17T14:09:49.249Z"
     },
     "ip-protection-types-brazil-complete-guide": {
       "slug": "ip-protection-types-brazil-complete-guide",
@@ -1608,14 +1608,14 @@
         "article"
       ],
       "description_en": "Step-by-step guide to sandboxing AI coding agents like Claude Code, Codex, and Cursor. Prevent data leaks, restrict network access, and run agents safely with Docker, VMs, and permission scoping.",
-      "content_hash_en": "6c946179e33cb44c4f74e4df4fea6deeca3ac349f41759e58b533ee4caaf9cbc",
+      "content_hash_en": "8a770c518a89cd3f4bd5927bfbb5e77f231e20b8bef7481005936445066542a0",
       "backlinks": [
-        "gitlost-github-agentic-workflows-prompt-injection-2026",
         "ai-coding-agents-architectural-guide-2026",
-        "containers-vs-vms-complete-guide-2026"
+        "gitlost-github-agentic-workflows-prompt-injection-2026",
+        "llm-api-security-inspect-traffic-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-15T18:09:22.816Z"
+      "last_processed": "2026-09-17T14:10:06.787Z"
     },
     "mastering-git-log-history-guide-2026": {
       "slug": "mastering-git-log-history-guide-2026",
@@ -1634,11 +1634,12 @@
       "description_en": "Step-by-step guide to git history — the experimental command that lets you fix old commits, rewrite messages, and split changes without scary rebase -i sessions. Includes practical examples of each subcommand.",
       "content_hash_en": "733245b88ce1955e20a762def21e19aae0620c434f998c40a869aca6dbd129dc",
       "backlinks": [
+        "how-to-split-git-commit-guide-2026",
         "one-week-review-gitbutler",
-        "gitlost-github-agentic-workflows-prompt-injection-2026"
+        "stacked-pull-requests-guide-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-17T14:10:35.949Z"
     },
     "run-llms-old-server-homelab-guide-2026": {
       "slug": "run-llms-old-server-homelab-guide-2026",
@@ -1778,10 +1779,11 @@
       "content_hash_en": "965709506a8b7d385026508536094db0b7050e15cf07895bad5073d7e22ff7e5",
       "backlinks": [
         "kvm-virsh-linux-virtualization-guide-2026",
-        "proxmox-backup-server-community-scripts-2026"
+        "kubernetes-vs-docker-compose-guia-2026",
+        "configuracao-whatsapp-hermes"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-17T14:10:57.284Z"
     },
     "international-patent-search-patentscope-espacenet-google-2026": {
       "slug": "international-patent-search-patentscope-espacenet-google-2026",

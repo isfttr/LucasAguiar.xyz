@@ -196,8 +196,9 @@ Se você ainda usa `rebase -i` para cada correção, experimente `git history fi
 
 Leia também:
 
+- [Como Dividir um Commit do Git: Guia Passo a Passo [2026]]({{< relref "posts/how-to-split-git-commit-guide-2026/" >}})
 - [GitButler 2026: Review, Preço e Alternativas [Testado]]({{< relref "posts/one-week-review-gitbutler/" >}})
-- [GitLost [2026]: Como a Injeção de Prompt no Agente de IA do GitHub Vaza Repositórios Privados]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
+- [Pull Requests Empilhados: Guia Completo e Melhores Práticas [2026]]({{< relref "posts/stacked-pull-requests-guide-2026/" >}})
 
 ---
 

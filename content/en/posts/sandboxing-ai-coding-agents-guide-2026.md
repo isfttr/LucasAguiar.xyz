@@ -232,9 +232,9 @@ The pattern is clear: AI agents are tools, not employees. Trust them with isolat
 
 Read also:
 
-- [GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
 - [How AI Coding Agents Actually Work: An Architectural Guide [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
-- [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
+- [GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
+- [LLM API Security in 2026: How to Inspect AI Traffic and Protect Your Keys]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}})
 
 ---
 

@@ -123,7 +123,7 @@ Read also:
 
 - [Stateless MCP Guide [2026]: What Changed in the Model Context Protocol 2.0]({{< relref "posts/stateless-mcp-guide-2026/" >}})
 - [How to Safely Run AI Coding Agents: A Practical Sandboxing Guide [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
-- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
+- [Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
 
 ---
 

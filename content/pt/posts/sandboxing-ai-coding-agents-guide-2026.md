@@ -233,9 +233,9 @@ O padrão é claro: agentes de IA são ferramentas, não funcionários. Confie n
 
 Leia também:
 
-- [GitLost [2026]: Como a Injeção de Prompt no Agente de IA do GitHub Vaza Repositórios Privados]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
 - [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
-- [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
+- [GitLost [2026]: Como a Injeção de Prompt no Agente de IA do GitHub Vaza Repositórios Privados]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
+- [Segurança de API LLM em 2026: Como inspecionar o tráfego de IA e proteger suas chaves]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}})
 
 ---
 

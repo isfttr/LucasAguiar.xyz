@@ -103,7 +103,7 @@ Read also:
 
 - [INPI Strategic Plan 2027-2036: Complete Guide to the 7 Objectives and What Changes for Companies]({{< relref "posts/inpi-plano-estrategico-2027-2036-guia-completo/" >}})
 - [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
-- [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 
 ---
 

@@ -243,8 +243,9 @@ once. The difference in confidence alone is worth it.
 
 Read also:
 
+- [How to Split a Git Commit: Step-by-Step Guide [2026]]({{< relref "posts/how-to-split-git-commit-guide-2026/" >}})
 - [GitButler 2026: Review, Pricing and Alternatives [Tested]]({{< relref "posts/one-week-review-gitbutler/" >}})
-- [GitLost [2026]: How Prompt Injection in GitHub's AI Agent Leaks Private Repos]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
+- [Stacked Pull Requests: Complete Guide and Best Practices [2026]]({{< relref "posts/stacked-pull-requests-guide-2026/" >}})
 
 ---
 
