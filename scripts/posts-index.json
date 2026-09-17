@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T14:10:57.284Z",
+  "last_updated": "2026-09-17T18:13:28.558Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -420,14 +420,14 @@
         "article"
       ],
       "description_en": "GitButler review 2026: how virtual branches work, free client vs paid Cloud, the but CLI and TUI, and GitButler vs jujutsu, worktrees, lazygit and Graphite.",
-      "content_hash_en": "f282a820742f85d842117d72a5a636abd260fbb96a6080c6103057b2a22f8ac0",
+      "content_hash_en": "c282135f08005dd36dea45b9f6ec8bcfe87756b5227bf3df312c045dc16a4ad1",
       "backlinks": [
         "mastering-git-log-history-guide-2026",
         "how-to-split-git-commit-guide-2026",
         "stacked-pull-requests-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T14:07:18.004Z"
+      "last_processed": "2026-09-17T18:08:07.209Z"
     },
     "oracle_cloud_vps": {
       "slug": "oracle_cloud_vps",
@@ -711,14 +711,14 @@
         "article"
       ],
       "description_en": "Unanimously, the 1st Specialized Panel of the Federal Regional Court of the 2nd Region upheld a decision that obliges the Union to guarantee material and financial conditions for the improvement of INPI. Understand the impact of the Public Civil Action filed by ABPI.",
-      "content_hash_en": "802d51787cf8a75e680eb4fa756207c9d98c63288118d29a551eb01964945381",
+      "content_hash_en": "09ddf64d87b119023a3607e6b7e13e0555260fd3a6a99923c127b307d637a8a1",
       "backlinks": [
         "inpi-plano-estrategico-2027-2036-guia-completo",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "inpi-automation-roadmap-2025-2029"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T14:07:54.722Z"
+      "last_processed": "2026-09-17T18:08:37.700Z"
     },
     "brasil-tratado-budapeste-patentes-biotecnologia": {
       "slug": "brasil-tratado-budapeste-patentes-biotecnologia",
@@ -1334,14 +1334,14 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "6824021890730d8a4d7016a787b20ce31dc589d76c7f16af5e0e6a74e56cc259",
+      "content_hash_en": "38058270d806d6137ad76220f0db68909a92688ba87b9e4b20aabdbc814491f0",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "consulta-publica-marcas-posicao-inpi-2026",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
+        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
+        "edital-casos-sucesso-pi-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T14:08:36.404Z"
+      "last_processed": "2026-09-17T18:09:25.659Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1389,14 +1389,14 @@
         "article"
       ],
       "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
-      "content_hash_en": "8430bfb05bccbc6aa318c3997cfa0010250b300af67502e82b5be80957016654",
+      "content_hash_en": "305905f956bd563365b9e8646ccab2774a4f537d581d702444d5931ff2357732",
       "backlinks": [
-        "run-llms-old-server-homelab-guide-2026",
         "modelos-ia-abertos-vs-fronteira-dados-2026",
-        "llm-quantization-guide-gguf-2026"
+        "run-70b-llm-low-vram-gpu-guide-2026",
+        "fine-tune-llm-consumer-gpu-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T14:08:57.445Z"
+      "last_processed": "2026-09-17T18:10:02.665Z"
     },
     "consulta-publica-marcas-posicao-inpi-2026": {
       "slug": "consulta-publica-marcas-posicao-inpi-2026",
@@ -1413,14 +1413,14 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "0a221f4a9aca39409d8bd2786452366ea45950ee5ff06415c02a2542307140e9",
+      "content_hash_en": "775c09b5043ab2f61f9244449e8ce383a005066edaa811841b44481815cc5657",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
-        "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026"
+        "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026",
+        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T14:09:21.646Z"
+      "last_processed": "2026-09-17T18:10:36.175Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1558,14 +1558,14 @@
         "article"
       ],
       "description_en": "AI coding agents explained from first principles: the tool-calling loop, agent architectures (single vs multi-agent, MCP), and practical tips for using them effectively in real projects.",
-      "content_hash_en": "18f0bf108d32fd858b896418c7f4514ec26ab3100fc8c379291b71740d459964",
+      "content_hash_en": "b9ec67f4c845d6b5b953b9c846650abeb95a3aa61715f3accbe33069d2509300",
       "backlinks": [
-        "stateless-mcp-guide-2026",
+        "claude-sonnet-5-2026",
         "sandboxing-ai-coding-agents-guide-2026",
-        "claude-sonnet-5-2026"
+        "stateless-mcp-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T14:09:49.249Z"
+      "last_processed": "2026-09-17T18:11:18.970Z"
     },
     "ip-protection-types-brazil-complete-guide": {
       "slug": "ip-protection-types-brazil-complete-guide",
@@ -1608,14 +1608,14 @@
         "article"
       ],
       "description_en": "Step-by-step guide to sandboxing AI coding agents like Claude Code, Codex, and Cursor. Prevent data leaks, restrict network access, and run agents safely with Docker, VMs, and permission scoping.",
-      "content_hash_en": "8a770c518a89cd3f4bd5927bfbb5e77f231e20b8bef7481005936445066542a0",
+      "content_hash_en": "9d7a2fa0e4a5155482812ed2d5dcef76bf48c5d54f8081234d9807e39fe02a0d",
       "backlinks": [
         "ai-coding-agents-architectural-guide-2026",
         "gitlost-github-agentic-workflows-prompt-injection-2026",
         "llm-api-security-inspect-traffic-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T14:10:06.787Z"
+      "last_processed": "2026-09-17T18:11:43.778Z"
     },
     "mastering-git-log-history-guide-2026": {
       "slug": "mastering-git-log-history-guide-2026",
@@ -1632,14 +1632,14 @@
         "article"
       ],
       "description_en": "Step-by-step guide to git history — the experimental command that lets you fix old commits, rewrite messages, and split changes without scary rebase -i sessions. Includes practical examples of each subcommand.",
-      "content_hash_en": "733245b88ce1955e20a762def21e19aae0620c434f998c40a869aca6dbd129dc",
+      "content_hash_en": "abd857d1ff84ea250683a28eb361102381e5dd04d1c6e8b3eb9031264da2d89e",
       "backlinks": [
         "how-to-split-git-commit-guide-2026",
         "one-week-review-gitbutler",
         "stacked-pull-requests-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T14:10:35.949Z"
+      "last_processed": "2026-09-17T18:12:23.354Z"
     },
     "run-llms-old-server-homelab-guide-2026": {
       "slug": "run-llms-old-server-homelab-guide-2026",
@@ -1776,14 +1776,14 @@
         "article"
       ],
       "description_en": "Complete guide comparing Docker containers, LXC containers, and virtual machines (KVM, Proxmox). Performance benchmarks, isolation trade-offs, boot times, resource density, and decision matrix for homelab and production.",
-      "content_hash_en": "965709506a8b7d385026508536094db0b7050e15cf07895bad5073d7e22ff7e5",
+      "content_hash_en": "20fe6aee6e875b063e9b2bedcfcdc2e5cc9a2bf6a00b549d589aa8c77a306374",
       "backlinks": [
         "kvm-virsh-linux-virtualization-guide-2026",
         "kubernetes-vs-docker-compose-guia-2026",
         "configuracao-whatsapp-hermes"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T14:10:57.284Z"
+      "last_processed": "2026-09-17T18:12:51.526Z"
     },
     "international-patent-search-patentscope-espacenet-google-2026": {
       "slug": "international-patent-search-patentscope-espacenet-google-2026",
@@ -1828,11 +1828,12 @@
       "description_en": "Complete guide to international patent search: PATENTSCOPE from WIPO, Espacenet from EPO, and Google Patents. Comparison of tools, search strategies, and practical tips.",
       "content_hash_en": "a0331263c9534c873a7a62435cc09e67b803654340f545f02b239d15d4505ba3",
       "backlinks": [
+        "inpi-credenciamento-busca-anterioridade-patentes",
         "mapa-global-patentes-pct-2025-brasil",
-        "inpi-credenciamento-busca-anterioridade-patentes"
+        "radares-tecnologicos-inpi-guia-completo"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-17T18:13:28.558Z"
     },
     "patentes-inteligencia-artificial-brasil-guia-2026": {
       "slug": "patentes-inteligencia-artificial-brasil-guia-2026",
