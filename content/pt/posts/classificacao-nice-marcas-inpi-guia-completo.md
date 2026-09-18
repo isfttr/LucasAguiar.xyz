@@ -1,6 +1,6 @@
 ---
 date: 2026-08-18T11:14:39-03:00
-draft: true
+draft: false
 title: "Classificação de Nice: como escolher a classe certa para registrar sua marca no INPI [2026]"
 description: "Guia completo da Classificação de Nice para registro de marcas no INPI: as 45 classes, como escolher a classe certa, listas auxiliares, especificação livre e erros comuns. Tabela atualizada com a 13ª edição (2026)."
 featured_image: ""
@@ -12,7 +12,6 @@ tags:
   - classificacao-nice
   - propriedade-intelectual
   - registro-de-marca
-scheduledAt: 2026-09-18T16:23:00.000Z
 ---
 Escolher a classe errada (ou esquecer uma classe) é um dos erros mais caros no registro de marca no INPI: a proteção vale apenas para os produtos e serviços indicados no pedido, e cada classe tem custo próprio de petição. Este guia explica como funciona a Classificação Internacional de Nice, como identificar a classe certa para o seu caso e quais ferramentas o INPI oferece para reduzir o risco de erro na especificação.
 
