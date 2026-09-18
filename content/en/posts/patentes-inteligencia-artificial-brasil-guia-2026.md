@@ -239,7 +239,8 @@ The most important tip: **do not try to patent the abstract algorithm.** Patent 
 
 Read also:
 
-- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [Software Patent vs Computer Program Registration in Brazil: What's the Difference? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
 - [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 
 ---

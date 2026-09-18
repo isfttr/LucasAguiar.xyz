@@ -181,9 +181,9 @@ computação para a demanda pelos seus serviços.
 
 Leia também:
 
-- [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
+- [Guia de Quantização de LLM 2026: Formatos GGUF, Q4 vs Q8 e Como Escolher]({{< relref "posts/llm-quantization-guide-gguf-2026/" >}})
 - [Como Executar LLMs de 70B em uma GPU de 4GB: Guia de Inferência com Baixo VRAM [2026]]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}})
-- [Como Fazer Fine-Tuning de um LLM em uma GPU de Consumidor: Guia de LoRA e QLoRA [2026]]({{< relref "posts/fine-tune-llm-consumer-gpu-guide-2026/" >}})
+- [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
 
 ---
 

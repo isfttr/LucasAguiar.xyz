@@ -86,8 +86,9 @@ A liberdade mínima é simples: você deve conseguir fechar uma conta, manter um
 
 Leia também:
 
-- [Dentro dos Cérebros de IA: Como a Anthropic Decifrou o Processo de Pensamento de Claude]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [SubQ: O Primeiro LLM Totalmente Subquadrático — Comparação de Custos com Transformers [2026]]({{< relref "posts/subq-subquadratic-llm-atencao-linear-comparacao-custos-2026/" >}})
+- [O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software & Por Que a Portabilidade de Dados é Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
+- [Segurança de API LLM em 2026: Como inspecionar o tráfego de IA e proteger suas chaves]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}})
 
 ---
 

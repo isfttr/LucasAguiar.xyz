@@ -199,7 +199,7 @@ Leia também:
 
 - [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 - [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [Radares Tecnológicos do INPI: Guia Completo de Inteligência de Patentes Gratuita]({{< relref "posts/radares-tecnologicos-inpi-guia-completo/" >}})
+- [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
 
 ---
 

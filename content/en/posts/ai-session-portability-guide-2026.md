@@ -85,8 +85,9 @@ The minimum freedom is simple: you should be able to close an account, keep a se
 
 Read also:
 
-- [Inside AI Brains: How Anthropic Decoded Claude's Thinking Process]({{< relref "posts/anthropic-thinking-process-paper/" >}})
-- [SubQ: The First Fully Subquadratic LLM — Cost Comparison with Transformers [2026]]({{< relref "posts/subq-subquadratic-llm-atencao-linear-comparacao-custos-2026/" >}})
+- [The AI Copy-Paste Problem: Killing Software Lock-In & Why Data Portability is Key]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [Open AI vs. frontier models: the hidden cost of your data [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
+- [LLM API Security in 2026: How to Inspect AI Traffic and Protect Your Keys]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}})
 
 ---
 

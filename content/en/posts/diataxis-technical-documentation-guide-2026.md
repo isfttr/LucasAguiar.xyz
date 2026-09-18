@@ -98,8 +98,9 @@ If you run a Hugo site, the structure maps naturally onto content organization â
 
 Read also:
 
-- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
 - [Hugo Content File Structure]({{< relref "posts/hugo-content-file-structure/" >}})
+- [How AI Coding Agents Actually Work: An Architectural Guide [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
+- [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
 ---
 

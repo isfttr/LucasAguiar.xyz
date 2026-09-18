@@ -122,9 +122,9 @@ A principal conclusão da discussão desta semana no HN — o blog do Tao, o exp
 
 Leia também:
 
-- [Claude Sonnet 5: Janela de Contexto Limitada o torna útil apenas como subagente]({{< relref "posts/claude-sonnet-5-2026/" >}})
-- [Como Executar com Segurança Agentes de Codificação de IA: Um Guia Prático de Sandboxing [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
 - [Guia Stateless do MCP [2026]: O que mudou no Model Context Protocol 2.0]({{< relref "posts/stateless-mcp-guide-2026/" >}})
+- [Como Executar com Segurança Agentes de Codificação de IA: Um Guia Prático de Sandboxing [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
+- [GitLost [2026]: Como a Injeção de Prompt no Agente de IA do GitHub Vaza Repositórios Privados]({{< relref "posts/gitlost-github-agentic-workflows-prompt-injection-2026/" >}})
 
 ---
 

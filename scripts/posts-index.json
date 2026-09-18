@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T18:13:28.558Z",
+  "last_updated": "2026-09-18T00:20:09.742Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1334,14 +1334,14 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "38058270d806d6137ad76220f0db68909a92688ba87b9e4b20aabdbc814491f0",
+      "content_hash_en": "b1ccd2f425cec132d70e3c5fe2d079205240e7dee22e7bf16d54fc55f8ce61cd",
       "backlinks": [
+        "edital-casos-sucesso-pi-inpi-2026",
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
-        "edital-casos-sucesso-pi-inpi-2026"
+        "trf2-decisao-abpi-fortalecimento-inpi"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T18:09:25.659Z"
+      "last_processed": "2026-09-18T00:15:13.381Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1389,14 +1389,14 @@
         "article"
       ],
       "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
-      "content_hash_en": "305905f956bd563365b9e8646ccab2774a4f537d581d702444d5931ff2357732",
+      "content_hash_en": "11f7a13ac44a0498501943fdded784171f4722c529c66f7678f3a938a068942f",
       "backlinks": [
-        "modelos-ia-abertos-vs-fronteira-dados-2026",
+        "llm-quantization-guide-gguf-2026",
         "run-70b-llm-low-vram-gpu-guide-2026",
-        "fine-tune-llm-consumer-gpu-guide-2026"
+        "modelos-ia-abertos-vs-fronteira-dados-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T18:10:02.665Z"
+      "last_processed": "2026-09-18T00:16:03.572Z"
     },
     "consulta-publica-marcas-posicao-inpi-2026": {
       "slug": "consulta-publica-marcas-posicao-inpi-2026",
@@ -1413,14 +1413,14 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "775c09b5043ab2f61f9244449e8ce383a005066edaa811841b44481815cc5657",
+      "content_hash_en": "fe3ea1acba8565a004a5b017d9faf74be9a71d1654e3d07070c4d9565aca1dbc",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026",
+        "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
         "quanto-tempo-demora-para-registrar-marca-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T18:10:36.175Z"
+      "last_processed": "2026-09-18T00:16:35.949Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1558,14 +1558,14 @@
         "article"
       ],
       "description_en": "AI coding agents explained from first principles: the tool-calling loop, agent architectures (single vs multi-agent, MCP), and practical tips for using them effectively in real projects.",
-      "content_hash_en": "b9ec67f4c845d6b5b953b9c846650abeb95a3aa61715f3accbe33069d2509300",
+      "content_hash_en": "422856b0e6e63847c8b501659729214522c857b4812a299492efc59e85f81455",
       "backlinks": [
-        "claude-sonnet-5-2026",
+        "stateless-mcp-guide-2026",
         "sandboxing-ai-coding-agents-guide-2026",
-        "stateless-mcp-guide-2026"
+        "gitlost-github-agentic-workflows-prompt-injection-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T18:11:18.970Z"
+      "last_processed": "2026-09-18T00:17:00.751Z"
     },
     "ip-protection-types-brazil-complete-guide": {
       "slug": "ip-protection-types-brazil-complete-guide",
@@ -1826,14 +1826,14 @@
         "article"
       ],
       "description_en": "Complete guide to international patent search: PATENTSCOPE from WIPO, Espacenet from EPO, and Google Patents. Comparison of tools, search strategies, and practical tips.",
-      "content_hash_en": "a0331263c9534c873a7a62435cc09e67b803654340f545f02b239d15d4505ba3",
+      "content_hash_en": "3fda4fe4ee10d7d6c67cc1a3b7c8a1c9520839a489ee5bcd7bb994e45dcd1ebc",
       "backlinks": [
         "inpi-credenciamento-busca-anterioridade-patentes",
         "mapa-global-patentes-pct-2025-brasil",
-        "radares-tecnologicos-inpi-guia-completo"
+        "guia-deposito-patente-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-17T18:13:28.558Z"
+      "last_processed": "2026-09-18T00:17:50.704Z"
     },
     "patentes-inteligencia-artificial-brasil-guia-2026": {
       "slug": "patentes-inteligencia-artificial-brasil-guia-2026",
@@ -1854,11 +1854,12 @@
       "description_en": "Complete guide to patenting artificial intelligence in Brazil: what is patentable, INPI requirements, IPC classifications, how to draft the application, and differences between software, algorithm, and AI invention. Includes WIPO 2026 data.",
       "content_hash_en": "60c7bc5bea3ec22d2d81fbaa1042f42a76e7960a9eaaf4b90e4183aaa07e5fb0",
       "backlinks": [
-        "como-consultar-andamento-processo-inpi",
+        "inpi-automation-roadmap-2025-2029",
+        "patente-software-vs-registro-programa-computador-brasil",
         "wipo-lanca-artificial-intelligence-infrastructure-interchange"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-18T00:18:16.872Z"
     },
     "stacked-pull-requests-guide-2026": {
       "slug": "stacked-pull-requests-guide-2026",
@@ -1878,10 +1879,11 @@
       "content_hash_en": "d306a0c0b1e13c95026bcbb67a556048e83c2d558941af3278f6b14f72c70b29",
       "backlinks": [
         "one-week-review-gitbutler",
-        "gitlost-github-agentic-workflows-prompt-injection-2026"
+        "how-to-split-git-commit-guide-2026",
+        "mastering-git-log-history-guide-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-18T00:19:07.532Z"
     },
     "ai-session-portability-guide-2026": {
       "slug": "ai-session-portability-guide-2026",
@@ -1900,11 +1902,12 @@
       "description_en": "AI sessions are drifting into lock-in: encrypted reasoning, hidden search, opaque compaction. The 5 portability tests — and how to keep your transcripts yours.",
       "content_hash_en": "f26b53ad8c595ad5d7b049a26673d30724ed3d22896709ce7ed028a0a84e468b",
       "backlinks": [
-        "anthropic-thinking-process-paper",
-        "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026"
+        "ai-copy-paste-problem",
+        "modelos-ia-abertos-vs-fronteira-dados-2026",
+        "llm-api-security-inspect-traffic-guide-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-18T00:19:21.388Z"
     },
     "personal-software-ai-guide-2026": {
       "slug": "personal-software-ai-guide-2026",
@@ -1924,10 +1927,11 @@
       "content_hash_en": "2f9b158c825b9e7a9c568de1319ab4018232bc2eb54220bdf4db13fe22434ba3",
       "backlinks": [
         "ai-coding-agents-architectural-guide-2026",
-        "run-llms-old-server-homelab-guide-2026"
+        "vibe-coding-pitfalls",
+        "sandboxing-ai-coding-agents-guide-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-18T00:19:39.210Z"
     },
     "diataxis-technical-documentation-guide-2026": {
       "slug": "diataxis-technical-documentation-guide-2026",
@@ -1946,11 +1950,12 @@
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
       "content_hash_en": "3ef7c88308656d391dceeff4cbf7efa91fab67792b6b4e39fa97d4f6a39c7413",
       "backlinks": [
-        "vibe-coding-pitfalls",
-        "hugo-content-file-structure"
+        "hugo-content-file-structure",
+        "ai-coding-agents-architectural-guide-2026",
+        "containers-vs-vms-complete-guide-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-18T00:20:09.742Z"
     },
     "run-70b-llm-low-vram-gpu-guide-2026": {
       "slug": "run-70b-llm-low-vram-gpu-guide-2026",

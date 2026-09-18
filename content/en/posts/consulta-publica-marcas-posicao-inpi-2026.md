@@ -89,7 +89,7 @@ If you are not yet familiar with the costs involved in trademark registration in
 Read also:
 
 - [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
-- [INPI Opens Scholarship of R$ 6 Thousand for Research on Technical Divergences in Trademarks [2026]]({{< relref "posts/inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026/" >}})
+- [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
 - [How Long Does It Take to Register a Trademark with INPI? Stages and Deadlines [2026]]({{< relref "posts/quanto-tempo-demora-para-registrar-marca-inpi-2026/" >}})
 
 ---
