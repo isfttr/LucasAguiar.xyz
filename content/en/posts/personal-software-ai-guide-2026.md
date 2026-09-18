@@ -64,8 +64,8 @@ If you have a recurring annoyance in your life — a family schedule, a diet pla
 Read also:
 
 - [How AI Coding Agents Actually Work: An Architectural Guide [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
-- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [How to Safely Run AI Coding Agents: A Practical Sandboxing Guide [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
+- [Creating my AI assistant locally]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Stateless MCP Guide [2026]: What Changed in the Model Context Protocol 2.0]({{< relref "posts/stateless-mcp-guide-2026/" >}})
 
 ---
 

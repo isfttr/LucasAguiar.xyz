@@ -59,7 +59,7 @@ Read also:
 
 - [INPI launches call for proposals to select Intellectual Property success stories [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
 - [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
-- [TRF-2 confirms ruling that paves the way for the restructuring of INPI]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [INPI opens public consultation on position marks [2026]: new rules and how to participate]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
 
 ---
 

@@ -57,7 +57,7 @@ Leia também:
 
 - [INPI lança edital para selecionar casos de sucesso em Propriedade Intelectual [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
 - [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
-- [TRF-2 Obriga União a Reestruturar o INPI: O que Isso Significa para suas Patentes?]({{< relref "posts/trf2-decisao-abpi-fortalecimento-inpi/" >}})
+- [INPI abre consulta pública sobre marcas de posição [2026]: novas regras e como participar]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
 
 ---
 

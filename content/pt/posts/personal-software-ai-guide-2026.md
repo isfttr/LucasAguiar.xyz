@@ -65,8 +65,8 @@ Se você tem um incômodo recorrente na sua vida — uma agenda familiar, um pla
 Leia também:
 
 - [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
-- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [Como Executar com Segurança Agentes de Codificação de IA: Um Guia Prático de Sandboxing [2026]]({{< relref "posts/sandboxing-ai-coding-agents-guide-2026/" >}})
+- [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
+- [Guia Stateless do MCP [2026]: O que mudou no Model Context Protocol 2.0]({{< relref "posts/stateless-mcp-guide-2026/" >}})
 
 ---
 
