@@ -1,6 +1,6 @@
 ---
 date: 2026-08-18T14:14:39.000Z
-draft: true
+draft: false
 title: 'Nice Classification: how to choose the right class to register your trademark with INPI [2026]'
 description: 'Complete guide to the Nice Classification for trademark registration at INPI: the 45 classes, how to choose the right class, auxiliary lists, free specification, and common mistakes. Updated table with the 13th edition (2026).'
 featured_image: ''
