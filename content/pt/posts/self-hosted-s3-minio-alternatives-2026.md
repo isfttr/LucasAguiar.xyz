@@ -1,9 +1,9 @@
 ---
 date: 2026-09-15T18:00:00.000Z
 draft: true
-title: 'MinIO foi arquivado: alternativas S3 auto-hospedadas para seu homelab [2026]'
+title: "MinIO foi arquivado: alternativas S3 auto-hospedadas para seu homelab [2026]"
 description: MinIO foi arquivado e não distribui mais imagens Docker gratuitas. Compare as melhores alternativas S3 auto-hospedadas em 2026 - VersityGW, Garage, SeaweedFS, RustFS - com configurações Docker funcionais.
-featured_image: ''
+featured_image: ""
 categories:
   - article
 tags:
@@ -14,6 +14,7 @@ tags:
   - s3
 slug: minio-arquivado-alternativas-s3-auto-hospedadas-homelab
 translation_source_hash: 7de229d0d74507f9857fecd035cc4b300c8336cb3d5e1ec1358c6d95f6b2c694
+scheduledAt: 2026-09-19T00:12:51.656Z
 ---
 O MinIO foi arquivado. O repositório que, durante uma década, foi a resposta padrão para "como faço para obter um endpoint S3 no meu homelab" foi arquivado no GitHub, seu último commit é de abril de 2026, e o projeto parou de distribuir imagens Docker gratuitas no final de 2025. Se você tem `minio/minio` fixado em um arquivo Compose, essa tag fixada ainda funciona — mas você está executando um software que ninguém está corrigindo.
 
@@ -49,7 +50,7 @@ A maioria dos homelabs precisa de algo muito mais simples do que imagina. Se seu
 
 ## Opção 1: VersityGW — A que as pessoas realmente recomendam
 
-Se você leu a thread do Hacker News que seguiu a [comparação de alternativas ao MinIO feita por Robin Moffatt](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/) — 80 comentários, e a recomendação mais votada da thread — um nome continua aparecendo espontaneamente: [VersityGW](https://github.com/versity/versitygw).
+Se você leu a thread do Hacker News que seguiu a [comparação de alternativas ao MinIO feita por Robin Moffatt](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)um nome continua aparecendo espontaneamente: [VersityGW](https://github.com/versity/versitygw).
 
 O padrão vindo de profissionais é consistente. "Mudei para o Versity para o homelab, tem sido simples e estável como uma rocha. Aponte para um diretório por bucket e pronto." Outro: "Meu objetivo era substituir o MinIO, que eu conseguia executar e configurar com um único comando Docker. O VersityGW funciona igualmente bem para isso."
 
