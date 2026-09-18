@@ -12,8 +12,8 @@ tags:
   - propriedade-intelectual
   - marca-coletiva
   - guia
+scheduledAt: 2026-09-20T00:13:00.000Z
 ---
-
 Associações, cooperativas e sindicatos podem registrar marca — mas não qualquer marca. A Lei de Propriedade Industrial reserva dois tipos específicos para esses casos: a **marca coletiva** e a **marca de certificação**. Cada uma tem legitimidade própria e documentos obrigatórios que a marca comum não exige; confundir as duas é a causa mais frequente de indeferimento.
 
 Este guia reúne o que dizem a LPI (Lei nº 9.279/1996), o [Manual de Marcas do INPI](https://manualdemarcas.inpi.gov.br/) e a tabela de retribuições vigente sobre quem pode registrar, o que precisa ser protocolado, em que prazo, quanto custa e quais situações levam o registro à extinção.
