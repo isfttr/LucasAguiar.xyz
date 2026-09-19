@@ -168,9 +168,9 @@ This new architecture is very exciting, especially because eventually we may hav
 
 Read also:
 
-- [Open AI vs. frontier models: the hidden cost of your data [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
-- [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
 - [LLM Quantization Guide 2026: GGUF Formats, Q4 vs Q8, and How to Choose]({{< relref "posts/llm-quantization-guide-gguf-2026/" >}})
+- [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
+- [How to Fine-Tune an LLM on a Consumer GPU: LoRA and QLoRA Guide [2026]]({{< relref "posts/fine-tune-llm-consumer-gpu-guide-2026/" >}})
 
 ---
 

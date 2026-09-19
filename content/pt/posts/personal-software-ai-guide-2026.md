@@ -66,7 +66,7 @@ Leia também:
 
 - [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
 - [Criando meu assistente de IA localmente]({{< relref "posts/creating-my-ai-assistant-locally/" >}})
-- [Guia Stateless do MCP [2026]: O que mudou no Model Context Protocol 2.0]({{< relref "posts/stateless-mcp-guide-2026/" >}})
+- [Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático para Homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
 
 ---
 

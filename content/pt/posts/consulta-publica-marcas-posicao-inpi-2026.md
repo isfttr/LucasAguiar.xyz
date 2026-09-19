@@ -87,8 +87,8 @@ Se você ainda não conhece os custos envolvidos no registro de marcas no Brasil
 
 Leia também:
 
-- [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
 - [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
 - [INPI Abre Bolsa de R$ 6 Mil para Pesquisa em Divergências Técnicas em Marcas [2026]]({{< relref "posts/inpi-bolsa-assistente-pesquisa-divergencias-marcas-2026/" >}})
 
 ---

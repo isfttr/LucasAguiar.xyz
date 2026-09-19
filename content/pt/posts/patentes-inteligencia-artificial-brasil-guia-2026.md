@@ -232,7 +232,7 @@ A dica mais importante: **não tente patentear o algoritmo abstrato.** Patentee 
 Leia também:
 
 - [Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
-- [WIPO lança Artificial Intelligence Infrastructure Interchange: o novo fórum global para IA e Propriedade Intelectual]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
+- [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o Futuro das Patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 - [Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
 
 ---

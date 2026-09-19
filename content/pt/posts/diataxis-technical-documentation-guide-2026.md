@@ -100,8 +100,8 @@ Se você mantém um site Hugo, a estrutura mapeia naturalmente para a organizaç
 Leia também:
 
 - [Estrutura de Ficheiros de Conteúdo Hugo]({{< relref "posts/hugo-content-file-structure/" >}})
-- [Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
-- [Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [Pull Requests Empilhados: Guia Completo e Melhores Práticas [2026]]({{< relref "posts/stacked-pull-requests-guide-2026/" >}})
+- [Histórico do Git em 2026: Guia Completo para os Comandos fixup, reword e split]({{< relref "posts/mastering-git-log-history-guide-2026/" >}})
 
 ---
 

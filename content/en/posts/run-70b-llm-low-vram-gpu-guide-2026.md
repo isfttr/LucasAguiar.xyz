@@ -112,7 +112,9 @@ Quantization cuts the model 4x, partial offload spreads it across CPU+GPU, and l
 
 Read also:
 
-- [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
+- [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
+- [How to Fine-Tune an LLM on a Consumer GPU: LoRA and QLoRA Guide [2026]]({{< relref "posts/fine-tune-llm-consumer-gpu-guide-2026/" >}})
+- [LLM Quantization Guide 2026: GGUF Formats, Q4 vs Q8, and How to Choose]({{< relref "posts/llm-quantization-guide-gguf-2026/" >}})
 
 ---
 

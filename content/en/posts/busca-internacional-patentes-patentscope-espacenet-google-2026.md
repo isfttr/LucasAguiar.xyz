@@ -200,8 +200,8 @@ After mastering international tools, you can return to INPI to check the local s
 Read also:
 
 - [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
-- [INPI Technological Radars: Complete Guide to Free Patent Intelligence]({{< relref "posts/radares-tecnologicos-inpi-guia-completo/" >}})
 - [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [INPI Technological Radars: Complete Guide to Free Patent Intelligence]({{< relref "posts/radares-tecnologicos-inpi-guia-completo/" >}})
 
 ---
 

@@ -144,8 +144,8 @@ gh stack --help
 Read also:
 
 - [GitButler 2026: Review, Pricing and Alternatives [Tested]]({{< relref "posts/one-week-review-gitbutler/" >}})
-- [Git History in 2026: Complete Guide to fixup, reword, and split Commands]({{< relref "posts/mastering-git-log-history-guide-2026/" >}})
 - [How to Split a Git Commit: Step-by-Step Guide [2026]]({{< relref "posts/how-to-split-git-commit-guide-2026/" >}})
+- [Git History in 2026: Complete Guide to fixup, reword, and split Commands]({{< relref "posts/mastering-git-log-history-guide-2026/" >}})
 
 ---
 
