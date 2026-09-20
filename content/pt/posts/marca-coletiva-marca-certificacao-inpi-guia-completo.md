@@ -1,6 +1,6 @@
 ---
 date: 2026-09-15T11:00:00-03:00
-draft: true
+draft: false
 title: "Marca Coletiva e Marca de Certificação no INPI: Guia Completo"
 description: "Quem pode registrar marca coletiva e marca de certificação no INPI: documentos exigidos, prazo de 60 dias, custos por classe, extinção e caducidade."
 featured_image: ""
@@ -12,7 +12,6 @@ tags:
   - propriedade-intelectual
   - marca-coletiva
   - guia
-scheduledAt: 2026-09-20T00:13:00.000Z
 ---
 Associações, cooperativas e sindicatos podem registrar marca — mas não qualquer marca. A Lei de Propriedade Industrial reserva dois tipos específicos para esses casos: a **marca coletiva** e a **marca de certificação**. Cada uma tem legitimidade própria e documentos obrigatórios que a marca comum não exige; confundir as duas é a causa mais frequente de indeferimento.
 
