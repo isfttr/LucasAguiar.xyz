@@ -1,6 +1,6 @@
 ---
 date: 2026-09-15T14:00:00.000Z
-draft: true
+draft: false
 title: 'Collective Trademark and Certification Mark at INPI: Complete Guide'
 description: 'Who can register a collective mark and a certification mark with the INPI: required documents, 60-day deadline, costs per class, extinction and forfeiture.'
 featured_image: ''
