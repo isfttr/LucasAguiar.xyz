@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T00:18:53.732Z",
+  "last_updated": "2026-09-22T14:10:17.085Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1334,14 +1334,14 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "0b7da977ec87e1ce97940c7711790e53cb94014844493f8b8541096833acacf9",
+      "content_hash_en": "38058270d806d6137ad76220f0db68909a92688ba87b9e4b20aabdbc814491f0",
       "backlinks": [
-        "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "consulta-publica-marcas-posicao-inpi-2026",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
+        "edital-casos-sucesso-pi-inpi-2026",
+        "trf2-decisao-abpi-fortalecimento-inpi",
+        "consulta-publica-marcas-posicao-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-20T00:14:43.607Z"
+      "last_processed": "2026-09-22T14:05:30.740Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1389,14 +1389,14 @@
         "article"
       ],
       "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
-      "content_hash_en": "a98b13ed606bf19647b2064bd743ba15e8a314c4eb0b76810ae37ee6a48673b4",
+      "content_hash_en": "d66556da2e9ae6ffb77634ba408411c4c68641f60986bf4c342fdadc07266722",
       "backlinks": [
-        "run-llms-old-server-homelab-guide-2026",
-        "llm-quantization-guide-gguf-2026",
-        "modelos-ia-abertos-vs-fronteira-dados-2026"
+        "modelos-ia-abertos-vs-fronteira-dados-2026",
+        "claude-sonnet-5-2026",
+        "run-llms-old-server-homelab-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-20T00:15:14.148Z"
+      "last_processed": "2026-09-22T14:05:56.806Z"
     },
     "consulta-publica-marcas-posicao-inpi-2026": {
       "slug": "consulta-publica-marcas-posicao-inpi-2026",
@@ -1413,14 +1413,14 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "ef38dccc5ec7291faea6f4311df1ea139cbce83f31e87ae2dad9b716cc794ef1",
+      "content_hash_en": "ce86a1120acac21328c508f8b67acb6dc3a8a638053a9a4352ee4b93eaf5077f",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
-        "busca-anterioridade-marcas-inpi-guia-completo"
+        "marca-coletiva-marca-certificacao-inpi-guia-completo",
+        "classificacao-nice-marcas-inpi-guia-completo"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-20T00:15:57.331Z"
+      "last_processed": "2026-09-22T14:06:21.450Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1558,14 +1558,14 @@
         "article"
       ],
       "description_en": "AI coding agents explained from first principles: the tool-calling loop, agent architectures (single vs multi-agent, MCP), and practical tips for using them effectively in real projects.",
-      "content_hash_en": "0e4a46908fc0036cae9e689a9419904792d1dac7d3d58372b8e5a4c97d20f091",
+      "content_hash_en": "90b98074cfcd1e0de46bba884ef3717c3ed84cf48005895d7a7c38e37d7075e5",
       "backlinks": [
         "stateless-mcp-guide-2026",
         "sandboxing-ai-coding-agents-guide-2026",
-        "personal-software-ai-guide-2026"
+        "claude-sonnet-5-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-20T00:16:15.122Z"
+      "last_processed": "2026-09-22T14:06:58.152Z"
     },
     "ip-protection-types-brazil-complete-guide": {
       "slug": "ip-protection-types-brazil-complete-guide",
@@ -1826,14 +1826,14 @@
         "article"
       ],
       "description_en": "Complete guide to international patent search: PATENTSCOPE from WIPO, Espacenet from EPO, and Google Patents. Comparison of tools, search strategies, and practical tips.",
-      "content_hash_en": "3fda4fe4ee10d7d6c67cc1a3b7c8a1c9520839a489ee5bcd7bb994e45dcd1ebc",
+      "content_hash_en": "6636ddf98b18c99c87a897d57df446d58df0c2024c061e7f1fa5f04ed3a5e69d",
       "backlinks": [
         "inpi-credenciamento-busca-anterioridade-patentes",
         "mapa-global-patentes-pct-2025-brasil",
-        "como-consultar-andamento-processo-inpi"
+        "radares-tecnologicos-inpi-guia-completo"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-20T00:16:44.077Z"
+      "last_processed": "2026-09-22T14:07:31.938Z"
     },
     "patentes-inteligencia-artificial-brasil-guia-2026": {
       "slug": "patentes-inteligencia-artificial-brasil-guia-2026",
@@ -1852,14 +1852,14 @@
         "article"
       ],
       "description_en": "Complete guide to patenting artificial intelligence in Brazil: what is patentable, INPI requirements, IPC classifications, how to draft the application, and differences between software, algorithm, and AI invention. Includes WIPO 2026 data.",
-      "content_hash_en": "d78813ed2d085df90b905d45d235a8d1728f6d46e8236a1c9d46561862101932",
+      "content_hash_en": "afc95b0ad2866cec0cb9a449b1128a312d78e44bdc0a502a127acc4a49fd6f4f",
       "backlinks": [
         "inpi-automation-roadmap-2025-2029",
         "patente-software-vs-registro-programa-computador-brasil",
         "wipo-lanca-artificial-intelligence-infrastructure-interchange"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-20T00:17:07.305Z"
+      "last_processed": "2026-09-22T14:08:03.282Z"
     },
     "stacked-pull-requests-guide-2026": {
       "slug": "stacked-pull-requests-guide-2026",
@@ -1924,14 +1924,14 @@
         "article"
       ],
       "description_en": "AI coding tools turned software for a single user into a practical reality. The story of home-cooked apps, the stack that makes them possible, and why your next app may have an audience of one.",
-      "content_hash_en": "af6601aeea32d13a76a7a5ecba4e8346c74bad526d790622f54a27986d4068b9",
+      "content_hash_en": "d3ad228d873e7c37d12df6b74a0eae95db2a2ca93b6b81cce325a5f37f34ac16",
       "backlinks": [
         "ai-coding-agents-architectural-guide-2026",
         "creating-my-ai-assistant-locally",
         "experience-with-cursor-and-windsurf"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-20T00:18:02.665Z"
+      "last_processed": "2026-09-22T14:08:29.901Z"
     },
     "diataxis-technical-documentation-guide-2026": {
       "slug": "diataxis-technical-documentation-guide-2026",
@@ -1948,14 +1948,14 @@
         "article"
       ],
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
-      "content_hash_en": "efe00e0037d0fa0452e9f1312a4441d7b8255e0b32770e020eb54cba48200ccf",
+      "content_hash_en": "616593d3c96d7cad6f72502a1b9fbeb0bfe3f86675e2e4eab2dbb382a361abfb",
       "backlinks": [
         "hugo-content-file-structure",
-        "mastering-git-log-history-guide-2026",
-        "how-to-split-git-commit-guide-2026"
+        "newsletter-beehiiv-cloudflare-github",
+        "one-week-review-gitbutler"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-20T00:18:36.857Z"
+      "last_processed": "2026-09-22T14:09:02.767Z"
     },
     "run-70b-llm-low-vram-gpu-guide-2026": {
       "slug": "run-70b-llm-low-vram-gpu-guide-2026",
@@ -1972,14 +1972,14 @@
         "article"
       ],
       "description_en": "Run 70B-class LLMs on 4-8GB GPUs: layer streaming, llama.cpp partial offload, AirLLM setup, quantization, and real performance expectations. Step-by-step guide.",
-      "content_hash_en": "06aac29eb22c756d73b179f5f54ac90102a36c75eaa4d12f4bed12f81d410b8e",
+      "content_hash_en": "2bdd1846597b6b96e31eecc59f576ff94639bbc4565505244f77687d55ef4745",
       "backlinks": [
         "llm-quantization-guide-gguf-2026",
         "run-llms-old-server-homelab-guide-2026",
         "fine-tune-llm-consumer-gpu-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-20T00:18:53.732Z"
+      "last_processed": "2026-09-22T14:09:23.025Z"
     },
     "fine-tune-llm-consumer-gpu-guide-2026": {
       "slug": "fine-tune-llm-consumer-gpu-guide-2026",
@@ -1998,11 +1998,12 @@
       "description_en": "Fine-tune 7-8B LLMs on 4-8GB GPUs with LoRA and QLoRA: memory math, tools (PEFT, TRL, Unsloth), step-by-step training, and realistic expectations for consumer hardware.",
       "content_hash_en": "ae8f866a136132bb162469a3185fe4bcfafa7ba31fd16a17a49b23e49329a97d",
       "backlinks": [
-        "vibe-coding-pitfalls",
-        "kvm-virsh-linux-virtualization-guide-2026"
+        "run-70b-llm-low-vram-gpu-guide-2026",
+        "llm-quantization-guide-gguf-2026",
+        "run-llms-old-server-homelab-guide-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-22T14:10:17.084Z"
     },
     "patente-invencao-vs-modelo-utilidade-guia-2026": {
       "slug": "patente-invencao-vs-modelo-utilidade-guia-2026",
@@ -2785,6 +2786,30 @@
         "busca-anterioridade-marcas-inpi-guia-completo",
         "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
         "como-consultar-andamento-processo-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "marca-coletiva-marca-certificacao-inpi-guia-completo": {
+      "slug": "marca-coletiva-marca-certificacao-inpi-guia-completo",
+      "title_en": "Collective Trademark and Certification Mark at INPI: Complete Guide",
+      "title_pt": "Marca Coletiva e Marca de Certificação no INPI: Guia Completo",
+      "tags": [
+        "marcas",
+        "inpi",
+        "propriedade-intelectual",
+        "marca-coletiva",
+        "guia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Who can register a collective mark and a certification mark with the INPI: required documents, 60-day deadline, costs per class, extinction and forfeiture.",
+      "content_hash_en": "0b6ff59392f4503e1ff89057051e2dd523c941c406241d66fa0386b3e9a41bbb",
+      "backlinks": [
+        "guia-indicacoes-geograficas-inpi-brasil",
+        "busca-anterioridade-marcas-inpi-guia-completo",
+        "quanto-custa-registrar-marca-inpi-2026"
       ],
       "backlink_source": "file",
       "last_processed": null

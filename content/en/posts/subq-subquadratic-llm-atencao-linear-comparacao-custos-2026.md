@@ -168,9 +168,9 @@ This new architecture is very exciting, especially because eventually we may hav
 
 Read also:
 
-- [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
-- [LLM Quantization Guide 2026: GGUF Formats, Q4 vs Q8, and How to Choose]({{< relref "posts/llm-quantization-guide-gguf-2026/" >}})
 - [Open AI vs. frontier models: the hidden cost of your data [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
+- [Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
 
 ---
 

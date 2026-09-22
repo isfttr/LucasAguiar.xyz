@@ -121,8 +121,9 @@ Se você já está rodando inferência local em uma placa com pouca VRAM, o mesm
 
 Leia também:
 
-- [Por Que Estou Terminando Com o Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [KVM e Virsh no Linux: Guia Completo para Máquinas Virtuais [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
+- [Como Executar LLMs de 70B em uma GPU de 4GB: Guia de Inferência com Baixo VRAM [2026]]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}})
+- [Guia de Quantização de LLM 2026: Formatos GGUF, Q4 vs Q8 e Como Escolher]({{< relref "posts/llm-quantization-guide-gguf-2026/" >}})
+- [Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático para Homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
 
 ---
 

@@ -146,9 +146,9 @@ Em todos os casos, o sinal escolhido precisa ter distintividade — e pode ser b
 
 Leia também:
 
-- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 - [Indicação Geográfica no INPI: Guia Completo [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
 - [Busca de Anterioridade de Marcas no INPI: Guia Completo Passo a Passo]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 

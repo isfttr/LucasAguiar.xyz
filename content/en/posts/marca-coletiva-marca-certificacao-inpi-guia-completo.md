@@ -152,6 +152,12 @@ See also:
 - [Geographical Indication at INPI: Complete Guide [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
 - [Prior-Art Trademark Search at INPI: Complete Step-by-Step Guide]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
 
+Read also:
+
+- [Geographical Indication at INPI: Complete Guide [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
+- [Trademark Prior Art Search at INPI: Complete Step-by-Step Guide]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+
 ---
 
 You can get in touch to talk about this and other matters at the email <contact@lucasaguiar.xyz>

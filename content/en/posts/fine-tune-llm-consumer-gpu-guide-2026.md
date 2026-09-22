@@ -120,8 +120,9 @@ If you're already running local inference on a low-VRAM card, the same hardware 
 
 Read also:
 
-- [Why I'm Breaking Up With Vibe Coding]({{< relref "posts/vibe-coding-pitfalls/" >}})
-- [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
+- [How to Run 70B LLMs on a 4GB GPU: Low-VRAM Inference Guide [2026]]({{< relref "posts/run-70b-llm-low-vram-gpu-guide-2026/" >}})
+- [LLM Quantization Guide 2026: GGUF Formats, Q4 vs Q8, and How to Choose]({{< relref "posts/llm-quantization-guide-gguf-2026/" >}})
+- [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
 
 ---
 
