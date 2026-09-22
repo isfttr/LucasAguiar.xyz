@@ -100,8 +100,9 @@ The modernization of the Brazilian patent system is a process that has been unde
 
 Read also:
 
-- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 - [INPI launches new version of the Patents Module: what changes in 2026]({{< relref "posts/inpi-modulo-servicos-patentes-novas-funcionalidades-2026/" >}})
+- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [Complete Guide to Patent Annuities at INPI: Deadlines, Fees, and How to Pay [2026]]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
 
 ---
 

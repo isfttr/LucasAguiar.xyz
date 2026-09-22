@@ -183,7 +183,7 @@ Leia também:
 
 - [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
 - [Claude Sonnet 5: Janela de Contexto Limitada o torna útil apenas como subagente]({{< relref "posts/claude-sonnet-5-2026/" >}})
-- [Como Executar LLMs em Hardware de Servidor Antigo: Um Guia Prático para Homelab [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
+- [Guia de Quantização de LLM 2026: Formatos GGUF, Q4 vs Q8 e Como Escolher]({{< relref "posts/llm-quantization-guide-gguf-2026/" >}})
 
 ---
 

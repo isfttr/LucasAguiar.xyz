@@ -84,8 +84,9 @@ The WAL-reset bug is a reminder that even the most battle-tested software has ed
 
 Read also:
 
-- [PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
-- [How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
+- [How to Verify Your PostgreSQL Backups Actually Restore [2026]]({{< relref "posts/verify-postgresql-backups-restore-guide-2026/" >}})
+- [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
+- [Proxmox Login Failed? Fix 'authentication failure' 401 [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 
 ---
 

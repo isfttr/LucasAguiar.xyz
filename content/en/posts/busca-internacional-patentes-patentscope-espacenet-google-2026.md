@@ -201,7 +201,7 @@ Read also:
 
 - [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 - [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [INPI Technological Radars: Complete Guide to Free Patent Intelligence]({{< relref "posts/radares-tecnologicos-inpi-guia-completo/" >}})
+- [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
 
 ---
 
