@@ -1,9 +1,9 @@
 ---
-date: 2026-09-22T11:00:00-03:00
+date: 2026-09-22T14:00:00.000Z
 draft: true
-title: "Generative AI Patents Worldwide: Complete WIPO Data Landscape [2026]"
-description: "How many generative AI patents exist worldwide? WIPO Technology SPARK report data: growth from 14,000 to 37,800+ patent families in 2 years, China leading, and the top applicant companies ranked."
-featured_image: ""
+title: 'Generative AI Patents Worldwide: Complete WIPO Data Landscape [2026]'
+description: 'How many generative AI patents exist worldwide? WIPO Technology SPARK report data: growth from 14,000 to 37,800+ patent families in 2 years, China leading, and the top applicant companies ranked.'
+featured_image: ''
 categories:
   - article
 tags:
@@ -12,6 +12,7 @@ tags:
   - artificial-intelligence
   - wipo
   - data
+translation_source_hash: f45e533bb04f11af456488f60c30d6d20accfdd8fb4ba85c98ae1f02c7691ee8
 ---
 
 The race to protect generative AI inventions has reached a new milestone: more patent families were published in 2024 and 2025 than in the entire preceding decade combined. The numbers come from WIPO's **Technology SPARK** report, released in July 2026, and they redraw the global innovation map.
