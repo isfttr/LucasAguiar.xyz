@@ -2,7 +2,7 @@
 date: 2026-09-22T18:04:05.000Z
 draft: true
 title: Agentes de Codificação de IA Estão Inundando Sua CI — Como Reestruturar o Pipeline para Acompanhar [2026]
-description: 'Guia prático para corrigir o gargalo da CI causado por agentes de codificação de IA: runners mais rápidos, sharding de testes, checkouts enxutos e redução do custo de configuração — com números concretos da equipe de engenharia da Linear.'
+description: "Guia prático para corrigir o gargalo da CI causado por agentes de codificação de IA: runners mais rápidos, sharding de testes, checkouts enxutos e redução do custo de configuração — com números concretos da equipe de engenharia da Linear."
 featured_image: null
 categories:
   - article
@@ -15,6 +15,7 @@ tags:
   - github-actions
 slug: reestruturar-pipeline-agentes-ia-ci
 translation_source_hash: b52676426b0cec0c3a3124b193e8e171bb315787fa58b519759b45b56dc5c686
+scheduledAt: 2026-09-24T13:34:47.521Z
 ---
 Agentes de codificação de IA agora podem gerar e submeter pull requests ordens de magnitude mais rápido do que um humano pode revisá-los — e para muitas equipes, o gargalo se moveu silenciosamente do editor para o pipeline de integração contínua (CI). Se sua suíte de testes está levando mais de 10 minutos por PR enquanto agentes produzem dezenas de branches por dia, a fila, a conta do runner e a frustração do desenvolvedor apontam para o mesmo problema: o CI não consegue acompanhar. Este guia descreve como reformular um sistema de CI que está sendo sobrecarregado por código gerado por IA, usando o manual concreto que a equipe de engenharia da Linear publicou em setembro de 2026.
 
