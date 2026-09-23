@@ -13,8 +13,8 @@ tags:
   - patentes
   - marcas
   - guia
+scheduledAt: 2026-09-28T13:37:00.000Z
 ---
-
 No Brasil, quase todo ato oficial do Instituto Nacional da Propriedade Industrial (INPI) é divulgado em um único meio: a **Revista da Propriedade Industrial (RPI)**. Se você depositou uma patente, pediu o registro de uma marca, tramitou um desenho industrial ou uma indicação geográfica, em algum momento vai precisar se localizar na RPI para acompanhar publicações, subsídios, oposições e concessões. Este guia mostra como a Revista é organizada, quando é publicada e como verificar o andamento do seu processo.
 
 ## O que é a RPI
