@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T13:44:01.244Z",
+  "last_updated": "2026-09-23T15:42:08.101Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1334,14 +1334,14 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "0b7da977ec87e1ce97940c7711790e53cb94014844493f8b8541096833acacf9",
+      "content_hash_en": "06eb3d828ea44df0d23a7314a9e97e2f8e0aa2c43080017e7a5bc0e816672d52",
       "backlinks": [
-        "lpi-30-anos-propostas-aperfeicoamento-inpi",
-        "consulta-publica-marcas-posicao-inpi-2026",
-        "edital-casos-sucesso-pi-inpi-2026"
+        "edital-casos-sucesso-pi-inpi-2026",
+        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
+        "inpi-manual-marcas-alto-renome-protocolo-madri"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-23T13:39:01.448Z"
+      "last_processed": "2026-09-23T15:36:12.614Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1413,14 +1413,14 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "40fdf8bb5d9b7e898ce5809eab2a887dbbee3423fe8e9f91c3a8c924b9c5f831",
+      "content_hash_en": "582dfcab5f5aa950a9fe85333442f3656508b4d078f4771738e6d6bd50a46361",
       "backlinks": [
-        "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "marca-coletiva-marca-certificacao-inpi-guia-completo"
+        "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-23T13:40:10.249Z"
+      "last_processed": "2026-09-23T15:36:50.644Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1826,14 +1826,14 @@
         "article"
       ],
       "description_en": "Complete guide to international patent search: PATENTSCOPE from WIPO, Espacenet from EPO, and Google Patents. Comparison of tools, search strategies, and practical tips.",
-      "content_hash_en": "518ca38c5a768e1cc5345dacec9167a97a959a1a3d987956f178c8566715c465",
+      "content_hash_en": "1376298b3554583030d99c55b1ffe0fa78bbf69873c2077cf5c0e4d2d02bc7f7",
       "backlinks": [
         "inpi-credenciamento-busca-anterioridade-patentes",
         "mapa-global-patentes-pct-2025-brasil",
         "guia-deposito-patente-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-23T13:40:47.985Z"
+      "last_processed": "2026-09-23T15:37:22.190Z"
     },
     "patentes-inteligencia-artificial-brasil-guia-2026": {
       "slug": "patentes-inteligencia-artificial-brasil-guia-2026",
@@ -1948,14 +1948,14 @@
         "article"
       ],
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
-      "content_hash_en": "f1b29cd403656424ebd788da33a4344590a9373f8387566742694764f6cdb526",
+      "content_hash_en": "5dc5cc790d1b36e869c41ed6a61f4e69d12ecf47a9a91dc1717ea357bf2b5e14",
       "backlinks": [
         "hugo-content-file-structure",
-        "ai-coding-agents-architectural-guide-2026",
-        "one-week-review-gitbutler"
+        "containers-vs-vms-complete-guide-2026",
+        "newsletter-beehiiv-cloudflare-github"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-23T13:41:13.412Z"
+      "last_processed": "2026-09-23T15:38:02.494Z"
     },
     "run-70b-llm-low-vram-gpu-guide-2026": {
       "slug": "run-70b-llm-low-vram-gpu-guide-2026",
@@ -2164,14 +2164,14 @@
         "article"
       ],
       "description_en": "Complete guide to SQLite WAL corruption in 2026: detect it with PRAGMA integrity_check, recover corrupted databases, and prevent the WAL-reset bug. Real case study included.",
-      "content_hash_en": "7d6b7dea6df72ed6e58d4ad7e510301a2ed68dc8e0904f396c4022aee74f794c",
+      "content_hash_en": "19fb296b9b17ab9f823314233668afbd78139a982ceb65d95e4b374d68ac752c",
       "backlinks": [
         "verify-postgresql-backups-restore-guide-2026",
-        "proxmox-backup-server-community-scripts-2026",
-        "postgresql-performance-best-practices-homelab-2026"
+        "postgresql-performance-best-practices-homelab-2026",
+        "proxmox-backup-server-community-scripts-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-23T13:41:52.602Z"
+      "last_processed": "2026-09-23T15:38:36.487Z"
     },
     "busca-anterioridade-marcas-inpi-guia-completo": {
       "slug": "busca-anterioridade-marcas-inpi-guia-completo",
@@ -2188,14 +2188,14 @@
         "article"
       ],
       "description_en": "Complete guide to conducting trademark prior art searches at INPI: access to the pePI system, exact and radical search, Nice classes, interpretation of results, and practical tips.",
-      "content_hash_en": "642b2f6419e1f91873cc6e2d583d3648dc84a01a61414d2d952bc2473aaf67a8",
+      "content_hash_en": "63033ca61ddcd5973fe9b32686b6b85f12a04ed814f5b4280f432f84abb7a400",
       "backlinks": [
         "classificacao-nice-marcas-inpi-guia-completo",
         "quanto-custa-registrar-marca-inpi-2026",
         "quanto-tempo-demora-para-registrar-marca-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-23T13:42:33.684Z"
+      "last_processed": "2026-09-23T15:39:08.515Z"
     },
     "reducing-cves-container-images-guide-2026": {
       "slug": "reducing-cves-container-images-guide-2026",
@@ -2286,14 +2286,14 @@
         "article"
       ],
       "description_en": "Block ads and trackers in 2026: uBlock Origin on Firefox, uBO Lite for Chromium, plus DNS-level filtering with Pi-hole or AdGuard Home. Step-by-step guide.",
-      "content_hash_en": "ab58c228d38a0671890a8b4ef53ed1d97029f6595964206257fdfe9712f16287",
+      "content_hash_en": "0f8b73bb1e59b757c34c2b2cee5a0f461199b5bb4d175612268c5fbf0dbe811d",
       "backlinks": [
         "detect-block-bot-traffic-selfhosted-guide-2026",
-        "self-hosted-mesh-vpn-wireguard-headscale-guide-2026",
-        "proxmox-mac-mini-2018-t2"
+        "llm-api-security-inspect-traffic-guide-2026",
+        "self-hosted-mesh-vpn-wireguard-headscale-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-23T13:42:56.272Z"
+      "last_processed": "2026-09-23T15:40:03.781Z"
     },
     "duckdb-self-hosted-analytics-guide-2026": {
       "slug": "duckdb-self-hosted-analytics-guide-2026",
@@ -2310,14 +2310,14 @@
         "article"
       ],
       "description_en": "Practical guide to DuckDB for homelab and self-hosted users: install the single binary, query CSV/Parquet/JSON directly, analyze logs and exports without spinning up a database server. Real examples.",
-      "content_hash_en": "3a88e286e32058d0dc1359faa3e29514930d044c58cadfe4970d5d32f8d70810",
+      "content_hash_en": "8e3dd459a1a15d6001428b94c1e4c5c22bf987736e1c67e9430061f20e9d42ab",
       "backlinks": [
         "postgresql-performance-best-practices-homelab-2026",
         "sqlite-wal-corruption-guide-2026",
         "verify-postgresql-backups-restore-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-23T13:44:01.244Z"
+      "last_processed": "2026-09-23T15:40:31.890Z"
     },
     "how-to-update-open-webui-2026": {
       "slug": "how-to-update-open-webui-2026",
@@ -2337,10 +2337,11 @@
       "content_hash_en": "b7af0e29f8ee5bf89ec642f54f5d8e2705982742de2629ea53ef16dc58f4c321",
       "backlinks": [
         "fix-custom-models-open-webui",
+        "configuracao-whatsapp-hermes",
         "containers-vs-vms-complete-guide-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-23T15:40:47.229Z"
     },
     "stock-price-duration-survivorship-ai-capex-2026": {
       "slug": "stock-price-duration-survivorship-ai-capex-2026",
@@ -2359,11 +2360,12 @@
       "description_en": "A stock price is the present value of decades of future cash flows — but most companies never survive that long. What that old finance math says about the AI investment boom and the growing skepticism around it.",
       "content_hash_en": "c548abbcd748ece6c798dbef8bd3102363bdc479c0c4bc2604b3cf6da34f9495",
       "backlinks": [
-        "ia-desenvolvimento-software-complexidade-codigo",
-        "ai-beats-procrastination"
+        "colapso-fundo-situational-awareness-alavancagem-2026",
+        "fable-5-vending-bench-alinhamento-ia",
+        "modelos-ia-abertos-vs-fronteira-dados-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-23T15:42:08.101Z"
     },
     "github-alternatives-self-hosted-comparison-2026": {
       "slug": "github-alternatives-self-hosted-comparison-2026",

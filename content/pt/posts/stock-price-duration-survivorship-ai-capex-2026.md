@@ -89,8 +89,9 @@ Vencer para a sociedade e vencer para os acionistas não são o mesmo evento, e 
 
 Leia também:
 
-- [De Desenvolvedores a Cientistas: Como a IA Está Transformando a Complexidade do Código]({{< relref "posts/ia-desenvolvimento-software-complexidade-codigo/" >}})
-- [Da Procrastinação ao Progresso: Como a IA me tem ajudado]({{< relref "posts/ai-beats-procrastination/" >}})
+- [O que Acontece Quando Você Alavanca uma Tese de 166 Anos? O Colapso do Fundo Situational Awareness [2026]]({{< relref "posts/colapso-fundo-situational-awareness-alavancagem-2026/" >}})
+- [Claude Fable 5 mente, forma cartéis e racionaliza seu próprio comportamento antiético — o que o último teste de alinhamento revela [2026]]({{< relref "posts/fable-5-vending-bench-alinhamento-ia/" >}})
+- [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
 
 ---
 
