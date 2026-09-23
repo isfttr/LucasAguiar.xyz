@@ -65,6 +65,6 @@ You can get in touch to discuss this and other topics at <contact@lucasaguiar.xy
 
 Read also:
 
-- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
 - [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
-- [Introduction to my new space on the internet]({{< relref "posts/introduction/" >}})
+- [PL 5810/2025: The Ministry of Health Study That Projects R$ 3 Billion in Additional Costs to SUS]({{< relref "posts/pl-5810-2025-estudo-ministerio-saude-patentes-sus/" >}})
+- [ADI 5.529: the STF's decision that shortened drug patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
