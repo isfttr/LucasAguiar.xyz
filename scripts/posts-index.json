@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T18:24:14.016Z",
+  "last_updated": "2026-09-23T13:44:01.244Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1334,14 +1334,14 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "fe8429b3312ebcaf1ef19709fb634322256af003f86079d1b4c0444a1e5e128c",
+      "content_hash_en": "0b7da977ec87e1ce97940c7711790e53cb94014844493f8b8541096833acacf9",
       "backlinks": [
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "consulta-publica-marcas-posicao-inpi-2026",
-        "inpi-manual-marcas-alto-renome-protocolo-madri"
+        "edital-casos-sucesso-pi-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-22T18:19:30.434Z"
+      "last_processed": "2026-09-23T13:39:01.448Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1389,14 +1389,14 @@
         "article"
       ],
       "description_en": "SubQ uses subquadratic sparse attention (SSA) to scale linearly with context: 64x fewer FLOPs than Transformers on 1M tokens. Architecture analysis, benchmarks, and costs.",
-      "content_hash_en": "8430bfb05bccbc6aa318c3997cfa0010250b300af67502e82b5be80957016654",
+      "content_hash_en": "905e097415328e678e1e78e188adf71cbac5fd21bc0d04b32162a00f8e816af1",
       "backlinks": [
         "modelos-ia-abertos-vs-fronteira-dados-2026",
         "claude-sonnet-5-2026",
         "llm-quantization-guide-gguf-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-22T18:20:20.836Z"
+      "last_processed": "2026-09-23T13:39:43.396Z"
     },
     "consulta-publica-marcas-posicao-inpi-2026": {
       "slug": "consulta-publica-marcas-posicao-inpi-2026",
@@ -1413,14 +1413,14 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "d8ef23223a8e85c8ec78a9c71694bbc10a85eef787a5e76d9eb416255f92bbe6",
+      "content_hash_en": "40fdf8bb5d9b7e898ce5809eab2a887dbbee3423fe8e9f91c3a8c924b9c5f831",
       "backlinks": [
+        "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
-        "inpi-diretrizes-segundo-uso-medico-patentes-quimica"
+        "marca-coletiva-marca-certificacao-inpi-guia-completo"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-22T18:20:59.235Z"
+      "last_processed": "2026-09-23T13:40:10.249Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1826,14 +1826,14 @@
         "article"
       ],
       "description_en": "Complete guide to international patent search: PATENTSCOPE from WIPO, Espacenet from EPO, and Google Patents. Comparison of tools, search strategies, and practical tips.",
-      "content_hash_en": "3fda4fe4ee10d7d6c67cc1a3b7c8a1c9520839a489ee5bcd7bb994e45dcd1ebc",
+      "content_hash_en": "518ca38c5a768e1cc5345dacec9167a97a959a1a3d987956f178c8566715c465",
       "backlinks": [
         "inpi-credenciamento-busca-anterioridade-patentes",
         "mapa-global-patentes-pct-2025-brasil",
-        "ip-protection-types-brazil-complete-guide"
+        "guia-deposito-patente-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-22T18:22:09.596Z"
+      "last_processed": "2026-09-23T13:40:47.985Z"
     },
     "patentes-inteligencia-artificial-brasil-guia-2026": {
       "slug": "patentes-inteligencia-artificial-brasil-guia-2026",
@@ -1948,14 +1948,14 @@
         "article"
       ],
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
-      "content_hash_en": "ec4a3e808db8d761e5d51708555d0b53f339f6dadb2bee220398cd7a50986afc",
+      "content_hash_en": "f1b29cd403656424ebd788da33a4344590a9373f8387566742694764f6cdb526",
       "backlinks": [
         "hugo-content-file-structure",
         "ai-coding-agents-architectural-guide-2026",
-        "mastering-git-log-history-guide-2026"
+        "one-week-review-gitbutler"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-22T18:22:49.198Z"
+      "last_processed": "2026-09-23T13:41:13.412Z"
     },
     "run-70b-llm-low-vram-gpu-guide-2026": {
       "slug": "run-70b-llm-low-vram-gpu-guide-2026",
@@ -2116,14 +2116,14 @@
         "article"
       ],
       "description_en": "Practical guide to INPI's new Patent Services Module: how to access the homologation platform, request test credentials, what changes with exclusive use from August 19, and how to avoid errors in the transition.",
-      "content_hash_en": "3cb58378cdcd1d0eb1684c520dd0f46b9c3b174379fcf4d869eabf1da9864d07",
+      "content_hash_en": "09dd4f74951b7ebd4a06c90486fac7f846088edd7e2dbc4dd1588eaeeaddb6e4",
       "backlinks": [
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
         "guia-deposito-patente-inpi-2026",
         "guia-anuidades-patentes-inpi-prazos-valores-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-22T18:23:30.944Z"
+      "last_processed": "2026-09-23T13:41:30.225Z"
     },
     "llm-api-security-inspect-traffic-guide-2026": {
       "slug": "llm-api-security-inspect-traffic-guide-2026",
@@ -2164,14 +2164,14 @@
         "article"
       ],
       "description_en": "Complete guide to SQLite WAL corruption in 2026: detect it with PRAGMA integrity_check, recover corrupted databases, and prevent the WAL-reset bug. Real case study included.",
-      "content_hash_en": "5cf845dd232f547be09f5f1ba663209ea823f47d44676f66269f4b6b6ec5b0d9",
+      "content_hash_en": "7d6b7dea6df72ed6e58d4ad7e510301a2ed68dc8e0904f396c4022aee74f794c",
       "backlinks": [
         "verify-postgresql-backups-restore-guide-2026",
         "proxmox-backup-server-community-scripts-2026",
-        "troubleshooting-proxmox-login-interface"
+        "postgresql-performance-best-practices-homelab-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-22T18:23:49.332Z"
+      "last_processed": "2026-09-23T13:41:52.602Z"
     },
     "busca-anterioridade-marcas-inpi-guia-completo": {
       "slug": "busca-anterioridade-marcas-inpi-guia-completo",
@@ -2188,14 +2188,14 @@
         "article"
       ],
       "description_en": "Complete guide to conducting trademark prior art searches at INPI: access to the pePI system, exact and radical search, Nice classes, interpretation of results, and practical tips.",
-      "content_hash_en": "fe08237f8b436daac2e6d17706d2126aa368766bad727b4a99bcf4f834913fe8",
+      "content_hash_en": "642b2f6419e1f91873cc6e2d583d3648dc84a01a61414d2d952bc2473aaf67a8",
       "backlinks": [
         "classificacao-nice-marcas-inpi-guia-completo",
-        "inpi-credenciamento-busca-anterioridade-patentes",
-        "quanto-custa-registrar-marca-inpi-2026"
+        "quanto-custa-registrar-marca-inpi-2026",
+        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-22T18:24:14.016Z"
+      "last_processed": "2026-09-23T13:42:33.684Z"
     },
     "reducing-cves-container-images-guide-2026": {
       "slug": "reducing-cves-container-images-guide-2026",
@@ -2288,11 +2288,12 @@
       "description_en": "Block ads and trackers in 2026: uBlock Origin on Firefox, uBO Lite for Chromium, plus DNS-level filtering with Pi-hole or AdGuard Home. Step-by-step guide.",
       "content_hash_en": "ab58c228d38a0671890a8b4ef53ed1d97029f6595964206257fdfe9712f16287",
       "backlinks": [
-        "containers-vs-vms-complete-guide-2026",
-        "detect-block-bot-traffic-selfhosted-guide-2026"
+        "detect-block-bot-traffic-selfhosted-guide-2026",
+        "self-hosted-mesh-vpn-wireguard-headscale-guide-2026",
+        "proxmox-mac-mini-2018-t2"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-23T13:42:56.272Z"
     },
     "duckdb-self-hosted-analytics-guide-2026": {
       "slug": "duckdb-self-hosted-analytics-guide-2026",
@@ -2311,11 +2312,12 @@
       "description_en": "Practical guide to DuckDB for homelab and self-hosted users: install the single binary, query CSV/Parquet/JSON directly, analyze logs and exports without spinning up a database server. Real examples.",
       "content_hash_en": "3a88e286e32058d0dc1359faa3e29514930d044c58cadfe4970d5d32f8d70810",
       "backlinks": [
+        "postgresql-performance-best-practices-homelab-2026",
         "sqlite-wal-corruption-guide-2026",
-        "postgresql-performance-best-practices-homelab-2026"
+        "verify-postgresql-backups-restore-guide-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-09-23T13:44:01.244Z"
     },
     "how-to-update-open-webui-2026": {
       "slug": "how-to-update-open-webui-2026",

@@ -107,8 +107,8 @@ A busca de anterioridade é o investimento mais barato de todo o processo de reg
 Leia também:
 
 - [Classificação de Nice: como escolher a classe certa para registrar sua marca no INPI [2026]]({{< relref "posts/classificacao-nice-marcas-inpi-guia-completo/" >}})
-- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 - [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [Quanto Tempo Demora para Registrar uma Marca no INPI? Etapas e Prazos [2026]]({{< relref "posts/quanto-tempo-demora-para-registrar-marca-inpi-2026/" >}})
 
 ---
 

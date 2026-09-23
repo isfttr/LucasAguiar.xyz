@@ -158,8 +158,9 @@ If you self-host anything, you already have the data — you just lacked a low-f
 
 Read also:
 
-- [SQLite WAL Corruption: How to Detect, Fix and Prevent It in you Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
 - [PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
+- [SQLite WAL Corruption: How to Detect, Fix and Prevent It in you Homelab [2026]]({{< relref "posts/sqlite-wal-corruption-guide-2026/" >}})
+- [How to Verify Your PostgreSQL Backups Actually Restore [2026]]({{< relref "posts/verify-postgresql-backups-restore-guide-2026/" >}})
 
 ---
 

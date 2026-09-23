@@ -108,8 +108,8 @@ The prior art search is the cheapest investment in the entire trademark registra
 Read also:
 
 - [Nice Classification: how to choose the right class to register your trademark with INPI [2026]]({{< relref "posts/classificacao-nice-marcas-inpi-guia-completo/" >}})
-- [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
 - [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [How Long Does It Take to Register a Trademark with INPI? Stages and Deadlines [2026]]({{< relref "posts/quanto-tempo-demora-para-registrar-marca-inpi-2026/" >}})
 
 ---
 
