@@ -16,6 +16,9 @@ tags:
   - tecnologia
 slug: artificial-intelligence-patents-brazil-guide
 translation_source_hash: ae46019decfe31cbb2d61f4b4c9da42e28aaa81de22cf33ec1ceab60f2f13977
+aliases:
+  - /posts/patentes-inteligencia-artificial-generativa-brasil-guia-2026/
+
 ---
 Artificial intelligence-based inventions represent the most dynamic frontier of industrial property today. According to WIPO data published in July 2026, the number of generative AI (GenAI) patent families jumped from approximately 14,000 in 2023 to more than 37,800 in 2025 — an average growth of 64% per year. More than 56,000 new GenAI patent families were published in 2024 and 2025 alone, surpassing the total for the entire previous decade (2014-2023).
 

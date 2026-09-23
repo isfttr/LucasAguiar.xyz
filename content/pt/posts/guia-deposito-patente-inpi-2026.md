@@ -12,6 +12,9 @@ tags:
   - guia
   - propriedade-intelectual
   - inovacao
+aliases:
+  - /posts/how-to-file-patent-inpi-2026-guide/
+
 ---
 Como funciona, na prática, o depósito de uma patente no Brasil em 2026? Este guia cobre todo o processo, do cadastro inicial à publicação do pedido, incluindo as novidades trazidas pelo novo módulo.
 

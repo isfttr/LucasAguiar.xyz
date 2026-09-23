@@ -14,6 +14,9 @@ tags:
   - inovacao
   - guia
   - tecnologia
+aliases:
+  - /posts/patentes-inteligencia-artificial-generativa-brasil-guia-2026/
+
 ---
 Este guia aborda os requisitos legais, as posições do INPI, as classificações internacionais relevantes, o passo a passo do depósito e as diferenças entre proteger um algoritmo, um modelo de IA e uma aplicação concreta.
 

@@ -13,6 +13,9 @@ tags:
   - medicamentos
   - regulação
   - biotecnologia
+aliases:
+  - /posts/backlog_inpi_2026/
+
 ---
 
 Em janeiro de 2026, o [INPI descontinuou o "backlogômetro"](https://www.gov.br/inpi/pt-br/servicos/patentes/plano-de-combate-ao-backlog) — o painel público que acompanhava a redução do estoque de pedidos de patentes pendentes — com a justificativa de que o projeto atingiu seu objetivo. Para o universo geral de pedidos, a afirmação é tecnicamente correta. Para patentes de medicamentos, a realidade é bem diferente.

@@ -13,6 +13,9 @@ tags:
   - design
   - guide
   - hague
+aliases:
+  - /posts/guia-registro-desenho-industrial-inpi-2026/
+
 ---
 
 Industrial design registration protects the ornamental appearance of an object — the three-dimensional shape of a package, a piece of furniture, a toy, or two-dimensional aspects like fabric patterns or decorative motifs on ceramics. Unlike patents (which protect technical function) or trademarks (which protect commercial identity), industrial design protects the **visual design** of a product.

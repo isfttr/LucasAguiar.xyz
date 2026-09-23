@@ -14,6 +14,9 @@ tags:
   - guide
   - copyright
   - innovation
+aliases:
+  - /posts/tipos-protecao-intelectual-brasil-guia-completo/
+
 ---
 
 The Brazilian intellectual property system offers different protection modalities, each with specific requirements, terms and costs. Choosing the wrong type can mean losing the right to protect your creation. This guide compares all modalities available in Brazil, based on the Industrial Property Law (LPI — Law 9.279/96), the Copyright Law (Law 9.610/98), the Plant Variety Protection Law (Law 9.456/97), and INPI's normative acts.

@@ -16,6 +16,9 @@ tags:
   - innovation
 slug: tipos-protecao-propriedade-intelectual-brasil-guia-comparativo
 translation_source_hash: b291279df8c00c349fd2980bd188210b9f7384923f593674a316bc394d5ac842
+aliases:
+  - /posts/tipos-protecao-intelectual-brasil-guia-completo/
+
 ---
 O sistema de propriedade intelectual brasileiro oferece diferentes modalidades de proteção, cada uma com requisitos, prazos e custos específicos. Escolher o tipo errado pode significar perder o direito de proteger sua criação. Este guia compara todas as modalidades disponíveis no Brasil, com base na Lei de Propriedade Industrial (LPI — Lei 9.279/96), na Lei de Direitos Autorais (Lei 9.610/98), na Lei de Proteção de Cultivares (Lei 9.456/97) e nos atos normativos do INPI.
 

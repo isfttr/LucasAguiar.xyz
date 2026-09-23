@@ -12,6 +12,9 @@ tags:
   - docker
   - proxmox
   - auto-hospedagem
+aliases:
+  - /posts/script-update-open_webui-lxc/
+
 ---
 
 O Open WebUI é uma das interfaces de IA self-hosted mais usadas por aí, mas atualizá-lo confunde muita gente porque não existe um comando único — o update correto depende inteiramente de como você instalou. Docker, pip e um LXC no Proxmox têm fluxos diferentes. Este guia consolida os três, na ordem em que você deve pensar: backup, update, verificação.

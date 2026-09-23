@@ -17,6 +17,8 @@ translation_source_hash: 786be8eae518dd05273dcfd75dba6cc63607f509e9972c5679c47db
 slug: inpi-backlog-over-not-drug-patents
 aliases:
   - /posts/backlog-inpi-patentes-farmaceuticas/
+  - /posts/backlog_inpi_2026/
+
 ---
 In January 2026, the [INPI discontinued the "backlogometer"](https://www.gov.br/inpi/pt-br/servicos/patentes/plano-de-combate-ao-backlog) — the public dashboard that monitored the reduction of the backlog of pending patent applications — with the justification that the project achieved its objective. For the general universe of applications, the statement is technically correct. For pharmaceutical patents, the reality is quite different.
 

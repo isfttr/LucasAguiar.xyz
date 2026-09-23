@@ -16,6 +16,8 @@ tags:
 translation_source_hash: d939c12402ef58c56ca974f596bbaf0bcbf5c36bb83a260fedbfbe3903ef68a9
 aliases:
   - /posts/fix-proxmox-web-interface-login-errors/
+  - /posts/proxmox-401-authentication-failure-fix-2026/
+
 ---
 
 You open the Proxmox web interface, enter your credentials, and nothing happens. The browser's dev tools show a red `401` in the network tab. Or worse: your automation script that worked yesterday now fails with the same code. "authentication failure" is Proxmox's most common login error — and in most cases it's not a server problem, it's a small configuration detail. This guide covers every common cause, from a wrong realm to a missing cluster file.

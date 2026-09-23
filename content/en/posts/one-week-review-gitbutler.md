@@ -17,6 +17,9 @@ tags:
 aliases:
   - /posts/two-weeks-gitbutler-streamlining-git-workflow/
   - /posts/gitbutler-review-alternatives/
+  - /posts/gitbutler-what-is-review-alternatives-2026/
+  - /posts/gitbutler-terminal-cli-tui-2026/
+
 ---
 
 You're in the middle of a feature, your team lead asks for an urgent production hotfix, and your working tree is a graveyard of half-finished changes. Classic Git: you stash, switch branches, stash again, and pray to remember which stash was which. That is the problem [GitButler](https://gitbutler.com) was built to kill — and after using it since 2025, I can say it solves it most of the time.

@@ -14,6 +14,9 @@ tags:
   - inovacao
 slug: file-patent-inpi-guide-2026
 translation_source_hash: 47f56a0969c475cbca54ed6b3c5192f5cfcf4d9d223c49c6b8a582731a77d2ca
+aliases:
+  - /posts/how-to-file-patent-inpi-2026-guide/
+
 ---
 On July 27, 2026, the INPI made available the test platform of the **Patent Services Module**, a new interface that promises to transform how applicants, attorneys, and holders track their patent processes. Although filing itself is still done through the legacy **e-Patentes** system, the new module already offers a personalized workspace, automatic notifications, and access sharing — a concrete step in the [automation of INPI services]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}}).
 

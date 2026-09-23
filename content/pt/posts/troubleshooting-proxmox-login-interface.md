@@ -15,6 +15,8 @@ tags:
 - autenticacao
 aliases:
   - /pt/posts/fix-proxmox-web-interface-login-errors/
+  - /posts/proxmox-401-authentication-failure-fix-2026/
+
 ---
 
 Você abre a interface web do Proxmox, digita suas credenciais e nada acontece. O dev tools do navegador mostra um `401` vermelho na aba de rede. Ou pior: seu script de automação que funcionava ontem agora falha com o mesmo código. "authentication failure" é o erro de login mais comum do Proxmox — e na maioria dos casos não é problema de servidor, é um detalhe pequeno de configuração. Este guia cobre todas as causas comuns, de um realm errado a um arquivo de cluster ausente.

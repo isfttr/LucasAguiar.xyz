@@ -14,9 +14,11 @@ tags:
   - developer-tools
   - productivity
   - version-control
+translation_source_hash: a9a04e1c49efe2c1b05840e4319adc86eae28496249ab5d985c090febf34837b
 aliases:
   - /posts/gitbutler-what-is-review-alternatives-2026/
-translation_source_hash: a9a04e1c49efe2c1b05840e4319adc86eae28496249ab5d985c090febf34837b
+  - /posts/gitbutler-terminal-cli-tui-2026/
+
 ---
 
 Você está no meio de uma feature, o time pede um hotfix urgente em produção, e sua working tree é um cemitério de mudanças pela metade. Git clássico: stash, troca de branch, stash de novo, e uma reza para lembrar qual stash era qual. Esse é exatamente o problema que o [GitButler](https://gitbutler.com) nasceu para resolver — e depois de usá-lo desde 2025, posso dizer que ele resolve isso na maior parte do tempo.

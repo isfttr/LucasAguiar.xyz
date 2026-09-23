@@ -15,6 +15,9 @@ tags:
   - hague
 slug: registro-desenho-industrial-brasil-guia-completo
 translation_source_hash: 12c1c6189085b9e77e837f7c330dabcc90d4c815ba7f89d28de442754fe3bfe7
+aliases:
+  - /posts/guia-registro-desenho-industrial-inpi-2026/
+
 ---
 O registro de desenho industrial protege a aparência ornamental de um objeto — a forma tridimensional de uma embalagem, um móvel, um brinquedo, ou aspectos bidimensionais como padrões de tecido ou motivos decorativos em cerâmica. Diferentemente das patentes (que protegem a função técnica) ou das marcas (que protegem a identidade comercial), o desenho industrial protege o **design visual** de um produto.
 
