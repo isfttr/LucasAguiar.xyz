@@ -1,9 +1,9 @@
 ---
 date: 2026-09-17T18:02:14.000Z
 draft: true
-title: 'Usando LLMs para Classificação de Texto em Produção [2026]: De Prompts Brutos a Recursos Calibrados'
-description: 'Como usar LLMs para classificação de texto em produção: limites zero-shot, problemas de calibração, tratando a saída do LLM como um recurso, e saída estruturada. Guia prático com código.'
-featured_image: ''
+title: "Usando LLMs para Classificação de Texto em Produção [2026]: De Prompts Brutos a Recursos Calibrados"
+description: "Como usar LLMs para classificação de texto em produção: limites zero-shot, problemas de calibração, tratando a saída do LLM como um recurso, e saída estruturada. Guia prático com código."
+featured_image: ""
 categories:
   - article
 tags:
@@ -14,6 +14,7 @@ tags:
   - data-engineering
 slug: llms-classificacao-texto-producao-prompts
 translation_source_hash: 36fe93e0d63e541772de5adf6821f8c9c691ba2d200b5f7a95bddf23052a3cee
+scheduledAt: 2026-09-23T15:35:00.000Z
 ---
 Usar um modelo de linguagem grande como classificador parece o caminho fácil: escreva um prompt, obtenha um rótulo, implemente. Na prática, a saída de um LLM como classificador é difícil de calibrar, ignora sinais estruturados que você já possui e não oferece uma maneira baseada em princípios para trocar precisão por recall. O padrão robusto para produção é tratar o LLM não como o classificador, mas como um **extrator de características**, e deixar que um modelo downstream pequeno e calibrado tome a decisão final. Este guia explica o porquê e mostra um pipeline concreto.
 
