@@ -12,8 +12,8 @@ tags:
   - inteligencia-artificial
   - wipo
   - dados
+scheduledAt: 2026-09-24T13:37:08.740Z
 ---
-
 A corrida pelo patenteador de invenções de IA generativa atingiu um novo marco: mais famílias de patentes foram publicadas em 2024 e 2025 do que em toda a década anterior somada. Os números vieram do relatório **Technology SPARK** da OMPI (Organização Mundial da Propriedade Intelectual), divulgado em julho de 2026, e redefinem o mapa global da inovação.
 
 Se você trabalha com propriedade intelectual, patentes ou inovação, este panorama reúne os dados essenciais do relatório em um único lugar — um guia de referência sobre onde a IA generativa está sendo inventada, quem está depositando patentes e em que ritmo.
