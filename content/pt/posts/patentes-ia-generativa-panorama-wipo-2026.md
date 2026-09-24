@@ -1,6 +1,6 @@
 ---
 date: 2026-09-22T11:00:00-03:00
-draft: true
+draft: false
 title: "Patentes de IA Generativa no Mundo: Panorama Completo com os Dados WIPO [2026]"
 description: "Quantas patentes de IA generativa existem no mundo? Dados do relatório WIPO Technology SPARK: crescimento de 14 mil para 37,8 mil famílias em 2 anos, China à frente e as 10 maiores empresas depositantes."
 featured_image: ""
@@ -12,7 +12,6 @@ tags:
   - inteligencia-artificial
   - wipo
   - dados
-scheduledAt: 2026-09-24T13:37:08.740Z
 ---
 A corrida pelo patenteador de invenções de IA generativa atingiu um novo marco: mais famílias de patentes foram publicadas em 2024 e 2025 do que em toda a década anterior somada. Os números vieram do relatório **Technology SPARK** da OMPI (Organização Mundial da Propriedade Intelectual), divulgado em julho de 2026, e redefinem o mapa global da inovação.
 
