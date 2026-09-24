@@ -81,8 +81,8 @@ Blocking ads in 2026 is a layered stack, not a single extension: Firefox + uBloc
 Read also:
 
 - [How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
-- [LLM API Security in 2026: How to Inspect AI Traffic and Protect Your Keys]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}})
-- [Difficulties Accessing Google Analytics 2026 — VPN, Cookies, Firewall and More]({{< relref "posts/dificuldades-acessar-google-analytics-2026/" >}})
+- [Self-Hosted Mesh VPN in 2026: WireGuard and Headscale Complete Guide]({{< relref "posts/self-hosted-mesh-vpn-wireguard-headscale-guide-2026/" >}})
+- [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
 ---
 

@@ -82,8 +82,8 @@ Bloquear anúncios em 2026 é uma stack em camadas, não uma extensão única: F
 Leia também:
 
 - [Como Detectar e Bloquear Tráfego de Bots no Seu Site Auto-Hospedado [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
-- [Segurança de API LLM em 2026: Como inspecionar o tráfego de IA e proteger suas chaves]({{< relref "posts/llm-api-security-inspect-traffic-guide-2026/" >}})
-- [Dificuldades para Acessar o Google Analytics 2026 — VPN, Cookies, Firewall e Mais]({{< relref "posts/dificuldades-acessar-google-analytics-2026/" >}})
+- [VPN Mesh Auto-Hospedada em 2026: Guia Completo de WireGuard e Headscale]({{< relref "posts/self-hosted-mesh-vpn-wireguard-headscale-guide-2026/" >}})
+- [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
 ---
 

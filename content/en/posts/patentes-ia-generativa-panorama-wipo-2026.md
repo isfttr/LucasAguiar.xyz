@@ -81,11 +81,11 @@ The topic also dialogues with WIPO's new forum for [AI and intellectual property
 
 The complete data is available in the **WIPO Technology SPARK — GenAI Patent Landscape** report and the official [WIPO Press Release PR/2026/957](https://www.wipo.int/pressroom/en/articles/2026/article_0012.html). Follow the series for the next edition with updated numbers.
 
-Also read:
+Read also:
 
-- [Artificial Intelligence Patents in Brazil: Complete Guide to Protecting AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
+- [Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
 - [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
-- [Software Patent vs. Computer Program Registration in Brazil: What's the Difference? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
+- [Software Patent vs Computer Program Registration in Brazil: What's the Difference? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
 
 ---
 

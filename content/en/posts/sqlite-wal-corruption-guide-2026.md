@@ -86,7 +86,7 @@ Read also:
 
 - [How to Verify Your PostgreSQL Backups Actually Restore [2026]]({{< relref "posts/verify-postgresql-backups-restore-guide-2026/" >}})
 - [PostgreSQL Performance Best Practices for Homelab and Self-Hosted [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
-- [DuckDB for Self-Hosted Analytics: Query CSV, Parquet, and JSON in Seconds [2026]]({{< relref "posts/duckdb-self-hosted-analytics-guide-2026/" >}})
+- [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
 
 ---
 

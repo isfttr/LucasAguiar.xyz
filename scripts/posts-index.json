@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T13:40:47.255Z",
+  "last_updated": "2026-09-24T14:14:57.236Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -178,14 +178,14 @@
         "article"
       ],
       "description_en": "The Backlog Combat Plan reduced the overall stock by 80%, but pharmaceutical orders were left out. Understand what changed with Ordinance 110/2025 and what is still pending.",
-      "content_hash_en": "a7570dc851900406017bfeb22d0b4b72f10cb10c32e7d1ad6a0c922acf0f16f4",
+      "content_hash_en": "ab1e65a79201c197079240ce3c10f26959600ab3b30a621c42fab19f5b02746d",
       "backlinks": [
         "propostas_pta_patentes_2026",
         "pl-5810-2025-estudo-ministerio-saude-patentes-sus",
         "adi-5529-patentes-farmaceuticas"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-24T13:36:23.422Z"
+      "last_processed": "2026-09-24T14:10:54.252Z"
     },
     "creating-my-ai-assistant-locally": {
       "slug": "creating-my-ai-assistant-locally",
@@ -1334,14 +1334,14 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "0f764f22e51a91a217a18b23a7257b24921e2825c8d5d00a00ddc675133d56b0",
+      "content_hash_en": "38058270d806d6137ad76220f0db68909a92688ba87b9e4b20aabdbc814491f0",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "consulta-publica-marcas-posicao-inpi-2026",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
+        "busca-anterioridade-marcas-inpi-guia-completo"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-24T13:37:09.535Z"
+      "last_processed": "2026-09-24T14:11:35.258Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1413,14 +1413,14 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "e81e68db908b6c2cb2679426ddc6ffefb98616ecbc627a5714801f2191988053",
+      "content_hash_en": "e772011092170830c7dc8d4b10d7515210f6e222b397af3afa9e44539e240fa7",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "classificacao-nice-marcas-inpi-guia-completo",
-        "marca-coletiva-marca-certificacao-inpi-guia-completo"
+        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
+        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-24T13:37:39.273Z"
+      "last_processed": "2026-09-24T14:11:57.952Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1534,14 +1534,14 @@
         "article"
       ],
       "description_en": "Complete guide to industrial design registration at the Brazilian INPI: updated fees, required documents, e-DI filing steps, validity terms, Hague Agreement international route, and differences from patents and trademarks.",
-      "content_hash_en": "10e15f14842571b9736832dd494f735c07b35b275c84947647ebf2579652141b",
+      "content_hash_en": "b35ff677e5659c25d47e53e9b23a49c9712ee7adbbc3a883d8d0438cd610a6c1",
       "backlinks": [
         "ip-protection-types-brazil-complete-guide",
         "lpi-30-anos-propostas-aperfeicoamento-inpi",
         "como-consultar-andamento-processo-inpi"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-24T13:38:01.720Z"
+      "last_processed": "2026-09-24T14:12:31.445Z"
     },
     "ai-coding-agents-architectural-guide-2026": {
       "slug": "ai-coding-agents-architectural-guide-2026",
@@ -1852,14 +1852,14 @@
         "article"
       ],
       "description_en": "Complete guide to patenting artificial intelligence in Brazil: what is patentable, INPI requirements, IPC classifications, how to draft the application, and differences between software, algorithm, and AI invention. Includes WIPO 2026 data.",
-      "content_hash_en": "818018e8814cd3b028887e15990656c38da17534834429ef54b1644600e5c3c1",
+      "content_hash_en": "96de1aa93e188251c173c62926ba2b4d3dd59fd56c1d68d0cf613a220a2258c7",
       "backlinks": [
         "patentes-ia-generativa-panorama-wipo-2026",
         "inpi-automation-roadmap-2025-2029",
         "patente-software-vs-registro-programa-computador-brasil"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-24T13:38:21.911Z"
+      "last_processed": "2026-09-24T14:12:49.048Z"
     },
     "stacked-pull-requests-guide-2026": {
       "slug": "stacked-pull-requests-guide-2026",
@@ -1948,14 +1948,14 @@
         "article"
       ],
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
-      "content_hash_en": "36a6eb58afd46e95af951f6dc611ebc9e2a036fb0e14ca9b048f19fa4fc2fde4",
+      "content_hash_en": "3f39c64ee82407940219e50d845f952a4d9294ea8aff8a05b153afd8db29cf9e",
       "backlinks": [
         "hugo-content-file-structure",
-        "kvm-virsh-linux-virtualization-guide-2026",
-        "how-to-update-open-webui-2026"
+        "ai-coding-agents-architectural-guide-2026",
+        "containers-vs-vms-complete-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-24T13:38:52.642Z"
+      "last_processed": "2026-09-24T14:13:28.431Z"
     },
     "run-70b-llm-low-vram-gpu-guide-2026": {
       "slug": "run-70b-llm-low-vram-gpu-guide-2026",
@@ -2164,14 +2164,14 @@
         "article"
       ],
       "description_en": "Complete guide to SQLite WAL corruption in 2026: detect it with PRAGMA integrity_check, recover corrupted databases, and prevent the WAL-reset bug. Real case study included.",
-      "content_hash_en": "23b896ed034a0995e64cc77657cb1fbe7f943d14c15584071acfc904d7920f85",
+      "content_hash_en": "7601cab1fd66885d9cc03745b870c7d683e94dc0d75641786beacc7383b8edb6",
       "backlinks": [
         "verify-postgresql-backups-restore-guide-2026",
         "postgresql-performance-best-practices-homelab-2026",
-        "duckdb-self-hosted-analytics-guide-2026"
+        "proxmox-backup-server-community-scripts-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-24T13:39:27.578Z"
+      "last_processed": "2026-09-24T14:13:44.903Z"
     },
     "busca-anterioridade-marcas-inpi-guia-completo": {
       "slug": "busca-anterioridade-marcas-inpi-guia-completo",
@@ -2286,14 +2286,14 @@
         "article"
       ],
       "description_en": "Block ads and trackers in 2026: uBlock Origin on Firefox, uBO Lite for Chromium, plus DNS-level filtering with Pi-hole or AdGuard Home. Step-by-step guide.",
-      "content_hash_en": "291bba7c6bd1ea9dc299956f5ef71b3a8ec0edd6a07316a540578099720d5d58",
+      "content_hash_en": "1ecad774e280e642e56864cae7eb39300a44698c57f02c3cc0be71029e5f7e63",
       "backlinks": [
         "detect-block-bot-traffic-selfhosted-guide-2026",
-        "llm-api-security-inspect-traffic-guide-2026",
-        "dificuldades-acessar-google-analytics-2026"
+        "self-hosted-mesh-vpn-wireguard-headscale-guide-2026",
+        "containers-vs-vms-complete-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-24T13:40:00.043Z"
+      "last_processed": "2026-09-24T14:14:22.248Z"
     },
     "duckdb-self-hosted-analytics-guide-2026": {
       "slug": "duckdb-self-hosted-analytics-guide-2026",
@@ -2334,14 +2334,14 @@
         "article"
       ],
       "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and LXC on Proxmox. Make a backup before, avoid post-update bugs and automate with Watchtower.",
-      "content_hash_en": "2dee35217364197a0b80acead3dc950638a410291c13d559ee3da0b79ce55a91",
+      "content_hash_en": "2071b7628abb770b0886c93feb1e00acdf9b35276b563c16bdd3912d12407315",
       "backlinks": [
         "fix-custom-models-open-webui",
-        "configuracao-whatsapp-hermes",
-        "containers-vs-vms-complete-guide-2026"
+        "migracao-proxmox-8-9-2026",
+        "configuracao-whatsapp-hermes"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-24T13:40:21.796Z"
+      "last_processed": "2026-09-24T14:14:39.537Z"
     },
     "stock-price-duration-survivorship-ai-capex-2026": {
       "slug": "stock-price-duration-survivorship-ai-capex-2026",
@@ -2358,14 +2358,14 @@
         "opinion"
       ],
       "description_en": "A stock price is the present value of decades of future cash flows — but most companies never survive that long. What that old finance math says about the AI investment boom and the growing skepticism around it.",
-      "content_hash_en": "679405296024ee4191df3a0c2578c8757f0db9c0b62309c73aae9121947d1a6a",
+      "content_hash_en": "05f364b48eb202479558f3102548d7b9b58aeb0efbdcfafbe02af237da66bbf0",
       "backlinks": [
         "colapso-fundo-situational-awareness-alavancagem-2026",
-        "modelos-ia-abertos-vs-fronteira-dados-2026",
-        "patentes-inteligencia-artificial-brasil-guia-2026"
+        "grok-bot-agentes-ciclo-ferramentas-produtividade",
+        "modelos-ia-abertos-vs-fronteira-dados-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-09-24T13:40:47.255Z"
+      "last_processed": "2026-09-24T14:14:57.236Z"
     },
     "github-alternatives-self-hosted-comparison-2026": {
       "slug": "github-alternatives-self-hosted-comparison-2026",
@@ -2836,8 +2836,8 @@
       "categories": [
         "article"
       ],
-      "description_en": "How many generative AI patents are there in the world? Data from the WIPO Technology SPARK report: growth from 14,000 to 37,800 families in 2 years, China in the lead and the top 10 filing companies.",
-      "content_hash_en": "6dada8c127688a232002d15daf60478b2674aa86e572870ed193069290c8066b",
+      "description_en": "How many generative AI patents are there in the world? Data from the WIPO Technology SPARK report: growth from 14k to 37.8k families in 2 years, China leading and the top 10 depositing companies.",
+      "content_hash_en": "67cef2fffd2ed5acc82d39dae95ee2e409c6285389c75b65d8a4877efe13598e",
       "backlinks": [
         "patentes-inteligencia-artificial-brasil-guia-2026",
         "mapa-global-patentes-pct-2025-brasil",
