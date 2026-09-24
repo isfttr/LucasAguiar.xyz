@@ -14,8 +14,8 @@ tags:
   - wipo
   - guia
   - propriedade-intelectual
+scheduledAt: 2026-10-05T16:50:00.000Z
 ---
-
 Em 2025, os pedidos internacionais de patente pelo Tratado de Cooperação em Matéria de Patentes (PCT) cresceram 0,7% e atingiram 275.900 solicitações em todo o mundo. Tecnologias de comunicação digital (+6,1%) e semicondutores (+6,1%) lideraram as taxas de crescimento entre as dez principais áreas tecnológicas, segundo dados divulgados pela WIPO em março de 2026.
 
 Para inventores e empresas que depositam um pedido PCT e querem proteger sua invenção no Brasil, a etapa seguinte é a **entrada na fase nacional** — o processo de converter o pedido internacional em um pedido de patente brasileiro perante o INPI. Este guia cobre tudo que você precisa saber: prazos, documentos, taxas, procedimentos e armadilhas comuns.
@@ -78,7 +78,7 @@ Desde 2025, o INPI disponibiliza o módulo e-PCT integrado ao sistema e-Patentes
 ### 4. Preencher o formulário de entrada
 
 No sistema, selecione a opção "Entrada na Fase Nacional de Pedido PCT". Informe:
-- Número do pedido internacional (PCT/XX2025/XXXXXX)
+- Número do pedido internacional 
 - Data de depósito internacional
 - Nome do depositante e inventores
 - Prioridades reivindicadas (se houver)
