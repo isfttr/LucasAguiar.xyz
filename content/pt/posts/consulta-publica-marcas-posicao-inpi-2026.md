@@ -88,7 +88,7 @@ Se você ainda não conhece os custos envolvidos no registro de marcas no Brasil
 Leia também:
 
 - [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
-- [Marca Coletiva e Marca de Certificação no INPI: Guia Completo]({{< relref "posts/marca-coletiva-marca-certificacao-inpi-guia-completo/" >}})
+- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 - [Classificação de Nice: como escolher a classe certa para registrar sua marca no INPI [2026]]({{< relref "posts/classificacao-nice-marcas-inpi-guia-completo/" >}})
 
 ---

@@ -65,6 +65,6 @@ You can get in touch to discuss this and other topics at <contact@lucasaguiar.xy
 
 Read also:
 
+- [PL 5810/2025: The Ministry of Health Study That Projects R$ 3 Billion in Additional Costs to SUS]({{< relref "posts/pl-5810-2025-estudo-ministerio-saude-patentes-sus/" >}})
 - [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
 - [ADI 5.529: the STF's decision that shortened drug patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
-- [PL 5810/2025: The Ministry of Health Study That Projects R$ 3 Billion in Additional Costs to SUS]({{< relref "posts/pl-5810-2025-estudo-ministerio-saude-patentes-sus/" >}})

@@ -81,9 +81,9 @@ Bloquear anúncios em 2026 é uma stack em camadas, não uma extensão única: F
 
 Leia também:
 
-- [VPN Mesh Auto-Hospedada em 2026: Guia Completo de WireGuard e Headscale]({{< relref "posts/self-hosted-mesh-vpn-wireguard-headscale-guide-2026/" >}})
+- [Dificuldades para Acessar o Google Analytics 2026 — VPN, Cookies, Firewall e Mais]({{< relref "posts/dificuldades-acessar-google-analytics-2026/" >}})
 - [Como Detectar e Bloquear Tráfego de Bots no Seu Site Auto-Hospedado [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
-- [Como instalar o Proxmox VE no Mac Mini 2018 (chip T2): o passo a passo que funcionou]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
+- [Contêineres Docker vs Máquinas Virtuais: Guia Completo de Comparação [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
 ---
 

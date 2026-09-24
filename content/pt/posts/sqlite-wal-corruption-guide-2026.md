@@ -86,8 +86,8 @@ O bug WAL-reset é um lembrete de que até o software mais testado em batalha te
 Leia também:
 
 - [Como verificar se seus backups do PostgreSQL realmente podem ser restaurados [2026]]({{< relref "posts/verify-postgresql-backups-restore-guide-2026/" >}})
-- [Proxmox Backup Server: instalação via community-scripts e configuração de backups [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
 - [Melhores Práticas de Desempenho do PostgreSQL para Homelab e Auto-hospedado [2026]]({{< relref "posts/postgresql-performance-best-practices-homelab-2026/" >}})
+- [Proxmox Backup Server: instalação via community-scripts e configuração de backups [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
 
 ---
 

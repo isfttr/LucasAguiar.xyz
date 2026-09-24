@@ -202,8 +202,8 @@ The June 2026 Manual update shows INPI is fine-tuning procedures to keep pace wi
 Read also:
 
 - [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
-- [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 - [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---
 

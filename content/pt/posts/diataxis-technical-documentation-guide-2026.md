@@ -100,8 +100,8 @@ Se você mantém um site Hugo, a estrutura mapeia naturalmente para a organizaç
 Leia também:
 
 - [Estrutura de Ficheiros de Conteúdo Hugo]({{< relref "posts/hugo-content-file-structure/" >}})
-- [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
-- [Histórico do Git em 2026: Guia Completo para os Comandos fixup, reword e split]({{< relref "posts/mastering-git-log-history-guide-2026/" >}})
+- [Obsidian Copilot + Ollama + OpenRouter: Setup Completo e Gratuito [2026]]({{< relref "posts/10-obsidian-copilot/" >}})
+- [Guia Completo: Como Integrar o Beehiiv ao Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
 
 ---
 

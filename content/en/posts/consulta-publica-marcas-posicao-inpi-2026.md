@@ -89,7 +89,7 @@ If you are not yet familiar with the costs involved in trademark registration in
 Read also:
 
 - [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
-- [Collective Trademark and Certification Mark at INPI: Complete Guide]({{< relref "posts/marca-coletiva-marca-certificacao-inpi-guia-completo/" >}})
+- [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 - [Nice Classification: how to choose the right class to register your trademark with INPI [2026]]({{< relref "posts/classificacao-nice-marcas-inpi-guia-completo/" >}})
 
 ---

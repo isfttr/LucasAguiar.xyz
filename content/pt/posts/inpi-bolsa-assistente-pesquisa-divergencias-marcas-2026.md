@@ -57,7 +57,7 @@ Leia também:
 
 - [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [INPI abre consulta pública sobre marcas de posição [2026]: novas regras e como participar]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
-- [INPI lança edital para selecionar casos de sucesso em Propriedade Intelectual [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
+- [INPI esgota cotas de trâmite prioritário para marcas no comércio eletrônico — e agora?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
 
 ---
 

@@ -203,8 +203,8 @@ A atualização do Manual de junho de 2026 mostra que o INPI está ajustando pro
 Leia também:
 
 - [Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
-- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 - [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [LPI aos 30 anos: INPI divulga relatório com propostas de aperfeiçoamento da Lei da Propriedade Industrial]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---
 

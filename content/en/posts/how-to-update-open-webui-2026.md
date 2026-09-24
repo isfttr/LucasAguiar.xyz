@@ -112,7 +112,7 @@ Read also:
 
 - [Open WebUI Models Not Showing? Step-by-Step Fix [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 - [Enabling WhatsApp on Hermes Agent self-hosted: three pitfalls (and how I overcame them)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
-- [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
+- [How to Run LLMs on Old Server Hardware: A Practical Homelab Guide [2026]]({{< relref "posts/run-llms-old-server-homelab-guide-2026/" >}})
 
 ---
 

@@ -243,7 +243,7 @@ The most important tip: **do not try to patent the abstract algorithm.** Patent 
 Read also:
 
 - [Software Patent vs Computer Program Registration in Brazil: What's the Difference? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
-- [INPI's Ambitious Automation Roadmap]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
+- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
 - [WIPO launches Artificial Intelligence Infrastructure Interchange: the new global forum for AI and Intellectual Property]({{< relref "posts/wipo-lanca-artificial-intelligence-infrastructure-interchange/" >}})
 
 ---
