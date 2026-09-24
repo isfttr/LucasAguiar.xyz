@@ -13,8 +13,8 @@ tags:
   - wipo
   - guia
   - classificacao
+scheduledAt: 2026-09-29T16:33:00.000Z
 ---
-
 A Classificação Internacional de Patentes (IPC, do inglês *International Patent Classification*) é o sistema global de categorização de documentos de patente. Estabelecido pelo Acordo de Estrasburgo de 1971 e administrado pela Organização Mundial da Propriedade Intelectual (OMPI/WIPO), o IPC permite que examinadores, inventores e profissionais de PI identifiquem documentos técnicos relevantes em mais de 100 países.
 
 No Brasil, o INPI utiliza o IPC como sistema primário de classificação de pedidos de patente. Quando o Instituto publicou em julho de 2026 a retomada do trâmite prioritário para o símbolo **H04** (Técnica de Comunicação Elétrica), estava se referindo exatamente a uma seção da IPC. Da mesma forma, os dados globais de patentes de inteligência artificial generativa divulgados pela WIPO em 2026 — que mostram que o número de famílias de patentes de GenAI saltou de 14 mil (2023) para 37,8 mil (2025) — usam a classificação IPC e CPC para definir o que é uma "patente de IA".
