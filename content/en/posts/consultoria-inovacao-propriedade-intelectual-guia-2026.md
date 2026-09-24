@@ -1,6 +1,6 @@
 ---
 date: 2026-08-31T16:35:30.000Z
-draft: true
+draft: false
 title: 'Innovation and Intellectual Property Consulting: Complete Guide [2026]'
 description: What does an innovation and intellectual property consultancy do, when to hire, how much it costs, and how to choose. Practical guide with service scope [2026].
 featured_image: ''
