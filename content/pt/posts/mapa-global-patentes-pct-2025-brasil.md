@@ -1,7 +1,7 @@
 ---
 date: 2026-06-25T10:00:00-03:00
 draft: false
-title: "O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?"
+title: "O Mapa Global da Inovação em 2025: Quem Está Patenteando o Quê?"
 description: "Análise dos dados de patentes internacionais do PCT 2025: China dispara, EUA recuam, semicondutores crescem — e onde o Brasil se encaixa nesse cenário?"
 featured_image: ""
 categories:
@@ -15,7 +15,6 @@ tags:
   - semicondutores
   - tecnologia
 ---
-
 Em março de 2026, a WIPO publicou os números consolidados do Patent Cooperation
 Treaty (PCT) para o ano de 2025 — e os dados contam uma história clara sobre para
 onde o mundo está direcionando seus esforços de inovação. Foram 275.900 pedidos
