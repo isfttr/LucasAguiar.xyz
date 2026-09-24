@@ -13,10 +13,8 @@ tags:
   - busca-de-anterioridade
   - propriedade-intelectual
   - classificacao-ipc
+scheduledAt: 2026-09-25T16:35:00.000Z
 ---
-
-Com mais de 37 mil novas famílias de patentes de inteligência artificial generativa publicadas em 2024 e 2025 — segundo dados mais recentes da WIPO — saber **buscar patentes** deixou de ser uma habilidade exclusiva de especialistas em PI. É uma competência estratégica para profissionais de inovação, pesquisadores, startups e indústrias de todos os setores.
-
 A base de patentes do INPI é o maior acervo público de informação tecnológica do Brasil. Estima-se que **70% da informação técnica contida em patentes não seja publicada em nenhum outro meio** — periódicos, livros ou anais de congressos. Saber navegar por essa base pode evitar que sua empresa reinvista recursos em algo já patentado, revelar tendências tecnológicas de concorrentes e localizar tecnologias em domínio público que podem ser livremente utilizadas.
 
 Este guia cobre **tudo o que você precisa saber para fazer buscas de patentes no INPI**: desde o acesso ao sistema até a interpretação dos resultados, passando pelos campos de pesquisa básica e avançada, classificação IPC e dicas práticas.
