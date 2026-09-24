@@ -1,8 +1,8 @@
 ---
 date: 2026-08-31T13:35:30-03:00
-draft: true
+draft: false
 title: "Consultoria em Inovação e Propriedade Intelectual: Guia Completo [2026]"
-description: "O que faz uma consultoria de inovação e propriedade intelectual, quando contratar, quanto custa e como escolher. Guia prático com escopo de serviços [2026]."
+description: O que faz uma consultoria de inovação e propriedade intelectual, quando contratar, quanto custa e como escolher. Guia prático com escopo de serviços [2026].
 url: ""
 featured_image: ""
 categories:
@@ -14,7 +14,6 @@ tags:
   - marcas
   - patentes
 ---
-
 Consultoria em inovação e propriedade intelectual transforma ativos intangíveis — marcas, patentes, desenhos industriais, softwares e know-how — em vantagem competitiva mensurável. Ela também evita o cenário inverso: perder um direito por prazo perdido, pedido mal redigido ou falta de estratégia de portfólio. Este guia explica o que esse tipo de consultoria entrega, quando contratar, quanto custa e como escolher o profissional certo.
 
 ## O que é consultoria em inovação e propriedade intelectual
@@ -65,12 +64,12 @@ O custo de contratar depois que o problema aconteceu (oposição, nulidade, aç�
 
 Não existe tabela única — o preço depende do serviço e da complexidade:
 
-- **Busca de anterioridade**: de R$ 500 a R$ 3.000 por busca, dependendo da profundidade e do escopo (nacional ou internacional).
-- **Diagnóstico de portfólio**: de R$ 3.000 a R$ 15.000, conforme o número de ativos.
+- **Busca de anterioridade**: de R$ 1.200 a R$ 3.000 por busca.
+- **Diagnóstico de portfólio**: conforme o número de ativos.
 - **Registro de marca**: honorários a partir de ~R$ 1.000 a R$ 2.500 por classe (as taxas do INPI são pagas à parte e variam por porte de empresa).
 - **Redação e depósito de patente**: de R$ 5.000 a R$ 20.000, dependendo da complexidade técnica.
-- **Due diligence de PI**: normalmente cobrada por projeto, de R$ 8.000 a R$ 40.000.
-- **Consultoria recorrente (retainer)**: de R$ 2.000 a R$ 10.000/mês para gestão contínua de portfólio.
+- **Due diligence de PI**: normalmente cobrada por projeto.
+- **Consultoria recorrente (retainer)**: a partir de R$ 1.000/mês para gestão contínua de portfólio.
 
 ## Como escolher um consultor
 
