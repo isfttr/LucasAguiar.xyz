@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T17:18:49.730Z",
+  "last_updated": "2026-09-24T18:31:37.192Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2837,6 +2837,26 @@
         "patente-software-vs-registro-programa-computador-brasil"
       ],
       "backlink_source": "file",
+      "last_processed": null
+    },
+    "consultoria-inovacao-propriedade-intelectual-guia-2026": {
+      "slug": "consultoria-inovacao-propriedade-intelectual-guia-2026",
+      "title_en": "Innovation and Intellectual Property Consulting: Complete Guide [2026]",
+      "title_pt": "Consultoria em Inovação e Propriedade Intelectual: Guia Completo [2026]",
+      "tags": [
+        "propriedade-intelectual",
+        "inovacao",
+        "consultoria",
+        "marcas",
+        "patentes"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "What does an innovation and intellectual property consultancy do, when to hire, how much it costs, and how to choose. Practical guide with service scope [2026].",
+      "content_hash_en": "eb51e14ce4f1996d47f1f7424f83e2fb2f0157b45c1ab86cd1ba6357d0d9a4e0",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": null
     }
   }
