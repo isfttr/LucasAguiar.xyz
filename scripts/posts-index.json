@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T14:14:57.236Z",
+  "last_updated": "2026-09-24T17:18:49.730Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1334,13 +1334,12 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "38058270d806d6137ad76220f0db68909a92688ba87b9e4b20aabdbc814491f0",
+      "content_hash_en": "d87b437ddb2ba28b86384c94314d20f38e6fe8a20cf0edb1be1343f3d5c572e5",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "consulta-publica-marcas-posicao-inpi-2026",
-        "busca-anterioridade-marcas-inpi-guia-completo"
+        "inpi-credenciamento-busca-anterioridade-patentes"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "pending",
       "last_processed": "2026-09-24T14:11:35.258Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
@@ -1413,13 +1412,12 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "e772011092170830c7dc8d4b10d7515210f6e222b397af3afa9e44539e240fa7",
+      "content_hash_en": "f8bc785f2ad39b571ecff775385d0e0ac27825c74483d074e7051cf2f404956b",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
+        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "pending",
       "last_processed": "2026-09-24T14:11:57.952Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
@@ -1948,13 +1946,12 @@
         "article"
       ],
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
-      "content_hash_en": "3f39c64ee82407940219e50d845f952a4d9294ea8aff8a05b153afd8db29cf9e",
+      "content_hash_en": "08714f534e53e0fdcb2206a6730228ae21559fae3028c65020b34ac8b0020a2d",
       "backlinks": [
-        "hugo-content-file-structure",
-        "ai-coding-agents-architectural-guide-2026",
-        "containers-vs-vms-complete-guide-2026"
+        "vibe-coding-pitfalls",
+        "hugo-content-file-structure"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "pending",
       "last_processed": "2026-09-24T14:13:28.431Z"
     },
     "run-70b-llm-low-vram-gpu-guide-2026": {
@@ -2164,13 +2161,12 @@
         "article"
       ],
       "description_en": "Complete guide to SQLite WAL corruption in 2026: detect it with PRAGMA integrity_check, recover corrupted databases, and prevent the WAL-reset bug. Real case study included.",
-      "content_hash_en": "7601cab1fd66885d9cc03745b870c7d683e94dc0d75641786beacc7383b8edb6",
+      "content_hash_en": "23b896ed034a0995e64cc77657cb1fbe7f943d14c15584071acfc904d7920f85",
       "backlinks": [
-        "verify-postgresql-backups-restore-guide-2026",
         "postgresql-performance-best-practices-homelab-2026",
-        "proxmox-backup-server-community-scripts-2026"
+        "detect-block-bot-traffic-selfhosted-guide-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "pending",
       "last_processed": "2026-09-24T14:13:44.903Z"
     },
     "busca-anterioridade-marcas-inpi-guia-completo": {
@@ -2286,13 +2282,12 @@
         "article"
       ],
       "description_en": "Block ads and trackers in 2026: uBlock Origin on Firefox, uBO Lite for Chromium, plus DNS-level filtering with Pi-hole or AdGuard Home. Step-by-step guide.",
-      "content_hash_en": "1ecad774e280e642e56864cae7eb39300a44698c57f02c3cc0be71029e5f7e63",
+      "content_hash_en": "f1d6d773a6744deac73efb69205e3e57323871942ba69389044735f479928908",
       "backlinks": [
-        "detect-block-bot-traffic-selfhosted-guide-2026",
-        "self-hosted-mesh-vpn-wireguard-headscale-guide-2026",
-        "containers-vs-vms-complete-guide-2026"
+        "containers-vs-vms-complete-guide-2026",
+        "detect-block-bot-traffic-selfhosted-guide-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "pending",
       "last_processed": "2026-09-24T14:14:22.248Z"
     },
     "duckdb-self-hosted-analytics-guide-2026": {
@@ -2334,13 +2329,12 @@
         "article"
       ],
       "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and LXC on Proxmox. Make a backup before, avoid post-update bugs and automate with Watchtower.",
-      "content_hash_en": "2071b7628abb770b0886c93feb1e00acdf9b35276b563c16bdd3912d12407315",
+      "content_hash_en": "a93b58c82fac5c2a989d127d57e77b4ffe740d0d09d85ca93bcf8958540f0ac6",
       "backlinks": [
         "fix-custom-models-open-webui",
-        "migracao-proxmox-8-9-2026",
-        "configuracao-whatsapp-hermes"
+        "containers-vs-vms-complete-guide-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "pending",
       "last_processed": "2026-09-24T14:14:39.537Z"
     },
     "stock-price-duration-survivorship-ai-capex-2026": {
@@ -2358,13 +2352,12 @@
         "opinion"
       ],
       "description_en": "A stock price is the present value of decades of future cash flows — but most companies never survive that long. What that old finance math says about the AI investment boom and the growing skepticism around it.",
-      "content_hash_en": "05f364b48eb202479558f3102548d7b9b58aeb0efbdcfafbe02af237da66bbf0",
+      "content_hash_en": "d11e3f7ce5a180c75bf35704ae8f6929a5fde2ba4f9bb6e4e1d98ae80f60876c",
       "backlinks": [
-        "colapso-fundo-situational-awareness-alavancagem-2026",
-        "grok-bot-agentes-ciclo-ferramentas-produtividade",
-        "modelos-ia-abertos-vs-fronteira-dados-2026"
+        "ia-desenvolvimento-software-complexidade-codigo",
+        "ai-beats-procrastination"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "pending",
       "last_processed": "2026-09-24T14:14:57.236Z"
     },
     "github-alternatives-self-hosted-comparison-2026": {
@@ -2837,7 +2830,7 @@
         "article"
       ],
       "description_en": "How many generative AI patents are there in the world? Data from the WIPO Technology SPARK report: growth from 14k to 37.8k families in 2 years, China leading and the top 10 depositing companies.",
-      "content_hash_en": "67cef2fffd2ed5acc82d39dae95ee2e409c6285389c75b65d8a4877efe13598e",
+      "content_hash_en": "7bca0a0db9698da255e68664d8c80ca1546bdaa547ae0507512950c3431d1a4f",
       "backlinks": [
         "patentes-inteligencia-artificial-brasil-guia-2026",
         "mapa-global-patentes-pct-2025-brasil",
