@@ -80,9 +80,9 @@ Blocking ads in 2026 is a layered stack, not a single extension: Firefox + uBloc
 
 Read also:
 
-- [How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
 - [Self-Hosted Mesh VPN in 2026: WireGuard and Headscale Complete Guide]({{< relref "posts/self-hosted-mesh-vpn-wireguard-headscale-guide-2026/" >}})
-- [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
+- [How to Detect and Block Bot Traffic on Your Self-Hosted Website [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
+- [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
 
 ---
 
