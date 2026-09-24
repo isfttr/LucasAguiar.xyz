@@ -100,8 +100,8 @@ Se você mantém um site Hugo, a estrutura mapeia naturalmente para a organizaç
 Leia também:
 
 - [Estrutura de Ficheiros de Conteúdo Hugo]({{< relref "posts/hugo-content-file-structure/" >}})
-- [Obsidian Copilot + Ollama + OpenRouter: Setup Completo e Gratuito [2026]]({{< relref "posts/10-obsidian-copilot/" >}})
-- [Guia Completo: Como Integrar o Beehiiv ao Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+- [KVM e Virsh no Linux: Guia Completo para Máquinas Virtuais [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
+- [Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
 
 ---
 

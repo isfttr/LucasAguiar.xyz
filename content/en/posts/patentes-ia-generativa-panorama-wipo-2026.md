@@ -86,6 +86,12 @@ See also:
 - [Artificial Intelligence Patents in Brazil: Complete Guide on Protecting AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
 - [The Global Innovation Map in 2025: Who is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
 
+Read also:
+
+- [Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
+- [The Global Innovation Map in 2025: Who Is Patenting What?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [Software Patent vs Computer Program Registration in Brazil: What's the Difference? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
+
 ---
 
 You can get in touch to discuss this and other topics at <contact@lucasaguiar.xyz>

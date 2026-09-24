@@ -83,7 +83,8 @@ Os dados completos estão no relatório **WIPO Technology SPARK — GenAI Patent
 Leia também:
 
 - [Patentes de Inteligência Artificial no Brasil: Guia Completo sobre Proteção de Invenções de IA [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
-- [O Mapa Global da Inovação em 2025: Quem Está Patentendo o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [O Mapa Global da Inovação em 2025: Quem Está Patenteando o Quê?]({{< relref "posts/mapa-global-patentes-pct-2025-brasil/" >}})
+- [Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
 
 ---
 

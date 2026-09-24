@@ -99,8 +99,8 @@ If you run a Hugo site, the structure maps naturally onto content organization â
 Read also:
 
 - [Hugo Content File Structure]({{< relref "posts/hugo-content-file-structure/" >}})
-- [Obsidian + Copilot]({{< relref "posts/10-obsidian-copilot/" >}})
-- [Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers]({{< relref "posts/newsletter-beehiiv-cloudflare-github/" >}})
+- [KVM and Virsh on Linux: Complete Guide to Virtual Machines [2026]]({{< relref "posts/kvm-virsh-linux-virtualization-guide-2026/" >}})
+- [How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
 
 ---
 
