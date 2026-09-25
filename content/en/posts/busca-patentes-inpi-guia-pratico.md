@@ -1,6 +1,6 @@
 ---
 date: 2026-07-20T14:00:00.000Z
-draft: true
+draft: false
 title: 'Patent Search at INPI: Practical Step-by-Step Guide [2026]'
 description: 'Complete guide to conducting patent searches in the INPI database: system access, basic and advanced search, IPC classification, interpreting results, and tips for finding prior art.'
 featured_image: ''
