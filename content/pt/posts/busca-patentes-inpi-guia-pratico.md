@@ -1,6 +1,6 @@
 ---
 date: 2026-07-20T11:00:00-03:00
-draft: true
+draft: false
 title: "Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]"
 description: "Guia completo para fazer busca de patentes na base do INPI: acesso ao sistema, pesquisa básica e avançada, classificação IPC, interpretação de resultados e dicas para encontrar o estado da técnica."
 featured_image: ""
@@ -13,7 +13,6 @@ tags:
   - busca-de-anterioridade
   - propriedade-intelectual
   - classificacao-ipc
-scheduledAt: 2026-09-25T16:35:00.000Z
 ---
 A base de patentes do INPI é o maior acervo público de informação tecnológica do Brasil. Estima-se que **70% da informação técnica contida em patentes não seja publicada em nenhum outro meio** — periódicos, livros ou anais de congressos. Saber navegar por essa base pode evitar que sua empresa reinvista recursos em algo já patentado, revelar tendências tecnológicas de concorrentes e localizar tecnologias em domínio público que podem ser livremente utilizadas.
 
