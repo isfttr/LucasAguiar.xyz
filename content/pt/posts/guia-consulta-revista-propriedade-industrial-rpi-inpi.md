@@ -1,6 +1,6 @@
 ---
 date: 2026-09-17T11:05:11-03:00
-draft: true
+draft: false
 title: "Como consultar a Revista da Propriedade Industrial (RPI) do INPI: guia completo"
 description: "Guia completo para consultar a Revista da Propriedade Industrial (RPI) do INPI: o que é, seções, cadência semanal, formatos PDF/TXT/XML e como acompanhar seu processo sem perder prazos."
 featured_image: ""
@@ -13,7 +13,6 @@ tags:
   - patentes
   - marcas
   - guia
-scheduledAt: 2026-09-28T13:37:00.000Z
 ---
 No Brasil, quase todo ato oficial do Instituto Nacional da Propriedade Industrial (INPI) é divulgado em um único meio: a **Revista da Propriedade Industrial (RPI)**. Se você depositou uma patente, pediu o registro de uma marca, tramitou um desenho industrial ou uma indicação geográfica, em algum momento vai precisar se localizar na RPI para acompanhar publicações, subsídios, oposições e concessões. Este guia mostra como a Revista é organizada, quando é publicada e como verificar o andamento do seu processo.
 
