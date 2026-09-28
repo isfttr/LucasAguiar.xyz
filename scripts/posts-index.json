@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T17:03:23.200Z",
+  "last_updated": "2026-09-28T14:04:50.127Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2857,6 +2857,56 @@
       "content_hash_en": "eb51e14ce4f1996d47f1f7424f83e2fb2f0157b45c1ab86cd1ba6357d0d9a4e0",
       "backlinks": [],
       "backlink_source": "pending",
+      "last_processed": null
+    },
+    "busca-patentes-inpi-guia-pratico": {
+      "slug": "busca-patentes-inpi-guia-pratico",
+      "title_en": "Patent Search at INPI: Practical Step-by-Step Guide [2026]",
+      "title_pt": "Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]",
+      "tags": [
+        "patentes",
+        "inpi",
+        "guia",
+        "busca-de-anterioridade",
+        "propriedade-intelectual",
+        "classificacao-ipc"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to conducting patent searches in the INPI database: system access, basic and advanced search, IPC classification, interpreting results, and tips for finding prior art.",
+      "content_hash_en": "3bbc8e894b99f39b5f942551d6f51961b39f1ecfc698b194dbf4c06dfe99bcd5",
+      "backlinks": [
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
+        "inpi-credenciamento-busca-anterioridade-patentes"
+      ],
+      "backlink_source": "pending",
+      "last_processed": null
+    },
+    "guia-consulta-revista-propriedade-industrial-rpi-inpi": {
+      "slug": "guia-consulta-revista-propriedade-industrial-rpi-inpi",
+      "title_en": "Como consultar a Revista da Propriedade Industrial (RPI) do INPI: guia completo",
+      "title_pt": "Como consultar a Revista da Propriedade Industrial (RPI) do INPI: guia completo",
+      "tags": [
+        "inpi",
+        "rpi",
+        "propriedade-industrial",
+        "patentes",
+        "marcas",
+        "guia"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia completo para consultar a Revista da Propriedade Industrial (RPI) do INPI: o que é, seções, cadência semanal, formatos PDF/TXT/XML e como acompanhar seu processo sem perder prazos.",
+      "content_hash_en": null,
+      "content_hash_pt": "6a7a4dfe2361f6150e4010d6e49f288471ecebd96cb71038b22454575b5017ba",
+      "backlinks": [
+        "como-consultar-andamento-processo-inpi",
+        "guia-deposito-patente-inpi-2026",
+        "guia-anuidades-patentes-inpi-prazos-valores-2026"
+      ],
+      "backlink_source": "file",
       "last_processed": null
     }
   }

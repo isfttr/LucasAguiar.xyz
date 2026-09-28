@@ -92,9 +92,9 @@ A RPI é a fonte de verdade do INPI. Dominar a sua consulta é uma das competên
 
 Leia também:
 
-- [INPI 4.0: O Plano de Automação do INPI (2025-2029) e o futuro das patentes no Brasil]({{< relref "posts/inpi-automation-roadmap-2025-2029/" >}})
-- [Como depositar uma patente no INPI: guia passo a passo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
-- [Indicação Geográfica no INPI: Guia Completo [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
+- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
+- [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [Guia Completo de Anuidades de Patentes no INPI: Prazos, Valores e Como Pagar [2026]]({{< relref "posts/guia-anuidades-patentes-inpi-prazos-valores-2026/" >}})
 
 ---
 
