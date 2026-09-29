@@ -1,6 +1,6 @@
 ---
 date: 2026-07-16T14:00:00.000Z
-draft: true
+draft: false
 title: 'International Patent Classification (IPC): Practical Guide to Understanding and Using Patent Codes in Brazil [2026]'
 description: 'Complete guide to the International Patent Classification (IPC): structure of sections A to H, subclasses and groups, difference between IPC and CPC, how to consult patent classifications at INPI and practical examples.'
 featured_image: ''
