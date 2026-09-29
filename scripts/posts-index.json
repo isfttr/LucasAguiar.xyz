@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T17:01:00.508Z",
+  "last_updated": "2026-09-29T18:29:48.876Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -2877,10 +2877,11 @@
       "description_en": "Complete guide to conducting patent searches in the INPI database: system access, basic and advanced search, IPC classification, interpreting results, and tips for finding prior art.",
       "content_hash_en": "3bbc8e894b99f39b5f942551d6f51961b39f1ecfc698b194dbf4c06dfe99bcd5",
       "backlinks": [
+        "classificacao-internacional-patentes-ipc-guia-brasil",
         "inpi-modulo-servicos-patentes-novas-funcionalidades-2026",
         "inpi-credenciamento-busca-anterioridade-patentes"
       ],
-      "backlink_source": "pending",
+      "backlink_source": "file",
       "last_processed": null
     },
     "guia-consulta-revista-propriedade-industrial-rpi-inpi": {
@@ -2907,6 +2908,30 @@
         "guia-anuidades-patentes-inpi-prazos-valores-2026"
       ],
       "backlink_source": "file",
+      "last_processed": null
+    },
+    "classificacao-internacional-patentes-ipc-guia-brasil": {
+      "slug": "classificacao-internacional-patentes-ipc-guia-brasil",
+      "title_en": "International Patent Classification (IPC): Practical Guide to Understanding and Using Patent Codes in Brazil [2026]",
+      "title_pt": "Classificação Internacional de Patentes (IPC): Guia Prático para Entender e Usar Códigos de Patentes no Brasil [2026]",
+      "tags": [
+        "patentes",
+        "inpi",
+        "propriedade-intelectual",
+        "wipo",
+        "guia",
+        "classificacao"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to the International Patent Classification (IPC): structure of sections A to H, subclasses and groups, difference between IPC and CPC, how to consult patent classifications at INPI and practical examples.",
+      "content_hash_en": "02cfe3094a4dbadd707fb1b578e0bbca0bb6fead816ecba6795104d53b80325f",
+      "backlinks": [
+        "patentes-inteligencia-artificial-brasil-guia-2026",
+        "inpi-credenciamento-busca-anterioridade-patentes"
+      ],
+      "backlink_source": "pending",
       "last_processed": null
     }
   }
