@@ -1,6 +1,6 @@
 ---
 date: 2026-07-16T11:00:00-03:00
-draft: true
+draft: false
 title: "Classificação Internacional de Patentes (IPC): Guia Prático para Entender e Usar Códigos de Patentes no Brasil [2026]"
 description: "Guia completo da Classificação Internacional de Patentes (IPC): estrutura das seções A a H, subclasses e grupos, diferença entre IPC e CPC, como consultar classificações de patentes no INPI e exemplos práticos."
 featured_image: ""
@@ -13,7 +13,6 @@ tags:
   - wipo
   - guia
   - classificacao
-scheduledAt: 2026-09-29T16:33:00.000Z
 ---
 A Classificação Internacional de Patentes (IPC, do inglês *International Patent Classification*) é o sistema global de categorização de documentos de patente. Estabelecido pelo Acordo de Estrasburgo de 1971 e administrado pela Organização Mundial da Propriedade Intelectual (OMPI/WIPO), o IPC permite que examinadores, inventores e profissionais de PI identifiquem documentos técnicos relevantes em mais de 100 países.
 
