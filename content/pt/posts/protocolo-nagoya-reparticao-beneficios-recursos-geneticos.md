@@ -78,7 +78,7 @@ Para um país que concentra a maior biodiversidade do mundo, a lei de biodiversi
 Leia também:
 
 - [Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [PTA Patentes 2026: STJ Negou Extensão, Mas o Debate Chegou ao Congresso]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [Governo Institui Programa Nacional de Inovação Radical em Saúde (PNIRS) [2026]]({{< relref "posts/pnirs-programa-nacional-inovacao-radical-saude-2026/" >}})
 - [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
 
 ---

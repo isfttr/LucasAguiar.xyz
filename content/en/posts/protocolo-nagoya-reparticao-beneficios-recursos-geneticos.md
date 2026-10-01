@@ -80,7 +80,7 @@ For a country that holds the world's greatest biodiversity, the biodiversity law
 Read also:
 
 - [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
-- [Patent Term Adjustment: Big Pharma lost in court, but the debate reached Congress]({{< relref "posts/propostas_pta_patentes_2026/" >}})
+- [Government Establishes National Program for Radical Health Innovation (PNIRS) [2026]]({{< relref "posts/pnirs-programa-nacional-inovacao-radical-saude-2026/" >}})
 - [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
 
 ---
