@@ -57,7 +57,7 @@ Leia também:
 
 - [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [INPI abre consulta pública sobre marcas de posição [2026]: novas regras e como participar]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
-- [Busca de Anterioridade de Marcas no INPI: Guia Completo Passo a Passo]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
+- [Como consultar a Revista da Propriedade Industrial (RPI) do INPI: guia completo]({{< relref "posts/guia-consulta-revista-propriedade-industrial-rpi-inpi/" >}})
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T18:29:48.876Z",
+  "last_updated": "2026-10-01T14:27:36.795Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1337,10 +1337,11 @@
       "content_hash_en": "d87b437ddb2ba28b86384c94314d20f38e6fe8a20cf0edb1be1343f3d5c572e5",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "inpi-credenciamento-busca-anterioridade-patentes"
+        "consulta-publica-marcas-posicao-inpi-2026",
+        "guia-consulta-revista-propriedade-industrial-rpi-inpi"
       ],
-      "backlink_source": "pending",
-      "last_processed": "2026-09-24T14:11:35.258Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-10-01T14:21:42.434Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1415,10 +1416,11 @@
       "content_hash_en": "f8bc785f2ad39b571ecff775385d0e0ac27825c74483d074e7051cf2f404956b",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce"
+        "lpi-30-anos-propostas-aperfeicoamento-inpi",
+        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": "2026-09-24T14:11:57.952Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-10-01T14:22:09.501Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1948,11 +1950,12 @@
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
       "content_hash_en": "08714f534e53e0fdcb2206a6730228ae21559fae3028c65020b34ac8b0020a2d",
       "backlinks": [
-        "vibe-coding-pitfalls",
-        "hugo-content-file-structure"
+        "hugo-content-file-structure",
+        "newsletter-beehiiv-cloudflare-github",
+        "stacked-pull-requests-guide-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": "2026-09-24T14:13:28.431Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-10-01T14:22:38.373Z"
     },
     "run-70b-llm-low-vram-gpu-guide-2026": {
       "slug": "run-70b-llm-low-vram-gpu-guide-2026",
@@ -2163,11 +2166,12 @@
       "description_en": "Complete guide to SQLite WAL corruption in 2026: detect it with PRAGMA integrity_check, recover corrupted databases, and prevent the WAL-reset bug. Real case study included.",
       "content_hash_en": "23b896ed034a0995e64cc77657cb1fbe7f943d14c15584071acfc904d7920f85",
       "backlinks": [
+        "verify-postgresql-backups-restore-guide-2026",
         "postgresql-performance-best-practices-homelab-2026",
-        "detect-block-bot-traffic-selfhosted-guide-2026"
+        "proxmox-backup-server-community-scripts-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": "2026-09-24T14:13:44.903Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-10-01T14:23:26.590Z"
     },
     "busca-anterioridade-marcas-inpi-guia-completo": {
       "slug": "busca-anterioridade-marcas-inpi-guia-completo",
@@ -2284,11 +2288,12 @@
       "description_en": "Block ads and trackers in 2026: uBlock Origin on Firefox, uBO Lite for Chromium, plus DNS-level filtering with Pi-hole or AdGuard Home. Step-by-step guide.",
       "content_hash_en": "f1d6d773a6744deac73efb69205e3e57323871942ba69389044735f479928908",
       "backlinks": [
-        "containers-vs-vms-complete-guide-2026",
-        "detect-block-bot-traffic-selfhosted-guide-2026"
+        "detect-block-bot-traffic-selfhosted-guide-2026",
+        "llm-api-security-inspect-traffic-guide-2026",
+        "self-hosted-mesh-vpn-wireguard-headscale-guide-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": "2026-09-24T14:14:22.248Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-10-01T14:24:03.804Z"
     },
     "duckdb-self-hosted-analytics-guide-2026": {
       "slug": "duckdb-self-hosted-analytics-guide-2026",
@@ -2332,10 +2337,11 @@
       "content_hash_en": "a93b58c82fac5c2a989d127d57e77b4ffe740d0d09d85ca93bcf8958540f0ac6",
       "backlinks": [
         "fix-custom-models-open-webui",
-        "containers-vs-vms-complete-guide-2026"
+        "migracao-proxmox-8-9-2026",
+        "proxmox-backup-server-community-scripts-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": "2026-09-24T14:14:39.537Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-10-01T14:25:13.344Z"
     },
     "stock-price-duration-survivorship-ai-capex-2026": {
       "slug": "stock-price-duration-survivorship-ai-capex-2026",
@@ -2354,11 +2360,12 @@
       "description_en": "A stock price is the present value of decades of future cash flows — but most companies never survive that long. What that old finance math says about the AI investment boom and the growing skepticism around it.",
       "content_hash_en": "d11e3f7ce5a180c75bf35704ae8f6929a5fde2ba4f9bb6e4e1d98ae80f60876c",
       "backlinks": [
-        "ia-desenvolvimento-software-complexidade-codigo",
-        "ai-beats-procrastination"
+        "colapso-fundo-situational-awareness-alavancagem-2026",
+        "modelos-ia-abertos-vs-fronteira-dados-2026",
+        "fable-5-vending-bench-alinhamento-ia"
       ],
-      "backlink_source": "pending",
-      "last_processed": "2026-09-24T14:14:57.236Z"
+      "backlink_source": "ai",
+      "last_processed": "2026-10-01T14:26:03.301Z"
     },
     "github-alternatives-self-hosted-comparison-2026": {
       "slug": "github-alternatives-self-hosted-comparison-2026",
@@ -2401,10 +2408,12 @@
       "description_en": "Understand the Nagoya Protocol, the sharing of benefits from the use of genetic resources and traditional knowledge, and how Law 13.123/2015 and SisGen work in Brazil.",
       "content_hash_en": "6206e70cac30bcca67b9b24c9d4e6d115a1d2d077850b73b475301cceb2de7af",
       "backlinks": [
-        "brasil-tratado-budapeste-patentes-biotecnologia"
+        "brasil-tratado-budapeste-patentes-biotecnologia",
+        "propostas_pta_patentes_2026",
+        "backlog-inpi-patentes-farmaceuticas"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-10-01T14:26:31.510Z"
     },
     "how-to-split-git-commit-guide-2026": {
       "slug": "how-to-split-git-commit-guide-2026",
@@ -2570,10 +2579,12 @@
       "description_en": "Grok Bot promises a team of AI agents that work 24/7 and talk to each other — but the cycle of hype, adoption by competitors, and being forgotten repeats itself.",
       "content_hash_en": "ac9253d1c359bb1dc8bda597256ebcfb7e5a8d5a9284411b099fd0a6023afac2",
       "backlinks": [
-        "modelos-ia-abertos-vs-fronteira-dados-2026"
+        "ai-coding-agents-architectural-guide-2026",
+        "claude-sonnet-5-2026",
+        "fable-5-vending-bench-alinhamento-ia"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-10-01T14:27:21.700Z"
     },
     "lightweight-linux-vps-monitoring-guide-2026": {
       "slug": "lightweight-linux-vps-monitoring-guide-2026",
@@ -2617,10 +2628,12 @@
       "description_en": "Step-by-step guide to testing PostgreSQL backups: validate pg_dump files, restore into scratch databases, automate restore drills with cron, and track RPO/RTO. Includes pgBackRest and restoredrill.",
       "content_hash_en": "5cabad785e3d526bec8d423c4b1e7cb741844a1410ac7163b4aa0e1bd854c9e7",
       "backlinks": [
-        "proxmox-backup-server-community-scripts-2026"
+        "postgresql-performance-best-practices-homelab-2026",
+        "proxmox-backup-server-community-scripts-2026",
+        "sqlite-wal-corruption-guide-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-10-01T14:27:36.795Z"
     },
     "radares-tecnologicos-inpi-guia-completo": {
       "slug": "radares-tecnologicos-inpi-guia-completo",

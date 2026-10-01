@@ -23,7 +23,9 @@ Nada disso significa que o Grok Bot seja ruim — agentes especializados com com
 
 Leia também:
 
-- [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
+- [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
+- [Claude Sonnet 5: Janela de Contexto Limitada o torna útil apenas como subagente]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [Claude Fable 5 mente, forma cartéis e racionaliza seu próprio comportamento antiético — o que o último teste de alinhamento revela [2026]]({{< relref "posts/fable-5-vending-bench-alinhamento-ia/" >}})
 
 ---
 
