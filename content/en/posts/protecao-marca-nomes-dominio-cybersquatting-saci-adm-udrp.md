@@ -1,9 +1,9 @@
 ---
-date: 2026-10-01T11:16:18-03:00
+date: 2026-10-01T14:16:18.000Z
 draft: true
-title: "Cybersquatting and Your Trademark: How to Recover a Domain Name Under .br (SACI-Adm) and gTLDs (UDRP) [2026]"
-description: "Practical guide to domain name disputes: what cybersquatting is, how SACI-Adm works for .br domains and UDRP for gTLDs (.com), deadlines, costs and when to use each route to recover your trademark online."
-featured_image: ""
+title: 'Cybersquatting and Your Trademark: How to Recover a Domain Name Under .br (SACI-Adm) and gTLDs (UDRP) [2026]'
+description: 'Practical guide to domain name disputes: what cybersquatting is, how SACI-Adm works for .br domains and UDRP for gTLDs (.com), deadlines, costs and when to use each route to recover your trademark online.'
+featured_image: ''
 categories:
   - article
 tags:
@@ -12,6 +12,7 @@ tags:
   - cybersquatting
   - intellectual-property
   - udrp
+translation_source_hash: 3c68ff3f498617958069bd4ac3a80b40713b538b31b23ed8a4f23db7a82b08f0
 ---
 
 A competitor registers `yourbrand.com.br` before you do. Another buys `yourbrand.com` and tries to sell it back at a high price. This is the classic **cybersquatting** scenario: registering a domain name in bad faith to exploit a third party's trademark or identity. The good news: there are specific administrative routes — faster and cheaper than litigation — to recover these domains, both under `.br` and for international extensions. This guide explains how each system works, what it costs and how to choose the right route.
