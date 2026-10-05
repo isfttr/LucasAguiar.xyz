@@ -1,9 +1,9 @@
 ---
 date: 2026-08-20T18:06:00.000Z
 draft: true
-title: 'Como Proteger contra Pacotes Maliciosos: Segurança da Cadeia de Suprimentos para npm, PyPI e Cargo [2026]'
-description: 'Guia completo para se defender contra pacotes maliciosos em npm, PyPI e crates.io: typosquatting, comprometimento de contas, payloads em tempo de build, ferramentas de auditoria e higiene de lockfile. Inclui o incidente arrayref de agosto de 2026.'
-featured_image: ''
+title: "Como Proteger contra Pacotes Maliciosos: Segurança da Cadeia de Suprimentos para npm, PyPI e Cargo [2026]"
+description: "Guia completo para se defender contra pacotes maliciosos em npm, PyPI e crates.io: typosquatting, comprometimento de contas, payloads em tempo de build, ferramentas de auditoria e higiene de lockfile. Inclui o incidente arrayref de agosto de 2026."
+featured_image: ""
 categories:
   - article
 tags:
@@ -15,6 +15,7 @@ tags:
   - devops
 slug: proteger-pacotes-maliciosos-seguranca-cadeia-suprimentos
 translation_source_hash: 15fc5c37b589275814c3930fdca50014c1478272b9ce669ea23a2c270280b95d
+scheduledAt: 2026-10-13T12:50:00.000Z
 ---
 Em 20 de agosto de 2026, uma versão comprometida do crate popular `arrayref` apareceu no crates.io. A versão 0.3.10 adicionou uma dependência de um crate com nome typosquat chamado `proc-macro1`, cujo script de build baixa e executa um binário remoto toda vez que um projeto compila. Nenhuma revisão de código do seu próprio código-fonte teria detectado: o payload era executado em tempo de build, antes mesmo de qualquer teste rodar.
 
