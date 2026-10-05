@@ -13,8 +13,8 @@ tags:
   - propriedade-intelectual
   - inpi
   - udrp
+scheduledAt: 2026-10-06T14:38:00.000Z
 ---
-
 Um concorrente registra `suamarca.com.br` antes de você. Outro compra `suamarca.com` e tenta vender de volta por um valor alto. Esse é o cenário clássico do **cybersquatting** (ciberespeculação): registrar um nome de domínio em má-fé para explorar a marca ou a identidade de terceiros. A boa notícia: existem vias administrativas específicas — e mais rápidas e baratas que o Judiciário — para recuperar esses domínios, tanto no .br quanto nas extensões internacionais. Este guia explica como cada sistema funciona, quanto custa e como escolher a via certa.
 
 ## O que é cybersquatting e por que ele afeta sua marca
