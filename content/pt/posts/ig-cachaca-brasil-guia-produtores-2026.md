@@ -12,7 +12,7 @@ tags:
   - agro
   - marcas
   - propriedade-intelectual
-scheduledAt: 2026-10-11T19:47:00.000Z
+scheduledAt: 2026-10-11T08:47:00.000Z
 ---
 A cachaça é um dos produtos brasileiros com a relação mais antiga entre reputação e território: o nome da região de produção sempre carregou significado comercial — de Paraty a Salinas, passando pelas cidades históricas de Minas e da Bahia. O que muitos produtores ainda não sabem é que essa relação pode ser transformada em um ativo de propriedade industrial registrado no INPI.
 
