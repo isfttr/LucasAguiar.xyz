@@ -12,8 +12,8 @@ tags:
   - agro
   - marcas
   - propriedade-intelectual
+scheduledAt: 2026-10-11T19:47:00.000Z
 ---
-
 A cachaça é um dos produtos brasileiros com a relação mais antiga entre reputação e território: o nome da região de produção sempre carregou significado comercial — de Paraty a Salinas, passando pelas cidades históricas de Minas e da Bahia. O que muitos produtores ainda não sabem é que essa relação pode ser transformada em um ativo de propriedade industrial registrado no INPI.
 
 Em julho de 2026, o INPI publicou na Revista da Propriedade Industrial (RPI) nº 2898 o registro da indicação geográfica (IG) **Circuito das Águas Paulista**, na espécie indicação de procedência (IP), para a cachaça de alambique produzida em nove municípios de São Paulo. Com esse reconhecimento, o Brasil passou a contar com 177 IGs — e a cachaça consolidou-se como uma das categorias com maior número de registros do país. Este guia explica, na prática, como a IG funciona para a cachaça, quais regiões já são protegidas e como produtores podem obter o próprio registro.
