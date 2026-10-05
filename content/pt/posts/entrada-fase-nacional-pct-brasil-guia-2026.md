@@ -1,6 +1,6 @@
 ---
 date: 2026-07-19T11:15:00-03:00
-draft: true
+draft: false
 title: "Entrada na Fase Nacional do PCT no Brasil: Guia Completo [2026]"
 description: "Guia completo sobre como entrar na fase nacional do PCT no Brasil: prazos, documentos, custos, GRU e procedimentos passo a passo no INPI para estrangeiros depositarem patentes no país."
 url: ""
@@ -14,7 +14,6 @@ tags:
   - wipo
   - guia
   - propriedade-intelectual
-scheduledAt: 2026-10-05T16:50:00.000Z
 ---
 Em 2025, os pedidos internacionais de patente pelo Tratado de Cooperação em Matéria de Patentes (PCT) cresceram 0,7% e atingiram 275.900 solicitações em todo o mundo. Tecnologias de comunicação digital (+6,1%) e semicondutores (+6,1%) lideraram as taxas de crescimento entre as dez principais áreas tecnológicas, segundo dados divulgados pela WIPO em março de 2026.
 
