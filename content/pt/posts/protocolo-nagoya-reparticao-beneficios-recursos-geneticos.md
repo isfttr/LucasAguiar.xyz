@@ -79,7 +79,7 @@ Leia também:
 
 - [Brasil adere ao Tratado de Budapeste: o que muda para patentes biotecnológicas]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
 - [Governo Institui Programa Nacional de Inovação Radical em Saúde (PNIRS) [2026]]({{< relref "posts/pnirs-programa-nacional-inovacao-radical-saude-2026/" >}})
-- [O backlog do INPI acabou — mas não para patentes de medicamentos]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [ADI 5.529: a decisão do STF que encurtou patentes de medicamentos no Brasil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
 
 ---
 

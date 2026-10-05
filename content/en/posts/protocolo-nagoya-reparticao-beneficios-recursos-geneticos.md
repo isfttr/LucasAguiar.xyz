@@ -81,7 +81,7 @@ Read also:
 
 - [Brazil adheres to the Budapest Treaty: what changes for biotechnological patents]({{< relref "posts/brasil-tratado-budapeste-patentes-biotecnologia/" >}})
 - [Government Establishes National Program for Radical Health Innovation (PNIRS) [2026]]({{< relref "posts/pnirs-programa-nacional-inovacao-radical-saude-2026/" >}})
-- [The INPI backlog is over — but not for drug patents]({{< relref "posts/backlog-inpi-patentes-farmaceuticas/" >}})
+- [ADI 5.529: the STF's decision that shortened drug patents in Brazil]({{< relref "posts/adi-5529-patentes-farmaceuticas/" >}})
 
 ---
 

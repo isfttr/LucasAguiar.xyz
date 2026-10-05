@@ -90,8 +90,8 @@ Vencer para a sociedade e vencer para os acionistas não são o mesmo evento, e 
 Leia também:
 
 - [O que Acontece Quando Você Alavanca uma Tese de 166 Anos? O Colapso do Fundo Situational Awareness [2026]]({{< relref "posts/colapso-fundo-situational-awareness-alavancagem-2026/" >}})
+- [Grok Bot: o ciclo das ferramentas de produtividade se repete na IA]({{< relref "posts/grok-bot-agentes-ciclo-ferramentas-produtividade/" >}})
 - [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
-- [O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software & Por Que a Portabilidade de Dados é Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})
 
 ---
 
