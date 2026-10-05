@@ -1,6 +1,6 @@
 ---
 date: 2026-07-19T14:15:00.000Z
-draft: true
+draft: false
 title: 'Entry into the PCT National Phase in Brazil: Complete Guide [2026]'
 description: 'Complete guide on how to enter the national phase of the PCT in Brazil: deadlines, documents, costs, GRU and step-by-step procedures at INPI for foreigners to file patents in the country.'
 url: ''
