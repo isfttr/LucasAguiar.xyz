@@ -11,8 +11,8 @@ tags:
   - inpi
   - propriedade-intelectual
   - distintividade-adquirida
+scheduledAt: 2026-10-14T11:52:00.000Z
 ---
-
 Registrar uma marca que descreve o próprio produto — ou que nasceu como termo comum do mercado — parece impossível à primeira vista, e de fato o INPI indefere sinais sem distintividade inerente. Mas existe um caminho reconhecido em lei, em portaria e no Manual de Marcas: a **distintividade adquirida** (ou *secondary meaning*). Quando o uso consolidado faz o público passar a enxergar o sinal como marca, o INPI pode conceder o registro.
 
 Este guia explica o que é o instituto, em quais momentos do processo o INPI aceita o pedido de análise, como comprovar a aquisição de distintividade na prática e o que mudou na agenda do Instituto em 2026 — incluindo a discussão sobre diretrizes formais para pesquisas de opinião.
