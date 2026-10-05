@@ -1,6 +1,6 @@
 ---
 date: 2026-08-14T11:17:14-03:00
-draft: true
+draft: false
 title: "Segredo Industrial no Brasil: Guia Completo de Proteção de Know-how sem Patente"
 description: "Segredo industrial no Brasil: o que a LPI protege (art. 195), diferenças para patente e medidas práticas para proteger know-how sem registro no INPI."
 featured_image: ""
@@ -13,7 +13,6 @@ tags:
   - concorrencia-desleal
   - contratos
 ---
-
 A fórmula da Coca-Cola é uma das informações comerciais mais valiosas do mundo — e nunca foi patenteada. Desde 1886, ela é protegida por um mecanismo que não exige registro, não tem prazo de validade e não publica nada: o segredo industrial. Enquanto isso, milhares de empresas brasileiras perdem know-how todos os anos por acreditarem que a única forma de proteger uma criação intelectual é depositar uma patente no INPI.
 
 A verdade é que o direito brasileiro protege informações confidenciais — segredos de negócio, listas de clientes, algoritmos, processos de fabricação — sem qualquer registro. A proteção existe, mas depende de duas coisas que muitas empresas negligenciam: saber qual é a base legal e, principalmente, documentar as medidas razoáveis tomadas para manter o segredo.
@@ -93,12 +92,6 @@ Em operações de M&A e due diligence, o segredo industrial costuma ser o ativo 
 Esses limites reforçam a regra de ouro: segredo industrial é um regime de proteção **comportamental**. Ele vale enquanto a organização se comporta como dona do segredo.
 
 ## O que observar no Brasil
-
-Dois movimentos recentes merecem atenção de quem depende de know-how:
-
-Primeiro, o reforço do enforcement institucional: a [ABPI passou a integrar o Conselho Nacional de Combate à Pirataria e aos Delitos contra a Propriedade Intelectual (CNCP)](https://abpi.org.br/noticias/abpi-integra-o-conselho-nacional-de-combate-a-pirataria/), órgão consultivo do Ministério da Justiça criado pelo Decreto 9.875/2019. Isso amplia a participação técnica do setor privado nas políticas de enfrentamento — ainda que o foco do CNCP seja pirataria, contrabando e falsificação, o fortalecimento do ecossistema de repressão beneficia também os casos de apropriação de segredo.
-
-Segundo, o debate sobre a atualização da LPI, que completa três décadas com [propostas de aperfeiçoamento em discussão]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}}). Uma lei específica de segredo industrial, nos moldes da diretiva europeia, é uma das lacunas apontadas pela doutrina — mas, até lá, o art. 195 já oferece base sólida para quem estruturar a proteção corretamente.
 
 Para a empresa, o checklist prático é curto: (i) a informação é secreta e tem valor comercial? (ii) as medidas razoáveis de sigilo estão documentadas? (iii) os contratos cobrem funcionários, parceiros e ex-colaboradores? Se a resposta for sim para as três, o know-how está protegido pela lei brasileira — sem registro, sem taxa e sem publicação.
 
