@@ -1,6 +1,6 @@
 ---
 date: 2026-08-14T14:17:14.000Z
-draft: true
+draft: false
 title: 'Trade Secret in Brazil: Complete Guide to Protecting Know-how without a Patent'
 description: 'Industrial secret in Brazil: what the LPI protects (art. 195), differences from patents and practical measures to protect know-how without registration at INPI.'
 featured_image: ''
