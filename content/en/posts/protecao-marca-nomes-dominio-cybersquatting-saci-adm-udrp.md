@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T14:16:18.000Z
-draft: true
+draft: false
 title: 'Cybersquatting and Your Trademark: How to Recover a Domain Name Under .br (SACI-Adm) and gTLDs (UDRP) [2026]'
 description: 'Practical guide to domain name disputes: what cybersquatting is, how SACI-Adm works for .br domains and UDRP for gTLDs (.com), deadlines, costs and when to use each route to recover your trademark online.'
 featured_image: ''
