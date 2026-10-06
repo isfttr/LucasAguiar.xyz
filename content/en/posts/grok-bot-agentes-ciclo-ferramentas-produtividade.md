@@ -25,8 +25,8 @@ None of this means Grok Bot is bad — specialized agents with their own compute
 
 Read also:
 
-- [Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
 - [How AI Coding Agents Actually Work: An Architectural Guide [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
+- [Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price [2026]]({{< relref "posts/claude-sonnet-5-2026/" >}})
 - [AI Session Portability: Why Your AI Conversations Are Becoming Lock-In [2026]]({{< relref "posts/ai-session-portability-guide-2026/" >}})
 
 ---

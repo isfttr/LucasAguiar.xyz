@@ -99,8 +99,8 @@ If you run a Hugo site, the structure maps naturally onto content organization â
 Read also:
 
 - [Hugo Content File Structure]({{< relref "posts/hugo-content-file-structure/" >}})
+- [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
 - [How AI Coding Agents Actually Work: An Architectural Guide [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
-- [From Cursor to Windsurf to Zed: My Journey Through AI-Enhanced Code Editors]({{< relref "posts/experience-with-cursor-and-windsurf/" >}})
 
 ---
 

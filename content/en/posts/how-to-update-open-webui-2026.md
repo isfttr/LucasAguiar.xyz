@@ -111,8 +111,8 @@ Back up before every update, keep `WEBUI_SECRET_KEY` stable, pin a version for a
 Read also:
 
 - [Open WebUI Models Not Showing? Step-by-Step Fix [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
-- [How to migrate from Proxmox VE 8 to 9: step-by-step guide [2026]]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
 - [Enabling WhatsApp on Hermes Agent self-hosted: three pitfalls (and how I overcame them)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
+- [Proxmox Backup Server: installation via community-scripts and backup configuration [2026]]({{< relref "posts/proxmox-backup-server-community-scripts-2026/" >}})
 
 ---
 

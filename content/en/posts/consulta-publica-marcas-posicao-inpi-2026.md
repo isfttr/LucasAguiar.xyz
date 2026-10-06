@@ -89,8 +89,8 @@ If you are not yet familiar with the costs involved in trademark registration in
 Read also:
 
 - [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
-- [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
-- [Como consultar a Revista da Propriedade Industrial (RPI) do INPI: guia completo]({{< relref "posts/guia-consulta-revista-propriedade-industrial-rpi-inpi/" >}})
+- [How Long Does It Take to Register a Trademark with INPI? Stages and Deadlines [2026]]({{< relref "posts/quanto-tempo-demora-para-registrar-marca-inpi-2026/" >}})
+- [INPI exhausts priority processing quotas for e-commerce trademarks — what now?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
 
 ---
 

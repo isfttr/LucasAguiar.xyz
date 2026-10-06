@@ -91,7 +91,7 @@ Leia também:
 
 - [O que Acontece Quando Você Alavanca uma Tese de 166 Anos? O Colapso do Fundo Situational Awareness [2026]]({{< relref "posts/colapso-fundo-situational-awareness-alavancagem-2026/" >}})
 - [IA aberta vs. modelos de fronteira: o custo oculto dos seus dados [2026]]({{< relref "posts/modelos-ia-abertos-vs-fronteira-dados-2026/" >}})
-- [O Problema de Copiar e Colar da IA: Matando o Bloqueio de Software & Por Que a Portabilidade de Dados é Fundamental]({{< relref "posts/ai-copy-paste-problem/" >}})
+- [SubQ: O Primeiro LLM Totalmente Subquadrático — Comparação de Custos com Transformers [2026]]({{< relref "posts/subq-subquadratic-llm-atencao-linear-comparacao-custos-2026/" >}})
 
 ---
 
