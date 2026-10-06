@@ -109,8 +109,8 @@ Backup antes de todo update, `WEBUI_SECRET_KEY` estável, versão fixada para qu
 Leia também:
 
 - [Open WebUI: Modelos Não Aparecem? Solução Passo a Passo [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
-- [Habilitando o WhatsApp no Hermes Agent self-hosted: três armadilhas (e como passei por elas)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
 - [Como migrar do Proxmox VE 8 para o 9: guia passo a passo [2026]]({{< relref "posts/migracao-proxmox-8-9-2026/" >}})
+- [Habilitando o WhatsApp no Hermes Agent self-hosted: três armadilhas (e como passei por elas)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
 
 ---
 

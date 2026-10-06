@@ -89,8 +89,8 @@ If you are not yet familiar with the costs involved in trademark registration in
 Read also:
 
 - [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
-- [Nice Classification: how to choose the right class to register your trademark with INPI [2026]]({{< relref "posts/classificacao-nice-marcas-inpi-guia-completo/" >}})
 - [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
+- [Como consultar a Revista da Propriedade Industrial (RPI) do INPI: guia completo]({{< relref "posts/guia-consulta-revista-propriedade-industrial-rpi-inpi/" >}})
 
 ---
 
