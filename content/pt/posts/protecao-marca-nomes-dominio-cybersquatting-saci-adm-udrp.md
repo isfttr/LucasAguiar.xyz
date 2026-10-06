@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T11:16:18-03:00
-draft: true
+draft: false
 title: "Cybersquatting e sua Marca: Como Recuperar um Nome de Domínio no .br (SACI-Adm) e em gTLDs (UDRP) [2026]"
 description: "Guia prático de disputas de nomes de domínio no Brasil: o que é cybersquatting, como funciona o SACI-Adm para domínios .br e a UDRP para gTLDs (.com), prazos, custos e quando usar cada via para recuperar sua marca."
 featured_image: ""
@@ -13,7 +13,6 @@ tags:
   - propriedade-intelectual
   - inpi
   - udrp
-scheduledAt: 2026-10-06T14:38:00.000Z
 ---
 Um concorrente registra `suamarca.com.br` antes de você. Outro compra `suamarca.com` e tenta vender de volta por um valor alto. Esse é o cenário clássico do **cybersquatting** (ciberespeculação): registrar um nome de domínio em má-fé para explorar a marca ou a identidade de terceiros. A boa notícia: existem vias administrativas específicas — e mais rápidas e baratas que o Judiciário — para recuperar esses domínios, tanto no .br quanto nas extensões internacionais. Este guia explica como cada sistema funciona, quanto custa e como escolher a via certa.
 
