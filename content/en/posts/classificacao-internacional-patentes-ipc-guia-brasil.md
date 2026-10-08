@@ -212,9 +212,9 @@ With the resumption of priority processing for H04 and the explosion of generati
 
 Read also:
 
-- [Complete Guide to Priority Patent Processing at INPI: Modalities, Costs, and How to Apply [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
-- [Generative AI Patents in Brazil: Complete Guide to Patenting AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
-- [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
+- [Patent Search at INPI: Practical Step-by-Step Guide [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
+- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
 
 ---
 

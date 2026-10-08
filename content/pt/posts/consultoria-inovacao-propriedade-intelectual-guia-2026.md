@@ -84,8 +84,8 @@ Se você quer proteger os ativos intangíveis da sua empresa, agende uma convers
 Leia também:
 
 - [Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
-- [Plano Estratégico do INPI 2027-2036: Guia Completo dos 7 Objetivos e o que Muda para Empresas]({{< relref "posts/inpi-plano-estrategico-2027-2036-guia-completo/" >}})
-- [Radares Tecnológicos do INPI: Guia Completo de Inteligência de Patentes Gratuita]({{< relref "posts/radares-tecnologicos-inpi-guia-completo/" >}})
+- [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
 
 ---
 

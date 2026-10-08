@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T12:55:34.433Z",
+  "last_updated": "2026-10-08T14:14:56.870Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1334,14 +1334,14 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "38058270d806d6137ad76220f0db68909a92688ba87b9e4b20aabdbc814491f0",
+      "content_hash_en": "df5dce8aa2918d617fcaa8369b9680f47f9b5633eeb527a49d6d931030f8932e",
       "backlinks": [
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "guia-consulta-revista-propriedade-industrial-rpi-inpi"
+        "guia-consulta-revista-propriedade-industrial-rpi-inpi",
+        "consulta-publica-marcas-posicao-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T12:50:01.277Z"
+      "last_processed": "2026-10-08T14:08:46.041Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1413,14 +1413,14 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "5a8d2b548a65b1f34e5ba7b357d0f7e98c0ad41826e31465faa652231d112476",
+      "content_hash_en": "e772011092170830c7dc8d4b10d7515210f6e222b397af3afa9e44539e240fa7",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "classificacao-nice-marcas-inpi-guia-completo",
-        "marca-coletiva-marca-certificacao-inpi-guia-completo"
+        "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
+        "lpi-30-anos-propostas-aperfeicoamento-inpi"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T12:50:23.518Z"
+      "last_processed": "2026-10-08T14:09:38.305Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1948,14 +1948,14 @@
         "article"
       ],
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
-      "content_hash_en": "1111e8bc2adb9c9ef4429f5fc700abd505de3e4b7d7914265ab2f9e28835abb8",
+      "content_hash_en": "08f38e52e844b0aec7d8924a8aad3113ac1134011b962e8a1d1c7aac085d1936",
       "backlinks": [
         "hugo-content-file-structure",
-        "newsletter-beehiiv-cloudflare-github",
-        "fix-custom-models-open-webui"
+        "ai-coding-agents-architectural-guide-2026",
+        "newsletter-beehiiv-cloudflare-github"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T12:50:53.630Z"
+      "last_processed": "2026-10-08T14:10:22.574Z"
     },
     "run-70b-llm-low-vram-gpu-guide-2026": {
       "slug": "run-70b-llm-low-vram-gpu-guide-2026",
@@ -2334,14 +2334,14 @@
         "article"
       ],
       "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and LXC on Proxmox. Make a backup before, avoid post-update bugs and automate with Watchtower.",
-      "content_hash_en": "6258f3e6ee87b6ffc1433862bf35245709856942c4fdf07573708e896d7c358b",
+      "content_hash_en": "63fbb351f33c61621beed843889616e294d86e72bf33bb605c36475aca40f4c3",
       "backlinks": [
         "fix-custom-models-open-webui",
-        "migracao-proxmox-8-9-2026",
-        "proxmox-backup-server-community-scripts-2026"
+        "configuracao-whatsapp-hermes",
+        "migracao-proxmox-8-9-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T12:51:44.180Z"
+      "last_processed": "2026-10-08T14:10:45.096Z"
     },
     "stock-price-duration-survivorship-ai-capex-2026": {
       "slug": "stock-price-duration-survivorship-ai-capex-2026",
@@ -2358,14 +2358,14 @@
         "opinion"
       ],
       "description_en": "A stock price is the present value of decades of future cash flows — but most companies never survive that long. What that old finance math says about the AI investment boom and the growing skepticism around it.",
-      "content_hash_en": "bc4358268441e42638a820adc0afed02844c7122f2c3ca09f23d0f1dcca8ac81",
+      "content_hash_en": "262f405e40a465957542d9ca81f44fbd4dd214f205338285a17036b91383c62a",
       "backlinks": [
         "colapso-fundo-situational-awareness-alavancagem-2026",
         "modelos-ia-abertos-vs-fronteira-dados-2026",
         "ai-copy-paste-problem"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T12:52:00.497Z"
+      "last_processed": "2026-10-08T14:11:02.976Z"
     },
     "github-alternatives-self-hosted-comparison-2026": {
       "slug": "github-alternatives-self-hosted-comparison-2026",
@@ -2577,14 +2577,14 @@
         "article"
       ],
       "description_en": "Grok Bot promises a team of AI agents that work 24/7 and talk to each other — but the cycle of hype, adoption by competitors, and being forgotten repeats itself.",
-      "content_hash_en": "1655e3a6a2a77b9db3ffdb8e8a6526c9c066ae36f51ce34dc1bfb0bb75f1d91b",
+      "content_hash_en": "ab13eaf407f0c63d4779fd2ac74dfb93de3a75ce01d6d4c239a7378082db88a4",
       "backlinks": [
-        "claude-sonnet-5-2026",
         "fable-5-vending-bench-alinhamento-ia",
+        "ai-coding-agents-architectural-guide-2026",
         "ai-session-portability-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T12:53:28.958Z"
+      "last_processed": "2026-10-08T14:11:57.501Z"
     },
     "lightweight-linux-vps-monitoring-guide-2026": {
       "slug": "lightweight-linux-vps-monitoring-guide-2026",
@@ -2626,14 +2626,14 @@
         "article"
       ],
       "description_en": "Step-by-step guide to testing PostgreSQL backups: validate pg_dump files, restore into scratch databases, automate restore drills with cron, and track RPO/RTO. Includes pgBackRest and restoredrill.",
-      "content_hash_en": "c6ead5081474c37004f906d809a4e46a4bd4b3515e960caa6d9fd4bc617b4823",
+      "content_hash_en": "450bcb324aff68d2684849da6839530e2f243b0472f5305970eb474235cc5ce5",
       "backlinks": [
         "proxmox-backup-server-community-scripts-2026",
         "postgresql-performance-best-practices-homelab-2026",
         "sqlite-wal-corruption-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T12:54:01.617Z"
+      "last_processed": "2026-10-08T14:12:29.084Z"
     },
     "radares-tecnologicos-inpi-guia-completo": {
       "slug": "radares-tecnologicos-inpi-guia-completo",
@@ -2723,14 +2723,14 @@
         "article"
       ],
       "description_en": "Deadlines, costs and step-by-step for trademark renewal at INPI: the final-year window, 6-month extraordinary period, fees per class and how to avoid lapse.",
-      "content_hash_en": "0c58afb53f897b9a97be0e2006b8f27e99c5271a05c135e28076cde7dec0db75",
+      "content_hash_en": "ee9ecc43afde1ed911698151538f97cedb4113a985c10fe957e9d12a1e685a29",
       "backlinks": [
+        "inpi-manual-marcas-alto-renome-protocolo-madri",
         "quanto-custa-registrar-marca-inpi-2026",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
-        "guia-consulta-revista-propriedade-industrial-rpi-inpi"
+        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T12:54:53.919Z"
+      "last_processed": "2026-10-08T14:13:42.919Z"
     },
     "llm-quantization-guide-gguf-2026": {
       "slug": "llm-quantization-guide-gguf-2026",
@@ -2868,14 +2868,14 @@
         "article"
       ],
       "description_en": "What does an innovation and intellectual property consultancy do, when to hire, how much it costs, and how to choose. Practical guide with service scope [2026].",
-      "content_hash_en": "eb51e14ce4f1996d47f1f7424f83e2fb2f0157b45c1ab86cd1ba6357d0d9a4e0",
+      "content_hash_en": "15b9d6fa2bffa31a4f056a7b32d7bfcbc9b332fc0fca33168df51353cf0c8821",
       "backlinks": [
         "ip-protection-types-brazil-complete-guide",
-        "inpi-plano-estrategico-2027-2036-guia-completo",
-        "radares-tecnologicos-inpi-guia-completo"
+        "guia-deposito-patente-inpi-2026",
+        "quanto-custa-registrar-marca-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T12:55:34.433Z"
+      "last_processed": "2026-10-08T14:14:18.663Z"
     },
     "busca-patentes-inpi-guia-pratico": {
       "slug": "busca-patentes-inpi-guia-pratico",
@@ -2947,10 +2947,11 @@
       "content_hash_en": "02cfe3094a4dbadd707fb1b578e0bbca0bb6fead816ecba6795104d53b80325f",
       "backlinks": [
         "patentes-inteligencia-artificial-brasil-guia-2026",
-        "inpi-credenciamento-busca-anterioridade-patentes"
+        "busca-patentes-inpi-guia-pratico",
+        "guia-deposito-patente-inpi-2026"
       ],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlink_source": "ai",
+      "last_processed": "2026-10-08T14:14:56.869Z"
     },
     "entrada-fase-nacional-pct-brasil-guia-2026": {
       "slug": "entrada-fase-nacional-pct-brasil-guia-2026",

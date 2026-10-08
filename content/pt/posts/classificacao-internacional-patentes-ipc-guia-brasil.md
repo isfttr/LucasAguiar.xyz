@@ -210,9 +210,9 @@ Com a retomada do trâmite prioritário para H04 e a explosão de patentes de IA
 
 Leia também:
 
-- [Guia Completo de Trâmite Prioritário de Patentes no INPI: Modalidades, Custos e Como Solicitar [2026]]({{< relref "posts/guia-tramite-prioritario-patentes-inpi-2026/" >}})
-- [Patentes de Inteligência Artificial Generativa no Brasil: Guia Completo [2026]]({{< relref "posts/patentes-inteligencia-artificial-generativa-brasil-guia-2026/" >}})
-- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [Patentes de Inteligência Artificial no Brasil: Guia Completo sobre Proteção de Invenções de IA [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
+- [Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
+- [Como Depositar uma Patente no INPI: Guia Passo a Passo Completo [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
 
 ---
 
