@@ -1,6 +1,6 @@
 ---
 date: 2026-10-01T18:03:51.000Z
-draft: true
+draft: false
 title: "Bancos de Dados Vetoriais em 2026: Por Que a Busca Vetorial Está se Tornando um Recurso, Não um Produto"
 description: "Bancos de dados vetoriais em 2026: o motor especializado 'vector-first' está sendo substituído por bancos de dados generalizados. Quando usar pgvector, SQLite, DuckDB ou um motor dedicado."
 featured_image: ""
@@ -14,7 +14,6 @@ tags:
   - rag
 slug: bancos-de-dados-vetoriais-em-2026-por-que
 translation_source_hash: d5c29c78e9106c374ba5f9ddb70d4e894c2565f1f13baeb9fea52b460ef3b4ef
-scheduledAt: 2026-10-08T12:49:00.000Z
 ---
 Um dos sinais mais claros de que uma tecnologia atingiu o seu auge é quando as empresas que construíram todo o seu produto em torno dela começam a dizê-lo em voz alta. Em setembro de 2026, [turbopuffer](https://turbopuffer.com/blog/rip-vector-database) — uma base de dados vetorial serverless que conta Cursor e Notion entre os seus primeiros clientes — intitulou uma publicação "RIP, vector database". O título é provocador, mas a engenharia subjacente merece ser compreendida, pois indica para onde a indústria está a caminhar e, mais praticamente, o que deve procurar da próxima vez que precisar de pesquisa vetorial.
 
