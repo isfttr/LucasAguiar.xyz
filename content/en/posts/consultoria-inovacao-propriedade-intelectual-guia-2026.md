@@ -82,12 +82,11 @@ LFA Consultoria brings together both ends: the technical knowledge of intellectu
 
 If you want to protect your company's intangible assets, schedule a conversation through the [consulting](https://lucasaguiar.xyz/consulting/) page or by email <contact@lucasaguiar.xyz>.
 
-Also read:
+Read also:
 
-- [INPI will pay R$ 1,025 per patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
-- [How Much Does It Cost to Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Prior Art Search for Trademarks at INPI: Complete Step-by-Step Guide]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
-- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [INPI Strategic Plan 2027-2036: Complete Guide to the 7 Objectives and What Changes for Companies]({{< relref "posts/inpi-plano-estrategico-2027-2036-guia-completo/" >}})
+- [INPI Technological Radars: Complete Guide to Free Patent Intelligence]({{< relref "posts/radares-tecnologicos-inpi-guia-completo/" >}})
 
 ---
 

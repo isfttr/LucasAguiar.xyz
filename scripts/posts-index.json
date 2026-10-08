@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T14:44:46.091Z",
+  "last_updated": "2026-10-08T12:55:34.433Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1334,14 +1334,14 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "8511e9e76bcbcd866ef4293e6f8193f878c119f756ddf824b7779a636e5a2b5e",
+      "content_hash_en": "38058270d806d6137ad76220f0db68909a92688ba87b9e4b20aabdbc814491f0",
       "backlinks": [
+        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "consulta-publica-marcas-posicao-inpi-2026",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
+        "guia-consulta-revista-propriedade-industrial-rpi-inpi"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-06T14:39:41.461Z"
+      "last_processed": "2026-10-08T12:50:01.277Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1413,14 +1413,14 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "32d57c77f1edbeffd316ab5afa588eacdd1c57b2bd189b3d10ba7e65bbed4b62",
+      "content_hash_en": "5a8d2b548a65b1f34e5ba7b357d0f7e98c0ad41826e31465faa652231d112476",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
-        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce"
+        "classificacao-nice-marcas-inpi-guia-completo",
+        "marca-coletiva-marca-certificacao-inpi-guia-completo"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-06T14:40:02.596Z"
+      "last_processed": "2026-10-08T12:50:23.518Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1948,14 +1948,14 @@
         "article"
       ],
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
-      "content_hash_en": "9aa3225f8bc7d9e126321847f13bad2ae7ee147f9420f9c9ce8c6ccb202724cb",
+      "content_hash_en": "1111e8bc2adb9c9ef4429f5fc700abd505de3e4b7d7914265ab2f9e28835abb8",
       "backlinks": [
         "hugo-content-file-structure",
-        "ip-protection-types-brazil-complete-guide",
-        "ai-coding-agents-architectural-guide-2026"
+        "newsletter-beehiiv-cloudflare-github",
+        "fix-custom-models-open-webui"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-06T14:40:42.099Z"
+      "last_processed": "2026-10-08T12:50:53.630Z"
     },
     "run-70b-llm-low-vram-gpu-guide-2026": {
       "slug": "run-70b-llm-low-vram-gpu-guide-2026",
@@ -2334,14 +2334,14 @@
         "article"
       ],
       "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and LXC on Proxmox. Make a backup before, avoid post-update bugs and automate with Watchtower.",
-      "content_hash_en": "a93b58c82fac5c2a989d127d57e77b4ffe740d0d09d85ca93bcf8958540f0ac6",
+      "content_hash_en": "6258f3e6ee87b6ffc1433862bf35245709856942c4fdf07573708e896d7c358b",
       "backlinks": [
         "fix-custom-models-open-webui",
-        "configuracao-whatsapp-hermes",
+        "migracao-proxmox-8-9-2026",
         "proxmox-backup-server-community-scripts-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-06T14:41:44.058Z"
+      "last_processed": "2026-10-08T12:51:44.180Z"
     },
     "stock-price-duration-survivorship-ai-capex-2026": {
       "slug": "stock-price-duration-survivorship-ai-capex-2026",
@@ -2358,14 +2358,14 @@
         "opinion"
       ],
       "description_en": "A stock price is the present value of decades of future cash flows — but most companies never survive that long. What that old finance math says about the AI investment boom and the growing skepticism around it.",
-      "content_hash_en": "262f405e40a465957542d9ca81f44fbd4dd214f205338285a17036b91383c62a",
+      "content_hash_en": "bc4358268441e42638a820adc0afed02844c7122f2c3ca09f23d0f1dcca8ac81",
       "backlinks": [
         "colapso-fundo-situational-awareness-alavancagem-2026",
         "modelos-ia-abertos-vs-fronteira-dados-2026",
-        "subq-subquadratic-llm-atencao-linear-comparacao-custos-2026"
+        "ai-copy-paste-problem"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-06T14:42:09.095Z"
+      "last_processed": "2026-10-08T12:52:00.497Z"
     },
     "github-alternatives-self-hosted-comparison-2026": {
       "slug": "github-alternatives-self-hosted-comparison-2026",
@@ -2406,14 +2406,14 @@
         "article"
       ],
       "description_en": "Understand the Nagoya Protocol, the sharing of benefits from the use of genetic resources and traditional knowledge, and how Law 13.123/2015 and SisGen work in Brazil.",
-      "content_hash_en": "efbc5df71cc45ef059ae3856071626347b59901a0ef503700ab8771a4e14505a",
+      "content_hash_en": "aa4beb593c56504f004fd89752f8a51b56620c78a59ec3866a34b348415f8364",
       "backlinks": [
         "brasil-tratado-budapeste-patentes-biotecnologia",
         "pnirs-programa-nacional-inovacao-radical-saude-2026",
         "ip-protection-types-brazil-complete-guide"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-06T14:42:49.644Z"
+      "last_processed": "2026-10-08T12:52:39.578Z"
     },
     "how-to-split-git-commit-guide-2026": {
       "slug": "how-to-split-git-commit-guide-2026",
@@ -2577,14 +2577,14 @@
         "article"
       ],
       "description_en": "Grok Bot promises a team of AI agents that work 24/7 and talk to each other — but the cycle of hype, adoption by competitors, and being forgotten repeats itself.",
-      "content_hash_en": "3f9def2a8c12f3b821ea37db6e7b33cdfe7be689b479d3d704e5b29a4b3b8f10",
+      "content_hash_en": "1655e3a6a2a77b9db3ffdb8e8a6526c9c066ae36f51ce34dc1bfb0bb75f1d91b",
       "backlinks": [
-        "ai-coding-agents-architectural-guide-2026",
         "claude-sonnet-5-2026",
+        "fable-5-vending-bench-alinhamento-ia",
         "ai-session-portability-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-06T14:44:02.791Z"
+      "last_processed": "2026-10-08T12:53:28.958Z"
     },
     "lightweight-linux-vps-monitoring-guide-2026": {
       "slug": "lightweight-linux-vps-monitoring-guide-2026",
@@ -2626,14 +2626,14 @@
         "article"
       ],
       "description_en": "Step-by-step guide to testing PostgreSQL backups: validate pg_dump files, restore into scratch databases, automate restore drills with cron, and track RPO/RTO. Includes pgBackRest and restoredrill.",
-      "content_hash_en": "430cb1e8f4e9499cdb8e97109b97249770dac4017a2553097b5d50db4594964a",
+      "content_hash_en": "c6ead5081474c37004f906d809a4e46a4bd4b3515e960caa6d9fd4bc617b4823",
       "backlinks": [
-        "postgresql-performance-best-practices-homelab-2026",
         "proxmox-backup-server-community-scripts-2026",
+        "postgresql-performance-best-practices-homelab-2026",
         "sqlite-wal-corruption-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-06T14:44:22.089Z"
+      "last_processed": "2026-10-08T12:54:01.617Z"
     },
     "radares-tecnologicos-inpi-guia-completo": {
       "slug": "radares-tecnologicos-inpi-guia-completo",
@@ -2723,14 +2723,14 @@
         "article"
       ],
       "description_en": "Deadlines, costs and step-by-step for trademark renewal at INPI: the final-year window, 6-month extraordinary period, fees per class and how to avoid lapse.",
-      "content_hash_en": "94bf9fa81ce67c78a68e19f75780e78c9bc1cf5d37e2e741cb0e7718644e714b",
+      "content_hash_en": "0c58afb53f897b9a97be0e2006b8f27e99c5271a05c135e28076cde7dec0db75",
       "backlinks": [
         "quanto-custa-registrar-marca-inpi-2026",
         "quanto-tempo-demora-para-registrar-marca-inpi-2026",
-        "busca-anterioridade-marcas-inpi-guia-completo"
+        "guia-consulta-revista-propriedade-industrial-rpi-inpi"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-06T14:44:46.091Z"
+      "last_processed": "2026-10-08T12:54:53.919Z"
     },
     "llm-quantization-guide-gguf-2026": {
       "slug": "llm-quantization-guide-gguf-2026",
@@ -2869,9 +2869,13 @@
       ],
       "description_en": "What does an innovation and intellectual property consultancy do, when to hire, how much it costs, and how to choose. Practical guide with service scope [2026].",
       "content_hash_en": "eb51e14ce4f1996d47f1f7424f83e2fb2f0157b45c1ab86cd1ba6357d0d9a4e0",
-      "backlinks": [],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlinks": [
+        "ip-protection-types-brazil-complete-guide",
+        "inpi-plano-estrategico-2027-2036-guia-completo",
+        "radares-tecnologicos-inpi-guia-completo"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-10-08T12:55:34.433Z"
     },
     "busca-patentes-inpi-guia-pratico": {
       "slug": "busca-patentes-inpi-guia-pratico",
@@ -2991,6 +2995,26 @@
         "lpi-30-anos-propostas-aperfeicoamento-inpi"
       ],
       "backlink_source": "file",
+      "last_processed": null
+    },
+    "protecao-marca-nomes-dominio-cybersquatting-saci-adm-udrp": {
+      "slug": "protecao-marca-nomes-dominio-cybersquatting-saci-adm-udrp",
+      "title_en": "Cybersquatting and Your Trademark: How to Recover a Domain Name Under .br (SACI-Adm) and gTLDs (UDRP) [2026]",
+      "title_pt": "Cybersquatting e sua Marca: Como Recuperar um Nome de Domínio no .br (SACI-Adm) e em gTLDs (UDRP) [2026]",
+      "tags": [
+        "trademarks",
+        "domain-names",
+        "cybersquatting",
+        "intellectual-property",
+        "udrp"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Practical guide to domain name disputes: what cybersquatting is, how SACI-Adm works for .br domains and UDRP for gTLDs (.com), deadlines, costs and when to use each route to recover your trademark online.",
+      "content_hash_en": "d4ee9565dd16f7417aadbb8178cbdf1f8cd56cdbf6ba5014abd351fbb90383d9",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": null
     }
   }
