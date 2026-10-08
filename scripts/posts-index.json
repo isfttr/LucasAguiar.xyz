@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T14:14:56.870Z",
+  "last_updated": "2026-10-08T18:16:30.971Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1334,14 +1334,14 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "df5dce8aa2918d617fcaa8369b9680f47f9b5633eeb527a49d6d931030f8932e",
+      "content_hash_en": "f933a224bd75ed34c6302723f023382199b5c7bafcbf6ca2988ad92d45c70574",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "guia-consulta-revista-propriedade-industrial-rpi-inpi",
-        "consulta-publica-marcas-posicao-inpi-2026"
+        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
+        "edital-casos-sucesso-pi-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T14:08:46.041Z"
+      "last_processed": "2026-10-08T18:10:15.581Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1413,14 +1413,14 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "e772011092170830c7dc8d4b10d7515210f6e222b397af3afa9e44539e240fa7",
+      "content_hash_en": "68fb49494cf9a7cabcf471c26552bf10c925c08c676d9c836f0abb2876f2979c",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
-        "lpi-30-anos-propostas-aperfeicoamento-inpi"
+        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce",
+        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T14:09:38.305Z"
+      "last_processed": "2026-10-08T18:10:39.536Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1948,14 +1948,14 @@
         "article"
       ],
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
-      "content_hash_en": "08f38e52e844b0aec7d8924a8aad3113ac1134011b962e8a1d1c7aac085d1936",
+      "content_hash_en": "e185c18c05daafa1110f61fdec03e99e1ecd729e66abe4f816a6ba9dbcf91258",
       "backlinks": [
         "hugo-content-file-structure",
-        "ai-coding-agents-architectural-guide-2026",
-        "newsletter-beehiiv-cloudflare-github"
+        "containers-vs-vms-complete-guide-2026",
+        "ai-coding-agents-architectural-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T14:10:22.574Z"
+      "last_processed": "2026-10-08T18:11:08.390Z"
     },
     "run-70b-llm-low-vram-gpu-guide-2026": {
       "slug": "run-70b-llm-low-vram-gpu-guide-2026",
@@ -2334,14 +2334,14 @@
         "article"
       ],
       "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and LXC on Proxmox. Make a backup before, avoid post-update bugs and automate with Watchtower.",
-      "content_hash_en": "63fbb351f33c61621beed843889616e294d86e72bf33bb605c36475aca40f4c3",
+      "content_hash_en": "98d21380507bea179ba4f9fcaec8b608ff0f0eb4d6dd5cd8107b682672bdead4",
       "backlinks": [
         "fix-custom-models-open-webui",
         "configuracao-whatsapp-hermes",
         "migracao-proxmox-8-9-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T14:10:45.096Z"
+      "last_processed": "2026-10-08T18:12:12.546Z"
     },
     "stock-price-duration-survivorship-ai-capex-2026": {
       "slug": "stock-price-duration-survivorship-ai-capex-2026",
@@ -2577,14 +2577,14 @@
         "article"
       ],
       "description_en": "Grok Bot promises a team of AI agents that work 24/7 and talk to each other — but the cycle of hype, adoption by competitors, and being forgotten repeats itself.",
-      "content_hash_en": "ab13eaf407f0c63d4779fd2ac74dfb93de3a75ce01d6d4c239a7378082db88a4",
+      "content_hash_en": "15715875ba12a6d9a71b178fca39c42f44564428c8510eb5da67dd25077e9916",
       "backlinks": [
-        "fable-5-vending-bench-alinhamento-ia",
         "ai-coding-agents-architectural-guide-2026",
-        "ai-session-portability-guide-2026"
+        "stateless-mcp-guide-2026",
+        "claude-sonnet-5-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T14:11:57.501Z"
+      "last_processed": "2026-10-08T18:13:28.148Z"
     },
     "lightweight-linux-vps-monitoring-guide-2026": {
       "slug": "lightweight-linux-vps-monitoring-guide-2026",
@@ -2723,14 +2723,14 @@
         "article"
       ],
       "description_en": "Deadlines, costs and step-by-step for trademark renewal at INPI: the final-year window, 6-month extraordinary period, fees per class and how to avoid lapse.",
-      "content_hash_en": "ee9ecc43afde1ed911698151538f97cedb4113a985c10fe957e9d12a1e685a29",
+      "content_hash_en": "7e0107bc6a4ccbf2702769794641fc7da8413764e1a1a02a0df1f4f2a388b4d9",
       "backlinks": [
-        "inpi-manual-marcas-alto-renome-protocolo-madri",
         "quanto-custa-registrar-marca-inpi-2026",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
+        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
+        "como-consultar-andamento-processo-inpi"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T14:13:42.919Z"
+      "last_processed": "2026-10-08T18:13:50.025Z"
     },
     "llm-quantization-guide-gguf-2026": {
       "slug": "llm-quantization-guide-gguf-2026",
@@ -2868,14 +2868,14 @@
         "article"
       ],
       "description_en": "What does an innovation and intellectual property consultancy do, when to hire, how much it costs, and how to choose. Practical guide with service scope [2026].",
-      "content_hash_en": "15b9d6fa2bffa31a4f056a7b32d7bfcbc9b332fc0fca33168df51353cf0c8821",
+      "content_hash_en": "5eebb55c18c8dc7f61f3170ab37fbcefd1074590e79ce40511bd57cc6e85c02e",
       "backlinks": [
         "ip-protection-types-brazil-complete-guide",
-        "guia-deposito-patente-inpi-2026",
-        "quanto-custa-registrar-marca-inpi-2026"
+        "patentes-marcas-garantia-credito-brasil-guia",
+        "como-consultar-andamento-processo-inpi"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T14:14:18.663Z"
+      "last_processed": "2026-10-08T18:14:35.142Z"
     },
     "busca-patentes-inpi-guia-pratico": {
       "slug": "busca-patentes-inpi-guia-pratico",
@@ -2944,14 +2944,14 @@
         "article"
       ],
       "description_en": "Complete guide to the International Patent Classification (IPC): structure of sections A to H, subclasses and groups, difference between IPC and CPC, how to consult patent classifications at INPI and practical examples.",
-      "content_hash_en": "02cfe3094a4dbadd707fb1b578e0bbca0bb6fead816ecba6795104d53b80325f",
+      "content_hash_en": "872c5a6e45aa4a430965632adb516ea4b368252a62fcae1b116dfe76de24d547",
       "backlinks": [
         "patentes-inteligencia-artificial-brasil-guia-2026",
         "busca-patentes-inpi-guia-pratico",
-        "guia-deposito-patente-inpi-2026"
+        "busca-internacional-patentes-patentscope-espacenet-google-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-08T14:14:56.869Z"
+      "last_processed": "2026-10-08T18:15:09.828Z"
     },
     "entrada-fase-nacional-pct-brasil-guia-2026": {
       "slug": "entrada-fase-nacional-pct-brasil-guia-2026",
@@ -2970,9 +2970,13 @@
       ],
       "description_en": "Complete guide on how to enter the national phase of the PCT in Brazil: deadlines, documents, costs, GRU and step-by-step procedures at INPI for foreigners to file patents in the country.",
       "content_hash_en": "8f0a4128997f3fc5e07bf91234e1a085fec68dc8978289ff8bf703e5f9ba7070",
-      "backlinks": [],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlinks": [
+        "guia-deposito-patente-inpi-2026",
+        "mapa-global-patentes-pct-2025-brasil",
+        "inpi-modulo-servicos-patentes-novas-funcionalidades-2026"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-10-08T18:15:51.332Z"
     },
     "segredo-industrial-brasil-guia-completo": {
       "slug": "segredo-industrial-brasil-guia-completo",
@@ -3014,9 +3018,13 @@
       ],
       "description_en": "Practical guide to domain name disputes: what cybersquatting is, how SACI-Adm works for .br domains and UDRP for gTLDs (.com), deadlines, costs and when to use each route to recover your trademark online.",
       "content_hash_en": "d4ee9565dd16f7417aadbb8178cbdf1f8cd56cdbf6ba5014abd351fbb90383d9",
-      "backlinks": [],
-      "backlink_source": "pending",
-      "last_processed": null
+      "backlinks": [
+        "inpi-manual-marcas-alto-renome-protocolo-madri",
+        "quanto-custa-registrar-marca-inpi-2026",
+        "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce"
+      ],
+      "backlink_source": "ai",
+      "last_processed": "2026-10-08T18:16:30.971Z"
     }
   }
 }

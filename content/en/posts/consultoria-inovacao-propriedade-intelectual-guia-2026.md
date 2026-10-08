@@ -85,8 +85,8 @@ If you want to protect your company's intangible assets, schedule a conversation
 Read also:
 
 - [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
-- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
-- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [Patents and Trademarks as Credit Collateral in Brazil: Complete Guide to Monetizing IP Assets]({{< relref "posts/patentes-marcas-garantia-credito-brasil-guia/" >}})
+- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
 ---
 

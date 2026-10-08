@@ -214,7 +214,7 @@ Read also:
 
 - [Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
 - [Patent Search at INPI: Practical Step-by-Step Guide [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
-- [How to File a Patent at INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-deposito-patente-inpi-2026/" >}})
+- [International Patent Search: Complete Guide to PATENTSCOPE, Espacenet and Google Patents [2026]]({{< relref "posts/busca-internacional-patentes-patentscope-espacenet-google-2026/" >}})
 
 ---
 

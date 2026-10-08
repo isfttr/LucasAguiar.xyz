@@ -87,8 +87,9 @@ Fees vary by provider. Under SACI-Adm, Registro.br charges depending on the numb
 
 Read also:
 
-- [How much does it cost to register a trademark at the INPI?]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Trademark prior-art search at the INPI: complete guide]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
+- [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI exhausts priority processing quotas for e-commerce trademarks — what now?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
 
 ---
 

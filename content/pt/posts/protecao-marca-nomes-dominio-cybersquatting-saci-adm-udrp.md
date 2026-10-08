@@ -86,9 +86,9 @@ Os valores variam conforme o provedor. No SACI-Adm, a cobrança é feita pelo Re
 
 Leia também:
 
-- [Quanto custa registrar uma marca no INPI em 2026? Guia completo]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Busca de anterioridade de marcas no INPI: guia completo]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
-- [Como resolver conflitos de PI sem ir ao Judiciário]({{< relref "posts/resolucao-conflitos-pi-extrajudicial-brasil-guia-2026/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [INPI esgota cotas de trâmite prioritário para marcas no comércio eletrônico — e agora?]({{< relref "posts/inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce/" >}})
 
 ---
 
