@@ -1,6 +1,6 @@
 ---
 date: 2026-08-03T14:00:00.000Z
-draft: true
+draft: false
 title: 'Geographical Indication of Cachaça in Brazil: Complete Guide for Producers [2026]'
 description: 'Complete guide to geographical indication (GI) for cachaça: difference between IP and DO, the 5 cachaça GIs registered at INPI, step-by-step registration on e-IG, costs and benefits for producers.'
 featured_image: ''
