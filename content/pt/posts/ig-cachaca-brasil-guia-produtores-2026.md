@@ -1,6 +1,6 @@
 ---
 date: 2026-08-03T11:00:00-03:00
-draft: true
+draft: false
 title: "Indicação Geográfica da Cachaça no Brasil: Guia Completo para Produtores [2026]"
 description: "Guia completo de indicação geográfica (IG) para cachaça: diferença entre IP e DO, as 5 IGs de cachaça registradas no INPI, passo a passo do registro no e-IG, custos e benefícios para produtores."
 featured_image: ""
@@ -12,7 +12,6 @@ tags:
   - agro
   - marcas
   - propriedade-intelectual
-scheduledAt: 2026-10-11T08:47:00.000Z
 ---
 A cachaça é um dos produtos brasileiros com a relação mais antiga entre reputação e território: o nome da região de produção sempre carregou significado comercial — de Paraty a Salinas, passando pelas cidades históricas de Minas e da Bahia. O que muitos produtores ainda não sabem é que essa relação pode ser transformada em um ativo de propriedade industrial registrado no INPI.
 
