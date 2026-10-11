@@ -85,8 +85,8 @@ If you want to protect your company's intangible assets, schedule a conversation
 Read also:
 
 - [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [INPI Strategic Plan 2027-2036: Complete Guide to the 7 Objectives and What Changes for Companies]({{< relref "posts/inpi-plano-estrategico-2027-2036-guia-completo/" >}})
 - [Patents and Trademarks as Credit Collateral in Brazil: Complete Guide to Monetizing IP Assets]({{< relref "posts/patentes-marcas-garantia-credito-brasil-guia/" >}})
-- [How to Check the Status of a Process at INPI: Step-by-Step Guide [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
 ---
 

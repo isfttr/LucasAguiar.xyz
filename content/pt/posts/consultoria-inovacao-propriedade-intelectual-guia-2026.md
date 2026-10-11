@@ -84,8 +84,8 @@ Se você quer proteger os ativos intangíveis da sua empresa, agende uma convers
 Leia também:
 
 - [Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [Plano Estratégico do INPI 2027-2036: Guia Completo dos 7 Objetivos e o que Muda para Empresas]({{< relref "posts/inpi-plano-estrategico-2027-2036-guia-completo/" >}})
 - [Patentes e Marcas como Garantia de Crédito no Brasil: Guia Completo de Monetização de Ativos de PI]({{< relref "posts/patentes-marcas-garantia-credito-brasil-guia/" >}})
-- [Como Consultar o Andamento de um Processo no INPI: Guia Passo a Passo [2026]]({{< relref "posts/como-consultar-andamento-processo-inpi/" >}})
 
 ---
 
