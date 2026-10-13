@@ -85,7 +85,8 @@ For producers, the central message is this: the reputation built over generation
 Read also:
 
 - [Geographical Indication at INPI: Complete Guide [2026]]({{< relref "posts/guia-indicacoes-geograficas-inpi-brasil/" >}})
-- [Types of Intellectual Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [LPI at 30 years: INPI releases report with proposals for improvement of the Industrial Property Law]({{< relref "posts/lpi-30-anos-propostas-aperfeicoamento-inpi/" >}})
 
 ---
 
