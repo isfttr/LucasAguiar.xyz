@@ -100,8 +100,8 @@ Se você mantém um site Hugo, a estrutura mapeia naturalmente para a organizaç
 Leia também:
 
 - [Estrutura de Ficheiros de Conteúdo Hugo]({{< relref "posts/hugo-content-file-structure/" >}})
-- [Classificação Internacional de Patentes (IPC): Guia Prático para Entender e Usar Códigos de Patentes no Brasil [2026]]({{< relref "posts/classificacao-internacional-patentes-ipc-guia-brasil/" >}})
-- [Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
+- [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
+- [Histórico do Git em 2026: Guia Completo para os Comandos fixup, reword e split]({{< relref "posts/mastering-git-log-history-guide-2026/" >}})
 
 ---
 

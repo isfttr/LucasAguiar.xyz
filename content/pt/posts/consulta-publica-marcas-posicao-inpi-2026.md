@@ -89,7 +89,7 @@ Leia também:
 
 - [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
-- [Como consultar a Revista da Propriedade Industrial (RPI) do INPI: guia completo]({{< relref "posts/guia-consulta-revista-propriedade-industrial-rpi-inpi/" >}})
+- [Marca Coletiva e Marca de Certificação no INPI: Guia Completo]({{< relref "posts/marca-coletiva-marca-certificacao-inpi-guia-completo/" >}})
 
 ---
 

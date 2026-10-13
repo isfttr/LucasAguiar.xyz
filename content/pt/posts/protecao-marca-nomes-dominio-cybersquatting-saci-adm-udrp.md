@@ -87,8 +87,8 @@ Os valores variam conforme o provedor. No SACI-Adm, a cobrança é feita pelo Re
 Leia também:
 
 - [Tipos de Proteção de Propriedade Intelectual no Brasil: Guia Comparativo Completo [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [Busca de Anterioridade de Marcas no INPI: Guia Completo Passo a Passo]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
-- [Quanto Tempo Demora para Registrar uma Marca no INPI? Etapas e Prazos [2026]]({{< relref "posts/quanto-tempo-demora-para-registrar-marca-inpi-2026/" >}})
 
 ---
 

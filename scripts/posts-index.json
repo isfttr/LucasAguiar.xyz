@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T12:57:37.674Z",
+  "last_updated": "2026-10-13T14:11:40.979Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1334,14 +1334,14 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "aec4aee086347ba1afe10b0f5bf1f8868582c7b8f3132a7b66e063fef42da2b4",
+      "content_hash_en": "38058270d806d6137ad76220f0db68909a92688ba87b9e4b20aabdbc814491f0",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "consulta-publica-marcas-posicao-inpi-2026",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
+        "edital-casos-sucesso-pi-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-13T12:52:02.608Z"
+      "last_processed": "2026-10-13T14:06:35.886Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1413,14 +1413,14 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "0d06713811f7f32ce380eb01ebcfa40be4c50e16b9e7955a707f90ec83cd7d38",
+      "content_hash_en": "32d57c77f1edbeffd316ab5afa588eacdd1c57b2bd189b3d10ba7e65bbed4b62",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
-        "guia-consulta-revista-propriedade-industrial-rpi-inpi"
+        "marca-coletiva-marca-certificacao-inpi-guia-completo"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-13T12:52:36.130Z"
+      "last_processed": "2026-10-13T14:07:37.272Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1948,14 +1948,14 @@
         "article"
       ],
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
-      "content_hash_en": "08714f534e53e0fdcb2206a6730228ae21559fae3028c65020b34ac8b0020a2d",
+      "content_hash_en": "335af4f62995db09e86cf59d33f8e8afbc075717d9510344eded07c18f37db75",
       "backlinks": [
         "hugo-content-file-structure",
-        "classificacao-internacional-patentes-ipc-guia-brasil",
-        "patente-software-vs-registro-programa-computador-brasil"
+        "ai-coding-agents-architectural-guide-2026",
+        "mastering-git-log-history-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-13T12:53:30.318Z"
+      "last_processed": "2026-10-13T14:08:03.089Z"
     },
     "run-70b-llm-low-vram-gpu-guide-2026": {
       "slug": "run-70b-llm-low-vram-gpu-guide-2026",
@@ -2577,14 +2577,14 @@
         "article"
       ],
       "description_en": "Grok Bot promises a team of AI agents that work 24/7 and talk to each other — but the cycle of hype, adoption by competitors, and being forgotten repeats itself.",
-      "content_hash_en": "5132b0c6f74a1491296d1e4406f945bfe33054c18d68de799d73bf0a4f745655",
+      "content_hash_en": "900b2d29b429053afc65ee9ab6150398d08d9a8c051b50bcad38ae63e4f4d47a",
       "backlinks": [
         "ai-coding-agents-architectural-guide-2026",
-        "claude-sonnet-5-2026",
-        "ai-copy-paste-problem"
+        "fable-5-vending-bench-alinhamento-ia",
+        "ai-session-portability-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-13T12:54:08.603Z"
+      "last_processed": "2026-10-13T14:08:33.227Z"
     },
     "lightweight-linux-vps-monitoring-guide-2026": {
       "slug": "lightweight-linux-vps-monitoring-guide-2026",
@@ -2868,14 +2868,14 @@
         "article"
       ],
       "description_en": "What does an innovation and intellectual property consultancy do, when to hire, how much it costs, and how to choose. Practical guide with service scope [2026].",
-      "content_hash_en": "32abd0687e964705812f0b1129c0a884690349f645bd0e0b2dd24d4de0f8124b",
+      "content_hash_en": "5eebb55c18c8dc7f61f3170ab37fbcefd1074590e79ce40511bd57cc6e85c02e",
       "backlinks": [
         "ip-protection-types-brazil-complete-guide",
-        "guia-deposito-patente-inpi-2026",
-        "quanto-custa-registrar-marca-inpi-2026"
+        "patentes-marcas-garantia-credito-brasil-guia",
+        "inpi-plano-estrategico-2027-2036-guia-completo"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-13T12:54:59.558Z"
+      "last_processed": "2026-10-13T14:09:13.974Z"
     },
     "busca-patentes-inpi-guia-pratico": {
       "slug": "busca-patentes-inpi-guia-pratico",
@@ -2944,14 +2944,14 @@
         "article"
       ],
       "description_en": "Complete guide to the International Patent Classification (IPC): structure of sections A to H, subclasses and groups, difference between IPC and CPC, how to consult patent classifications at INPI and practical examples.",
-      "content_hash_en": "4a18ca86a6128f2be43d2ebc1715bb5a4090e8fe43d005603105d4b4fd27e815",
+      "content_hash_en": "ba981217e0747dfb3b1ce0076062d69161db0666e63ca7ad357280769b6932e0",
       "backlinks": [
         "busca-patentes-inpi-guia-pratico",
         "patentes-inteligencia-artificial-brasil-guia-2026",
-        "entrada-fase-nacional-pct-brasil-guia-2026"
+        "busca-internacional-patentes-patentscope-espacenet-google-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-13T12:55:37.020Z"
+      "last_processed": "2026-10-13T14:09:38.914Z"
     },
     "entrada-fase-nacional-pct-brasil-guia-2026": {
       "slug": "entrada-fase-nacional-pct-brasil-guia-2026",
@@ -2969,14 +2969,14 @@
         "article"
       ],
       "description_en": "Complete guide on how to enter the national phase of the PCT in Brazil: deadlines, documents, costs, GRU and step-by-step procedures at INPI for foreigners to file patents in the country.",
-      "content_hash_en": "b110e9b23d02891e9a6dd688a00d9f7afc5edeb6c3e4f13e6554ac934ca2b514",
+      "content_hash_en": "55f146c304365745c9a7a9e84ddeebc798e0729367de35486e79add2ea81bb4c",
       "backlinks": [
         "mapa-global-patentes-pct-2025-brasil",
         "guia-deposito-patente-inpi-2026",
         "guia-anuidades-patentes-inpi-prazos-valores-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-13T12:56:40.364Z"
+      "last_processed": "2026-10-13T14:10:33.667Z"
     },
     "segredo-industrial-brasil-guia-completo": {
       "slug": "segredo-industrial-brasil-guia-completo",
@@ -3017,14 +3017,14 @@
         "article"
       ],
       "description_en": "Practical guide to domain name disputes: what cybersquatting is, how SACI-Adm works for .br domains and UDRP for gTLDs (.com), deadlines, costs and when to use each route to recover your trademark online.",
-      "content_hash_en": "5889c185a098b0fc32827cd4ea58b0f5e03175c3503e6fac29a865010674b28c",
+      "content_hash_en": "d9ef440544e098ed3f0d0779ff6df65480a5c5f07428b1a8b02e802d26c9ffee",
       "backlinks": [
         "ip-protection-types-brazil-complete-guide",
-        "busca-anterioridade-marcas-inpi-guia-completo",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
+        "inpi-manual-marcas-alto-renome-protocolo-madri",
+        "busca-anterioridade-marcas-inpi-guia-completo"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-13T12:57:17.128Z"
+      "last_processed": "2026-10-13T14:11:16.614Z"
     },
     "ig-cachaca-brasil-guia-produtores-2026": {
       "slug": "ig-cachaca-brasil-guia-produtores-2026",
@@ -3041,14 +3041,14 @@
         "article"
       ],
       "description_en": "Complete guide to geographical indication (GI) for cachaça: difference between IP and DO, the 5 cachaça GIs registered at INPI, step-by-step registration on e-IG, costs and benefits for producers.",
-      "content_hash_en": "3b4786f57038b776f29937087ae296f617a63fbecf0e97831493b69053b239e9",
+      "content_hash_en": "389b32dfa00df2dbab8de745e33abd807e303fae99029eddba2cda65759cba8a",
       "backlinks": [
         "guia-indicacoes-geograficas-inpi-brasil",
         "ip-protection-types-brazil-complete-guide",
-        "lpi-30-anos-propostas-aperfeicoamento-inpi"
+        "como-consultar-andamento-processo-inpi"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-13T12:57:37.674Z"
+      "last_processed": "2026-10-13T14:11:40.979Z"
     }
   }
 }

@@ -88,8 +88,8 @@ Fees vary by provider. Under SACI-Adm, Registro.br charges depending on the numb
 Read also:
 
 - [Types of Intellectual Property Protection in Brazil: Complete Comparative Guide [2026]]({{< relref "posts/ip-protection-types-brazil-complete-guide/" >}})
+- [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [Trademark Prior Art Search at INPI: Complete Step-by-Step Guide]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
-- [How Long Does It Take to Register a Trademark with INPI? Stages and Deadlines [2026]]({{< relref "posts/quanto-tempo-demora-para-registrar-marca-inpi-2026/" >}})
 
 ---
 

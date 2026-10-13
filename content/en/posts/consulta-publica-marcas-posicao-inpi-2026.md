@@ -90,7 +90,7 @@ Read also:
 
 - [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 - [Patentes de segundo uso médico no Brasil: INPI divulga resultado final das novas diretrizes de exame]({{< relref "posts/inpi-diretrizes-segundo-uso-medico-patentes-quimica/" >}})
-- [Como consultar a Revista da Propriedade Industrial (RPI) do INPI: guia completo]({{< relref "posts/guia-consulta-revista-propriedade-industrial-rpi-inpi/" >}})
+- [Collective Trademark and Certification Mark at INPI: Complete Guide]({{< relref "posts/marca-coletiva-marca-certificacao-inpi-guia-completo/" >}})
 
 ---
 
