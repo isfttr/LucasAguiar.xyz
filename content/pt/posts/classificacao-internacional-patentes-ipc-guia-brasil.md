@@ -211,8 +211,8 @@ Com a retomada do trâmite prioritário para H04 e a explosão de patentes de IA
 Leia também:
 
 - [Busca de Patentes no INPI: Guia Prático Passo a Passo [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
+- [Guia de Pesquisa Internacional de Patentes: PATENTSCOPE, Espacenet e Google Patents [2026]]({{< relref "posts/international-patent-search-patentscope-espacenet-google-2026/" >}})
 - [Patentes de Inteligência Artificial no Brasil: Guia Completo sobre Proteção de Invenções de IA [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
-- [Busca Internacional de Patentes: Guia Completo de PATENTSCOPE, Espacenet e Google Patentes [2026]]({{< relref "posts/busca-internacional-patentes-patentscope-espacenet-google-2026/" >}})
 
 ---
 

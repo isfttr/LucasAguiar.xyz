@@ -213,8 +213,8 @@ With the resumption of priority processing for H04 and the explosion of generati
 Read also:
 
 - [Patent Search at INPI: Practical Step-by-Step Guide [2026]]({{< relref "posts/busca-patentes-inpi-guia-pratico/" >}})
+- [International Patent Search Guide: PATENTSCOPE, Espacenet, and Google Patents [2026]]({{< relref "posts/international-patent-search-patentscope-espacenet-google-2026/" >}})
 - [Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI Inventions [2026]]({{< relref "posts/patentes-inteligencia-artificial-brasil-guia-2026/" >}})
-- [International Patent Search: Complete Guide to PATENTSCOPE, Espacenet and Google Patents [2026]]({{< relref "posts/busca-internacional-patentes-patentscope-espacenet-google-2026/" >}})
 
 ---
 
