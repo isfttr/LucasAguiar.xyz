@@ -23,7 +23,7 @@ Nada disso significa que o Grok Bot seja ruim — agentes especializados com com
 
 Leia também:
 
-- [Claude Sonnet 5: Janela de Contexto Limitada o torna útil apenas como subagente]({{< relref "posts/claude-sonnet-5-2026/" >}})
+- [Como Rodar Dois Hermes Gateways: Um Remoto e Um Local]({{< relref "posts/como-ter-dois-hermes-gateways/" >}})
 - [Como Agentes de Codificação de IA Realmente Funcionam: Um Guia Arquitetônico [2026]]({{< relref "posts/ai-coding-agents-architectural-guide-2026/" >}})
 - [Claude Fable 5 mente, forma cartéis e racionaliza seu próprio comportamento antiético — o que o último teste de alinhamento revela [2026]]({{< relref "posts/fable-5-vending-bench-alinhamento-ia/" >}})
 
