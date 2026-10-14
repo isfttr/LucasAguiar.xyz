@@ -1,6 +1,6 @@
 ---
 date: 2026-09-08T14:00:00.000Z
-draft: true
+draft: false
 title: 'Acquired Distinctiveness of Trademarks at INPI: How to Prove Secondary Meaning (Complete Guide)'
 description: 'Guide to acquired distinctiveness (secondary meaning) at INPI: when to request examination, procedural windows, service 3021, and evidence accepted in the examination.'
 featured_image: ''
