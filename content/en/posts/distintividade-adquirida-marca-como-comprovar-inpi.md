@@ -82,8 +82,9 @@ Acquired distinctiveness is neither a shortcut nor a guarantee: it is a legal in
 
 Read also:
 
-- [How Much Does It Cost to Register a Trademark with the INPI in 2026? Complete Fee Table]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [How Long Does It Take to Register a Trademark with the INPI? Stages and Deadlines]({{< relref "posts/quanto-tempo-demora-para-registrar-marca-inpi-2026/" >}})
+- [How Much Does It Cost To Register a Trademark at INPI in 2026? [Complete Table]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [How Long Does It Take to Register a Trademark with INPI? Stages and Deadlines [2026]]({{< relref "posts/quanto-tempo-demora-para-registrar-marca-inpi-2026/" >}})
+- [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 
 ---
 

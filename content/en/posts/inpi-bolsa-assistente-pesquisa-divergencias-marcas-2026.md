@@ -57,9 +57,9 @@ The research will be linked to CGREC, the unit responsible for appeals and nulli
 
 Read also:
 
-- [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [INPI launches call for proposals to select Intellectual Property success stories [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
+- [Acquired Distinctiveness of Trademarks at INPI: How to Prove Secondary Meaning (Complete Guide)]({{< relref "posts/distintividade-adquirida-marca-como-comprovar-inpi/" >}})
 - [INPI opens public consultation on position marks [2026]: new rules and how to participate]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
-- [How Long Does It Take to Register a Trademark with INPI? Stages and Deadlines [2026]]({{< relref "posts/quanto-tempo-demora-para-registrar-marca-inpi-2026/" >}})
 
 ---
 

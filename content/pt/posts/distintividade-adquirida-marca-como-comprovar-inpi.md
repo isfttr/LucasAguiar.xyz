@@ -80,8 +80,9 @@ Distintividade adquirida não é atalho nem garantia: é um instituto com proced
 
 Leia também:
 
-- [Quanto Custa Registrar uma Marca no INPI em 2026? Tabela Completa]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
-- [Quanto Tempo Demora para Registrar uma Marca no INPI? Etapas e Prazos]({{< relref "posts/quanto-tempo-demora-para-registrar-marca-inpi-2026/" >}})
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [Quanto Tempo Demora para Registrar uma Marca no INPI? Etapas e Prazos [2026]]({{< relref "posts/quanto-tempo-demora-para-registrar-marca-inpi-2026/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
 
 ---
 

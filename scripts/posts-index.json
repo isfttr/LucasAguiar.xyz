@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T11:55:42.990Z",
+  "last_updated": "2026-10-14T12:33:46.264Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -1334,14 +1334,14 @@
         "article"
       ],
       "description_en": "INPI's PDPI Notice offers a grant of R$ 6,000/month for 12 months for research on divergences between first and second instance decisions in trademark matters. Applications until July 24.",
-      "content_hash_en": "3248ee2d0bcca42d33a26e5de8c1b5161366e82282eec6dc2ee2843256b7ee8a",
+      "content_hash_en": "38058270d806d6137ad76220f0db68909a92688ba87b9e4b20aabdbc814491f0",
       "backlinks": [
-        "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "consulta-publica-marcas-posicao-inpi-2026",
-        "quanto-tempo-demora-para-registrar-marca-inpi-2026"
+        "edital-casos-sucesso-pi-inpi-2026",
+        "distintividade-adquirida-marca-como-comprovar-inpi",
+        "consulta-publica-marcas-posicao-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-14T11:52:55.673Z"
+      "last_processed": "2026-10-14T12:28:52.576Z"
     },
     "pnirs-programa-nacional-inovacao-radical-saude-2026": {
       "slug": "pnirs-programa-nacional-inovacao-radical-saude-2026",
@@ -1413,14 +1413,14 @@
         "article"
       ],
       "description_en": "Participate in INPI Public Consultation No. 01/2026 on position marks. Deadline until 24/7. Understand the new registrability criteria, the drafts of the normative act and the examination guidelines.",
-      "content_hash_en": "b11af8a8d229588e8314951808ab45ca68abb296a5dc784b3b6f8febdc4b6e0f",
+      "content_hash_en": "2a9b6794865b80e4e58c857d612fd57c1f34d51ca778f6e4099105b183f238a6",
       "backlinks": [
-        "inpi-diretrizes-segundo-uso-medico-patentes-quimica",
         "inpi-manual-marcas-alto-renome-protocolo-madri",
-        "lpi-30-anos-propostas-aperfeicoamento-inpi"
+        "distintividade-adquirida-marca-como-comprovar-inpi",
+        "inpi-diretrizes-segundo-uso-medico-patentes-quimica"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-14T11:53:24.004Z"
+      "last_processed": "2026-10-14T12:29:31.371Z"
     },
     "gitlost-github-agentic-workflows-prompt-injection-2026": {
       "slug": "gitlost-github-agentic-workflows-prompt-injection-2026",
@@ -1948,14 +1948,14 @@
         "article"
       ],
       "description_en": "Diátaxis framework explained: the 4 types of technical documentation (tutorials, how-to guides, reference, explanation) and how to organize docs users actually find. Practical guide.",
-      "content_hash_en": "ec4a3e808db8d761e5d51708555d0b53f339f6dadb2bee220398cd7a50986afc",
+      "content_hash_en": "f1b29cd403656424ebd788da33a4344590a9373f8387566742694764f6cdb526",
       "backlinks": [
         "hugo-content-file-structure",
         "ai-coding-agents-architectural-guide-2026",
-        "mastering-git-log-history-guide-2026"
+        "one-week-review-gitbutler"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-14T11:54:04.434Z"
+      "last_processed": "2026-10-14T12:30:14.018Z"
     },
     "run-70b-llm-low-vram-gpu-guide-2026": {
       "slug": "run-70b-llm-low-vram-gpu-guide-2026",
@@ -2577,14 +2577,14 @@
         "article"
       ],
       "description_en": "Grok Bot promises a team of AI agents that work 24/7 and talk to each other — but the cycle of hype, adoption by competitors, and being forgotten repeats itself.",
-      "content_hash_en": "40dc963274b2e8ad8ee28e8216af6af5c49d151e56575857094e082756cf715b",
+      "content_hash_en": "a14b1171a383ac0e7f4373a4602e2caaf0b663e8159c831c8d10e35ccb599b29",
       "backlinks": [
-        "como-ter-dois-hermes-gateways",
+        "claude-sonnet-5-2026",
         "ai-coding-agents-architectural-guide-2026",
-        "fable-5-vending-bench-alinhamento-ia"
+        "ai-session-portability-guide-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-14T11:54:30.708Z"
+      "last_processed": "2026-10-14T12:31:47.939Z"
     },
     "lightweight-linux-vps-monitoring-guide-2026": {
       "slug": "lightweight-linux-vps-monitoring-guide-2026",
@@ -2944,14 +2944,14 @@
         "article"
       ],
       "description_en": "Complete guide to the International Patent Classification (IPC): structure of sections A to H, subclasses and groups, difference between IPC and CPC, how to consult patent classifications at INPI and practical examples.",
-      "content_hash_en": "a9b3447fc1980e2cc1f702357f9f807c50ead52cc761f3f247033e4b6bd8d3da",
+      "content_hash_en": "6b3de5ec24bb0ba22f505c131c3240b7bcfcec9b63deca64e47ad4c872ec8683",
       "backlinks": [
         "busca-patentes-inpi-guia-pratico",
-        "patentes-inteligencia-artificial-brasil-guia-2026",
-        "international-patent-search-patentscope-espacenet-google-2026"
+        "international-patent-search-patentscope-espacenet-google-2026",
+        "patentes-inteligencia-artificial-brasil-guia-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-14T11:55:05.701Z"
+      "last_processed": "2026-10-14T12:32:16.628Z"
     },
     "entrada-fase-nacional-pct-brasil-guia-2026": {
       "slug": "entrada-fase-nacional-pct-brasil-guia-2026",
@@ -3017,14 +3017,14 @@
         "article"
       ],
       "description_en": "Practical guide to domain name disputes: what cybersquatting is, how SACI-Adm works for .br domains and UDRP for gTLDs (.com), deadlines, costs and when to use each route to recover your trademark online.",
-      "content_hash_en": "774b1e7f456963f52f0767a54515f784963e136cc804a75c845ada36ce3ab1a0",
+      "content_hash_en": "95138d48089480a7a522f462fbfbb174c068e71470a4d0c66d25d279ee3390bb",
       "backlinks": [
-        "inpi-manual-marcas-alto-renome-protocolo-madri",
         "ip-protection-types-brazil-complete-guide",
-        "busca-anterioridade-marcas-inpi-guia-completo"
+        "inpi-manual-marcas-alto-renome-protocolo-madri",
+        "quanto-custa-registrar-marca-inpi-2026"
       ],
       "backlink_source": "ai",
-      "last_processed": "2026-10-14T11:55:42.990Z"
+      "last_processed": "2026-10-14T12:33:46.264Z"
     },
     "ig-cachaca-brasil-guia-produtores-2026": {
       "slug": "ig-cachaca-brasil-guia-produtores-2026",
@@ -3049,6 +3049,29 @@
       ],
       "backlink_source": "ai",
       "last_processed": "2026-10-13T18:07:22.437Z"
+    },
+    "distintividade-adquirida-marca-como-comprovar-inpi": {
+      "slug": "distintividade-adquirida-marca-como-comprovar-inpi",
+      "title_en": "Acquired Distinctiveness of Trademarks at INPI: How to Prove Secondary Meaning (Complete Guide)",
+      "title_pt": "Distintividade Adquirida de Marca no INPI: Como Comprovar o Secondary Meaning (Guia Completo)",
+      "tags": [
+        "marcas",
+        "inpi",
+        "propriedade-intelectual",
+        "distintividade-adquirida"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guide to acquired distinctiveness (secondary meaning) at INPI: when to request examination, procedural windows, service 3021, and evidence accepted in the examination.",
+      "content_hash_en": "148cf30b3d2539e1865dec276eea94b2740578935524c198ce9afa1438ce809f",
+      "backlinks": [
+        "quanto-custa-registrar-marca-inpi-2026",
+        "quanto-tempo-demora-para-registrar-marca-inpi-2026",
+        "inpi-manual-marcas-alto-renome-protocolo-madri"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
     }
   }
 }
