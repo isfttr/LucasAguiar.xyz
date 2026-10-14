@@ -1,8 +1,8 @@
 ---
 date: 2026-10-14T09:27:11-03:00
-draft: true
+draft: false
 title: "Engenharia reversa e direitos autorais em software: a linha entre copiar a função e copiar o código [2026]"
-description: "Emuladores de videogame e alternativas abertas ao Adobe, como o ArtCraft, reimplementam funções protegidas? Entenda a fronteira legal entre ideia, funcionalidade e expressão no direito autoral de software."
+description: Emuladores de videogame e alternativas abertas ao Adobe, como o ArtCraft, reimplementam funções protegidas? Entenda a fronteira legal entre ideia, funcionalidade e expressão no direito autoral de software.
 featured_image: ""
 categories:
   - article
@@ -13,7 +13,6 @@ tags:
   - emuladores
   - propriedade-intelectual
 ---
-
 Software é protegido pelo direito autoral, mas essa proteção recai sobre a **expressão** do código — não sobre a ideia, o método ou a função que o programa executa. Emuladores de videogame e projetos abertos que reimplementam o Adobe Creative Cloud, como o **ArtCraft**, vivem exatamente nessa fronteira: eles copiam o que o software *faz*, sem copiar o código que o faz. Este artigo explica onde está essa linha, por que ela resiste há décadas nos tribunais e onde os riscos reais aparecem — do PlayStation aos casos recentes de emuladores e jailbreak.
 
 ## O que o direito autoral protege (e o que não protege) em software
@@ -49,7 +48,20 @@ O caso mais emblemático dos últimos anos não foi da Sony, mas da Nintendo, e 
 
 O [ArtCraft](https://github.com/storytold/artcraft) (projeto open-source, ~27 mil estrelas, escrito em Rust) leva essa discussão para o mundo dos aplicativos criativos. A proposta é uma suíte de **13 aplicativos nativos e abertos** que espelham, um a um, os nomes e as funções dos líderes de mercado ([catálogo](https://www.getartcraft.com/apps)):
 
-- **PhotoCraft** (Photoshop), **VectorCraft** (Illustrator), **FilmCraft** (Premiere), **LightCraft** (Lightroom), **EffectCraft** (After Effects), **DesignCraft** (InDesign), **PdfCraft** (Acrobat), **FigCraft** (Figma), **WordCraft** (Word), **SoundCraft** (Audition), **DeckCraft** (PowerPoint), **CADCraft** (CAD) e **GridCraft** (Excel).
+- **PhotoCraft** (Photoshop), 
+- **VectorCraft** (Illustrator), 
+- **DesignCraft** (InDesign),
+- **LightCraft** (Lightroom), 
+- **FilmCraft** (Premiere), 
+- **EffectCraft** (After Effects), 
+- **SoundCraft** (Audition), 
+- **FigCraft** (Figma), 
+- **PdfCraft** (Acrobat), 
+- **WordCraft** (Word), 
+- **GridCraft** (Excel),
+- **DeckCraft** (PowerPoint) e
+- **CADCraft** (CAD).
+
 
 À primeira vista, parece uma "cópia do Adobe". Juridicamente, não — e é exatamente esse o ponto. Cada app é uma **reimplementação limpa** (clean-room) da *funcionalidade*, não uma cópia do código, dos ícones ou das marca registradas. Ele ocupa o mesmo nicho de GIMP, Inkscape, LibreOffice e Penpot: a concorrência aberta por **função**, sem assinatura nem bloqueio.
 
