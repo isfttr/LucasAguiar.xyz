@@ -55,9 +55,9 @@ A pesquisa será vinculada à CGREC, unidade responsável por recursos e process
 
 Leia também:
 
-- [INPI lança edital para selecionar casos de sucesso em Propriedade Intelectual [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
 - [Distintividade Adquirida de Marca no INPI: Como Comprovar o Secondary Meaning (Guia Completo)]({{< relref "posts/distintividade-adquirida-marca-como-comprovar-inpi/" >}})
 - [INPI abre consulta pública sobre marcas de posição [2026]: novas regras e como participar]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
+- [INPI lança edital para selecionar casos de sucesso em Propriedade Intelectual [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
 
 ---
 

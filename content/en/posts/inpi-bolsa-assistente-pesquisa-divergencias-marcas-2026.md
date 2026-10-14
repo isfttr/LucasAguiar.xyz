@@ -57,9 +57,9 @@ The research will be linked to CGREC, the unit responsible for appeals and nulli
 
 Read also:
 
-- [INPI launches call for proposals to select Intellectual Property success stories [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
 - [Acquired Distinctiveness of Trademarks at INPI: How to Prove Secondary Meaning (Complete Guide)]({{< relref "posts/distintividade-adquirida-marca-como-comprovar-inpi/" >}})
 - [INPI opens public consultation on position marks [2026]: new rules and how to participate]({{< relref "posts/consulta-publica-marcas-posicao-inpi-2026/" >}})
+- [INPI launches call for proposals to select Intellectual Property success stories [2026]]({{< relref "posts/edital-casos-sucesso-pi-inpi-2026/" >}})
 
 ---
 
