@@ -1,6 +1,6 @@
 ---
 date: 2026-09-08T11:00:00-03:00
-draft: true
+draft: false
 title: "Distintividade Adquirida de Marca no INPI: Como Comprovar o Secondary Meaning (Guia Completo)"
 description: "Guia de distintividade adquirida (secondary meaning) no INPI: quando pedir a análise, janelas processuais, serviço 3021 e provas aceitas no exame."
 featured_image: ""
@@ -11,7 +11,6 @@ tags:
   - inpi
   - propriedade-intelectual
   - distintividade-adquirida
-scheduledAt: 2026-10-14T11:52:00.000Z
 ---
 Registrar uma marca que descreve o próprio produto — ou que nasceu como termo comum do mercado — parece impossível à primeira vista, e de fato o INPI indefere sinais sem distintividade inerente. Mas existe um caminho reconhecido em lei, em portaria e no Manual de Marcas: a **distintividade adquirida** (ou *secondary meaning*). Quando o uso consolidado faz o público passar a enxergar o sinal como marca, o INPI pode conceder o registro.
 
