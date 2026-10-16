@@ -1,6 +1,6 @@
 ---
 date: 2026-10-13T11:04:15-03:00
-draft: true
+draft: false
 title: "Cenário Econômico da PI no Brasil: o Relatório do INPI e as Projeções até 2030"
 description: "Guia do relatório semestral Cenário Econômico da PI no Brasil do INPI: o que ele mede, como usa o Relatório Focus do BCB e as projeções de patentes, marcas, desenhos industriais e softwares até 2030."
 featured_image: ""
@@ -15,7 +15,6 @@ tags:
   - dados
   - politica-industrial
 ---
-
 O INPI publica desde 2026 um relatório semestral chamado **Cenário Econômico da PI no Brasil**, que cruza a conjuntura macroeconômica brasileira com a dinâmica de depósitos e concessões de direitos de propriedade industrial. A 2ª edição, de outubro/2026, traz pela primeira vez projeções de demanda por ativos de PI até 2030 — um material útil para quem precisa planejar estratégia de marcas, patentes e software no Brasil.
 
 Este guia explica o que o relatório mede, qual a metodologia por trás das projeções e, principalmente, o que os números indicam para quem decide depositar ou registrar ativos de PI no INPI nos próximos anos.
