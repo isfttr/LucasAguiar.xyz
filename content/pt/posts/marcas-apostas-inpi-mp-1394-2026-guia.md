@@ -2,7 +2,7 @@
 date: 2026-10-15T11:05:14-03:00
 draft: true
 title: "Marcas de apostas esportivas no INPI: o que muda com a MP 1.394/2026"
-description: "Guia sobre o tratamento de pedidos de marca de apostas (bets) no INPI após a MP 1.394/2026, que proibiu as apostas de quota fixa. O que a revisão do Manual de Marcas muda para você."
+description: Guia sobre o tratamento de pedidos de marca de apostas (bets) no INPI após a MP 1.394/2026, que proibiu as apostas de quota fixa. O que a revisão do Manual de Marcas muda para você.
 featured_image: ""
 categories:
   - article
@@ -12,8 +12,8 @@ tags:
   - apostas
   - regulacao
   - propriedade-intelectual
+scheduledAt: 2026-10-17T13:47:00.971Z
 ---
-
 É possível registrar uma marca de casa de apostas (bet) no INPI? Essa é uma pergunta que operadores, agências e investidores fizeram com frequência desde a regulamentação das apostas de quota fixa no Brasil — e a resposta acabou de mudar de cenário com a Medida Provisória nº 1.394/2026, que proíbe a exploração, a oferta, a intermediação e a publicidade dessas loterias em todo o território nacional.
 
 Este guia explica o que a MP muda para quem tem, ou pretendia ter, uma marca ligada a apostas esportivas registrada no INPI, e o que o próprio INPI já anunciou sobre o exame desses pedidos.
