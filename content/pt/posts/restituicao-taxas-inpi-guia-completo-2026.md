@@ -12,8 +12,8 @@ tags:
   - propriedade-intelectual
   - patentes
   - marcas
+scheduledAt: 2026-10-19T13:47:00.000Z
 ---
-
 Pagar uma taxa errada ao INPI é mais comum do que parece: código de GRU incorreto, valor recolhido a maior, pagamento em duplicidade ou um depósito que nunca virou petição. A boa notícia é que o INPI devolve esses valores — desde que o pedido de restituição seja feito dentro das regras da [Resolução INPI nº 204/2017](https://www.gov.br/inpi/pt-br/servicos/marcas/arquivos/legislacao/RES_204_2017.pdf).
 
 Este guia cobre os casos em que cabe restituição, o passo a passo completo do peticionamento eletrônico, os documentos exigidos, os prazos e o que fazer quando o processo sofre exigência ou é indeferido.
