@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T14:09:42.763Z",
+  "last_updated": "2026-10-16T22:46:46.107Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3059,6 +3059,56 @@
         "quanto-custa-registrar-marca-inpi-2026",
         "quanto-tempo-demora-para-registrar-marca-inpi-2026",
         "inpi-manual-marcas-alto-renome-protocolo-madri"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "cenario-economico-pi-inpi-projecoes-2026-2030-guia": {
+      "slug": "cenario-economico-pi-inpi-projecoes-2026-2030-guia",
+      "title_en": "Economic Landscape of IP in Brazil: the INPI Report and Projections until 2030",
+      "title_pt": "Cenário Econômico da PI no Brasil: o Relatório do INPI e as Projeções até 2030",
+      "tags": [
+        "inpi",
+        "patentes",
+        "marcas",
+        "programas-de-computador",
+        "propriedade-intelectual",
+        "dados",
+        "politica-industrial"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guide to INPI's Semi-Annual Economic Scenario of IP in Brazil report: what it measures, how it uses the BCB Focus Report, and projections for patents, trademarks, industrial designs, and software until 2030.",
+      "content_hash_en": "a42a16ee212c950f66ad3b9b76ee78a71f59222431f554df5c8c82ba568dff67",
+      "backlinks": [
+        "inpi-manual-marcas-alto-renome-protocolo-madri",
+        "inpi-credenciamento-busca-anterioridade-patentes",
+        "patente-software-vs-registro-programa-computador-brasil"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "engenharia-reversa-direitos-autorais-software-2026": {
+      "slug": "engenharia-reversa-direitos-autorais-software-2026",
+      "title_en": "Reverse engineering and software copyright: the line between copying the function and copying the code [2026]",
+      "title_pt": "Engenharia reversa e direitos autorais em software: a linha entre copiar a função e copiar o código [2026]",
+      "tags": [
+        "engenharia-reversa",
+        "direito-autoral",
+        "software",
+        "emuladores",
+        "propriedade-intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Video game emulators and open alternatives to Adobe, like ArtCraft, reimplement protected functions? Understand the legal boundary between idea, functionality, and expression in software copyright law.",
+      "content_hash_en": "9800f2553a92f49e67706e3c80d38dc171550b87b28860c28e339d24d6313ef7",
+      "backlinks": [
+        "guia-registro-programa-computador-inpi",
+        "patente-software-vs-registro-programa-computador-brasil",
+        "pi-em-questao-direito-autoral-inteligencia-artificial-inpi"
       ],
       "backlink_source": "file",
       "last_processed": null

@@ -73,9 +73,9 @@ To delve deeper into the registration and formal protection of software, see our
 
 Read also:
 
-- [How to Register a Computer Program with the INPI: Complete Guide]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
-- [Software Patent vs. Computer Program Registration in Brazil]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
-- [Copyright in the AI era: INPI gathers international experts]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
+- [How to Register a Computer Program at the INPI: Complete Step-by-Step Guide [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
+- [Software Patent vs Computer Program Registration in Brazil: What's the Difference? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
+- [Copyright in the AI era: INPI brings together international experts to debate the challenges of artificial intelligence]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
 
 ---
 

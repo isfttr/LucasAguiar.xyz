@@ -82,8 +82,9 @@ O relatório é semestral, então o ideal é monitorá-lo duas vezes por ano. A 
 
 Leia também:
 
-- [Patentes e Marcas como Garantia de Crédito no Brasil: Guia Completo de Monetização de Ativos de PI]({{< relref "posts/patentes-marcas-garantia-credito-brasil-guia/" >}})
-- [Patentes de IA Generativa no Mundo: Panorama Completo com os Dados WIPO [2026]]({{< relref "posts/patentes-ia-generativa-panorama-wipo-2026/" >}})
+- [INPI atualiza Manual de Marcas: novas regras para Alto Renome e adesão ao Protocolo de Madri]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [INPI vai pagar R$ 1.025 por busca de patentes: guia de credenciamento [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
 
 ---
 

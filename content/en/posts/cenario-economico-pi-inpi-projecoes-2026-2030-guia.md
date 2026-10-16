@@ -87,6 +87,12 @@ Read also:
 -   [Patentes e Marcas como Garantia de Crédito no Brasil: Guia Completo de Monetização de Ativos de PI]({{< relref "posts/patentes-marcas-garantia-credito-brasil-guia/" >}})
 -   [Patentes de IA Generativa no Mundo: Panorama Completo com os Dados WIPO [2026]]({{< relref "posts/patentes-ia-generativa-panorama-wipo-2026/" >}})
 
+Read also:
+
+- [INPI updates Trademark Manual: new rules for High Renown and accession to the Madrid Protocol]({{< relref "posts/inpi-manual-marcas-alto-renome-protocolo-madri/" >}})
+- [INPI will pay R$ 1.025 for patent search: accreditation guide [2026]]({{< relref "posts/inpi-credenciamento-busca-anterioridade-patentes/" >}})
+- [Software Patent vs Computer Program Registration in Brazil: What's the Difference? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
+
 ---
 
 You can get in touch to discuss this and other topics at <contact@lucasaguiar.xyz>

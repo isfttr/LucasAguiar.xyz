@@ -84,9 +84,9 @@ Para se aprofundar no lado do registro e da proteção formal do software, veja 
 
 Leia também:
 
-- [Como Registrar um Programa de Computador no INPI: Guia Completo]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
-- [Patente de Software vs Registro de Programa de Computador no Brasil]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
-- [Direito autoral na era da IA: INPI reúne especialistas internacionais]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
+- [Como Registrar um Programa de Computador no INPI: Guia Completo Passo a Passo [2026]]({{< relref "posts/guia-registro-programa-computador-inpi/" >}})
+- [Patente de Software vs Registro de Programa de Computador no Brasil: Qual a Diferença? [2026]]({{< relref "posts/patente-software-vs-registro-programa-computador-brasil/" >}})
+- [Direito autoral na era da IA: INPI reúne especialistas internacionais para debater os desafios da inteligência artificial]({{< relref "posts/pi-em-questao-direito-autoral-inteligencia-artificial-inpi/" >}})
 
 ---
 
