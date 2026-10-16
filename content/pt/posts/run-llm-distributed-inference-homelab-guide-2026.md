@@ -1,9 +1,9 @@
 ---
 date: 2026-10-13T18:02:29.000Z
 draft: true
-title: 'Executar LLMs em Múltiplas Máquinas: Guia de Inferência Distribuída para o Seu Homelab [2026]'
-description: 'Como executar um modelo de linguagem grande em várias máquinas ao mesmo tempo: fragmentação de pesos, llama.cpp RPC, MLX, vLLM e as lições da pesquisa Minions da Apple.'
-featured_image: ''
+title: "Executar LLMs em Múltiplas Máquinas: Guia de Inferência Distribuída para o Seu Homelab [2026]"
+description: "Como executar um modelo de linguagem grande em várias máquinas ao mesmo tempo: fragmentação de pesos, llama.cpp RPC, MLX, vLLM e as lições da pesquisa Minions da Apple."
+featured_image: ""
 categories:
   - article
 tags:
@@ -14,11 +14,8 @@ tags:
   - machine-learning
 slug: llms-inferencia-distribuida-homelab
 translation_source_hash: b156b6117c8b880734df131cb4acbd1fadd45e982f4bba00f5bea933b998365c
+scheduledAt: 2026-10-21T13:52:00.000Z
 ---
-Você tem vários computadores em casa, cada um com uma GPU modesta ou muita RAM, e nenhum deles sozinho pode acomodar o modelo que você deseja executar. A inferência distribuída permite que você agrupe essas máquinas em uma única GPU virtual para que os pesos do modelo sejam espalhados por todas elas. Este guia explica como isso funciona, quais ferramentas realmente o suportam hoje e por que a rede — e não as GPUs — é geralmente o verdadeiro gargalo.
-
-## Por que distribuir a inferência
-
 Um modelo de 70 bilhões de parâmetros precisa de aproximadamente 140 GB de pesos em FP16. Nenhuma GPU de consumidor única se encaixa nisso. A resposta usual é comprar uma placa maior ou alugar GPUs na nuvem — ambos caros. Mas a maioria dos homelabs e pequenas equipes já possui vários dispositivos com capacidade de computação ociosa: um Mac mini, uma workstation antiga com uma GPU de 12 GB, um PC de jogos sobressalente. A inferência distribuída trata essa coleção como um único pool.
 
 Existem duas razões para fazer isso:
