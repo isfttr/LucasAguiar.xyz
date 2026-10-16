@@ -1,9 +1,9 @@
 ---
 date: 2026-10-08T18:04:34.000Z
-draft: true
+draft: false
 title: Como Transformar Uma Tela Antiga Em Um Painel Residencial ou Sinal Digital [2026]
 description: Guia passo a passo para reutilizar um monitor, tablet ou laptop antigo em um painel doméstico ou sinal digital com Home Assistant, Netdata, Glances e navegadores em modo quiosque. Barato, sempre atualizado, auto-hospedado.
-featured_image: ''
+featured_image: ""
 categories:
   - article
 tags:
