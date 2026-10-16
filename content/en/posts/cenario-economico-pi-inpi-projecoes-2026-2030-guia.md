@@ -1,6 +1,6 @@
 ---
 date: 2026-10-13T14:04:15.000Z
-draft: true
+draft: false
 title: 'Economic Landscape of IP in Brazil: the INPI Report and Projections until 2030'
 description: 'Guide to INPI''s Semi-Annual Economic Scenario of IP in Brazil report: what it measures, how it uses the BCB Focus Report, and projections for patents, trademarks, industrial designs, and software until 2030.'
 featured_image: ''

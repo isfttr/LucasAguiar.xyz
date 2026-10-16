@@ -1,6 +1,6 @@
 ---
 date: 2026-10-14T12:27:11.000Z
-draft: true
+draft: false
 title: 'Reverse engineering and software copyright: the line between copying the function and copying the code [2026]'
 description: Video game emulators and open alternatives to Adobe, like ArtCraft, reimplement protected functions? Understand the legal boundary between idea, functionality, and expression in software copyright law.
 featured_image: ''
