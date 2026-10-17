@@ -1,9 +1,9 @@
 ---
-date: 2026-10-16T19:29:26-03:00
-draft: true
-title: "When the patent solves nothing: Tesla's 'flying' Roadster paradox and the culture of the endless announcement"
-description: "The new Tesla Roadster uses cold-gas rocket thrusters but solves no real problem and has no patent strategy behind it. An analysis of Musk's vaporware pattern: Cybertruck, Hyperloop, Cybercab and the Vegas tunnel."
-featured_image: ""
+date: 2026-10-16T22:29:26.000Z
+draft: false
+title: 'When the patent solves nothing: Tesla''s ''flying'' Roadster paradox and the culture of the endless announcement'
+description: 'The new Tesla Roadster uses cold-gas rocket thrusters but solves no real problem and has no patent strategy behind it. An analysis of Musk''s vaporware pattern: Cybertruck, Hyperloop, Cybercab and the Vegas tunnel.'
+featured_image: ''
 categories:
   - article
 tags:
@@ -12,6 +12,7 @@ tags:
   - innovation
   - intellectual-property
   - automotive-industry
+translation_source_hash: 81b74427beea9953dd724696ff5b574ebd0f32ab7c5ad142815fe2e0a105293c
 ---
 
 On October 15, 2026, Tesla unveiled the new Roadster at an outdoor event near SpaceX's McGregor test site in Texas. The car flips in mid-air, jumps over a line of vehicles and brakes on the ground with jets. The promise: three versions, 0 to 100 km/h in under a second, and production "for real" in 2028 — nine years after the project was first shown in 2017. The centerpiece is the rocket-style system Tesla calls **cold gas thrusters**, technology borrowed directly from spacecraft attitude control.
