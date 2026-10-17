@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T22:46:46.107Z",
+  "last_updated": "2026-10-17T01:33:01.311Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3080,7 +3080,7 @@
         "article"
       ],
       "description_en": "Guide to INPI's Semi-Annual Economic Scenario of IP in Brazil report: what it measures, how it uses the BCB Focus Report, and projections for patents, trademarks, industrial designs, and software until 2030.",
-      "content_hash_en": "a42a16ee212c950f66ad3b9b76ee78a71f59222431f554df5c8c82ba568dff67",
+      "content_hash_en": "b2ea68d98b041dc18237e6976c318e38699250db06998ceff4501cef0b1afe21",
       "backlinks": [
         "inpi-manual-marcas-alto-renome-protocolo-madri",
         "inpi-credenciamento-busca-anterioridade-patentes",
@@ -3104,7 +3104,7 @@
         "article"
       ],
       "description_en": "Video game emulators and open alternatives to Adobe, like ArtCraft, reimplement protected functions? Understand the legal boundary between idea, functionality, and expression in software copyright law.",
-      "content_hash_en": "9800f2553a92f49e67706e3c80d38dc171550b87b28860c28e339d24d6313ef7",
+      "content_hash_en": "bd8f8cd71d3de8e787dac17d8f9de403437872e579aceaeadd687e1deb617836",
       "backlinks": [
         "guia-registro-programa-computador-inpi",
         "patente-software-vs-registro-programa-computador-brasil",
