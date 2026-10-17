@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T01:33:01.311Z",
+  "last_updated": "2026-10-17T14:07:19.621Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3109,6 +3109,51 @@
         "guia-registro-programa-computador-inpi",
         "patente-software-vs-registro-programa-computador-brasil",
         "pi-em-questao-direito-autoral-inteligencia-artificial-inpi"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "tesla-roadster-thrusters-patentes-vaporware": {
+      "slug": "tesla-roadster-thrusters-patentes-vaporware",
+      "title_en": "When the patent solves nothing: Tesla's 'flying' Roadster paradox and the culture of the endless announcement",
+      "title_pt": "Quando a patente não resolve nada: o paradoxo do Roadster 'voador' da Tesla e a cultura do anúncio infinito",
+      "tags": [
+        "patents",
+        "technology",
+        "innovation",
+        "intellectual-property",
+        "automotive-industry"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "The new Tesla Roadster uses cold-gas rocket thrusters but solves no real problem and has no patent strategy behind it. An analysis of Musk's vaporware pattern: Cybertruck, Hyperloop, Cybercab and the Vegas tunnel.",
+      "content_hash_en": "1566a009952f4edf374acf7ced1e534bd8606a0b2ee0373dce5fd9e0de5ed002",
+      "backlinks": [],
+      "backlink_source": "pending",
+      "last_processed": null
+    },
+    "marcas-apostas-inpi-mp-1394-2026-guia": {
+      "slug": "marcas-apostas-inpi-mp-1394-2026-guia",
+      "title_en": "Marcas de apostas esportivas no INPI: o que muda com a MP 1.394/2026",
+      "title_pt": "Marcas de apostas esportivas no INPI: o que muda com a MP 1.394/2026",
+      "tags": [
+        "marcas",
+        "inpi",
+        "apostas",
+        "regulacao",
+        "propriedade-intelectual"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia sobre o tratamento de pedidos de marca de apostas (bets) no INPI após a MP 1.394/2026, que proibiu as apostas de quota fixa. O que a revisão do Manual de Marcas muda para você.",
+      "content_hash_en": null,
+      "content_hash_pt": "bd5fea4b07f79c022fadd332d780f1d785cdef651820eadaa94ab8efe3d2acb6",
+      "backlinks": [
+        "quanto-custa-registrar-marca-inpi-2026",
+        "classificacao-nice-marcas-inpi-guia-completo",
+        "busca-anterioridade-marcas-inpi-guia-completo"
       ],
       "backlink_source": "file",
       "last_processed": null

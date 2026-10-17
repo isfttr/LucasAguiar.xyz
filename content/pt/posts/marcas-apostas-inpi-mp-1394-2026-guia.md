@@ -82,6 +82,12 @@ Para quem opera no setor de jogos e apostas, o recado é de planejamento: o regi
 - [Classificação de Nice para marcas no INPI: guia completo]({{< relref "posts/classificacao-nice-marcas-inpi-guia-completo/" >}})
 - [Busca de anterioridade de marcas no INPI: guia completo]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
 
+Leia também:
+
+- [Quanto Custa Registrar uma Marca no INPI em 2026? [Tabela Completa]]({{< relref "posts/quanto-custa-registrar-marca-inpi-2026/" >}})
+- [Classificação de Nice: como escolher a classe certa para registrar sua marca no INPI [2026]]({{< relref "posts/classificacao-nice-marcas-inpi-guia-completo/" >}})
+- [Busca de Anterioridade de Marcas no INPI: Guia Completo Passo a Passo]({{< relref "posts/busca-anterioridade-marcas-inpi-guia-completo/" >}})
+
 ---
 
 Pode entrar em contato para falar sobre este e outros assuntos no email <contact@lucasaguiar.xyz>
