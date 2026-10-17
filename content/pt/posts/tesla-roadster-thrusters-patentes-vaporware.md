@@ -1,6 +1,6 @@
 ---
 date: 2026-10-16T19:29:26-03:00
-draft: true
+draft: false
 title: "Quando a patente não resolve nada: o paradoxo do Roadster 'voador' da Tesla e a cultura do anúncio infinito"
 description: "O novo Tesla Roadster usa cold-gas thrusters de foguete, mas não resolve problema real nenhum e nem tem patente buscada. Análise do padrão vaporware de Musk: Cybertruck, Hyperloop, Cybercab e túnel de Vegas."
 featured_image: ""
@@ -13,7 +13,6 @@ tags:
   - propriedade-intelectual
   - industria-automotiva
 ---
-
 Em 15 de outubro de 2026, a Tesla revelou o novo Roadster em evento ao ar livre perto do centro de testes da SpaceX em McGregor, Texas. O carro faz cambalhota no ar, salta sobre uma fila de veículos e freia no chão com jatos. A promessa: três versões, 0 a 100 km/h em menos de um segundo e produção "de verdade" em 2028 — nove anos depois de o projeto ter sido anunciado em 2017. O centro da narrativa é o sistema de frio de foguete que a Tesla batizou de **cold-gas thrusters** (jatos de gás frio), uma tecnologia retirada diretamente do controle de atitude de naves espaciais.
 
 A pergunta que um analista de propriedade intelectual deveria fazer não é "é impressionante?" — é "que problema real isso resolve, qual é o caso de uso, e onde está a patente?". As respostas desmontam a cortina de fumaça.
