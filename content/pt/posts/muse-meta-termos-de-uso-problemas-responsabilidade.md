@@ -1,6 +1,6 @@
 ---
 date: 2026-10-18T10:15:14-03:00
-draft: true
+draft: false
 title: "Termos de uso do Muse da Meta: o que um usuário comum precisa saber antes de conectar suas contas"
 description: "Guia sobre os problemas dos termos de uso e política de privacidade do Muse (agente de IA da Meta): treinamento por padrão, teto de responsabilidade de US$ 250, arbitragem e o que fazer na prática."
 featured_image: ""
@@ -13,7 +13,6 @@ tags:
   - termos-de-uso
   - meta
 ---
-
 O Muse, agente pessoal de IA da Meta, chegou com uma promessa de privacidade e segurança, mas os documentos que regulam o serviço — termos suplementares e política de privacidade — escondem pontos que merecem atenção antes de você conectá-lo à sua caixa de e-mail, agenda ou conta bancária. Este guia resume os principais problemas encontrados nesses contratos, explica os limites de responsabilidade da Meta em caso de falha e dá recomendações práticas para um usuário comum.
 
 A análise abaixo baseia-se nos documentos oficiais do serviço: os [termos suplementares do Muse](https://muse.ai/terms), a [política de privacidade](https://muse.ai/privacy), os [termos de IA da Meta](https://www.facebook.com/legal/ai-terms) e a [documentação técnica de segurança](https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse). Nem todos os termos puderam ser conferidos na íntegra durante a consulta — alguns trechos vêm de reproduções públicas —, então trate as cláusulas exatas como sujeitas à confirmação da versão aplicável.
@@ -88,7 +87,6 @@ A análise dos termos do Muse se conecta a um histórico maior: a Meta enfrenta 
 
 A conexão com o Muse é direta: tanto nos termos do serviço quanto na defesa em juízo, a Meta estrutura sua exposição para transferir ao usuário — inclusive ao usuário adolescente — o risco das decisões do produto, ao mesmo tempo em que limita o próprio teto de responsabilidade.
 
-<div style="font-size:0.8em">
 
 **Fontes:**
 1. [The Guardian — Estados processam a Meta por danos a jovens usuários](https://www.theguardian.com/technology/2023/nov/27/meta-instagram-facebook-kids-addicted-lawsuit)
@@ -100,8 +98,6 @@ A conexão com o Muse é direta: tanto nos termos do serviço quanto na defesa e
 7. [Wikipedia — Raúl Torrez](https://en.wikipedia.org/wiki/Raúl_Torrez)
 8. [Reuters — Meta reforça controles para adolescentes (bloqueado a curl)](https://www.reuters.com/legal/litigation/meta-expands-teen-content-controls-globally-tests-new-instagram-tool-diversify-2026-06-02)
 9. [Wikipedia — NetChoice v. Bonta](https://en.wikipedia.org/wiki/NetChoice_v._Bonta)
-
-</div>
 
 ## Conclusão
 
