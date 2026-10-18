@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T14:07:19.621Z",
+  "last_updated": "2026-10-18T13:55:13.214Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3156,6 +3156,27 @@
         "busca-anterioridade-marcas-inpi-guia-completo"
       ],
       "backlink_source": "file",
+      "last_processed": null
+    },
+    "muse-meta-termos-de-uso-problemas-responsabilidade": {
+      "slug": "muse-meta-termos-de-uso-problemas-responsabilidade",
+      "title_en": "Termos de uso do Muse da Meta: o que um usuário comum precisa saber antes de conectar suas contas",
+      "title_pt": "Termos de uso do Muse da Meta: o que um usuário comum precisa saber antes de conectar suas contas",
+      "tags": [
+        "ia",
+        "privacidade",
+        "direito-digital",
+        "termos-de-uso",
+        "meta"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Guia sobre os problemas dos termos de uso e política de privacidade do Muse (agente de IA da Meta): treinamento por padrão, teto de responsabilidade de US$ 250, arbitragem e o que fazer na prática.",
+      "content_hash_en": null,
+      "content_hash_pt": "fe6a0cd8cc7ed832764d01fcbb80e10c87e3818e461c3ed7b616fdc3f29fefa6",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": null
     }
   }
