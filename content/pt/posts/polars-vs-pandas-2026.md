@@ -1,6 +1,6 @@
 ---
 date: 2026-09-03T18:03:12.000Z
-draft: true
+draft: false
 title: "Polars vs Pandas em 2026: Qual Biblioteca DataFrame Python Você Deve Usar?"
 description: "O Polars 2.0 inclui o mecanismo de streaming por padrão. Comparação completa de 2026 entre Polars e pandas: desempenho, memória, rigor da API, ecossistema e quando escolher cada um."
 featured_image: ""
@@ -14,7 +14,6 @@ tags:
   - self-hosted
 slug: polars-vs-pandas-2026-python
 translation_source_hash: 1776315c05ed1e87df771325128e4a8daa782b1c0367091f764643aebdb44a87
-scheduledAt: 2026-10-20T13:50:00.000Z
 ---
 Se você processa dados tabulares em Python, você vem decidindo entre duas bibliotecas há anos: pandas, o padrão que todos aprenderam, e Polars, o desafiante rápido construído sobre Arrow. Em setembro de 2026, essa decisão mudou de forma significativa: o [candidato a lançamento do Polars 2.0](https://pola.rs/posts/announcing-polars-2/) torna o mecanismo de streaming o padrão para toda consulta lazy, com a equipe do Polars esperando que ele seja "facilmente 5x mais rápido" no agregado. Este guia compara as duas bibliotecas como elas estão em 2026 e oferece uma estrutura de decisão que ainda será válida daqui a dois anos.
 
