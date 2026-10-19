@@ -1,6 +1,6 @@
 ---
 date: 2026-08-07T11:17:24-03:00
-draft: true
+draft: false
 title: "Restituição de Taxas no INPI: Guia Completo para Recuperar Valores Pagos Indevidamente [2026]"
 description: "Guia completo de restituição de taxas no INPI: casos previstos na Resolução 204/2017, passo a passo do peticionamento eletrônico, documentos exigidos, prazos e como acompanhar na RPI."
 featured_image: ""
@@ -12,7 +12,6 @@ tags:
   - propriedade-intelectual
   - patentes
   - marcas
-scheduledAt: 2026-10-19T13:47:00.000Z
 ---
 Pagar uma taxa errada ao INPI é mais comum do que parece: código de GRU incorreto, valor recolhido a maior, pagamento em duplicidade ou um depósito que nunca virou petição. A boa notícia é que o INPI devolve esses valores — desde que o pedido de restituição seja feito dentro das regras da [Resolução INPI nº 204/2017](https://www.gov.br/inpi/pt-br/servicos/marcas/arquivos/legislacao/RES_204_2017.pdf).
 
