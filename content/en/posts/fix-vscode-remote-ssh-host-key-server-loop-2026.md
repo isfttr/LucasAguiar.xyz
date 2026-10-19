@@ -1,8 +1,8 @@
 ---
 date: 2026-09-24T15:02:10-03:00
-draft: true
-title: "How to Fix VSCode Remote SSH Host Key Verification and Server Install Loop Errors [2026]"
-description: "Step-by-step guide to fixing 'Failed to initialize Remote SSH', host key verification failed and the vscode-server install loop in VSCode Remote SSH in 2026, with systemd, permissions and agent tips."
+draft: false
+title: How to Fix VSCode Remote SSH Host Key Verification and Server Install Loop Errors [2026]
+description: Step-by-step guide to fixing 'Failed to initialize Remote SSH', host key verification failed and the vscode-server install loop in VSCode Remote SSH in 2026, with systemd, permissions and agent tips.
 featured_image: ""
 categories:
   - article
@@ -13,7 +13,6 @@ tags:
   - troubleshooting
   - remote-development
 ---
-
 VSCode Remote SSH is one of the most reliable ways to develop on a remote server, but when it breaks it breaks in a way that feels impenetrable: the status bar spins on "Downloading VS Code Server", then fails with `Failed to initialize Remote SSH`, or you get a hard `Host key verification failed` at the terminal. This guide walks through the exact causes behind the most common VSCode Remote SSH failures and the fixes that resolve them, tested against current versions of VSCode and OpenSSH in 2026.
 
 ## Why the Remote SSH machinery is heavier than it looks
