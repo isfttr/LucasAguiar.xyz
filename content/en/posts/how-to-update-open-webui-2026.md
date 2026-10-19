@@ -1,8 +1,8 @@
 ---
 date: 2026-08-17T14:16:25.000Z
 draft: false
-title: 'How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)'
-description: 'How to update Open WebUI in 2026: Docker Compose, pip/uv and LXC on Proxmox. Make a backup before, avoid post-update bugs and automate with Watchtower.'
+title: 'How to Update Open WebUI in 2026: Docker, pip and LXC [Step by Step]'
+description: 'How to update Open WebUI in 2026: upgrade with Docker Compose, pip/uv and LXC on Proxmox. Back up first, avoid post-update bugs, fix errors and automate updates with Watchtower.'
 featured_image: ''
 categories:
   - article

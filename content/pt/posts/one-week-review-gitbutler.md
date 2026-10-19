@@ -1,8 +1,8 @@
 ---
 date: 2025-04-10T16:36:59.000Z
 draft: false
-title: 'GitButler 2026: Review, Preço e Alternativas [Testado]'
-description: 'Review do GitButler em 2026: como funcionam as virtual branches, cliente grátis vs Cloud pago, CLI e TUI, e GitButler vs jujutsu, worktrees, lazygit e Graphite.'
+title: 'GitButler 2026: Review, Preço, Alternativas e vs Jujutsu [Testado]'
+description: 'Review honesto do GitButler em 2026: como funcionam as virtual branches, cliente grátis vs Cloud pago, CLI e TUI, e GitButler vs jujutsu, worktrees, lazygit e Graphite — com veredito se vale a pena.'
 url: ''
 featured_image: 'https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-gitbutler.png'
 categories:

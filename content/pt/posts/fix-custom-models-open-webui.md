@@ -1,8 +1,8 @@
 ---
 date: 2025-03-12T01:32:27.000Z
 draft: false
-title: "Open WebUI: Modelos Não Aparecem? Solução Passo a Passo [2026]"
-description: "Modelos não aparecem no Open WebUI após o update? Corrija o bug de modelos customizados: replique a config da API OpenAI em vez de Direct Connections. Guia [2026]."
+title: "Open WebUI: Modelo 'Not Found'/Modelos Não Aparecem? Solução Passo a Passo [2026]"
+description: "Erro 'model not found' ou modelos não aparecem no Open WebUI após o update? Corrija o bug de modelos customizados: replique a config da API OpenAI em vez de Direct Connections. Guia [2026]."
 url: ''
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-custom-model-fix.png
 categories:

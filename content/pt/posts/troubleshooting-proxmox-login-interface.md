@@ -1,8 +1,8 @@
 ---
 date: 2025-03-13T23:29:45-03:00
 draft: false
-title: "Proxmox Login Falhou? Corrija o Erro 'authentication failure' 401 [2026]"
-description: "Login failed: authentication failure (401) no Proxmox? Realm errado, usuário bloqueado, ticket expirado, relógio ou access.cfg — causas e correções com FAQ."
+title: "Proxmox Login Falhou? Corrija 'authentication failure' 401 e Erro 'no ticket' [2026]"
+description: "Login 'authentication failure' (401) no Proxmox mesmo com a senha certa? Causas e correção: erro 'no ticket'/ticket expirado, realm errado, usuário bloqueado, relógio dessincronizado e access.cfg ausente — guia passo a passo com FAQ."
 url: ""
 featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-proxmox-login-error.png
 categories:
