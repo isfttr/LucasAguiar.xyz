@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T14:42:59.902Z",
+  "last_updated": "2026-10-19T16:52:19.569Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -202,13 +202,9 @@
       ],
       "categories": [],
       "description_en": "For the first time I tried to break with ChatGPT and Copilot to see what I could come up with.",
-      "content_hash_en": "a5ed8b84a52a39b8bdce99157d2efee2d9266c377df23b15fdd74a510b53401e",
-      "backlinks": [
-        "10-obsidian-copilot",
-        "how-to-update-open-webui-2026",
-        "fix-custom-models-open-webui"
-      ],
-      "backlink_source": "file",
+      "content_hash_en": "784acf6e01791f15552043d59e8789194f839cb61b843a308f21b665bc8a7c7b",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": null
     },
     "experience-with-cursor-and-windsurf": {
@@ -371,7 +367,7 @@
         "tutorial"
       ],
       "description_en": "Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.",
-      "content_hash_en": "ca3931e295a4c6d3cfedca24fa8f9b5e016708aabd04fad055ed86d0cbfc31ad",
+      "content_hash_en": "80f6b22a5d37e6ae9c0dcd9086d1d75727128920439af66a08d6187b3fd81905",
       "backlinks": [
         "oracle_cloud_vps",
         "troubleshooting-proxmox-login-interface",
@@ -391,13 +387,9 @@
       ],
       "categories": [],
       "description_en": "Correcting the `No internet available` error on NixOS Installation",
-      "content_hash_en": "07caa0df1c171c5a468e65a72dfa61de12f4983529da83c5867938a285b404de",
-      "backlinks": [
-        "oracle_cloud_vps",
-        "troubleshooting-proxmox-login-interface",
-        "how-to-update-open-webui-2026"
-      ],
-      "backlink_source": "file",
+      "content_hash_en": "af306b62ca576e9822685538de804e1efd37ba90fbc6a153b82d8d0d8c9f460c",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": null
     },
     "one-week-review-gitbutler": {
@@ -443,13 +435,9 @@
         "tutorial"
       ],
       "description_en": "Oracle Cloud Free Tier in 2026: step-by-step setup with Tailscale and Docker, what still works on the Always Free tier, and free VPS alternatives.",
-      "content_hash_en": "c8f7ec5eca96d205e9081d0d9330201c454d68acff2d99d7fe30447cc642b59b",
-      "backlinks": [
-        "newsletter-beehiiv-cloudflare-github",
-        "nixos-vm1",
-        "troubleshooting-proxmox-login-interface"
-      ],
-      "backlink_source": "file",
+      "content_hash_en": "46fd12a447efa5a7c83dfd61f4b1c26bd07d33444d956cd46a8ab71b9ee64a4f",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": null
     },
     "propostas_pta_patentes_2026": {
@@ -651,13 +639,9 @@
         "tutorial"
       ],
       "description_en": "Transforming a 2018 Mac Mini with a T2 chip into a Proxmox node seems simple, but Secure Boot and the black screen issue stop almost everyone. See the exact settings that made the installation succeed.",
-      "content_hash_en": "0797df37aa93ec60afb79d9df1c619ad260ad5e01a8eb88325722261320eca2f",
-      "backlinks": [
-        "how-to-update-open-webui-2026",
-        "troubleshooting-proxmox-login-interface",
-        "10-years-of-macbook-pro"
-      ],
-      "backlink_source": "file",
+      "content_hash_en": "a9d1a278465d257320181aec0ffb8914f1951be2bba45c19c18969febaddd239",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": "2026-06-21T02:27:03.944Z"
     },
     "lpi-30-anos-propostas-aperfeicoamento-inpi": {
@@ -823,13 +807,9 @@
         "tutorial"
       ],
       "description_en": "The saga of plugging WhatsApp into a Hermes Agent running in Docker inside an LXC on Proxmox: from EACCES in npm to the ghostly 'disconnected' and the Brazilian ninth digit.",
-      "content_hash_en": "000358c87a725b3e5014c0a001302c721496f2dcf17c2c4e46b7ce3396c84317",
-      "backlinks": [
-        "how-to-update-open-webui-2026",
-        "proxmox-mac-mini-2018-t2",
-        "creating-my-ai-assistant-locally"
-      ],
-      "backlink_source": "file",
+      "content_hash_en": "2a2971de8784c1b6951e68871a344ec4fe532e17092be12bde995eba502ee488",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": "2026-06-24T11:57:46.983Z"
     },
     "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce": {
@@ -1099,13 +1079,9 @@
         "article"
       ],
       "description_en": "Complete guide with the 10 main difficulties to access Google Analytics in 2026: VPN blocking access, third-party cookies, extensions, account permissions, and much more.",
-      "content_hash_en": "09377a48b2cae556fa14e075c91cb34ac41d958c430926a97e659d78bb7ce112",
-      "backlinks": [
-        "troubleshooting-proxmox-login-interface",
-        "configuracao-whatsapp-hermes",
-        "claude-tag-propriedade-intelectual-empresarial"
-      ],
-      "backlink_source": "file",
+      "content_hash_en": "6d8fbc0c600efb52e563f05066ee45060d169f4a159da74e3bf8739f9b84af4a",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": "2026-07-01T19:50:02.387Z"
     },
     "pl-2583-2020-ceis-marco-legal-estrategia-nacional-saude": {
@@ -1172,13 +1148,9 @@
         "article"
       ],
       "description_en": "Complete guide to migrating from Proxmox VE 8 (Debian 12-based) to Proxmox VE 9 (Debian 13 Trixie): repositories, kernel 6.14 upgrade, ZFS 2.3, common pitfalls and post-upgrade verification.",
-      "content_hash_en": "a1dfc0799516e647c606345f532f993005e98db3e0f03905abe2332ea257edcc",
-      "backlinks": [
-        "troubleshooting-proxmox-login-interface",
-        "proxmox-backup-server-community-scripts-2026",
-        "proxmox-mac-mini-2018-t2"
-      ],
-      "backlink_source": "file",
+      "content_hash_en": "f97960dce3ce1327a26cfa0fe8c7eb50661a85329b56b65437b34c29c5d02c50",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": "2026-07-03T21:13:52.335Z"
     },
     "proxmox-backup-server-community-scripts-2026": {
@@ -1197,13 +1169,9 @@
         "article"
       ],
       "description_en": "Complete guide to installing Proxmox Backup Server (PBS) using community-scripts in an LXC container, configuring datastore, integrating with Proxmox VE, and automating backups with scheduling and integrity verification.",
-      "content_hash_en": "d1c77f0ec96222a0d1d8ee053304cc9ee0f9606d3bd1992a4180112c3c2f1e0c",
-      "backlinks": [
-        "proxmox-mac-mini-2018-t2",
-        "troubleshooting-proxmox-login-interface",
-        "how-to-update-open-webui-2026"
-      ],
-      "backlink_source": "file",
+      "content_hash_en": "8b227e5b7ab23e6eb7b4c1e38578af66241ccb7531b44209552d903e0bf4b041",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": null
     },
     "como-ter-dois-hermes-gateways": {
@@ -1470,7 +1438,7 @@
         "article"
       ],
       "description_en": "Complete guide to KVM virtualization on Linux: install, configure, and manage VMs with virsh and virt-install. Covers networking, storage pools, cloud-init, and comparison with Vagrant, VirtualBox, and Proxmox.",
-      "content_hash_en": "51f38536f0b07c922cc063aad4519eda9ba4196112db60756b6ba6b57297c13e",
+      "content_hash_en": "c04b43ee87f524b28a30a41897714e91d876121e18f3ed726253b1d0dda6cef6",
       "backlinks": [
         "proxmox-backup-server-community-scripts-2026",
         "proxmox-mac-mini-2018-t2",
@@ -1617,13 +1585,12 @@
         "article"
       ],
       "description_en": "Step-by-step guide to git history — the experimental command that lets you fix old commits, rewrite messages, and split changes without scary rebase -i sessions. Includes practical examples of each subcommand.",
-      "content_hash_en": "abd857d1ff84ea250683a28eb361102381e5dd04d1c6e8b3eb9031264da2d89e",
+      "content_hash_en": "b4c4a9e87ecd4817f450e627136d509d1d8264998a78f6e98219876a73055408",
       "backlinks": [
-        "how-to-split-git-commit-guide-2026",
         "one-week-review-gitbutler",
-        "stacked-pull-requests-guide-2026"
+        "gitlost-github-agentic-workflows-prompt-injection-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "pending",
       "last_processed": "2026-09-17T18:12:23.354Z"
     },
     "run-llms-old-server-homelab-guide-2026": {
@@ -1641,13 +1608,9 @@
         "article"
       ],
       "description_en": "Step-by-step guide to running modern LLMs on old/used enterprise servers with no GPU. Hardware picks, software stack, expected performance, and cost comparison vs cloud APIs.",
-      "content_hash_en": "c5af12d13cffcfa3559e15a7664f11910e713c052f606572598914f1220e1a7f",
-      "backlinks": [
-        "proxmox-mac-mini-2018-t2",
-        "how-to-update-open-webui-2026",
-        "configuracao-whatsapp-hermes"
-      ],
-      "backlink_source": "file",
+      "content_hash_en": "486cc3c62949dad578ec7ca8e30ae94f81461cb39ce11a725c6bd0c86d61d915",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": "2026-07-15T18:08:12.067Z"
     },
     "patente-software-vs-registro-programa-computador-brasil": {
@@ -1861,13 +1824,12 @@
         "article"
       ],
       "description_en": "Learn how stacked PRs work, why they speed up code review, and how to use them with GitHub's new native support. Comparisons, CLI tools, and real-world workflows.",
-      "content_hash_en": "9125bbc54a1e3ac8e2936bf9420a09c4b4589e60883bfb167a58550a94145cd8",
+      "content_hash_en": "ff1395b04f2fe64da7ddc8aca668a83aeb8365604a24ca6e7ca6ebd93c852c70",
       "backlinks": [
         "one-week-review-gitbutler",
-        "how-to-split-git-commit-guide-2026",
-        "mastering-git-log-history-guide-2026"
+        "gitlost-github-agentic-workflows-prompt-injection-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "pending",
       "last_processed": "2026-09-20T00:17:38.478Z"
     },
     "ai-session-portability-guide-2026": {
@@ -2365,7 +2327,7 @@
         "article"
       ],
       "description_en": "Compare Gitea, Forgejo, GitLab CE, Codeberg, SourceHut and Radicle in 2026: self-hosted vs managed, resource use, CI/CD, the 2026 outage record driving migration, and a practical checklist.",
-      "content_hash_en": "8d33635bddb4d2c33aab4338953d5d30b0cdac6ba22217e02176d6c0dc15a538",
+      "content_hash_en": "7bfbe8eb366d721995094425346149f3af27366f8f164983ad6d43ddc5a46da7",
       "backlinks": [
         "containers-vs-vms-complete-guide-2026",
         "one-week-review-gitbutler",
@@ -2413,7 +2375,7 @@
         "article"
       ],
       "description_en": "Step-by-step guide to split a git commit into multiple commits with plain git: git reset --soft, git add -p, and interactive rebase. Works on any git version.",
-      "content_hash_en": "c9ec3d5dc36c68acc373f7db8ebbc3ad70cc156bef6b134e6ba748586f5bf693",
+      "content_hash_en": "7a5ab6c2abf05828363199f806b7ee107088aaf6a00a838f5d90b6a1a01b0ec3",
       "backlinks": [
         "mastering-git-log-history-guide-2026",
         "stacked-pull-requests-guide-2026",
@@ -2463,13 +2425,9 @@
         "article"
       ],
       "description_en": "Understand what Kubernetes solves that containers and Docker Compose don't solve, the practical differences, and when it makes sense (or not) to migrate your setup.",
-      "content_hash_en": "48c60ca49319ffa726cd0a8f0a62a3ee6508a2b795786cfe62853d62098e94fa",
-      "backlinks": [
-        "containers-vs-vms-complete-guide-2026",
-        "reducing-cves-container-images-guide-2026",
-        "how-to-update-open-webui-2026"
-      ],
-      "backlink_source": "file",
+      "content_hash_en": "397c375045fe8de654595e0ec98337c2d8d916a7368a13b2502753adb1a10e98",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": "2026-08-24T14:37:22.792Z"
     },
     "colapso-fundo-situational-awareness-alavancagem-2026": {
@@ -2488,7 +2446,7 @@
         "opinion"
       ],
       "description_en": "Rose 439% with 4x leverage and was liquidated in weeks: what the collapse of the Situational Awareness fund teaches about expected return and duration.",
-      "content_hash_en": "abf59da4c00a19fcb51e6420e8406a4170f58addf09abdcb1ac03cb4a19080e1",
+      "content_hash_en": "e3a7e8c8cecd4834ed94f714557a57159b9336465fbaa47ec3419663ec90b9b9",
       "backlinks": [
         "stock-price-duration-survivorship-ai-capex-2026",
         "dawkins-claude-consciencia-ia",
@@ -3146,21 +3104,20 @@
     },
     "muse-meta-termos-de-uso-problemas-responsabilidade": {
       "slug": "muse-meta-termos-de-uso-problemas-responsabilidade",
-      "title_en": "Termos de uso do Muse da Meta: o que um usuário comum precisa saber antes de conectar suas contas",
+      "title_en": "Muse by Meta Terms of Use: What a Regular User Needs to Know",
       "title_pt": "Termos de uso do Muse da Meta: o que um usuário comum precisa saber antes de conectar suas contas",
       "tags": [
-        "ia",
-        "privacidade",
-        "direito-digital",
-        "termos-de-uso",
+        "ai",
+        "privacy",
+        "digital-rights",
+        "terms-of-service",
         "meta"
       ],
       "categories": [
         "article"
       ],
-      "description_en": "Guia sobre os problemas dos termos de uso e política de privacidade do Muse (agente de IA da Meta): treinamento por padrão, teto de responsabilidade de US$ 250, arbitragem e o que fazer na prática.",
-      "content_hash_en": null,
-      "content_hash_pt": "fe6a0cd8cc7ed832764d01fcbb80e10c87e3818e461c3ed7b616fdc3f29fefa6",
+      "description_en": "Guide to the problems in the Muse (Meta AI agent) terms of service and privacy policy: default training, the $250 liability cap, arbitration, and what to do in practice.",
+      "content_hash_en": "fd5f2ff95a0bf246e9fe00e551f6e53b4d675874ccebb047215f115f8a2a0995",
       "backlinks": [],
       "backlink_source": "pending",
       "last_processed": null
@@ -3180,7 +3137,7 @@
         "article"
       ],
       "description_en": "Step-by-step guide to fixing 'Failed to initialize Remote SSH', host key verification failed and the vscode-server install loop in VSCode Remote SSH in 2026, with systemd, permissions and agent tips.",
-      "content_hash_en": "f8f050dd7ac78ec38d28cff7f4a9c5a6e5f53ad82d9d08f16d17af16c59cc4ad",
+      "content_hash_en": "2a53c450ce39a19ddc9c36007764ae5ccd52975a601a22f4b8dd6810ae1fbfc4",
       "backlinks": [
         "self-hosted-mesh-vpn-wireguard-headscale-guide-2026",
         "linux-windows-macos-qual-usar-2026",
@@ -3207,6 +3164,26 @@
       ],
       "description_en": "Learn how to securely manage sensitive information in your GitHub projects using Secrets and integrate them with containerized applications and services exposed to the internet.",
       "content_hash_en": "a8fb838ee44f7471a5f254e3f50f8508b95acf84d3e9d21c173ce66c2198d972",
+      "backlinks": [],
+      "backlink_source": "pending",
+      "last_processed": null
+    },
+    "restituicao-taxas-inpi-guia-completo-2026": {
+      "slug": "restituicao-taxas-inpi-guia-completo-2026",
+      "title_en": "INPI Fee Refunds: Complete Guide to Recovering Payments Made by Mistake [2026]",
+      "title_pt": "Restituição de Taxas no INPI: Guia Completo para Recuperar Valores Pagos Indevidamente [2026]",
+      "tags": [
+        "inpi",
+        "fees",
+        "intellectual-property",
+        "patents",
+        "trademarks"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to INPI fee refunds in Brazil: cases covered by Resolution 204/2017, step-by-step electronic filing, required documents, deadlines and how to track your request in the RPI.",
+      "content_hash_en": "358e0990c34d28e1607d0c41f083c89cb7ad298a7e658f2c8864f52483227fae",
       "backlinks": [],
       "backlink_source": "pending",
       "last_processed": null
