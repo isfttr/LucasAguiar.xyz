@@ -1,9 +1,9 @@
 ---
-date: 2026-10-18T10:15:14-03:00
+date: 2026-10-18T13:15:14.000Z
 draft: false
-title: "Muse by Meta Terms of Use: What a Regular User Needs to Know"
-description: "Guide to the problems in the Muse (Meta AI agent) terms of service and privacy policy: default training, the $250 liability cap, arbitration, and what to do in practice."
-featured_image: ""
+title: 'Muse by Meta Terms of Use: What a Regular User Needs to Know'
+description: 'Guide to the problems in the Muse (Meta AI agent) terms of service and privacy policy: default training, the $250 liability cap, arbitration, and what to do in practice.'
+featured_image: ''
 categories:
   - article
 tags:
@@ -12,6 +12,7 @@ tags:
   - digital-rights
   - terms-of-service
   - meta
+translation_source_hash: fe6a0cd8cc7ed832764d01fcbb80e10c87e3818e461c3ed7b616fdc3f29fefa6
 ---
 Muse, Meta's personal AI agent, arrived with a promise of privacy and security, but the documents governing the service — supplementary terms and privacy policy — hide points that deserve attention before you connect it to your email inbox, calendar or bank account. This guide summarizes the main problems found in those contracts, explains Meta's liability limits in case of failure and offers practical recommendations for a regular user to follow.
 
