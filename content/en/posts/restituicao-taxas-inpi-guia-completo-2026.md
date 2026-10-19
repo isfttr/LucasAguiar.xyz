@@ -1,6 +1,6 @@
 ---
 date: 2026-08-07T14:17:24.000Z
-draft: true
+draft: false
 title: 'INPI Fee Refunds: Complete Guide to Recovering Payments Made by Mistake [2026]'
 description: 'Complete guide to INPI fee refunds in Brazil: cases covered by Resolution 204/2017, step-by-step electronic filing, required documents, deadlines and how to track your request in the RPI.'
 featured_image: ''
