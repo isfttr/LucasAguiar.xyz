@@ -96,8 +96,8 @@ Esta é uma configuração simples de um LLM privado e de código aberto. Tentei
 Leia também:
 
 - [Obsidian Copilot + Ollama + OpenRouter: Setup Completo e Gratuito [2026]]({{< relref "posts/10-obsidian-copilot/" >}})
-- [Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
-- [Open WebUI: Modelos Não Aparecem? Solução Passo a Passo [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [Como Atualizar o Open WebUI em 2026: Docker, pip e LXC [Passo a Passo]]({{< relref "posts/how-to-update-open-webui-2026/" >}})
+- [Open WebUI: Modelo 'Not Found'/Modelos Não Aparecem? Solução Passo a Passo [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 
 ---
 Você pode entrar em contato comigo sobre este e outros tópicos no meu e-mail <contact@lucasaguiar.xyz> ou preenchendo o formulário abaixo.

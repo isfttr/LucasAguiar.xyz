@@ -242,7 +242,7 @@ Espero que este guia tenha esclarecido a arquitetura para criar uma integração
 Leia também:
 
 - [Oracle Cloud Free Tier 2026: Ainda Vale a Pena? Guia Completo + Alternativas]({{< relref "posts/oracle_cloud_vps/" >}})
-- [Proxmox Login Falhou? Corrija o Erro 'authentication failure' 401 [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Proxmox Login Falhou? Corrija 'authentication failure' 401 e Erro 'no ticket' [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 - [Estrutura de Ficheiros de Conteúdo Hugo]({{< relref "posts/hugo-content-file-structure/" >}})
 
 ---

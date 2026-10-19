@@ -249,7 +249,7 @@ The same month this guide was written, independent benchmarks showed a [13-year-
 Read also:
 
 - [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
-- [How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
+- [How to Update Open WebUI in 2026: Docker, pip and LXC [Step by Step]]({{< relref "posts/how-to-update-open-webui-2026/" >}})
 - [Enabling WhatsApp on Hermes Agent self-hosted: three pitfalls (and how I overcame them)]({{< relref "posts/configuracao-whatsapp-hermes/" >}})
 
 ---

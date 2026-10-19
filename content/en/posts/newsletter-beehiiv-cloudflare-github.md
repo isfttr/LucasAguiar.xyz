@@ -251,7 +251,7 @@ Read also:
 Read also:
 
 - [Using Oracle Cloud Free tier]({{< relref "posts/oracle_cloud_vps/" >}})
-- [Proxmox Login Failed? Fix 'authentication failure' 401 [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Proxmox Login Failed? Fix 'authentication failure' 401, 'no ticket' & Wrong Password [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
 - [Hugo Content File Structure]({{< relref "posts/hugo-content-file-structure/" >}})
 
 ---

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T13:55:13.214Z",
+  "last_updated": "2026-10-19T14:42:59.902Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -239,8 +239,8 @@
     },
     "fix-custom-models-open-webui": {
       "slug": "fix-custom-models-open-webui",
-      "title_en": "Open WebUI Models Not Showing? Step-by-Step Fix [2026]",
-      "title_pt": "Open WebUI: Modelos Não Aparecem? Solução Passo a Passo [2026]",
+      "title_en": "Open WebUI 'Model Not Found'/Models Not Showing? Step-by-Step Fix [2026]",
+      "title_pt": "Open WebUI: Modelo 'Not Found'/Modelos Não Aparecem? Solução Passo a Passo [2026]",
       "tags": [
         "open-webui",
         "fix"
@@ -248,14 +248,10 @@
       "categories": [
         "article"
       ],
-      "description_en": "Open WebUI models not showing after an update? Fix the missing custom models bug: replicate your OpenAI API config instead of Direct Connections. Guide [2026].",
-      "content_hash_en": "ec857d127577a6120f7e88f4f3d37faae38522bde8cef7b95aefc844d7c9391a",
-      "backlinks": [
-        "how-to-update-open-webui-2026",
-        "creating-my-ai-assistant-locally",
-        "run-llms-old-server-homelab-guide-2026"
-      ],
-      "backlink_source": "ai",
+      "description_en": "Open WebUI 'model not found' error or models not showing after an update? Fix the missing custom models bug: replicate your OpenAI API config instead of Direct Connections. Guide [2026].",
+      "content_hash_en": "3b864b6944be7bee026d66b42ce8c6ea225e3049f51a026a157b56fa493a7c67",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": "2026-09-17T14:06:55.734Z"
     },
     "hugo-content-file-structure": {
@@ -406,8 +402,8 @@
     },
     "one-week-review-gitbutler": {
       "slug": "one-week-review-gitbutler",
-      "title_en": "GitButler 2026: Review, Pricing and Alternatives [Tested]",
-      "title_pt": "GitButler 2026: Review, Preço e Alternativas [Testado]",
+      "title_en": "GitButler 2026: Review, Pricing, Alternatives and vs Jujutsu [Tested]",
+      "title_pt": "GitButler 2026: Review, Preço, Alternativas e vs Jujutsu [Testado]",
       "tags": [
         "git",
         "workflow",
@@ -419,14 +415,13 @@
       "categories": [
         "article"
       ],
-      "description_en": "GitButler review 2026: how virtual branches work, free client vs paid Cloud, the but CLI and TUI, and GitButler vs jujutsu, worktrees, lazygit and Graphite.",
-      "content_hash_en": "ba94ddfdf33b4719e2726be75b861179cf6d3c89a8b54da450f9b3693baea65c",
+      "description_en": "Honest GitButler review in 2026: how virtual branches work, free client vs paid Cloud, the CLI and TUI, and GitButler vs jujutsu, worktrees, lazygit and Graphite — with a verdict on whether it is worth it.",
+      "content_hash_en": "2231f40add7cf64301b8a9b7a20a9f53982fff60c03765e17301f5608ec5fac6",
       "backlinks": [
-        "mastering-git-log-history-guide-2026",
         "stacked-pull-requests-guide-2026",
-        "how-to-split-git-commit-guide-2026"
+        "mastering-git-log-history-guide-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "pending",
       "last_processed": "2026-09-24T13:03:28.892Z"
     },
     "oracle_cloud_vps": {
@@ -486,8 +481,8 @@
     },
     "troubleshooting-proxmox-login-interface": {
       "slug": "troubleshooting-proxmox-login-interface",
-      "title_en": "Proxmox Login Failed? Fix 'authentication failure' 401 [2026]",
-      "title_pt": "Proxmox Login Falhou? Corrija o Erro 'authentication failure' 401 [2026]",
+      "title_en": "Proxmox Login Failed? Fix 'authentication failure' 401, 'no ticket' & Wrong Password [2026]",
+      "title_pt": "Proxmox Login Falhou? Corrija 'authentication failure' 401 e Erro 'no ticket' [2026]",
       "tags": [
         "linux",
         "proxmox",
@@ -498,14 +493,10 @@
       "categories": [
         "tutorial"
       ],
-      "description_en": "Login failed: authentication failure (401) in Proxmox? Fix wrong realm, blocked user, expired or invalid PVE ticket, clock skew or missing access.cfg — with FAQ.",
-      "content_hash_en": "69f2e343e21bb9154406799f24145082c67da930fab0d6522d0739368a132f45",
-      "backlinks": [
-        "proxmox-mac-mini-2018-t2",
-        "migracao-proxmox-8-9-2026",
-        "proxmox-backup-server-community-scripts-2026"
-      ],
-      "backlink_source": "ai",
+      "description_en": "Login failed: authentication failure (401) in Proxmox even with the right password? Fix 'no ticket'/expired PVE ticket, wrong realm, blocked user, clock skew and missing access.cfg — step-by-step guide with FAQ.",
+      "content_hash_en": "1d5b4af329e7e04ef39669f03d3da127b867bd1646b06eee67d42ae347f19b15",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": "2026-09-24T13:03:52.419Z"
     },
     "update_on_life_november-2023": {
@@ -552,8 +543,8 @@
     },
     "linux-windows-macos-qual-usar-2026": {
       "slug": "linux-windows-macos-qual-usar-2026",
-      "title_en": "Linux vs Windows vs macOS in 2026: Which One Wins? [Table]",
-      "title_pt": "Linux vs Windows vs macOS em 2026: Qual Sistema Usar? [Tabela]",
+      "title_en": "Linux vs Windows vs macOS 2026: Which to Use by Use Case? [Table]",
+      "title_pt": "Linux vs Windows vs macOS em 2026: Qual Usar por Caso de Uso? [Tabela]",
       "tags": [
         "linux",
         "macos",
@@ -566,14 +557,10 @@
       "categories": [
         "article"
       ],
-      "description_en": "Tested all three for years: Linux vs Windows vs macOS in 2026 compared on performance, software, privacy, hardware support and cost — with table and verdict.",
-      "content_hash_en": "b1bd9b54cc6c4f5b5efab94afd9473a825f770745536d5cae06f2e2723b96fc8",
-      "backlinks": [
-        "10-years-of-macbook-pro",
-        "introduction",
-        "oracle_cloud_vps"
-      ],
-      "backlink_source": "file",
+      "description_en": "Linux vs Windows vs macOS in 2026 compared by use case: performance, software, privacy, cost, gaming and hardware support — with comparison table and a verdict for programming, servers and everyday use.",
+      "content_hash_en": "5cc4777de05e03002f3c9adbcb8c02158656016cdb8bc0145a3425385516a690",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": "2026-05-05T22:00:14.732Z"
     },
     "dawkins-claude-consciencia-ia": {
@@ -2318,8 +2305,8 @@
     },
     "how-to-update-open-webui-2026": {
       "slug": "how-to-update-open-webui-2026",
-      "title_en": "How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)",
-      "title_pt": "Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)",
+      "title_en": "How to Update Open WebUI in 2026: Docker, pip and LXC [Step by Step]",
+      "title_pt": "Como Atualizar o Open WebUI em 2026: Docker, pip e LXC [Passo a Passo]",
       "tags": [
         "open-webui",
         "homelab",
@@ -2330,14 +2317,13 @@
       "categories": [
         "article"
       ],
-      "description_en": "How to update Open WebUI in 2026: Docker Compose, pip/uv and LXC on Proxmox. Make a backup before, avoid post-update bugs and automate with Watchtower.",
-      "content_hash_en": "98d21380507bea179ba4f9fcaec8b608ff0f0eb4d6dd5cd8107b682672bdead4",
+      "description_en": "How to update Open WebUI in 2026: upgrade with Docker Compose, pip/uv and LXC on Proxmox. Back up first, avoid post-update bugs, fix errors and automate updates with Watchtower.",
+      "content_hash_en": "976cecc8d3f40b9d1230e5a6ba26e3ba5c1a87dad1d1a0964481249a97c079d6",
       "backlinks": [
         "fix-custom-models-open-webui",
-        "configuracao-whatsapp-hermes",
-        "migracao-proxmox-8-9-2026"
+        "containers-vs-vms-complete-guide-2026"
       ],
-      "backlink_source": "ai",
+      "backlink_source": "pending",
       "last_processed": "2026-10-08T18:12:12.546Z"
     },
     "stock-price-duration-survivorship-ai-capex-2026": {
@@ -3175,6 +3161,52 @@
       "description_en": "Guia sobre os problemas dos termos de uso e política de privacidade do Muse (agente de IA da Meta): treinamento por padrão, teto de responsabilidade de US$ 250, arbitragem e o que fazer na prática.",
       "content_hash_en": null,
       "content_hash_pt": "fe6a0cd8cc7ed832764d01fcbb80e10c87e3818e461c3ed7b616fdc3f29fefa6",
+      "backlinks": [],
+      "backlink_source": "pending",
+      "last_processed": null
+    },
+    "fix-vscode-remote-ssh-host-key-server-loop-2026": {
+      "slug": "fix-vscode-remote-ssh-host-key-server-loop-2026",
+      "title_en": "How to Fix VSCode Remote SSH Host Key Verification and Server Install Loop Errors [2026]",
+      "title_pt": "How to Fix VSCode Remote SSH Host Key Verification and Server Install Loop Errors [2026]",
+      "tags": [
+        "vscode",
+        "ssh",
+        "dev-tools",
+        "troubleshooting",
+        "remote-development"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Step-by-step guide to fixing 'Failed to initialize Remote SSH', host key verification failed and the vscode-server install loop in VSCode Remote SSH in 2026, with systemd, permissions and agent tips.",
+      "content_hash_en": "f8f050dd7ac78ec38d28cff7f4a9c5a6e5f53ad82d9d08f16d17af16c59cc4ad",
+      "backlinks": [
+        "self-hosted-mesh-vpn-wireguard-headscale-guide-2026",
+        "linux-windows-macos-qual-usar-2026",
+        "containers-vs-vms-complete-guide-2026"
+      ],
+      "backlink_source": "file",
+      "last_processed": null
+    },
+    "how-to-setup-github-secrets": {
+      "slug": "how-to-setup-github-secrets",
+      "title_en": "How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications",
+      "title_pt": "How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications",
+      "tags": [
+        "github",
+        "security",
+        "containers",
+        "docker",
+        "devops",
+        "ci-cd",
+        "secrets-management"
+      ],
+      "categories": [
+        "tutorial"
+      ],
+      "description_en": "Learn how to securely manage sensitive information in your GitHub projects using Secrets and integrate them with containerized applications and services exposed to the internet.",
+      "content_hash_en": "a8fb838ee44f7471a5f254e3f50f8508b95acf84d3e9d21c173ce66c2198d972",
       "backlinks": [],
       "backlink_source": "pending",
       "last_processed": null

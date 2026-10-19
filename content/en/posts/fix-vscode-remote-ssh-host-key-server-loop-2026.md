@@ -102,11 +102,13 @@ Clear a stale host key on the client (`ssh-keygen -R host`) when the terminal it
 
 When you are planning where to run these servers, remember that VSCode's agent is a heavyweight guest: if your [containers vs VMs]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}}) architecture gives you many throwaway environments, budget a little time for the first agent install in each one. And if a misbehaving host is your concern, it is worth knowing how to [detect and block bot traffic on self-hosted servers]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}}) — Remote SSH endpoints on the public internet are a favorite target for scanners.
 
-Leia também / Also read:
+Leia também /
 
-- [Containers vs VMs: complete guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
-- [Self-hosted mesh VPN with WireGuard and Headscale [2026]]({{< relref "posts/self-hosted-mesh-vpn-wireguard-headscale-guide-2026/" >}})
-- [Detect and block bot traffic on self-hosted servers [2026]]({{< relref "posts/detect-block-bot-traffic-selfhosted-guide-2026/" >}})
+Read also:
+
+- [Self-Hosted Mesh VPN in 2026: WireGuard and Headscale Complete Guide]({{< relref "posts/self-hosted-mesh-vpn-wireguard-headscale-guide-2026/" >}})
+- [Linux vs Windows vs macOS 2026: Which to Use by Use Case? [Table]]({{< relref "posts/linux-windows-macos-qual-usar-2026/" >}})
+- [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
 
 ---
 

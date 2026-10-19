@@ -26,5 +26,5 @@ O modelo do dispositivo pode ser definido como `virtio` ou outros modelos, pelo 
 Leia também:
 
 - [Oracle Cloud Free Tier 2026: Ainda Vale a Pena? Guia Completo + Alternativas]({{< relref "posts/oracle_cloud_vps/" >}})
-- [Proxmox Login Falhou? Corrija o Erro 'authentication failure' 401 [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
-- [Como Atualizar o Open WebUI [2026]: Guia Completo (Docker, pip e LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
+- [Proxmox Login Falhou? Corrija 'authentication failure' 401 e Erro 'no ticket' [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [Como Atualizar o Open WebUI em 2026: Docker, pip e LXC [Passo a Passo]]({{< relref "posts/how-to-update-open-webui-2026/" >}})

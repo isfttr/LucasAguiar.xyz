@@ -167,7 +167,7 @@ Read also:
 
 - [Git History in 2026: Complete Guide to fixup, reword, and split Commands]({{< relref "posts/mastering-git-log-history-guide-2026/" >}})
 - [Stacked Pull Requests: Complete Guide and Best Practices [2026]]({{< relref "posts/stacked-pull-requests-guide-2026/" >}})
-- [GitButler 2026: Review, Pricing and Alternatives [Tested]]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [GitButler 2026: Review, Pricing, Alternatives and vs Jujutsu [Tested]]({{< relref "posts/one-week-review-gitbutler/" >}})
 
 ---
 

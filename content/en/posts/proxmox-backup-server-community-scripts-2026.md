@@ -222,8 +222,8 @@ pvesm extractconfig pbs-backup:backup/<backup-id> --vmtype qemu
 Read also:
 
 - [How to install Proxmox VE on Mac Mini 2018 (T2 chip): the step-by-step guide that worked]({{< relref "posts/proxmox-mac-mini-2018-t2/" >}})
-- [Proxmox Login Failed? Fix 'authentication failure' 401 [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
-- [How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
+- [Proxmox Login Failed? Fix 'authentication failure' 401, 'no ticket' & Wrong Password [2026]]({{< relref "posts/troubleshooting-proxmox-login-interface/" >}})
+- [How to Update Open WebUI in 2026: Docker, pip and LXC [Step by Step]]({{< relref "posts/how-to-update-open-webui-2026/" >}})
 
 ---
 

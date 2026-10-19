@@ -138,7 +138,7 @@ The short version: you don't need GitHub's permission to leave, and you don't ne
 Read also:
 
 - [Docker Containers vs Virtual Machines: Complete Comparison Guide [2026]]({{< relref "posts/containers-vs-vms-complete-guide-2026/" >}})
-- [GitButler 2026: Review, Pricing and Alternatives [Tested]]({{< relref "posts/one-week-review-gitbutler/" >}})
+- [GitButler 2026: Review, Pricing, Alternatives and vs Jujutsu [Tested]]({{< relref "posts/one-week-review-gitbutler/" >}})
 - [Stacked Pull Requests: Complete Guide and Best Practices [2026]]({{< relref "posts/stacked-pull-requests-guide-2026/" >}})
 
 ---

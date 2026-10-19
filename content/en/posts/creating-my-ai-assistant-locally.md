@@ -95,8 +95,8 @@ This is a simple setup of a private and open source LLM. I tried other ones, usi
 Read also:
 
 - [Obsidian + Copilot]({{< relref "posts/10-obsidian-copilot/" >}})
-- [How to Update Open WebUI [2026]: Complete Guide (Docker, pip and LXC)]({{< relref "posts/how-to-update-open-webui-2026/" >}})
-- [Open WebUI Models Not Showing? Step-by-Step Fix [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
+- [How to Update Open WebUI in 2026: Docker, pip and LXC [Step by Step]]({{< relref "posts/how-to-update-open-webui-2026/" >}})
+- [Open WebUI 'Model Not Found'/Models Not Showing? Step-by-Step Fix [2026]]({{< relref "posts/fix-custom-models-open-webui/" >}})
 
 ---
 You can reach out to contact me about this and other topics at my email <contact@lucasaguiar.xyz> or by filling the form below.
