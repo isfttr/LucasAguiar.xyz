@@ -1,6 +1,6 @@
 ---
 date: 2025-04-11T16:48:47-03:00
-draft: true
+draft: false
 title: How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications
 description: Learn how to securely manage sensitive information in your GitHub projects using Secrets and integrate them with containerized applications and services exposed to the internet.
 url: /github-secrets-containers-guide/
