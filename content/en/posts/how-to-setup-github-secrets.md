@@ -1,10 +1,10 @@
 ---
 date: 2025-04-11T16:48:47-03:00
 draft: true
-title: "How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications"
-description: "Learn how to securely manage sensitive information in your GitHub projects using Secrets and integrate them with containerized applications and services exposed to the internet."
-url: "/github-secrets-containers-guide/"
-featured_image: "https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-github-secrets.png"
+title: How to Setup and Use GitHub Secrets with Containers and Internet-Facing Applications
+description: Learn how to securely manage sensitive information in your GitHub projects using Secrets and integrate them with containerized applications and services exposed to the internet.
+url: /github-secrets-containers-guide/
+featured_image: https://lucasaguiarxyzstorage.blob.core.windows.net/images/thumb-github-secrets.png
 categories:
   - tutorial
 tags:
@@ -16,7 +16,6 @@ tags:
   - ci-cd
   - secrets-management
 ---
-
 Working with containers and applications exposed to the internet often requires handling sensitive information like API keys, database credentials, and access tokens. Hard-coding these values into your source code is a major security risk, especially when your code is stored in public repositories. GitHub Secrets provides an elegant solution to this problem, allowing you to securely store and use sensitive data in your GitHub workflows and deployments.
 
 In this guide, I'll walk you through setting up GitHub Secrets and how to use them with containers and internet-facing applications.
