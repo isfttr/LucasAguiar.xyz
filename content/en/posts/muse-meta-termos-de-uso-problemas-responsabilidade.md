@@ -1,6 +1,6 @@
 ---
 date: 2026-10-18T10:15:14-03:00
-draft: true
+draft: false
 title: "Muse by Meta Terms of Use: What a Regular User Needs to Know"
 description: "Guide to the problems in the Muse (Meta AI agent) terms of service and privacy policy: default training, the $250 liability cap, arbitration, and what to do in practice."
 featured_image: ""
