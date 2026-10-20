@@ -1,9 +1,9 @@
 ---
-date: 2026-10-20T11:03:40-03:00
+date: 2026-10-20T14:03:40.000Z
 draft: true
-title: "Applicant Legitimacy for Trademark Registration at the INPI (Brazil): How to Prove It and Avoid Office Actions"
-description: "Complete guide to the applicant legitimacy requirement for trademark registration at Brazil's INPI (art. 128 of the Industrial Property Law): how individuals and MEIs prove their activity, monitored classes and how to answer office actions."
-featured_image: ""
+title: 'Applicant Legitimacy for Trademark Registration at the INPI (Brazil): How to Prove It and Avoid Office Actions'
+description: 'Complete guide to the applicant legitimacy requirement for trademark registration at Brazil''s INPI (art. 128 of the Industrial Property Law): how individuals and MEIs prove their activity, monitored classes and how to answer office actions.'
+featured_image: ''
 categories:
   - article
 tags:
@@ -12,6 +12,7 @@ tags:
   - brazil
   - intellectual-property
   - mei
+translation_source_hash: f14e05c605ab0e8be591c242f2522079ce32c4c189a3d4b6261690371cd894c3
 ---
 
 Every trademark application filed at Brazil's patent office (**INPI**) requires the applicant to show **legitimacy**: the mark must be tied to a real economic activity of whoever files it. In 2026 this went from a formality to a systematically enforced requirement — the INPI now scans batches of applications for legitimacy problems and issues **office actions in bulk**. This guide explains what the law requires, why the INPI expanded its checks, which Nice classes are under scrutiny, and how to actually prove legitimacy without stalling your application.
