@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T16:52:19.569Z",
+  "last_updated": "2026-10-20T14:33:24.107Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3117,7 +3117,7 @@
         "article"
       ],
       "description_en": "Guide to the problems in the Muse (Meta AI agent) terms of service and privacy policy: default training, the $250 liability cap, arbitration, and what to do in practice.",
-      "content_hash_en": "fd5f2ff95a0bf246e9fe00e551f6e53b4d675874ccebb047215f115f8a2a0995",
+      "content_hash_en": "f0032f106f798ae87eaca4804b6d4cbfd76c62037a59999e5b67cb87093a8198",
       "backlinks": [],
       "backlink_source": "pending",
       "last_processed": null
