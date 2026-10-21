@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T15:05:38.888Z",
+  "last_updated": "2026-10-21T17:44:27.269Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3184,6 +3184,47 @@
       ],
       "description_en": "Complete guide to INPI fee refunds in Brazil: cases covered by Resolution 204/2017, step-by-step electronic filing, required documents, deadlines and how to track your request in the RPI.",
       "content_hash_en": "358e0990c34d28e1607d0c41f083c89cb7ad298a7e658f2c8864f52483227fae",
+      "backlinks": [],
+      "backlink_source": "pending",
+      "last_processed": null
+    },
+    "iphone-duo-review-impressions-2026": {
+      "slug": "iphone-duo-review-impressions-2026",
+      "title_en": "iPhone Duo [2026]: is Apple's foldable worth it?",
+      "title_pt": "iPhone Duo [2026]: is Apple's foldable worth it?",
+      "tags": [
+        "apple",
+        "iphone",
+        "foldable",
+        "technology",
+        "review"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "iPhone Duo review: what first reviews say about the foldable display, app support, cameras and battery. Honest first impressions and a recommendation for most buyers.",
+      "content_hash_en": "ef29f16bf66678ad49c7097b5761497b96c5a8030b30a6ef6142c7497f9fa2c1",
+      "backlinks": [],
+      "backlink_source": "pending",
+      "last_processed": null
+    },
+    "iphone-duo-review-primeiras-impressoes-2026": {
+      "slug": "iphone-duo-review-primeiras-impressoes-2026",
+      "title_en": "iPhone Duo [2026]: vale a pena o dobrável da Apple?",
+      "title_pt": "iPhone Duo [2026]: vale a pena o dobrável da Apple?",
+      "tags": [
+        "apple",
+        "iphone",
+        "dobravel",
+        "tecnologia",
+        "review"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Review do iPhone Duo: o que as primeiras avaliações dizem sobre tela dobrável, aplicativos, câmeras e bateria. Impressões e recomendação honesta para a maioria dos compradores.",
+      "content_hash_en": null,
+      "content_hash_pt": "3b109eb40e229e51086a89ab9eb2b895a7c9b68a7add1d5ec5fca8ef29159f3f",
       "backlinks": [],
       "backlink_source": "pending",
       "last_processed": null
