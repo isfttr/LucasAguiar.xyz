@@ -2,7 +2,7 @@
 date: 2026-10-15T15:05:00-03:00
 draft: true
 title: "Prompt Injection Through HTTP Headers [2026]: How It Reaches Your AI Agent and How to Defend"
-description: "HTTP headers are an overlooked prompt injection vector. A 217M-response scan found 7,959 sites sending AI-directed headers. Here's how they reach your model and how to defend."
+description: HTTP headers are an overlooked prompt injection vector. A 217M-response scan found 7,959 sites sending AI-directed headers. Here's how they reach your model and how to defend.
 featured_image: ""
 categories:
   - article
@@ -12,8 +12,8 @@ tags:
   - prompt-injection
   - agents
   - llm
+scheduledAt: 2026-10-23T17:16:00.000Z
 ---
-
 HTTP response headers are one of the least understood prompt injection vectors in AI applications, and most defenses ignore them. A threat-research team scanned the headers of 217 million crawled web responses in September 2026 and found **7,959 sites** sending text aimed at AI agents — including 30 outright injection attempts. Because an agent's fetch tool can pass headers straight into the model's context, any server you visit can in principle steer your agent. This guide explains how that happens and gives you a practical, defense-in-depth checklist to stop it.
 
 ## Why HTTP headers are a blind spot
