@@ -1,10 +1,10 @@
 ---
 date: 2026-10-21T11:37:17-03:00
-draft: true
+draft: false
 title: "iPhone Duo [2026]: is Apple's foldable worth it?"
 description: "iPhone Duo review: what first reviews say about the foldable display, app support, cameras and battery. Honest first impressions and a recommendation for most buyers."
 url: ""
-featured_image:
+featured_image: null
 categories:
   - article
 tags:
@@ -14,7 +14,6 @@ tags:
   - technology
   - review
 ---
-
 The iPhone Duo, Apple's first foldable, launches on October 23, starting at $1,999. The first full reviews landed on 10/21, and the consensus is clear: it impresses as a foldable — but most buyers should still wait.
 
 ## What the iPhone Duo does well
