@@ -4,7 +4,7 @@ draft: true
 title: "iPhone Duo [2026]: vale a pena o dobrável da Apple?"
 description: "Review do iPhone Duo: o que as primeiras avaliações dizem sobre tela dobrável, aplicativos, câmeras e bateria. Impressões e recomendação honesta para a maioria dos compradores."
 url: ""
-featured_image:
+featured_image: null
 categories:
   - article
 tags:
@@ -13,8 +13,8 @@ tags:
   - dobravel
   - tecnologia
   - review
+scheduledAt: 2026-10-22T17:12:19.161Z
 ---
-
 O iPhone Duo, primeiro dobrável da Apple, chega no dia 23 de outubro no Brasil a partir de R$ 21.999 (256 GB). As primeiras avaliações completas saíram em 21/10 e há um consenso claro: o aparelho impressiona como dobrável — mas a maioria dos compradores ainda deve esperar.
 
 ## O que o iPhone Duo faz de bom
