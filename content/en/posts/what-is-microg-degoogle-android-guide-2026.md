@@ -1,6 +1,6 @@
 ---
 date: 2026-10-20T15:01:43-03:00
-draft: true
+draft: false
 title: What Is microG and How to De-Google Your Android [2026]
 description: "Complete guide to microG: the open-source reimplementation of Google Play Services. How to de-Google your Android with LineageOS, F-Droid, UnifiedNlp and Aurora Store, and what breaks."
 url: ""
@@ -14,7 +14,6 @@ tags:
   - microg
   - f-droid
   - degoogle
-scheduledAt: 2026-10-22T17:13:35.434Z
 ---
 If you want to run Android without Google on top of it, microG is the piece that makes it realistic. It is a free and open-source reimplementation of the proprietary Google Play Services framework, and it lets apps that depend on Google APIs run on AOSP-based ROMs like LineageOS — without ever installing Google's closed-source code. This guide explains what microG is, what it can and cannot do in 2026, and the step-by-step path to a de-Googled phone that still receives push notifications and uses maps.
 
