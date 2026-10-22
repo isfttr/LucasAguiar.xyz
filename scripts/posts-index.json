@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T14:31:23.244Z",
+  "last_updated": "2026-10-22T17:41:33.079Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3225,6 +3225,27 @@
       "description_en": "Review do iPhone Duo: o que as primeiras avaliações dizem sobre tela dobrável, aplicativos, câmeras e bateria. Impressões e recomendação honesta para a maioria dos compradores.",
       "content_hash_en": null,
       "content_hash_pt": "3b109eb40e229e51086a89ab9eb2b895a7c9b68a7add1d5ec5fca8ef29159f3f",
+      "backlinks": [],
+      "backlink_source": "pending",
+      "last_processed": null
+    },
+    "what-is-microg-degoogle-android-guide-2026": {
+      "slug": "what-is-microg-degoogle-android-guide-2026",
+      "title_en": "What Is microG and How to De-Google Your Android [2026]",
+      "title_pt": "What Is microG and How to De-Google Your Android [2026]",
+      "tags": [
+        "android",
+        "privacy",
+        "microg",
+        "f-droid",
+        "degoogle"
+      ],
+      "categories": [
+        "article",
+        "tutorial"
+      ],
+      "description_en": "Complete guide to microG: the open-source reimplementation of Google Play Services. How to de-Google your Android with LineageOS, F-Droid, UnifiedNlp and Aurora Store, and what breaks.",
+      "content_hash_en": "64ba0c5d5f7cd38fb52ae074bb4fda38bf0bd3671b10386f484502777357ea4b",
       "backlinks": [],
       "backlink_source": "pending",
       "last_processed": null
