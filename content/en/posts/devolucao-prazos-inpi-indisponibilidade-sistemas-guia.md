@@ -1,9 +1,9 @@
 ---
-date: 2026-10-22T11:02:42-03:00
+date: 2026-10-22T14:02:42.000Z
 draft: true
-title: "INPI Deadline Reinstatement When Systems Are Down: Complete Guide (Ordinance 049/2021)"
-description: "When does INPI automatically reinstate deadlines that fall during a system outage? Guide to the 60-minute rule in INPI/PR Ordinance 049/2021, what to do and how to prove it."
-featured_image: ""
+title: 'INPI Deadline Reinstatement When Systems Are Down: Complete Guide (Ordinance 049/2021)'
+description: When does INPI automatically reinstate deadlines that fall during a system outage? Guide to the 60-minute rule in INPI/PR Ordinance 049/2021, what to do and how to prove it.
+featured_image: ''
 categories:
   - article
 tags:
@@ -11,6 +11,7 @@ tags:
   - deadlines
   - systems
   - intellectual-property
+translation_source_hash: a854b37bd8fb480ff645e710c4e4db67394dd41d1a2ceaf2684352a121c10769
 ---
 
 When INPI's e-Patentes, e-Marcas or filing systems go down, anyone with a pending case asks the same question first: *what about my deadlines?* Not every outage triggers deadline reinstatement — but outages lasting longer than a set window have an automatic reinstatement rule. This guide explains exactly how Ordinance INPI/PR No. 049/2021 works, when you can count on reinstatement, and what to do to avoid losing a deadline on an unstable day.
