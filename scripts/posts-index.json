@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T13:22:09.550Z",
+  "last_updated": "2026-10-23T17:43:47.736Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3246,6 +3246,26 @@
       ],
       "description_en": "Complete guide to microG: the open-source reimplementation of Google Play Services. How to de-Google your Android with LineageOS, F-Droid, UnifiedNlp and Aurora Store, and what breaks.",
       "content_hash_en": "64ba0c5d5f7cd38fb52ae074bb4fda38bf0bd3671b10386f484502777357ea4b",
+      "backlinks": [],
+      "backlink_source": "pending",
+      "last_processed": null
+    },
+    "prompt-injection-http-headers-guide-2026": {
+      "slug": "prompt-injection-http-headers-guide-2026",
+      "title_en": "Prompt Injection Through HTTP Headers [2026]: How It Reaches Your AI Agent and How to Defend",
+      "title_pt": "Prompt Injection Through HTTP Headers [2026]: How It Reaches Your AI Agent and How to Defend",
+      "tags": [
+        "ai",
+        "security",
+        "prompt-injection",
+        "agents",
+        "llm"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "HTTP headers are an overlooked prompt injection vector. A 217M-response scan found 7,959 sites sending AI-directed headers. Here's how they reach your model and how to defend.",
+      "content_hash_en": "f51a6657e87da1916efbcaa64657d6212d73d9844680db8055a8d52b2d14c43e",
       "backlinks": [],
       "backlink_source": "pending",
       "last_processed": null
