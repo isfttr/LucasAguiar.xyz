@@ -12,8 +12,8 @@ tags:
   - llm
   - automation
   - dev-tools
+scheduledAt: 2026-10-27T12:54:00.000Z
 ---
-
 The OpenAI CLI is the official command-line client for the OpenAI REST API. It hit the front page of Hacker News in October 2026 with more than two hundred points, and for good reason: it replaces hand-written `curl` calls with a tool that handles authentication, token usage, readable output and JSON parsing for you. Think of it as `gh` for GitHub, but for the OpenAI API — call models, generate images, upload files and submit batches straight from a terminal or a cron job.
 
 ## OpenAI CLI vs Codex CLI: what's the difference?
