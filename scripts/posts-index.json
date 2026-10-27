@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T17:43:47.736Z",
+  "last_updated": "2026-10-27T13:22:30.542Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3266,6 +3266,26 @@
       ],
       "description_en": "HTTP headers are an overlooked prompt injection vector. A 217M-response scan found 7,959 sites sending AI-directed headers. Here's how they reach your model and how to defend.",
       "content_hash_en": "f51a6657e87da1916efbcaa64657d6212d73d9844680db8055a8d52b2d14c43e",
+      "backlinks": [],
+      "backlink_source": "pending",
+      "last_processed": null
+    },
+    "openai-cli-guide-2026": {
+      "slug": "openai-cli-guide-2026",
+      "title_en": "How to Use the OpenAI CLI: The Official Terminal Client for the OpenAI API [2026]",
+      "title_pt": "How to Use the OpenAI CLI: The Official Terminal Client for the OpenAI API [2026]",
+      "tags": [
+        "openai",
+        "cli",
+        "llm",
+        "automation",
+        "dev-tools"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Complete guide to the official OpenAI CLI [2026]: installing, API key setup, chat and image commands, JSON output for scripts, and security tips.",
+      "content_hash_en": "892ee41ffa2b43c9a048ac7e713f6b5eb14e3533e461cf65a8ccb715e27afcf4",
       "backlinks": [],
       "backlink_source": "pending",
       "last_processed": null
