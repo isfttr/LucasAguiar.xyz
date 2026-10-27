@@ -1,6 +1,6 @@
 ---
 date: 2026-10-22T15:02:14-03:00
-draft: true
+draft: false
 title: "How to Use the OpenAI CLI: The Official Terminal Client for the OpenAI API [2026]"
 description: "Complete guide to the official OpenAI CLI [2026]: installing, API key setup, chat and image commands, JSON output for scripts, and security tips."
 featured_image: ""
@@ -12,7 +12,6 @@ tags:
   - llm
   - automation
   - dev-tools
-scheduledAt: 2026-10-27T12:54:00.000Z
 ---
 The OpenAI CLI is the official command-line client for the OpenAI REST API. It hit the front page of Hacker News in October 2026 with more than two hundred points, and for good reason: it replaces hand-written `curl` calls with a tool that handles authentication, token usage, readable output and JSON parsing for you. Think of it as `gh` for GitHub, but for the OpenAI API — call models, generate images, upload files and submit batches straight from a terminal or a cron job.
 
