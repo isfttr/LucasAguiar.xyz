@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T18:32:46.166Z",
+  "last_updated": "2026-10-28T14:57:25.746Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -3287,6 +3287,29 @@
       "description_en": "Complete guide to the official OpenAI CLI [2026]: installing, API key setup, chat and image commands, JSON output for scripts, and security tips.",
       "content_hash_en": "892ee41ffa2b43c9a048ac7e713f6b5eb14e3533e461cf65a8ccb715e27afcf4",
       "backlinks": [],
+      "backlink_source": "pending",
+      "last_processed": null
+    },
+    "flavio-bolsonaro-political-exile-brazil-2026": {
+      "slug": "flavio-bolsonaro-political-exile-brazil-2026",
+      "title_en": "Flávio Bolsonaro's 'Political Exile' vs. Brazil's 2026 Election Results: What the Record Shows",
+      "title_pt": "Flávio Bolsonaro's 'Political Exile' vs. Brazil's 2026 Election Results: What the Record Shows",
+      "tags": [
+        "brazil",
+        "elections-2026",
+        "bolsonaro",
+        "politics",
+        "judiciary",
+        "democracy"
+      ],
+      "categories": [
+        "article"
+      ],
+      "description_en": "Flávio Bolsonaro fled Brazil as a 'political exile' while Bolsonarismo won 121 Chamber seats and 29 Senate seats in the 2026 elections. The record, case by case.",
+      "content_hash_en": "d91b8022806f670c479908502320f5f2304b9c5986a68cad5465f1b5853d6985",
+      "backlinks": [
+        "muse-meta-termos-de-uso-problemas-responsabilidade"
+      ],
       "backlink_source": "pending",
       "last_processed": null
     }
