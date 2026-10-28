@@ -2,7 +2,7 @@
 date: 2026-10-28T11:23:41-03:00
 draft: false
 title: "Flávio Bolsonaro's 'Political Exile' vs. Brazil's 2026 Election Results: What the Record Shows"
-description: "Flávio Bolsonaro fled Brazil as a 'political exile' while Bolsonarismo won 121 Chamber seats and 29 Senate seats in the 2026 elections. The record, case by case."
+description: Flávio Bolsonaro fled Brazil as a 'political exile' while Bolsonarismo won 121 Chamber seats and 29 Senate seats in the 2026 elections. The record, case by case.
 featured_image: ""
 categories:
   - article
@@ -14,7 +14,6 @@ tags:
   - judiciary
   - democracy
 ---
-
 The narrative portraying Flávio Bolsonaro as a "political exile" must be examined against the results of Brazil's 2026 general elections. His party, the Liberal Party (PL), a major right-wing political force closely associated with former President Jair Bolsonaro, elected 121 members to the Chamber of Deputies and will hold 29 seats in the Federal Senate in 2027, making it the largest party in both chambers of Brazil's National Congress. The PL also won six state governorships.
 
 ## The Bolsonaro family grew stronger at the polls
@@ -57,7 +56,7 @@ His electoral defeat nevertheless prevented him from acquiring the distinct, tem
 
 ## What can — and cannot — be concluded
 
-Against this background, it is entirely legitimate to question the political circumstances surrounding Flávio Bolsonaro's departure from Brazil while facing personal criminal investigations, although those circumstances alone cannot establish his exclusive motivation for leaving. What can be documented is a recurring pattern among prominent Bolsonaro allies of seeking refuge abroad while confronting Brazilian criminal proceedings or convictions. What cannot reasonably be sustained is the assumption that receiving protection or asylum in the United States automatically constitutes proof that the individual is a victim of political persecution. Such a claim requires independent scrutiny of the underlying facts, the judicial proceedings, and the applicable legal standards, rather than treating an American decision as an unquestionable certificate of innocence or political victimhood.
+Against this background, it is entirely legitimate to question the political circumstances surrounding Flávio Bolsonaro's departure from Brazil while facing personal criminal investigation. What can be documented is a recurring pattern among prominent Bolsonaro allies of seeking refuge abroad while confronting Brazilian criminal proceedings or convictions. What cannot reasonably be sustained is the assumption that receiving protection or asylum in the United States automatically constitutes proof that the individual is a victim of political persecution. Such a claim requires independent scrutiny of the underlying facts, the judicial proceedings, and the applicable legal standards, rather than treating an American decision as an unquestionable certificate of innocence or political victimhood.
 
 Leia também:
 
