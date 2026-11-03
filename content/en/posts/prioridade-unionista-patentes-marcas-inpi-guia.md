@@ -1,9 +1,9 @@
 ---
-date: 2026-11-03T11:03:43-03:00
+date: 2026-11-03T14:03:43.000Z
 draft: true
-title: "Paris Convention Priority in Brazil: Complete Guide to Deadlines, Proof and How to Claim (art. 16 LPI)"
-description: "Complete guide to the Paris Convention priority right (CUP) for patents, trademarks and industrial designs at the INPI: deadlines, 180-day proof requirement, PCT and filing strategy."
-featured_image: ""
+title: 'Paris Convention Priority in Brazil: Complete Guide to Deadlines, Proof and How to Claim (art. 16 LPI)'
+description: 'Complete guide to the Paris Convention priority right (CUP) for patents, trademarks and industrial designs at the INPI: deadlines, 180-day proof requirement, PCT and filing strategy.'
+featured_image: ''
 categories:
   - article
 tags:
@@ -12,6 +12,7 @@ tags:
   - inpi
   - paris-convention
   - intellectual-property
+translation_source_hash: b720d0d7dc0f408fa376cff0e1784e7adce6c0c7fc42be9d1814845d879533db
 ---
 
 The right of priority under the Paris Convention (CUP) is usually the most misunderstood — and, at the same time, the most strategic — aspect of filing patents, trademarks and industrial designs in Brazil. Many applicants lose fatal deadlines, claim priority by mistake, or simply don't know that, used well, this tool preserves the original filing date for up to 12 months.
