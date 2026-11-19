@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T14:06:15.403Z",
+  "last_updated": "2026-11-19T18:04:49.495Z",
   "posts": {
     "10-obsidian-copilot": {
       "slug": "10-obsidian-copilot",
@@ -807,13 +807,9 @@
         "tutorial"
       ],
       "description_en": "The saga of plugging WhatsApp into a Hermes Agent running in Docker inside an LXC on Proxmox: from EACCES in npm to the ghostly 'disconnected' and the Brazilian ninth digit.",
-      "content_hash_en": "2a2971de8784c1b6951e68871a344ec4fe532e17092be12bde995eba502ee488",
-      "backlinks": [
-        "como-ter-dois-hermes-gateways",
-        "google-search-console-agente-hermes",
-        "how-to-update-open-webui-2026"
-      ],
-      "backlink_source": "ai",
+      "content_hash_en": "8b6a3f7af69497b734aee96591552db76cd5c969807beb5cef7d878bdc448dbe",
+      "backlinks": [],
+      "backlink_source": "pending",
       "last_processed": "2026-11-19T14:06:10.493Z"
     },
     "inpi-esgotamento-cotas-tramite-prioritario-marcas-ecommerce": {
